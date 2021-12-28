@@ -3,7 +3,7 @@ id: quiz-options
 title: Quiz options
 ---
 
-# Quiz Options
+# Quiz options
 When creating a quiz you can open the Quiz settings to alter the game behaviour.
 These options will affect the complete quiz!
 
