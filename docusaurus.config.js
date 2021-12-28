@@ -51,13 +51,13 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'editor/round-modes/round-modes',
+            docId: 'advanced/round-modes/round-modes',
             position: 'left',
             label: 'Round modes',
           },
           {
             type: 'doc',
-            docId: 'editor/question-modes/question-modes',
+            docId: 'advanced/question-modes/question-modes',
             position: 'left',
             label: 'Question modes',
           }

@@ -14,7 +14,9 @@ Please take a few moments to get familiar with the social network. It will only 
 
 ## Players and creators
 
-This guide is split up in two sections:
-* A guide for QuizWitz Players
-* A guide for QuizWitz Creators
+This guide is split up in following sections:
+
+* A guide for Players
+* A guide for Quizmakers
+* A guide for Quizmasters
 
