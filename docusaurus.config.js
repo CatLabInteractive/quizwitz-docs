@@ -51,13 +51,13 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'quiz-editor/round-modes/round-modes',
+            docId: 'editor/round-modes/round-modes',
             position: 'left',
             label: 'Round modes',
           },
           {
             type: 'doc',
-            docId: 'quiz-editor/question-modes/question-modes',
+            docId: 'editor/question-modes/question-modes',
             position: 'left',
             label: 'Question modes',
           }
@@ -71,7 +71,7 @@ const config = {
             items: [
               {
                 label: 'Getting started',
-                to: '/docs/getting-started/intro',
+                to: '/docs/intro',
               },
             ],
           },
