@@ -60,6 +60,12 @@ const config = {
             docId: 'advanced/question-modes/question-modes',
             position: 'left',
             label: 'Question modes',
+          },
+          {
+            type: 'doc',
+            docId: 'faq',
+            position: 'left',
+            label: 'FAQ',
           }
         ],
       },
@@ -72,6 +78,10 @@ const config = {
               {
                 label: 'Getting started',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Frequently asked questions',
+                to: '/docs/faq',
               },
             ],
           },
