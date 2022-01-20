@@ -5,13 +5,13 @@ id: alphabet
 # Alphabet
 Traditional round where each question has a unique label. Players need to match the right question to the right label.
 
-![Screenshot of an alphabet round in the quiz editor](../../../assets/images/round-modes/alphabet-round.png)
-
 ![Screenshot of an alphabet round while playing](../../../assets/images/round-modes/alphabet-answer-screen.png)
 
 ## Alphabet labels
 In Alphabet rounds each question is assigned a unique Label (traditionally this is the first letter of the answer, but
 feel free to be creative). 
+
+![Screenshot of an alphabet round in the quiz editor](../../../assets/images/round-modes/alphabet-round.png)
 
 Similar to traditional rounds, players will get a list of fields for each question in the round and will be able to 
 change their answers until the round finishes. Different from traditional rounds though, these fields are not in the 
