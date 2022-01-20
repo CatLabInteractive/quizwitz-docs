@@ -9,7 +9,7 @@ Traditional round where each question has a unique label. Players need to match 
 
 ## Alphabet labels
 In Alphabet rounds each question is assigned a unique Label (traditionally this is the first letter of the answer, but
-feel free to be creative). 
+feel free to be creative). All questions must be 'open questions'.
 
 ![Screenshot of an alphabet round in the quiz editor](../../../assets/images/round-modes/alphabet-round.png)
 
