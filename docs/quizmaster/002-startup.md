@@ -10,6 +10,10 @@ the quiz editor. Click ‘Start QuizWitz PRO’.
 
 ![Start QuizWitz PRO](../../assets/images/start-quizwitz-pro.png)
 
+You can also start quizzes straight from your collection.
+
+![Start QuizWitz PRO from your collection](../../assets/images/start-quizwitz-live.png)
+
 ## Start with the Master Code
 
 Once started, the main screen will open and you can press 'start'. Be sure to never show the Master Code
