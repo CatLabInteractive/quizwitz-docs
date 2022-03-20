@@ -1,7 +1,7 @@
 ---
-id: multiple-choice
-name: Multiple choice
+id: multiple-choice-question
+name: Multiple choice question
 ---
 
 # Multiple choice
-Online soon.
+A reguler multiple-choice question.
