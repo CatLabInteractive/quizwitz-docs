@@ -66,6 +66,16 @@ The available modifiers are:
 * mainColor
 * accentColor
 * timerBackgroundColor
+* headerTextColor
+* optionTextColor
+* optionColors (4 colors comma-seperated)
+* optionBorderColors (4 colors comma-seperated)
+
+Additionally, you can set a default font:
+* defaultFont
+* headerFont
+
+These fonts must be URLs to publicly available font files.
 
 Each of these modifiers can contain a single color in html hex format (ff0000), or a linear gradient by providing 
 multiple colors divided by a minus symbol (-, for example ff1b6b-45caff). (Note that the # symbol should not be added)
