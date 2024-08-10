@@ -51,15 +51,21 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'quiz-editor/round-modes/round-modes',
+            docId: 'advanced/round-modes/round-modes',
             position: 'left',
             label: 'Round modes',
           },
           {
             type: 'doc',
-            docId: 'quiz-editor/question-modes/question-modes',
+            docId: 'advanced/question-modes/question-modes',
             position: 'left',
             label: 'Question modes',
+          },
+          {
+            type: 'doc',
+            docId: 'faq',
+            position: 'left',
+            label: 'FAQ',
           }
         ],
       },
@@ -72,6 +78,10 @@ const config = {
               {
                 label: 'Getting started',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Frequently asked questions',
+                to: '/docs/faq',
               },
             ],
           },
@@ -112,7 +122,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-    }),
+    })
 };
 
 module.exports = config;
