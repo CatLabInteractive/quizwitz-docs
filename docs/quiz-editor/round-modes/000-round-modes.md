@@ -1,6 +1,6 @@
 ---
 id: round-modes
-name: Round modes
+title: Round modes
 ---
 
 # Round modes
