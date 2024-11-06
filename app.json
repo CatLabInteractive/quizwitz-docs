@@ -9,8 +9,8 @@
       {
         "type":        "startup",
         "name":        "web check",
-        "description": "Checking if the app responds to the /status endpoint",
-        "path":        "/main.js"
+        "description": "Checking if the app responds to the /sitemap.xml endpoint",
+        "path":        "/sitemap.xml"
       }
     ]
   }
