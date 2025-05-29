@@ -1,11 +1,19 @@
 ---
-id: advanced-parameters
-title: "Advanced parameters"
+id: advanced-player-parameters
+title: Advanced parameters
 ---
 
-Following [query string parameters](https://en.wikipedia.org/wiki/Query_string) can be used to change the 
-behaviour of the game client in some ways. Append the parameters to the link you receive when starting an entry 
-using 'advanced game settings'.
+# ⚙️ Advanced parameters
+
+You can use query string parameters to customize how the QuizWitz game client behaves. These parameters can be appended to any game link using the **Advanced Game Settings** feature.
+
+Example:
+
+https://play.quizwitz.com/13305:qyHBEVVBqT?theme=emerald
+
+📘 [What are query strings?](https://en.wikipedia.org/wiki/Query_string)
+
+---
 
 Available parameters:
 ---------------------
@@ -51,3 +59,11 @@ Available parameters:
 | `showDepartmentRanking`  | 1           | 0           | Set to 0 to disable showing the department ranking in between rounds.
 | `preloadVideo`           | 0           | 1           | Set to 1 to force preloading all video fragments.
 | `n`                      | /           | `_prompt_`  | Set (or request by setting to `_prompt_`) a name for the player group that is playing the game. This name is sent to the quiz report.
+
+---
+
+## 💡 Usage tips
+
+- Multiple parameters can be combined using `&`
+- Use these options with **Advanced Game Settings** when sharing or embedding links
+- Many options are useful for live stream optimization or multilingual events

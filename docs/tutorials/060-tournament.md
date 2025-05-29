@@ -3,53 +3,67 @@ id: tournament
 title: Tournament
 ---
 
-This tutorial will show you how to use QuizWitz Tournament mode. The Tournament mode allows players 
-to play your quiz whenever they want on their own device. Their score is then recorded on a global leaderboard 
-that can be displayed in your venue.
+# Tournament
 
-## Create the quiz
-When creating the quiz, make sure the game is not too long. If visitors need to spend too much time on the quiz, 
-they are likely not going to finish it. Only players who have actually finished the whole quiz will be displayed 
-on the leaderboard.
+This tutorial will show you how to use QuizWitz Tournament mode. Tournament mode lets players join and play your quiz whenever they want — on their own device. Their scores are recorded on a global leaderboard that you can display in your venue.
 
-### Random question selection
-You may want to make the game select a random selection of questions from a pool of available questions. This way each 
-player will have a unique quiz, and players who play multiple times will get unique questions each time. 
+---
 
-To make the game select random questions, you need to:
+## 📝 Create the quiz
 
-* Choose 'Quiz' in the 'Create' model and give your quiz a name. Make sure that the language is set correctly
-* Create 3 rounds and give them a name (ie: Round 1, Round 2, Round 3)
-* In the 'Round settings' (little cog icon on the right), set the 'Only show x questions' flag and set the amount of
-  questions to 5. Also set the 'Random question order' flag, otherwise the game will always select the first 5 questions.
-  Repeat this for every round in the quiz.
+When building a tournament quiz, keep it short and engaging. If visitors need to spend too much time on the quiz, they might not finish.  
+**Only players who finish the whole quiz will be listed on the leaderboard.**
 
-## Start the tournament
-Tournaments can only be started from the "Advanced game options". Select "Play quiz" and choose "Advanced game options".
+### 🎲 Random question selection
 
-![A screenshot of the 'Start quiz' menu](../../assets/images/tutorials/tournament/tournament-start.png)
+Make the game select a random set of questions from your pool, so every playthrough feels unique — and returning players get different questions.
 
-In the resulting popup, select the "Tournament" game mode and click the "Generate play link" button.
+**Setup example:**
+- Choose **Quiz** in the Create menu and name your quiz. Set the correct language.
+- Create 3 rounds, naming them (e.g. Round 1, Round 2, Round 3).
+- In each **Round settings** (cog icon), enable **Only show x questions** and set it to 5.
+- Enable **Random question order** so the game doesn't always pick the same questions first.
 
-![A screenshot of the 'Advanced game options' menu](../../assets/images/tutorials/tournament/tournament-advanced-game-settings.png)
+Repeat these steps for every round in the quiz.
+
+---
+
+## 🚀 Start the tournament
+
+Tournaments can only be started from the **Advanced game options** menu.
+
+1. Select **Play quiz** and choose **Advanced game options**.
+
+   ![A screenshot of the 'Start quiz' menu](../../assets/images/tutorials/tournament/tournament-start.png)
+
+2. In the popup, select the **Tournament** game mode and click **Generate play link**.
+
+   ![A screenshot of the 'Advanced game options' menu](../../assets/images/tutorials/tournament/tournament-advanced-game-settings.png)
 
 You will now receive two links:
- * Player link: this is the link that may be communicated to the players. This is not required, as that link 
-is also available as a QR code on the leaderboard.
- * Leaderboard link: this link should be opened on a display in the venue. This will display the current player ranking,
-in addition to a QR code that players can scan to play the game.
 
-### Launching the leaderboard
-In order to launch the leaderboard, you must login. Click "Login to add a profile" and enter your password. Your profile 
-will then be added to the profile select window and you can click it to start the leaderboard.
+- **Player link** — Share this with your players (or let them scan the QR code from the leaderboard).
+- **Leaderboard link** — Open this on a display at your venue to show the live rankings and the QR code players can scan to join.
 
-![A screenshot of the leaderboard app](../../assets/images/tutorials/tournament/leaderboard-start.png)
+---
 
-Once the first results start coming in, player scores will be displayed on the leaderboard.
+## 🏆 Launching the leaderboard
+
+To launch the leaderboard, you need to log in:
+
+1. Click **Login to add a profile** and enter your password.
+2. Select your profile from the window to start the leaderboard.
+
+   ![A screenshot of the leaderboard app](../../assets/images/tutorials/tournament/leaderboard-start.png)
+
+Once the first players finish their games, their scores will be displayed live:
 
 ![A screenshot of the leaderboard app](../../assets/images/tutorials/tournament/leaderboard.png)
 
-## Email
-You will also receive an email with both the player- and the leaderboard link. This way you won't lose the links.
+---
+
+## 📧 Email confirmation
+
+You'll also get an email containing both the player and leaderboard links — handy so you don't lose them!
 
 ![A screenshot of the tournament email](../../assets/images/tutorials/tournament/tournament-email.png)

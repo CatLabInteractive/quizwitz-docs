@@ -3,34 +3,55 @@ id: round-options
 title: Round options
 ---
 
-# Round options
-Each round has a specific type. Choose one per round. The standard is Multiple Choice (Trivia). 
-Feel free to test and try them all. In 'Round options' we list all special options for each round type.
+# 🔄 Round options
 
-![Select a round type](../../assets/images/round-types.png)
+Each round has a specific **type**. The default is **Multiple Choice (Trivia)**, but feel free to test and experiment with all available types. This page explains the settings and attachments you can configure per round.
 
-Click the 'gear' icon to open the round options:
+📘 For a detailed overview of all round types, visit the [round types documentation](../advanced/round-modes/round-modes).
 
-![Open round options](../../assets/images/open-round-options.png)
-![Round options](../../assets/images/round-options.png)
+---
 
-Following options are applicable to most content types:
+## 🔧 Configuring a round
 
- * **Only show __ questions**: Show only a certain amount of questions out of the complete set.
- * **Random question order**: This randomizes the order in which the questions are shown.
- * **Show round intro**: Show an animation and the round title before the round starts.
- * **Show round outro (interim score)**: Show the rankings after this round.
- * **Group all feedback in a single screen**: force the question feedbacks/results to be shown in one screen after the round has ended.
- * **Show all question feedback at the end of the round**: This setting makes the game postpone the presentation of the question feedbacks/results until after the last question has been answered.
- * **Force feedback after each individual question**: This makes sure the question feedback/result is shown immediately after each question, which means that for an open question, you'll have to wait to continue until it has been judged.
+To configure a round’s options, click the gear icon in the round panel:
 
-Next, you can add some text and directions for the quiz host. It will only be shown on the quizmaster's screen at the start of the round.
+| ![Open round options](../../assets/images/open-round-options.png) | ![Round options](../../assets/images/round-options.png) |
+|:--:|:--:|
+| *Opening round options* | *Round configuration panel* |
 
-## Attachments
-Attachments that can be attached to the quiz include:
+---
 
-* **Before round** is shown/played right after the round intro
-* **After round** is shown/played after the round outro
-* **Before round outro** is shown/played after the last question
-* **During round outro**: (audio only) is played during the round outro
+## ⚙️ General round options
 
+The following options are available for most round types:
+
+- **Only show _X_ questions** — Limits the round to a specific number of questions
+- **Random question order** — Shuffle the question order within the round
+- **Show round intro** — Display an animated title before the round begins
+- **Show round outro (interim score)** — Reveal rankings at the end of the round
+- **Group all feedback in a single screen** — Collect question feedback in one block after the round ends
+- **Show all question feedback at the end of the round** — Delay question feedback until the round ends
+- **Force feedback after each individual question** — Ensure immediate feedback
+  > ⚠️ This only takes effect in round and question types where feedback would otherwise be delayed, such as open questions or lightning rounds.
+
+📘 See [question modes](../advanced/question-modes/question-modes) for more information on feedback timing and behavior.
+
+---
+
+## 📜 Quizmaster instructions
+
+You can add a custom **round introduction text** that will appear only on the [Quizmaster app](../quizmaster/introduction) at the start of the round. Use this to brief the presenter or add a personal touch.
+
+---
+
+## 📎 Attachments
+
+Enhance your round with media shown at specific moments:
+
+- **Before round** — Displayed after the round intro animation
+- **After round** — Shown after the round outro
+- **Before round outro** — Shown after the last question, just before the outro
+- **During round outro** — *(audio only)* Plays while rankings are displayed
+- ...
+
+📘 For supported file types and usage tips, see the [attachments guide](../editor/attachments).

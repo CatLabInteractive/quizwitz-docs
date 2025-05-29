@@ -3,57 +3,75 @@ id: conference-booth
 title: Conference booth
 ---
 
-This tutorial will show you how to use QuizWitz at a conference booth.
+# Conference booth
+
+This tutorial will show you how to run QuizWitz at your conference booth — an easy, interactive way to attract visitors and gather leads!
 
 ![A photo of a Marvel conference booth using QuizWitz](../../assets/images/photos/marvel.jpg)
 
-## Creating the Quiz
-When creating a quiz for a conference booth, it is good to keep in mind that some players will stick around for a 
-couple of games. That is why it is important to make sure you have enough content to entertain players, ie: enough 
-questions that are randomly selected to make sure that every game is unique.
+---
 
-In our experience, a game of 15 questions split up in 3 rounds is ideal for conference booths. To have some variety in 
-the questions, you should provide 3 times that; but preferably even more.
+## 📝 Creating the quiz
 
-### Create the Quiz
-* Choose 'Quiz' in the 'Create' model and give your quiz a name. Make sure that the language is set correctly
-* Create 3 rounds and give them a name (ie: Round 1, Round 2, Round 3)
-* In the 'Round settings' (little cog icon on the right), set the 'Only show x questions' flag and set the amount of 
-questions to 5. Also set the 'Random question order' flag, otherwise the game will always select the first 5 questions.
-Repeat this for every round in the quiz.
+When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.  
+To keep things fresh, make sure you have plenty of questions — enough to randomize and make each playthrough unique.
 
-![A photo of a Marvel conference booth using QuizWitz](../../assets/images/tutorials/conference/round_settings.png)
+**Recommended setup:**
+- 15 questions split into 3 rounds
+- Create at least 3× that many questions for variety — more is better!
 
-* Now start [adding questions to each round](/docs/editor/writing-questions).
-(Note that you can use the 'Import' button to copy-paste content form excel.)
+### 🎲 Step-by-step quiz creation
+
+1. **Choose “Quiz”** in the Create menu and give your quiz a name. Set the correct language.
+2. **Add 3 rounds** and name them (for example: Round 1, Round 2, Round 3).
+3. In the **Round settings** (cog icon), enable **“Only show x questions”** and set the number to 5.  
+   Also enable **“Random question order”** — otherwise the game will always pick the first 5 questions.  
+   Repeat for each round.
+
+![Screenshot of round settings for a conference booth](../../assets/images/tutorials/conference/round_settings.png)
+
+4. **Add questions to each round.**  
+   You can [write questions](/docs/editor/writing-questions) or use the Import button to quickly add content from Excel.
 
 :::tip
-Use lots of images and video fragments! 
-It really makes the game more entertaining.
+Use lots of images and video clips — they make the game much more entertaining!
 :::
 
-### Random question selection
-Every time the quiz runs, the game will now select 5 questions from each round. The game will make sure that the 
-questions are distributed equally, so that questions are not repeated too soon.
+---
 
-## Launch the Quiz
-The easiest way to launch the quiz now is to click 'Play quiz' and select 'Start Conference Mode'. This will start the 
-game in the default conference mode: players connect their phones to the website displayed on the screen; the booth 
-host presses Enter when everyone is ready and the game players automatically. Once the game is over, the host presses 
-enter again and the game goes back to the connecting stage.
+### 🔀 How random selection works
 
-### Advanced game options
-If you want to make a few more tweaks to how the game works, you can select 'Advanced game options' and select 
-'Conference mode' in the selectbox at the top. The system will then create a unique link that contains all options 
-you have selected.
+Each time the quiz runs, QuizWitz will select 5 random questions from each round. The system will distribute questions fairly so repeats are minimized.
 
-An especially interesting option is the 'Ask players email' checkbox, as this can be used to collect the email address 
-of your booth visitors. Please do make sure to set a 'Privacy Policy URL' when selecting 'Ask players email'.  
+---
 
-Launching a game through the 'Advanced game options' URL is pretty much the same as starting it from the editor, 
-except that you will have to Login at the start of the first game, to get access to your content and check your licenses.
+## 🚀 Launch the quiz
 
-![A screenshot of the advanced game settings](../../assets/images/tutorials/conference/advanced_game_settings.png)
+The fastest way to launch your conference quiz:
+1. Click **Play quiz**.
+2. Select **Start Conference Mode**.
 
-## Theming
-Please follow our [Theming guide](/docs/advanced/theming) to change how the game looks.
+In this mode, players use their phones to connect to the game link on the main screen.  
+When everyone is ready, the booth host presses Enter — and the game runs automatically.  
+After the game ends, pressing Enter brings you right back to the connection screen for the next group.
+
+---
+
+## ⚙️ Advanced game options
+
+Want more control?  
+Choose **Advanced game options** and select **Conference mode** in the mode selector.  
+You’ll get a unique link with all your chosen options.
+
+- **Ask players’ email:**  
+  Collect visitor emails for your booth! If you enable this, be sure to also set your **Privacy Policy URL**.
+- When launching a game via the advanced options link, you may be prompted to log in before starting — this checks your content and licenses.
+
+![Screenshot of advanced game settings](../../assets/images/tutorials/conference/advanced_game_settings.png)
+
+---
+
+## 🎨 Theming
+
+Want to match the game to your booth branding?  
+See our [Theming guide](/docs/advanced/theming) for tips on customizing your QuizWitz experience.

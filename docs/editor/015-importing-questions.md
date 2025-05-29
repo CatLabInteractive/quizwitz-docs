@@ -3,23 +3,69 @@ id: import-questions
 title: Import questions
 ---
 
-# Import questions
+# 📥 Import questions
 
-You can import questions from Excel and other spreadsheet software by clicking the 'import' button on top of any round.
+There are two ways to quickly add questions to a round in QuizWitz:
 
-![Import questions](../../assets/images/import-questions.png)
+- Import existing content from the **QuizWitz Library**
+- Paste a list of questions from a **spreadsheet**
 
-Make sure that you follow this order of columns when copy-pasting from excel:
+Both options are accessible from within any round.
 
-  1. Short question (for display)
-  2. Correct answer (or correct multiple choice option)
-  3. Wrong multiple choice option 1 (leave blank for open questions)
-  4. Wrong multiple choice option 2 (leave blank for open questions)
-  5. Wrong multiple choice option 3 (leave blank for open questions)
-  6. Short explanation of the answer (for display)
-  7. Long question (for display on the quizmaster tablet)
-  8. Long explanation of the answer (for display on the quizmaster tablet)
+---
 
-![Import questions dialog](../../assets/images/import-questions-dialog.png)
+## 📚 Import from the QuizWitz Library
 
-Now click Import and your questions should be automatically created in your round.
+Use the **QuizWitz Library** tab to search and import questions, rounds, or quizzes created by yourself or other creators.
+
+1. Open the round where you want to import content
+2. Click the **QuizWitz Library** tab
+3. Use filters like language, collection, type, category, or tags
+4. Select one or more entries
+5. Click **Add X items** to insert the selected content into your quiz
+
+![QuizWitz Library](../../assets/images/import/import-from-quizwitz.png)
+
+> ✅ Use this method to reuse high-quality content or combine multiple public Round-Abouts into a larger quiz.
+
+---
+
+## 📋 Import from a spreadsheet
+
+To quickly create many questions at once, use the **Import from spreadsheet** tab.
+
+1. Open a round
+2. Click the **Import from spreadsheet** tab
+3. Paste rows of **tab-separated** values (copied from Excel, Google Sheets, etc.)
+4. Click **Import questions**
+
+![Import from spreadsheet](../../assets/images/import/import-from-spreadsheet.png)
+
+---
+
+### 🗂️ Format for pasting
+
+Each row must contain the following columns in this exact order:
+
+1. **Short question** — Displayed on the player screen
+2. **Correct answer**
+3. **Wrong answer 1** (leave blank for open questions)
+4. **Wrong answer 2**
+5. **Wrong answer 3**
+6. **Short feedback** — Displayed on the player screen after answering
+7. **Long question** *(optional)* — Displayed on the quizmaster screen
+8. **Long feedback** *(optional)* — Explanation for the quizmaster to read aloud
+
+> 📌 The last two columns are only used in [QuizWitz Live](../quizmaster/introduction), but they must still be included (even if left empty).
+
+---
+
+## ✅ After importing
+
+Whether importing from the library or a spreadsheet:
+
+- Review your questions for formatting and clarity
+- Update any metadata like category, round type, or attachments
+- Don’t forget to **save your quiz**
+
+📘 Want to enhance your questions further? Continue in the [Writing questions guide](../editor/writing-questions).

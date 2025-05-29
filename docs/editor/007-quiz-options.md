@@ -3,60 +3,80 @@ id: quiz-options
 title: Quiz options
 ---
 
-# Quiz options
-When creating a quiz you can open the Quiz settings to alter the game behaviour.
-These options will affect the complete quiz!
+# ⚙️ Quiz options
 
-![Open quiz options](../../assets/images/open-quiz-options.png)
+When creating a quiz, you can open the **Quiz settings** panel to configure global behavior and presentation options. These settings apply to the **entire quiz**.
 
-The quiz options menu will slide open:
+| ![Open quiz options](../../assets/images/open-quiz-options.png) | ![Quiz options](../../assets/images/quiz-options.png) |
+|:--:|:--:|
+| *Opening the quiz options panel* | *Quiz settings overview* |
 
-![Quiz options](../../assets/images/quiz-options.png)
+---
 
-## Question timer
-This will set the max. time for all questions in the quiz. Open questions will receive double the time by default.
+## 🌐 Languages
 
-This is set on 30 seconds by default, but we recommend 20 seconds for online live streamed quizzes.
-You can edit the time factor on the level of the individual questions.
+Select the language in which you're writing the quiz. You can add additional translations later.
 
-## Languages
-Here, you can select which language the questions will be created in.
+---
 
-## Themes
-Select the theme you want to display. This changes the design for your quiz. The standard theme is named 'QuizWitz'.
-Your profile or organization may have access to multiple themes.
+## 🎨 Themes
 
-## Attachments
-Attachments that can be attached to the quiz include:
+Choose a visual theme for your quiz.
+- The default theme is **QuizWitz**
+- Your organization may have access to custom themes
+- Themes affect background, colors, and layout
 
- * **Before quiz** is shown/played when the quiz starts
- * **After quiz** is shown/played after the game has finished (after the player ranking screen)
- * **Client Logo** & (alternative): any image uploaded here will be displayed in the game in the 'client logo' container
- * **Wait Screen**: in live games this attachment is shown in between questions. Use an image of 1920x1080 size
- * **Background**: in some themes this attachment allows you to replace the background of the design
- * **Connect Screen**: this slot is only in use in 'conference' and 'live' modes. It contains attachments that are shown/displayed
-   during the connect phase of the game (while players are connecting to the game, before the game actually starts) and
-   each attachment type has a different use:
-   * **Images** will be displayed in full, this way you can alter how the connect screen looks.
-   * **Audio** will be played in a loop. You can upload up to 15 minutes of music that will be played while the players are connecting.
-   * **Video** will be played every 5 minutes. This way you can upload an instruction video or ads to be displayed before the quiz.
-     We have prepared a few example [instructional videos](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) 
-     for you to use.
- * **During game outro** (audio only) can be used to replace the music that is played during the game outro (= winner reveal)
- 
-## Extra options
-These options can be checked for use on the complete quiz:
+📘 See the [Emerald theme documentation](../advanced/emerald-theme) for more details on customizing visuals with this theme.
 
-* **Enable multiplayer**: whether you want to play with friends or not. This is checked standard.
-* **Random round order**: This randomizes the order in which the rounds are shown. (do not select this when creating a quiz for a quiz host)
-* **Allow users to rate questions**: This will allow players to rate your questions after each round. Only select this when necessary, as it slows down the pacing of your play through.
-* **Enable comments**: Allow QuizWitz members to comment on your quiz after publishing.
-* **Speedup all answered**: When selected, the game continues when everyone answered a question. 
-    Deselect to wait for the timer to run out. Tip: if you work with Time based scoring, keep this option selected.
+---
 
-## Share or embed
-Share or embed generates sharing links with Advanced Game Settings.
+## 📎 Attachments
 
-## Quizmaster copy
-Here you can add texts and instructions for the Presenter that will be displayed on the Quizmaster tablet.
-Note the option to add info for the introduction and the quiz ending.
+Enhance your quiz with visuals, audio, or video in specific slots:
+
+- **Before quiz** — Shown when the quiz starts
+- **After quiz** — Played after the final results screen
+- **Client logo / alternative logo** — Displayed throughout the quiz interface
+- **Wait screen** — Displayed between questions in live games (1920×1080 image recommended)
+- **Background** — Optional background replacement (depends on theme)
+- **Connect screen** — Used in [Live](../quizmaster/introduction) and [Conference](../tutorials/conference-booth) modes:
+  - **Images** — Fullscreen background visuals
+  - **Audio** — Looped music (max 15 min)
+  - **Video** — Played every 5 minutes, useful for ads or instructions
+
+🎥 You can use our [ready-made instructional videos](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) to help players connect.
+
+- **During game outro** — (Audio only) Plays over the winner reveal screen
+
+📘 For technical details and recommendations, see the [attachments guide](../editor/attachments).
+
+---
+
+## 🔧 Extra options
+
+Optional settings for customizing gameplay and visibility:
+
+- **Enable multiplayer** — Default ON. Allows party play with friends
+- **Random round order** — Shuffle the order of rounds
+  > ⚠️ Not recommended when preparing for [QuizWitz Live](../quizmaster/introduction)
+- **Allow users to rate questions** — Lets players rate each question after a round
+- **Enable comments** — Allow feedback after publishing
+- **Speed up when all answered** — If enabled, the game skips ahead when all players have answered
+  > ⏱️ Recommended when using **Time-based scoring**
+
+---
+
+## 📤 Share or embed
+
+Generates share links or embed code with advanced game settings.
+
+---
+
+## 📜 Quizmaster copy
+
+Add custom presenter instructions for:
+
+- **Quiz introduction**
+- **Quiz outro**
+
+These are visible on the [Quizmaster app](../quizmaster/introduction) when using QuizWitz Live.

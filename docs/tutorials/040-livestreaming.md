@@ -1,13 +1,13 @@
 ---
 id: livestream-tutorial
-title: Hosting a livestream quiz
+title: Livestream quiz
 ---
 
-# 📺 How to host a QuizWitz Live quiz on Twitch (or other platforms)
+# 📺 Hosting a livestream quiz
 
 With QuizWitz Live, it’s easy to host a fully interactive livestream quiz on platforms like **Twitch**, **YouTube Live**, or **Facebook Live** — even for large audiences. This guide walks you through setup, delay handling, and presentation best practices.
 
-> 🧭 If you're new to the Quizmaster app, start with the [**Quizmaster startup guide**](../startup).
+> 🧭 If you're new to the Quizmaster app, start with the [**Quizmaster startup guide**](../quizmaster/002-startup.md).
 
 ---
 
