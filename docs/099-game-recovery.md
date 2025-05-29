@@ -5,7 +5,7 @@ title: ⚠️ Live Crash Recovery
 
 # ⚠️ Live Crash Recovery
 
-Did your game freeze? Did the tab close by accident? [**QuizWitz Live**](../introduction) includes a built-in recovery system to help you get back on track — without losing your progress.
+Did your game freeze? Did the tab close by accident? [**QuizWitz Live**](quizmaster/001-introduction.md) includes a built-in recovery system to help you get back on track — without losing your progress.
 
 ---
 
