@@ -77,7 +77,7 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Frequently asked questions',
+                label: 'FAQ',
                 to: '/docs/faq',
               },
             ],
