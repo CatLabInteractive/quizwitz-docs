@@ -1,51 +1,96 @@
 ---
 id: create-quizzes
-title: Create Quizzes
+title: Create quizzes
 ---
 
-# Create a Full Quiz
-So you want to create a Round-About for the community? Start on the main menu.
-Choose a Create, and pick Quiz from the dropdown.
+# 🧠 Create a Full Quiz
 
-## Choose a title and language
-Choose a title for your Quiz and select a language. Note that you can add additional languages / translations afterwards.
+Want to build a complete quiz experience for players or events? This guide walks you through creating a full quiz using multiple rounds — including your own questions or Round-Abouts you've collected.
+
+---
+
+## 🎬 Getting started
+
+From the main menu:
+
+1. Click **Create**
+2. Choose **Quiz** from the dropdown
 
 ![QuizWitz create quiz](../../assets/images/create-quiz.png)
 
-## Adding rounds and questions
-Let's start quiz-making! 
+---
 
-First, you can add rounds by clicking Add new round. This will add one and give you the following options on the left hand side:
+## ✏️ Title and language
 
- * Set a name for the round.
- * Choose a category.
- * Import Questions. To know more, click on the link below.
+Give your quiz a title and choose the main language.  
+You can add **translations** later if needed — no need to decide everything upfront.
+
+---
+
+## ➕ Add rounds and questions
+
+Click **Add new round** to begin building your quiz. Each round can include its own settings and structure.
+
+On the left sidebar, you’ll be able to:
+
+- Name the round
+- Choose a category
+- [Import questions](../editor/import-questions) in bulk
 
 ![Create new round in quiz](../../assets/images/quiz-add-round.png)
 
-In the main menu, you can...
+In the main editor, you can:
 
-* Save your work regularly.
-* Test and play your quiz whenever you want!
-* Publish your quiz when you are ready, if you want. You will need to add 14 or more questions to do this. Keep in mind this will make your Round-About available to all QuizWitz members.  You can unpublish them if you need to. Remember, you don't have to publish if you added personal questions.
-* Remove a Quiz if you don't need it anymore.
+- Add and edit individual questions
+- Reorder rounds or questions using the **arrow buttons**
+- Delete rounds or questions using the **trash bin icon**
 
-You can use the arrows up & down to move Rounds and Questions. The trash bin icon can delete something for you.
+> 💡 Use the **Import questions** tool to quickly add multiple questions at once. Just follow the on-screen instructions and [check that everything imported correctly](../editor/import-questions).
 
-If you want to add multiple questions at once, you can use the import questions option. 
-Follow the instructions to add all the information in one go. Make sure to check if everything was imported as planned.
+---
 
-## Testing & playing
+## ⚙️ Round settings
+
+Each round can have its own rules and format. Learn more in the advanced guides:
+
+- [Round modes](../advanced/round-modes/round-modes) — Configure how a round behaves (e.g., lightning round, puzzle round)
+- [Question modes](../advanced/question-modes/question-modes) — Adjust the format and scoring for each question
+
+---
+
+## 💾 Save and manage your quiz
+
+Remember to:
+
+- **Save** your quiz regularly
+- **Test and play** at any time
+- **Publish** your quiz when it’s ready to share
+
+> 📢 To publish a quiz, it must contain **at least 14 questions**. Once published, it becomes available to the community — but you can unpublish it later if needed.
+
+> 📝 **Publishing is entirely optional.** You can play any quiz or Round-About privately without publishing it. This is great for personal use, testing, or private events.
+
+---
+
+## ▶️ Testing & playing
+
+When you're ready to test or run your quiz, press the **Start Quiz** button. You’ll see the following options:
 
 ![Quiz playlinks](../../assets/images/quiz-playlinks.png)
 
-To test a quiz, press the 'Start Quiz' button. You will given the following options:
- * Play QuizWitz: Play a regular QuizWitz game
- * Start Quizwitz Presentation
- * Start QuizWitz PRO
+- **[Play Party Game](../players/playing)** — A casual quiz experience to enjoy with friends on the same screen or via screenshare
+- **[Start QuizWitz Live (PRO)](../quizmaster/introduction)** — Launch a professional live quiz event using the Quizmaster App
+- **[Start Conference Mode (PRO)](../tutorials/conference-booth)** — Host a conference-style quiz for larger audiences with assigned seating, team codes, and production tools
 
-Advanced game settings
- * **Simulate**:  simulate a play through of your quiz with bots. It will simulates player interactions.
- * **Simulate PRO**: simulate a play through of your quiz with Quizmaster and Jury screens and bots. 
-   It will show you what happens on all possible sreens and simulates player interactions.
+---
 
+### 🧪 Advanced testing options
+
+Want to simulate a full quiz run-through? Use the advanced testing tools:
+
+- **Simulate** — Run a test playthrough with bots (no presentation)
+- **Simulate Live** — Simulate a full [QuizWitz Live](../quizmaster/introduction) session with bots, including Quizmaster, Jury, and Player views
+
+---
+
+Ready to test your creativity? Start building and bring your quiz to life!

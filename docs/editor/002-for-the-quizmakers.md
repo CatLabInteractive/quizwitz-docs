@@ -3,12 +3,27 @@ id: for-the-quizmakers
 title: Introduction
 ---
 
-# Quiz Maker’s guide
-Welcome to the guide for quiz creators. You can create Round-Abouts or Full Quizzes. 
-You can also collect existing Round-Abouts.
+# 🛠️ Quizmaker’s guide
 
-TIP:  A Round-About is the smallest element in QuizWItz. It is a collection of questions in a specific category that 
-are shown in random order. You can publish them on the platform for others to play.
+Welcome to the guide for quiz creators! On QuizWitz, you can build and organize your own quiz content — or collect and remix content created by others.
 
-A Full Quiz is a collection of rounds that can be tailored to your preference.
+---
 
+## 🧩 What you can create
+
+As a quizmaker, you can work with:
+
+- **Round-Abouts** — Small themed collections of questions shown in random order
+- **Full Quizzes** — Custom quizzes made by combining multiple Round-Abouts into a single flow
+
+You can also **collect Round-Abouts** created by others and include them in your own quizzes.
+
+---
+
+> 💡 **Tip:** A **Round-About** is the smallest building block in QuizWitz. It focuses on a specific topic and can be played or reused by other creators. You can publish them publicly or keep them private.
+
+> A **Full Quiz** is a larger quiz experience composed of multiple rounds. You can define the order, rules, and structure to fit your needs.
+
+---
+
+Ready to start creating? Dive into the quiz editor or explore the guides in this section.

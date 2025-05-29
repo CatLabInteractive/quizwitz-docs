@@ -3,29 +3,30 @@ id: introduction
 title: Introduction
 ---
 
-# QuizWitz PRO - Startup
+# 🎤 QuizWitz Live – Introduction
 
-## Hosting a quiz with QuizWitz PRO
-The first requirement for a proper QuizWitz live event is an entertaining quizmaster who controls the game. 
-They are responsible for the flow of the game and can add that extra layer of sparkle on top of your event! 
-They are in full control of the game and will read the questions before they are answered by the players.
+## Hosting a quiz with QuizWitz Live
 
-To be a true quizmaster, you can use our Quizmaster App. ‘QuizWitz PRO’ can be launched from 
-the quiz editor. Click ‘Start QuizWitz PRO’.
+The first ingredient for a successful QuizWitz Live event is an engaging quizmaster — someone who controls the game and keeps the energy high. The quizmaster leads the flow of the quiz, reads the questions aloud, and adds that extra spark to entertain the audience.
 
-## Requirements
+To take full control of your event, use the **Quizmaster App**, designed specifically for QuizWitz Live.  
+You can launch QuizWitz Live directly from the quiz editor by clicking **‘Start QuizWitz Live’**.
 
-For the best quiz experience, you will need:
+> 💡 **Note:** The Quizmaster App is a **web app** — there's nothing to install. Simply go to [**quizwitz.tv**](https://quizwitz.tv) in your browser to access it on your smart device.
 
- * **A (large) screen or projection** of the main game screen visible to all players, or *a livestream* 
-   accessible to all players.
- * **A tablet/laptop** for the quizmaster to read the script and questions out loud. This device will be used to
-   control the pacing of the game.
- * **A laptop/tablet** for the jury members to evaluate answers to open questions, if there are any in the quiz.
- * Each player or team needs **a smartphone/tablet** (or any smart device) to submit their answers.
- 
-If your quiz contains open answer questions, you will need a jury. The Quizmaster can do this, but will need an 
-extra device to do so. We believe the experience is better when the Quizmaster can focus on presentation, 
-and one or more jury members evaluate the open answer questions.
+---
 
-When you're all setup, go to the next page to start the game.
+## 🧰 Requirements
+
+To ensure a smooth and professional quiz experience, make sure you have:
+
+- **A large screen or projector** showing the main game screen — or a **livestream** accessible to all players
+- **A tablet or laptop** for the quizmaster to control the game and read the script aloud
+- **A laptop or tablet** for the jury (if needed) to evaluate open answer questions
+- **One smart device per player or team** (e.g. smartphone or tablet) to submit answers
+
+> If your quiz includes **open answer questions**, you’ll need a jury to review submissions. While the quizmaster can take on this role with an extra device, we recommend assigning one or more dedicated jury members so the quizmaster can focus on presenting.
+
+---
+
+Once you’ve got everything ready, continue to the next page to learn how to start the game with QuizWitz Live.

@@ -1,18 +1,44 @@
 ---
-id: mobile-browsers
+id: mobile
 title: Mobile browsers
 ---
 
-# Mobile browers
-QuizWitz has been optimized to run on computers. While it may be possible to host QuizWitz Live or Conference games 
-on tablets or smartphones, we do not recommend using Android or iOS based devices to run the game.
+# 📱 Mobile browsers — Hosting limitations
 
-If you have no other choice, and you have to run the game on a mobile device, please follow these tips to make sure 
-you won't encounter any problems during your event:
+QuizWitz is optimized for use on **desktop and laptop computers**. While it’s technically possible to host **QuizWitz Live** or **Conference** games on a tablet or smartphone, we **do not recommend** using **Android** or **iOS** devices to run the game.
 
-* Make sure the energy saving options are turned off / are sufficiently long. We have noticed that in some cases a 
-device going in standby causes the game page to refresh, causing the game to finish.
-* If you have audio- and video fragments in your quiz: make sure to test the quiz completely before your event starts. 
-Some devices have trouble playing large video fragments.
+> 🛑 Mobile devices are not officially supported for hosting. Please use a desktop or laptop whenever possible.
 
-Please do note that, even though these tips might help, we do not recommend using mobile devices to host important quizzes.
+---
+
+## ⚠️ If you must use a mobile device...
+
+If using a phone or tablet is your only option, follow these steps to minimize the risk of technical issues:
+
+### 🔋 Disable power-saving features
+
+- Make sure **energy-saving modes are turned off**
+- Increase your device’s **auto-sleep timeout**
+- Some mobile browsers may **refresh the page when the device sleeps**, which can end the game unexpectedly
+
+### 🎞️ Test audio and video fragments
+
+- If your quiz includes **audio or video**, test it in advance
+- Some devices may **struggle with large media files** or not play them at all
+- Be especially cautious with **older devices** or default mobile browsers
+
+---
+
+## 🚫 Not recommended for live events
+
+Even with the precautions above, we strongly advise **against** using mobile devices to host important or high-stakes events.
+
+For the best performance and stability:
+
+- Use a **modern desktop or laptop computer**
+- Run your game in **Chrome, Firefox**, or **Edge**
+- Avoid using Safari on iOS for anything other than playing
+
+---
+
+For hosting, a reliable setup is key — mobile devices should be used only as a last resort.

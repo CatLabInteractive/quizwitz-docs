@@ -3,44 +3,62 @@ id: attachments
 title: Attachments
 ---
 
-# Attachments
+# 📎 Attachments
 
-Attachments can be added in multiple slots during the quiz.
+Attachments can be added in various slots throughout your quiz to enrich the experience with images, audio, or video.
 
-These slots are defined in following entities:
- * [questions](005-writing-questions.md)
- * [rounds](008-round-options.md)
- * [quizzes](007-quiz-options.md)
+These slots appear in the following parts of your quiz:
 
-When these slots are displayed is shown in the above pages.
+- [Questions](../editor/writing-questions)
+- [Rounds](../editor/round-options)
+- [Quizzes](../editor/quiz-options)
+
+Each page explains when these attachments are shown during gameplay.
 
 ![Question attachments](../../assets/images/edit-question.png)
 
-## Types
-Non-exhaustive list of compatible types:
-- Images: png, jpeg, gif (non animated). Images in full HD (1920x1080) will work best.
-- Audio: most audio formats are supported
-- Video: most video formats are supported
+---
 
-Audio and video attachment cannot be longer than 15 minutes.
+## 🗂️ Supported file types
 
-## Name and attribution
-It is always a good idea to name each attachment, and fill any applicable attribution. The attribution will be displayed
-within the game, while the name will be visible to the Quizmaster in PRO games. Choosing a good name will help the
-quizmaster remember when to show or hide the attachment.
+Here is a general (non-exhaustive) list of compatible formats:
 
-## Attachment effects:
-In some slots you will be able to add an 'effect' to the attachment you have uploaded. This effect will distort the 
-attachment in a way that when display starts, the image is completely indistinguishable while, over time, it gets more clear.
+- **Images** — `.png`, `.jpeg`, `.gif` (non-animated). Full HD (1920×1080) recommended
+- **Audio** — Most standard formats are supported
+- **Video** — Most standard formats are supported
 
- * None: the image/audio/video is presented as is
- * Spotlight effect: This can be used to gradually reveal an image. A spotlight will bounce off the frame of the image
-   to reveal parts of the image. The spotlight will become larger to gradually show complete image.
+> 🔊 ⏱️ Audio and video attachments should be **no longer than 15 minutes** in duration.
 
-## Multiple attachments in the same slot
-In some slots it is possible to add multiple attachments. The behaviour of these multiple attachments depends on the 
-game mode (regular or PRO) and the slot itself. Specifics of each slot are described in the documentation of each 
-individual entity, but in general the different behaviours can be described as:
- * In regular games, the multiple attachments are shown at the same time
- * In PRO games, the quizmaster gets control over the attachments and can show/hide them as they please.
+---
 
+## 📝 Name & attribution
+
+Each attachment can have a name and optional attribution:
+
+- **Name** — Displayed to the quizmaster in [QuizWitz Live (PRO)](../quizmaster/introduction); helps in organizing attachments
+- **Attribution** — Shown to players as credit or source information. This should be the **name of the rights holder**.
+
+> ⚠️ In order to **publish** a Round-About or Quiz, **all attachments must have a valid attribution** filled in. Without this, your entry cannot be made public.
+
+
+---
+
+## ✨ Attachment effects
+
+Some attachment slots support **effects** to reveal visuals more gradually:
+
+- **None** — The file is shown as-is
+- **Spotlight effect** — Gradually reveals parts of the image over time with a moving spotlight that expands as it progresses
+
+This is especially effective for puzzles or slow reveals during intros or dramatic moments.
+
+---
+
+## 📚 Multiple attachments per slot
+
+Some slots allow adding **multiple attachments**. The way these behave depends on the game mode:
+
+> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/introduction):** The quizmaster has full control and can decide when to show or hide attachments during gameplay.  
+> 🎮 **In regular games:** All attachments within a slot are shown **simultaneously**.
+
+Details about each slot’s timing and behavior can be found in the linked documentation for [questions](../editor/writing-questions), [rounds](../editor/round-options), and [quizzes](../editor/quiz-options).

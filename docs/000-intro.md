@@ -3,20 +3,32 @@ id: intro
 title: Introduction
 ---
 
-# Getting started
+# 🎉 Getting started
 
 ## Welcome to QuizWitz!
 
-QuizWitz is an online party quiz game and quiz creation platform. You can play a quiz game, host a professional quiz and 
-create your own quizzes and rounds.
+**QuizWitz** is a social quiz platform where you can:
 
-Please take a few moments to get familiar with the social network. It will only take about a minute.
+- Play fun quiz games with friends or solo
+- Host professional quiz events with live tools
+- Create your own quizzes, rounds, playlists, and more
 
-## Players and creators
+Whether you're here to relax, present, or build — we've got you covered.
 
-This guide is split up in following sections:
+Take a moment to explore the different roles and tools available. It’ll only take a minute.
 
-* A guide for Players
-* A guide for Quizmakers
-* A guide for Quizmasters
+---
 
+## 👥 Players and creators
+
+This guide is divided into sections based on how you use QuizWitz:
+
+- [**Player Guide**](./playing) — Learn how to collect, play, and enjoy quizzes
+- [**Quizmaker Guide**](./quizmaker) — Build your own questions, rounds, and full quizzes
+- [**Quizmaster Guide**](./introduction) — Host a live game using QuizWitz Live
+
+Explore the sections that fit your role — or all of them if you're curious!
+
+---
+
+Ready to jump in? Let’s get quizzing.

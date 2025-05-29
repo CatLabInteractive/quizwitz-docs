@@ -3,16 +3,81 @@ id: seats
 title: Seats
 ---
 
-# Seats
+# 🎟️ QuizWitz PRO – How seats work
 
-All QuizWitz PRO games require one active seat for each connected player.
+QuizWitz PRO games require **active seats** to connect players. Seats are a flexible, pay-as-you-go or license-based system that scales with your needs — perfect for pub quizzes, livestreams, and professional quiz events.
 
- * Seats are only required for PRO games. These game modes are designed for pub-quizzes and professional (livestream) quiz-events and offer additional tools to control the game. The regular game is more suited for friends- and family use and do not require active seats.
- * Your licenses include games with up to 3 players. These 3 seats are NOT added to your active total, so activate the amount of seats you actually need if it is higher than what your license allows.
- * Larger games require one active seat for each competing player. This can either be an individual player or a team of players sharing one answer device.
- * Activated seats stay active for 48 hours. You can host as many quizzes as you want as long as the seats stay active. This allows you to test the software with a larger group or organise multiple events in the same weekend.
- * Pay-as-you-go seats must be activated with QuizWitz credits that can be purchased in advance. We may offer a volume discount on these credits to lower the cost for frequent users.
- * Each purchased PREMIUM license comes with its own value in free credits.
- * For Single-Code games where you don't know how much people will join, you may want to wait until all players have connected before activating the seats. Alternatively, you can activate more seats than required. Unused seats will be refunded (in credits) once they have expired.
- * In order to keep very large games affordable, seat prices drop for larger groups.
- * Playing quizzes in 'Whitelabel-mode' requires two seats for each player.
+---
+
+## 🧑‍🤝‍🧑 What are seats?
+
+- Each connected **player or team** in a PRO game requires **1 active seat**.
+- You can host games with **individual players** or **teams sharing one device** — each counts as one seat.
+- **Regular (non-PRO) games** do **not** require seats and are ideal for casual play with friends or family.
+
+---
+
+## 🎮 Free seats for everyone
+
+- Every account includes **3 free seats per game**, available to **all users**, even without a PRO license.
+- These seats let you host small quizzes with friends or test your content at no cost.
+- The 3 free seats **do not count toward your pay-as-you-go or license-based total**.
+
+---
+
+## 💼 QuizWitz PRO licenses
+
+If you host quizzes regularly, a **QuizWitz PRO license** gives you **permanently active seats** that are always available — no need to activate them manually.
+
+Available license tiers include:
+
+- **PRO-50**: 50 permanently active seats
+- **PRO-100**: 100 permanently active seats
+- **PRO-500**: 500 permanently active seats
+- **PRO-1K**: 1000 permanently active seats
+- **PRO-2K**: 2000 permanently active seats
+
+These seats are ideal for recurring events, larger team setups, or professional venues.
+
+> ⚠️ **Important**: If you need to host a quiz with **more players than your license allows**, you must **activate pay-as-you-go seats** for the full number of players. The seats from your license are not added to your activated seats — they are **replaced** entirely.
+
+---
+
+## 💳 Pay-as-you-go & credits
+
+For one-time or occasional events, you can activate **pay-as-you-go seats** instead of purchasing a license. This gives you flexibility without a long-term commitment.
+
+- Seats are activated using **QuizWitz credits**, which you can buy in advance.
+- **Volume discounts** are available when buying credits in bulk.
+- Each **premium license** includes a **value of free credits**.
+- If you're unsure how many players will join:
+    - You can **wait until everyone connects** before activating seats.
+    - Or, activate more seats than needed — **unused seats are automatically refunded** in credits after they expire.
+
+---
+
+## ⏳ Seat duration (pay-as-you-go)
+
+- **Pay-as-you-go seats** stay active for **48 hours** after activation.
+- Within that time, you can:
+    - Run **multiple quizzes or sessions**
+    - **Test** your quiz with larger groups
+    - Host **multi-day events** over a weekend
+
+---
+
+## 📉 Pricing for large groups
+
+- Seat prices **decrease** for larger player counts, making big events more affordable.
+
+---
+
+## ⚠️ Special case: whitelabel mode
+
+- Games in **whitelabel mode** require **2 seats per player** instead of one.
+
+> Example: A 100-player whitelabel game requires 200 seats.
+
+---
+
+QuizWitz PRO gives you flexible and professional tools to run events of any size — whether you activate seats on demand or rely on a PRO license for always-on access.
