@@ -38,6 +38,24 @@ The following options are available for most round types:
 
 ---
 
+## 🏆 Scoring options
+
+QuizWitz offers flexible scoring to keep things fair and engaging for all players.
+
+- **Time-based scoring** — Players earn more points for faster answers.
+  - For most question types, time-based points decrease **continuously per microsecond**: the faster you answer, the more points you score.
+  - For **open questions only**, time-based points are divided into blocks. For example: answers in the first block (e.g., first few seconds) earn **100%** of the time-based portion, the next block earns **80%**, and so on. This helps level the playing field for slower typers.
+
+- **Fixed percentage of points on timebased scoring** — You control how much of the total score is influenced by speed.
+  - By default, **75%** of the points are fixed (everyone who answers correctly gets these points, regardless of speed).
+  - Only the remaining **25%** is influenced by how quickly players respond.
+
+> 💡 Adjusting this setting lets you make rounds more knowledge-based or more speed-based, depending on your quiz style.
+
+These scoring options can be found in the round options panel when editing a round.
+
+---
+
 ## 📜 Quizmaster instructions
 
 You can add a custom **round introduction text** that will appear only on the [Quizmaster app](../quizmaster/introduction) at the start of the round. Use this to brief the presenter or add a personal touch.
