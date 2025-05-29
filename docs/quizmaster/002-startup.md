@@ -77,7 +77,7 @@ This way, players can keep joining until all the active seats in your account ha
 ![Quizmaster app - activate seats](../../assets/images/quizmaster-app-seats.png)
 
 After selecting your desired game mode, you will see an overview of your active seats at this point in time.
-You can activate more at app.quizwitz.com/seats. 
+You can activate more at app.quizwitz.com/seats.
 
 ## Start the game
 
