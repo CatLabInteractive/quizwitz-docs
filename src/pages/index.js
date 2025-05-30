@@ -24,7 +24,7 @@ function HomepageHeader() {
             <Link
                 className="button button--secondary button--lg"
                 to="/docs/faq">
-                Frequently asked questions
+                FAQ
             </Link>
         </div>
       </div>

@@ -41,26 +41,24 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
+            to: 'docs/intro',
             position: 'left',
             label: 'About QuizWitz',
           },
           {
-            type: 'doc',
-            docId: 'advanced/round-modes/round-modes',
+            to: 'docs/advanced/round-modes/round-modes',
             position: 'left',
             label: 'Round modes',
+            activeBaseRegex: `docs/advanced/round-modes/.*`,
           },
           {
-            type: 'doc',
-            docId: 'advanced/question-modes/question-modes',
+            to: 'docs/advanced/question-modes/question-modes',
             position: 'left',
             label: 'Question modes',
+            activeBaseRegex: `docs/advanced/question-modes/.*`,
           },
           {
-            type: 'doc',
-            docId: 'faq',
+            to: 'docs/faq',
             position: 'left',
             label: 'FAQ',
           }
@@ -77,7 +75,7 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'FAQ',
+                label: 'Frequently Asked Questions',
                 to: '/docs/faq',
               },
             ],
@@ -92,10 +90,6 @@ const config = {
               {
                 label: 'Facebook',
                 href: 'https://www.facebook.com/quizwitz',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/quizwitz',
               }
             ],
           },
