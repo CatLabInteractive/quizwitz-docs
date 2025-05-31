@@ -1,20 +1,42 @@
 ---
 id: multiquestion
+title: Multiquestion
 ---
 
-# Multiquestion
-Players select one of multiple possible questions for various amounts of points.
+# ❓ Multiquestion
 
-## Editor
-Individual questions are grouped in 'Question groups'. For each question group, players will be able to select a single 
-question to answer. 
+The **Multiquestion** round gives players (or teams) the freedom to pick which question they want to answer from a set of possibilities. This makes each playthrough unique and allows for strategic choices!
 
-Make sure to set the 'Label' attribute for each individual question so that the players know 
-what they choose. This can be cryptic ('animals', 'sports', 'history) or descriptive ('easy multiple choice', 'hard multiple 
-choice', 'open question'), or any other way you can imagine this round to work.
+---
 
-## Good to know
-- Even though you can set the duration multiplier for each individual question, the game will use the highest value 
-  for all questions in the group.
-- Visible attachments 'during' questions will not be displayed. Audio can be used.
-- Before question attachments of all questions in each group will be combined in a single view. 
+## 📝 How it works
+
+- For each "question group," several alternative questions are presented.
+- **Each player (or team) selects one question** from the available options to answer.
+- Every question can have its own point value, difficulty, or type (multiple choice, open, etc.).
+- Players only answer the question they picked; the rest are skipped for them.
+
+---
+
+## 🛠️ Editor setup
+
+- In the quiz editor, create **Question groups**. Each group contains all the alternative questions for that turn.
+- For each question in the group, set the **Label** field. This label is shown to players as the “title” or hint for their choice.
+  - Labels can be cryptic (“A, B, C”), themed (“Animals”, “History”), or descriptive (“Easy MC”, “Hard open”).
+- You can mix and match question types and point values within the same group.
+- **Duration:** Even though you can set a different timer multiplier per question, the game uses the highest value for all questions in the group (so nobody is rushed).
+- **Attachments:**
+  - *Before question* attachments from all options are combined into one view before players make their choice.
+  - *During question* visible attachments are not shown, but audio still plays.
+
+---
+
+## 💡 Tips
+
+- Offer a mix of easy and hard questions for more strategy.
+- Use labels creatively—mystery or fun themes can boost engagement.
+- Reward risk-takers with higher point questions.
+
+---
+
+For more on configuring questions and using attachments, see [writing questions](../../editor/005-writing-questions.md) and [attachments documentation](../../editor/006-attachments.md).

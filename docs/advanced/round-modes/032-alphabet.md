@@ -1,26 +1,40 @@
 ---
 id: alphabet
+title: Alphabet
 ---
 
-# Alphabet
-Traditional round where each question has a unique label. Players need to match the right question to the right label.
+# 🔤 Alphabet
+
+An **Alphabet** round is a traditional style round with a twist—each question is assigned a unique label, and players must match their answers to the correct labeled fields. This round rewards both knowledge and deduction!
+
+---
 
 ![Screenshot of an alphabet round while playing](../../../assets/images/round-modes/alphabet-answer-screen.png)
 
-## Alphabet labels
-In Alphabet rounds each question is assigned a unique Label (traditionally this is the first letter of the answer, but
-feel free to be creative). All questions must be 'open questions'.
+---
+
+## 🏷️ Alphabet labels
+
+- Each question is assigned a unique **Label**. Traditionally, this is the **first letter of the answer**, but you can use any label you like (letters, numbers, or creative codes).
+- **All questions must be open questions** in this round type.
+
+---
 
 ![Screenshot of an alphabet round in the quiz editor](../../../assets/images/round-modes/alphabet-round.png)
 
-Similar to traditional rounds, players will get a list of fields for each question in the round and will be able to 
-change their answers until the round finishes. Different from traditional rounds though, these fields are not in the 
-same order as the questions in the quiz, but are instead ordered alphabetically based on the label of the question. 
-The players will thus have to match the right question to the right answer field.
+---
 
-See above example: The order of the questions asked by the game will be: Bear, Apple, Cacao. The order of the answer 
-fields on the player devices will be 'A, B, C' (alphabetical order). Players will thus have to know that the answer to 
-the first question ('Bear') has to be written in the second field (with label 'B').
+## 📝 How it works
 
-As the players can change their answer until the end of the round, they can switch the position of their answer if 
-they realise they made a mistake, resulting in a thrilling round where every answer has to be carefully placed and moved.
+- As questions are asked, players see a list of answer fields—one for each question.
+- **The answer fields are not in quiz order**—instead, they’re sorted alphabetically by label.
+- Players must match their answers to the correct labeled fields (e.g. answer for question "Bear" must be entered under label "B").
+- Answers can be changed at any time until the round finishes—players can switch answers between fields as they realize their mistakes.
+
+---
+
+> This round is especially fun and challenging, as it requires both knowledge and the ability to deduce which answer fits which label. Perfect for seasoned quizzers and creative rounds!
+
+---
+
+For shared configuration details, see [Traditional round](030-traditional.md) and [Round options](../../editor/008-round-options.md).

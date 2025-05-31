@@ -1,5 +1,6 @@
 ---
 id: dealers-choice
+title: Dealers' Choice
 ---
 
 # Dealer's choice
