@@ -7,7 +7,7 @@ title: Round options
 
 Each round has a specific **type**. The default is **Multiple Choice (Trivia)**, but feel free to test and experiment with all available types. This page explains the settings and attachments you can configure per round.
 
-📘 For a detailed overview of all round types, visit the [round types documentation](../round-types/round-modes).
+📘 For a detailed overview of all round types, visit the [round types documentation](../round-types/000-round-types.md).
 
 ---
 

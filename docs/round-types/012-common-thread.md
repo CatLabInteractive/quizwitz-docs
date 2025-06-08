@@ -37,4 +37,4 @@ See [round options](../editor/008-round-options.md) for details on configuring f
 
 ---
 
-For more information about configuring round feedback and special round types, see the [round types documentation](../question-types/question-modes).
+For more information about configuring round feedback and special round types, see the [round types documentation](../question-types/000-question-types.md).
