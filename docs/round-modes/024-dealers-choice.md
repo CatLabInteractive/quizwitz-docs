@@ -3,7 +3,7 @@ id: dealers-choice
 title: Dealers' Choice
 ---
 
-# Dealer's choice
+# 🃏 Dealer's choice
 
 The **Dealers’ Choice** round in QuizWitz adds a strategic twist to your quiz. 
 One of the players gets to **choose the next question category**, giving them a potential 

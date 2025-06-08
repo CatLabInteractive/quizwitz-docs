@@ -1,6 +1,6 @@
 ---
 id: question-modes
-name: Question modes
+title: Question modes
 ---
 
 # Question modes

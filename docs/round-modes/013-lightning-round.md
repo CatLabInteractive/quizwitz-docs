@@ -1,9 +1,9 @@
 ---
 id: lightning-round
-name: Lightning round
+title: Lightning round
 ---
 
-# Lightning round
+# ⚡ Lightning round
 
 The **Lightning round** is all about speed and excitement. Players answer a rapid series of questions with very short timers — all set to continuous timer music for maximum energy and tension.
 
@@ -25,7 +25,7 @@ The **Lightning round** is all about speed and excitement. Players answer a rapi
 - **Grouped feedback:** If “Show all question feedback at the end of the round” is enabled in round settings, all feedback is combined into a single feedback screen at the end.
 - **Force results after question:** If enabled in a question’s settings, feedback for that question will always be shown immediately, regardless of round feedback grouping.
 
-See [round options](../../editor/008-round-options.md) for details on configuring feedback timing.
+See [round options](../editor/008-round-options.md) for details on configuring feedback timing.
 
 ---
 
@@ -45,7 +45,7 @@ For more details, see the [attachments documentation](../../editor/attachments.m
 - Instead, use a **short question timer** (typically 15 seconds).
 - Set point values lower than usual (e.g. 500 points per question) to keep the game fair and minimize the impact of wrong answers.
 
-For scoring setup, see the [scoring section](../../editor/008-round-options.md#scoring).
+For scoring setup, see the [scoring section](../editor/008-round-options.md#scoring).
 
 ---
 

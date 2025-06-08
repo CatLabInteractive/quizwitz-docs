@@ -1,15 +1,15 @@
 ---
 id: multiple-choice
-name: Multiple choice question
+title: Multiple choice question
 ---
 
-# Multiple choice
+# 🔢 Multiple choice
 
 A regular multiple choice question lets players select the correct answer from several given options.
 
 ---
 
-![Example: Multiple choice question about flags](../../../assets/images/question-modes/multiple-choice/multiple-choice-wales.png)
+![Example: Multiple choice question about flags](../../assets/images/question-modes/multiple-choice/multiple-choice-wales.png)
 
 ---
 
@@ -28,14 +28,14 @@ Multiple choice questions use **time-based scoring** by default: faster answers 
 **You can also turn off time-based scoring per question** if you want all correct answers to receive the same score.  
 You can further adjust this balance in the round settings.
 
-See [Scoring options in round settings](../../editor/008-round-options.md#-scoring-options) for full details.
+See [Scoring options in round settings](../editor/008-round-options.md#-scoring-options) for full details.
 
 ---
 
 ## ⚙️ Expanded settings
 
 The Multiple choice question type offers many settings to fine-tune the experience and scoring.  
-See [writing questions](../../editor/005-writing-questions.md) for a general overview of question settings.
+See [writing questions](../editor/005-writing-questions.md) for a general overview of question settings.
 
 ---
 

@@ -20,4 +20,4 @@ title: Player Introduction
 
 ---
 
-For other special event rounds, see [Round options](../../editor/008-round-options.md).
+For other special event rounds, see [Round options](../editor/008-round-options.md).

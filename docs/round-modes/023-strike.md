@@ -3,7 +3,7 @@ id: strike
 title: Strike
 ---
 
-# ⚡ Strike
+# 📈 Strike
 
 In a **Strike** round, players can climb through multiple levels by answering consecutive questions correctly. The higher their streak, the more points they can earn!
 
@@ -35,4 +35,4 @@ In a **Strike** round, players can climb through multiple levels by answering co
 
 ---
 
-For more on round settings and advanced configuration, see [Round options](../../editor/008-round-options.md).
+For more on round settings and advanced configuration, see [Round options](../editor/008-round-options.md).

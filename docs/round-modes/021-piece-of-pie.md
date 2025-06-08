@@ -24,7 +24,7 @@ In a **Piece of pie** round, teamwork pays off! The total points available for e
 - **Time-based scoring can be enabled** (and is enabled by default).
 - In that case, the displayed points are the *maximum* you could win for a fast and correct answer.
 - Your share of the “pie” will be adjusted for your speed *and* the number of other correct answers.
-- For details, see the [scoring section](../../editor/008-round-options.md#scoring).
+- For details, see the [scoring section](../editor/008-round-options.md#scoring).
 
 ---
 
@@ -36,4 +36,4 @@ In a **Piece of pie** round, teamwork pays off! The total points available for e
 
 ---
 
-For more about round settings and configuration, see [Round options](../../editor/008-round-options.md).
+For more about round settings and configuration, see [Round options](../editor/008-round-options.md).

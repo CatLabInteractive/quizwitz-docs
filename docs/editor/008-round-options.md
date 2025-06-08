@@ -7,7 +7,7 @@ title: Round options
 
 Each round has a specific **type**. The default is **Multiple Choice (Trivia)**, but feel free to test and experiment with all available types. This page explains the settings and attachments you can configure per round.
 
-📘 For a detailed overview of all round types, visit the [round types documentation](../advanced/round-modes/round-modes).
+📘 For a detailed overview of all round types, visit the [round types documentation](../round-modes/round-modes).
 
 ---
 
@@ -34,7 +34,7 @@ The following options are available for most round types:
 - **Force feedback after each individual question** — Ensure immediate feedback
   > ⚠️ This only takes effect in round and question types where feedback would otherwise be delayed, such as open questions or lightning rounds.
 
-📘 See [question modes](../advanced/question-modes/question-modes) for more information on feedback timing and behavior.
+📘 See [question modes](../question-modes/question-modes) for more information on feedback timing and behavior.
 
 ---
 

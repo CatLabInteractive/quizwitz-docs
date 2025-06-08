@@ -46,16 +46,16 @@ const config = {
             label: 'About QuizWitz',
           },
           {
-            to: 'docs/advanced/round-modes/round-modes',
+            to: 'docs/round-modes/round-modes',
             position: 'left',
             label: 'Round modes',
-            activeBaseRegex: `docs/advanced/round-modes/.*`,
+            activeBaseRegex: `docs/round-modes/.*`,
           },
           {
-            to: 'docs/advanced/question-modes/question-modes',
+            to: 'docs/question-modes/question-modes',
             position: 'left',
             label: 'Question modes',
-            activeBaseRegex: `docs/advanced/question-modes/.*`,
+            activeBaseRegex: `docs/question-modes/.*`,
           },
           {
             to: 'docs/faq',

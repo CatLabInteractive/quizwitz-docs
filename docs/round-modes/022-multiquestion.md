@@ -39,4 +39,4 @@ The **Multiquestion** round gives players (or teams) the freedom to pick which q
 
 ---
 
-For more on configuring questions and using attachments, see [writing questions](../../editor/005-writing-questions.md) and [attachments documentation](../../editor/006-attachments.md).
+For more on configuring questions and using attachments, see [writing questions](../editor/005-writing-questions.md) and [attachments documentation](../editor/006-attachments.md).

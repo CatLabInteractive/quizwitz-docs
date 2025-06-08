@@ -25,4 +25,4 @@ title: Department Elimination
 
 ---
 
-For more on elimination options, see the [Elimination round](050-elimination.md) or [Round options](../../editor/008-round-options.md).
+For more on elimination options, see the [Elimination round](050-elimination.md) or [Round options](../editor/008-round-options.md).

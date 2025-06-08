@@ -21,4 +21,4 @@ This can be used to level the playing field, add suspense, or introduce new phas
 
 ---
 
-For more ways to shape your game flow, see [Round options](../../editor/008-round-options.md).
+For more ways to shape your game flow, see [Round options](../editor/008-round-options.md).

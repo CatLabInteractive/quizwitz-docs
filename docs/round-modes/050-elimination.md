@@ -34,4 +34,4 @@ The number of players to keep (or kick) can be set as an exact number or as a pe
 
 ---
 
-For more advanced options and event types, see [Round options](../../editor/008-round-options.md).
+For more advanced options and event types, see [Round options](../editor/008-round-options.md).

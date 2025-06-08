@@ -9,7 +9,7 @@ An **Alphabet** round is a traditional style round with a twist—each question 
 
 ---
 
-![Screenshot of an alphabet round while playing](../../../assets/images/round-modes/alphabet-answer-screen.png)
+![Screenshot of an alphabet round while playing](../../assets/images/round-modes/alphabet-answer-screen.png)
 
 ---
 
@@ -20,7 +20,7 @@ An **Alphabet** round is a traditional style round with a twist—each question 
 
 ---
 
-![Screenshot of an alphabet round in the quiz editor](../../../assets/images/round-modes/alphabet-round.png)
+![Screenshot of an alphabet round in the quiz editor](../../assets/images/round-modes/alphabet-round.png)
 
 ---
 
@@ -37,4 +37,4 @@ An **Alphabet** round is a traditional style round with a twist—each question 
 
 ---
 
-For shared configuration details, see [Traditional round](030-traditional.md) and [Round options](../../editor/008-round-options.md).
+For shared configuration details, see [Traditional round](030-traditional.md) and [Round options](../editor/008-round-options.md).

@@ -32,4 +32,4 @@ title: Intermission
 
 ---
 
-For more on customizing your intermission and using attachments, see [Round options](../../editor/008-round-options.md) and [Attachments guide](../../editor/006-attachments.md).
+For more on customizing your intermission and using attachments, see [Round options](../editor/008-round-options.md) and [Attachments guide](../editor/006-attachments.md).

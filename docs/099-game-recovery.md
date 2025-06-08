@@ -1,6 +1,7 @@
 ---
 id: live-crash-recovery
 title: ⚠️ Live Crash Recovery
+sidebar_position: 1000
 ---
 
 # ⚠️ Live Crash Recovery

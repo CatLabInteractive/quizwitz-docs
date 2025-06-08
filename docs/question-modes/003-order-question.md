@@ -1,16 +1,16 @@
 ---
 id: order-question
-name: Order question
+title: Order question
 ---
 
-# Order question
+# 🔀 Order question
 
 In an **Order question**, players must put up to 4 items in the correct sequence.  
 This round type is great for chronological, ranking, or sequencing challenges.
 
 ---
 
-![Example: Order question about animals](../../../assets/images/question-modes/order-question/order-question-example.png)
+![Example: Order question about animals](../../assets/images/question-modes/order-question/order-question-example.png)
 
 ---
 
@@ -30,7 +30,7 @@ Order questions use **time-based scoring** by default:
 Faster correct answers earn more points, but most of the points are fixed. Time only affects a portion of the score.  
 You can also turn off time-based scoring per question for fixed points only.
 
-See [Scoring options in round settings](../../editor/008-round-options.md#-scoring-options) for details.
+See [Scoring options in round settings](../editor/008-round-options.md#-scoring-options) for details.
 
 ---
 
@@ -41,7 +41,7 @@ Order questions offer flexible settings:
 - **Time limit:** Set how long players have to answer.
 - **Points:** Set how many points are awarded for a fully correct answer.
 
-See [writing questions](../../editor/005-writing-questions.md) for more.
+See [writing questions](../editor/005-writing-questions.md) for more.
 
 ---
 

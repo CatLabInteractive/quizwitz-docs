@@ -40,4 +40,4 @@ title: Department Dealer's Choice
 ---
 
 For classic Dealer’s Choice rules, see [Dealer’s Choice](024-dealers-choice.md).  
-For more team game options, check [Round options](../../editor/008-round-options.md).
+For more team game options, check [Round options](../editor/008-round-options.md).

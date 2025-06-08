@@ -24,7 +24,7 @@ Click the **gear icon** in the top-left corner of a question to open its full se
 ### 🎮 Mode & scoring
 
 - **Question mode** — Choose how the question is played (e.g. multiple choice, open answer, puzzle)  
-  → Learn more in [question modes](../advanced/question-modes/question-modes)
+  → Learn more in [question modes](../question-modes/question-modes)
 - **Points** — Set how many points a correct answer is worth
 - **Question timer** — Adjust the time limit using the slider
 
@@ -83,4 +83,4 @@ You can add **multiple attachments** in each slot.
 
 ---
 
-Next up: Learn more about the different [question modes](../advanced/question-modes/question-modes) and how to structure your [round types](../advanced/round-modes/round-modes) for maximum impact.
+Next up: Learn more about the different [question modes](../question-modes/question-modes) and how to structure your [round types](../round-modes/round-modes) for maximum impact.

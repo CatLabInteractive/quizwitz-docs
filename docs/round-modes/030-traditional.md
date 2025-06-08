@@ -9,7 +9,7 @@ A **Traditional** round simulates the classic pub quiz format, where players can
 
 ---
 
-![Screenshot of traditional round in quiz editor](../../../assets/images/round-modes/traditional-editor.png)
+![Screenshot of traditional round in quiz editor](../../assets/images/round-modes/traditional-editor.png)
 
 ---
 
@@ -22,7 +22,7 @@ A **Traditional** round simulates the classic pub quiz format, where players can
 
 ---
 
-![Screenshot of traditional round in player screen](../../../assets/images/round-modes/traditional-answer-screen.png)
+![Screenshot of traditional round in player screen](../../assets/images/round-modes/traditional-answer-screen.png)
 
 ---
 
@@ -34,4 +34,4 @@ A **Traditional** round simulates the classic pub quiz format, where players can
 
 ---
 
-For more information about configuring round types and advanced settings, see [Round options](../../editor/008-round-options.md).
+For more information about configuring round types and advanced settings, see [Round options](../editor/008-round-options.md).

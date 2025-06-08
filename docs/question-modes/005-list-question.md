@@ -1,15 +1,15 @@
 ---
 id: list-question
-name: List question
+title: List question
 ---
 
-# List question
+# 📝 List question
 
 A **List question** asks players to provide several correct answers from a larger list — perfect for prompts like “List the first 5 presidents of the United States of America” or “Name three elements in the periodic table.”
 
 ---
 
-![Example: List question with US presidents](../../../assets/images/question-modes/list-question/list-question.png)
+![Example: List question with US presidents](../../assets/images/question-modes/list-question/list-question.png)
 
 ---
 
@@ -31,7 +31,7 @@ A **List question** asks players to provide several correct answers from a large
 - **Given options:** Use as in-question examples.
 - **Correction:**
     - **Force automatic correction:** When enabled, QuizWitz automatically checks all answers (accepting small typos and variations). No jury needed.
-    - **Manual review:** When not enabled, each provided answer must be reviewed by the [jury app](../../quizmaster/004-jury-app.md).
+    - **Manual review:** When not enabled, each provided answer must be reviewed by the [jury app](../quizmaster/004-jury-app.md).
 
 ---
 
@@ -46,7 +46,7 @@ A **List question** asks players to provide several correct answers from a large
       The other **75%** is fixed — so even slower typers get most of the points if they answer correctly.
     - This reduces the penalty for typing speed and makes scoring fairer for everyone.
 
-For details, see [round scoring options](../../editor/008-round-options.md#scoring).
+For details, see [round scoring options](../editor/008-round-options.md#scoring).
 
 ---
 
@@ -59,4 +59,4 @@ For details, see [round scoring options](../../editor/008-round-options.md#scori
 
 ---
 
-For more, see [Jury app documentation](../../quizmaster/004-jury-app.md).
+For more, see [Jury app documentation](../quizmaster/004-jury-app.md).

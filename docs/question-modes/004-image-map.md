@@ -1,15 +1,15 @@
 ---
 id: image-map-question
-name: Image map question
+title: Image map question
 ---
 
-# Image map
+# 🗺️ Image map
 
 In an **Image map** question, players must select the correct spot (or spots) on an image displayed on their device. This is ideal for visual identification challenges, such as "Select the Erlenmeyer flask."
 
 ---
 
-![Example: Image map question with flasks](../../../assets/images/question-modes/image-map/image-map-example.png)
+![Example: Image map question with flasks](../../assets/images/question-modes/image-map/image-map-example.png)
 
 ---
 
@@ -35,7 +35,7 @@ In an **Image map** question, players must select the correct spot (or spots) on
 - **Points per area:** Decide if points are awarded per correctly identified area, or only if all minimum required areas are selected.
 - **Attachment options:** Add images, audio, or video for richer context. Set attributions if publishing.
 
-See [writing questions](../../editor/005-writing-questions.md) for general question settings.
+See [writing questions](../editor/005-writing-questions.md) for general question settings.
 
 ---
 
@@ -44,7 +44,7 @@ See [writing questions](../../editor/005-writing-questions.md) for general quest
 **Time-based scoring is enabled by default.** Players who answer quickly earn more points, but there’s always a fixed component (default: 75%) for a correct answer. Only 25% of the total score is influenced by how fast you answer.  
 You can turn off time-based scoring for this question type if you wish.
 
-📘 For details on scoring and time settings, see the [round options documentation](../../editor/008-round-options.md#scoring).
+📘 For details on scoring and time settings, see the [round options documentation](../editor/008-round-options.md#scoring).
 
 ---
 
