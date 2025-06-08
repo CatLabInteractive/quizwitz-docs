@@ -5,7 +5,7 @@ title: Department Dealer's Choice
 
 # 🏢 Department Dealer’s Choice
 
-**Department Dealer’s Choice** is an interactive round mode where players from a specific department take turns selecting the next category or question.
+**Department Dealer’s Choice** is an interactive round type where players from a specific department take turns selecting the next category or question.
 
 ---
 

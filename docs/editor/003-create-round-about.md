@@ -62,7 +62,7 @@ In the **Details** section, you’ll find additional configuration options:
     - Lightning rounds
     - And more
 
-> 🔗 Learn more about [round modes](../round-modes/round-modes) and [question modes](../question-modes/question-modes) in the advanced guides.
+> 🔗 Learn more about [round types](../round-types/000-round-types.md) and [question types](../question-types/000-question-types.md) in the advanced guides.
 
 ![Round-About settings](../../assets/images/round-about-details.png)
 

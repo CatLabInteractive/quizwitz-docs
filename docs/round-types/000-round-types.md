@@ -1,11 +1,11 @@
 ---
-id: round-modes
-name: Round modes
+id: round-types
+name: Round types
 ---
 
-# Round modes
+# Round types
 
-The round mode influences the way the game shows the questions to the players — and how players earn points.  
+The round type influences the way the game shows the questions to the players — and how players earn points.  
 In quizzes, you can change the round type in the **Round type** select field at the top middle of the screen.
 
 ## 🧠 Regular rounds
@@ -26,7 +26,7 @@ These rounds offer a bit more interactivity than simple ask-and-answer questions
 ## 🍺 Traditional
 
 For anyone who wants to organize traditional pub quizzes where players can change their answers until the end of the round.  
-These round modes simulate "handing in the papers" after each round.
+These round types simulate "handing in the papers" after each round.
 
 - [Traditional](030-traditional.md)
 - [Traditional — Common thread](031-traditional-ct.md)
@@ -34,7 +34,7 @@ These round modes simulate "handing in the papers" after each round.
 
 ## 🎉 Live events
 
-These round modes do not contain any questions — but instead influence the outcome of the game.
+These round types do not contain any questions — but instead influence the outcome of the game.
 
 - [Activity](040-activity.md)
 - [Intermission](060-intermission.md)
@@ -44,7 +44,7 @@ These round modes do not contain any questions — but instead influence the out
 
 ## 🏢 Departments
 
-In these round modes, you can select specific **departments** that play against other departments.
+In these round types, you can select specific **departments** that play against other departments.
 
 - [Department — Dealer's choice](070-departments-dealers-choice.md)
 - [Department — Elimination](071-departments-elimination.md)

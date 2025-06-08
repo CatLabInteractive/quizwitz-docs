@@ -1,16 +1,16 @@
 ---
-id: question-modes
-title: Question modes
+id: question-types
+title: Question types
 ---
 
-# Question modes
-QuizWitz supports different question modes. Each mode has its own rules and gameplay mechanics.
-We suggest using a mix of different modes to keep the game interesting and engaging.
+# Question types
+QuizWitz supports different question types. Each type has its own rules and gameplay mechanics.
+We suggest using a mix of different types to keep the game interesting and engaging.
 
-Note that some round modes limit the question modes you can use.
+Note that some round types limit the question types you can use.
 
-## Regular question modes
-These are the most common question modes. They are easy to understand and play.
+## Regular question types
+These are the most common question types. They are easy to understand and play.
 
 * [Multiple choice](001-multiple-choice.md) (default)
 * [Order question](003-order-question.md)

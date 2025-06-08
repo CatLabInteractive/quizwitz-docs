@@ -40,4 +40,4 @@ The **Trivia** round is the classic, default round type in QuizWitz. It presents
 
 ---
 
-For more about available question types, see the [question modes overview](../question-modes/question-modes).
+For more about available question types, see the [question type overview](../question-types/000-question-types.md).

@@ -53,8 +53,8 @@ In the main editor, you can:
 
 Each round can have its own rules and format. Learn more in the advanced guides:
 
-- [Round modes](../round-modes/round-modes) — Configure how a round behaves (e.g., lightning round, puzzle round)
-- [Question modes](../question-modes/question-modes) — Adjust the format and scoring for each question
+- [Round types](../round-types/000-round-types.md) — Configure how a round behaves (e.g., lightning round, puzzle round)
+- [Question types](../question-types/000-question-types.md) — Adjust the format and scoring for each question
 
 ---
 
