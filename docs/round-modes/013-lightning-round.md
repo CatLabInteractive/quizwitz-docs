@@ -35,7 +35,7 @@ See [round options](../editor/008-round-options.md) for details on configuring f
   This audio attachment will play **continuously** as the countdown music during the entire lightning round, only stopping after the last question.
 - Use energetic or tense music to boost excitement and keep players on their toes.
 
-For more details, see the [attachments documentation](../../editor/attachments.md).
+For more details, see the [attachments documentation](../../editor/006-attachments.md).
 
 ---
 
