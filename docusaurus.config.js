@@ -8,10 +8,16 @@ const config = {
   url: 'https://docs.quizwitz.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'catlabinteractive', // Usually your GitHub org/user name.
   projectName: 'quizwitz-docs', // Usually your repo name.
+
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'nl'],
+    path: 'i18n',
+  },
 
   presets: [
     [
@@ -61,7 +67,12 @@ const config = {
             to: 'docs/faq',
             position: 'left',
             label: 'FAQ',
-          }
+          },
+
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
         ],
       },
       footer: {
@@ -110,6 +121,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} CatLab Interactive bv. Built with Docusaurus.`,
       },
     })
+
 };
 
 module.exports = config;

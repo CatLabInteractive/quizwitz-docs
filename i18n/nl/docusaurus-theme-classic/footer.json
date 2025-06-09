@@ -1,0 +1,42 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "Meer",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Getting started": {
+    "message": "Eerste stappen",
+    "description": "The label of footer link with label=Getting started linking to /docs/intro"
+  },
+  "link.item.label.Frequently Asked Questions": {
+    "message": "Veelgestelde vragen",
+    "description": "The label of footer link with label=Frequently Asked Questions linking to /docs/faq"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discord.gg/9HREQjG"
+  },
+  "link.item.label.Facebook": {
+    "message": "Facebook",
+    "description": "The label of footer link with label=Facebook linking to https://www.facebook.com/quizwitz"
+  },
+  "link.item.label.Website": {
+    "message": "Website",
+    "description": "The label of footer link with label=Website linking to https://www.quizwitz.com/"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to https://www.quizwitz.com/blog"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 CatLab Interactive bv. Gebouwd met Docusaurus.",
+    "description": "The footer copyright"
+  }
+}
