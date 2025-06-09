@@ -16,7 +16,7 @@ From the main menu:
 1. Click **Create**
 2. Select **Round-About** from the dropdown
 
-![QuizWitz top navigation bar](../../assets/images/top-menu-create.png)
+![QuizWitz top navigation bar](/images/top-menu-create.png)
 
 ---
 
@@ -30,7 +30,7 @@ Start by giving your Round-About a clear:
 
 > 🔒 You don't need to publish your Round-About to play it. Keep it private or publish it when you're ready to share.
 
-![QuizWitz create round](../../assets/images/create-round.png)
+![QuizWitz create round](/images/create-round.png)
 
 ---
 
@@ -64,7 +64,7 @@ In the **Details** section, you’ll find additional configuration options:
 
 > 🔗 Learn more about [round types](../round-types/000-round-types.md) and [question types](../question-types/000-question-types.md) in the advanced guides.
 
-![Round-About settings](../../assets/images/round-about-details.png)
+![Round-About settings](/images/round-about-details.png)
 
 ---
 

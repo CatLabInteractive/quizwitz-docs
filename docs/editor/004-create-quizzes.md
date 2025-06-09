@@ -16,7 +16,7 @@ From the main menu:
 1. Click **Create**
 2. Choose **Quiz** from the dropdown
 
-![QuizWitz create quiz](../../assets/images/create-quiz.png)
+![QuizWitz create quiz](/images/create-quiz.png)
 
 ---
 
@@ -37,7 +37,7 @@ On the left sidebar, you’ll be able to:
 - Choose a category
 - [Import questions](../editor/import-questions) in bulk
 
-![Create new round in quiz](../../assets/images/quiz-add-round.png)
+![Create new round in quiz](/images/quiz-add-round.png)
 
 In the main editor, you can:
 
@@ -76,7 +76,7 @@ Remember to:
 
 When you're ready to test or run your quiz, press the **Start Quiz** button. You’ll see the following options:
 
-![Quiz playlinks](../../assets/images/quiz-playlinks.png)
+![Quiz playlinks](/images/quiz-playlinks.png)
 
 - **[Play Party Game](../players/playing)** — A casual quiz experience to enjoy with friends on the same screen or via screenshare
 - **[Start QuizWitz Live (PRO)](../quizmaster/introduction)** — Launch a professional live quiz event using the Quizmaster App

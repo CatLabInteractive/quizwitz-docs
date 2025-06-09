@@ -11,7 +11,7 @@ The Emerald theme is the easiest way to customize the look of your QuizWitz game
 You can use our [theme tester](https://client.quizwitz.com/test.html?theme=emerald) to see what your settings will look like.
 :::
 
-![A screenshot of the emerald theme](../../assets/images/emerald/emerald.png)
+![A screenshot of the emerald theme](/images/emerald/emerald.png)
 
 ## Select the Emerald theme
 
@@ -19,7 +19,7 @@ In your **Quiz settings**, select **Theme** and enable **Emerald**.
 
 You can test a quiz using the Emerald theme [here](https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default).
 
-![A screenshot of the quiz settings](../../assets/images/emerald/quiz-settings.png)
+![A screenshot of the quiz settings](/images/emerald/quiz-settings.png)
 
 ## Attachments
 
@@ -27,13 +27,13 @@ You can test a quiz using the Emerald theme [here](https://play.quizwitz.com/114
 
 By far the easiest way to change the look and feel of the game is by attaching images to your quiz. Open the **Quiz settings** and scroll down to the **Attachments** section. Here you can upload images that will be used as background, client logo, connect — and wait screens (for conference — and live quizzes), and more.
 
-![A screenshot of the quiz attachments](../../assets/images/emerald/quiz-attachments.png)
+![A screenshot of the quiz attachments](/images/emerald/quiz-attachments.png)
 
 ### Round attachments
 
 You can also upload images or videos that will be played before and after the game. This goes for rounds as well: find an image that you want to use as round introduction, go to **round settings**, disable **Show round intro** to hide the default round introduction, and upload your image or video as **Show before round**. When the round starts, the image or video will be displayed instead of the default introduction.
 
-![A screenshot of the round attachments](../../assets/images/emerald/round-settings.png)
+![A screenshot of the round attachments](/images/emerald/round-settings.png)
 
 :::tip
 Use images and videos of a 1920 x 1080 resolution for best results.
@@ -43,7 +43,7 @@ Use images and videos of a 1920 x 1080 resolution for best results.
 After playing with the attachments, we end up with something [like this](https://play.quizwitz.com/11487:ACz546ejAV/emerald-theme-tutorial-background-logo).
 :::
 
-![A screenshot of the emerald theme with quiz attachments](../../assets/images/emerald/emerald-with-attachments.png)
+![A screenshot of the emerald theme with quiz attachments](/images/emerald/emerald-with-attachments.png)
 
 ### Music
 
@@ -89,4 +89,4 @@ The query parameters must start with a question mark ( ? ) and each parameter mu
 By adding these parameters to your game URL, you can modify the colors in the theme:  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
-![A screenshot of the Emerald theme with custom modifiers](../../assets/images/emerald/theme_properties.png)
+![A screenshot of the Emerald theme with custom modifiers](/images/emerald/theme_properties.png)

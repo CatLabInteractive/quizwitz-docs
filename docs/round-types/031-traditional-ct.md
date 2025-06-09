@@ -10,7 +10,7 @@ At the end of the round, the **last question** (â€œWhat was the common thread?â€
 
 ---
 
-![Screenshot of traditional round in player screen](../../assets/images/round-modes/traditional-answer-screen.png)
+![Screenshot of traditional round in player screen](/images/round-modes/traditional-answer-screen.png)
 
 ---
 

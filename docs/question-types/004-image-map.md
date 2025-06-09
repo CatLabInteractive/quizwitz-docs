@@ -9,7 +9,7 @@ In an **Image map** question, players must select the correct spot (or spots) on
 
 ---
 
-![Example: Image map question with flasks](../../assets/images/question-modes/image-map/image-map-example.png)
+![Example: Image map question with flasks](/images/question-modes/image-map/image-map-example.png)
 
 ---
 

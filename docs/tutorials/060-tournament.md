@@ -34,11 +34,11 @@ Tournaments can only be started from the **Advanced game options** menu.
 
 1. Select **Play quiz** and choose **Advanced game options**.
 
-   ![A screenshot of the 'Start quiz' menu](../../assets/images/tutorials/tournament/tournament-start.png)
+   ![A screenshot of the 'Start quiz' menu](/images/tutorials/tournament/tournament-start.png)
 
 2. In the popup, select the **Tournament** game mode and click **Generate play link**.
 
-   ![A screenshot of the 'Advanced game options' menu](../../assets/images/tutorials/tournament/tournament-advanced-game-settings.png)
+   ![A screenshot of the 'Advanced game options' menu](/images/tutorials/tournament/tournament-advanced-game-settings.png)
 
 You will now receive two links:
 
@@ -54,11 +54,11 @@ To launch the leaderboard, you need to log in:
 1. Click **Login to add a profile** and enter your password.
 2. Select your profile from the window to start the leaderboard.
 
-   ![A screenshot of the leaderboard app](../../assets/images/tutorials/tournament/leaderboard-start.png)
+   ![A screenshot of the leaderboard app](/images/tutorials/tournament/leaderboard-start.png)
 
 Once the first players finish their games, their scores will be displayed live:
 
-![A screenshot of the leaderboard app](../../assets/images/tutorials/tournament/leaderboard.png)
+![A screenshot of the leaderboard app](/images/tutorials/tournament/leaderboard.png)
 
 ---
 
@@ -66,4 +66,4 @@ Once the first players finish their games, their scores will be displayed live:
 
 You'll also get an email containing both the player and leaderboard links — handy so you don't lose them!
 
-![A screenshot of the tournament email](../../assets/images/tutorials/tournament/tournament-email.png)
+![A screenshot of the tournament email](/images/tutorials/tournament/tournament-email.png)

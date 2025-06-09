@@ -14,10 +14,10 @@ Welcome to QuizWitz Live — the professional way to host quizzes for teams, liv
 You can start a QuizWitz Live game from the quiz editor or directly from your quiz collection.
 
 - In the quiz editor, click **‘Start QuizWitz Live’**  
-  ![Start QuizWitz PRO](../../assets/images/start-quizwitz-pro.png)
+  ![Start QuizWitz PRO](/images/start-quizwitz-pro.png)
 
 - From your collection, click the **Live icon** to launch  
-  ![Start QuizWitz PRO from your collection](../../assets/images/start-quizwitz-live.png)
+  ![Start QuizWitz PRO from your collection](/images/start-quizwitz-live.png)
 
 ---
 
@@ -28,7 +28,7 @@ Once launched, your screen will display a **Master Code**. **Do not share this c
 - Visit [quizwitz.tv](https://quizwitz.tv) on your quizmaster device and enter the Master Code.
 - A **Quizmaster App interface** will appear, where you control the game.
 - We recommend a **tablet or smartphone** for mobility, but a laptop works too.  
-  ![QuizWitz PRO connect screen](../../assets/images/quizwitz-pro-connect-token.png)
+  ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)
 
 After connecting, the Master Code disappears from the screen. You're now ready to show the main screen on a projector or start your livestream.
 
@@ -44,7 +44,7 @@ After connecting, the Master Code disappears from the screen. You're now ready t
 
 Once connected, choose between two game modes:
 
-![Quizmaster app - select mode](../../assets/images/quizmaster-app-select-mode.png)
+![Quizmaster app - select mode](/images/quizmaster-app-select-mode.png)
 
 ### Team codes
 
@@ -68,7 +68,7 @@ When using **Team codes**, you will first create teams in the Quizmaster App:
 
 - Add team names
 - Press **‘Generate Codes’** to create access codes  
-  ![Quizmaster app - create teams](../../assets/images/quizmaster-app-create-teams.png)
+  ![Quizmaster app - create teams](/images/quizmaster-app-create-teams.png)
 
 You can also **reserve codes in advance** — more on that in the tips & tricks section.
 
@@ -82,7 +82,7 @@ Send team codes to your players via email or printouts.
 
 When ready, click **‘Load quiz’**, wait for assets to load, and then click **‘Start’** to begin.
 
-![Quizmaster app - get team codes](../../assets/images/quizmaster-app-create-teams2.png)
+![Quizmaster app - get team codes](/images/quizmaster-app-create-teams2.png)
 
 ---
 
@@ -108,7 +108,7 @@ Before starting, you’ll need to check your available seats.
 
 - An overview appears after selecting your game mode
 - If you need more seats, activate them at [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
-  ![Quizmaster app - activate seats](../../assets/images/quizmaster-app-seats.png)
+  ![Quizmaster app - activate seats](/images/quizmaster-app-seats.png)
 
 ---
 
@@ -116,6 +116,6 @@ Before starting, you’ll need to check your available seats.
 
 Once the setup is complete, press **‘Start quiz’** in the Quizmaster App to begin the game.
 
-![Quizmaster app - start quiz](../../assets/images/quizmaster-app-start-quiz.png)
+![Quizmaster app - start quiz](/images/quizmaster-app-start-quiz.png)
 
 You're now ready to entertain your audience with a seamless QuizWitz Live experience!

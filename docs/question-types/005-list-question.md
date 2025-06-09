@@ -9,7 +9,7 @@ A **List question** asks players to provide several correct answers from a large
 
 ---
 
-![Example: List question with US presidents](../../assets/images/question-modes/list-question/list-question.png)
+![Example: List question with US presidents](/images/question-modes/list-question/list-question.png)
 
 ---
 

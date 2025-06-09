@@ -34,7 +34,7 @@ Once inside, the Jury app provides several useful tools:
 
 - **Report** — Generate a full game report with results and player answers.
 
-![Screenshot of the Jury app in Pending state](../../assets/images/jury-app-waiting.png)
+![Screenshot of the Jury app in Pending state](/images/jury-app-waiting.png)
 
 ---
 
@@ -46,7 +46,7 @@ After each open question, the Jury app displays all submitted answers. Jury memb
 2. Tick the checkbox next to each **acceptable** answer
 3. Click **‘Confirm’** to lock in the results
 
-![Screenshot of the Jury app in the Judging state](../../assets/images/jury-app-judging.png)
+![Screenshot of the Jury app in the Judging state](/images/jury-app-judging.png)
 
 QuizWitz will **automatically detect exact matches** and mark them as correct. Jury members are responsible for reviewing:
 

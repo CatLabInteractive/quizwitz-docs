@@ -9,7 +9,7 @@ An open question lets players type their answer freely using their keyboard. Thi
 
 ---
 
-![Example: Open question about music](../../assets/images/question-modes/open-question/open-question.png)
+![Example: Open question about music](/images/question-modes/open-question/open-question.png)
 
 ---
 

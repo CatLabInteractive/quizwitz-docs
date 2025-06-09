@@ -7,7 +7,7 @@ title: Conference booth
 
 This tutorial will show you how to run QuizWitz at your conference booth — an easy, interactive way to attract visitors and gather leads!
 
-![A photo of a Marvel conference booth using QuizWitz](../../assets/images/photos/marvel.jpg)
+![A photo of a Marvel conference booth using QuizWitz](/images/photos/marvel.jpg)
 
 ---
 
@@ -28,7 +28,7 @@ To keep things fresh, make sure you have plenty of questions — enough to rando
    Also enable **“Random question order”** — otherwise the game will always pick the first 5 questions.  
    Repeat for each round.
 
-![Screenshot of round settings for a conference booth](../../assets/images/tutorials/conference/round_settings.png)
+![Screenshot of round settings for a conference booth](/images/tutorials/conference/round_settings.png)
 
 4. **Add questions to each round.**  
    You can [write questions](/docs/editor/writing-questions) or use the Import button to quickly add content from Excel.
@@ -67,7 +67,7 @@ You’ll get a unique link with all your chosen options.
   Collect visitor emails for your booth! If you enable this, be sure to also set your **Privacy Policy URL**.
 - When launching a game via the advanced options link, you may be prompted to log in before starting — this checks your content and licenses.
 
-![Screenshot of advanced game settings](../../assets/images/tutorials/conference/advanced_game_settings.png)
+![Screenshot of advanced game settings](/images/tutorials/conference/advanced_game_settings.png)
 
 ---
 

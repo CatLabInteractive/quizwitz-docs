@@ -7,7 +7,7 @@ title: Quiz options
 
 When creating a quiz, you can open the **Quiz settings** panel to configure global behavior and presentation options. These settings apply to the **entire quiz**.
 
-| ![Open quiz options](../../assets/images/open-quiz-options.png) | ![Quiz options](../../assets/images/quiz-options.png) |
+| ![Open quiz options](/images/open-quiz-options.png) | ![Quiz options](/images/quiz-options.png) |
 |:--:|:--:|
 | *Opening the quiz options panel* | *Quiz settings overview* |
 

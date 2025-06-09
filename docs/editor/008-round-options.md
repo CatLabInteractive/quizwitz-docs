@@ -15,7 +15,7 @@ Each round has a specific **type**. The default is **Multiple Choice (Trivia)**,
 
 To configure a round’s options, click the gear icon in the round panel:
 
-| ![Open round options](../../assets/images/open-round-options.png) | ![Round options](../../assets/images/round-options.png) |
+| ![Open round options](/images/open-round-options.png) | ![Round options](/images/round-options.png) |
 |:--:|:--:|
 | *Opening round options* | *Round configuration panel* |
 

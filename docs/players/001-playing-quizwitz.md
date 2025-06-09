@@ -18,7 +18,7 @@ Start by browsing the available **Round-Abouts** — short themed rounds of quiz
 - **Collect** — Find Round-Abouts made by the community
 - **Quick Play** — Jump into a random selection
 
-![QuizWitz top navigation bar](../../assets/images/top-menu-play.png)
+![QuizWitz top navigation bar](/images/top-menu-play.png)
 
 > 💡 **Tip:** Want to play everything you’ve collected? Click **My Collection**, then hit **Play my collection**!
 
@@ -52,7 +52,7 @@ To explore a Round-About in more detail:
 - Click its **image**, **title**, or **comments icon**
 - Click **Play** to jump in immediately
 
-![QuizWitz round-about details](../../assets/images/round-about-details.png)
+![QuizWitz round-about details](/images/round-about-details.png)
 
 ---
 
@@ -65,7 +65,7 @@ Want to build a full quiz game from multiple Round-Abouts? Here's how:
 
 To remove one later, just click the star again — it’ll now say **Remove from my collection**.
 
-![Add a Round-About to your collection](../../assets/images/add-to-collection.png)
+![Add a Round-About to your collection](/images/add-to-collection.png)
 
 ---
 
@@ -76,7 +76,7 @@ When you're ready:
 1. Click **My Collection**
 2. Press **Play my collection**
 
-![Play my collection](../../assets/images/play-my-collection.png)
+![Play my collection](/images/play-my-collection.png)
 
 Choose:
 
@@ -85,7 +85,7 @@ Choose:
 
 QuizWitz will try to skip questions you've already seen.
 
-![Play my collection - step 2](../../assets/images/play-my-collection-step2.png)
+![Play my collection - step 2](/images/play-my-collection-step2.png)
 
 ---
 
@@ -98,8 +98,8 @@ Once your game starts, choose your mode:
 - Click **Start**, then choose **Single Player**
 - Use your mouse, keyboard, or touchscreen to answer
 
-![QuizWitz start screen](../../assets/images/quizwitz-start-screen.png)  
-![QuizWitz start screen single player](../../assets/images/quizwitz-start-screen-single.png)
+![QuizWitz start screen](/images/quizwitz-start-screen.png)  
+![QuizWitz start screen single player](/images/quizwitz-start-screen-single.png)
 
 ---
 
@@ -113,9 +113,9 @@ Play with friends using their own phones or tablets:
 2. Players follow the instructions on-screen to join
 3. Click **Start quiz** when everyone is ready
 
-![QuizWitz start screen](../../assets/images/quizwitz-start-screen.png)  
-![QuizWitz start screen party](../../assets/images/quizwitz-start-screen-party.png)  
-![QuizWitz connect screen](../../assets/images/connect-screen.png)
+![QuizWitz start screen](/images/quizwitz-start-screen.png)  
+![QuizWitz start screen party](/images/quizwitz-start-screen-party.png)  
+![QuizWitz connect screen](/images/connect-screen.png)
 
 ---
 
@@ -123,7 +123,7 @@ Play with friends using their own phones or tablets:
 
 At the end, rate the Round-Abouts you played. This helps surface great content and supports creators.
 
-![Rate Round-Abouts when the game is done](../../assets/images/rate-rounds.png)
+![Rate Round-Abouts when the game is done](/images/rate-rounds.png)
 
 ---
 

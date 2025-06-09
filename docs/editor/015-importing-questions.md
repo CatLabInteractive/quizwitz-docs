@@ -24,7 +24,7 @@ Use the **QuizWitz Library** tab to search and import questions, rounds, or quiz
 4. Select one or more entries
 5. Click **Add X items** to insert the selected content into your quiz
 
-![QuizWitz Library](../../assets/images/import/import-from-quizwitz.png)
+![QuizWitz Library](/images/import/import-from-quizwitz.png)
 
 > ✅ Use this method to reuse high-quality content or combine multiple public Round-Abouts into a larger quiz.
 
@@ -39,7 +39,7 @@ To quickly create many questions at once, use the **Import from spreadsheet** ta
 3. Paste rows of **tab-separated** values (copied from Excel, Google Sheets, etc.)
 4. Click **Import questions**
 
-![Import from spreadsheet](../../assets/images/import/import-from-spreadsheet.png)
+![Import from spreadsheet](/images/import/import-from-spreadsheet.png)
 
 ---
 

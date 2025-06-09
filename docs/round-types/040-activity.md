@@ -9,7 +9,7 @@ An Activity round lets you step away from standard quiz questions for a creative
 
 ---
 
-![Main screen for Activity round](../../assets/images/round-modes/activity-main-screen.png)
+![Main screen for Activity round](/images/round-modes/activity-main-screen.png)
 
 ---
 
@@ -22,9 +22,9 @@ An Activity round lets you step away from standard quiz questions for a creative
 - **Award Points:** After the activity, the quizmaster enters the results and awards points to the winning team(s).
 
 <table><tr><td markdown>
-![Team selection for Activity round](../../assets/images/round-modes/activity-team-selection.png)
+![Team selection for Activity round](/images/round-modes/activity-team-selection.png)
 </td><td markdown>
-![Activity round tools](../../assets/images/round-modes/activity-tools.png)
+![Activity round tools](/images/round-modes/activity-tools.png)
 </td></tr></table>
 
 
@@ -45,9 +45,9 @@ An Activity round lets you step away from standard quiz questions for a creative
 - **Award Points:** Points can be divided or awarded as you see fit.
 
 <table><tr><td markdown>
-![Winner selection screen](../../assets/images/round-modes/activity-winner-selection.png)
+![Winner selection screen](/images/round-modes/activity-winner-selection.png)
 </td><td markdown>
-![Custom points entry](../../assets/images/round-modes/activity-custom-points.png)
+![Custom points entry](/images/round-modes/activity-custom-points.png)
 </td></tr></table>
 
 ---

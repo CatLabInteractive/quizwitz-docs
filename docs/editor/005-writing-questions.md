@@ -17,7 +17,7 @@ To begin, click **Add new question**. You can add as many as you like.
 
 Click the **gear icon** in the top-left corner of a question to open its full settings panel.
 
-![Question options](../../assets/images/question-options.png)
+![Question options](/images/question-options.png)
 
 ---
 
@@ -56,7 +56,7 @@ These fields control what appears on the Quizmaster App and big screen:
 ---
 ## 📎 Attachments
 
-![Question attachments](../../assets/images/question-attachments.png)
+![Question attachments](/images/question-attachments.png)
 
 You can enhance questions with images, video, or audio. Each attachment can be shown at specific points:
 

@@ -9,7 +9,7 @@ A regular multiple choice question lets players select the correct answer from s
 
 ---
 
-![Example: Multiple choice question about flags](../../assets/images/question-modes/multiple-choice/multiple-choice-wales.png)
+![Example: Multiple choice question about flags](/images/question-modes/multiple-choice/multiple-choice-wales.png)
 
 ---
 

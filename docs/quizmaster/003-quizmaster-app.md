@@ -32,7 +32,7 @@ Before each round starts, you’ll see a round introduction screen.
 
 Each question has its own screen in the Quizmaster app:
 
-![Quizmaster app - start question](../../assets/images/quizmaster-app-start-question.png)
+![Quizmaster app - start question](/images/quizmaster-app-start-question.png)
 
 You’ll see:
 
@@ -57,7 +57,7 @@ The question will remain visible in your app until either:
 
 After a question ends, the correct answer is revealed. What you see depends on the question type — this example shows a multiple choice result screen:
 
-![Quizmaster app - question feedback](../../assets/images/quizmaster-app-question-feedback.png)
+![Quizmaster app - question feedback](/images/quizmaster-app-question-feedback.png)
 
 Includes:
 
@@ -75,8 +75,8 @@ Includes:
 
 When a round finishes, you’ll see a **Round Outro** screen that reveals the standings so far.
 
-![Quizmaster app - round outro](../../assets/images/quizmaster-app-round-outro.png)  
-![QuizWitz - round outro big screen](../../assets/images/round-outro.png)
+![Quizmaster app - round outro](/images/quizmaster-app-round-outro.png)  
+![QuizWitz - round outro big screen](/images/round-outro.png)
 
 In your app:
 
@@ -95,7 +95,7 @@ Players will see **their own position** on their device during the outro.
 
 At the end of the quiz, it’s time for a **winner reveal party** — complete with confetti and player emojis flying across the screen.
 
-![QuizWitz - game outro big screen](../../assets/images/game-outro.png)
+![QuizWitz - game outro big screen](/images/game-outro.png)
 
 - The default setting shows the **top 12 players**
 - You can customize how many players appear in the **advanced game settings**

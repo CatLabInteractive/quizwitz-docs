@@ -10,7 +10,7 @@ This round type is great for chronological, ranking, or sequencing challenges.
 
 ---
 
-![Example: Order question about animals](../../assets/images/question-modes/order-question/order-question-example.png)
+![Example: Order question about animals](/images/question-modes/order-question/order-question-example.png)
 
 ---
 

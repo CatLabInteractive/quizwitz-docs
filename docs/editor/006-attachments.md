@@ -15,7 +15,7 @@ These slots appear in the following parts of your quiz:
 
 Each page explains when these attachments are shown during gameplay.
 
-![Question attachments](../../assets/images/edit-question.png)
+![Question attachments](/images/edit-question.png)
 
 ---
 
