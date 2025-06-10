@@ -1,78 +1,78 @@
 ---
 id: dealers-choice
-title: Dealers' Choice
+title: Choix du croupier
 ---
 
-# 🃏 Dealer's choice
+# 🃏 Choix du croupier
 
-The **Dealers’ Choice** round in QuizWitz adds a strategic twist to your quiz.
+Le **round Choix du croupier** dans QuizWitz ajoute une touche stratégique à ton quiz.
 One of the players gets to **choose the next question category**, giving them a potential
-edge—and possibly a bonus! Here's how to set it up and play:
+edge—and possibly a bonus! Voici comment le configurer et y jouer :
 
 ---
 
-## 🔧 How It Works
+## 🔧 Comment ça marche
 
-In this round, **one player becomes the "dealer"** and selects the next category to play. The method of selection depends on the game mode:
+Dans ce round, **un joueur devient le "croupier"** et sélectionne la prochaine catégorie à jouer. La méthode de sélection dépend du mode de jeu :
 
-- **Party/Conference Game:** The dealer chooses a category using **their own device**.
-- **Live Game:** The dealer **announces their choice aloud** to the quizmaster.
-
----
-
-## 🏷️ Assigning Categories to Questions
-
-Each question in the Dealers’ Choice round needs a **unique label**, which acts as the category the dealer sees and selects from.
-
-For example:
-
-- `Animals – Easy`
-- `Animals – Hard`
-- `History – Fun Facts`
-- `Movies – Action Classics`
-
-> Even if questions share a general theme, their labels should still be unique so players can clearly identify and choose them.
-
-Labels are set in the **“Label” field** of each question's settings.
+- **Jeu en groupe/conférence :** Le croupier choisit une catégorie avec **son propre appareil**.
+- **Jeu en direct :** Le croupier **annonce son choix à voix haute** au quizmaster.
 
 ---
 
-## 🏆 Dealer Bonus
+## 🏷️ Attribution des catégories aux questions
 
-If the dealer correctly answers the question they chose, they can receive a **bonus**:
+Chaque question du round Choix du croupier a besoin d’une **étiquette unique**, qui sert de catégorie que le croupier voit et sélectionne.
 
-- Configure the **bonus percentage** (e.g. 50%) in the **Dealer Bonus** setting.
+Par exemple :
 
-> The bonus only applies if the dealer’s answer is correct.
+- `Animaux – Facile`
+- `Animaux – Difficile`
+- `Histoire – Anecdotes`
+- `Films – Classiques d’action`
 
----
+> Même si les questions partagent un thème général, leurs étiquettes doivent être uniques pour que les joueurs puissent clairement les identifier et choisir.
 
-## 👑 Dealer Selection
-
-Before the round starts, QuizWitz determines the dealer using one of these options:
-
-- Highest ranked player goes first
-- Lowest ranked player goes first
-- At random - Dealer is chosen randomly
-
-> Rankings are locked in **at the beginning of the round**.
+Les étiquettes se règlent dans le **champ “Étiquette”** des paramètres de chaque question.
 
 ---
 
-### Scoring Options:
+## 🏆 Bonus du croupier
+
+Si le croupier répond correctement à la question qu’il a choisie, il peut recevoir un **bonus** :
+
+- Configure le **pourcentage de bonus** (par exemple 50%) dans le réglage **Bonus du croupier**.
+
+> Le bonus ne s’applique que si la réponse du croupier est correcte.
+
+---
+
+## 👑 Sélection du croupier
+
+Avant le round, QuizWitz détermine le croupier en utilisant une de ces options :
+
+- Le joueur le mieux classé commence
+- Le joueur le moins bien classé commence
+- Au hasard - Le croupier est choisi aléatoirement
+
+> Les classements sont verrouillés **au début du round**.
+
+---
+
+### Options de score :
 
 - **Scoring strategy:** Choose _Dealer Bonus_
-- **Time-based scoring:** Set the minimum percentage of points retained for slower answers (e.g. 75%)
+- **Score basé sur le temps :** Définissez le pourcentage minimum de points conservés pour les réponses plus lentes (par exemple 75%)
 
 ---
 
-## 📝 Tips for Quizmasters
+## 📝 Conseils pour les quizmasters
 
-- Let players know they’ll be choosing from labeled categories.
-- In live games, be sure to note the dealer’s selection clearly.
-- Use unique, descriptive labels to avoid confusion during selection.
+- Prévenez les joueurs qu’ils vont choisir parmi des catégories étiquetées.
+- Dans les jeux en direct, assurez-vous de noter clairement la sélection du croupier.
+- Utilisez des étiquettes uniques et descriptives pour éviter toute confusion lors de la sélection.
 
 ---
 
-The Dealers’ Choice round encourages interaction and gives players a bit of control, while still rewarding quick and correct answers. It’s a great way to keep everyone engaged!
+Le round Choix du croupier encourage l’interaction et donne un peu de contrôle aux joueurs, tout en récompensant les réponses rapides et correctes. C’est un super moyen de garder tout le monde motivé !
 
