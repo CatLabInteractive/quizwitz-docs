@@ -4,23 +4,23 @@
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "QuizWitz Logo",
+    "message": "Logo de QuizWitz",
     "description": "The alt text of navbar logo"
   },
   "item.label.About QuizWitz": {
-    "message": "About QuizWitz",
+    "message": "Acerca de QuizWitz",
     "description": "Navbar item with label About QuizWitz"
   },
   "item.label.Round types": {
-    "message": "Round types",
+    "message": "Tipos de Round",
     "description": "Navbar item with label Round types"
   },
   "item.label.Question types": {
-    "message": "Question types",
+    "message": "Tipos de pregunta",
     "description": "Navbar item with label Question types"
   },
   "item.label.FAQ": {
-    "message": "FAQ",
+    "message": "Preguntas frecuentes",
     "description": "Navbar item with label FAQ"
   }
 }
