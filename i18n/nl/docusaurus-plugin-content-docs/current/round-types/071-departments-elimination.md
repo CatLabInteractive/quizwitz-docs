@@ -1,28 +1,28 @@
 ---
 id: department-elimination
-title: Department Elimination
+title: Afdeling Eliminatie
 ---
 
-# 🏢 Department elimination
+# 🏢 Afdeling eliminatie
 
-**Department elimination** is a special event that removes players from a specific department, using the same elimination criteria as the standard [Elimination](050-elimination.md) round.
-
----
-
-## 📝 How it works
-
-- When this event is triggered, only players or teams belonging to the selected department are considered for elimination.
-- The elimination criteria are flexible:
-    - **Kick the lowest ranked in the department** until a set number of players remain
-    - **Kick the highest ranked in the department** until a set number remain
-    - **Kick a specific number of lowest ranked** in the department
-    - **Kick a specific number of highest ranked** in the department
-- The number of players to keep or eliminate can be set as an exact number or percentage.
+**Afdeling eliminatie** is een speciaal evenement dat spelers verwijdert uit een specifieke afdeling, met dezelfde eliminatiecriteria als de standaard [Eliminatie](050-elimination.md) ronde.
 
 ---
 
-> Department elimination lets you run knockouts within a group or department, perfect for tournaments or themed competitions.
+## 📝 Hoe het werkt
+
+- Wanneer dit evenement wordt geactiveerd, worden alleen spelers of teams die tot de geselecteerde afdeling behoren, overwogen voor eliminatie.
+- De eliminatiecriteria zijn flexibel:
+    - **Trap de laagst geplaatste in de afdeling eruit** totdat er een bepaald aantal spelers overblijft
+    - **Trap de hoogst geplaatste in de afdeling eruit** totdat er een bepaald aantal overblijft
+    - **Trap een specifiek aantal laagst geplaatste** in de afdeling eruit
+    - **Trap een specifiek aantal hoogst geplaatste** in de afdeling eruit
+- Het aantal spelers om te behouden of te elimineren kan worden ingesteld als een exact aantal of percentage.
 
 ---
 
-For more on elimination options, see the [Elimination round](050-elimination.md) or [Round options](../editor/008-round-options.md).
+> Afdeling eliminatie stelt je in staat knockouts binnen een groep of afdeling uit te voeren, perfect voor toernooien of themawedstrijden.
+
+---
+
+Voor meer over eliminatie-opties, zie de [Eliminatie ronde](050-elimination.md) of [Ronde opties](../editor/008-round-options.md).

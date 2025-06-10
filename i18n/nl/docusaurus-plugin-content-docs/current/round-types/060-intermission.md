@@ -1,35 +1,36 @@
 ---
 id: intermission
-title: Intermission
+title: Pauze
 ---
 
-# ⏸️ Intermission
+# ⏸️ Pauze
 
-**Intermission** is a special event round that pauses the quiz for a break—ideal for stretching, chatting, or promoting sponsors.
+**Pauze** is een speciale ronde die de quiz onderbreekt voor een pauze—ideaal om even te rekken, te kletsen of sponsors te promoten.
 
 ---
 
-## 📝 How it works
+## 📝 Hoe het werkt
 
-- During an intermission, the main game screen is paused and a timer is shown.
+- Tijdens een pauze wordt het hoofdspel gepauzeerd en wordt een timer weergegeven.
 - **In conference and party games:**\
   The intermission ends when someone presses **Enter** on the main game screen.
 - **In QuizWitz Live games:**\
   The quizmaster ends the intermission from their device (tablet or smartphone).\
-  The Quizmaster app displays a timer so the host can see how long the intermission has lasted.
+  The Quizmaster app displays a timer so the host can see how long the intermission has lasted.\
+  De Quizmaster app toont een timer zodat de host kan zien hoe lang de pauze duurt.
 
 ---
 
-## 🖼️ Attachments
+## 🖼️ Bijlagen
 
-- You can upload images, logos, or videos in the round settings.
-- During the intermission, these attachments will be shown in a carousel on the main screen—great for sponsor logos, messages, or promotional videos.
-- Attachments will loop for the duration of the break.
-
----
-
-> Intermissions are perfect for scheduled breaks, halftime entertainment, or showcasing important messages without interrupting the quiz flow.
+- Je kunt afbeeldingen, logo's of video's uploaden in de ronde-instellingen.
+- Tijdens de pauze worden deze bijlagen getoond in een carrousel op het hoofdscherm—ideaal voor sponsorlogo's, berichten of promotievideo's.
+- Bijlagen worden herhaald gedurende de hele pauzeduur.
 
 ---
 
-For more on customizing your intermission and using attachments, see [Round options](../editor/008-round-options.md) and [Attachments guide](../editor/006-attachments.md).
+> Pauzes zijn perfect voor geplande onderbrekingen, entertainment bij de rust, of het tonen van belangrijke berichten zonder de quiz te onderbreken.
+
+---
+
+Voor meer informatie over het aanpassen van je pauze en het gebruik van bijlagen, zie [Round options](../editor/008-round-options.md) en [Attachments guide](../editor/006-attachments.md).

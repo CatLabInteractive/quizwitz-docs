@@ -1,23 +1,23 @@
 ---
 id: player-introduction
-title: Player Introduction
+title: Spelerintroductie
 ---
 
-# 🙋‍♂️ Player introduction
+# 🙋‍♂️ Spelerintroductie
 
-**Player introduction** is a special event that simply displays the **names and selected emojis of all players or teams** on the main game screen.
-
----
-
-## 📝 How it works
-
-- At this point in the quiz, each participant’s **name** and chosen **emoji** will appear on the big screen.
-- This is often used at the start of an event, after a break, or before a final round to introduce or celebrate participants.
+**Spelerintroductie** is een speciaal evenement dat simpelweg de **namen en gekozen emoji’s van alle spelers of teams** op het hoofdscherm toont.
 
 ---
 
-> Player introductions help set the mood, break the ice, and personalize the quiz experience—especially in live and team-based events!
+## 📝 Hoe het werkt
+
+- Op dit punt in de quiz verschijnen de **naam** en gekozen **emoji** van elke deelnemer op het grote scherm.
+- Dit wordt vaak gebruikt aan het begin van een evenement, na een pauze, of voor een laatste ronde om deelnemers voor te stellen of te vieren.
 
 ---
 
-For other special event rounds, see [Round options](../editor/008-round-options.md).
+> Spelerintroducties helpen om de sfeer te zetten, het ijs te breken en de quizervaring te personaliseren—vooral bij live en teamgebaseerde evenementen!
+
+---
+
+Voor andere speciale ronden zie [Rond opties](../editor/008-round-options.md).

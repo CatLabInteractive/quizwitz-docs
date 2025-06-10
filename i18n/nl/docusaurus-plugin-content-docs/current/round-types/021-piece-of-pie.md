@@ -1,39 +1,39 @@
 ---
 id: piece-of-pie
-title: Piece of pie
+title: Stuk taart
 ---
 
-# 🥧 Piece of pie
+# 🥧 Stuk taart
 
-In a **Piece of pie** round, teamwork pays off! The total points available for each question depend on the number of players, and are then split between all players (or teams) who answer the question correctly.
-
----
-
-## 📝 How it works
-
-- **Total points = base points × number of players (or teams).**
-    - Example: If a question is worth 100 points and there are 20 players, 2,000 points are at stake.
-- After the question, the **total points are divided equally** among everyone who answered correctly.
-    - Example: If 5 players answered correctly, each of them gets 400 points.
-- If everyone gets it right, everyone gets the same (lower) share. If only one player is correct, they get the whole “pie”!
+In een **Stuk taart** ronde loont teamwork! De totaal beschikbare punten per vraag hangen af van het aantal spelers, en worden vervolgens verdeeld over alle spelers (of teams) die de vraag correct beantwoorden.
 
 ---
 
-## ⚙️ Time-based scoring
+## 📝 Hoe het werkt
 
-- **Time-based scoring can be enabled** (and is enabled by default).
+- **Totaal punten = basis punten × aantal spelers (of teams).**
+    - Voorbeeld: als een vraag 100 punten waard is en er zijn 20 spelers, staan er 2000 punten op het spel.
+- Na de vraag worden de **totaal punten gelijk verdeeld** onder iedereen die correct geantwoord heeft.
+    - Voorbeeld: als 5 spelers het antwoord goed hebben, krijgt ieder van hen 400 punten.
+- Als iedereen het goed heeft, krijgt iedereen hetzelfde (lagere) aandeel. Als maar één speler het antwoord goed heeft, krijgt die de hele "taart"!
+
+---
+
+## ⚙️ Tijdgebaseerde puntentelling
+
+- **Tijdgebaseerde puntentelling kan ingeschakeld worden** (en staat standaard aan).
 - In that case, the displayed points are the _maximum_ you could win for a fast and correct answer.
 - Your share of the “pie” will be adjusted for your speed _and_ the number of other correct answers.
-- For details, see the [scoring section](../editor/008-round-options.md#scoring).
+- Voor details, zie de [puntentelling sectie](../editor/008-round-options.md#scoring).
 
 ---
 
 ## 💡 Tips
 
-- **Encourage unique knowledge!** The fewer people who get it right, the bigger the reward.
-- **Speed still matters** if time-based scoring is on, but sharing the “pie” means you want to be both fast and correct.
-- Works well for questions where there’s a single clear answer, or to reward players who think outside the box.
+- **Moedig unieke kennis aan!** Hoe minder mensen het goed hebben, hoe groter de beloning.
+- **Snelheid blijft belangrijk** als tijdgebaseerde puntentelling aan staat, maar het delen van de "taart" betekent dat je zowel snel als correct wilt zijn.
+- Werkt goed voor vragen met één duidelijk antwoord, of om spelers te belonen die buiten de lijntjes denken.
 
 ---
 
-For more about round settings and configuration, see [Round options](../editor/008-round-options.md).
+Voor meer over ronde instellingen en configuratie, zie [Ronde opties](../editor/008-round-options.md).

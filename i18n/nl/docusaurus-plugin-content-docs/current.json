@@ -1,30 +1,30 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Volgende",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.For players": {
-    "message": "For players",
+    "message": "Voor spelers",
     "description": "The label for category For players in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.For quizmakers": {
-    "message": "For quizmakers",
+    "message": "Voor quizmakers",
     "description": "The label for category For quizmakers in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.For quizmasters": {
-    "message": "For quizmasters",
+    "message": "Voor quizmasters",
     "description": "The label for category For quizmasters in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Round types": {
-    "message": "Round types",
+    "message": "Rondetypen",
     "description": "The label for category Round types in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Question types": {
-    "message": "Question types",
+    "message": "Vraagtypen",
     "description": "The label for category Question types in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Advanced": {
-    "message": "Advanced",
+    "message": "Geavanceerd",
     "description": "The label for category Advanced in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Tutorials": {

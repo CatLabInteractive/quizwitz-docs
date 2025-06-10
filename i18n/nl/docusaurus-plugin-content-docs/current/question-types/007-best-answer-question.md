@@ -1,30 +1,31 @@
 ---
 id: best-answer-question
-title: Best answer question
+title: Beste antwoord vraag
 ---
 
-# 🎖️ Best answer question
+# 🎖️ Beste antwoord vraag
 
+In het type **Beste antwoord vraag** schrijven spelers hun eigen antwoorden op een open vraag.\
 In the **Best answer question** type, players write their own answers to an open-ended question.\
 Points are awarded either manually by the quizmaster, or—if there is no quizmaster—by having players vote for their favorite response.
 
 ---
 
-## 📝 How it works
+## 📝 Hoe het werkt
 
-- **Players answer:** Each player types their response to the open question.
-- **Scoring:**
-    - In **QuizWitz Live** (with a quizmaster), the host reviews all answers and assigns points to the best one(s).
-    - In regular games (no host), players vote for the answer they think is best. The answer(s) with the most votes get the points.
-
----
-
-## 💡 Tips for best answer questions
-
-- Use creative, open-ended questions that invite original or funny responses.
-- For in-person or hosted quizzes, the quizmaster can award points for creativity, accuracy, or humor.
-- In self-hosted games, voting encourages players to read each other's answers and adds a fun social element.
+- **Spelers antwoorden:** Elke speler typt zijn antwoord op de open vraag.
+- **Puntentelling:**
+    - In **QuizWitz Live** (met een quizmaster) bekijkt de host alle antwoorden en kent punten toe aan het beste antwoord/de beste antwoorden.
+    - In gewone spellen (zonder host) stemmen spelers op het antwoord dat zij het beste vinden. Het antwoord/de antwoorden met de meeste stemmen krijgen de punten.
 
 ---
 
-> 📚 For more on how voting or manual scoring works, see the [Jury app documentation](../quizmaster/004-jury-app.md).
+## 💡 Tips voor beste antwoord vragen
+
+- Gebruik creatieve, open vragen die uitnodigen tot originele of grappige antwoorden.
+- Bij fysieke of gehoste quizzes kan de quizmaster punten toekennen voor creativiteit, juistheid of humor.
+- In zelf gehoste spellen stimuleert stemmen spelers om elkaars antwoorden te lezen en voegt het een leuk sociaal element toe.
+
+---
+
+> 📚 Voor meer over hoe stemmen of handmatige puntentelling werkt, zie de [Jury app documentatie](../quizmaster/004-jury-app.md).

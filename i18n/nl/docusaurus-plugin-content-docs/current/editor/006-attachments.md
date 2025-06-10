@@ -1,63 +1,64 @@
 ---
 id: attachments
-title: Attachments
+title: Bijlagen
 ---
 
-# 📎 Attachments
+# 📎 Bijlagen
 
-Attachments can be added in various slots throughout your quiz to enrich the experience with images, audio, or video.
+Bijlagen kunnen in verschillende velden door je quiz worden toegevoegd om de ervaring te verrijken met afbeeldingen, audio of video.
 
-These slots appear in the following parts of your quiz:
+Deze velden verschijnen in de volgende delen van je quiz:
 
 - [Questions](../editor/writing-questions)
 - [Rounds](../editor/round-options)
 - [Quizzes](../editor/quiz-options)
 
-Each page explains when these attachments are shown during gameplay.
+Elke pagina legt uit wanneer deze bijlagen tijdens het spel worden getoond.
 
-![Question attachments](/images/edit-question.png)
-
----
-
-## 🗂️ Supported file types
-
-Here is a general (non-exhaustive) list of compatible formats:
-
-- **Images** — `.png`, `.jpeg`, `.gif` (non-animated). Full HD (1920×1080) recommended
-- **Audio** — Most standard formats are supported
-- **Video** — Most standard formats are supported
-
-> 🔊 ⏱️ Audio and video attachments should be **no longer than 15 minutes** in duration.
+![Vraagbijlagen](/images/edit-question.png)
 
 ---
 
-## 📝 Name & attribution
+## 🗂️ Ondersteunde bestandstypen
 
-Each attachment can have a name and optional attribution:
+Hier is een algemene (niet-uitputtende) lijst van compatibele formaten:
+
+- **Afbeeldingen** — `.png`, `.jpeg`, `.gif` (niet-geanimeerd). Full HD (1920×1080) aanbevolen
+- **Audio** — De meeste standaardformaten worden ondersteund
+- **Video** — De meeste standaardformaten worden ondersteund
+
+> 🔊 ⏱️ Audio- en video-bijlagen mogen **niet langer zijn dan 15 minuten**.
+
+---
+
+## 📝 Naam & toeschrijving
+
+Elke bijlage kan een naam en optioneel een toeschrijving hebben:
 
 - **Name** — Displayed to the quizmaster in [QuizWitz Live (PRO)](../quizmaster/introduction); helps in organizing attachments
-- **Attribution** — Shown to players as credit or source information. This should be the **name of the rights holder**.
+- **Toeschrijving** — Wordt aan spelers getoond als eerbewijs of broninformatie. Dit moet de **naam van de rechthebbende** zijn.
 
-> ⚠️ In order to **publish** a Round-About or Quiz, **all attachments must have a valid attribution** filled in. Without this, your entry cannot be made public.
-
----
-
-## ✨ Attachment effects
-
-Some attachment slots support **effects** to reveal visuals more gradually:
-
-- **None** — The file is shown as-is
-- **Spotlight effect** — Gradually reveals parts of the image over time with a moving spotlight that expands as it progresses
-
-This is especially effective for puzzles or slow reveals during intros or dramatic moments.
+> ⚠️ Om een Round-About of Quiz te **publiceren**, moeten **alle bijlagen een geldige toeschrijving** hebben. Zonder deze informatie kan je inzending niet openbaar gemaakt worden.
 
 ---
 
-## 📚 Multiple attachments per slot
+## ✨ Bijlage-effecten
 
-Some slots allow adding **multiple attachments**. The way these behave depends on the game mode:
+Sommige bijlagevelden ondersteunen **effecten** om visuals geleidelijker te tonen:
+
+- **Geen** — Het bestand wordt zoals het is weergegeven
+- **Spotlight-effect** — Toont delen van de afbeelding langzaam door een bewegende spotlight die zich uitstrekt terwijl het vordert
+
+Dit werkt vooral goed bij puzzels of trage onthullingen tijdens intro’s of dramatische momenten.
+
+---
+
+## 📚 Meerdere bijlagen per veld
+
+Sommige velden laten toe om **meerdere bijlagen** toe te voegen. Hoe ze zich gedragen hangt af van de spelmodus:
 
 > ⚡ **In [QuizWitz Live (PRO)](../quizmaster/introduction):** The quizmaster has full control and can decide when to show or hide attachments during gameplay.\
-> 🎮 **In regular games:** All attachments within a slot are shown **simultaneously**.
+> 🎮 **In regular games:** All attachments within a slot are shown **simultaneously**.\
+> 🎮 **In gewone games:** Alle bijlagen binnen een veld worden **tegelijkertijd** getoond.
 
 Details about each slot’s timing and behavior can be found in the linked documentation for [questions](../editor/writing-questions), [rounds](../editor/round-options), and [quizzes](../editor/quiz-options).

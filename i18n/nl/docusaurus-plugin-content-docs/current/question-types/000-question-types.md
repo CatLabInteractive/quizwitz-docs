@@ -1,33 +1,33 @@
 ---
 id: question-types
-title: Question types
+title: Vraagtypes
 ---
 
-# Question types
+# Vraagtypes
 
-QuizWitz supports different question types. Each type has its own rules and gameplay mechanics.
-We suggest using a mix of different types to keep the game interesting and engaging.
+QuizWitz ondersteunt verschillende vraagtypes. Elk type heeft zijn eigen regels en speelmechanismen.
+We raden aan een mix van verschillende types te gebruiken om het spel interessant en boeiend te houden.
 
-Note that some round types limit the question types you can use.
+Let op dat sommige rondetypes de vraagtypes beperken die je kunt gebruiken.
 
-## Regular question types
+## Reguliere vraagtypes
 
-These are the most common question types. They are easy to understand and play.
+Dit zijn de meest voorkomende vraagtypes. Ze zijn makkelijk te begrijpen en te spelen.
 
-- [Multiple choice](001-multiple-choice.md) (default)
+- [Multiple choice](001-multiple-choice.md) (standaard)
 - [Order question](003-order-question.md)
 - [Image map question](004-image-map.md)
 
-## Open questions
+## Open vragen
 
-Open questions require players to type in their answers.
+Open vragen vereisen dat spelers hun antwoorden typen.
 
 - [Open question](002-open-question.md)
 - [List question](005-list-question.md)
 
 ## Specials
 
-These questions make the game slightly less fair, but they help to make sure there is always a winner.
+Deze vragen maken het spel iets minder eerlijk, maar ze zorgen ervoor dat er altijd een winnaar is.
 
 - [Tiebreaker question](006-tiebreaker-question.md)
 - [Best answer question](007-best-answer-question.md)

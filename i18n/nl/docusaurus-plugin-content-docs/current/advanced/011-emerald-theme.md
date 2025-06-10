@@ -31,12 +31,12 @@ De simpelste manier om het uiterlijk en het gevoel van de game te veranderen is 
 
 ### Rondebijlagen
 
-Je kunt ook afbeeldingen of videos uploaden die voor en na de quiz worden getoond. Dit geldt ook voor rondes: zoek een afbeelding die je wilt gebruiken als introductie, ga naar **ronde-instellingen**, zet **Toon ronde-intro** uit om de standaard ronde-intro te verbergen, en upload je afbeelding of video als **Toon voor ronde**. Wanneer de ronde start, wordt de afbeelding of video weergegeven in plaats van de standaard introductie.
+Je kunt ook afbeeldingen of video's uploaden die voor en na de quiz worden getoond. Dit geldt ook voor rondes: zoek een afbeelding die je wilt gebruiken als introductie, ga naar **ronde-instellingen**, zet **Toon ronde-intro** uit om de standaard ronde-intro te verbergen, en upload je afbeelding of video als **Toon voor ronde**. Wanneer de ronde start, wordt de afbeelding of video weergegeven in plaats van de standaard introductie.
 
 ![Een screenshot van de rondebijlagen](/images/emerald/round-settings.png)
 
 :::tip
-Gebruik afbeeldingen en videos met een resolutie van 1920 x 1080 voor het beste resultaat.
+Gebruik afbeeldingen en video's met een resolutie van 1920 x 1080 voor het beste resultaat.
 :::
 
 :::info
@@ -60,6 +60,7 @@ Als je bovenstaande quiz start, krijg je de game in de standaard Emerald-stijl. 
 
 :::tip
 De makkelijkste manier om te experimenteren met deze parameters is met onze thematester.\
+De makkelijkste manier om te experimenteren met deze parameters is met onze thematester.\
 Ben je klaar met experimenteren, dan kun je de parameters gewoon kopiëren en plakken naar de URL van je geavanceerde spelopties.
 :::
 
@@ -79,7 +80,7 @@ Daarnaast kun je een standaardlettertype instellen:
 - defaultFont
 - headerFont
 
-Deze lettertypes moeten URLs zijn naar publiek toegankelijke fontbestanden.
+Deze lettertypes moeten URL's zijn naar publiek toegankelijke fontbestanden.
 
 Elk van deze aanpassers kan een enkele kleur bevatten in HTML-hexformaat (ff0000), of een lineaire gradient door meerdere kleuren te geven gescheiden door een minteken (zoals ff1b6b-45caff). (Let op: het # symbool mag niet gebruikt worden.)
 

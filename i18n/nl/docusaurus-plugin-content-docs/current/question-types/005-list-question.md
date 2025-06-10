@@ -1,62 +1,64 @@
 ---
 id: list-question
-title: List question
+title: Lijstvraag
 ---
 
-# 📝 List question
+# 📝 Lijstvraag
 
-A **List question** asks players to provide several correct answers from a larger list — perfect for prompts like “List the first 5 presidents of the United States of America” or “Name three elements in the periodic table.”
-
----
-
-![Example: List question with US presidents](/images/question-modes/list-question/list-question.png)
+Een **lijstvraag** vraagt spelers om meerdere correcte antwoorden te geven uit een grotere lijst — perfect voor aanwijzingen zoals "Noem de eerste 5 presidenten van de Verenigde Staten van Amerika" of "Noem drie elementen uit het periodiek systeem."
 
 ---
 
-## 📝 How it works
-
-- **Question:** Clearly state what you want players to list.
-- **List items:** Enter all possible correct answers.
-  - Mark some as **‘Given’** to show as examples on screen; these do NOT need to be answered.
-  - Order does **not** matter — players can enter correct answers in any order.
-- **Player input:** Players must provide a set number of answers (e.g., between 1 and 5). Points are awarded for each correct answer they submit.
-- **Attachments:** Add images, audio, or video for context. Fill in attribution if publishing.
+![Voorbeeld: lijstvraag met Amerikaanse presidenten](/images/question-modes/list-question/list-question.png)
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Hoe het werkt
 
-- **Minimum and maximum answers:** Define how many answers a player must give.
-- **Points per answer:** Points can be awarded for each correct answer, or only when the minimum number is met.
-- **Given options:** Use as in-question examples.
-- **Correction:**
-  - **Force automatic correction:** When enabled, QuizWitz automatically checks all answers (accepting small typos and variations). No jury needed.
-  - **Manual review:** When not enabled, each provided answer must be reviewed by the [jury app](../quizmaster/004-jury-app.md).
+- **Vraag:** Geef duidelijk aan wat je wilt dat spelers lijst.
+- **Lijstitems:** Voer alle mogelijke correcte antwoorden in.
+  - Markeer sommige als **‘Gegeven’** om ze als voorbeelden op het scherm te tonen; deze hoeven NIET beantwoord te worden.
+  - Volgorde doet er **NIET** toe — spelers kunnen correcte antwoorden in willekeurige volgorde invoeren.
+- **Spelerinvoer:** Spelers moeten een vastgesteld aantal antwoorden geven (bijv. tussen 1 en 5). Punten worden toegekend voor elk correct antwoord dat ze indienen.
+- **Bijlagen:** Voeg afbeeldingen, audio of video toe voor context. Vul bronvermelding in indien gepubliceerd.
 
 ---
 
-## 🏆 Scoring
+## ⚙️ Uitgebreide instellingen
 
-- **Points per correct answer:** Players earn points for each correct answer.
+- **Minimale en maximale antwoorden:** Geef aan hoeveel antwoorden een speler moet geven.
+- **Punten per antwoord:** Punten kunnen per correct antwoord worden toegekend, of alleen wanneer het minimum aantal is behaald.
+- **Gegeven opties:** Gebruik als voorbeelden in de vraag.
+- **Correctie:**
+  - **Forceer automatische correctie:** Als ingeschakeld, controleert QuizWitz automatisch alle antwoorden (met acceptatie van kleine typefouten en variaties). Geen jury nodig.
+  - **Handmatige beoordeling:** Als niet ingeschakeld, moet elk gegeven antwoord worden beoordeeld door de [jury app](../quizmaster/004-jury-app.md).
+
+---
+
+## 🏆 Score
+
+- **Punten per correct antwoord:** Spelers verdienen punten voor elk correct antwoord.
 - **Time-based scoring** (if enabled):\
   Follows the **open question rules** for fairness:
-  - The available points are split into blocks of time (not by the millisecond).\
+  - De beschikbare punten zijn verdeeld in tijdsblokken (niet per milliseconde).\
+    The available points are split into blocks of time (not by the millisecond).\
     For example: full points in the first block, 80% in the next, and so on.
-  - **Only 25%** of the points depend on speed.\
+  - **Slechts 25%** van de punten is afhankelijk van snelheid.\
+    **Only 25%** of the points depend on speed.\
     The other **75%** is fixed — so even slower typers get most of the points if they answer correctly.
-  - This reduces the penalty for typing speed and makes scoring fairer for everyone.
+  - Dit vermindert de straf voor typsnelheid en maakt het scoren eerlijker voor iedereen.
 
-For details, see [round scoring options](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips for list questions
-
-- **Be specific:** Clearly define valid answers.
-- **Show examples:** Use the ‘Given’ feature.
-- **List variants:** Include common spellings/variations.
-- **Reduce jury work:** Use automatic correction if possible.
+Voor details, zie [ronde score opties](../editor/008-round-options.md#scoring).
 
 ---
 
-For more, see [Jury app documentation](../quizmaster/004-jury-app.md).
+## 💡 Tips voor lijstvragen
+
+- **Wees specifiek:** Definieer duidelijk geldige antwoorden.
+- **Toon voorbeelden:** Gebruik de functie ‘Gegeven’.
+- **Lijstvarianten:** Voeg gangbare spellingen/variaties toe.
+- **Verminder jurywerk:** Gebruik automatische correctie indien mogelijk.
+
+---
+
+Voor meer, zie [Jury app documentatie](../quizmaster/004-jury-app.md).

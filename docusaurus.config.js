@@ -29,7 +29,14 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/catlabinteractive/quizwitz-docs/edit/main/',
+          editUrl: ({locale, versionDocsDirPath, docPath}) => {
+            // Link to Crowdin for French docs
+            if (locale !== 'en') {
+              return `https://crowdin.com/project/quizwitz-documentation/${locale}`;
+            }
+            // Link to GitHub for English docs
+            return 'https://github.com/catlabinteractive/quizwitz-docs/edit/main/';
+          },
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

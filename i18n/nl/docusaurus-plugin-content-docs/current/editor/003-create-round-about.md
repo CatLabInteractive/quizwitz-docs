@@ -1,71 +1,71 @@
 ---
 id: create-round-about
-title: Create a Round-About
+title: Maak een Round-About
 ---
 
-# 🧠 Create a Round-About
+# 🧠 Maak een Round-About
 
-A **Round-About** is the core quiz unit in QuizWitz — a themed set of questions presented in random order. You can create your own and play privately, or publish it to share with the community.
-
----
-
-## 🎬 Getting started
-
-From the main menu:
-
-1. Click **Create**
-2. Select **Round-About** from the dropdown
-
-![QuizWitz top navigation bar](/images/top-menu-create.png)
+Een **Round-About** is de kernquiz-eenheid in QuizWitz — een thematische set vragen die in willekeurige volgorde worden gepresenteerd. Je kunt je eigen maken en privé spelen, of publiceren om te delen met de community.
 
 ---
 
-## ✏️ Title, language & category
+## 🎬 Aan de slag
 
-Start by giving your Round-About a clear:
+Vanaf het hoofdmenu:
 
-- **Title** — something catchy or descriptive
-- **Language** — the language your questions are written in
-- **Category** — helps players find your Round-About later
+1. Klik op **Maak aan**
+2. Selecteer **Round-About** uit het dropdownmenu
 
-> 🔒 You don't need to publish your Round-About to play it. Keep it private or publish it when you're ready to share.
-
-![QuizWitz create round](/images/create-round.png)
+![QuizWitz top navigatiebalk](/images/top-menu-create.png)
 
 ---
 
-## ➕ Adding questions
+## ✏️ Titel, taal & categorie
 
-Click **Add new question** to begin creating your quiz content.
+Begin met je Round-About een duidelijke te geven:
 
-- Add as many questions as you like
-- Save your progress frequently
-- You can test and play your Round-About at any time
+- **Titel** — iets pakkends of beschrijvends
+- **Taal** — de taal waarin je vragen zijn geschreven
+- **Categorie** — helpt spelers je Round-About later terug te vinden
 
-> 📢 **To publish your Round-About**, you’ll need **at least 14 questions**. Once published, it becomes visible to the entire QuizWitz community — but you can unpublish it later if needed.
+> 🔒 Je hoeft je Round-About niet te publiceren om hem te spelen. Houd het privé of publiceer het als je klaar bent om te delen.
 
-Want to add questions in bulk? Use the **Import questions** feature and follow the prompts to format everything correctly.
-
-> 🛠️ More details on question types and editing can be found in the upcoming chapters.
+![QuizWitz maak round](/images/create-round.png)
 
 ---
 
-## ⚙️ Round-About settings
+## ➕ Vragen toevoegen
 
-In the **Details** section, you’ll find additional configuration options:
+Klik op **Nieuwe vraag toevoegen** om te beginnen met het maken van je quizinhoud.
 
-- **Translate** — Create a translated version of your Round-About in another language
-- **Category** — Choose or update your Round-About’s category
-- **Round type** — Select how questions are presented to players. You can configure:
-    - Multiple choice
-    - Open questions
-    - Lightning rounds
-    - And more
+- Voeg zoveel vragen toe als je wilt
+- Sla je voortgang regelmatig op
+- Je kunt je Round-About op elk moment testen en spelen
 
-> 🔗 Learn more about [round types](../round-types/000-round-types.md) and [question types](../question-types/000-question-types.md) in the advanced guides.
+> 📢 **Om je Round-About te publiceren** heb je **minstens 14 vragen** nodig. Eenmaal gepubliceerd, wordt het zichtbaar voor de hele QuizWitz community — maar je kunt het later weer unpubliceren als dat nodig is.
 
-![Round-About settings](/images/round-about-details.png)
+Wil je vragen in bulk toevoegen? Gebruik de functie **Vragen importeren** en volg de instructies om alles correct te formatteren.
+
+> 🛠️ Meer details over vraagtypen en bewerken vind je in de volgende hoofdstukken.
 
 ---
 
-When you're happy with your content, hit publish — and share your Round-About with the world!
+## ⚙️ Round-About instellingen
+
+In de sectie **Details** vind je extra configuratieopties:
+
+- **Vertalen** — Maak een vertaalde versie van je Round-About in een andere taal
+- **Categorie** — Kies of werk de categorie van je Round-About bij
+- **Rondetype** — Selecteer hoe vragen aan spelers worden gepresenteerd. Je kunt configureren:
+    - Meerkeuze
+    - Open vragen
+    - Bliksemrondes
+    - En meer
+
+> 🔗 Leer meer over [rondetypes](../round-types/000-round-types.md) en [vraagtypes](../question-types/000-question-types.md) in de gevorderde handleidingen.
+
+![Round-About instellingen](/images/round-about-details.png)
+
+---
+
+Als je tevreden bent met je inhoud, druk dan op publiceren — en deel je Round-About met de wereld!

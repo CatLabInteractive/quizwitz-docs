@@ -3,59 +3,59 @@ id: jury-app
 title: Jury app
 ---
 
-# 🧑‍⚖️ Jury app — Reviewing open answers in QuizWitz Live
+# 🧑‍⚖️ Jury app — Beoordelen van open antwoorden in QuizWitz Live
 
-If your quiz includes **open answer questions**, you'll need to use the **Jury app** to manually review and score responses.
+Als je quiz **open antwoord vragen** bevat, moet je de **Jury app** gebruiken om reacties handmatig te beoordelen en te scoren.
 
 ---
 
-## 🗂️ Using the Jury app
+## 🗂️ Gebruik van de Jury app
 
-The Jury app is a separate interface used by jury members to evaluate answers and manage scoring.
+De Jury app is een aparte interface die door juryleden wordt gebruikt om antwoorden te evalueren en de score bij te houden.
 
-To open the Jury app:
+Om de Jury app te openen:
 
-1. At the start of the quiz, a **Jury Code** is generated.
-2. On a separate device, go to [**catlab.tv**](https://catlab.tv)
-3. Enter the **Jury Code** to access the app
+1. Aan het begin van de quiz wordt een **Jury Code** gegenereerd.
+2. Ga op een ander apparaat naar [**catlab.tv**](https://catlab.tv)
+3. Voer de **Jury Code** in om toegang te krijgen tot de app
 
-> 💡 You can open the Jury app on any browser — it's a web app, no installation required.
+> 💡 Je kunt de Jury app openen in elke browser — het is een webapp, installatie is niet nodig.
 
-Once inside, the Jury app provides several useful tools:
+Binnenin biedt de Jury app verschillende handige tools:
 
-- **Judge questions** — Open question results will appear once a question is completed.
-  - The game does **not wait** for the jury to finish — unless it’s the **last question of the round** or the quiz settings say otherwise.
-  - Once judged, results appear **after the next question**.
+- **Beoordeel vragen** — Resultaten van open vragen verschijnen zodra een vraag is afgerond.
+  - Het spel wacht **niet** op de jury om klaar te zijn — tenzij het de **laatste vraag van de ronde** is of de quizinstellingen anders aangeven.
+  - Na beoordeling verschijnen de resultaten **na de volgende vraag**.
 
-- **Edit scores** — Grant or revoke points manually per player or team.
+- **Pas scores aan** — Ken handmatig punten toe of haal ze weg per speler of team.
 
-- **Game control** — Adjust question timers or add streaming delays if needed.
+- **Spelbeheer** — Pas vraag timers aan of voeg streamvertragingen toe indien nodig.
   > For livestream delay setup, see [**how to host a QuizWitz Live quiz on Twitch**](../tutorials/livestream-tutorial)
 
-- **Report** — Generate a full game report with results and player answers.
+- **Rapport** — Maak een volledig spelrapport met resultaten en spelersantwoorden.
 
-![Screenshot of the Jury app in Pending state](/images/jury-app-waiting.png)
-
----
-
-## ✅ Judging open questions
-
-After each open question, the Jury app displays all submitted answers. Jury members must:
-
-1. Review each answer carefully
-2. Tick the checkbox next to each **acceptable** answer
-3. Click **‘Confirm’** to lock in the results
-
-![Screenshot of the Jury app in the Judging state](/images/jury-app-judging.png)
-
-QuizWitz will **automatically detect exact matches** and mark them as correct. Jury members are responsible for reviewing:
-
-- Partial or alternate answers
-- Phonetic matches
-- Common spelling variations
-
-> 🎙️ QuizWitz was designed with phonetic matching in mind — but the final decision is always up to the judges.
+![Screenshot van de Jury app in Wachttoestand](/images/jury-app-waiting.png)
 
 ---
 
-With the Jury app, you can fairly assess open responses, adjust scores, and ensure a balanced quiz experience for all players.
+## ✅ Beoordeling van open vragen
+
+Na elke open vraag toont de Jury app alle ingestuurde antwoorden. Juryleden moeten:
+
+1. Elk antwoord zorgvuldig beoordelen
+2. Het selectievakje aanvinken naast elk **acceptabel** antwoord
+3. Klik op **‘Bevestigen’** om de resultaten vast te leggen
+
+![Screenshot van de Jury app in de Beoordelingsfase](/images/jury-app-judging.png)
+
+QuizWitz zal **automatisch exacte overeenkomsten herkennen** en markeren als correct. Juryleden zijn verantwoordelijk voor het beoordelen van:
+
+- Deelantwoorden of alternatieve antwoorden
+- Fonemische overeenkomsten
+- Veelvoorkomende spellingvariaties
+
+> 🎙️ QuizWitz is ontworpen met fonetische matching in gedachten — maar de uiteindelijke beslissing ligt altijd bij de juryleden.
+
+---
+
+Met de Jury app kun je open antwoorden eerlijk beoordelen, scores aanpassen en zorgen voor een gebalanceerde quizervaring voor alle spelers.

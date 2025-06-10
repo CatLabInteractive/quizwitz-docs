@@ -1,48 +1,51 @@
 ---
 id: multiple-choice
-title: Multiple choice question
+title: Meerkeuzevraag
 ---
 
-# 🔢 Multiple choice
+# 🔢 Meerkeuze
 
-A regular multiple choice question lets players select the correct answer from several given options.
-
----
-
-![Example: Multiple choice question about flags](/images/question-modes/multiple-choice/multiple-choice-wales.png)
+Een gewone meerkeuzevraag laat spelers het juiste antwoord kiezen uit verschillende gegeven opties.
 
 ---
 
-## 📝 How it works
-
-- **Question:** State clearly what players should answer (example: “Select the flag of 🐟🐟🐟”).
-- **Options:** You can provide up to four answer options.
-- **Correct/Wrong:** Mark one or more correct answers, depending on your settings.
-- **Feedback:** Players see which answer was correct after answering. Optionally, you can provide extra feedback or explanations.
+![Voorbeeld: Meerkeuzevraag over vlaggen](/images/question-modes/multiple-choice/multiple-choice-wales.png)
 
 ---
 
-## 🏆 Scoring
+## 📝 Hoe het werkt
 
-Multiple choice questions use **time-based scoring** by default: faster answers earn more points. For these questions, scoring decreases continuously per microsecond, with most points fixed and only a portion influenced by speed.\
+- **Vraag:** Geef duidelijk aan wat spelers moeten antwoorden (voorbeeld: "Selecteer de vlag van 🐟🐟🐟").
+- **Opties:** Je kunt tot vier antwoordopties geven.
+- **Correct/Fout:** Markeer één of meer correcte antwoorden, afhankelijk van je instellingen.
+- **Feedback:** Spelers zien welke antwoorden correct waren nadat ze geantwoord hebben. Optioneel kun je extra feedback of uitleg geven.
+
+---
+
+## 🏆 Score
+
+Meerkeuzevragen gebruiken standaard **tijdbased scoring**: sneller antwoorden levert meer punten op. Bij deze vragen neemt de score continu af per microseconde, waarbij de meeste punten vast staan en slechts een deel afhankelijk is van de snelheid.\
+For these questions, scoring decreases continuously per microsecond, with most points fixed and only a portion influenced by speed.\
 **You can also turn off time-based scoring per question** if you want all correct answers to receive the same score.\
-You can further adjust this balance in the round settings.
+You can further adjust this balance in the round settings.\
+Je kunt deze balans verder aanpassen in de ronde-instellingen.
 
-See [Scoring options in round settings](../editor/008-round-options.md#-scoring-options) for full details.
+Zie [Scoring opties in ronde-instellingen](../editor/008-round-options.md#-scoring-options) voor volledige details.
 
 ---
 
-## ⚙️ Expanded settings
+## ⚙️ Uitgebreide instellingen
 
 The Multiple choice question type offers many settings to fine-tune the experience and scoring.\
-See [writing questions](../editor/005-writing-questions.md) for a general overview of question settings.
+See [writing questions](../editor/005-writing-questions.md) for a general overview of question settings.\
+Zie [vragen schrijven](../editor/005-writing-questions.md) voor een algemeen overzicht van vraaginstellingen.
 
 ---
 
-## 💡 Tips for great multiple choice questions
+## 💡 Tips voor goede meerkeuzevragen
 
-- **Be clear and concise:** Avoid ambiguous wording.
-- **Use plausible wrong answers:** Make distractors believable.
-- **Mix media:** Add images, flags, or sounds for engagement.
-- **Randomize order:** Keep things fair for all players.
-- **Tag and categorize:** For easy navigation and searchability.
+- **Wees duidelijk en bondig:** Vermijd dubbelzinnige formuleringen.
+- **Gebruik geloofwaardige foute antwoorden:** Maak afleiders geloofwaardig.
+- **Mix media:** Voeg afbeeldingen, vlaggen of geluiden toe voor meer betrokkenheid.
+- **Willekeurige volgorde:** Houd het eerlijk voor alle spelers.
+- **Tag en categoriseer:** Voor makkelijke navigatie en zoekbaarheid.

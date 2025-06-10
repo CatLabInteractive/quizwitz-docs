@@ -3,105 +3,105 @@ id: quizmaster-app
 title: Quizmaster app
 ---
 
-# 🎛️ Using the Quizmaster app
+# 🎛️ De Quizmaster app gebruiken
 
-As the quizmaster, you are in full control of the QuizWitz Live game. The most important thing to know is this:
+Als quizmaster heb je volledige controle over het QuizWitz Live spel. Het belangrijkste om te weten is dit:
 
-> The game **only progresses when you click** — nothing moves on the main screen until you tell it to.
+> Het spel **gaat alleen verder als jij klikt** — er gebeurt niks op het hoofdscherm totdat jij het zegt.
 
-This gives you full control over pacing and timing, but it also means you’ll be doing a lot of tapping. Let’s walk through how the app works.
-
----
-
-## 🔁 The quiz flow
-
-The quiz structure follows how it was built in the editor, but most quizzes will move through the following stages:
+Dit geeft je volledige controle over tempo en timing, maar betekent ook dat je veel zult tikken. Laten we stap voor stap door de werking van de app lopen.
 
 ---
 
-### 🎬 Round introduction
+## 🔁 De quizstroom
 
-Before each round starts, you’ll see a round introduction screen.
-
-- You control when the **round intro animation** plays.
-- Click **‘Start’** to begin the round and move to the first question.
+De quizstructuur volgt hoe deze in de editor is opgebouwd, maar de meeste quizzen doorlopen de volgende fases:
 
 ---
 
-### ❓ Asking a question
+### 🎬 Ronde introductie
 
-Each question has its own screen in the Quizmaster app:
+Voor elke ronde zie je een introductiescherm.
 
-![Quizmaster app - start question](/images/quizmaster-app-start-question.png)
-
-You’ll see:
-
-- **Question number** — e.g. `1.1` means the first question of the first round
-- **Question type** — such as Multiple Choice, with relevant scoring modifiers
-- **Long version of the question** — for you to read out loud
-- **Question info** — including timer duration and available points
-- **Short question** — the version shown on the big screen
-- **Start question button** — immediately starts the timer
-- **Possible answers** — displayed in the correct order (for multiple choice)
-
-The question will remain visible in your app until either:
-
-- All players have answered
-- The timer runs out
-
-> 🔎 For more on question and round types, check the **Quizmaker's Guide**.
+- Jij bepaalt wanneer de **ronde intro animatie** speelt.
+- Klik op **‘Start’** om de ronde te beginnen en naar de eerste vraag te gaan.
 
 ---
 
-### ✅ Question feedback
+### ❓ Een vraag stellen
 
-After a question ends, the correct answer is revealed. What you see depends on the question type — this example shows a multiple choice result screen:
+Elke vraag heeft zijn eigen scherm in de Quizmaster app:
 
-![Quizmaster app - question feedback](/images/quizmaster-app-question-feedback.png)
+![Quizmaster app - vraag starten](/images/quizmaster-app-start-question.png)
 
-Includes:
+Je ziet:
 
-- **Question number**
-- **Short question text**
-- **Correct answer**
-- **Answer spread** — in numbers and percentages
-- **Long feedback** — extra info to read aloud
-- **Continue button** — advances to the next question
-- **Fastest 100 answers** — shown at the bottom of the screen
+- **Vraagnummer** — bijvoorbeeld `1.1` betekent de eerste vraag van de eerste ronde
+- **Vraagtype** — zoals Multiple Choice, met bijbehorende scoremodifiers
+- **Lange versie van de vraag** — om hardop voor te lezen
+- **Vraaginfo** — inclusief timerduur en beschikbare punten
+- **Korte vraag** — de versie die op het grote scherm wordt getoond
+- **Start vraag knop** — start direct de timer
+- **Mogelijke antwoorden** — weergegeven in de juiste volgorde (voor multiple choice)
+
+De vraag blijft zichtbaar in jouw app totdat:
+
+- Alle spelers een antwoord hebben gegeven
+- De timer afloopt
+
+> 🔎 Voor meer over vraag- en rondetypes, bekijk de **Quizmaker's Guide**.
 
 ---
 
-### 📊 Round outro
+### ✅ Reactie op een vraag
 
-When a round finishes, you’ll see a **Round Outro** screen that reveals the standings so far.
+Na afloop van een vraag wordt het juiste antwoord getoond. Wat je ziet hangt af van het vraagtype — dit voorbeeld toont een multiple choice resultaat scherm:
+
+![Quizmaster app - reactie op vraag](/images/quizmaster-app-question-feedback.png)
+
+Bevat:
+
+- **Vraagnummer**
+- **Korte vraagtekst**
+- **Correct antwoord**
+- **Verdeling antwoorden** — in aantal en percentage
+- **Lange feedback** — extra info om voor te lezen
+- **Doorgaan knop** — gaat door naar de volgende vraag
+- **Snelste 100 antwoorden** — wordt onderaan het scherm getoond
+
+---
+
+### 📊 Ronde afsluiting
+
+Als een ronde klaar is, zie je een **Ronde afsluitingsscherm** dat de tussenstand toont.
 
 ![Quizmaster app - round outro](/images/quizmaster-app-round-outro.png)\
 ![QuizWitz - round outro big screen](/images/round-outro.png)
 
-In your app:
+In jouw app:
 
-- You’ll see the **top 100 players**, and you can scroll through them
-- Tap a player’s position to highlight them on the big screen
-- From round 2 onward, you’ll also see how many places each player has moved:
-    - **Green** = moved up
-    - **Red** = moved down
-    - **White** = no change
+- Je ziet de **top 100 spelers**, en je kunt door hen scrollen
+- Tik op de positie van een speler om hem te markeren op het grote scherm
+- Vanaf ronde 2 zie je ook hoeveel plaatsen elke speler is gestegen of gedaald:
+    - **Groen** = opgestegen
+    - **Rood** = gedaald
+    - **Wit** = geen verandering
 
-Players will see **their own position** on their device during the outro.
-
----
-
-### 🏆 The end of the quiz
-
-At the end of the quiz, it’s time for a **winner reveal party** — complete with confetti and player emojis flying across the screen.
-
-![QuizWitz - game outro big screen](/images/game-outro.png)
-
-- The default setting shows the **top 12 players**
-- You can customize how many players appear in the **advanced game settings**
-
-> 🎉 Fun tip: The emoji your players choose will dance around the screen — even if they picked the smiling turd.
+Spelers zien **hun eigen positie** op hun apparaat tijdens de afsluiting.
 
 ---
 
-That’s everything you need to know to run your quiz with the Quizmaster app. You’re now fully equipped to lead your event with confidence and style!
+### 🏆 Het einde van de quiz
+
+Aan het einde van de quiz is het tijd voor een **winnaarsfeestje** — compleet met confetti en emoji's van spelers die over het scherm vliegen.
+
+![QuizWitz - spel afsluiting groot scherm](/images/game-outro.png)
+
+- De standaardinstelling toont de **top 12 spelers**
+- Je kunt instellen hoeveel spelers er zichtbaar zijn in de **geavanceerde spelinstellingen**
+
+> 🎉 Leuk weetje: De emoji die je spelers kiezen danst rond het scherm — zelfs als ze de lachende drol hebben gekozen.
+
+---
+
+Dat is alles wat je hoeft te weten om je quiz te leiden met de Quizmaster app. Je bent nu helemaal klaar om je evenement vol vertrouwen en stijl te leiden!
