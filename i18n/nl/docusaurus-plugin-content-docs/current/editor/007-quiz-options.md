@@ -1,83 +1,83 @@
 ---
 id: quiz-options
-title: Quiz options
+title: Quiz opties
 ---
 
-# ⚙️ Quiz options
+# ⚙️ Quiz opties
 
-When creating a quiz, you can open the **Quiz settings** panel to configure global behavior and presentation options. These settings apply to the **entire quiz**.
+Bij het maken van een quiz kun je het **Quiz instellingen**-paneel openen om globale gedrags- en presentatieopties te configureren. Deze instellingen gelden voor de **hele quiz**.
 
-| ![Open quiz options](/images/open-quiz-options.png) | ![Quiz options](/images/quiz-options.png) |
-| :-------------------------------------------------: | :---------------------------------------: |
-|           _Opening the quiz options panel_          |          _Quiz settings overview_         |
-
----
-
-## 🌐 Languages
-
-Select the language in which you're writing the quiz. You can add additional translations later.
+| ![Open quiz opties](/images/open-quiz-options.png) | ![Quiz opties](/images/quiz-options.png) |
+| :------------------------------------------------: | :--------------------------------------: |
+|          _Opening the quiz options panel_          |         _Quiz settings overview_         |
 
 ---
 
-## 🎨 Themes
+## 🌐 Talen
 
-Choose a visual theme for your quiz.
+Selecteer de taal waarin je de quiz schrijft. Je kunt later extra vertalingen toevoegen.
 
-- The default theme is **QuizWitz**
-- Your organization may have access to custom themes
-- Themes affect background, colors, and layout
+---
+
+## 🎨 Thema's
+
+Kies een visueel thema voor je quiz.
+
+- Het standaardthema is **QuizWitz**
+- Je organisatie kan toegang hebben tot aangepaste thema's
+- Thema's beïnvloeden achtergrond, kleuren en lay-out
 
 📘 See the [Emerald theme documentation](../advanced/emerald-theme) for more details on customizing visuals with this theme.
 
 ---
 
-## 📎 Attachments
+## 📎 Bijlagen
 
-Enhance your quiz with visuals, audio, or video in specific slots:
+Verfraai je quiz met beelden, audio of video in specifieke slots:
 
-- **Before quiz** — Shown when the quiz starts
-- **After quiz** — Played after the final results screen
-- **Client logo / alternative logo** — Displayed throughout the quiz interface
-- **Wait screen** — Displayed between questions in live games (1920×1080 image recommended)
-- **Background** — Optional background replacement (depends on theme)
+- **Voor de quiz** — Wordt getoond wanneer de quiz start
+- **Na de quiz** — Wordt afgespeeld na het scherm met de eindresultaten
+- **Cliëntlogo / alternatief logo** — Wordt getoond gedurende de hele quiz interface
+- **Wacht scherm** — Wordt getoond tussen vragen in live games (1920×1080 afbeelding aanbevolen)
+- **Achtergrond** — Optionele achtergrond vervanging (hangt af van thema)
 - **Connect screen** — Used in [Live](../quizmaster/introduction) and [Conference](../tutorials/conference-booth) modes:
-  - **Images** — Fullscreen background visuals
-  - **Audio** — Looped music (max 15 min)
-  - **Video** — Played every 5 minutes, useful for ads or instructions
+  - **Afbeeldingen** — Volledig scherm achtergrond visuals
+  - **Audio** — Loopende muziek (max 15 min)
+  - **Video** — Wordt elke 5 minuten afgespeeld, handig voor reclames of instructies
 
-🎥 You can use our [ready-made instructional videos](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) to help players connect.
+🎥 Je kunt onze [kant-en-klare instructievideo's](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) gebruiken om spelers te helpen verbinding maken.
 
-- **During game outro** — (Audio only) Plays over the winner reveal screen
+- **Tijdens het einde van het spel** — (alleen audio) Wordt afgespeeld over het scherm met de winnaar onthulling
 
 📘 For technical details and recommendations, see the [attachments guide](../editor/attachments).
 
 ---
 
-## 🔧 Extra options
+## 🔧 Extra opties
 
-Optional settings for customizing gameplay and visibility:
+Optionele instellingen voor het aanpassen van gameplay en zichtbaarheid:
 
-- **Enable multiplayer** — Default ON. Allows party play with friends
-- **Random round order** — Shuffle the order of rounds
+- **Multiplayer inschakelen** — Standaard AAN. Maakt spelen met vrienden mogelijk
+- **Willekeurige rondevolgorde** — Schud de volgorde van rondes door elkaar
   > ⚠️ Not recommended when preparing for [QuizWitz Live](../quizmaster/introduction)
-- **Allow users to rate questions** — Lets players rate each question after a round
-- **Enable comments** — Allow feedback after publishing
-- **Speed up when all answered** — If enabled, the game skips ahead when all players have answered
-  > ⏱️ Recommended when using **Time-based scoring**
+- **Gebruikers vragen laten beoordelen** — Laat spelers iedere vraag na een ronde beoordelen
+- **Reacties inschakelen** — Sta feedback toe na publicatie
+- **Versnellen wanneer iedereen heeft geantwoord** — Als ingeschakeld, gaat het spel door zodra alle spelers hebben geantwoord
+  > ⏱️ Aanbevolen bij gebruik van **Tijd gebaseerde score**
 
 ---
 
-## 📤 Share or embed
+## 📤 Delen of insluiten
 
-Generates share links or embed code with advanced game settings.
+Genereert deelbare links of insluitcode met geavanceerde spelinstellingen.
 
 ---
 
-## 📜 Quizmaster copy
+## 📜 Quizmaster kopie
 
-Add custom presenter instructions for:
+Voeg aangepaste presentatorinstructies toe voor:
 
-- **Quiz introduction**
-- **Quiz outro**
+- **Quiz introductie**
+- **Quiz afsluiting**
 
 These are visible on the [Quizmaster app](../quizmaster/introduction) when using QuizWitz Live.
