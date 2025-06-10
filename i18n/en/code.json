@@ -321,5 +321,32 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "Create": {
+    "message": "Create"
+  },
+  "Create a fully customizable quiz using different question and round types.": {
+    "message": "Create a fully customizable quiz using different question and round types."
+  },
+  "Play": {
+    "message": "Play"
+  },
+  "Play any shared quiz on our platform with friends, family, colleagues, … Grab a smart device, connect via the web and show off how much you know!": {
+    "message": "Play any shared quiz on our platform with friends, family, colleagues, … Grab a smart device, connect via the web and show off how much you know!"
+  },
+  "Share": {
+    "message": "Share"
+  },
+  "Collect and share quiz rounds from around the world, or share your own! Connect with other quiz aficionados.": {
+    "message": "Collect and share quiz rounds from around the world, or share your own! Connect with other quiz aficionados."
+  },
+  "Your guide to creating, hosting, and mastering QuizWitz.": {
+    "message": "Your guide to creating, hosting, and mastering QuizWitz."
+  },
+  "Getting started": {
+    "message": "Getting started"
+  },
+  "FAQ": {
+    "message": "FAQ"
   }
 }

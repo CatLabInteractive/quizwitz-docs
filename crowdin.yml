@@ -8,3 +8,6 @@ files:
   # Docs Markdown files
   - source: /docs/**/*
     translation: /i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%
+    scheme: 'identifier'
+    excluded_front_matter_elements:
+      - id

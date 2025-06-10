@@ -13,7 +13,7 @@ const config = {
   organizationName: 'catlabinteractive', // Usually your GitHub org/user name.
   projectName: 'quizwitz-docs', // Usually your repo name.
 
-  staticDirectories: [ 'assets' ],
+  staticDirectories: [ 'assets', 'static' ],
 
   i18n: {
     defaultLocale: 'en',
