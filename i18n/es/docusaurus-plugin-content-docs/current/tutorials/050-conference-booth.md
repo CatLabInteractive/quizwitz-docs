@@ -14,6 +14,7 @@ This tutorial will show you how to run QuizWitz at your conference booth — an 
 ## 📝 Creating the quiz
 
 When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.\
+When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.\
 To keep things fresh, make sure you have plenty of questions — enough to randomize and make each playthrough unique.
 
 **Recommended setup:**
@@ -26,6 +27,8 @@ To keep things fresh, make sure you have plenty of questions — enough to rando
 1. **Choose “Quiz”** in the Create menu and give your quiz a name. Set the correct language.
 2. **Add 3 rounds** and name them (for example: Round 1, Round 2, Round 3).
 3. In the **Round settings** (cog icon), enable **“Only show x questions”** and set the number to 5.\
+  Also enable **“Random question order”** — otherwise the game will always pick the first 5 questions.\
+  Repeat for each round.\
   Also enable **“Random question order”** — otherwise the game will always pick the first 5 questions.\
   Repeat for each round.
 
@@ -55,6 +58,8 @@ The fastest way to launch your conference quiz:
 
 In this mode, players use their phones to connect to the game link on the main screen.\
 When everyone is ready, the booth host presses Enter — and the game runs automatically.\
+In this mode, players use their phones to connect to the game link on the main screen.\
+When everyone is ready, the booth host presses Enter — and the game runs automatically.\
 After the game ends, pressing Enter brings you right back to the connection screen for the next group.
 
 ---
@@ -62,7 +67,9 @@ After the game ends, pressing Enter brings you right back to the connection scre
 ## ⚙️ Advanced game options
 
 Want more control?\
+Want more control?\
 Choose **Advanced game options** and select **Conference mode** in the mode selector.\
+You’ll get a unique link with all your chosen options.\
 You’ll get a unique link with all your chosen options.
 
 - **Ask players’ email:**\
@@ -75,5 +82,6 @@ You’ll get a unique link with all your chosen options.
 
 ## 🎨 Theming
 
+Want to match the game to your booth branding?\
 Want to match the game to your booth branding?\
 Consulta nuestra [Guía de tematización](../advanced/011-emerald-theme.md) para obtener consejos sobre cómo personalizar tu experiencia QuizWitz.
