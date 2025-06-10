@@ -15,6 +15,8 @@ Deze tutorial laat je zien hoe je QuizWitz kunt gebruiken bij je conferentiekraa
 
 Als je een quiz maakt voor een conferentiekraam, houd dan in gedachten dat sommige spelers misschien meerdere spellen mee willen doen.\
 When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.\
+To keep things fresh, make sure you have plenty of questions — enough to randomize and make each playthrough unique.\
+When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.\
 To keep things fresh, make sure you have plenty of questions — enough to randomize and make each playthrough unique.
 
 **Aanbevolen opzet:**
@@ -29,7 +31,11 @@ To keep things fresh, make sure you have plenty of questions — enough to rando
 3. In the **Round settings** (cog icon), enable **“Only show x questions”** and set the number to 5.\
   Also enable **“Random question order”** — otherwise the game will always pick the first 5 questions.\
   Repeat for each round.\
+  In the **Round settings** (cog icon), enable **“Only show x questions”** and set the number to 5.\
+  Also enable **“Random question order”** — otherwise the game will always pick the first 5 questions.\
+  Repeat for each round.\
   Zet ook **“Willekeurige vraagvolgorde”** aan — anders kiest het spel altijd de eerste 5 vragen.\
+  Herhaal dit voor elke ronde.\
   Herhaal dit voor elke ronde.
 
 ![Screenshot van ronde-instellingen voor een conferentiekraam](/images/tutorials/conference/round_settings.png)
@@ -60,6 +66,10 @@ In deze modus gebruiken spelers hun telefoon om verbinding te maken met de spel 
 Als iedereen klaar is drukt de host van de kraam op Enter — en het spel start automatisch.\
 In this mode, players use their phones to connect to the game link on the main screen.\
 When everyone is ready, the booth host presses Enter — and the game runs automatically.\
+After the game ends, pressing Enter brings you right back to the connection screen for the next group.\
+Als iedereen klaar is drukt de host van de kraam op Enter — en het spel start automatisch.\
+In this mode, players use their phones to connect to the game link on the main screen.\
+When everyone is ready, the booth host presses Enter — and the game runs automatically.\
 After the game ends, pressing Enter brings you right back to the connection screen for the next group.
 
 ---
@@ -67,9 +77,11 @@ After the game ends, pressing Enter brings you right back to the connection scre
 ## ⚙️ Geavanceerde spelopties
 
 Wil je meer controle?\
+Wil je meer controle?\
 Want more control?\
 Choose **Advanced game options** and select **Conference mode** in the mode selector.\
 You’ll get a unique link with all your chosen options.\
+Je krijgt een unieke link met al je gekozen opties.\
 Je krijgt een unieke link met al je gekozen opties.
 
 - **Ask players’ email:**\
@@ -82,6 +94,8 @@ Je krijgt een unieke link met al je gekozen opties.
 
 ## 🎨 Thema's aanpassen
 
-Wil je dat het spel aansluit bij de branding van je kraam?\
+Want to match the game to your booth branding?\
+Want to match the game to your booth branding?\
+See our [Theming guide](/docs/advanced/theming) for tips on customizing your QuizWitz experience.\
 Want to match the game to your booth branding?\
 See our [Theming guide](/docs/advanced/theming) for tips on customizing your QuizWitz experience.
