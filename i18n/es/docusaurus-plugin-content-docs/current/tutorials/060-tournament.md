@@ -12,6 +12,7 @@ This tutorial will show you how to use QuizWitz Tournament mode. Tournament mode
 ## 📝 Create the quiz
 
 When building a tournament quiz, keep it short and engaging. If visitors need to spend too much time on the quiz, they might not finish.\
+If visitors need to spend too much time on the quiz, they might not finish.\
 **Only players who finish the whole quiz will be listed on the leaderboard.**
 
 ### 🎲 Random question selection
