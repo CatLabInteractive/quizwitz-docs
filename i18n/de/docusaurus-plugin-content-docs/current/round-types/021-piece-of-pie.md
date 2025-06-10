@@ -1,39 +1,39 @@
 ---
 id: piece-of-pie
-title: Piece of pie
+title: Stück Kuchen
 ---
 
-# 🥧 Piece of pie
+# 🥧 Stück Kuchen
 
-In a **Piece of pie** round, teamwork pays off! The total points available for each question depend on the number of players, and are then split between all players (or teams) who answer the question correctly.
-
----
-
-## 📝 How it works
-
-- **Total points = base points × number of players (or teams).**
-    - Example: If a question is worth 100 points and there are 20 players, 2,000 points are at stake.
-- After the question, the **total points are divided equally** among everyone who answered correctly.
-    - Example: If 5 players answered correctly, each of them gets 400 points.
-- If everyone gets it right, everyone gets the same (lower) share. If only one player is correct, they get the whole “pie”!
+In einer **Stück Kuchen**-Runde zahlt sich Teamarbeit aus! Die Gesamtpunkte für jede Frage hängen von der Anzahl der Spieler ab und werden dann unter allen Spielern (oder Teams) aufgeteilt, die die Frage richtig beantwortet haben.
 
 ---
 
-## ⚙️ Time-based scoring
+## 📝 So funktioniert's
 
-- **Time-based scoring can be enabled** (and is enabled by default).
+- **Gesamtpunkte = Basis-Punkte × Anzahl der Spieler (oder Teams).**
+    - Beispiel: Wenn eine Frage 100 Punkte wert ist und es 20 Spieler gibt, sind 2.000 Punkte im Spiel.
+- Nach der Frage werden die **Gesamtpunkte gleichmäßig** unter allen verteilt, die richtig geantwortet haben.
+    - Beispiel: Wenn 5 Spieler richtig antworten, bekommt jeder von ihnen 400 Punkte.
+- Wenn alle richtig liegen, bekommt jeder denselben (kleineren) Anteil. Wenn nur ein Spieler richtig ist, bekommt er den ganzen "Kuchen"!
+
+---
+
+## ⚙️ Zeitbasierte Punktevergabe
+
+- **Zeitbasierte Punktevergabe kann aktiviert werden** (und ist standardmäßig aktiviert).
 - In that case, the displayed points are the _maximum_ you could win for a fast and correct answer.
 - Your share of the “pie” will be adjusted for your speed _and_ the number of other correct answers.
-- For details, see the [scoring section](../editor/008-round-options.md#scoring).
+- Für Details siehe den [Abschnitt zur Punktevergabe](../editor/008-round-options.md#scoring).
 
 ---
 
-## 💡 Tips
+## 💡 Tipps
 
-- **Encourage unique knowledge!** The fewer people who get it right, the bigger the reward.
-- **Speed still matters** if time-based scoring is on, but sharing the “pie” means you want to be both fast and correct.
-- Works well for questions where there’s a single clear answer, or to reward players who think outside the box.
+- **Ermutige einzigartiges Wissen!** Je weniger Leute richtig liegen, desto größer die Belohnung.
+- **Geschwindigkeit zählt immer noch**, wenn die zeitbasierte Punktevergabe aktiv ist, aber beim Teilen des "Kuchens" willst du sowohl schnell als auch richtig sein.
+- Funktioniert gut bei Fragen mit einer einzigen klaren Antwort oder um Spieler zu belohnen, die quer denken.
 
 ---
 
-For more about round settings and configuration, see [Round options](../editor/008-round-options.md).
+Mehr zum Runden-Setup und zur Konfiguration findest du unter [Rundenoptionen](../editor/008-round-options.md).
