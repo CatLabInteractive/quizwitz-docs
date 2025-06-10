@@ -31,12 +31,12 @@ De simpelste manier om het uiterlijk en het gevoel van de game te veranderen is 
 
 ### Rondebijlagen
 
-Je kunt ook afbeeldingen of video's uploaden die voor en na de quiz worden getoond. Dit geldt ook voor rondes: zoek een afbeelding die je wilt gebruiken als introductie, ga naar **ronde-instellingen**, zet **Toon ronde-intro** uit om de standaard ronde-intro te verbergen, en upload je afbeelding of video als **Toon voor ronde**. Wanneer de ronde start, wordt de afbeelding of video weergegeven in plaats van de standaard introductie.
+Je kunt ook afbeeldingen of videos uploaden die voor en na de quiz worden getoond. Dit geldt ook voor rondes: zoek een afbeelding die je wilt gebruiken als introductie, ga naar **ronde-instellingen**, zet **Toon ronde-intro** uit om de standaard ronde-intro te verbergen, en upload je afbeelding of video als **Toon voor ronde**. Wanneer de ronde start, wordt de afbeelding of video weergegeven in plaats van de standaard introductie.
 
 ![Een screenshot van de rondebijlagen](/images/emerald/round-settings.png)
 
 :::tip
-Gebruik afbeeldingen en video's met een resolutie van 1920 x 1080 voor het beste resultaat.
+Gebruik afbeeldingen en videos met een resolutie van 1920 x 1080 voor het beste resultaat.
 :::
 
 :::info
