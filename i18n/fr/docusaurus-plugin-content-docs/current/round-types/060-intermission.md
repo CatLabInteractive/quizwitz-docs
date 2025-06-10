@@ -1,35 +1,36 @@
 ---
 id: intermission
-title: Intermission
+title: Entracte
 ---
 
-# ⏸️ Intermission
+# ⏸️ Entracte
 
-**Intermission** is a special event round that pauses the quiz for a break—ideal for stretching, chatting, or promoting sponsors.
+**Entracte** est un tour d’événement spécial qui met le quiz en pause pour une pause — idéal pour s’étirer, discuter ou promouvoir des sponsors.
 
 ---
 
-## 📝 How it works
+## 📝 Comment ça marche
 
-- During an intermission, the main game screen is paused and a timer is shown.
+- Pendant un entracte, l’écran principal du jeu est mis en pause et un minuteur est affiché.
 - **In conference and party games:**\
   The intermission ends when someone presses **Enter** on the main game screen.
 - **In QuizWitz Live games:**\
   The quizmaster ends the intermission from their device (tablet or smartphone).\
-  The Quizmaster app displays a timer so the host can see how long the intermission has lasted.
+  The Quizmaster app displays a timer so the host can see how long the intermission has lasted.\
+  L’application Quizmaster affiche un minuteur afin que l’animateur puisse voir la durée de l’entracte.
 
 ---
 
-## 🖼️ Attachments
+## 🖼️ Pièces jointes
 
-- You can upload images, logos, or videos in the round settings.
-- During the intermission, these attachments will be shown in a carousel on the main screen—great for sponsor logos, messages, or promotional videos.
-- Attachments will loop for the duration of the break.
-
----
-
-> Intermissions are perfect for scheduled breaks, halftime entertainment, or showcasing important messages without interrupting the quiz flow.
+- Vous pouvez téléverser des images, logos ou vidéos dans les paramètres du tour.
+- Pendant l’entracte, ces pièces jointes seront affichées en carrousel sur l’écran principal — parfait pour les logos de sponsors, messages ou vidéos promotionnelles.
+- Les pièces jointes seront diffusées en boucle pendant toute la durée de la pause.
 
 ---
 
-For more on customizing your intermission and using attachments, see [Round options](../editor/008-round-options.md) and [Attachments guide](../editor/006-attachments.md).
+> Les entractes sont parfaits pour des pauses programmées, des animations à la mi-temps ou pour afficher des messages importants sans interrompre le déroulement du quiz.
+
+---
+
+Pour plus d’informations sur la personnalisation de votre entracte et l’utilisation des pièces jointes, consultez [Options de tour](../editor/008-round-options.md) et [Guide des pièces jointes](../editor/006-attachments.md).
