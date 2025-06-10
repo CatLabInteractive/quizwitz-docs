@@ -58,7 +58,7 @@ These scoring options can be found in the round options panel when editing a rou
 
 ## 📜 Quizmaster instructions
 
-You can add a custom **round introduction text** that will appear only on the [Quizmaster app](../quizmaster/introduction) at the start of the round. Use this to brief the presenter or add a personal touch.
+You can add a custom **round introduction text** that will appear only on the [Quizmaster app](../quizmaster/001-introduction.md) at the start of the round. Use this to brief the presenter or add a personal touch.
 
 ---
 
@@ -72,4 +72,4 @@ Enhance your round with media shown at specific moments:
 - **During round outro** — *(audio only)* Plays while rankings are displayed
 - ...
 
-📘 For supported file types and usage tips, see the [attachments guide](../editor/attachments).
+📘 For supported file types and usage tips, see the [attachments guide](../editor/006-attachments.md).
