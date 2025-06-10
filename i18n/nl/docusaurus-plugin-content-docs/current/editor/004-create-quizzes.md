@@ -1,80 +1,81 @@
 ---
 id: create-quizzes
-title: Create quizzes
+title: Quizzen maken
 ---
 
-# 🧠 Create a Full Quiz
+# 🧠 Maak een volledige quiz
 
-Want to build a complete quiz experience for players or events? This guide walks you through creating a full quiz using multiple rounds — including your own questions or Round-Abouts you've collected.
+Wil je een complete quizervaring bouwen voor spelers of evenementen? Deze gids begeleidt je bij het maken van een volledige quiz met meerdere rondes — inclusief je eigen vragen of Round-Abouts die je hebt verzameld.
 
 ---
 
-## 🎬 Getting started
+## 🎬 Aan de slag
 
-From the main menu:
+Vanaf het hoofdmenu:
 
-1. Click **Create**
-2. Choose **Quiz** from the dropdown
+1. Klik op **Create**
+2. Kies **Quiz** uit de keuzelijst
 
 ![QuizWitz create quiz](/images/create-quiz.png)
 
 ---
 
-## ✏️ Title and language
+## ✏️ Titel en taal
 
+Geef je quiz een titel en kies de hoofdtaal.\
 Give your quiz a title and choose the main language.\
 You can add **translations** later if needed — no need to decide everything upfront.
 
 ---
 
-## ➕ Add rounds and questions
+## ➕ Ronden en vragen toevoegen
 
-Click **Add new round** to begin building your quiz. Each round can include its own settings and structure.
+Klik op **Add new round** om te beginnen met het maken van je quiz. Elke ronde kan zijn eigen instellingen en structuur hebben.
 
-On the left sidebar, you’ll be able to:
+Aan de linkerzijbalk kun je:
 
-- Name the round
-- Choose a category
+- De ronde een naam geven
+- Een categorie kiezen
 - [Import questions](../editor/import-questions) in bulk
 
-![Create new round in quiz](/images/quiz-add-round.png)
+![Nieuwe ronde maken in quiz](/images/quiz-add-round.png)
 
-In the main editor, you can:
+In de hoofd-editor kun je:
 
-- Add and edit individual questions
-- Reorder rounds or questions using the **arrow buttons**
-- Delete rounds or questions using the **trash bin icon**
+- Individuele vragen toevoegen en bewerken
+- Ronden of vragen herschikken met de **pijltjestoetsen**
+- Ronden of vragen verwijderen met het **prullenbak-icoon**
 
-> 💡 Use the **Import questions** tool to quickly add multiple questions at once. Just follow the on-screen instructions and [check that everything imported correctly](../editor/import-questions).
-
----
-
-## ⚙️ Round settings
-
-Each round can have its own rules and format. Learn more in the advanced guides:
-
-- [Round types](../round-types/000-round-types.md) — Configure how a round behaves (e.g., lightning round, puzzle round)
-- [Question types](../question-types/000-question-types.md) — Adjust the format and scoring for each question
+> 💡 Gebruik de **Import questions** tool om snel meerdere vragen tegelijk toe te voegen. Just follow the on-screen instructions and [check that everything imported correctly](../editor/import-questions).
 
 ---
 
-## 💾 Save and manage your quiz
+## ⚙️ Ronde-instellingen
 
-Remember to:
+Elke ronde kan zijn eigen regels en format hebben. Lees meer in de geavanceerde gidsen:
 
-- **Save** your quiz regularly
-- **Test and play** at any time
-- **Publish** your quiz when it’s ready to share
-
-> 📢 To publish a quiz, it must contain **at least 14 questions**. Once published, it becomes available to the community — but you can unpublish it later if needed.
-
-> 📝 **Publishing is entirely optional.** You can play any quiz or Round-About privately without publishing it. This is great for personal use, testing, or private events.
+- [Rondetypes](../round-types/000-round-types.md) — Configureer hoe een ronde werkt (bijv. bliksemsnelle ronde, puzzelronde)
+- [Vraagtypes](../question-types/000-question-types.md) — Pas het formaat en de score aan voor elke vraag
 
 ---
 
-## ▶️ Testing & playing
+## 💾 Sla je quiz op en beheer hem
 
-When you're ready to test or run your quiz, press the **Start Quiz** button. You’ll see the following options:
+Vergeet niet om:
+
+- **Je quiz regelmatig op te slaan**
+- **Te testen en te spelen** wanneer je maar wilt
+- **Je quiz te publiceren** als hij klaar is om te delen
+
+> 📢 Om een quiz te publiceren, moet hij **minstens 14 vragen** bevatten. Eenmaal gepubliceerd is hij beschikbaar voor de community — maar je kunt hem later ook weer terugtrekken indien nodig.
+
+> 📝 **Publiceren is geheel optioneel.** Je kunt elke quiz of Round-About privé spelen zonder deze te publiceren. Dit is ideaal voor persoonlijk gebruik, testen of privé-evenementen.
+
+---
+
+## ▶️ Testen & spelen
+
+Als je klaar bent om je quiz te testen of te starten, druk je op de knop **Start Quiz**. Je ziet dan de volgende opties:
 
 ![Quiz playlinks](/images/quiz-playlinks.png)
 
@@ -84,13 +85,13 @@ When you're ready to test or run your quiz, press the **Start Quiz** button. You
 
 ---
 
-### 🧪 Advanced testing options
+### 🧪 Geavanceerde testopties
 
-Want to simulate a full quiz run-through? Use the advanced testing tools:
+Wil je een volledige quizrun simuleren? Gebruik de geavanceerde testtools:
 
-- **Simulate** — Run a test playthrough with bots (no presentation)
+- **Simuleren** — Doe een test-playthrough met bots (zonder presentatie)
 - **Simulate Live** — Simulate a full [QuizWitz Live](../quizmaster/introduction) session with bots, including Quizmaster, Jury, and Player views
 
 ---
 
-Ready to test your creativity? Start building and bring your quiz to life!
+Klaar om je creativiteit te testen? Begin met bouwen en breng je quiz tot leven!
