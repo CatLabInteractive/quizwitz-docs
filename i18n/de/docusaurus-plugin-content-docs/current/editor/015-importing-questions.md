@@ -1,58 +1,58 @@
 ---
 id: import-questions
-title: Import questions
+title: Fragen importieren
 ---
 
-# 📥 Import questions
+# 📥 Fragen importieren
 
-There are two ways to quickly add questions to a round in QuizWitz:
+Es gibt zwei Möglichkeiten, um Fragen schnell zu einer Runde in QuizWitz hinzuzufügen:
 
-- Import existing content from the **QuizWitz Library**
-- Paste a list of questions from a **spreadsheet**
+- Bestehende Inhalte aus der **QuizWitz Bibliothek** importieren
+- Eine Liste mit Fragen aus einer **Tabellenkalkulation** einfügen
 
-Both options are accessible from within any round.
-
----
-
-## 📚 Import from the QuizWitz Library
-
-Use the **QuizWitz Library** tab to search and import questions, rounds, or quizzes created by yourself or other creators.
-
-1. Open the round where you want to import content
-2. Click the **QuizWitz Library** tab
-3. Use filters like language, collection, type, category, or tags
-4. Select one or more entries
-5. Click **Add X items** to insert the selected content into your quiz
-
-![QuizWitz Library](/images/import/import-from-quizwitz.png)
-
-> ✅ Use this method to reuse high-quality content or combine multiple public Round-Abouts into a larger quiz.
+Beide Optionen sind innerhalb jeder Runde zugänglich.
 
 ---
 
-## 📋 Import from a spreadsheet
+## 📚 Import aus der QuizWitz Bibliothek
 
-To quickly create many questions at once, use the **Import from spreadsheet** tab.
+Nutze den Tab **QuizWitz Bibliothek**, um Fragen, Runden oder Quizze zu suchen und zu importieren, die von dir oder anderen Erstellern erstellt wurden.
 
-1. Open a round
-2. Click the **Import from spreadsheet** tab
-3. Paste rows of **tab-separated** values (copied from Excel, Google Sheets, etc.)
-4. Click **Import questions**
+1. Öffne die Runde, in die du Inhalte importieren möchtest
+2. Klicke auf den Tab **QuizWitz Bibliothek**
+3. Nutze Filter wie Sprache, Sammlung, Typ, Kategorie oder Tags
+4. Wähle einen oder mehrere Einträge aus
+5. Klicke auf **X Artikel hinzufügen**, um die ausgewählten Inhalte in dein Quiz einzufügen
 
-![Import from spreadsheet](/images/import/import-from-spreadsheet.png)
+![QuizWitz Bibliothek](/images/import/import-from-quizwitz.png)
+
+> ✅ Verwende diese Methode, um hochwertige Inhalte wiederzuverwenden oder mehrere öffentliche Round-Abouts zu einem größeren Quiz zu kombinieren.
 
 ---
 
-### 🗂️ Format for pasting
+## 📋 Import aus einer Tabellenkalkulation
 
-Each row must contain the following columns in this exact order:
+Um viele Fragen auf einmal schnell zu erstellen, nutze den Tab **Import aus Tabellenkalkulation**.
 
-1. **Short question** — Displayed on the player screen
-2. **Correct answer**
-3. **Wrong answer 1** (leave blank for open questions)
-4. **Wrong answer 2**
-5. **Wrong answer 3**
-6. **Short feedback** — Displayed on the player screen after answering
+1. Öffne eine Runde
+2. Klicke auf den Tab **Import aus Tabellenkalkulation**
+3. Füge Zeilen mit **tabulatorgetrennten** Werten ein (kopiert aus Excel, Google Sheets usw.)
+4. Klicke auf **Fragen importieren**
+
+![Import aus Tabellenkalkulation](/images/import/import-from-spreadsheet.png)
+
+---
+
+### 🗂️ Format zum Einfügen
+
+Jede Zeile muss die folgenden Spalten in genau dieser Reihenfolge enthalten:
+
+1. **Kurze Frage** — Wird auf dem Bildschirm der Spieler angezeigt
+2. **Richtige Antwort**
+3. **Falsche Antwort 1** (für offene Fragen leer lassen)
+4. **Falsche Antwort 2**
+5. **Falsche Antwort 3**
+6. **Kurzes Feedback** — Wird nach der Beantwortung auf dem Bildschirm der Spieler angezeigt
 7. **Long question** _(optional)_ — Displayed on the quizmaster screen
 8. **Long feedback** _(optional)_ — Explanation for the quizmaster to read aloud
 
@@ -60,12 +60,12 @@ Each row must contain the following columns in this exact order:
 
 ---
 
-## ✅ After importing
+## ✅ Nach dem Importieren
 
-Whether importing from the library or a spreadsheet:
+Egal ob aus der Bibliothek oder aus einer Tabellenkalkulation importiert:
 
-- Review your questions for formatting and clarity
-- Update any metadata like category, round type, or attachments
-- Don’t forget to **save your quiz**
+- Überprüfe deine Fragen auf Formatierung und Verständlichkeit
+- Aktualisiere alle Metadaten wie Kategorie, Rundentyp oder Anhänge
+- Vergiss nicht, dein Quiz zu **speichern**
 
-📘 Want to enhance your questions further? Mach weiter im [Schreibfragen-Leitfaden](../editor/005-writing-questions.md).
+📘 Möchtest du deine Fragen noch weiter verbessern? Mach weiter im [Schreibfragen-Leitfaden](../editor/005-writing-questions.md).
