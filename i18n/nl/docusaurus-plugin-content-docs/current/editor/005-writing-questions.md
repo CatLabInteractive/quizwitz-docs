@@ -1,87 +1,88 @@
 ---
 id: writing-questions
-title: Writing questions
+title: Vragen schrijven
 ---
 
-# ✍️ Writing Questions
+# ✍️ Vragen schrijven
 
-Time to get creative! Whether you're building a full quiz or a Round-About, writing strong, fun questions is at the heart of a great game.
+Tijd om creatief te worden! Of je nu een volledige quiz maakt of een Round-About, sterke en leuke vragen schrijven is de kern van een geweldig spel.
 
-To begin, click **Add new question**. You can add as many as you like.
+Begin met klikken op **Nieuwe vraag toevoegen**. Je kunt zoveel toevoegen als je wilt.
 
-> 💾 Don’t forget to **save your work** regularly and **test your quiz** at any time to see how it plays!
+> 💾 Vergeet niet regelmatig je werk op te slaan en je quiz op elk moment te testen om te zien hoe het werkt!
 
 ---
 
-## ⚙️ Question settings
+## ⚙️ Vraaginstellingen
 
-Click the **gear icon** in the top-left corner of a question to open its full settings panel.
+Klik op het **tandwielicoon** linksboven in een vraag om het volledige instellingenpaneel te openen.
 
 ![Question options](/images/question-options.png)
 
 ---
 
-### 🎮 Mode & scoring
+### 🎮 Modus & scoring
 
 - **Question type** — Choose how the question is played (e.g. multiple choice, open answer, puzzle)\
   → Learn more in [question types](../question-types/000-question-types.md)
-- **Points** — Set how many points a correct answer is worth
-- **Question timer** — Adjust the time limit using the slider
+- **Punten** — Stel in hoeveel punten een correct antwoord waard is
+- **Vraag timer** — Pas de tijdslimiet aan met de schuifbalk
 
 ---
 
-### 🧩 Game behavior settings
+### 🧩 Spelgedraginstellingen
 
-Customize how the question behaves during gameplay:
+Pas aan hoe de vraag zich gedraagt tijdens het spel:
 
-- **Time-based scoring** — Reward players who answer more quickly
-- **Multiple correct answers** — Allow more than one valid choice
-- **Random answer order** — Shuffle the options on screen
-- **Stop timer when all answered** — Continue as soon as all responses are in
-- **Show question results** — Show feedback after the question (or disable it)
-- **Force results after question** — Only applies when feedback would normally be delayed (e.g., in lightning rounds or open questions). For standard questions without jury interaction, feedback is shown automatically after each question.
-
----
-
-### 🎤 Presenter content
-
-These fields control what appears on the Quizmaster App and big screen:
-
-- **Big screen – Question feedback** — Shown to all players after feedback is revealed
-- **Presenter – Long question** — A version of the question to be read aloud by the host
-- **Presenter – Long feedback** — Text the host can read after revealing the correct answer
-
-> 📝 These fields help make live presentations feel dynamic and polished.
+- **Tijdgebaseerde scoring** — Beloon spelers die sneller antwoorden
+- **Meerdere juiste antwoorden** — Sta meer dan één geldig antwoord toe
+- **Willekeurige antwoordvolgorde** — Schud de opties op het scherm door elkaar
+- **Timer stoppen als iedereen heeft geantwoord** — Ga verder zodra alle antwoorden binnen zijn
+- **Resultaten van de vraag tonen** — Laat feedback zien na de vraag (of schakel het uit)
+- **Resultaten forceren na de vraag** — Geldt alleen wanneer feedback normaal gesproken wordt uitgesteld (bijv. in lightning rounds of open vragen). Voor standaardvragen zonder jury-interactie wordt de feedback automatisch na elke vraag getoond.
 
 ---
 
-## 📎 Attachments
+### 🎤 Inhoud voor presentator
+
+Deze velden bepalen wat er op de Quizmaster App en het grote scherm verschijnt:
+
+- **Groot scherm – Vraagfeedback** — Wordt aan alle spelers getoond nadat de feedback is onthuld
+- **Presentator – Lange vraag** — Een versie van de vraag voor de host om hardop voor te lezen
+- **Presentator – Lange feedback** — Tekst die de host kan voorlezen nadat het juiste antwoord is onthuld
+
+> 📝 Deze velden helpen om live-presentaties dynamisch en professioneel te laten aanvoelen.
+
+---
+
+## 📎 Bijlagen
 
 ![Question attachments](/images/question-attachments.png)
 
-You can enhance questions with images, video, or audio. Each attachment can be shown at specific points:
+Je kunt vragen verbeteren met afbeeldingen, video of audio. Elke bijlage kan op specifieke momenten worden getoond:
 
-- **Before / During / After Question** — Shown around the time the question is presented
-- **Before / During / After Feedback** — Shown when results are revealed
+- **Voor / Tijdens / Na de vraag** — Getoond rond het moment dat de vraag wordt gepresenteerd
+- **Voor / Tijdens / Na feedback** — Getoond wanneer de resultaten worden onthuld
 - ...
 
-> 🧠 Attachments are especially useful for building suspense, illustrating answers, or giving context.
+> 🧠 Bijlagen zijn vooral nuttig om spanning op te bouwen, antwoorden te illustreren of context te geven.
 
-You can add **multiple attachments** in each slot.
+Je kunt **meerdere bijlagen** in elk vak toevoegen.
 
 > ⚡ **In [QuizWitz Live (PRO)](../quizmaster/introduction):** the quizmaster can choose which attachment to display at each moment.\
-> 🎮 **In regular games:** all attachments in a given slot are shown at once.
+> 🎮 **In regular games:** all attachments in a given slot are shown at once.\
+> 🎮 **In gewone spellen:** worden alle bijlagen in een bepaald vak tegelijkertijd getoond.
 
 📘 Learn more about supported file types, timing tips, and limitations in the [attachments guide](../editor/attachments).
 
 ---
 
-### 💡 Pro tip: Choosing the right moment
+### 💡 Pro tip: kies het juiste moment
 
-- Show the correct answer visually? → Use **After Question**
-- Build suspense before revealing feedback? → Use **Before Feedback**
-- Add extra trivia or depth? → Use **After Feedback**
+- Correct antwoord visueel tonen? → Gebruik **Na de vraag**
+- Spanning opbouwen voor het onthullen van feedback? → Gebruik **Voor feedback**
+- Extra trivia of diepgang toevoegen? → Gebruik **Na feedback**
 
 ---
 
-Next up: Learn more about the different [question types](../question-types/000-question-types.md) and how to structure your [round types](../round-types/000-round-types.md) for maximum impact.
+Vervolgens: Leer meer over de verschillende [vraagtypes](../question-types/000-question-types.md) en hoe je je [ronde types](../round-types/000-round-types.md) opbouwt voor maximaal effect.
