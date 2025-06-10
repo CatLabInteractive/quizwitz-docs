@@ -1,58 +1,58 @@
 ---
 id: import-questions
-title: Import questions
+title: Importeer vragen
 ---
 
-# 📥 Import questions
+# 📥 Vragen importeren
 
-There are two ways to quickly add questions to a round in QuizWitz:
+Er zijn twee manieren om snel vragen toe te voegen aan een ronde in QuizWitz:
 
-- Import existing content from the **QuizWitz Library**
-- Paste a list of questions from a **spreadsheet**
+- Importeer bestaande content uit de **QuizWitz Library**
+- Plak een lijst vragen vanuit een **spreadsheet**
 
-Both options are accessible from within any round.
+Beide opties zijn toegankelijk binnen elke ronde.
 
 ---
 
-## 📚 Import from the QuizWitz Library
+## 📚 Importeren vanuit de QuizWitz Library
 
-Use the **QuizWitz Library** tab to search and import questions, rounds, or quizzes created by yourself or other creators.
+Gebruik het tabblad **QuizWitz Library** om te zoeken en vragen, rondes of quizzes te importeren die door jezelf of andere makers zijn gemaakt.
 
-1. Open the round where you want to import content
-2. Click the **QuizWitz Library** tab
-3. Use filters like language, collection, type, category, or tags
-4. Select one or more entries
-5. Click **Add X items** to insert the selected content into your quiz
+1. Open de ronde waarin je content wilt importeren
+2. Klik op het tabblad **QuizWitz Library**
+3. Gebruik filters zoals taal, collectie, type, categorie of tags
+4. Selecteer één of meerdere items
+5. Klik op **Voeg X items toe** om de geselecteerde content in je quiz te plaatsen
 
 ![QuizWitz Library](/images/import/import-from-quizwitz.png)
 
-> ✅ Use this method to reuse high-quality content or combine multiple public Round-Abouts into a larger quiz.
+> ✅ Gebruik deze methode om hoogwaardige content opnieuw te gebruiken of om meerdere openbare Round-Abouts te combineren tot een grotere quiz.
 
 ---
 
-## 📋 Import from a spreadsheet
+## 📋 Importeren vanuit een spreadsheet
 
-To quickly create many questions at once, use the **Import from spreadsheet** tab.
+Om snel veel vragen tegelijk te maken, gebruik je het tabblad **Importeren vanuit spreadsheet**.
 
-1. Open a round
-2. Click the **Import from spreadsheet** tab
-3. Paste rows of **tab-separated** values (copied from Excel, Google Sheets, etc.)
-4. Click **Import questions**
+1. Open een ronde
+2. Klik op het tabblad **Importeren vanuit spreadsheet**
+3. Plak rijen met **tab-gescheiden** waarden (gekopieerd van Excel, Google Sheets, etc.)
+4. Klik op **Import questions**
 
 ![Import from spreadsheet](/images/import/import-from-spreadsheet.png)
 
 ---
 
-### 🗂️ Format for pasting
+### 🗂️ Formaat voor plakken
 
-Each row must contain the following columns in this exact order:
+Elke rij moet de volgende kolommen bevatten in deze exacte volgorde:
 
-1. **Short question** — Displayed on the player screen
-2. **Correct answer**
-3. **Wrong answer 1** (leave blank for open questions)
-4. **Wrong answer 2**
-5. **Wrong answer 3**
-6. **Short feedback** — Displayed on the player screen after answering
+1. **Korte vraag** — Wordt weergegeven op het spelersscherm
+2. **Juiste antwoord**
+3. **Fout antwoord 1** (leeglaten voor open vragen)
+4. **Fout antwoord 2**
+5. **Fout antwoord 3**
+6. **Korte feedback** — Wordt weergegeven op het spelersscherm na het beantwoorden
 7. **Long question** _(optional)_ — Displayed on the quizmaster screen
 8. **Long feedback** _(optional)_ — Explanation for the quizmaster to read aloud
 
@@ -60,12 +60,12 @@ Each row must contain the following columns in this exact order:
 
 ---
 
-## ✅ After importing
+## ✅ Na het importeren
 
-Whether importing from the library or a spreadsheet:
+Of je nu importeert vanuit de library of een spreadsheet:
 
-- Review your questions for formatting and clarity
-- Update any metadata like category, round type, or attachments
-- Don’t forget to **save your quiz**
+- Bekijk je vragen op opmaak en duidelijkheid
+- Werk eventuele metadata bij zoals categorie, rondetype of bijlagen
+- Vergeet niet om je quiz **op te slaan**
 
-📘 Want to enhance your questions further? Continue in the [Writing questions guide](../editor/writing-questions).
+📘 Wil je je vragen nog beter maken? Continue in the [Writing questions guide](../editor/writing-questions).
