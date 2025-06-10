@@ -5,38 +5,38 @@ title: Multiquestion
 
 # ❓ Multiquestion
 
-The **Multiquestion** round gives players (or teams) the freedom to pick which question they want to answer from a set of possibilities. This makes each playthrough unique and allows for strategic choices!
+Le tour **Multiquestion** donne aux joueurs (ou aux équipes) la liberté de choisir la question à laquelle ils souhaitent répondre parmi un ensemble de possibilités. Cela rend chaque partie unique et permet des choix stratégiques !
 
 ---
 
-## 📝 How it works
+## 📝 Comment ça marche
 
-- For each "question group," several alternative questions are presented.
-- **Each player (or team) selects one question** from the available options to answer.
-- Every question can have its own point value, difficulty, or type (multiple choice, open, etc.).
-- Players only answer the question they picked; the rest are skipped for them.
+- Pour chaque « groupe de questions », plusieurs questions alternatives sont présentées.
+- **Chaque joueur (ou équipe) sélectionne une question** parmi les options disponibles pour y répondre.
+- Chaque question peut avoir sa propre valeur en points, difficulté ou type (choix multiple, ouverte, etc.).
+- Les joueurs répondent uniquement à la question qu’ils ont choisie ; les autres sont ignorées pour eux.
 
 ---
 
-## 🛠️ Editor setup
+## 🛠️ Configuration de l’éditeur
 
-- In the quiz editor, create **Question groups**. Each group contains all the alternative questions for that turn.
-- For each question in the group, set the **Label** field. This label is shown to players as the “title” or hint for their choice.
-  - Labels can be cryptic (“A, B, C”), themed (“Animals”, “History”), or descriptive (“Easy MC”, “Hard open”).
-- You can mix and match question types and point values within the same group.
-- **Duration:** Even though you can set a different timer multiplier per question, the game uses the highest value for all questions in the group (so nobody is rushed).
-- **Attachments:**
+- Dans l’éditeur de quiz, créez des **groupes de questions**. Chaque groupe contient toutes les questions alternatives de ce tour.
+- Pour chaque question dans le groupe, définissez le champ **Label**. Ce label est affiché aux joueurs comme le "titre" ou l’indice pour leur choix.
+  - Les labels peuvent être cryptiques (« A, B, C »), thématiques (« Animaux », « Histoire ») ou descriptifs (« QCM facile », « Ouverte difficile »).
+- Vous pouvez mélanger les types de questions et les valeurs en points au sein d’un même groupe.
+- **Durée :** Même si vous pouvez définir un multiplicateur de temps différent par question, le jeu utilise la valeur la plus élevée pour toutes les questions du groupe (afin que personne ne soit pressé).
+- **Pièces jointes :**
   - _Before question_ attachments from all options are combined into one view before players make their choice.
   - _During question_ visible attachments are not shown, but audio still plays.
 
 ---
 
-## 💡 Tips
+## 💡 Astuces
 
-- Offer a mix of easy and hard questions for more strategy.
-- Use labels creatively—mystery or fun themes can boost engagement.
-- Reward risk-takers with higher point questions.
+- Proposez un mélange de questions faciles et difficiles pour plus de stratégie.
+- Utilisez les labels de façon créative — des thèmes mystères ou amusants peuvent augmenter l’engagement.
+- Récompensez les preneurs de risques avec des questions à points plus élevés.
 
 ---
 
-For more on configuring questions and using attachments, see [writing questions](../editor/005-writing-questions.md) and [attachments documentation](../editor/006-attachments.md).
+Pour en savoir plus sur la configuration des questions et l’utilisation des pièces jointes, consultez [écriture des questions](../editor/005-writing-questions.md) et [documentation des pièces jointes](../editor/006-attachments.md).
