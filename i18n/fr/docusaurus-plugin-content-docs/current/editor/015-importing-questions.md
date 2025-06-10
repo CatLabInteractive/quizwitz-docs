@@ -56,7 +56,7 @@ Each row must contain the following columns in this exact order:
 7. **Long question** _(optional)_ — Displayed on the quizmaster screen
 8. **Long feedback** _(optional)_ — Explanation for the quizmaster to read aloud
 
-> 📌 The last two columns are only used in [QuizWitz Live](../quizmaster/001-introduction.md), but they must still be included (even if left empty).
+> 📌 Les deux dernières colonnes sont uniquement utilisées dans [QuizWitz Live](../quizmaster/001-introduction.md), mais elles doivent quand même être incluses (même si elles restent vides).
 
 ---
 
@@ -68,4 +68,4 @@ Whether importing from the library or a spreadsheet:
 - Update any metadata like category, round type, or attachments
 - Don’t forget to **save your quiz**
 
-📘 Want to enhance your questions further? Continue in the [Writing questions guide](../editor/005-writing-questions.md).
+📘 Want to enhance your questions further? Continue dans le [guide pour écrire des questions](../editor/005-writing-questions.md).
