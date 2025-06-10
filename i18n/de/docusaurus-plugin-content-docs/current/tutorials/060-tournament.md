@@ -1,70 +1,71 @@
 ---
 id: tournament
-title: Tournament
+title: Turnier
 ---
 
-# Tournament
+# Turnier
 
-This tutorial will show you how to use QuizWitz Tournament mode. Tournament mode lets players join and play your quiz whenever they want — on their own device. Their scores are recorded on a global leaderboard that you can display in your venue.
+Dieses Tutorial zeigt dir, wie du den QuizWitz Turniermodus verwenden kannst. Im Turniermodus können Spieler jederzeit mit ihrem eigenen smart device an deinem Quiz teilnehmen und spielen. Ihre Punktzahlen werden in einer globalen Bestenliste festgehalten, die du an deinem Veranstaltungsort anzeigen kannst.
 
 ---
 
-## 📝 Create the quiz
+## 📝 Erstelle das Quiz
 
-When building a tournament quiz, keep it short and engaging. If visitors need to spend too much time on the quiz, they might not finish.\
+Halte ein Turnierquiz kurz und packend. Wenn Besucher zu viel Zeit für das Quiz benötigen, könnten sie es nicht abschließen.\
+If visitors need to spend too much time on the quiz, they might not finish.\
 **Only players who finish the whole quiz will be listed on the leaderboard.**
 
-### 🎲 Random question selection
+### 🎲 Zufällige Fragenauswahl
 
-Make the game select a random set of questions from your pool, so every playthrough feels unique — and returning players get different questions.
+Lass das Spiel eine zufällige Auswahl an Fragen aus deinem Pool treffen, damit sich jedes Spiel einzigartig anfühlt – und wiederkehrende Spieler unterschiedliche Fragen bekommen.
 
-**Setup example:**
+**Beispiel zur Einrichtung:**
 
-- Choose **Quiz** in the Create menu and name your quiz. Set the correct language.
-- Create 3 rounds, naming them (e.g. Round 1, Round 2, Round 3).
-- In each **Round settings** (cog icon), enable **Only show x questions** and set it to 5.
-- Enable **Random question order** so the game doesn't always pick the same questions first.
+- Wähle im Erstellen-Menü **Quiz** und gib deinem Quiz einen Namen. Stelle die richtige Sprache ein.
+- Erstelle 3 Runden und benenne sie (z.B. Round 1, Round 2, Round 3).
+- Aktiviere in den **Rundeneinstellungen** (Zahnrad-Symbol) **Nur x Fragen anzeigen** und setze den Wert auf 5.
+- Aktiviere **Zufällige Fragenreihenfolge**, damit das Spiel nicht immer dieselben Fragen zuerst auswählt.
 
-Repeat these steps for every round in the quiz.
-
----
-
-## 🚀 Start the tournament
-
-Tournaments can only be started from the **Advanced game options** menu.
-
-1. Select **Play quiz** and choose **Advanced game options**.
-
-   ![A screenshot of the 'Start quiz' menu](/images/tutorials/tournament/tournament-start.png)
-
-2. In the popup, select the **Tournament** game mode and click **Generate play link**.
-
-   ![A screenshot of the 'Advanced game options' menu](/images/tutorials/tournament/tournament-advanced-game-settings.png)
-
-You will now receive two links:
-
-- **Player link** — Share this with your players (or let them scan the QR code from the leaderboard).
-- **Leaderboard link** — Open this on a display at your venue to show the live rankings and the QR code players can scan to join.
+Wiederhole diese Schritte für jede Runde im Quiz.
 
 ---
 
-## 🏆 Launching the leaderboard
+## 🚀 Starte das Turnier
 
-To launch the leaderboard, you need to log in:
+Turniere können nur über das Menü **Erweiterte Spieloptionen** gestartet werden.
 
-1. Click **Login to add a profile** and enter your password.
-2. Select your profile from the window to start the leaderboard.
+1. Wähle **Quiz spielen** und dann **Erweiterte Spieloptionen**.
 
-   ![A screenshot of the leaderboard app](/images/tutorials/tournament/leaderboard-start.png)
+   ![Ein Screenshot des Menüs "Quiz starten"](/images/tutorials/tournament/tournament-start.png)
 
-Once the first players finish their games, their scores will be displayed live:
+2. Im Popup wähle den Spielmodus **Turnier** und klicke auf **Spiel-Link generieren**.
 
-![A screenshot of the leaderboard app](/images/tutorials/tournament/leaderboard.png)
+   ![Ein Screenshot des Menüs "Erweiterte Spieloptionen"](/images/tutorials/tournament/tournament-advanced-game-settings.png)
+
+Du erhältst nun zwei Links:
+
+- **Spieler-Link** — Teile diesen mit deinen Spielern (oder lass sie den QR-Code von der Bestenliste scannen).
+- **Bestenlisten-Link** — Öffne diesen auf einem Display an deinem Veranstaltungsort, um die Live-Rangliste und den QR-Code anzuzeigen, den die Spieler scannen können, um mitzumachen.
 
 ---
 
-## 📧 Email confirmation
+## 🏆 Die Bestenliste starten
 
-You'll also get an email containing both the player and leaderboard links — handy so you don't lose them!
+Um die Bestenliste zu starten, musst du dich anmelden:
 
-![A screenshot of the tournament email](/images/tutorials/tournament/tournament-email.png)
+1. Klicke auf **Anmelden, um ein Profil hinzuzufügen** und gib dein Passwort ein.
+2. Wähle dein Profil im Fenster aus, um die Bestenliste zu starten.
+
+   ![Ein Screenshot der Bestenlisten-App](/images/tutorials/tournament/leaderboard-start.png)
+
+Sobald die ersten Spieler ihre Spiele beendet haben, werden ihre Punktzahlen live angezeigt:
+
+![Ein Screenshot der Bestenlisten-App](/images/tutorials/tournament/leaderboard.png)
+
+---
+
+## 📧 E-Mail-Bestätigung
+
+Du erhältst auch eine E-Mail mit beiden Links – dem Spieler- und dem Bestenlisten-Link – praktisch, damit du sie nicht verlierst!
+
+![Ein Screenshot der Turnier-E-Mail](/images/tutorials/tournament/tournament-email.png)
