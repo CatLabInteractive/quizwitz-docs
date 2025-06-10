@@ -41,8 +41,10 @@ A **List question** asks players to provide several correct answers from a large
 - **Time-based scoring** (if enabled):\
   Follows the **open question rules** for fairness:
   - The available points are split into blocks of time (not by the millisecond).\
+    The available points are split into blocks of time (not by the millisecond).\
     For example: full points in the first block, 80% in the next, and so on.
   - **Only 25%** of the points depend on speed.\
+    **Only 25%** of the points depend on speed.\
     The other **75%** is fixed — so even slower typers get most of the points if they answer correctly.
   - This reduces the penalty for typing speed and makes scoring fairer for everyone.
 
