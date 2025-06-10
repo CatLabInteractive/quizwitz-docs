@@ -31,8 +31,8 @@ To keep things fresh, make sure you have plenty of questions — enough to rando
 
 ![Screenshot of round settings for a conference booth](/images/tutorials/conference/round_settings.png)
 
-4. **Add questions to each round.**\
-  You can [write questions](../editor/005-writing-questions.md) or use the Import button to quickly add content from Excel.
+4. **Füge Fragen zu jeder Runde hinzu.**\
+  Du kannst [Fragen schreiben](../editor/005-writing-questions.md) oder die Import-Schaltfläche verwenden, um schnell Inhalte aus Excel hinzuzufügen.
 
 :::tip
 Use lots of images and video clips — they make the game much more entertaining!
@@ -76,4 +76,4 @@ You’ll get a unique link with all your chosen options.
 ## 🎨 Theming
 
 Want to match the game to your booth branding?\
-See our [Theming guide](../advanced/011-emerald-theme.md) for tips on customizing your QuizWitz experience.
+Sieh dir unseren [Theming-Guide](../advanced/011-emerald-theme.md) für Tipps zur Anpassung deines QuizWitz-Erlebnisses an.
