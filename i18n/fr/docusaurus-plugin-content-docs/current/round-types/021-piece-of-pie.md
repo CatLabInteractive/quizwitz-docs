@@ -1,39 +1,39 @@
 ---
 id: piece-of-pie
-title: Piece of pie
+title: Tranche de tarte
 ---
 
-# 🥧 Piece of pie
+# 🥧 Tranche de tarte
 
-In a **Piece of pie** round, teamwork pays off! The total points available for each question depend on the number of players, and are then split between all players (or teams) who answer the question correctly.
-
----
-
-## 📝 How it works
-
-- **Total points = base points × number of players (or teams).**
-    - Example: If a question is worth 100 points and there are 20 players, 2,000 points are at stake.
-- After the question, the **total points are divided equally** among everyone who answered correctly.
-    - Example: If 5 players answered correctly, each of them gets 400 points.
-- If everyone gets it right, everyone gets the same (lower) share. If only one player is correct, they get the whole “pie”!
+Dans une manche **Tranche de tarte**, le travail d'équipe paie ! Le nombre total de points disponibles pour chaque question dépend du nombre de joueurs, puis est réparti entre tous les joueurs (ou équipes) qui répondent correctement.
 
 ---
 
-## ⚙️ Time-based scoring
+## 📝 Comment ça marche
 
-- **Time-based scoring can be enabled** (and is enabled by default).
+- **Points totaux = points de base × nombre de joueurs (ou d’équipes).**
+    - Exemple : si une question vaut 100 points et qu’il y a 20 joueurs, 2 000 points sont en jeu.
+- Après la question, les **points totaux sont partagés également** entre tous ceux qui ont répondu correctement.
+    - Exemple : si 5 joueurs ont répondu correctement, chacun reçoit 400 points.
+- Si tout le monde trouve la bonne réponse, tout le monde reçoit la même part (plus petite). Si un seul joueur est correct, il remporte toute la « tarte » !
+
+---
+
+## ⚙️ Score basé sur le temps
+
+- **Le score basé sur le temps peut être activé** (et est activé par défaut).
 - In that case, the displayed points are the _maximum_ you could win for a fast and correct answer.
 - Your share of the “pie” will be adjusted for your speed _and_ the number of other correct answers.
-- For details, see the [scoring section](../editor/008-round-options.md#scoring).
+- Pour plus de détails, consultez la [section sur le scoring](../editor/008-round-options.md#scoring).
 
 ---
 
-## 💡 Tips
+## 💡 Astuces
 
-- **Encourage unique knowledge!** The fewer people who get it right, the bigger the reward.
-- **Speed still matters** if time-based scoring is on, but sharing the “pie” means you want to be both fast and correct.
-- Works well for questions where there’s a single clear answer, or to reward players who think outside the box.
+- **Encouragez une connaissance unique !** Moins il y a de bonnes réponses, plus la récompense est grande.
+- **La rapidité compte toujours** si le score basé sur le temps est activé, mais le partage de la « tarte » signifie que vous voulez être à la fois rapide et correct.
+- Convient bien aux questions avec une seule réponse claire, ou pour récompenser les joueurs qui pensent différemment.
 
 ---
 
-For more about round settings and configuration, see [Round options](../editor/008-round-options.md).
+Pour en savoir plus sur les paramètres et la configuration des manches, voir [Options de manche](../editor/008-round-options.md).
