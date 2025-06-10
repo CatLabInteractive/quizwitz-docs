@@ -16,6 +16,7 @@ In an **Image map** question, players must select the correct spot (or spots) on
 ## 📝 How it works
 
 - **Question:** Clearly state what players need to find on the image.\
+  _(Example: “Select the Erlenmeyer flask.”)_\
   _(Example: “Select the Erlenmeyer flask.”)_
 - **Image:** Upload a high-quality image that will be shown to all players.
 - **Answer points:** Define one or more **target areas** (“points”) on the image. Each area can be set as a circle or another shape, and you determine its position and size.
@@ -42,6 +43,7 @@ See [writing questions](../editor/005-writing-questions.md) for general question
 ## ⏱️ Time-based scoring
 
 **Time-based scoring is enabled by default.** Players who answer quickly earn more points, but there’s always a fixed component (default: 75%) for a correct answer. Only 25% of the total score is influenced by how fast you answer.\
+You can turn off time-based scoring for this question type if you wish.\
 You can turn off time-based scoring for this question type if you wish.
 
 📘 For details on scoring and time settings, see the [round options documentation](../editor/008-round-options.md#scoring).
