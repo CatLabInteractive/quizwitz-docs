@@ -28,11 +28,13 @@ Once launched, your screen will display a **Master Code**. **Do not share this c
 - Visit [quizwitz.tv](https://quizwitz.tv) on your quizmaster device and enter the Master Code.
 - A **Quizmaster App interface** will appear, where you control the game.
 - We recommend a **tablet or smartphone** for mobility, but a laptop works too.\
+  ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)\
   ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)
 
 After connecting, the Master Code disappears from the screen. You're now ready to show the main screen on a projector or start your livestream.
 
 > ⚠️ **Heads up!** If the game screen (main display) is not actively in focus — for example, if you switch tabs or minimize it — the game will **automatically pause**.\
+> When this happens:\
 > When this happens:
 >
 > - The **Quizmaster App also pauses**
