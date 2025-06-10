@@ -32,6 +32,7 @@ See [round options](../editor/008-round-options.md) for details on configuring f
 ## 🎵 Attachments — Countdown music
 
 - You can set a **Round Attachment** in the slot “Play during question countdown.”\
+  You can set a **Round Attachment** in the slot “Play during question countdown.”\
   This audio attachment will play **continuously** as the countdown music during the entire lightning round, only stopping after the last question.
 - Use energetic or tense music to boost excitement and keep players on their toes.
 
