@@ -1,62 +1,62 @@
 ---
 id: lightning-round
-title: Lightning round
+title: Bliksemronde
 ---
 
-# ⚡ Lightning round
+# ⚡ Bliksemronde
 
-The **Lightning round** is all about speed and excitement. Players answer a rapid series of questions with very short timers — all set to continuous timer music for maximum energy and tension.
-
----
-
-## 📝 How it works
-
-- Questions are presented one after another with minimal delay.
-- Timer music plays **continuously** throughout the round, only stopping after the last question.
-- Players must answer quickly; there’s no break between questions.
-- **By default, feedback for each question is postponed until the end of the round,** but each question’s feedback is shown separately, not grouped on a single screen.
-- If you want to group all feedback on one screen at the end, you can enable this in the round settings.
+De **Bliksemronde** draait helemaal om snelheid en spanning. Spelers beantwoorden een snelle reeks vragen met zeer korte timers — allemaal met doorlopende timer muziek voor maximale energie en spanning.
 
 ---
 
-## ⚙️ Feedback settings
+## 📝 Hoe het werkt
 
-- **Default (postponed feedback):** Feedback for each question is shown after the last question, one by one in sequence.
-- **Grouped feedback:** If “Show all question feedback at the end of the round” is enabled in round settings, all feedback is combined into a single feedback screen at the end.
-- **Force results after question:** If enabled in a question’s settings, feedback for that question will always be shown immediately, regardless of round feedback grouping.
-
-See [round options](../editor/008-round-options.md) for details on configuring feedback timing.
+- Vragen worden één voor één met minimale vertraging gepresenteerd.
+- Timer muziek speelt **continu** gedurende de ronde, en stopt pas na de laatste vraag.
+- Spelers moeten snel antwoorden; er is geen pauze tussen de vragen.
+- **Standaard wordt feedback voor elke vraag uitgesteld tot het einde van de ronde,** maar de feedback van elke vraag wordt apart getoond, niet gegroepeerd op één scherm.
+- Als je alle feedback op één scherm aan het einde wilt groeperen, kun je dit inschakelen in de ronde-instellingen.
 
 ---
 
-## 🎵 Attachments — Countdown music
+## ⚙️ Feedback instellingen
 
-- You can set a **Round Attachment** in the slot “Play during question countdown.”\
+- **Standaard (uitgestelde feedback):** Feedback voor elke vraag wordt na de laatste vraag getoond, één voor één achter elkaar.
+- **Gegroepeerde feedback:** Als "Toon alle vraagfeedback aan het einde van de ronde" is ingeschakeld in de ronde-instellingen, wordt alle feedback gecombineerd in één feedbackscherm aan het einde.
+- **Forceer resultaten na vraag:** Als ingeschakeld in de instellingen van een vraag, wordt feedback voor die vraag altijd direct getoond, ongeacht de groepsfeedback van de ronde.
+
+Zie [ronde-opties](../editor/008-round-options.md) voor details over het configureren van feedback-timing.
+
+---
+
+## 🎵 Bijlagen — Aftel muziek
+
+- Je kunt een **Ronde Bijlage** instellen in de slot "Speel af tijdens vraag aftellen."\
   You can set a **Round Attachment** in the slot “Play during question countdown.”\
   This audio attachment will play **continuously** as the countdown music during the entire lightning round, only stopping after the last question.
-- Use energetic or tense music to boost excitement and keep players on their toes.
+- Gebruik energieke of spannende muziek om de opwinding te vergroten en de spelers alert te houden.
 
-For more details, see the [attachments documentation](../editor/006-attachments.md).
+Voor meer details, zie de [bijlagen documentatie](../editor/006-attachments.md).
 
 ---
 
-## 🏆 Scoring
+## 🏆 Puntentelling
 
 - **Time-based scoring is _not_ recommended** for this round type.
-- Instead, use a **short question timer** (typically 15 seconds).
-- Set point values lower than usual (e.g. 500 points per question) to keep the game fair and minimize the impact of wrong answers.
+- Gebruik in plaats daarvan een **korte vraag timer** (typisch 15 seconden).
+- Stel puntwaarden lager in dan normaal (bijv. 500 punten per vraag) om het spel eerlijk te houden en de impact van foute antwoorden te minimaliseren.
 
-For scoring setup, see the [scoring section](../editor/008-round-options.md#scoring).
+Voor puntentelling-instellingen, zie de [puntentelling sectie](../editor/008-round-options.md#scoring).
 
 ---
 
 ## 💡 Tips
 
-- **Keep questions short:** This encourages fast, instinctive answers.
-- **Use energetic music:** Timer music adds to the pressure and excitement.
-- **Balance difficulty:** Too many tough questions can stall the pace.
-- **Lower the stakes:** Fewer points and shorter timers mean mistakes aren’t too punishing.
+- **Houd vragen kort:** Dit moedigt snelle, intuïtieve antwoorden aan.
+- **Gebruik energieke muziek:** Timer muziek verhoogt de druk en spanning.
+- **Balanceer de moeilijkheid:** Te veel lastige vragen kunnen het tempo vertragen.
+- **Verlaag de inzet:** Minder punten en kortere timers zorgen dat fouten minder zwaar wegen.
 
 ---
 
-Lightning rounds are perfect for energizing your quiz and ramping up the pace!
+Bliksemrondes zijn perfect om je quiz nieuw leven in te blazen en het tempo op te voeren!
