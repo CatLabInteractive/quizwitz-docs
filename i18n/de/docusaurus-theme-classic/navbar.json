@@ -8,15 +8,15 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.About QuizWitz": {
-    "message": "About QuizWitz",
+    "message": "Über QuizWitz",
     "description": "Navbar item with label About QuizWitz"
   },
   "item.label.Round types": {
-    "message": "Round types",
+    "message": "Rundentypen",
     "description": "Navbar item with label Round types"
   },
   "item.label.Question types": {
-    "message": "Question types",
+    "message": "Fragetypen",
     "description": "Navbar item with label Question types"
   },
   "item.label.FAQ": {
