@@ -1,87 +1,88 @@
 ---
 id: writing-questions
-title: Writing questions
+title: Fragen schreiben
 ---
 
-# ✍️ Writing Questions
+# ✍️ Fragen schreiben
 
-Time to get creative! Whether you're building a full quiz or a Round-About, writing strong, fun questions is at the heart of a great game.
+Zeit, kreativ zu werden! Egal, ob du ein komplettes Quiz oder ein Round-About erstellst, starke, lustige Fragen zu schreiben steht im Mittelpunkt eines großartigen Spiels.
 
-To begin, click **Add new question**. You can add as many as you like.
+Klicke zuerst auf **Neue Frage hinzufügen**. Du kannst so viele hinzufügen, wie du möchtest.
 
-> 💾 Don’t forget to **save your work** regularly and **test your quiz** at any time to see how it plays!
-
----
-
-## ⚙️ Question settings
-
-Click the **gear icon** in the top-left corner of a question to open its full settings panel.
-
-![Question options](/images/question-options.png)
+> 💾 Vergiss nicht, deine Arbeit regelmäßig zu **speichern** und dein Quiz jederzeit zu **testen**, um zu sehen, wie es läuft!
 
 ---
 
-### 🎮 Mode & scoring
+## ⚙️ Frage-Einstellungen
+
+Klicke auf das **Zahnrad-Symbol** oben links bei einer Frage, um das vollständige Einstellungsfenster zu öffnen.
+
+![Frageoptionen](/images/question-options.png)
+
+---
+
+### 🎮 Modus & Punktevergabe
 
 - **Question type** — Choose how the question is played (e.g. multiple choice, open answer, puzzle)\
   → Learn more in [question types](../question-types/000-question-types.md)
-- **Points** — Set how many points a correct answer is worth
-- **Question timer** — Adjust the time limit using the slider
+- **Punkte** — Lege fest, wie viele Punkte eine richtige Antwort wert ist
+- **Fragen-Timer** — Stell das Zeitlimit mit dem Schieberegler ein
 
 ---
 
-### 🧩 Game behavior settings
+### 🧩 Spieleinstellungen
 
-Customize how the question behaves during gameplay:
+Passe an, wie sich die Frage während des Spiels verhält:
 
-- **Time-based scoring** — Reward players who answer more quickly
-- **Multiple correct answers** — Allow more than one valid choice
-- **Random answer order** — Shuffle the options on screen
-- **Stop timer when all answered** — Continue as soon as all responses are in
-- **Show question results** — Show feedback after the question (or disable it)
-- **Force results after question** — Only applies when feedback would normally be delayed (e.g., in lightning rounds or open questions). For standard questions without jury interaction, feedback is shown automatically after each question.
-
----
-
-### 🎤 Presenter content
-
-These fields control what appears on the Quizmaster App and big screen:
-
-- **Big screen – Question feedback** — Shown to all players after feedback is revealed
-- **Presenter – Long question** — A version of the question to be read aloud by the host
-- **Presenter – Long feedback** — Text the host can read after revealing the correct answer
-
-> 📝 These fields help make live presentations feel dynamic and polished.
+- **Zeitbasierte Punktevergabe** — Belohne Spieler, die schneller antworten
+- **Mehrere richtige Antworten** — Erlaube mehr als eine gültige Wahl
+- **Zufällige Antwortreihenfolge** — Mische die Optionen auf dem Bildschirm
+- **Timer bei allen Antworten stoppen** — Spiels weiter, sobald alle geantwortet haben
+- **Frageergebnisse anzeigen** — Zeige Feedback nach der Frage an (oder deaktiviere es)
+- **Erzwinge Ergebnisse nach der Frage** — Gilt nur, wenn Feedback normalerweise verzögert angezeigt wird (z. B. bei Lightning Runden oder offenen Fragen). Bei Standardfragen ohne Jury-Interaktion wird das Feedback automatisch nach jeder Frage angezeigt.
 
 ---
 
-## 📎 Attachments
+### 🎤 Präsentator-Inhalte
 
-![Question attachments](/images/question-attachments.png)
+Diese Felder steuern, was in der Quizmaster App und auf dem großen Bildschirm zu sehen ist:
 
-You can enhance questions with images, video, or audio. Each attachment can be shown at specific points:
+- **Großer Bildschirm – Fragefeedback** — Wird allen Spielern gezeigt, wenn das Feedback angezeigt wird
+- **Präsentator – Lange Frage** — Eine Version der Frage, die vom Moderator vorgelesen wird
+- **Präsentator – Langes Feedback** — Text, den der Moderator nach der richtigen Antwort vorlesen kann
 
-- **Before / During / After Question** — Shown around the time the question is presented
-- **Before / During / After Feedback** — Shown when results are revealed
+> 📝 Diese Felder helfen, Live-Präsentationen dynamisch und professionell wirken zu lassen.
+
+---
+
+## 📎 Anhänge
+
+![Frageanhänge](/images/question-attachments.png)
+
+Du kannst Fragen mit Bildern, Videos oder Audiodateien aufwerten. Jeder Anhang kann zu bestimmten Zeitpunkten angezeigt werden:
+
+- **Vor / Während / Nach der Frage** — Wird zur Zeit der Fragestellung angezeigt
+- **Vor / Während / Nach dem Feedback** — Wird angezeigt, wenn Ergebnisse gezeigt werden
 - ...
 
-> 🧠 Attachments are especially useful for building suspense, illustrating answers, or giving context.
+> 🧠 Anhänge sind besonders nützlich, um Spannung aufzubauen, Antworten zu veranschaulichen oder Kontext zu geben.
 
-You can add **multiple attachments** in each slot.
+Du kannst **mehrere Anhänge** in jedem Slot hinzufügen.
 
 > ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** der quizmaster kann auswählen, welchen Anhang er zu welchem Zeitpunkt anzeigen möchte.\
-> 🎮 **In regular games:** all attachments in a given slot are shown at once.
+> 🎮 **In regular games:** all attachments in a given slot are shown at once.\
+> 🎮 **In regulären Spielen:** werden alle Anhänge eines Slots gleichzeitig angezeigt.
 
 📘 Erfahre mehr über unterstützte Dateitypen, Timing-Tipps und Einschränkungen im [Anhänge-Guide](../editor/006-attachments.md).
 
 ---
 
-### 💡 Pro tip: Choosing the right moment
+### 💡 Profi-Tipp: Den richtigen Moment wählen
 
-- Show the correct answer visually? → Use **After Question**
-- Build suspense before revealing feedback? → Use **Before Feedback**
-- Add extra trivia or depth? → Use **After Feedback**
+- Die richtige Antwort visuell anzeigen? → Nutze **Nach der Frage**
+- Spannung vor der Feedback-Anzeige aufbauen? → Nutze **Vor dem Feedback**
+- Zusätzliche Trivia oder Tiefe hinzufügen? → Nutze **Nach dem Feedback**
 
 ---
 
-Next up: Learn more about the different [question types](../question-types/000-question-types.md) and how to structure your [round types](../round-types/000-round-types.md) for maximum impact.
+Als nächstes: Erfahre mehr über die verschiedenen [Fragetypen](../question-types/000-question-types.md) und wie du deine [Rundentypen](../round-types/000-round-types.md) für maximale Wirkung strukturierst.
