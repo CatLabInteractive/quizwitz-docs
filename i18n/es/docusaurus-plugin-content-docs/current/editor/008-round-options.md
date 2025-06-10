@@ -1,74 +1,74 @@
 ---
 id: round-options
-title: Round options
+title: Opciones de ronda
 ---
 
-# 🔄 Round options
+# 🔄 Opciones de ronda
 
-Each round has a specific **type**. The default is **Multiple Choice (Trivia)**, but feel free to test and experiment with all available types. This page explains the settings and attachments you can configure per round.
+Cada ronda tiene un **tipo** específico. El predeterminado es **Elección múltiple (Trivia)**, pero siéntete libre de probar y experimentar con todos los tipos disponibles. Esta página explica la configuración y los adjuntos que puedes configurar por ronda.
 
-📘 For a detailed overview of all round types, visit the [round types documentation](../round-types/000-round-types.md).
-
----
-
-## 🔧 Configuring a round
-
-To configure a round’s options, click the gear icon in the round panel:
-
-| ![Open round options](/images/open-round-options.png) | ![Round options](/images/round-options.png) |
-| :---------------------------------------------------: | :-----------------------------------------: |
-|                _Opening round options_                |         _Round configuration panel_         |
+📘 Para una descripción detallada de todos los tipos de ronda, visita la [documentación de tipos de ronda](../round-types/000-round-types.md).
 
 ---
 
-## ⚙️ General round options
+## 🔧 Configurando una ronda
 
-The following options are available for most round types:
+Para configurar las opciones de una ronda, haz clic en el icono de engranaje en el panel de la ronda:
 
-- **Only show _X_ questions** — Limits the round to a specific number of questions
-- **Random question order** — Shuffle the question order within the round
-- **Show round intro** — Display an animated title before the round begins
-- **Show round outro (interim score)** — Reveal rankings at the end of the round
-- **Group all feedback in a single screen** — Collect question feedback in one block after the round ends
-- **Show all question feedback at the end of the round** — Delay question feedback until the round ends
-- **Force feedback after each individual question** — Ensure immediate feedback
-  > ⚠️ This only takes effect in round and question types where feedback would otherwise be delayed, such as open questions or lightning rounds.
+| ![Abrir opciones de ronda](/images/open-round-options.png) | ![Opciones de ronda](/images/round-options.png) |
+| :--------------------------------------------------------: | :---------------------------------------------: |
+|                   _Opening round options_                  |           _Round configuration panel_           |
 
-📘 See [question types](../question-types/000-question-types.md) for more information on feedback timing and behavior.
+---
+
+## ⚙️ Opciones generales de ronda
+
+Las siguientes opciones están disponibles para la mayoría de los tipos de ronda:
+
+- **Mostrar solo _X_ preguntas** — Limita la ronda a un número específico de preguntas
+- **Orden aleatorio de preguntas** — Baraja el orden de las preguntas dentro de la ronda
+- **Mostrar introducción de la ronda** — Muestra un título animado antes de que comience la ronda
+- **Mostrar conclusión de la ronda (puntuación provisional)** — Revela el ranking al final de la ronda
+- **Agrupar toda la retroalimentación en una sola pantalla** — Recolecta la retroalimentación de las preguntas en un solo bloque después de que termina la ronda
+- **Mostrar toda la retroalimentación de preguntas al final de la ronda** — Retrasa la retroalimentación de preguntas hasta que la ronda termine
+- **Forzar retroalimentación después de cada pregunta individual** — Asegura retroalimentación inmediata
+  > ⚠️ Esto solo tiene efecto en tipos de ronda y pregunta donde la retroalimentación se retrasaría de otra forma, como preguntas abiertas o rondas rápidas.
+
+📘 Mira los [tipos de pregunta](../question-types/000-question-types.md) para más información sobre el tiempo y comportamiento de la retroalimentación.
 
 ---
 
 ## 🏆 Opciones de puntuación {#scoring}
 
-QuizWitz offers flexible scoring to keep things fair and engaging for all players.
+QuizWitz ofrece una puntuación flexible para mantener todo justo y entretenido para todos los jugadores.
 
-- **Time-based scoring** — Players earn more points for faster answers.
-  - For most question types, time-based points decrease **continuously per microsecond**: the faster you answer, the more points you score.
-  - For **open questions only**, time-based points are divided into blocks. For example: answers in the first block (e.g., first few seconds) earn **100%** of the time-based portion, the next block earns **80%**, and so on. This helps level the playing field for slower typers.
+- **Puntuación basada en tiempo** — Los jugadores ganan más puntos por respuestas rápidas.
+  - Para la mayoría de los tipos de pregunta, los puntos basados en tiempo disminuyen **continuamente por microsegundo**: mientras más rápido respondas, más puntos acumulas.
+  - Solo para **preguntas abiertas**, los puntos basados en tiempo se dividen en bloques. Por ejemplo: las respuestas en el primer bloque (ej., primeros segundos) ganan el **100%** de la parte basada en tiempo, el siguiente bloque gana el **80%**, y así sucesivamente. Esto ayuda a nivelar el campo para los que escriben más lento.
 
-- **Fixed percentage of points on timebased scoring** — You control how much of the total score is influenced by speed.
-  - By default, **75%** of the points are fixed (everyone who answers correctly gets these points, regardless of speed).
-  - Only the remaining **25%** is influenced by how quickly players respond.
+- **Porcentaje fijo de puntos en la puntuación basada en tiempo** — Controlas cuánto de la puntuación total está influenciada por la velocidad.
+  - Por defecto, el **75%** de los puntos son fijos (todos los que responden correctamente obtienen estos puntos, sin importar la velocidad).
+  - Solo el **25%** restante está influenciado por qué tan rápido responden los jugadores.
 
-> 💡 Adjusting this setting lets you make rounds more knowledge-based or more speed-based, depending on your quiz style.
+> 💡 Ajustar esta configuración te permite hacer las rondas más basadas en conocimiento o más basadas en velocidad, según tu estilo de quiz.
 
-These scoring options can be found in the round options panel when editing a round.
-
----
-
-## 📜 Quizmaster instructions
-
-Puedes añadir un **texto de introducción personalizado para la ronda** que aparecerá solo en la [app Quizmaster](../quizmaster/001-introduction.md) al inicio de la ronda. Use this to brief the presenter or add a personal touch.
+Estas opciones de puntuación están disponibles en el panel de opciones de ronda al editar una ronda.
 
 ---
 
-## 📎 Attachments
+## 📜 Instrucciones para quizmaster
 
-Enhance your round with media shown at specific moments:
+Puedes añadir un **texto de introducción personalizado para la ronda** que aparecerá solo en la [app Quizmaster](../quizmaster/001-introduction.md) al inicio de la ronda. Úsalo para informar al presentador o añadir un toque personal.
 
-- **Before round** — Displayed after the round intro animation
-- **After round** — Shown after the round outro
-- **Before round outro** — Shown after the last question, just before the outro
+---
+
+## 📎 Adjuntos
+
+Mejora tu ronda con medios que se muestran en momentos específicos:
+
+- **Antes de la ronda** — Mostrado después de la animación de introducción de la ronda
+- **Después de la ronda** — Mostrado después de la conclusión de la ronda
+- **Antes de la conclusión de la ronda** — Mostrado después de la última pregunta, justo antes de la conclusión
 - **During round outro** — _(audio only)_ Plays while rankings are displayed
 - ...
 
