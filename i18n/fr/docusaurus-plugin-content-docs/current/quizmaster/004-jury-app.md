@@ -1,61 +1,61 @@
 ---
 id: jury-app
-title: Jury app
+title: Application Jury
 ---
 
-# 🧑‍⚖️ Jury app — Reviewing open answers in QuizWitz Live
+# 🧑‍⚖️ Application Jury — Revue des réponses ouvertes dans QuizWitz Live
 
-If your quiz includes **open answer questions**, you'll need to use the **Jury app** to manually review and score responses.
+Si votre quiz comprend des **questions à réponses ouvertes**, vous devrez utiliser l’**application Jury** pour examiner et noter manuellement les réponses.
 
 ---
 
-## 🗂️ Using the Jury app
+## 🗂️ Utiliser l’application Jury
 
-The Jury app is a separate interface used by jury members to evaluate answers and manage scoring.
+L’application Jury est une interface séparée utilisée par les membres du jury pour évaluer les réponses et gérer le score.
 
-To open the Jury app:
+Pour ouvrir l’application Jury :
 
-1. At the start of the quiz, a **Jury Code** is generated.
-2. On a separate device, go to [**catlab.tv**](https://catlab.tv)
-3. Enter the **Jury Code** to access the app
+1. Au début du quiz, un **Code Jury** est généré.
+2. Sur un appareil différent, allez sur [**catlab.tv**](https://catlab.tv)
+3. Entrez le **Code Jury** pour accéder à l’application
 
-> 💡 You can open the Jury app on any browser — it's a web app, no installation required.
+> 💡 Vous pouvez ouvrir l’application Jury sur n’importe quel navigateur — c’est une application web, aucune installation n’est nécessaire.
 
-Once inside, the Jury app provides several useful tools:
+Une fois dans l’application, plusieurs outils utiles sont disponibles :
 
-- **Judge questions** — Open question results will appear once a question is completed.
-  - The game does **not wait** for the jury to finish — unless it’s the **last question of the round** or the quiz settings say otherwise.
-  - Once judged, results appear **after the next question**.
+- **Juger les questions** — Les résultats des questions ouvertes s’affichent une fois la question terminée.
+  - Le jeu ne **passe pas en attente** du jury — sauf si c’est la **dernière question du tour** ou si les paramètres du quiz le stipulent.
+  - Une fois jugés, les résultats apparaissent **après la question suivante**.
 
-- **Edit scores** — Grant or revoke points manually per player or team.
+- **Modifier les scores** — Ajouter ou retirer manuellement des points par joueur ou équipe.
 
-- **Game control** — Adjust question timers or add streaming delays if needed.
+- **Contrôle du jeu** — Ajuster les minuteries des questions ou ajouter des délais de diffusion si nécessaire.
   > Pour configurer le délai du livestream, consultez [**comment héberger un quiz QuizWitz Live sur Twitch**](../tutorials/040-livestreaming.md)
 
-- **Report** — Generate a full game report with results and player answers.
+- **Rapport** — Générer un rapport complet du jeu avec les résultats et les réponses des joueurs.
 
-![Screenshot of the Jury app in Pending state](/images/jury-app-waiting.png)
-
----
-
-## ✅ Judging open questions
-
-After each open question, the Jury app displays all submitted answers. Jury members must:
-
-1. Review each answer carefully
-2. Tick the checkbox next to each **acceptable** answer
-3. Click **‘Confirm’** to lock in the results
-
-![Screenshot of the Jury app in the Judging state](/images/jury-app-judging.png)
-
-QuizWitz will **automatically detect exact matches** and mark them as correct. Jury members are responsible for reviewing:
-
-- Partial or alternate answers
-- Phonetic matches
-- Common spelling variations
-
-> 🎙️ QuizWitz was designed with phonetic matching in mind — but the final decision is always up to the judges.
+![Capture d’écran de l’application Jury en état d’attente](/images/jury-app-waiting.png)
 
 ---
 
-With the Jury app, you can fairly assess open responses, adjust scores, and ensure a balanced quiz experience for all players.
+## ✅ Juger les questions ouvertes
+
+Après chaque question ouverte, l’application Jury affiche toutes les réponses soumises. Les membres du jury doivent :
+
+1. Examiner chaque réponse attentivement
+2. Cochez la case à côté de chaque réponse **acceptable**
+3. Cliquez sur **« Confirmer »** pour valider les résultats
+
+![Capture d’écran de l’application Jury en état de jugement](/images/jury-app-judging.png)
+
+QuizWitz détectera **automatiquement les correspondances exactes** et les marquera comme correctes. Les membres du jury sont responsables de vérifier :
+
+- Les réponses partielles ou alternatives
+- Les correspondances phonétiques
+- Les variations d’orthographe courantes
+
+> 🎙️ QuizWitz a été conçu en tenant compte de la correspondance phonétique — mais la décision finale revient toujours aux juges.
+
+---
+
+Avec l’application Jury, vous pouvez évaluer équitablement les réponses ouvertes, ajuster les scores et garantir une expérience de quiz équilibrée pour tous les joueurs.
