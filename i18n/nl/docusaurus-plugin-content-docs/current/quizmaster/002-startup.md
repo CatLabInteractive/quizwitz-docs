@@ -3,15 +3,15 @@ id: startup
 title: Start-up
 ---
 
-# 🚀 Start-up — Hosting a Quiz with QuizWitz Live
+# 🚀 Start-up — Een Quiz hosten met QuizWitz Live
 
-Welcome to QuizWitz Live — the professional way to host quizzes for teams, livestreams, and in-person events. Follow this guide to get your quiz up and running using the Quizmaster App.
+Welkom bij QuizWitz Live — de professionele manier om quizzen te organiseren voor teams, livestreams en evenementen op locatie. Volg deze gids om je quiz op te zetten en te starten met de Quizmaster App.
 
 ---
 
-## 🖥️ Launching QuizWitz Live
+## 🖥️ QuizWitz Live starten
 
-You can start a QuizWitz Live game from the quiz editor or directly from your quiz collection.
+Je kunt een QuizWitz Live-spel starten vanuit de quiz-editor of rechtstreeks vanuit je quizcollectie.
 
 - In the quiz editor, click **‘Start QuizWitz Live’**\
   ![Start QuizWitz PRO](/images/start-quizwitz-pro.png)
@@ -21,104 +21,104 @@ You can start a QuizWitz Live game from the quiz editor or directly from your qu
 
 ---
 
-## 🔐 Connecting with the Master Code
+## 🔐 Verbinden met de Master Code
 
-Once launched, your screen will display a **Master Code**. **Do not share this code with players** — it's used to connect your presentation device to the game.
+Zodra gestart, toont je scherm een **Master Code**. **Deel deze code niet met spelers** — dit is om je presentatieapparaat met het spel te verbinden.
 
-- Visit [quizwitz.tv](https://quizwitz.tv) on your quizmaster device and enter the Master Code.
-- A **Quizmaster App interface** will appear, where you control the game.
+- Bezoek [quizwitz.tv](https://quizwitz.tv) op je quizmaster-apparaat en voer de Master Code in.
+- Er verschijnt een **Quizmaster App-interface**, waarmee je het spel bedient.
 - We recommend a **tablet or smartphone** for mobility, but a laptop works too.\
   ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)\
   ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)
 
-After connecting, the Master Code disappears from the screen. You're now ready to show the main screen on a projector or start your livestream.
+Na verbinding verdwijnt de Master Code van het scherm. Je bent nu klaar om het hoofdscherm op een projector te tonen of je livestream te starten.
 
 > ⚠️ **Heads up!** If the game screen (main display) is not actively in focus — for example, if you switch tabs or minimize it — the game will **automatically pause**.\
 > When this happens:\
-> When this happens:
+> Als dit gebeurt:
 >
-> - The **Quizmaster App also pauses**
-> - To resume, first make sure the **game screen is active again**
-> - Then **hover over the screen** to reveal the bottom menu and press the **pause button** to continue
+> - De **Quizmaster App pauzeert ook**
+> - Om verder te gaan, zorg eerst dat het **spel-scherm weer actief is**
+> - Beweeg daarna met de muis over het scherm om het ondermenu te tonen en druk op de **pauzeknop** om verder te gaan
 
 ---
 
-## 🎮 Selecting your game mode
+## 🎮 Je spelmodus kiezen
 
-Once connected, choose between two game modes:
+Eenmaal verbonden, kies je tussen twee spelmodi:
 
 ![Quizmaster app - select mode](/images/quizmaster-app-select-mode.png)
 
-### Team codes
+### Teamcodes
 
-- Each team gets a **unique code**, which can be opened on multiple devices.
-- Best for **pre-registered team quizzes** where you know the team names in advance.
-- Allows device switching — helpful if a battery dies mid-quiz.
+- Elk team krijgt een **unieke code**, die op meerdere apparaten geopend kan worden.
+- Het beste voor **vooraf geregistreerde teamquizzen** waarbij je de teamnamen van tevoren weet.
+- Geeft de mogelijkheid om van apparaat te wisselen — handig als een batterij halverwege leeg raakt.
 
-### Single game code
+### Enkele spelcode
 
-- Everyone joins using **one shared Game Code**.
-- Ideal for casual or open-access events.
-- No pre-registration required — players can join anytime, until all active seats are filled.
+- Iedereen doet mee met **één gedeelde Game Code**.
+- Ideaal voor informele of open-toegang evenementen.
+- Geen voorafgaande registratie nodig — spelers kunnen op elk moment meedoen tot alle actieve Seats bezet zijn.
 
-> Make sure you're logged in to access your quiz content.
+> Zorg dat je ingelogd bent om toegang te krijgen tot je quizinhoud.
 
 ---
 
-## 👥 Hosting with Team codes
+## 👥 Hosten met Teamcodes
 
-When using **Team codes**, you will first create teams in the Quizmaster App:
+Bij gebruik van **Teamcodes** maak je eerst teams aan in de Quizmaster App:
 
-- Add team names
+- Voeg teamnamen toe
 - Press **‘Generate Codes’** to create access codes\
   ![Quizmaster app - create teams](/images/quizmaster-app-create-teams.png)
 
-You can also **reserve codes in advance** — more on that in the tips & tricks section.
+Je kunt ook **codes van tevoren reserveren** — meer daarover in de tips & trucs sectie.
 
-Be sure to **save the following codes**:
+Zorg dat je **de volgende codes opslaat**:
 
-- **Master Code** — to control the quiz
-- **Jury Code** — for manual score adjustments
-- **Regie Code** — to control visual and technical elements
+- **Master Code** — om de quiz te bedienen
+- **Jury Code** — voor handmatige scoreaanpassingen
+- **Regie Code** — om visuele en technische elementen te besturen
 
-Send team codes to your players via email or printouts.
+Stuur teamcodes naar je spelers via e-mail of printsters.
 
-When ready, click **‘Load quiz’**, wait for assets to load, and then click **‘Start’** to begin.
+Als je klaar bent, klik je op **‘Laad quiz’**, wacht je tot de bestanden geladen zijn en klik je dan op **‘Start’** om te beginnen.
 
 ![Quizmaster app - get team codes](/images/quizmaster-app-create-teams2.png)
 
 ---
 
-## 👤 Hosting with a Single game code
+## 👤 Hosten met een Enkele spelcode
 
-With the **Single Game Code** mode:
+Met de **Enkele Game Code** modus:
 
-- You’ll receive the Master, Jury, and Regie codes, plus one Game Code for players.
-- The Game Code appears on the main screen — **display or stream it to your audience**.
-- Players can join any time until your active seat limit is reached.
+- Je ontvangt de Master, Jury en Regie codes, plus één Game Code voor spelers.
+- De Game Code verschijnt op het hoofdscherm — **toon of stream deze naar je publiek**.
+- Spelers kunnen op elk moment meedoen tot het limiet van actieve Seats bereikt is.
 
-Once your players are in:
+Zodra je spelers binnen zijn:
 
-1. Click **‘Load quiz’**
-2. Click **‘Start quiz’** and confirm
-3. The Game Code remains visible for late joiners
+1. Klik op **‘Laad quiz’**
+2. Klik op **‘Start quiz’** en bevestig
+3. De Game Code blijft zichtbaar voor laatkomers
 
 ---
 
-## 🎟️ Activating seats
+## 🎟️ Seats activeren
 
-Before starting, you’ll need to check your available seats.
+Voordat je begint, moet je je beschikbare Seats controleren.
 
-- An overview appears after selecting your game mode
+- Een overzicht verschijnt nadat je je spelmodus hebt gekozen
 - If you need more seats, activate them at [app.quizwitz.com/seats](https://app.quizwitz.com/seats)\
   ![Quizmaster app - activate seats](/images/quizmaster-app-seats.png)
 
 ---
 
-## ▶️ Starting the game
+## ▶️ Het spel starten
 
-Once the setup is complete, press **‘Start quiz’** in the Quizmaster App to begin the game.
+Als de setup klaar is, druk je in de Quizmaster App op **‘Start quiz’** om te beginnen.
 
 ![Quizmaster app - start quiz](/images/quizmaster-app-start-quiz.png)
 
-You're now ready to entertain your audience with a seamless QuizWitz Live experience!
+Je bent nu klaar om je publiek te vermaken met een vlekkeloze QuizWitz Live ervaring!
