@@ -69,10 +69,10 @@ You can enhance questions with images, video, or audio. Each attachment can be s
 
 You can add **multiple attachments** in each slot.
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** the quizmaster can choose which attachment to display at each moment.\
+> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** der quizmaster kann auswählen, welchen Anhang er zu welchem Zeitpunkt anzeigen möchte.\
 > 🎮 **In regular games:** all attachments in a given slot are shown at once.
 
-📘 Learn more about supported file types, timing tips, and limitations in the [attachments guide](../editor/006-attachments.md).
+📘 Erfahre mehr über unterstützte Dateitypen, Timing-Tipps und Einschränkungen im [Anhänge-Guide](../editor/006-attachments.md).
 
 ---
 
