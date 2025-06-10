@@ -1,63 +1,64 @@
 ---
 id: attachments
-title: Attachments
+title: Archivos adjuntos
 ---
 
-# 📎 Attachments
+# 📎 Archivos adjuntos
 
-Attachments can be added in various slots throughout your quiz to enrich the experience with images, audio, or video.
+Se pueden añadir archivos adjuntos en varios espacios de tu quiz para enriquecer la experiencia con imágenes, audio o vídeo.
 
-These slots appear in the following parts of your quiz:
+Estos espacios aparecen en las siguientes partes de tu quiz:
 
 - [Preguntas](../editor/005-writing-questions.md)
 - [Rondas](../editor/008-round-options.md)
 - [Cuestionarios](../editor/007-quiz-options.md)
 
-Each page explains when these attachments are shown during gameplay.
+Cada página explica cuándo se muestran estos archivos adjuntos durante el juego.
 
-![Question attachments](/images/edit-question.png)
-
----
-
-## 🗂️ Supported file types
-
-Here is a general (non-exhaustive) list of compatible formats:
-
-- **Images** — `.png`, `.jpeg`, `.gif` (non-animated). Full HD (1920×1080) recommended
-- **Audio** — Most standard formats are supported
-- **Video** — Most standard formats are supported
-
-> 🔊 ⏱️ Audio and video attachments should be **no longer than 15 minutes** in duration.
+![Archivos adjuntos en la pregunta](/images/edit-question.png)
 
 ---
 
-## 📝 Name & attribution
+## 🗂️ Tipos de archivos compatibles
 
-Each attachment can have a name and optional attribution:
+Aquí tienes una lista general (no exhaustiva) de formatos compatibles:
+
+- **Imágenes** — `.png`, `.jpeg`, `.gif` (no animadas). Se recomienda Full HD (1920×1080)
+- **Audio** — Se admiten la mayoría de los formatos estándar
+- **Vídeo** — Se admiten la mayoría de los formatos estándar
+
+> 🔊 ⏱️ Los archivos de audio y vídeo no deben durar **más de 15 minutos**.
+
+---
+
+## 📝 Nombre y atribución
+
+Cada archivo adjunto puede tener un nombre y una atribución opcional:
 
 - **Nombre** — Visible para el quizmaster en [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); ayuda a organizar los adjuntos
-- **Attribution** — Shown to players as credit or source information. This should be the **name of the rights holder**.
+- **Atribución** — Se muestra a los jugadores como crédito o información de la fuente. Debe ser el **nombre del titular de los derechos**.
 
-> ⚠️ In order to **publish** a Round-About or Quiz, **all attachments must have a valid attribution** filled in. Without this, your entry cannot be made public.
-
----
-
-## ✨ Attachment effects
-
-Some attachment slots support **effects** to reveal visuals more gradually:
-
-- **None** — The file is shown as-is
-- **Spotlight effect** — Gradually reveals parts of the image over time with a moving spotlight that expands as it progresses
-
-This is especially effective for puzzles or slow reveals during intros or dramatic moments.
+> ⚠️ Para **publicar** un Round-About o quiz, **todos los archivos adjuntos deben tener una atribución válida**. Sin esto, tu entrada no podrá hacerse pública.
 
 ---
 
-## 📚 Multiple attachments per slot
+## ✨ Efectos en los archivos adjuntos
 
-Some slots allow adding **multiple attachments**. The way these behave depends on the game mode:
+Algunos espacios para archivos adjuntos soportan **efectos** para revelar visuales de forma más gradual:
+
+- **Ninguno** — El archivo se muestra tal cual
+- **Efecto foco de luz** — Revela gradualmente partes de la imagen con un foco móvil que se expande a medida que avanza
+
+Este efecto es especialmente efectivo para rompecabezas o revelaciones lentas durante introducciones o momentos dramáticos.
+
+---
+
+## 📚 Múltiples archivos adjuntos por espacio
+
+Algunos espacios permiten añadir **varios archivos adjuntos**. El comportamiento depende del modo de juego:
 
 > ⚡ **En [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** El quizmaster tiene control total y puede decidir cuándo mostrar u ocultar los adjuntos durante el juego.\
-> 🎮 **In regular games:** All attachments within a slot are shown **simultaneously**.
+> 🎮 **In regular games:** All attachments within a slot are shown **simultaneously**.\
+> 🎮 **En juegos regulares:** Todos los archivos adjuntos dentro de un espacio se muestran **simultáneamente**.
 
 Los detalles sobre el tiempo y comportamiento de cada intervalo se pueden encontrar en la documentación enlazada para [preguntas](../editor/015-importing-questions.md), [rondas](../editor/008-round-options.md) y [cuestionarios](../editor/007-quiz-options.md).
