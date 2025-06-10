@@ -1,40 +1,40 @@
 ---
 id: common-thread
-title: Common thread
+title: Gemeenschappelijke draad
 ---
 
-# 🧵 Common Thread
+# 🧵 Gemeenschappelijke draad
 
-The **Common Thread** round is a special variation of the classic Trivia round. In this round, players answer a series of regular questions, but the twist is that all answers are secretly connected by a single underlying theme or link — the “common thread.”
-
----
-
-## 📝 How it works
-
-- Players answer a sequence of questions as usual.
-- The final question in the round is typically **“What is the common thread that connects all these answers?”**
-- Instead of showing feedback after each question, **all feedback is postponed until the end of the round.**
-- When the round ends, feedback for the final “common thread” question is shown **first**.
-- After that, feedback for all previous questions is revealed, allowing the quizmaster to explain how each answer ties into the overall theme.
+De **Gemeenschappelijke Draad** ronde is een speciale variant van de klassieke Trivia ronde. In deze ronde beantwoorden spelers een reeks gewone vragen, maar de twist is dat alle antwoorden stiekem verbonden zijn door een enkel onderliggend thema of link — de “gemeenschappelijke draad.”
 
 ---
 
-## ⚙️ Feedback and scoring
+## 📝 Hoe het werkt
 
-- **Postponed feedback:** No immediate answer feedback after each question. Everything is revealed at the end.
-- **Quizmaster control:** The feedback reveal sequence helps build suspense and encourages group discussion.
-- **Scoring:** Each question uses its configured scoring type. The “common thread” question is usually open or freeform.
-
-See [round options](../editor/008-round-options.md) for details on configuring feedback timing and scoring.
-
----
-
-## 💡 Tips for writing a Common Thread round
-
-- **Choose a good link:** Pick a theme that is clever but not impossible to guess.
-- **Balance the questions:** Ensure each question makes sense on its own, but also fits the common thread.
-- **Final question:** End the round with a clear, direct question asking players to identify the link.
+- Spelers beantwoorden zoals gewoonlijk een reeks vragen.
+- De laatste vraag in de ronde is meestal **“Wat is de gemeenschappelijke draad die al deze antwoorden verbindt?”**
+- In plaats van feedback na elke vraag te tonen, wordt **alle feedback uitgesteld tot het einde van de ronde.**
+- Wanneer de ronde eindigt, wordt de feedback voor de laatste “gemeenschappelijke draad” vraag **als eerste** getoond.
+- Daarna wordt de feedback voor alle voorgaande vragen onthuld, zodat de quizmaster kan uitleggen hoe elk antwoord aansluit bij het overkoepelende thema.
 
 ---
 
-For more information about configuring round feedback and special round types, see the [round types documentation](../question-types/000-question-types.md).
+## ⚙️ Feedback en scoring
+
+- **Uitgestelde feedback:** Geen directe antwoordfeedback na elke vraag. Alles wordt aan het einde onthuld.
+- **Quizmaster controle:** De volgorde van feedback onthullen helpt spanning op te bouwen en moedigt groepsdiscussie aan.
+- **Scoring:** Elke vraag gebruikt het geconfigureerde type scoring. De “gemeenschappelijke draad” vraag is meestal open of vrijgevormd.
+
+Zie [ronde opties](../editor/008-round-options.md) voor details over het configureren van feedback timing en scoring.
+
+---
+
+## 💡 Tips voor het schrijven van een Gemeenschappelijke Draad ronde
+
+- **Kies een goede link:** Kies een thema dat slim is maar niet onmogelijk te raden.
+- **Balans in de vragen:** Zorg dat elke vraag op zichzelf logisch is, maar ook past in de gemeenschappelijke draad.
+- **Laatste vraag:** Eindig de ronde met een duidelijke, directe vraag die spelers vraagt de link te identificeren.
+
+---
+
+Voor meer informatie over het configureren van ronde feedback en speciale rondetypes, zie de [ronde types documentatie](../question-types/000-question-types.md).
