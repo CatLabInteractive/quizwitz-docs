@@ -11,6 +11,7 @@ Het eerste ingrediënt voor een succesvol QuizWitz Live evenement is een boeiend
 
 To take full control of your event, use the **Quizmaster App**, designed specifically for QuizWitz Live.\
 You can launch QuizWitz Live directly from the quiz editor by clicking **‘Start QuizWitz Live’**.\
+Je kunt QuizWitz Live direct vanuit de quiz-editor starten door te klikken op **‘Start QuizWitz Live’**.\
 Je kunt QuizWitz Live direct vanuit de quiz-editor starten door te klikken op **‘Start QuizWitz Live’**.
 
 > 💡 **Let op:** De Quizmaster App is een **webapp** — je hoeft niets te installeren. Ga simpelweg naar [**quizwitz.tv**](https://quizwitz.tv) in je browser om het te gebruiken op je smart device.
