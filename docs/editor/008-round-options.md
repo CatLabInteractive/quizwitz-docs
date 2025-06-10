@@ -38,7 +38,7 @@ The following options are available for most round types:
 
 ---
 
-## 🏆 Scoring options
+## 🏆 Scoring options {#scoring}
 
 QuizWitz offers flexible scoring to keep things fair and engaging for all players.
 
