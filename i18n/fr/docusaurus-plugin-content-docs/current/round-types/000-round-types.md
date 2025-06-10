@@ -1,40 +1,42 @@
 ---
 id: round-types
-name: Round types
+name: Types de tours
 ---
 
-# Round types
+# Types de tours
 
+Le type de tour influence la manière dont le jeu montre les questions aux joueurs — et comment les joueurs gagnent des points.\
 The round type influences the way the game shows the questions to the players — and how players earn points.\
 In quizzes, you can change the round type in the **Round type** select field at the top middle of the screen.
 
-## 🧠 Regular rounds
+## 🧠 Tours réguliers
 
-- [Trivia](011-trivia.md) (default)
+- [Trivia](011-trivia.md) (par défaut)
 - [Common Thread](012-common-thread.md)
 - [Lightning Round](013-lightning-round.md)
 
-## 🤹 Interactive rounds
+## 🤹 Tours interactifs
 
-These rounds offer a bit more interactivity than simple ask-and-answer questions.
+Ces tours offrent un peu plus d'interactivité que de simples questions-réponses.
 
 - [Piece of pie](021-piece-of-pie.md)
 - [Multiquestion](022-multiquestion.md)
 - [Strike](023-strike.md)
 - [Dealer's choice](024-dealers-choice.md)
 
-## 🍺 Traditional
+## 🍺 Traditionnels
 
 For anyone who wants to organize traditional pub quizzes where players can change their answers until the end of the round.\
-These round types simulate "handing in the papers" after each round.
+These round types simulate "handing in the papers" after each round.\
+Ces types de tours simulent « remettre les feuilles » après chaque tour.
 
 - [Traditional](030-traditional.md)
 - [Traditional — Common thread](031-traditional-ct.md)
 - [Alphabet](032-alphabet.md)
 
-## 🎉 Live events
+## 🎉 Événements en direct
 
-These round types do not contain any questions — but instead influence the outcome of the game.
+Ces types de tours ne contiennent aucune question — mais influencent plutôt le résultat du jeu.
 
 - [Activity](040-activity.md)
 - [Intermission](060-intermission.md)
@@ -42,9 +44,9 @@ These round types do not contain any questions — but instead influence the out
 - [Elimination](050-elimination.md)
 - [Reset points](051-reset-points.md)
 
-## 🏢 Departments
+## 🏢 Départements
 
-In these round types, you can select specific **departments** that play against other departments.
+Dans ces types de tours, tu peux sélectionner des **départements** spécifiques qui s'affrontent contre d'autres départements.
 
 - [Department — Dealer's choice](070-departments-dealers-choice.md)
 - [Department — Elimination](071-departments-elimination.md)
