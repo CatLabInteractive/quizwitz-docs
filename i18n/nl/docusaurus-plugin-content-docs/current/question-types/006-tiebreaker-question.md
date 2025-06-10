@@ -6,6 +6,7 @@ title: Tiebreaker question
 # 🏁 Tiebreaker question
 
 The Tiebreaker question is used to resolve ties at the end of a quiz.\
+The Tiebreaker question is used to resolve ties at the end of a quiz.\
 Players are asked to guess a number (for example, “How many beans are in the jar?”). The player whose answer is closest to the correct value will win in case of a tie.
 
 ---
