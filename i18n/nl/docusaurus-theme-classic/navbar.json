@@ -12,11 +12,11 @@
     "description": "Navbar item with label About QuizWitz"
   },
   "item.label.Round types": {
-    "message": "Soort rondes",
+    "message": "Rondetypes",
     "description": "Navbar item with label Round types"
   },
   "item.label.Question types": {
-    "message": "Soort vragen",
+    "message": "Vraagtypes",
     "description": "Navbar item with label Question types"
   },
   "item.label.FAQ": {
