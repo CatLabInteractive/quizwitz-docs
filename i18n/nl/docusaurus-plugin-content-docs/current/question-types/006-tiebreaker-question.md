@@ -7,6 +7,8 @@ title: Tiebreaker vraag
 
 De Tiebreaker vraag wordt gebruikt om gelijke standen aan het einde van een quiz te beslissen.\
 The Tiebreaker question is used to resolve ties at the end of a quiz.\
+Players are asked to guess a number (for example, “How many beans are in the jar?”).\
+The Tiebreaker question is used to resolve ties at the end of a quiz.\
 Players are asked to guess a number (for example, “How many beans are in the jar?”). De speler wiens antwoord het dichtst bij de juiste waarde ligt, wint bij een gelijkspel.
 
 ---
