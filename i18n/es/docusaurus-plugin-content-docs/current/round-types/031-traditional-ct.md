@@ -1,25 +1,25 @@
 ---
 id: traditional-ct
-title: Traditional (CT)
+title: Tradicional (CT)
 ---
 
-# 📝🧵 Traditional – Common Thread
+# 📝🧵 Tradicional – Hilo Común
 
 A **Traditional – Common Thread** round works just like a [traditional round](030-traditional.md), but with a twist:\
-At the end of the round, the **last question** (“What was the common thread?”) is evaluated and shown first. This lets the quizmaster highlight the connection before revealing the other answers.
+At the end of the round, the **last question** (“What was the common thread?”) se evalúa y muestra primero. Esto permite al quizmaster destacar la conexión antes de revelar las otras respuestas.
 
 ---
 
-![Screenshot of traditional round in player screen](/images/round-modes/traditional-answer-screen.png)
+![Captura de pantalla de la ronda tradicional en la pantalla del jugador](/images/round-modes/traditional-answer-screen.png)
 
 ---
 
-## 📝 How it works
+## 📝 Cómo funciona
 
-- Players can change their answers for all questions until the round ends.
-- At the end, the last question (the common thread) is revealed and explained first.
-- All other question feedback is shown afterwards, so the quizmaster can elaborate on the connection.
+- Los jugadores pueden cambiar sus respuestas para todas las preguntas hasta que termine la ronda.
+- Al final, la última pregunta (el hilo común) se revela y explica primero.
+- Todas las demás respuestas se muestran después, para que el quizmaster pueda explayarse sobre la conexión.
 
 ---
 
-For setup details and shared options, see [Traditional round](030-traditional.md) and [Round options](../editor/008-round-options.md).
+Para detalles de configuración y opciones compartidas, consulta [Ronda tradicional](030-traditional.md) y [Opciones de ronda](../editor/008-round-options.md).
