@@ -1,63 +1,64 @@
 ---
 id: attachments
-title: Attachments
+title: Anhänge
 ---
 
-# 📎 Attachments
+# 📎 Anhänge
 
-Attachments can be added in various slots throughout your quiz to enrich the experience with images, audio, or video.
+Anhänge können in verschiedenen Slots in deinem Quiz hinzugefügt werden, um das Erlebnis mit Bildern, Audio oder Video zu bereichern.
 
-These slots appear in the following parts of your quiz:
+Diese Slots erscheinen in den folgenden Teilen deines Quiz:
 
 - [Fragen](../editor/005-writing-questions.md)
 - [Runden](../editor/008-round-options.md)
 - [Quizze](../editor/007-quiz-options.md)
 
-Each page explains when these attachments are shown during gameplay.
+Jede Seite erklärt, wann diese Anhänge während des Spiels angezeigt werden.
 
-![Question attachments](/images/edit-question.png)
-
----
-
-## 🗂️ Supported file types
-
-Here is a general (non-exhaustive) list of compatible formats:
-
-- **Images** — `.png`, `.jpeg`, `.gif` (non-animated). Full HD (1920×1080) recommended
-- **Audio** — Most standard formats are supported
-- **Video** — Most standard formats are supported
-
-> 🔊 ⏱️ Audio and video attachments should be **no longer than 15 minutes** in duration.
+![Frageanhänge](/images/edit-question.png)
 
 ---
 
-## 📝 Name & attribution
+## 🗂️ Unterstützte Dateitypen
 
-Each attachment can have a name and optional attribution:
+Hier ist eine allgemeine (nicht vollständige) Liste kompatibler Formate:
+
+- **Bilder** — `.png`, `.jpeg`, `.gif` (nicht animiert). Full HD (1920×1080) empfohlen
+- **Audio** — Die meisten Standardformate werden unterstützt
+- **Video** — Die meisten Standardformate werden unterstützt
+
+> 🔊 ⏱️ Audio- und Videoanhänge sollten **nicht länger als 15 Minuten** sein.
+
+---
+
+## 📝 Name & Urheberschaft
+
+Jeder Anhang kann einen Namen und eine optionale Urheberschaft haben:
 
 - **Name** — Wird dem quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) angezeigt; hilft bei der Organisation von Anhängen
-- **Attribution** — Shown to players as credit or source information. This should be the **name of the rights holder**.
+- **Urheberschaft** — Wird Spielern als Anerkennung oder Quellenangabe angezeigt. Das sollte der **Name des Rechteinhabers** sein.
 
-> ⚠️ In order to **publish** a Round-About or Quiz, **all attachments must have a valid attribution** filled in. Without this, your entry cannot be made public.
-
----
-
-## ✨ Attachment effects
-
-Some attachment slots support **effects** to reveal visuals more gradually:
-
-- **None** — The file is shown as-is
-- **Spotlight effect** — Gradually reveals parts of the image over time with a moving spotlight that expands as it progresses
-
-This is especially effective for puzzles or slow reveals during intros or dramatic moments.
+> ⚠️ Um einen Round-About oder ein Quiz **zu veröffentlichen**, **müssen alle Anhänge eine gültige Urheberschaft** haben. Ohne diese kann dein Beitrag nicht öffentlich gemacht werden.
 
 ---
 
-## 📚 Multiple attachments per slot
+## ✨ Anhangseffekte
 
-Some slots allow adding **multiple attachments**. The way these behave depends on the game mode:
+Einige Anhangsslots unterstützen **Effekte**, um visuelle Elemente allmählich zu enthüllen:
+
+- **Keine** — Die Datei wird unverändert angezeigt
+- **Spotlight-Effekt** — Enthüllt Teile des Bildes nach und nach mit einem beweglichen Spotlight, das mit der Zeit größer wird
+
+Das ist besonders effektiv für Rätsel oder langsame Enthüllungen während Intros oder dramatischen Momenten.
+
+---
+
+## 📚 Mehrere Anhänge pro Slot
+
+Einige Slots erlauben das Hinzufügen von **mehreren Anhängen**. Wie diese sich verhalten, hängt vom Spielmodus ab:
 
 > ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** Der quizmaster hat die volle Kontrolle und kann entscheiden, wann Anhänge während des Spiels gezeigt oder versteckt werden.\
-> 🎮 **In regular games:** All attachments within a slot are shown **simultaneously**.
+> 🎮 **In regular games:** All attachments within a slot are shown **simultaneously**.\
+> 🎮 **In regulären Spielen:** Alle Anhänge innerhalb eines Slots werden **gleichzeitig** angezeigt.
 
 Details zur Zeitplanung und zum Verhalten jedes Slots findest du in der verlinkten Dokumentation zu [Fragen](../editor/015-importing-questions.md), [Runden](../editor/008-round-options.md) und [Quizzen](../editor/007-quiz-options.md).
