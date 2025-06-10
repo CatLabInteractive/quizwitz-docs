@@ -6,6 +6,7 @@ title: Elimination
 # 🚫 Elimination
 
 **Elimination** is a special event that automatically removes players or teams from the game based on their current ranking or score.\
+It’s a useful tool for tournaments, playoffs, or adding dramatic twists in live events!\
 It’s a useful tool for tournaments, playoffs, or adding dramatic twists in live events!
 
 ---
