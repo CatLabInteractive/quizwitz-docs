@@ -32,10 +32,10 @@ const config = {
           editUrl: ({locale, versionDocsDirPath, docPath}) => {
             // Link to Crowdin for French docs
             if (locale !== 'en') {
-              return 'https://crowdin.com/project/quizwitz-docs/${locale}';
+              return `https://crowdin.com/project/quizwitz-documentation/${locale}`;
             }
             // Link to GitHub for English docs
-            return 'https://github.com/catlabinteractive/quizwitz-documentation/edit/main/';
+            return 'https://github.com/catlabinteractive/quizwitz-docs/edit/main/';
           },
         },
         theme: {
