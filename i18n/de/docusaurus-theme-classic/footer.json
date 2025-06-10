@@ -8,15 +8,15 @@
     "description": "The title of the footer links column with title=Community in the footer"
   },
   "link.title.More": {
-    "message": "More",
+    "message": "Mehr",
     "description": "The title of the footer links column with title=More in the footer"
   },
   "link.item.label.Getting started": {
-    "message": "Getting started",
+    "message": "Erste Schritte",
     "description": "The label of footer link with label=Getting started linking to /docs/intro"
   },
   "link.item.label.Frequently Asked Questions": {
-    "message": "Frequently Asked Questions",
+    "message": "Häufig gestellte Fragen",
     "description": "The label of footer link with label=Frequently Asked Questions linking to /docs/faq"
   },
   "link.item.label.Discord": {
@@ -36,7 +36,7 @@
     "description": "The label of footer link with label=Blog linking to https://www.quizwitz.com/blog"
   },
   "copyright": {
-    "message": "Copyright © 2025 CatLab Interactive bv. Built with Docusaurus.",
+    "message": "Copyright © 2025 CatLab Interactive bv. Erstellt mit Docusaurus.",
     "description": "The footer copyright"
   }
 }
