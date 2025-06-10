@@ -5,36 +5,36 @@ title: Alphabet
 
 # 🔤 Alphabet
 
-An **Alphabet** round is a traditional style round with a twist—each question is assigned a unique label, and players must match their answers to the correct labeled fields. This round rewards both knowledge and deduction!
+Eine **Alphabet**-Runde ist eine traditionelle Stilrichtung mit einem Twist – jeder Frage wird ein einzigartiges Label zugewiesen und die Spieler müssen ihre Antworten den korrekten markierten Feldern zuordnen. Diese Runde belohnt sowohl Wissen als auch Kombinationsgabe!
 
 ---
 
-![Screenshot of an alphabet round while playing](/images/round-modes/alphabet-answer-screen.png)
+![Screenshot einer Alphabet-Runde während des Spiels](/images/round-modes/alphabet-answer-screen.png)
 
 ---
 
-## 🏷️ Alphabet labels
+## 🏷️ Alphabet-Labels
 
-- Each question is assigned a unique **Label**. Traditionally, this is the **first letter of the answer**, but you can use any label you like (letters, numbers, or creative codes).
-- **All questions must be open questions** in this round type.
-
----
-
-![Screenshot of an alphabet round in the quiz editor](/images/round-modes/alphabet-round.png)
+- Jeder Frage wird ein einzigartiges **Label** zugewiesen. Traditionell ist das der **erste Buchstabe der Antwort**, aber du kannst jedes beliebige Label verwenden (Buchstaben, Zahlen oder kreative Codes).
+- **Alle Fragen müssen in dieser Rundentype offene Fragen sein**.
 
 ---
 
-## 📝 How it works
-
-- As questions are asked, players see a list of answer fields—one for each question.
-- **The answer fields are not in quiz order**—instead, they’re sorted alphabetically by label.
-- Players must match their answers to the correct labeled fields (e.g. answer for question "Bear" must be entered under label "B").
-- Answers can be changed at any time until the round finishes—players can switch answers between fields as they realize their mistakes.
+![Screenshot einer Alphabet-Runde im Quiz-Editor](/images/round-modes/alphabet-round.png)
 
 ---
 
-> This round is especially fun and challenging, as it requires both knowledge and the ability to deduce which answer fits which label. Perfect for seasoned quizzers and creative rounds!
+## 📝 So funktioniert’s
+
+- Während die Fragen gestellt werden, sehen die Spieler eine Liste mit Antwortfeldern – eines für jede Frage.
+- **Die Antwortfelder sind nicht in der Reihenfolge des Quiz** – stattdessen sind sie alphabetisch nach Label sortiert.
+- Spieler müssen ihre Antworten den richtigen markierten Feldern zuordnen (z. B. muss die Antwort für die Frage "Bear" unter dem Label "B" eingetragen werden).
+- Antworten können jederzeit bis zum Ende der Runde geändert werden – Spieler können ihre Antworten zwischen den Feldern tauschen, wenn sie merken, dass sie Fehler gemacht haben.
 
 ---
 
-For shared configuration details, see [Traditional round](030-traditional.md) and [Round options](../editor/008-round-options.md).
+> Diese Runde macht besonders Spaß und ist herausfordernd, da sie sowohl Wissen als auch die Fähigkeit erfordert, abzuleiten, welche Antwort zu welchem Label passt. Perfekt für erfahrene Quizzer und kreative Runden!
+
+---
+
+Für gemeinsame Konfigurationsdetails siehe [Traditionelle Runde](030-traditional.md) und [Rundeneinstellungen](../editor/008-round-options.md).
