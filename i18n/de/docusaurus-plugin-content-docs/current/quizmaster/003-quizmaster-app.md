@@ -1,107 +1,107 @@
 ---
 id: quizmaster-app
-title: Quizmaster app
+title: Quizmaster-App
 ---
 
-# 🎛️ Using the Quizmaster app
+# 🎛️ Verwendung der Quizmaster-App
 
-As the quizmaster, you are in full control of the QuizWitz Live game. The most important thing to know is this:
+Als quizmaster hast du die volle Kontrolle über das QuizWitz Live-Spiel. Das Wichtigste, was du wissen musst, ist dies:
 
-> The game **only progresses when you click** — nothing moves on the main screen until you tell it to.
+> Das Spiel **geht nur weiter, wenn du klickst** – auf dem Hauptbildschirm bewegt sich nichts, bis du es freigibst.
 
-This gives you full control over pacing and timing, but it also means you’ll be doing a lot of tapping. Let’s walk through how the app works.
-
----
-
-## 🔁 The quiz flow
-
-The quiz structure follows how it was built in the editor, but most quizzes will move through the following stages:
+Das gibt dir die volle Kontrolle über Tempo und Timing, aber es bedeutet auch, dass du viel tippen wirst. Lass uns durchgehen, wie die App funktioniert.
 
 ---
 
-### 🎬 Round introduction
+## 🔁 Der Quiz-Ablauf
 
-Before each round starts, you’ll see a round introduction screen.
-
-- You control when the **round intro animation** plays.
-- Click **‘Start’** to begin the round and move to the first question.
+Der Quizaufbau folgt dem, wie er im Editor erstellt wurde, aber die meisten Quiz durchlaufen folgende Phasen:
 
 ---
 
-### ❓ Asking a question
+### 🎬 Runden-Einführung
 
-Each question has its own screen in the Quizmaster app:
+Vor Beginn jeder Runde siehst du einen Bildschirm zur Einführung der Runde.
+
+- Du kontrollierst, wann die **Runden-Intro-Animation** abgespielt wird.
+- Klicke auf **‚Start‘**, um die Runde zu beginnen und zur ersten Frage zu wechseln.
+
+---
+
+### ❓ Eine Frage stellen
+
+Jede Frage hat im Quizmaster-App ihren eigenen Bildschirm:
 
 ![Quizmaster app - start question](/images/quizmaster-app-start-question.png)
 
-You’ll see:
+Du siehst:
 
-- **Question number** — e.g. `1.1` means the first question of the first round
-- **Question type** — such as Multiple Choice, with relevant scoring modifiers
-- **Long version of the question** — for you to read out loud
-- **Question info** — including timer duration and available points
-- **Short question** — the version shown on the big screen
-- **Start question button** — immediately starts the timer
-- **Possible answers** — displayed in the correct order (for multiple choice)
+- **Fragen-Nummer** — z. B. `1.1` bedeutet die erste Frage der ersten Runde
+- **Fragetyp** — wie Multiple Choice, mit passenden Bewertungsmodifikatoren
+- **Lange Version der Frage** — zum Vorlesen für dich
+- **Fragen-Info** — inklusive Timer-Dauer und verfügbaren Punkten
+- **Kurze Frage** — die Version, die auf dem großen Bildschirm angezeigt wird
+- **Frage-starten-Button** — startet sofort den Timer
+- **Mögliche Antworten** — in der richtigen Reihenfolge angezeigt (bei Multiple Choice)
 
-The question will remain visible in your app until either:
+Die Frage bleibt in deiner App sichtbar, bis entweder:
 
-- All players have answered
-- The timer runs out
+- Alle Spieler geantwortet haben
+- Der Timer abläuft
 
-> 🔎 For more on question and round types, check the **Quizmaker's Guide**.
+> 🔎 Für mehr Infos zu Frage- und Rundentypen, schau im **Quizmaker’s Guide** nach.
 
 ---
 
-### ✅ Question feedback
+### ✅ Feedback zur Frage
 
-After a question ends, the correct answer is revealed. What you see depends on the question type — this example shows a multiple choice result screen:
+Nach Ende einer Frage wird die richtige Antwort gezeigt. Was du siehst, hängt vom Fragetyp ab – dieses Beispiel zeigt einen Multiple-Choice-Ergebnisbildschirm:
 
 ![Quizmaster app - question feedback](/images/quizmaster-app-question-feedback.png)
 
-Includes:
+Enthält:
 
-- **Question number**
-- **Short question text**
-- **Correct answer**
-- **Answer spread** — in numbers and percentages
-- **Long feedback** — extra info to read aloud
-- **Continue button** — advances to the next question
-- **Fastest 100 answers** — shown at the bottom of the screen
+- **Fragen-Nummer**
+- **Kurzer Fragetext**
+- **Richtige Antwort**
+- **Antwort-Verteilung** — in Zahlen und Prozenten
+- **Langes Feedback** — zusätzliche Infos zum Vorlesen
+- **Weiter-Button** — geht zur nächsten Frage
+- **Schnellste 100 Antworten** — unten auf dem Bildschirm angezeigt
 
 ---
 
-### 📊 Round outro
+### 📊 Runden-Abschluss
 
-When a round finishes, you’ll see a **Round Outro** screen that reveals the standings so far.
+Wenn eine Runde endet, siehst du einen **Runden-Abschluss**-Bildschirm, der den aktuellen Stand zeigt.
 
 ![Quizmaster app - round outro](/images/quizmaster-app-round-outro.png)\
 ![QuizWitz - round outro big screen](/images/round-outro.png)
 
-In your app:
+In deiner App:
 
-- You’ll see the **top 100 players**, and you can scroll through them
-- Tap a player’s position to highlight them on the big screen
-- From round 2 onward, you’ll also see how many places each player has moved:
-    - **Green** = moved up
-    - **Red** = moved down
-    - **White** = no change
+- Du siehst die **Top 100 Spieler** und kannst durch sie scrollen
+- Tippe auf die Platzierung eines Spielers, um ihn auf dem großen Bildschirm hervorzuheben
+- Ab Runde 2 siehst du auch, wie viele Plätze jeder Spieler auf- oder abgerückt ist:
+    - **Grün** = aufgestiegen
+    - **Rot** = abgestiegen
+    - **Weiß** = keine Veränderung
 
-Players will see **their own position** on their device during the outro.
+Spieler sehen **ihre eigene Position** auf ihrem Device während des Abschlusses.
 
 ---
 
-### 🏆 The end of the quiz
+### 🏆 Das Ende des Quiz
 
-At the end of the quiz, it’s time for a **winner reveal party** — complete with confetti and player emojis flying across the screen.
+Am Ende des Quiz gibt es eine **Sieger-Show** – mit Konfetti und Spieler-Emojis, die über den Bildschirm fliegen.
 
 ![QuizWitz - game outro big screen](/images/game-outro.png)
 
-- The default setting shows the **top 12 players**
-- You can customize how many players appear in the **advanced game settings**
+- Die Standardeinstellung zeigt die **Top 12 Spieler**
+- Du kannst anpassen, wie viele Spieler in den **erweiterten Spieleinstellungen** angezeigt werden
 
-> 🎉 Fun tip: The emoji your players choose will dance around the screen — even if they picked the smiling turd.
+> 🎉 Spaß-Tipp: Das Emoji, das deine Spieler wählen, wird über den Bildschirm tanzen – selbst wenn es der lächelnde Haufen ist.
 
 ---
 
-That’s everything you need to know to run your quiz with the Quizmaster app. You’re now fully equipped to lead your event with confidence and style!
+Das ist alles, was du wissen musst, um dein Quiz mit der Quizmaster-App zu leiten. Du bist jetzt bestens gerüstet, um dein Event mit Selbstvertrauen und Stil zu führen!
