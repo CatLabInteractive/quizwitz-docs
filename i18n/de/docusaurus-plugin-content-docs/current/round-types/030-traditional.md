@@ -1,37 +1,37 @@
 ---
 id: traditional
-title: Traditional
+title: Traditionell
 ---
 
-# 📝 Traditional
+# 📝 Traditionell
 
-A **Traditional** round simulates the classic pub quiz format, where players can change their answers until the end of the round—just like handing in your answer sheet at the pub!
-
----
-
-![Screenshot of traditional round in quiz editor](/images/round-modes/traditional-editor.png)
+Eine **traditionelle** Runde simuliert das klassische Pub-Quiz-Format, bei dem Spieler ihre Antworten bis zum Ende der Runde ändern können – genau wie das Abgeben des Antwortbogens im Pub!
 
 ---
 
-## 📝 How it works
-
-- The round can include both multiple choice and open questions.
-- As each question is asked, a new answer field appears on the player’s device.
-- Players can **edit any of their answers** up until the round finishes.
-- All answers are automatically submitted when the timer for the last question runs out.
+![Screenshot der traditionellen Runde im Quiz-Editor](/images/round-modes/traditional-editor.png)
 
 ---
 
-![Screenshot of traditional round in player screen](/images/round-modes/traditional-answer-screen.png)
+## 📝 So funktioniert’s
+
+- Die Runde kann sowohl Multiple-Choice- als auch offene Fragen enthalten.
+- Wenn jede Frage gestellt wird, erscheint auf dem smart device des Spielers ein neues Antwortfeld.
+- Spieler können **jede ihrer Antworten bearbeiten**, bis die Runde beendet ist.
+- Alle Antworten werden automatisch eingereicht, wenn der Timer für die letzte Frage abläuft.
 
 ---
 
-## ⚙️ Settings & notes
-
-- **No early finish:** The “Stop timer when everyone answered” setting is disabled in traditional rounds, since players can change their answers up to the end.
-- **Best for teams:** This mode is perfect for teams or players who enjoy discussing and double-checking their answers.
-- **Flexible content:** You can mix open and multiple choice questions as you see fit.
+![Screenshot der traditionellen Runde auf dem Spielerbildschirm](/images/round-modes/traditional-answer-screen.png)
 
 ---
 
-For more information about configuring round types and advanced settings, see [Round options](../editor/008-round-options.md).
+## ⚙️ Einstellungen & Hinweise
+
+- **Kein vorzeitiges Beenden:** Die Einstellung „Timer stoppen, wenn alle geantwortet haben“ ist in traditionellen Runden deaktiviert, da Spieler ihre Antworten bis zum Ende ändern können.
+- **Ideal für Teams:** Dieser Modus ist perfekt für Teams oder Spieler, die gerne diskutieren und ihre Antworten noch einmal überprüfen.
+- **Flexibler Inhalt:** Du kannst offene und Multiple-Choice-Fragen ganz nach Belieben mischen.
+
+---
+
+Für mehr Informationen zur Konfiguration von Rundentypen und erweiterten Einstellungen siehe [Rundenoptionen](../editor/008-round-options.md).
