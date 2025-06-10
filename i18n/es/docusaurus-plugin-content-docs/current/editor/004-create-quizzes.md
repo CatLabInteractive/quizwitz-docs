@@ -1,80 +1,81 @@
 ---
 id: create-quizzes
-title: Create quizzes
+title: Crear cuestionarios
 ---
 
-# 🧠 Create a Full Quiz
+# 🧠 Crear un Cuestionario Completo
 
-Want to build a complete quiz experience for players or events? This guide walks you through creating a full quiz using multiple rounds — including your own questions or Round-Abouts you've collected.
+¿Quieres crear una experiencia completa de cuestionario para jugadores o eventos? Esta guía te muestra cómo crear un cuestionario completo usando varias rondas, incluyendo tus propias preguntas o Round-Abouts que hayas recopilado.
 
 ---
 
-## 🎬 Getting started
+## 🎬 Primeros pasos
 
-From the main menu:
+Desde el menú principal:
 
-1. Click **Create**
-2. Choose **Quiz** from the dropdown
+1. Haz clic en **Crear**
+2. Elige **Quiz** del menú desplegable
 
 ![QuizWitz create quiz](/images/create-quiz.png)
 
 ---
 
-## ✏️ Title and language
+## ✏️ Título y idioma
 
+Ponle un título a tu quiz y elige el idioma principal.\
 Give your quiz a title and choose the main language.\
 You can add **translations** later if needed — no need to decide everything upfront.
 
 ---
 
-## ➕ Add rounds and questions
+## ➕ Agrega rondas y preguntas
 
-Click **Add new round** to begin building your quiz. Each round can include its own settings and structure.
+Haz clic en **Agregar nueva ronda** para empezar a construir tu cuestionario. Cada ronda puede tener sus propios ajustes y estructura.
 
-On the left sidebar, you’ll be able to:
+En la barra lateral izquierda, podrás:
 
-- Name the round
-- Choose a category
+- Nombrar la ronda
+- Elegir una categoría
 - [Importar preguntas](../editor/015-importing-questions.md) en masa
 
 ![Create new round in quiz](/images/quiz-add-round.png)
 
-In the main editor, you can:
+En el editor principal, puedes:
 
-- Add and edit individual questions
-- Reorder rounds or questions using the **arrow buttons**
-- Delete rounds or questions using the **trash bin icon**
+- Agregar y editar preguntas individuales
+- Reordenar rondas o preguntas usando los **botones de flecha**
+- Eliminar rondas o preguntas usando el **icono de la papelera**
 
-> 💡 Use the **Import questions** tool to quickly add multiple questions at once. Solo sigue las instrucciones en pantalla y [verifica que todo se haya importado correctamente](../editor/015-importing-questions.md).
-
----
-
-## ⚙️ Round settings
-
-Each round can have its own rules and format. Learn more in the advanced guides:
-
-- [Round types](../round-types/000-round-types.md) — Configure how a round behaves (e.g., lightning round, puzzle round)
-- [Question types](../question-types/000-question-types.md) — Adjust the format and scoring for each question
+> 💡 Usa la herramienta **Importar preguntas** para añadir muchas preguntas a la vez rápidamente. Solo sigue las instrucciones en pantalla y [verifica que todo se haya importado correctamente](../editor/015-importing-questions.md).
 
 ---
 
-## 💾 Save and manage your quiz
+## ⚙️ Ajustes de la ronda
 
-Remember to:
+Cada ronda puede tener sus propias reglas y formato. Aprende más en las guías avanzadas:
 
-- **Save** your quiz regularly
-- **Test and play** at any time
-- **Publish** your quiz when it’s ready to share
-
-> 📢 To publish a quiz, it must contain **at least 14 questions**. Once published, it becomes available to the community — but you can unpublish it later if needed.
-
-> 📝 **Publishing is entirely optional.** You can play any quiz or Round-About privately without publishing it. This is great for personal use, testing, or private events.
+- [Tipos de ronda](../round-types/000-round-types.md) — Configura cómo se comporta una ronda (p. ej., ronda relámpago, ronda de acertijos)
+- [Tipos de pregunta](../question-types/000-question-types.md) — Ajusta el formato y la puntuación de cada pregunta
 
 ---
 
-## ▶️ Testing & playing
+## 💾 Guarda y administra tu quiz
 
-When you're ready to test or run your quiz, press the **Start Quiz** button. You’ll see the following options:
+Recuerda:
+
+- **Guardar** tu quiz regularmente
+- **Probar y jugar** en cualquier momento
+- **Publicar** tu quiz cuando esté listo para compartir
+
+> 📢 Para publicar un cuestionario, debe contener **al menos 14 preguntas**. Una vez publicado, estará disponible para la comunidad — pero puedes despublicarlo después si hace falta.
+
+> 📝 **Publicar es completamente opcional.** Puedes jugar cualquier quiz o Round-About de forma privada sin publicarlo. Esto es ideal para uso personal, pruebas o eventos privados.
+
+---
+
+## ▶️ Probar y jugar
+
+Cuando estés listo para probar o ejecutar tu quiz, presiona el botón **Iniciar Quiz**. Verás las siguientes opciones:
 
 ![Quiz playlinks](/images/quiz-playlinks.png)
 
@@ -84,13 +85,13 @@ When you're ready to test or run your quiz, press the **Start Quiz** button. You
 
 ---
 
-### 🧪 Advanced testing options
+### 🧪 Opciones avanzadas de prueba
 
-Want to simulate a full quiz run-through? Use the advanced testing tools:
+¿Quieres simular la ejecución completa de un quiz? Usa las herramientas avanzadas de prueba:
 
-- **Simulate** — Run a test playthrough with bots (no presentation)
+- **Simular** — Ejecuta una prueba con bots (sin presentación)
 - **Simular en vivo** — Simula una sesión completa de [QuizWitz Live](../quizmaster/001-introduction.md) con bots, incluyendo vistas de Quizmaster, Jurado y Jugador
 
 ---
 
-Ready to test your creativity? Start building and bring your quiz to life!
+¿Listo para probar tu creatividad? ¡Empieza a crear y dale vida a tu quiz!
