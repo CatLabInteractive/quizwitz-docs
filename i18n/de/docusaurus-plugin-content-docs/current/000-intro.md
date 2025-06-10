@@ -1,34 +1,34 @@
 ---
 id: intro
-title: Introduction
+title: Einführung
 ---
 
-# 🎉 Getting started
+# 🎉 Erste Schritte
 
-## Welcome to QuizWitz!
+## Willkommen bei QuizWitz!
 
-**QuizWitz** is a social quiz platform where you can:
+**QuizWitz** ist eine soziale Quizplattform, auf der du:
 
-- Play fun quiz games with friends or solo
-- Host professional quiz events with live tools
-- Create your own quizzes, rounds, playlists, and more
+- Unterhaltsame Quizspiele mit Freunden oder alleine spielen
+- Professionelle Quiz-Events mit Live-Werkzeugen veranstalten
+- Deine eigenen Quizze, Runden, Playlists und mehr erstellen
 
-Whether you're here to relax, present, or build — we've got you covered.
+Egal, ob du hier bist, um zu entspannen, zu präsentieren oder zu gestalten – wir haben alles für dich parat.
 
-Take a moment to explore the different roles and tools available. It’ll only take a minute.
-
----
-
-## 👥 Players and creators
-
-This guide is divided into sections based on how you use QuizWitz:
-
-- [**Player Guide**](players/001-playing-quizwitz.md) — Learn how to collect, play, and enjoy quizzes
-- [**Quizmaker Guide**](editor/002-for-the-quizmakers.md) — Build your own questions, rounds, and full quizzes
-- [**Quizmaster Guide**](quizmaster/001-introduction.md) — Host a live game using QuizWitz Live
-
-Explore the sections that fit your role — or all of them if you're curious!
+Nimm dir einen Moment, um die verschiedenen Rollen und verfügbaren Werkzeuge zu erkunden. Das dauert nur eine Minute.
 
 ---
 
-Ready to jump in? Let’s get quizzing.
+## 👥 Spieler und Ersteller
+
+Diese Anleitung ist in Abschnitte unterteilt, je nachdem wie du QuizWitz nutzt:
+
+- [**Spieler-Anleitung**](players/001-playing-quizwitz.md) — Erlerne, wie du Quizze sammelst, spielst und genießt
+- [**Quizmaker-Anleitung**](editor/002-for-the-quizmakers.md) — Erstelle deine eigenen Fragen, Runden und vollständigen Quizze
+- [**Quizmaster-Anleitung**](quizmaster/001-introduction.md) — Veranstalte mit QuizWitz Live ein Live-Spiel
+
+Erkunde die Abschnitte, die zu deiner Rolle passen – oder alle, wenn du neugierig bist!
+
+---
+
+Bereit einzusteigen? Dann lass uns quizen.
