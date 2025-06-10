@@ -1,33 +1,33 @@
 ---
 id: question-types
-title: Question types
+title: Tipos de preguntas
 ---
 
-# Question types
+# Tipos de preguntas
 
-QuizWitz supports different question types. Each type has its own rules and gameplay mechanics.
-We suggest using a mix of different types to keep the game interesting and engaging.
+QuizWitz soporta diferentes tipos de preguntas. Cada tipo tiene sus propias reglas y mecánicas de juego.
+Sugerimos usar una mezcla de diferentes tipos para mantener el juego interesante y atractivo.
 
-Note that some round types limit the question types you can use.
+Ten en cuenta que algunos tipos de rondas limitan los tipos de preguntas que puedes usar.
 
-## Regular question types
+## Tipos regulares de preguntas
 
-These are the most common question types. They are easy to understand and play.
+Estos son los tipos de preguntas más comunes. Son fáciles de entender y de jugar.
 
-- [Multiple choice](001-multiple-choice.md) (default)
+- [Multiple choice](001-multiple-choice.md) (por defecto)
 - [Order question](003-order-question.md)
 - [Image map question](004-image-map.md)
 
-## Open questions
+## Preguntas abiertas
 
-Open questions require players to type in their answers.
+Las preguntas abiertas requieren que los jugadores escriban sus respuestas.
 
 - [Open question](002-open-question.md)
 - [List question](005-list-question.md)
 
-## Specials
+## Especiales
 
-These questions make the game slightly less fair, but they help to make sure there is always a winner.
+Estas preguntas hacen el juego un poco menos justo, pero ayudan a asegurar que siempre haya un ganador.
 
 - [Tiebreaker question](006-tiebreaker-question.md)
 - [Best answer question](007-best-answer-question.md)
