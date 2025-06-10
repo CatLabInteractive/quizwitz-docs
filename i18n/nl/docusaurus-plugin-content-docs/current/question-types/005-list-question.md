@@ -40,10 +40,15 @@ Een **lijstvraag** vraagt spelers om meerdere correcte antwoorden te geven uit e
 - **Punten per correct antwoord:** Spelers verdienen punten voor elk correct antwoord.
 - **Time-based scoring** (if enabled):\
   Follows the **open question rules** for fairness:
-  - De beschikbare punten zijn verdeeld in tijdsblokken (niet per milliseconde).\
+  - The available points are split into blocks of time (not by the millisecond).\
+    The available points are split into blocks of time (not by the millisecond).\
+    For example: full points in the first block, 80% in the next, and so on.\
+    De beschikbare punten zijn verdeeld in tijdsblokken (niet per milliseconde).\
     The available points are split into blocks of time (not by the millisecond).\
     For example: full points in the first block, 80% in the next, and so on.
   - **Slechts 25%** van de punten is afhankelijk van snelheid.\
+    **Only 25%** of the points depend on speed.\
+    The other **75%** is fixed — so even slower typers get most of the points if they answer correctly.\
     **Only 25%** of the points depend on speed.\
     The other **75%** is fixed — so even slower typers get most of the points if they answer correctly.
   - Dit vermindert de straf voor typsnelheid en maakt het scoren eerlijker voor iedereen.
