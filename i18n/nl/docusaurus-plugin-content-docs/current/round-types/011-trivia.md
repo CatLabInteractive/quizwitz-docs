@@ -1,43 +1,43 @@
 ---
 id: trivia
-title: Trivia (regular round)
+title: Trivia (reguliere ronde)
 ---
 
-# ❓ Trivia (regular round)
+# ❓ Trivia (reguliere ronde)
 
-The **Trivia** round is the classic, default round type in QuizWitz. It presents a series of questions to all players — ideal for general knowledge, themed quizzes, or warm-up rounds.
-
----
-
-## 📝 How it works
-
-- Supports a mix of question types (multiple choice, open questions, image map, etc).
-- Players answer each question individually, following the round’s settings for feedback and scoring.
-- Great for testing broad knowledge or mixing up topics.
+De **Trivia** ronde is het klassieke, standaard type ronde in QuizWitz. Het presenteert een reeks vragen aan alle spelers — ideaal voor algemene kennis, thematische quizzes, of opwarmrondes.
 
 ---
 
-## ⚙️ Recommended settings
+## 📝 Hoe het werkt
 
-- **Question feedback:** By default, players see feedback after every question. You can group feedback at the end of the round if you prefer (see [round options](../editor/008-round-options.md)).
-- **Random question order:** Can be enabled for variety.
-- **Timer:** Set per question, or adjust round defaults.
+- Ondersteunt een mix van vraagtypen (meerkeuze, openvragen, beeldkaart, enzovoort).
+- Spelers beantwoorden elke vraag individueel, volgens de instellingen van de ronde voor feedback en scoring.
+- Geweldig om brede kennis te testen of onderwerpen te mengen.
 
 ---
 
-## 🏆 Scoring
+## ⚙️ Aanbevolen instellingen
 
-- Each question uses its own scoring type (time-based, fixed, etc) as configured.
-- For more about scoring and customization, see [round scoring settings](../editor/008-round-options.md#scoring).
+- **Vraag feedback:** Standaard zien spelers feedback na elke vraag. Je kunt feedback aan het einde van de ronde groeperen als je dat liever hebt (zie [ronde opties](../editor/008-round-options.md)).
+- **Willekeurige vraagvolgorde:** Kan ingeschakeld worden voor afwisseling.
+- **Timer:** In te stellen per vraag, of pas de standaardinstellingen van de ronde aan.
+
+---
+
+## 🏆 Scoresysteem
+
+- Elke vraag gebruikt zijn eigen scoringsmethode (tijdbased, vast, enzovoort) zoals ingesteld.
+- Voor meer over scoring en aanpassing, zie [ronde scoringsinstellingen](../editor/008-round-options.md#scoring).
 
 ---
 
 ## 💡 Tips
 
-- **Mix question types:** Add variety for engagement.
-- **Keep it balanced:** Alternate easy and tough questions to keep players motivated.
-- **Use media:** Attach images, audio, or video for richer content.
+- **Meng vraagtypen:** Voeg variatie toe voor meer betrokkenheid.
+- **Houd het gebalanceerd:** Wissel makkelijke en lastige vragen af om spelers gemotiveerd te houden.
+- **Gebruik media:** Voeg afbeeldingen, audio of video toe voor rijkere inhoud.
 
 ---
 
-For more about available question types, see the [question type overview](../question-types/000-question-types.md).
+Voor meer over beschikbare vraagtypen, zie de [overzicht vraagtypen](../question-types/000-question-types.md).
