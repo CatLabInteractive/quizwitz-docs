@@ -1,102 +1,102 @@
 ---
 id: playing
-title: Playing QuizWitz
+title: QuizWitz spelen
 ---
 
-# 🧠 Playing QuizWitz
+# 🧠 QuizWitz spelen
 
-Welcome to QuizWitz! Whether you're playing solo or with friends, this guide will help you get started.
-
----
-
-## 🎯 Choose what to play
-
-Start by browsing the available **Round-Abouts** — short themed rounds of quiz questions. Use the menu at the top of the screen to explore:
-
-- **New** — Discover the latest Round-Abouts
-- **My Collection** — Access everything you've saved or created
-- **Collect** — Find Round-Abouts made by the community
-- **Quick Play** — Jump into a random selection
-
-![QuizWitz top navigation bar](/images/top-menu-play.png)
-
-> 💡 **Tip:** Want to play everything you’ve collected? Click **My Collection**, then hit **Play my collection**!
+Welkom bij QuizWitz! Of je nu solo speelt of met vrienden, deze gids helpt je op weg.
 
 ---
 
-## 📚 What's in My Collection?
+## 🎯 Kies wat je wilt spelen
 
-**My Collection** includes all the quiz content you’ve either:
+Begin met het bekijken van de beschikbare **Round-Abouts** — korte, thematische rondes met quizvragen. Gebruik het menu bovenaan het scherm om te verkennen:
 
-- Created yourself
-- Collected from other creators
+- **Nieuw** — Ontdek de nieuwste Round-Abouts
+- **Mijn Collectie** — Toegang tot alles wat je hebt opgeslagen of gemaakt
+- **Verzamel** — Vind Round-Abouts gemaakt door de community
+- **Snel Spelen** — Begin met een willekeurige selectie
 
-This includes:
+![QuizWitz top navigatiebalk](/images/top-menu-play.png)
+
+> 💡 **Tip:** Wil je alles spelen wat je hebt verzameld? Klik op **Mijn Collectie**, en klik dan op **Speel mijn collectie**!
+
+---
+
+## 📚 Wat zit er in Mijn Collectie?
+
+**Mijn Collectie** bevat alle quizinhoud die je hebt:
+
+- Zelf gemaakt
+- Verzameld van andere makers
+
+Dit omvat:
 
 - Round-Abouts
-- Full quizzes
-- Playlists
+- Volledige quizzen
+- Afspeellijsten
 - Bingos
 - ...
 
-You can organize, play, or remove items at any time. This is your personal library — build it how you like!
+Je kunt items altijd organiseren, spelen of verwijderen. Dit is je persoonlijke bibliotheek — bouw 'm zoals jij wilt!
 
 ---
 
-## 🧠 Choose a Round-About
+## 🧠 Kies een Round-About
 
-A **Round-About** is a small, themed round of questions. Playing just one will give you a short game with 7 random questions.
+Een **Round-About** is een kleine, thematische vragenronde. Het spelen van slechts één geeft je een kort spel met 7 willekeurige vragen.
 
-To explore a Round-About in more detail:
+Om een Round-About in meer detail te bekijken:
 
-- Click its **image**, **title**, or **comments icon**
-- Click **Play** to jump in immediately
+- Klik op de **afbeelding**, **titel** of **reactie-icoon**
+- Klik op **Speel** om meteen te beginnen
 
 ![QuizWitz round-about details](/images/round-about-details.png)
 
 ---
 
-## ⭐ Add Round-Abouts to your collection
+## ⭐ Voeg Round-Abouts toe aan je collectie
 
-Want to build a full quiz game from multiple Round-Abouts? Here's how:
+Wil je een volledige quiz maken van meerdere Round-Abouts? Zo doe je dat:
 
-- Click **Add to my collection** inside the Round-About
-- Or click the **star icon** on the Round-About tile
+- Klik op **Toevoegen aan mijn collectie** binnen de Round-About
+- Of klik op het **sterren-icoon** op de Round-About tegel
 
-To remove one later, just click the star again — it’ll now say **Remove from my collection**.
+Om er later één te verwijderen, klik je nogmaals op de ster — het zal nu zeggen **Verwijderen uit mijn collectie**.
 
-![Add a Round-About to your collection](/images/add-to-collection.png)
-
----
-
-## ▶️ Play your collection
-
-When you're ready:
-
-1. Click **My Collection**
-2. Press **Play my collection**
-
-![Play my collection](/images/play-my-collection.png)
-
-Choose:
-
-- **Game mode** — Single Player or Party Game
-- **Which Round-Abouts** to include in your session
-
-QuizWitz will try to skip questions you've already seen.
-
-![Play my collection - step 2](/images/play-my-collection-step2.png)
+![Voeg een Round-About toe aan je collectie](/images/add-to-collection.png)
 
 ---
 
-## 🕹️ In-game experience
+## ▶️ Speel je collectie
 
-Once your game starts, choose your mode:
+Wanneer je klaar bent:
+
+1. Klik op **Mijn Collectie**
+2. Druk op **Speel mijn collectie**
+
+![Speel mijn collectie](/images/play-my-collection.png)
+
+Kies:
+
+- **Spelmodus** — Single Player of Party Game
+- **Welke Round-Abouts** je wilt opnemen in je sessie
+
+QuizWitz zal proberen vragen te vermijden die je al hebt gezien.
+
+![Speel mijn collectie - stap 2](/images/play-my-collection-step2.png)
+
+---
+
+## 🕹️ Ervaring tijdens het spel
+
+Als je spel begint, kies je je modus:
 
 ### 🎮 Single Player
 
-- Click **Start**, then choose **Single Player**
-- Use your mouse, keyboard, or touchscreen to answer
+- Klik op **Start**, kies dan **Single Player**
+- Gebruik je muis, toetsenbord of touchscreen om te antwoorden
 
 ![QuizWitz start screen](/images/quizwitz-start-screen.png)\
 ![QuizWitz start screen single player](/images/quizwitz-start-screen-single.png)
@@ -105,13 +105,13 @@ Once your game starts, choose your mode:
 
 ### 🎉 Party Game
 
-Play with friends using their own phones or tablets:
+Speel met vrienden via hun eigen telefoons of tablets:
 
-> 📺 Make sure the quiz screen is visible — use a shared display or screen share
+> 📺 Zorg dat het quizscherm zichtbaar is — gebruik een gedeeld scherm of schermdeling
 
-1. Click **Start**, then **Party Game**
-2. Players follow the instructions on-screen to join
-3. Click **Start quiz** when everyone is ready
+1. Klik op **Start**, en dan **Party Game**
+2. Spelers volgen de instructies op het scherm om mee te doen
+3. Klik op **Start quiz** als iedereen klaar is
 
 ![QuizWitz start screen](/images/quizwitz-start-screen.png)\
 ![QuizWitz start screen party](/images/quizwitz-start-screen-party.png)\
@@ -119,12 +119,12 @@ Play with friends using their own phones or tablets:
 
 ---
 
-## ⭐ After the game
+## ⭐ Na het spel
 
-At the end, rate the Round-Abouts you played. This helps surface great content and supports creators.
+Rating de Round-Abouts die je hebt gespeeld aan het einde. Dit helpt om goede content naar voren te brengen en ondersteunt makers.
 
-![Rate Round-Abouts when the game is done](/images/rate-rounds.png)
+![Beoordeel Round-Abouts na het spel](/images/rate-rounds.png)
 
 ---
 
-Enjoy the quiz, and may the best brain win! 🧠🎉
+Geniet van de quiz, en moge de slimste winnen! 🧠🎉
