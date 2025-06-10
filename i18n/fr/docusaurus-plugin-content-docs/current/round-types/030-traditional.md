@@ -1,37 +1,37 @@
 ---
 id: traditional
-title: Traditional
+title: Traditionnel
 ---
 
-# 📝 Traditional
+# 📝 Traditionnel
 
-A **Traditional** round simulates the classic pub quiz format, where players can change their answers until the end of the round—just like handing in your answer sheet at the pub!
-
----
-
-![Screenshot of traditional round in quiz editor](/images/round-modes/traditional-editor.png)
+Un tour **Traditionnel** simule le format classique du quiz de pub, où les joueurs peuvent modifier leurs réponses jusqu�27�a0la fin du tour�20�a0— juste comme rendre votre feuille de réponses au pub !
 
 ---
 
-## 📝 How it works
-
-- The round can include both multiple choice and open questions.
-- As each question is asked, a new answer field appears on the player’s device.
-- Players can **edit any of their answers** up until the round finishes.
-- All answers are automatically submitted when the timer for the last question runs out.
+![Capture d�27�e9cran d�27un tour traditionnel dans l�27�e9diteur de quiz](/images/round-modes/traditional-editor.png)
 
 ---
 
-![Screenshot of traditional round in player screen](/images/round-modes/traditional-answer-screen.png)
+## 📝 Comment ������������fonctionne
+
+- Le tour peut inclure des questions ����������������������choix multiple et ouvertes.
+- À chaque question posée, un nouveau champ de réponse apparaît sur l�27�appareil du joueur.
+- Les joueurs peuvent **modifier n�27�importe quelle de leurs réponses** jusqu�27�a0la fin du tour.
+- Toutes les réponses sont automatiquement soumises quand le minuteur de la dernière question s�27��coule.
 
 ---
 
-## ⚙️ Settings & notes
-
-- **No early finish:** The “Stop timer when everyone answered” setting is disabled in traditional rounds, since players can change their answers up to the end.
-- **Best for teams:** This mode is perfect for teams or players who enjoy discussing and double-checking their answers.
-- **Flexible content:** You can mix open and multiple choice questions as you see fit.
+![Capture d�27�écran du tour traditionnel sur l�27�ècran du joueur](/images/round-modes/traditional-answer-screen.png)
 
 ---
 
-For more information about configuring round types and advanced settings, see [Round options](../editor/008-round-options.md).
+## ⚙️ Paramètres et notes
+
+- **Pas de fin anticipée :** le paramètre «�������Arrêter le minuteur quand tout le monde a répondu» est désactivé dans les tours traditionnels, puisque les joueurs peuvent modifier leurs réponses jusqu�27�a0la fin.
+- **Idéal pour les équipes :** ce mode est parfait pour les équipes ou les joueurs qui aiment discuter et vérifier leurs réponses.
+- **Contenu flexible :** vous pouvez mélanger questions ouvertes et choix multiple comme bon vous semble.
+
+---
+
+Pour plus d�27�informations sur la configuration des types de tour et des paramètres avancés, voir [Options de tour](../editor/008-round-options.md).
