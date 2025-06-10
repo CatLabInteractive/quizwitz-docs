@@ -5,34 +5,34 @@ title: Strike
 
 # 📈 Strike
 
-In a **Strike** round, players can climb through multiple levels by answering consecutive questions correctly. The higher their streak, the more points they can earn!
+In een **Strike** ronde kunnen spelers door meerdere niveaus klimmen door achtereenvolgens vragen correct te beantwoorden. Hoe hoger hun streak, hoe meer punten ze kunnen verdienen!
 
 ---
 
-## 📝 How it works
+## 📝 Hoe het werkt
 
-- Players start at level 1.
-- Each time a player answers correctly, they advance to the next level.
-- Every level increases the points they can earn on the next question.
-- If a player gets a question wrong, they drop down a configurable number of levels (not necessarily all the way to the start).
-- By default, there are **5 levels** and each level grants **20% extra points** (e.g. 100% → 120% → 140%...), but both the number of levels, the extra percentage per level, and the drop amount for wrong answers are configurable in the round settings.
+- Spelers starten op niveau 1.
+- Elke keer dat een speler correct antwoordt, stijgt hij naar het volgende niveau.
+- Elk niveau verhoogt de punten die ze kunnen verdienen bij de volgende vraag.
+- Als een speler een vraag fout beantwoordt, zakken ze een configureerbaar aantal niveaus omlaag (niet per se helemaal naar het begin).
+- Standaard zijn er **5 niveaus** en geeft elk niveau **20% extra punten** (bijv. 100% → 120% → 140%...), maar zowel het aantal niveaus, het extra percentage per niveau, als het aantal niveaus dat verloren gaat bij een fout antwoord, zijn configureerbaar in de ronde-instellingen.
 
 ---
 
-## ⚙️ Settings
+## ⚙️ Instellingen
 
-- **Number of levels:** Set how many levels a player can climb (default is 5).
-- **Point increase per level:** Set how much each level increases the next question’s points (default is 20% per level).
-- **Levels lost on wrong answer:** Configure how many levels a player drops if they answer incorrectly.
+- **Aantal niveaus:** Stel in hoeveel niveaus een speler kan stijgen (standaard is 5).
+- **Puntenstijging per niveau:** Stel in hoeveel elk niveau de punten van de volgende vraag verhoogt (standaard 20% per niveau).
+- **Niveaus verloren bij fout antwoord:** Configureer hoeveel niveaus een speler verliest als hij fout antwoordt.
 
 ---
 
 ## 💡 Tips
 
-- **Reward consistency!** The longer a player keeps answering correctly, the more their score multiplies.
-- Use for fast-paced or competitive rounds to add excitement and risk.
-- Mix easy and challenging questions to shake up the streaks.
+- **Beloon consistentie!** Hoe langer een speler blijft antwoorden zonder fout, hoe meer zijn score vermenigvuldigt.
+- Gebruik voor snelle of competitieve rondes om spanning en risico toe te voegen.
+- Meng makkelijke en uitdagende vragen om de streaks op te schudden.
 
 ---
 
-For more on round settings and advanced configuration, see [Round options](../editor/008-round-options.md).
+Voor meer over ronde-instellingen en geavanceerde configuratie, zie [Round options](../editor/008-round-options.md).
