@@ -1,59 +1,59 @@
 ---
 id: live-crash-recovery
-title: ⚠️ Live Crash Recovery
+title: ⚠️ Live Crash-Wiederherstellung
 sidebar_position: 1000
 ---
 
-# ⚠️ Live Crash Recovery
+# ⚠️ Live Crash-Wiederherstellung
 
-Did your game freeze? Did the tab close by accident? [**QuizWitz Live**](quizmaster/001-introduction.md) includes a built-in recovery system to help you get back on track — without losing your progress.
-
----
-
-## 🔄 How game recovery works
-
-If your game crashes, hangs, or is interrupted for any reason — whether it’s a browser issue, system restart, or accidental tab closure — you can resume the session easily.
-
-Just **reopen the same browser tab or game screen** you were using to display the **main game view**. This is the screen you project or stream to your audience.
-
-When it loads:
-
-- You’ll be prompted to **resume the previous session** or **start a new one**
-- If you choose to resume, the game will restore your progress as closely as possible
+Ist dein Spiel eingefroren? Wurde der Tab versehentlich geschlossen? [**QuizWitz Live**](quizmaster/001-introduction.md) enthält ein integriertes Wiederherstellungssystem, mit dem du ohne Fortschrittsverlust wieder auf Kurs kommst.
 
 ---
 
-### ▶️ Resuming the game
+## 🔄 So funktioniert die Wiederherstellung des Spiels
 
-Select **“Resume game”** to:
+Falls dein Spiel abstürzt, hängt oder aus irgendeinem Grund unterbrochen wird – egal ob wegen eines Browserproblems, Neustarts des Systems oder versehentlichem Schließen des Tabs – kannst du die Sitzung problemlos fortsetzen.
 
-- Continue from the same question or round
-- Restore the quiz state and visuals
+Öffne einfach denselben Browser-Tab oder Spielbildschirm, den du zuvor für die Anzeige der **Hauptspielansicht** benutzt hast. Dies ist der Bildschirm, den du an dein Publikum projizierst oder streamst.
 
-> ✅ This is the best option if your game crashed, froze, or was accidentally closed.
+Wenn er geladen ist:
 
----
-
-### 🆕 Starting a new game
-
-You can also choose to **start a new game** instead.
-
-- This will completely **clear the previous session**
-- You’ll return to the beginning of the quiz setup
-
-> ⚠️ Only choose this if you’re certain you don’t want to continue the existing game.
+- Wirst du aufgefordert, die **vorherige Sitzung fortzusetzen** oder **eine neue zu starten**
+- Wenn du dich für Fortsetzen entscheidest, wird das Spiel deinen Fortschritt so genau wie möglich wiederherstellen
 
 ---
 
-## 💡 Good to know
+### ▶️ Spiel fortsetzen
 
-- Recovery only works if you **return to the same game screen in the same browser**
-- Do **not** navigate to a different page — reopen the **exact URL** you were using to host the game
-- This feature helps recover from:
-  - Browser crashes
-  - Freezing or hanging mid-quiz
-  - Accidental closure or refresh
+Wähle **„Spiel fortsetzen“** um:
+
+- Vom gleichen Frage- oder Rundenteil weiterzumachen
+- Den Quiz-Zustand und die Visualisierungen wiederherzustellen
+
+> ✅ Das ist die beste Option, wenn dein Spiel abgestürzt, eingefroren oder versehentlich geschlossen wurde.
 
 ---
 
-With game recovery, you can host confidently — knowing that even if something goes wrong, you can pick up right where you left off.
+### 🆕 Ein neues Spiel starten
+
+Du kannst auch wählen, stattdessen **ein neues Spiel zu starten**.
+
+- Dadurch wird die **vorherige Sitzung komplett gelöscht**
+- Du gelangst zurück zum Anfang der Quiz-Einrichtung
+
+> ⚠️ Wähle das nur, wenn du sicher bist, dass du das bestehende Spiel nicht fortsetzen möchtest.
+
+---
+
+## 💡 Gut zu wissen
+
+- Die Wiederherstellung funktioniert nur, wenn du **zum gleichen Spielbildschirm im gleichen Browser zurückkehrst**
+- Gehe **nicht** auf eine andere Seite – öffne genau die **gleiche URL** erneut, die du zur Spielanzeige genutzt hast
+- Diese Funktion hilft dir bei der Wiederherstellung nach:
+  - Browser-Abstürzen
+  - Einfrieren oder Hängenbleiben mitten im Quiz
+  - Versehendliches Schließen oder Neuladen
+
+---
+
+Mit der Spiel-Wiederherstellung kannst du sorgenfrei hosten – in dem Wissen, dass du, selbst wenn mal was schiefläuft, genau dort weitermachen kannst, wo du aufgehört hast.
