@@ -5,27 +5,27 @@ title: Multiquestion
 
 # ❓ Multiquestion
 
-The **Multiquestion** round gives players (or teams) the freedom to pick which question they want to answer from a set of possibilities. This makes each playthrough unique and allows for strategic choices!
+De **Multiquestion** ronde geeft spelers (of teams) de vrijheid om te kiezen welke vraag ze willen beantwoorden uit een reeks mogelijkheden. Dit maakt elke speelsessie uniek en geeft ruimte voor strategische keuzes!
 
 ---
 
-## 📝 How it works
+## 📝 Hoe het werkt
 
-- For each "question group," several alternative questions are presented.
-- **Each player (or team) selects one question** from the available options to answer.
-- Every question can have its own point value, difficulty, or type (multiple choice, open, etc.).
-- Players only answer the question they picked; the rest are skipped for them.
+- Voor elke "vraaggroep" worden verschillende alternatieve vragen gepresenteerd.
+- **Elke speler (of team) kiest één vraag** uit de beschikbare opties om te beantwoorden.
+- Elke vraag kan zijn eigen puntenwaarde, moeilijkheidsgraad of type hebben (meerkeuze, open, enz.).
+- Spelers beantwoorden alleen de vraag die ze hebben gekozen; de rest wordt voor hen overgeslagen.
 
 ---
 
 ## 🛠️ Editor setup
 
-- In the quiz editor, create **Question groups**. Each group contains all the alternative questions for that turn.
-- For each question in the group, set the **Label** field. This label is shown to players as the “title” or hint for their choice.
-  - Labels can be cryptic (“A, B, C”), themed (“Animals”, “History”), or descriptive (“Easy MC”, “Hard open”).
-- You can mix and match question types and point values within the same group.
-- **Duration:** Even though you can set a different timer multiplier per question, the game uses the highest value for all questions in the group (so nobody is rushed).
-- **Attachments:**
+- Maak in de quiz editor **Vraaggroepen** aan. Elke groep bevat alle alternatieve vragen voor die beurt.
+- Stel voor elke vraag in de groep het veld **Label** in. Dit label wordt aan spelers getoond als de “titel” of hint voor hun keuze.
+  - Labels kunnen cryptisch zijn (“A, B, C”), thematisch (“Dieren”, “Geschiedenis”) of beschrijvend (“Makkelijke MC”, “Moeilijke open”).
+- Je kunt vraagtypes en puntenwaarden binnen dezelfde groep mixen en matchen.
+- **Duur:** Hoewel je een andere timervermenigvuldiger per vraag kunt instellen, gebruikt het spel de hoogste waarde voor alle vragen in de groep (zodat niemand gehaast wordt).
+- **Bijlagen:**
   - _Before question_ attachments from all options are combined into one view before players make their choice.
   - _During question_ visible attachments are not shown, but audio still plays.
 
@@ -33,10 +33,10 @@ The **Multiquestion** round gives players (or teams) the freedom to pick which q
 
 ## 💡 Tips
 
-- Offer a mix of easy and hard questions for more strategy.
-- Use labels creatively—mystery or fun themes can boost engagement.
-- Reward risk-takers with higher point questions.
+- Bied een mix van makkelijke en moeilijke vragen voor meer strategie.
+- Gebruik labels creatief—mysterie- of leuke thema’s kunnen de betrokkenheid vergroten.
+- Beloning voor waaghalzen met vragen die meer punten opleveren.
 
 ---
 
-For more on configuring questions and using attachments, see [writing questions](../editor/005-writing-questions.md) and [attachments documentation](../editor/006-attachments.md).
+Voor meer informatie over het configureren van vragen en het gebruik van bijlagen, zie [vragen schrijven](../editor/005-writing-questions.md) en [documentatie bijlagen](../editor/006-attachments.md).
