@@ -13,6 +13,8 @@ Deze tutorial laat je zien hoe je de QuizWitz Tournament modus gebruikt. De Tour
 
 Houd een Tournament quiz kort en boeiend. Als bezoekers teveel tijd aan de quiz moeten besteden, maken ze deze misschien niet af.\
 If visitors need to spend too much time on the quiz, they might not finish.\
+**Only players who finish the whole quiz will be listed on the leaderboard.**\
+If visitors need to spend too much time on the quiz, they might not finish.\
 **Only players who finish the whole quiz will be listed on the leaderboard.**
 
 ### 🎲 Willekeurige vraagselectie
