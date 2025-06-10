@@ -1,35 +1,36 @@
 ---
 id: tiebreaker-question
-title: Tiebreaker question
+title: Entscheidungsfrage
 ---
 
-# 🏁 Tiebreaker question
+# 🏁 Entscheidungsfrage
 
+Die Entscheidungsfrage wird verwendet, um bei einem Quiz am Ende Gleichstände zu entscheiden.\
 The Tiebreaker question is used to resolve ties at the end of a quiz.\
-Players are asked to guess a number (for example, “How many beans are in the jar?”). The player whose answer is closest to the correct value will win in case of a tie.
+Players are asked to guess a number (for example, “How many beans are in the jar?”). Der Spieler, dessen Antwort am nächsten am korrekten Wert liegt, gewinnt im Fall eines Gleichstands.
 
 ---
 
-## 📝 How it works
+## 📝 So funktioniert's
 
-- **No points awarded:** The tiebreaker question does not award regular points.
-- **Shadow points:** Instead, it uses “shadow points” that are only considered when two or more players have the same total score.
-- **Closest wins:** The player with the answer closest to the correct value gets the higher position in the event of a tie.
+- **Keine Punktevergabe:** Die Entscheidungsfrage vergibt keine regulären Punkte.
+- **Schattenpunkte:** Stattdessen werden "Schattenpunkte" verwendet, die nur berücksichtigt werden, wenn zwei oder mehr Spieler gleich viele Gesamtpunkte haben.
+- **Der Nächste gewinnt:** Der Spieler mit der Antwort, die dem korrekten Wert am nächsten kommt, erhält bei Gleichstand die bessere Platzierung.
 
 ---
 
-## 💡 Tips for tiebreaker questions
+## 💡 Tipps für Entscheidungsfragen
 
-- **Ask for an obscure number:** Choose a question where the answer is not widely known and is unlikely to be guessed exactly.
-- **Encourage unique guesses:** Make sure the question has a wide possible range, so every player is likely to enter a different answer.
-- **Use only for ties:** Shadow points are only used as a tiebreaker and will not affect the main game ranking.
+- **Frage nach einer unbekannten Zahl:** Wähle eine Frage, bei der die Antwort nicht allgemein bekannt ist und nur schwer genau erraten werden kann.
+- **Ermutige zu einzigartigen Schätzungen:** Sorge dafür, dass die Frage einen großen möglichen Wertebereich hat, damit jeder Spieler wahrscheinlich eine unterschiedliche Antwort eingibt.
+- **Nur für Gleichstände verwenden:** Schattenpunkte werden nur als Entscheidungsfaktor benutzt und beeinflussen nicht die reguläre Spielplatzierung.
 
 ---
 
 _Example tiebreaker questions:_
 
-- How many jelly beans are in the jar shown on screen?
-- What is the total length (in meters) of all the rivers in Belgium combined?
-- How many bricks were used to build the Empire State Building?
-- What was the attendance at the first ever World Cup final?
+- Wie viele Jelly Beans sind in dem auf dem Bildschirm gezeigten Glas?
+- Wie lang ist die Gesamtlänge aller Flüsse in Belgien (in Metern)?
+- Wie viele Ziegel wurden zum Bau des Empire State Buildings verwendet?
+- Wie hoch war die Zuschauerzahl beim allerersten Finale der Weltmeisterschaft?
 
