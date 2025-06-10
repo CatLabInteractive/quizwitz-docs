@@ -88,7 +88,7 @@ Cada uno de estos modificadores puede contener un solo color en formato hexadeci
 Los parámetros de consulta deben comenzar con un signo de interrogación ( ? ) y cada parámetro debe estar separado con un ampersand ( & ). Para más información sobre parámetros de consulta, visita [wikipedia](https://en.wikipedia.org/wiki/Query_string).
 :::
 
-By adding these parameters to your game URL, you can modify the colors in the theme:\
+Al añadir estos parámetros a la URL de tu juego, puedes modificar los colores del tema:\
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![Una captura del tema Emerald con modificadores personalizados](/images/emerald/theme_properties.png)
