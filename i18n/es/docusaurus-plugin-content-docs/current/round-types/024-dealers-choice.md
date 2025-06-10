@@ -1,78 +1,78 @@
 ---
 id: dealers-choice
-title: Dealers' Choice
+title: Elección del dealer
 ---
 
-# 🃏 Dealer's choice
+# 🃏 Elección del dealer
 
-The **Dealers’ Choice** round in QuizWitz adds a strategic twist to your quiz.
+La ronda de **Elección del dealer** en QuizWitz añade un giro estratégico a tu quiz.
 One of the players gets to **choose the next question category**, giving them a potential
-edge—and possibly a bonus! Here's how to set it up and play:
+edge—and possibly a bonus! Así es como se configura y se juega:
 
 ---
 
-## 🔧 How It Works
+## 🔧 Cómo funciona
 
-In this round, **one player becomes the "dealer"** and selects the next category to play. The method of selection depends on the game mode:
+En esta ronda, **un jugador se convierte en el "dealer"** y selecciona la siguiente categoría para jugar. El método de selección depende del modo de juego:
 
-- **Party/Conference Game:** The dealer chooses a category using **their own device**.
-- **Live Game:** The dealer **announces their choice aloud** to the quizmaster.
-
----
-
-## 🏷️ Assigning Categories to Questions
-
-Each question in the Dealers’ Choice round needs a **unique label**, which acts as the category the dealer sees and selects from.
-
-For example:
-
-- `Animals – Easy`
-- `Animals – Hard`
-- `History – Fun Facts`
-- `Movies – Action Classics`
-
-> Even if questions share a general theme, their labels should still be unique so players can clearly identify and choose them.
-
-Labels are set in the **“Label” field** of each question's settings.
+- **Juego de fiesta/conferencia:** El dealer elige una categoría usando **su propio smart device**.
+- **Juego en vivo:** El dealer **anuncia su elección en voz alta** al quizmaster.
 
 ---
 
-## 🏆 Dealer Bonus
+## 🏷️ Asignación de categorías a preguntas
 
-If the dealer correctly answers the question they chose, they can receive a **bonus**:
+Cada pregunta en la ronda de Elección del dealer necesita una **etiqueta única**, que actúa como la categoría que el dealer ve y selecciona.
 
-- Configure the **bonus percentage** (e.g. 50%) in the **Dealer Bonus** setting.
+Por ejemplo:
 
-> The bonus only applies if the dealer’s answer is correct.
+- `Animales – Fácil`
+- `Animales – Difícil`
+- `Historia – Datos curiosos`
+- `Cine – Clásicos de acción`
 
----
+> Aunque las preguntas compartan un tema general, sus etiquetas deben ser únicas para que los jugadores puedan identificarlas y escogerlas claramente.
 
-## 👑 Dealer Selection
-
-Before the round starts, QuizWitz determines the dealer using one of these options:
-
-- Highest ranked player goes first
-- Lowest ranked player goes first
-- At random - Dealer is chosen randomly
-
-> Rankings are locked in **at the beginning of the round**.
+Las etiquetas se establecen en el **campo “Etiqueta”** de la configuración de cada pregunta.
 
 ---
 
-### Scoring Options:
+## 🏆 Bono del dealer
+
+Si el dealer responde correctamente a la pregunta que eligió, puede recibir un **bono**:
+
+- Configura el **porcentaje del bono** (por ejemplo, 50%) en la configuración de **Bono del dealer**.
+
+> El bono sólo aplica si la respuesta del dealer es correcta.
+
+---
+
+## 👑 Selección del dealer
+
+Antes de que empiece la ronda, QuizWitz determina al dealer usando una de estas opciones:
+
+- El jugador con mejor posición va primero
+- El jugador con peor posición va primero
+- Al azar - El dealer es elegido aleatoriamente
+
+> Las posiciones se fijan **al comienzo de la ronda**.
+
+---
+
+### Opciones de puntuación:
 
 - **Scoring strategy:** Choose _Dealer Bonus_
-- **Time-based scoring:** Set the minimum percentage of points retained for slower answers (e.g. 75%)
+- **Puntuación basada en el tiempo:** Establece el porcentaje mínimo de puntos que se conservan por respuestas más lentas (por ejemplo, 75%)
 
 ---
 
-## 📝 Tips for Quizmasters
+## 📝 Consejos para quizmasters
 
-- Let players know they’ll be choosing from labeled categories.
-- In live games, be sure to note the dealer’s selection clearly.
-- Use unique, descriptive labels to avoid confusion during selection.
+- Haz saber a los jugadores que elegirán entre categorías etiquetadas.
+- En juegos en vivo, asegúrate de anotar claramente la selección del dealer.
+- Usa etiquetas únicas y descriptivas para evitar confusiones durante la selección.
 
 ---
 
-The Dealers’ Choice round encourages interaction and gives players a bit of control, while still rewarding quick and correct answers. It’s a great way to keep everyone engaged!
+La ronda Elección del dealer fomenta la interacción y da a los jugadores un poco de control, mientras que aún recompensa las respuestas rápidas y correctas. ¡Es una forma genial de mantener a todos involucrados!
 
