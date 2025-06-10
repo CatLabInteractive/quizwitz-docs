@@ -1,28 +1,28 @@
 ---
 id: department-elimination
-title: Department Elimination
+title: Élimination du département
 ---
 
-# 🏢 Department elimination
+# 🏢 Élimination du département
 
-**Department elimination** is a special event that removes players from a specific department, using the same elimination criteria as the standard [Elimination](050-elimination.md) round.
-
----
-
-## 📝 How it works
-
-- When this event is triggered, only players or teams belonging to the selected department are considered for elimination.
-- The elimination criteria are flexible:
-    - **Kick the lowest ranked in the department** until a set number of players remain
-    - **Kick the highest ranked in the department** until a set number remain
-    - **Kick a specific number of lowest ranked** in the department
-    - **Kick a specific number of highest ranked** in the department
-- The number of players to keep or eliminate can be set as an exact number or percentage.
+**L’élimination du département** est un événement spécial qui retire les joueurs d’un département spécifique, en utilisant les mêmes critères d’élimination que la manche standard [Élimination](050-elimination.md).
 
 ---
 
-> Department elimination lets you run knockouts within a group or department, perfect for tournaments or themed competitions.
+## 📝 Comment ça marche
+
+- Lorsque cet événement est déclenché, seuls les joueurs ou équipes appartenant au département sélectionné sont concernés par l’élimination.
+- Les critères d’élimination sont flexibles :
+    - **Exclure le joueur le mieux classé le plus bas dans le département** jusqu’à ce qu’un nombre défini de joueurs reste
+    - **Exclure le joueur le mieux classé le plus haut dans le département** jusqu’à ce qu’un nombre défini reste
+    - **Exclure un nombre spécifique des joueurs les mieux classés les plus bas** dans le département
+    - **Exclure un nombre spécifique des joueurs les mieux classés les plus hauts** dans le département
+- Le nombre de joueurs à conserver ou à éliminer peut être défini comme un nombre exact ou un pourcentage.
 
 ---
 
-For more on elimination options, see the [Elimination round](050-elimination.md) or [Round options](../editor/008-round-options.md).
+> L’élimination par département vous permet d’organiser des éliminations au sein d’un groupe ou département, parfait pour des tournois ou des compétitions à thème.
+
+---
+
+Pour plus d’options sur l’élimination, consultez la [manche Élimination](050-elimination.md) ou les [options de manche](../editor/008-round-options.md).
