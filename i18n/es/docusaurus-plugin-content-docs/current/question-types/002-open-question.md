@@ -1,69 +1,69 @@
 ---
 id: open-question
-title: Open question
+title: Pregunta abierta
 ---
 
-# 💬 Open question
+# 💬 Pregunta abierta
 
-An open question lets players type their answer freely using their keyboard. This mode is perfect for questions where you want written responses — for example, names, numbers, or short explanations.
-
----
-
-![Example: Open question about music](/images/question-modes/open-question/open-question.png)
+Una pregunta abierta permite a los jugadores escribir su respuesta libremente usando su teclado. Este modo es perfecto para preguntas que requieran respuestas escritas, por ejemplo, nombres, números o explicaciones cortas.
 
 ---
 
-## 📝 How it works
-
-- **Question:** Ask for a specific answer in a freeform text field (example: “Which duo performs this song?”).
-- **Answer:** Players type in their response. You can provide multiple accepted answers for automatic validation.
-- **Attachments:** Add audio, images, or video as a clue (for example, play a music clip).
-- **Feedback:** Players see after answering if their response was marked correct or not. You can also provide additional feedback or explanations.
+![Ejemplo: pregunta abierta sobre música](/images/question-modes/open-question/open-question.png)
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Cómo funciona
 
-Open questions offer a range of settings to fit your quiz:
-
-- **Multiple accepted answers:** Add alternate spellings, abbreviations, or synonyms for more flexible auto-correction.
-- **Time-based scoring:** Reward faster answers (see “Scoring” below).
-- **Force automatic correction:** Enable this to let the game automatically mark correct answers based on your provided list.
-    - If not enabled (the default for most live games), open answers must be reviewed and scored manually using the [Jury app](../quizmaster/004-jury-app.md).
-
-For more on these options, see [writing questions](../editor/005-writing-questions.md).
+- **Pregunta:** Solicita una respuesta específica en un campo de texto libre (ejemplo: “¿Qué dúo interpreta esta canción?”).
+- **Respuesta:** Los jugadores escriben su respuesta. Puedes proporcionar múltiples respuestas aceptadas para validación automática.
+- **Adjuntos:** Añade audio, imágenes o video como pista (por ejemplo, reproduce un fragmento musical).
+- **Retroalimentación:** Los jugadores ven después de responder si su respuesta fue marcada como correcta o no. También puedes proporcionar retroalimentación o explicaciones adicionales.
 
 ---
 
-## 🏆 Scoring for open questions
+## ⚙️ Configuraciones avanzadas
 
-Scoring in open questions is designed to be fair, even for slower typers:
+Las preguntas abiertas ofrecen varias configuraciones para adaptar tu quiz:
 
-- **Time-based scoring** divides the available points into blocks, not a strict per-millisecond countdown.
-- For example, answering in the first block (e.g. first 5 seconds) gives full points; the next block gives 80%, and so on. This helps reduce the penalty for slow typers.
-- By default, only **25%** of the points depend on speed — the remaining **75%** is fixed, so everyone who answers correctly gets most of the points, regardless of typing speed.
+- **Múltiples respuestas aceptadas:** Añade variaciones, abreviaturas o sinónimos para una autocorrección más flexible.
+- **Puntuación basada en tiempo:** Premia respuestas más rápidas (ve “Puntuación” abajo).
+- **Forzar corrección automática:** Activa esto para que el juego marque automáticamente las respuestas correctas según la lista que proporciones.
+    - Si no está activado (predeterminado para la mayoría de juegos en vivo), las respuestas abiertas deben revisarse y puntuarse manualmente usando la [app del Jury](../quizmaster/004-jury-app.md).
 
-> ⚙️ **Tip:** You can further adjust scoring behavior and other settings in the [Round options](../editor/008-round-options.md).
-
----
-
-## 🧑‍⚖️ Jury review in QuizWitz Live
-
-In **QuizWitz Live**, open questions generally require a manual review with the [Jury app](../quizmaster/004-jury-app.md):
-
-- The Jury app lets jury members accept, reject, or adjust scoring for open answers.
-- Phonetic and alternative matching helps, but human judgment is essential for fair scoring and creativity.
-- For full instructions and features, see the [Jury app documentation](../quizmaster/004-jury-app.md).
+Para más detalles sobre estas opciones, consulta [escribir preguntas](../editor/005-writing-questions.md).
 
 ---
 
-## 💡 Tips for great open questions
+## 🏆 Puntuación para preguntas abiertas
 
-- **Be specific:** Tell players exactly what you want them to answer.
-- **Anticipate variations:** Add common abbreviations, alternate spellings, or synonyms to accepted answers.
-- **Use attachments:** Add audio, images, or video to make your question clearer or more engaging.
-- **Coordinate with your jury:** Make sure your jury knows what to accept for subjective or tricky answers.
+La puntuación para preguntas abiertas está diseñada para ser justa, incluso para quienes escriben más lento:
+
+- **Puntuación basada en tiempo** divide los puntos disponibles en bloques, no es una cuenta regresiva estricta por milisegundo.
+- Por ejemplo, responder en el primer bloque (p. ej., primeros 5 segundos) da puntos completos; el siguiente bloque da 80%, y así sucesivamente. Esto ayuda a reducir la penalización para quienes escriben lentamente.
+- Por defecto, solo el **25%** de los puntos dependen de la velocidad — el restante **75%** es fijo, así que todos los que responden correctamente obtienen la mayoría de los puntos, independientemente de su velocidad al escribir.
+
+> ⚙️ **Consejo:** Puedes ajustar más el comportamiento de la puntuación y otras configuraciones en las [Opciones de ronda](../editor/008-round-options.md).
 
 ---
 
-For more about attachments and feedback, see the [Attachments documentation](../editor/006-attachments.md).
+## 🧑‍⚖️ Revisión del Jury en QuizWitz Live
+
+En **QuizWitz Live**, las preguntas abiertas generalmente necesitan una revisión manual con la [app del Jury](../quizmaster/004-jury-app.md):
+
+- La app del Jury permite a los miembros aceptar, rechazar o ajustar la puntuación para respuestas abiertas.
+- La coincidencia fonética y alternativa ayuda, pero el juicio humano es esencial para una puntuación justa y creatividad.
+- Para instrucciones completas y características, consulta la [documentación de la app del Jury](../quizmaster/004-jury-app.md).
+
+---
+
+## 💡 Consejos para excelentes preguntas abiertas
+
+- **Sé específico:** Indica a los jugadores exactamente qué quieres que respondan.
+- **Anticipa variaciones:** Añade abreviaturas comunes, variaciones ortográficas o sinónimos a las respuestas aceptadas.
+- **Usa adjuntos:** Añade audio, imágenes o video para clarificar o hacer tu pregunta más atractiva.
+- **Coordínate con tu jury:** Asegura que tu jury sepa qué aceptar para respuestas subjetivas o difíciles.
+
+---
+
+Para más sobre adjuntos y retroalimentación, consulta la [documentación de adjuntos](../editor/006-attachments.md).
