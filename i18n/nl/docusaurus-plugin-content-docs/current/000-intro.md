@@ -1,34 +1,34 @@
 ---
 id: intro
-title: Introduction
+title: Introductie
 ---
 
-# 🎉 Getting started
+# 🎉 Aan de slag
 
-## Welcome to QuizWitz!
+## Welkom bij QuizWitz!
 
-**QuizWitz** is a social quiz platform where you can:
+**QuizWitz** is een sociaal quizplatform waar je kunt:
 
-- Play fun quiz games with friends or solo
-- Host professional quiz events with live tools
-- Create your own quizzes, rounds, playlists, and more
+- Leuke quizgames spelen met vrienden of solo
+- Professionele quiz-evenementen hosten met live tools
+- Je eigen quizzes, rondes, afspeellijsten en meer maken
 
-Whether you're here to relax, present, or build — we've got you covered.
+Of je nu hier bent om te ontspannen, presenteren of bouwen — we hebben de tools voor jou.
 
-Take a moment to explore the different roles and tools available. It’ll only take a minute.
-
----
-
-## 👥 Players and creators
-
-This guide is divided into sections based on how you use QuizWitz:
-
-- [**Player Guide**](players/001-playing-quizwitz.md) — Learn how to collect, play, and enjoy quizzes
-- [**Quizmaker Guide**](editor/002-for-the-quizmakers.md) — Build your own questions, rounds, and full quizzes
-- [**Quizmaster Guide**](quizmaster/001-introduction.md) — Host a live game using QuizWitz Live
-
-Explore the sections that fit your role — or all of them if you're curious!
+Neem even de tijd om de verschillende rollen en beschikbare tools te verkennen. Het duurt maar een minuutje.
 
 ---
 
-Ready to jump in? Let’s get quizzing.
+## 👥 Spelers en makers
+
+Deze gids is verdeeld in secties gebaseerd op hoe je QuizWitz gebruikt:
+
+- [**Spelersgids**](players/001-playing-quizwitz.md) — Leer hoe je quizzes verzamelt, speelt en ervan geniet
+- [**Quizmaker Gids**](editor/002-for-the-quizmakers.md) — Bouw je eigen vragen, rondes en complete quizzes
+- [**Quizmaster Gids**](quizmaster/001-introduction.md) — Host een live spel met QuizWitz Live
+
+Verken de secties die passen bij jouw rol — of allemaal als je nieuwsgierig bent!
+
+---
+
+Klaar om te beginnen? Laten we gaan quizzen.
