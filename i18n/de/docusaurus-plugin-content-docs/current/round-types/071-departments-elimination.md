@@ -1,28 +1,28 @@
 ---
 id: department-elimination
-title: Department Elimination
+title: Abteilungsausscheidung
 ---
 
-# 🏢 Department elimination
+# 🏢 Abteilungsausscheidung
 
-**Department elimination** is a special event that removes players from a specific department, using the same elimination criteria as the standard [Elimination](050-elimination.md) round.
-
----
-
-## 📝 How it works
-
-- When this event is triggered, only players or teams belonging to the selected department are considered for elimination.
-- The elimination criteria are flexible:
-    - **Kick the lowest ranked in the department** until a set number of players remain
-    - **Kick the highest ranked in the department** until a set number remain
-    - **Kick a specific number of lowest ranked** in the department
-    - **Kick a specific number of highest ranked** in the department
-- The number of players to keep or eliminate can be set as an exact number or percentage.
+**Abteilungsausscheidung** ist ein spezielles Ereignis, das Spieler aus einer bestimmten Abteilung entfernt und dabei dieselben Ausscheidungskriterien wie die standardmäßige [Elimination](050-elimination.md) Runde verwendet.
 
 ---
 
-> Department elimination lets you run knockouts within a group or department, perfect for tournaments or themed competitions.
+## 📝 So funktioniert's
+
+- Wenn dieses Ereignis ausgelöst wird, werden nur Spieler oder Teams berücksichtigt, die zur ausgewählten Abteilung gehören.
+- Die Ausscheidungskriterien sind flexibel:
+    - **Kicke den niedrigst platzierten in der Abteilung** bis eine festgelegte Anzahl von Spielern übrig bleibt
+    - **Kicke den höchst platzierten in der Abteilung** bis eine festgelegte Anzahl übrig bleibt
+    - **Kicke eine bestimmte Anzahl der niedrigst platzierten** in der Abteilung
+    - **Kicke eine bestimmte Anzahl der höchst platzierten** in der Abteilung
+- Die Anzahl der Spieler, die behalten oder eliminiert werden sollen, kann als genaue Zahl oder Prozentsatz festgelegt werden.
 
 ---
 
-For more on elimination options, see the [Elimination round](050-elimination.md) or [Round options](../editor/008-round-options.md).
+> Die Abteilungsausscheidung ermöglicht es dir, Ausscheidungen innerhalb einer Gruppe oder Abteilung durchzuführen – perfekt für Turniere oder thematische Wettbewerbe.
+
+---
+
+Mehr zu Ausscheidungsoptionen findest du in der [Elimination Runde](050-elimination.md) oder unter [Rundeneinstellungen](../editor/008-round-options.md).
