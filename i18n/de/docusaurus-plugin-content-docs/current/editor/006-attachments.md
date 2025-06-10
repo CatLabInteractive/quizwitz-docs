@@ -9,9 +9,9 @@ Attachments can be added in various slots throughout your quiz to enrich the exp
 
 These slots appear in the following parts of your quiz:
 
-- [Questions](../editor/005-writing-questions.md)
-- [Rounds](../editor/008-round-options.md)
-- [Quizzes](../editor/007-quiz-options.md)
+- [Fragen](../editor/005-writing-questions.md)
+- [Runden](../editor/008-round-options.md)
+- [Quizze](../editor/007-quiz-options.md)
 
 Each page explains when these attachments are shown during gameplay.
 
@@ -35,7 +35,7 @@ Here is a general (non-exhaustive) list of compatible formats:
 
 Each attachment can have a name and optional attribution:
 
-- **Name** — Displayed to the quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); helps in organizing attachments
+- **Name** — Wird dem quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) angezeigt; hilft bei der Organisation von Anhängen
 - **Attribution** — Shown to players as credit or source information. This should be the **name of the rights holder**.
 
 > ⚠️ In order to **publish** a Round-About or Quiz, **all attachments must have a valid attribution** filled in. Without this, your entry cannot be made public.
@@ -57,7 +57,7 @@ This is especially effective for puzzles or slow reveals during intros or dramat
 
 Some slots allow adding **multiple attachments**. The way these behave depends on the game mode:
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** The quizmaster has full control and can decide when to show or hide attachments during gameplay.\
+> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** Der quizmaster hat die volle Kontrolle und kann entscheiden, wann Anhänge während des Spiels gezeigt oder versteckt werden.\
 > 🎮 **In regular games:** All attachments within a slot are shown **simultaneously**.
 
-Details about each slot’s timing and behavior can be found in the linked documentation for [questions](../editor/015-importing-questions.md), [rounds](../editor/008-round-options.md), and [quizzes](../editor/007-quiz-options.md).
+Details zur Zeitplanung und zum Verhalten jedes Slots findest du in der verlinkten Dokumentation zu [Fragen](../editor/015-importing-questions.md), [Runden](../editor/008-round-options.md) und [Quizzen](../editor/007-quiz-options.md).
