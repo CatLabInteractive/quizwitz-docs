@@ -9,9 +9,9 @@ Attachments can be added in various slots throughout your quiz to enrich the exp
 
 These slots appear in the following parts of your quiz:
 
-- [Questions](../editor/005-writing-questions.md)
-- [Rounds](../editor/008-round-options.md)
-- [Quizzes](../editor/007-quiz-options.md)
+- [Preguntas](../editor/005-writing-questions.md)
+- [Rondas](../editor/008-round-options.md)
+- [Cuestionarios](../editor/007-quiz-options.md)
 
 Each page explains when these attachments are shown during gameplay.
 
@@ -35,7 +35,7 @@ Here is a general (non-exhaustive) list of compatible formats:
 
 Each attachment can have a name and optional attribution:
 
-- **Name** — Displayed to the quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); helps in organizing attachments
+- **Nombre** — Visible para el quizmaster en [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); ayuda a organizar los adjuntos
 - **Attribution** — Shown to players as credit or source information. This should be the **name of the rights holder**.
 
 > ⚠️ In order to **publish** a Round-About or Quiz, **all attachments must have a valid attribution** filled in. Without this, your entry cannot be made public.
@@ -57,7 +57,7 @@ This is especially effective for puzzles or slow reveals during intros or dramat
 
 Some slots allow adding **multiple attachments**. The way these behave depends on the game mode:
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** The quizmaster has full control and can decide when to show or hide attachments during gameplay.\
+> ⚡ **En [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** El quizmaster tiene control total y puede decidir cuándo mostrar u ocultar los adjuntos durante el juego.\
 > 🎮 **In regular games:** All attachments within a slot are shown **simultaneously**.
 
-Details about each slot’s timing and behavior can be found in the linked documentation for [questions](../editor/015-importing-questions.md), [rounds](../editor/008-round-options.md), and [quizzes](../editor/007-quiz-options.md).
+Los detalles sobre el tiempo y comportamiento de cada intervalo se pueden encontrar en la documentación enlazada para [preguntas](../editor/015-importing-questions.md), [rondas](../editor/008-round-options.md) y [cuestionarios](../editor/007-quiz-options.md).
