@@ -17,6 +17,10 @@ title: Pauze
 - **In QuizWitz Live games:**\
   The quizmaster ends the intermission from their device (tablet or smartphone).\
   The Quizmaster app displays a timer so the host can see how long the intermission has lasted.\
+  The Quizmaster app displays a timer so the host can see how long the intermission has lasted.\
+  **In QuizWitz Live games:**\
+  The quizmaster ends the intermission from their device (tablet or smartphone).\
+  The Quizmaster app displays a timer so the host can see how long the intermission has lasted.\
   De Quizmaster app toont een timer zodat de host kan zien hoe lang de pauze duurt.
 
 ---
