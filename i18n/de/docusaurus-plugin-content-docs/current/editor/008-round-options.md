@@ -38,7 +38,7 @@ The following options are available for most round types:
 
 ---
 
-## 🏆 Scoring options {#scoring}
+## 🏆 Wertungsoptionen {#scoring}
 
 QuizWitz offers flexible scoring to keep things fair and engaging for all players.
 
@@ -58,7 +58,7 @@ These scoring options can be found in the round options panel when editing a rou
 
 ## 📜 Quizmaster instructions
 
-You can add a custom **round introduction text** that will appear only on the [Quizmaster app](../quizmaster/001-introduction.md) at the start of the round. Use this to brief the presenter or add a personal touch.
+Du kannst einen eigenen **Rundeneinleitungstext** hinzufügen, der nur in der [Quizmaster-App](../quizmaster/001-introduction.md) zu Beginn der Runde angezeigt wird. Use this to brief the presenter or add a personal touch.
 
 ---
 
@@ -72,4 +72,4 @@ Enhance your round with media shown at specific moments:
 - **During round outro** — _(audio only)_ Plays while rankings are displayed
 - ...
 
-📘 For supported file types and usage tips, see the [attachments guide](../editor/006-attachments.md).
+📘 Für unterstützte Dateitypen und Nutzungstipps siehe den [Anhangsleitfaden](../editor/006-attachments.md).
