@@ -30,7 +30,7 @@ Once inside, the Jury app provides several useful tools:
 - **Edit scores** — Grant or revoke points manually per player or team.
 
 - **Game control** — Adjust question timers or add streaming delays if needed.
-  > For livestream delay setup, see [**how to host a QuizWitz Live quiz on Twitch**](../tutorials/040-livestreaming.md)
+  > Für die Einrichtung der Livestream-Verzögerung siehe [**wie man ein QuizWitz Live Quiz auf Twitch veranstaltet**](../tutorials/040-livestreaming.md)
 
 - **Report** — Generate a full game report with results and player answers.
 
