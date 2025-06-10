@@ -1,64 +1,64 @@
 ---
 id: activity
-title: Activity
+title: Activiteit
 ---
 
-# 🎭 Activity
+# 🎭 Activiteit
 
-An Activity round lets you step away from standard quiz questions for a creative or physical challenge. The quizmaster describes an activity or duel, selects teams to compete, and awards points based on performance.
-
----
-
-![Main screen for Activity round](/images/round-modes/activity-main-screen.png)
+Een Activiteitronde laat je wegstappen van standaard quizvragen voor een creatieve of fysieke uitdaging. De quizmaster beschrijft een activiteit of duel, kiest teams om deel te nemen, en kent punten toe op basis van prestaties.
 
 ---
 
-## 🏆 How it works
+![Hoofdscherm voor Activiteitronde](/images/round-modes/activity-main-screen.png)
 
-- **Challenge Description:** The round begins with a description of the activity (e.g., “Fold a paper plane and throw it as far as possible. Furthest wins!”).
-- **Team/Player Selection:** The quizmaster selects which teams or players will participate in the activity.
-  - **Random selection ensures every team is drawn an equal number of times throughout the quiz.** So if you have 40 teams and 10 activity rounds with 4 teams each, every team will be selected exactly once.
-- **Timer & Tools:** Start a timer and use sound effects (like buzzer or bells) to manage the challenge.
-- **Award Points:** After the activity, the quizmaster enters the results and awards points to the winning team(s).
+---
+
+## 🏆 Hoe het werkt
+
+- **Uitdaging Beschrijving:** De ronde begint met een beschrijving van de activiteit (bijv. “Vouw een papieren vliegtuigje en gooi het zo ver mogelijk. Degene die het verst gooit, wint!”).
+- **Team/Speler Selectie:** De quizmaster kiest welke teams of spelers meedoen aan de activiteit.
+  - **Willekeurige selectie zorgt ervoor dat elk team precies even vaak wordt gekozen gedurende de quiz.** Dus als je 40 teams hebt en 10 activiteitenrondes met elk 4 teams, wordt elk team precies één keer geselecteerd.
+- **Timer & Hulpmiddelen:** Start een timer en gebruik geluidseffecten (zoals buzzer of bellen) om de uitdaging te begeleiden.
+- **Punten toekennen:** Na de activiteit voert de quizmaster de resultaten in en kent punten toe aan het winnende team/de winnende teams.
 
 <table><tbody><tr><td markdown>
-![Team selection for Activity round](/images/round-modes/activity-team-selection.png)
+![Teamselectie voor Activiteitronde](/images/round-modes/activity-team-selection.png)
 </td><td markdown>
-![Activity round tools](/images/round-modes/activity-tools.png)
+![Activiteitronde hulpmiddelen](/images/round-modes/activity-tools.png)
 </td></tr></tbody></table>
 
 ---
 
-## 🛠️ Tools & Controls
+## 🛠️ Hulpmiddelen & Bediening
 
-- **Duel tools:** The quizmaster can access quick actions for buzzer, gong, bells, and timers during the activity.
-- **Custom Points:** Points can be entered manually for each team, or you can select a winner with quick action buttons.
-- **Attachments:** Add images, audio, or video to explain the activity or show examples. The quizmaster can display these on the main screen during the activity.
+- **Duelhulpmiddelen:** De quizmaster kan snelle acties uitvoeren voor buzzer, gong, bellen en timers tijdens de activiteit.
+- **Aangepaste punten:** Punten kunnen handmatig worden ingevoerd voor elk team, of je kunt een winnaar kiezen met snelle actieknoppen.
+- **Bijlagen:** Voeg afbeeldingen, audio of video toe om de activiteit te verklaren of voorbeelden te tonen. De quizmaster kan deze tijdens de activiteit op het hoofdscherm tonen.
 
 ---
 
-## 🏅 Deciding the Winner
+## 🏅 De winnaar bepalen
 
-- **Winner Selection:** Choose the winner(s) or divide points among several teams.
-- **Player Vote:** Let players vote for the winner if you like.
-- **Award Points:** Points can be divided or awarded as you see fit.
+- **Winnaar selecteren:** Kies de winnaar(s) of verdeel punten over meerdere teams.
+- **Spelerstem:** Laat spelers stemmen op de winnaar als je dat wilt.
+- **Punten toekennen:** Punten kunnen verdeeld of toegekend worden naar eigen inzicht.
 
 <table><tbody><tr><td markdown>
-![Winner selection screen](/images/round-modes/activity-winner-selection.png)
+![Scherm voor winnaarselectie](/images/round-modes/activity-winner-selection.png)
 </td><td markdown>
-![Custom points entry](/images/round-modes/activity-custom-points.png)
+![Handmatige punteninvoer](/images/round-modes/activity-custom-points.png)
 </td></tr></tbody></table>
 
 ---
 
 ## 💡 Tips
 
-- **Make it memorable:** Activities work best when they're fun for everyone to watch or participate in.
-- **Make it fair:** Ensure the activity can be judged objectively, or use a voting system to decide the winner.
-- **Be clear:** Announce the rules and expectations before starting.
-- **Energize your event:** Use activity rounds to keep things lively and engaging.
-- **Encourage creativity:** Let teams come up with their own strategies or approaches to the activity.
+- **Maak het memorabel:** Activiteiten werken het beste wanneer ze leuk zijn om naar te kijken of aan deel te nemen.
+- **Maak het eerlijk:** Zorg dat de activiteit objectief beoordeeld kan worden, of gebruik een stemsysteem om de winnaar te bepalen.
+- **Wees duidelijk:** Kondig de regels en verwachtingen aan voordat je begint.
+- **Breng energie in je evenement:** Gebruik activiteitrondes om het levendig en boeiend te houden.
+- **Moedig creativiteit aan:** Laat teams hun eigen strategieën of benaderingen voor de activiteit bedenken.
 
 ---
 
-The Activity round is perfect for interactive challenges, duels, or creative tasks — a great way to add energy and variety to your QuizWitz event!
+De Activiteitronde is perfect voor interactieve uitdagingen, duels of creatieve opdrachten — een geweldige manier om energie en variatie toe te voegen aan je QuizWitz evenement!
