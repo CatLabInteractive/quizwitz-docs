@@ -6,7 +6,7 @@ title: "Theming"
 # Theming
 
 :::warning
-While creating your own QuizWitz theme offers the most flexibility, it is a complex and time-consuming process. In most cases, you are much better off customizing our [Emerald theme](/docs/advanced/emerald-theme), which is specifically designed to be easy to adapt.
+While creating your own QuizWitz theme offers the most flexibility, it is a complex and time-consuming process. In most cases, you are much better off customizing our [Emerald theme](011-emerald-theme.md), which is specifically designed to be easy to adapt.
 :::
 
 QuizWitz themes are created using **Adobe Animate**. You can download a [theme template](https://themes.quizwitz.com/empty/quizwitz-empty-theme.zip) to use as a starting point. Be aware that theming QuizWitz is painstaking work and is best left to experienced designers who know the ins and outs of Adobe Animate.
