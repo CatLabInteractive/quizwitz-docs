@@ -6,7 +6,7 @@ title: Thematisering
 # Thematisering
 
 :::warning
-Hoewel het maken van je eigen QuizWitz-thema de meeste flexibiliteit biedt, is het een complex en tijdrovend proces. In most cases, you are much better off customizing our [Emerald theme](/docs/advanced/emerald-theme), which is specifically designed to be easy to adapt.
+Hoewel het maken van je eigen QuizWitz-thema de meeste flexibiliteit biedt, is het een complex en tijdrovend proces. In de meeste gevallen ben je veel beter af met het aanpassen van onze [Emerald theme](011-emerald-theme.md), die speciaal is ontworpen om makkelijk aan te passen te zijn.
 :::
 
 QuizWitz-thema's worden gemaakt met behulp van **Adobe Animate**. Je kunt een [thema-sjabloon](https://themes.quizwitz.com/empty/quizwitz-empty-theme.zip) downloaden om als startpunt te gebruiken. Houd er rekening mee dat theming van QuizWitz nauwkeurig werk is en het beste overgelaten kan worden aan ervaren ontwerpers die de ins en outs van Adobe Animate kennen.
