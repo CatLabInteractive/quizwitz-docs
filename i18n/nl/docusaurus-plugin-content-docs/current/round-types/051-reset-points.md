@@ -7,6 +7,7 @@ title: Punten resetten
 
 **Reset points** is a special event (not a question round) that sets the score of all players or teams back to zero.\
 This can be used to level the playing field, add suspense, or introduce new phases in your quiz.\
+Dit kun je gebruiken om het speelveld gelijk te maken, spanning toe te voegen of nieuwe fases in je quiz in te voeren.\
 Dit kun je gebruiken om het speelveld gelijk te maken, spanning toe te voegen of nieuwe fases in je quiz in te voeren.
 
 ---
