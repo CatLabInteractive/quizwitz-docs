@@ -6,54 +6,54 @@ sidebar_position: 1000
 
 # ⚠️ Live Crash Recovery
 
-Did your game freeze? Did the tab close by accident? [**QuizWitz Live**](quizmaster/001-introduction.md) includes a built-in recovery system to help you get back on track — without losing your progress.
+Is je spel vastgelopen? Is het tabblad per ongeluk gesloten? [**QuizWitz Live**](quizmaster/001-introduction.md) bevat een ingebouwd herstel systeem om je weer op weg te helpen — zonder je voortgang te verliezen.
 
 ---
 
-## 🔄 How game recovery works
+## 🔄 Hoe gameherstel werkt
 
-If your game crashes, hangs, or is interrupted for any reason — whether it’s a browser issue, system restart, or accidental tab closure — you can resume the session easily.
+Als je spel crasht, vastloopt of om welke reden dan ook wordt onderbroken — of dat nu door een browserprobleem, systeemherstart of per ongeluk sluiten van een tabblad is — dan kun je de sessie makkelijk hervatten.
 
-Just **reopen the same browser tab or game screen** you were using to display the **main game view**. This is the screen you project or stream to your audience.
+Open gewoon **hetzelfde browsertabblad of gamescherm** waarin je de **hoofdgameweergave** gebruikte. Dit is het scherm dat je projecteert of streamt naar je publiek.
 
-When it loads:
+Wanneer het geladen is:
 
-- You’ll be prompted to **resume the previous session** or **start a new one**
-- If you choose to resume, the game will restore your progress as closely as possible
-
----
-
-### ▶️ Resuming the game
-
-Select **“Resume game”** to:
-
-- Continue from the same question or round
-- Restore the quiz state and visuals
-
-> ✅ This is the best option if your game crashed, froze, or was accidentally closed.
+- Je krijgt de optie om de vorige sessie **te hervatten** of **een nieuwe te starten**
+- Als je kiest om te hervatten, dan wordt je voortgang zo goed mogelijk hersteld.
 
 ---
 
-### 🆕 Starting a new game
+### ▶️ Het spel hervatten
 
-You can also choose to **start a new game** instead.
+Selecteer **"Spel hervatten"** om:
 
-- This will completely **clear the previous session**
-- You’ll return to the beginning of the quiz setup
+- Verder te gaan vanaf dezelfde vraag of ronde
+- De quizstatus en visuals te herstellen
 
-> ⚠️ Only choose this if you’re certain you don’t want to continue the existing game.
-
----
-
-## 💡 Good to know
-
-- Recovery only works if you **return to the same game screen in the same browser**
-- Do **not** navigate to a different page — reopen the **exact URL** you were using to host the game
-- This feature helps recover from:
-  - Browser crashes
-  - Freezing or hanging mid-quiz
-  - Accidental closure or refresh
+> ✅ Dit is de beste optie als je spel gecrasht is, vastlag of per ongeluk gesloten werd.
 
 ---
 
-With game recovery, you can host confidently — knowing that even if something goes wrong, you can pick up right where you left off.
+### 🆕 Een nieuw spel starten
+
+Je kunt ook kiezen om **een nieuw spel te starten**.
+
+- Dit zal de vorige sessie volledig **wissen**
+- Je keert terug naar de start van de quizinstelling
+
+> ⚠️ Kies dit alleen als je zeker weet dat je het bestaande spel niet verder wilt spelen.
+
+---
+
+## 💡 Goed om te weten
+
+- Herstel werkt alleen als je **terugkeert naar hetzelfde gamescherm in dezelfde browser**
+- Navigeer **niet** naar een andere pagina — open de **exacte URL** die je gebruikte om het spel te hosten opnieuw.
+- Deze functie helpt te herstellen bij:
+  - Browsercrashes
+  - Het spel dat vastloopt of niet reageert tijdens de quiz
+  - Per ongeluk sluiten of vernieuwen
+
+---
+
+Met gameherstel kun je met vertrouwen hosten — wetende dat zelfs als er iets misgaat, je gewoon kunt verdergaan waar je gebleven was.
