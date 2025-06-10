@@ -7,6 +7,7 @@ title: Eliminatie
 
 **Elimination** is a special event that automatically removes players or teams from the game based on their current ranking or score.\
 It’s a useful tool for tournaments, playoffs, or adding dramatic twists in live events!\
+Het is een handig hulpmiddel voor toernooien, playoffs of het toevoegen van dramatische wendingen bij live-evenementen!\
 Het is een handig hulpmiddel voor toernooien, playoffs of het toevoegen van dramatische wendingen bij live-evenementen!
 
 ---
