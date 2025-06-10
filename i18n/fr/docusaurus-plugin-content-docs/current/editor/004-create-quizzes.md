@@ -45,7 +45,7 @@ In the main editor, you can:
 - Reorder rounds or questions using the **arrow buttons**
 - Delete rounds or questions using the **trash bin icon**
 
-> 💡 Use the **Import questions** tool to quickly add multiple questions at once. Just follow the on-screen instructions and [check that everything imported correctly](../editor/015-importing-questions.md).
+> 💡 Use the **Import questions** tool to quickly add multiple questions at once. Il suffit de suivre les instructions à l'écran et de [vérifier que tout a été importé correctement](../editor/015-importing-questions.md).
 
 ---
 
@@ -80,7 +80,7 @@ When you're ready to test or run your quiz, press the **Start Quiz** button. You
 
 - **[Jouer au Party Game](../players/001-playing-quizwitz.md)** — Une expérience de quiz décontractée à partager avec des amis sur le même écran ou par partage d'écran
 - **[Lancer QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Organisez un événement de quiz en direct professionnel avec l'application Quizmaster
-- **[Start Conference Mode (PRO)](../tutorials/050-conference-booth.md)** — Host a conference-style quiz for larger audiences with assigned seating, team codes, and production tools
+- **[Démarrer le mode Conférence (PRO)](../tutorials/050-conference-booth.md)** — Animez un quiz de style conférence pour des audiences plus larges avec des sièges attribués, des codes d'équipe et des outils de production
 
 ---
 
@@ -89,7 +89,7 @@ When you're ready to test or run your quiz, press the **Start Quiz** button. You
 Want to simulate a full quiz run-through? Use the advanced testing tools:
 
 - **Simulate** — Run a test playthrough with bots (no presentation)
-- **Simulate Live** — Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) session with bots, including Quizmaster, Jury, and Player views
+- **Simuler en direct** — Simulez une session complète de [QuizWitz Live](../quizmaster/001-introduction.md) avec des bots, incluant les vues Quizmaster, Jury et Joueur
 
 ---
 
