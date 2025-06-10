@@ -1,74 +1,74 @@
 ---
 id: round-options
-title: Round options
+title: Ronde-opties
 ---
 
-# 🔄 Round options
+# 🔄 Ronde-opties
 
-Each round has a specific **type**. The default is **Multiple Choice (Trivia)**, but feel free to test and experiment with all available types. This page explains the settings and attachments you can configure per round.
+Elke ronde heeft een specifiek **type**. De standaard is **Multiple Choice (Trivia)**, maar voel je vrij om te testen en experimenteren met alle beschikbare types. Op deze pagina worden de instellingen en bijlagen uitgelegd die je per ronde kunt configureren.
 
-📘 For a detailed overview of all round types, visit the [round types documentation](../round-types/000-round-types.md).
-
----
-
-## 🔧 Configuring a round
-
-To configure a round’s options, click the gear icon in the round panel:
-
-| ![Open round options](/images/open-round-options.png) | ![Round options](/images/round-options.png) |
-| :---------------------------------------------------: | :-----------------------------------------: |
-|                _Opening round options_                |         _Round configuration panel_         |
+📘 Voor een gedetailleerd overzicht van alle ronde types, bezoek de [documentatie over ronde types](../round-types/000-round-types.md).
 
 ---
 
-## ⚙️ General round options
+## 🔧 Een ronde configureren
 
-The following options are available for most round types:
+Om de opties van een ronde te configureren, klik je op het tandwielpictogram in het ronde-paneel:
 
-- **Only show _X_ questions** — Limits the round to a specific number of questions
-- **Random question order** — Shuffle the question order within the round
-- **Show round intro** — Display an animated title before the round begins
-- **Show round outro (interim score)** — Reveal rankings at the end of the round
-- **Group all feedback in a single screen** — Collect question feedback in one block after the round ends
-- **Show all question feedback at the end of the round** — Delay question feedback until the round ends
-- **Force feedback after each individual question** — Ensure immediate feedback
-  > ⚠️ This only takes effect in round and question types where feedback would otherwise be delayed, such as open questions or lightning rounds.
+| ![Open ronde-opties](/images/open-round-options.png) | ![Ronde-opties](/images/round-options.png) |
+| :--------------------------------------------------: | :----------------------------------------: |
+|                _Opening round options_               |         _Round configuration panel_        |
 
-📘 See [question types](../question-types/000-question-types.md) for more information on feedback timing and behavior.
+---
+
+## ⚙️ Algemene ronde-opties
+
+De volgende opties zijn beschikbaar voor de meeste ronde types:
+
+- **Toon alleen _X_ vragen** — Beperkt de ronde tot een specifiek aantal vragen
+- **Willekeurige vraagvolgorde** — Schud de volgorde van vragen binnen de ronde
+- **Toon ronde-intro** — Toon een geanimeerde titel voordat de ronde begint
+- **Toon ronde-outro (tussenstand)** — Laat de ranglijsten zien aan het einde van de ronde
+- **Groeperen van alle feedback in één scherm** — Verzamel alle vraagfeedback in één blok nadat de ronde is geëindigd
+- **Toon alle vraagfeedback aan het einde van de ronde** — Stel vraagfeedback uit tot het einde van de ronde
+- **Forceer feedback na elke individuele vraag** — Zorg voor directe feedback
+  > ⚠️ Dit werkt alleen in ronde- en vraagtypes waar feedback anders uitgesteld zou worden, zoals open vragen of lightning rounds.
+
+📘 Zie [vraagtypes](../question-types/000-question-types.md) voor meer informatie over timing en gedrag van feedback.
 
 ---
 
 ## 🏆 Scoring options
 
-QuizWitz offers flexible scoring to keep things fair and engaging for all players.
+QuizWitz biedt flexibele scoring om het eerlijk en boeiend te houden voor alle spelers.
 
-- **Time-based scoring** — Players earn more points for faster answers.
-  - For most question types, time-based points decrease **continuously per microsecond**: the faster you answer, the more points you score.
-  - For **open questions only**, time-based points are divided into blocks. For example: answers in the first block (e.g., first few seconds) earn **100%** of the time-based portion, the next block earns **80%**, and so on. This helps level the playing field for slower typers.
+- **Tijdbased scoring** — Spelers verdienen meer punten voor snellere antwoorden.
+  - Voor de meeste vraagtypes nemen de tijdbased punten **continu af per microseconde**: hoe sneller je antwoordt, hoe meer punten je scoort.
+  - Voor **alleen open vragen**, worden tijdbased punten verdeeld in blokken. Bijvoorbeeld: antwoorden in het eerste blok (bijv. eerste paar seconden) verdienen **100%** van het tijdbased gedeelte, het volgende blok verdient **80%**, enzovoorts. Dit helpt om het speelveld gelijk te trekken voor langzamere typers.
 
-- **Fixed percentage of points on timebased scoring** — You control how much of the total score is influenced by speed.
-  - By default, **75%** of the points are fixed (everyone who answers correctly gets these points, regardless of speed).
-  - Only the remaining **25%** is influenced by how quickly players respond.
+- **Vast percentage van de punten op tijdbased scoring** — Jij bepaalt hoeveel van de totaalscore beïnvloed wordt door snelheid.
+  - Standaard is **75%** van de punten vast (iedereen die correct antwoordt krijgt deze, ongeacht snelheid).
+  - Alleen de resterende **25%** wordt beïnvloed door hoe snel spelers reageren.
 
-> 💡 Adjusting this setting lets you make rounds more knowledge-based or more speed-based, depending on your quiz style.
+> 💡 Door deze instelling aan te passen kun je rondes meer op kennis of meer op snelheid maken, afhankelijk van je quiz-stijl.
 
-These scoring options can be found in the round options panel when editing a round.
-
----
-
-## 📜 Quizmaster instructions
-
-You can add a custom **round introduction text** that will appear only on the [Quizmaster app](../quizmaster/introduction) at the start of the round. Use this to brief the presenter or add a personal touch.
+Deze score-opties vind je in het ronde-opties paneel tijdens het bewerken van een ronde.
 
 ---
 
-## 📎 Attachments
+## 📜 Quizmaster instructies
 
-Enhance your round with media shown at specific moments:
+You can add a custom **round introduction text** that will appear only on the [Quizmaster app](../quizmaster/introduction) at the start of the round. Gebruik dit om de presentator in te lichten of een persoonlijk tintje toe te voegen.
 
-- **Before round** — Displayed after the round intro animation
-- **After round** — Shown after the round outro
-- **Before round outro** — Shown after the last question, just before the outro
+---
+
+## 📎 Bijlagen
+
+Versterk je ronde met media die op specifieke momenten worden getoond:
+
+- **Voor de ronde** — Getoond na de ronde-intro animatie
+- **Na de ronde** — Getoond na de ronde-outro
+- **Voor de ronde-outro** — Getoond na de laatste vraag, net voor de outro
 - **During round outro** — _(audio only)_ Plays while rankings are displayed
 - ...
 
