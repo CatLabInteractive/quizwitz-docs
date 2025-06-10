@@ -3,32 +3,32 @@ id: intro
 title: Introduction
 ---
 
-# 🎉 Getting started
+# 🎉 Pour commencer
 
-## Welcome to QuizWitz!
+## Bienvenue sur QuizWitz !
 
-**QuizWitz** is a social quiz platform where you can:
+**QuizWitz** est une plateforme de quiz sociale où tu peux :
 
-- Play fun quiz games with friends or solo
-- Host professional quiz events with live tools
-- Create your own quizzes, rounds, playlists, and more
+- Jouer à des quiz amusants avec des amis ou en solo
+- Organiser des événements quiz professionnels avec des outils en direct
+- Créer tes propres quiz, rounds, playlists, et plus encore
 
-Whether you're here to relax, present, or build — we've got you covered.
+Que tu sois là pour te détendre, présenter ou créer — on est là pour toi.
 
-Take a moment to explore the different roles and tools available. It’ll only take a minute.
-
----
-
-## 👥 Players and creators
-
-This guide is divided into sections based on how you use QuizWitz:
-
-- [**Player Guide**](players/001-playing-quizwitz.md) — Learn how to collect, play, and enjoy quizzes
-- [**Quizmaker Guide**](editor/002-for-the-quizmakers.md) — Build your own questions, rounds, and full quizzes
-- [**Quizmaster Guide**](quizmaster/001-introduction.md) — Host a live game using QuizWitz Live
-
-Explore the sections that fit your role — or all of them if you're curious!
+Prends un moment pour découvrir les différents rôles et outils disponibles. Ça ne prendra qu'une minute.
 
 ---
 
-Ready to jump in? Let’s get quizzing.
+## 👥 Joueurs et créateurs
+
+Ce guide est divisé en sections selon comment tu utilises QuizWitz :
+
+- [**Guide du Joueur**](players/001-playing-quizwitz.md) — Apprends à collectionner, jouer et apprécier les quiz
+- [**Guide du Quizmaker**](editor/002-for-the-quizmakers.md) — Crée tes propres questions, rounds, et quiz complets
+- [**Guide du Quizmaster**](quizmaster/001-introduction.md) — Anime une partie en direct avec QuizWitz Live
+
+Explore les sections qui correspondent à ton rôle — ou toutes si tu es curieux !
+
+---
+
+Prêt à te lancer ? C'est parti pour le quiz.
