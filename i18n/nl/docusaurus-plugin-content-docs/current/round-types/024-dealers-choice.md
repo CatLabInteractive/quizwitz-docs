@@ -6,8 +6,7 @@ title: Keuze van de dealer
 # 🃏 Keuze van de dealer
 
 De **Dealers’ Choice** ronde in QuizWitz voegt een strategische draai toe aan je quiz.
-One of the players gets to **choose the next question category**, giving them a potential
-edge—and possibly a bonus! Zo stel je het in en speel je het:
+Een van de spelers mag **de volgende vraagcategorie kiezen**, wat hen een potentieel voordeel geeft—en misschien een bonus! Zo stel je het in en speel je het:
 
 ---
 
@@ -61,8 +60,8 @@ Voordat de ronde begint, bepaalt QuizWitz de dealer met een van deze opties:
 
 ### Scoreopties:
 
-- **Scoring strategy:** Choose _Dealer Bonus_
-- **Tijdbasiert scoren:** Stel het minimale percentage punten in dat behouden blijft bij langzamere antwoorden (bijv. 75%)
+- **Scoring strategie:** Kies _Dealer Bonus_
+- **Score op tijd:** Stel het minimum percentage punten in voor langzamere antwoorden (bijv. 75%)
 
 ---
 
