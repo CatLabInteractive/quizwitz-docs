@@ -1,36 +1,36 @@
 ---
 id: tiebreaker-question
-title: Tiebreaker question
+title: Tiebreaker vraag
 ---
 
-# 🏁 Tiebreaker question
+# 🏁 Tiebreaker vraag
 
+De Tiebreaker vraag wordt gebruikt om gelijke standen aan het einde van een quiz te beslissen.\
 The Tiebreaker question is used to resolve ties at the end of a quiz.\
-The Tiebreaker question is used to resolve ties at the end of a quiz.\
-Players are asked to guess a number (for example, “How many beans are in the jar?”). The player whose answer is closest to the correct value will win in case of a tie.
+Players are asked to guess a number (for example, “How many beans are in the jar?”). De speler wiens antwoord het dichtst bij de juiste waarde ligt, wint bij een gelijkspel.
 
 ---
 
-## 📝 How it works
+## 📝 Hoe het werkt
 
-- **No points awarded:** The tiebreaker question does not award regular points.
-- **Shadow points:** Instead, it uses “shadow points” that are only considered when two or more players have the same total score.
-- **Closest wins:** The player with the answer closest to the correct value gets the higher position in the event of a tie.
+- **Geen punten toegekend:** De Tiebreaker vraag levert geen reguliere punten op.
+- **Schaduwpuntepunten:** In plaats daarvan worden "schaduwpuntepunten" gebruikt die alleen gelden als twee of meer spelers dezelfde totaalscore hebben.
+- **Dichtstbij wint:** De speler met het antwoord dat het dichtst bij de juiste waarde ligt, krijgt bij een gelijkspel de hogere positie.
 
 ---
 
-## 💡 Tips for tiebreaker questions
+## 💡 Tips voor Tiebreaker vragen
 
-- **Ask for an obscure number:** Choose a question where the answer is not widely known and is unlikely to be guessed exactly.
-- **Encourage unique guesses:** Make sure the question has a wide possible range, so every player is likely to enter a different answer.
-- **Use only for ties:** Shadow points are only used as a tiebreaker and will not affect the main game ranking.
+- **Vraag naar een obscuur getal:** Kies een vraag waarvan het antwoord niet breed bekend is en waarschijnlijk niet precies geraden wordt.
+- **Moedig unieke gokken aan:** Zorg dat de vraag een brede mogelijke range heeft, zodat elke speler waarschijnlijk een ander antwoord invult.
+- **Alleen voor gelijke standen:** Schaduwpuntepunten worden alleen als tiebreaker gebruikt en beïnvloeden niet de hoofdklassement van het spel.
 
 ---
 
 _Example tiebreaker questions:_
 
-- How many jelly beans are in the jar shown on screen?
-- What is the total length (in meters) of all the rivers in Belgium combined?
-- How many bricks were used to build the Empire State Building?
-- What was the attendance at the first ever World Cup final?
+- Hoeveel jelly beans zitten er in het potje op het scherm?
+- Wat is de totale lengte (in meters) van alle rivieren in België samen?
+- Hoeveel bakstenen zijn er gebruikt om het Empire State Building te bouwen?
+- Wat was de opkomst bij de allereerste WK-finale?
 
