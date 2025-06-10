@@ -71,6 +71,7 @@ Je kunt **meerdere bijlagen** in elk vak toevoegen.
 
 > ⚡ **In [QuizWitz Live (PRO)](../quizmaster/introduction):** the quizmaster can choose which attachment to display at each moment.\
 > 🎮 **In regular games:** all attachments in a given slot are shown at once.\
+> 🎮 **In gewone spellen:** worden alle bijlagen in een bepaald vak tegelijkertijd getoond.\
 > 🎮 **In gewone spellen:** worden alle bijlagen in een bepaald vak tegelijkertijd getoond.
 
 📘 Learn more about supported file types, timing tips, and limitations in the [attachments guide](../editor/attachments).
