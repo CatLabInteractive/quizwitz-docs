@@ -4,19 +4,19 @@
     "description": "The title of the footer links column with title=Docs in the footer"
   },
   "link.title.Community": {
-    "message": "Community",
+    "message": "Comunidad",
     "description": "The title of the footer links column with title=Community in the footer"
   },
   "link.title.More": {
-    "message": "More",
+    "message": "Más",
     "description": "The title of the footer links column with title=More in the footer"
   },
   "link.item.label.Getting started": {
-    "message": "Getting started",
+    "message": "Primeros pasos",
     "description": "The label of footer link with label=Getting started linking to /docs/intro"
   },
   "link.item.label.Frequently Asked Questions": {
-    "message": "Frequently Asked Questions",
+    "message": "Preguntas frecuentes",
     "description": "The label of footer link with label=Frequently Asked Questions linking to /docs/faq"
   },
   "link.item.label.Discord": {
@@ -28,7 +28,7 @@
     "description": "The label of footer link with label=Facebook linking to https://www.facebook.com/quizwitz"
   },
   "link.item.label.Website": {
-    "message": "Website",
+    "message": "Sitio web",
     "description": "The label of footer link with label=Website linking to https://www.quizwitz.com/"
   },
   "link.item.label.Blog": {
@@ -36,7 +36,7 @@
     "description": "The label of footer link with label=Blog linking to https://www.quizwitz.com/blog"
   },
   "copyright": {
-    "message": "Copyright © 2025 CatLab Interactive bv. Built with Docusaurus.",
+    "message": "© 2025 CatLab Interactive bv. Creado con Docusaurus.",
     "description": "The footer copyright"
   }
 }
