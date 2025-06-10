@@ -1,11 +1,11 @@
 ---
 id: quiz-options
-title: Quiz options
+title: Quiz-Optionen
 ---
 
-# ⚙️ Quiz options
+# ⚙️ Quiz-Optionen
 
-When creating a quiz, you can open the **Quiz settings** panel to configure global behavior and presentation options. These settings apply to the **entire quiz**.
+Beim Erstellen eines Quiz kannst du das Panel **Quiz-Einstellungen** öffnen, um globale Verhaltens- und Darstellungsoptionen zu konfigurieren. Diese Einstellungen gelten für das **gesamte Quiz**.
 
 | ![Open quiz options](/images/open-quiz-options.png) | ![Quiz options](/images/quiz-options.png) |
 | :-------------------------------------------------: | :---------------------------------------: |
@@ -13,71 +13,71 @@ When creating a quiz, you can open the **Quiz settings** panel to configure glob
 
 ---
 
-## 🌐 Languages
+## 🌐 Sprachen
 
-Select the language in which you're writing the quiz. You can add additional translations later.
+Wähle die Sprache, in der du das Quiz erstellst. Du kannst später zusätzliche Übersetzungen hinzufügen.
 
 ---
 
-## 🎨 Themes
+## 🎨 Themen
 
-Choose a visual theme for your quiz.
+Wähle ein visuelles Thema für dein Quiz.
 
-- The default theme is **QuizWitz**
-- Your organization may have access to custom themes
-- Themes affect background, colors, and layout
+- Das Standardthema ist **QuizWitz**
+- Deine Organisation hat möglicherweise Zugang zu benutzerdefinierten Themen
+- Themen beeinflussen Hintergrund, Farben und Layout
 
 📘 Siehe die [Emerald-Theme-Dokumentation](../advanced/011-emerald-theme.md) für weitere Details zur Anpassung der Optik mit diesem Theme.
 
 ---
 
-## 📎 Attachments
+## 📎 Anhänge
 
-Enhance your quiz with visuals, audio, or video in specific slots:
+Verbessere dein Quiz mit Bildern, Audio oder Video in bestimmten Slots:
 
-- **Before quiz** — Shown when the quiz starts
-- **After quiz** — Played after the final results screen
-- **Client logo / alternative logo** — Displayed throughout the quiz interface
-- **Wait screen** — Displayed between questions in live games (1920×1080 image recommended)
-- **Background** — Optional background replacement (depends on theme)
+- **Vor dem Quiz** — Wird beim Start des Quiz angezeigt
+- **Nach dem Quiz** — Wird nach dem finalen Ergebnisbildschirm abgespielt
+- **Kundenlogo / alternatives Logo** — Werden während der gesamten Quiz-Oberfläche angezeigt
+- **Wartebildschirm** — Angezeigt zwischen Fragen bei Live-Spielen (1920×1080 Bild empfohlen)
+- **Hintergrund** — Optionale Hintergrundersetzung (abhängig vom Thema)
 - **Verbindungsbildschirm** — Wird in den Modi [Live](../quizmaster/001-introduction.md) und [Konferenz](../tutorials/conference-booth) verwendet:
-  - **Images** — Fullscreen background visuals
-  - **Audio** — Looped music (max 15 min)
-  - **Video** — Played every 5 minutes, useful for ads or instructions
+  - **Bilder** — Vollbild-Hintergrundbilder
+  - **Audio** — Endlosschleifen-Musik (max. 15 Min.)
+  - **Video** — Wird alle 5 Minuten abgespielt, nützlich für Werbung oder Anleitungen
 
-🎥 You can use our [ready-made instructional videos](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) to help players connect.
+🎥 Du kannst unsere [fertigen Anleitungsvideos](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) nutzen, um den Spielern den Einstieg zu erleichtern.
 
-- **During game outro** — (Audio only) Plays over the winner reveal screen
+- **Während Outro des Spiels** — (Nur Audio) Wird während der Gewinneranzeige abgespielt
 
 📘 Für technische Details und Empfehlungen siehe den [Anhangsleitfaden](../editor/006-attachments.md).
 
 ---
 
-## 🔧 Extra options
+## 🔧 Zusätzliche Optionen
 
-Optional settings for customizing gameplay and visibility:
+Optionale Einstellungen zur Anpassung von Spielablauf und Sichtbarkeit:
 
-- **Enable multiplayer** — Default ON. Allows party play with friends
-- **Random round order** — Shuffle the order of rounds
+- **Multiplayer aktivieren** — Standardmäßig AN. Ermöglicht Partien mit Freunden
+- **Zufällige Rundereihenfolge** — Mischt die Reihenfolge der Runden
   > ⚠️ Nicht empfohlen bei der Vorbereitung auf [QuizWitz Live](../quizmaster/001-introduction.md)
-- **Allow users to rate questions** — Lets players rate each question after a round
-- **Enable comments** — Allow feedback after publishing
-- **Speed up when all answered** — If enabled, the game skips ahead when all players have answered
-  > ⏱️ Recommended when using **Time-based scoring**
+- **Benutzern erlauben, Fragen zu bewerten** — Ermöglicht den Spielern, nach einer Runde jede Frage zu bewerten
+- **Kommentare aktivieren** — Ermöglicht Feedback nach der Veröffentlichung
+- **Beschleunigen, wenn alle geantwortet haben** — Wenn aktiviert, wird fortgefahren, sobald alle Spieler geantwortet haben
+  > ⏱️ Empfohlen bei Verwendung von **zeitbasierter Bewertung**
 
 ---
 
-## 📤 Share or embed
+## 📤 Teilen oder einbetten
 
-Generates share links or embed code with advanced game settings.
+Generiert Teilungslinks oder Einbettungscode mit erweiterten Spieleinstellungen.
 
 ---
 
-## 📜 Quizmaster copy
+## 📜 Quizmaster-Kopie
 
-Add custom presenter instructions for:
+Füge benutzerdefinierte Moderatorenanweisungen hinzu für:
 
-- **Quiz introduction**
-- **Quiz outro**
+- **Quiz-Einführung**
+- **Quiz-Abschluss**
 
 Diese sind in der [Quizmaster App](../quizmaster/001-introduction.md) sichtbar, wenn QuizWitz Live verwendet wird.
