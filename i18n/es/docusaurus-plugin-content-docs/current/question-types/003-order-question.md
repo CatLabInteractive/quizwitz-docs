@@ -1,54 +1,57 @@
 ---
 id: order-question
-title: Order question
+title: Pregunta de orden
 ---
 
-# 🔀 Order question
+# 🔀 Pregunta de orden
 
 In an **Order question**, players must put up to 4 items in the correct sequence.\
-This round type is great for chronological, ranking, or sequencing challenges.
+This round type is great for chronological, ranking, or sequencing challenges.\
+Este tipo de ronda es ideal para desafíos cronológicos, de ranking o de secuenciación.
 
 ---
 
-![Example: Order question about animals](/images/question-modes/order-question/order-question-example.png)
+![Ejemplo: Pregunta de orden sobre animales](/images/question-modes/order-question/order-question-example.png)
 
 ---
 
-## 📝 How it works
+## 📝 Cómo funciona
 
-- **Question:** Clearly ask what order is required.\
+- **Pregunta:** Formula claramente qué orden se requiere.\
+  **Question:** Clearly ask what order is required.\
   _(Example: “Select the animals in the correct order from least to most legs.”)_
-- **Options:** Enter up to four items. You define the correct sequence.
-- **Player view:** Options are shown in random order. Players **select each item one by one** in the order they think is correct.
-- **Feedback:** After answering, players see the correct order and (optionally) any extra explanation you provide.
+- **Opciones:** Ingresa hasta cuatro elementos. Defines la secuencia correcta.
+- **Vista del jugador:** Las opciones se muestran en orden aleatorio. Los jugadores **seleccionan cada elemento uno por uno** en el orden que creen correcto.
+- **Retroalimentación:** Después de responder, los jugadores ven el orden correcto y (opcionalmente) cualquier explicación adicional que proporciones.
 
 ---
 
-## 🏆 Scoring
+## 🏆 Puntaje
 
 Order questions use **time-based scoring** by default:\
-Faster correct answers earn more points, but most of the points are fixed. Time only affects a portion of the score.\
+Faster correct answers earn more points, but most of the points are fixed. El tiempo solo afecta una parte del puntaje.\
+Time only affects a portion of the score.\
 You can also turn off time-based scoring per question for fixed points only.
 
-See [Scoring options in round settings](../editor/008-round-options.md#-scoring-options) for details.
+Consulta [Opciones de puntaje en la configuración de ronda](../editor/008-round-options.md#-scoring-options) para más detalles.
 
 ---
 
-## ⚙️ Expanded settings
+## ⚙️ Configuración ampliada
 
-Order questions offer flexible settings:
+Las preguntas de orden ofrecen configuraciones flexibles:
 
-- **Time limit:** Set how long players have to answer.
-- **Points:** Set how many points are awarded for a fully correct answer.
+- **Límite de tiempo:** Establece cuánto tiempo tienen los jugadores para responder.
+- **Puntos:** Establece cuántos puntos se otorgan por una respuesta completamente correcta.
 
-See [writing questions](../editor/005-writing-questions.md) for more.
+Consulta [escribir preguntas](../editor/005-writing-questions.md) para más información.
 
 ---
 
-## 💡 Tips for great order questions
+## 💡 Consejos para excelentes preguntas de orden
 
-- **Be specific:** State clearly how you want items ordered (e.g., least to most, oldest to newest).
-- **Choose distinct options:** Avoid items that are too similar or ambiguous.
-- **Explain the answer:** Use feedback to clarify the correct order after the question.
-- **Mix formats:** Try chronological, size-based, or ranking-based questions for variety.
+- **Sé específico:** Indica claramente cómo quieres el orden de los elementos (por ejemplo, de menos a más, del más antiguo al más nuevo).
+- **Elige opciones distintas:** Evita elementos que sean demasiado similares o ambiguos.
+- **Explica la respuesta:** Usa la retroalimentación para aclarar el orden correcto después de la pregunta.
+- **Mezcla formatos:** Prueba preguntas cronológicas, basadas en tamaño o en ranking para variedad.
 
