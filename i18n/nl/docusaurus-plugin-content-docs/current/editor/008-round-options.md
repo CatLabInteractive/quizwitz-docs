@@ -16,8 +16,8 @@ Each round has a specific **type**. The default is **Multiple Choice (Trivia)**,
 To configure a round’s options, click the gear icon in the round panel:
 
 | ![Open round options](/images/open-round-options.png) | ![Round options](/images/round-options.png) |
-|:--:|:--:|
-| *Opening round options* | *Round configuration panel* |
+| :---------------------------------------------------: | :-----------------------------------------: |
+|                _Opening round options_                |         _Round configuration panel_         |
 
 ---
 
@@ -58,7 +58,7 @@ These scoring options can be found in the round options panel when editing a rou
 
 ## 📜 Quizmaster instructions
 
-You can add a custom **round introduction text** that will appear only on the [Quizmaster app](../quizmaster/001-introduction.md) at the start of the round. Use this to brief the presenter or add a personal touch.
+You can add a custom **round introduction text** that will appear only on the [Quizmaster app](../quizmaster/introduction) at the start of the round. Use this to brief the presenter or add a personal touch.
 
 ---
 
@@ -69,7 +69,7 @@ Enhance your round with media shown at specific moments:
 - **Before round** — Displayed after the round intro animation
 - **After round** — Shown after the round outro
 - **Before round outro** — Shown after the last question, just before the outro
-- **During round outro** — *(audio only)* Plays while rankings are displayed
+- **During round outro** — _(audio only)_ Plays while rankings are displayed
 - ...
 
-📘 For supported file types and usage tips, see the [attachments guide](../editor/006-attachments.md).
+📘 For supported file types and usage tips, see the [attachments guide](../editor/attachments).

@@ -23,7 +23,7 @@ Click the **gear icon** in the top-left corner of a question to open its full se
 
 ### 🎮 Mode & scoring
 
-- **Question type** — Choose how the question is played (e.g. multiple choice, open answer, puzzle)  
+- **Question type** — Choose how the question is played (e.g. multiple choice, open answer, puzzle)\
   → Learn more in [question types](../question-types/000-question-types.md)
 - **Points** — Set how many points a correct answer is worth
 - **Question timer** — Adjust the time limit using the slider
@@ -54,6 +54,7 @@ These fields control what appears on the Quizmaster App and big screen:
 > 📝 These fields help make live presentations feel dynamic and polished.
 
 ---
+
 ## 📎 Attachments
 
 ![Question attachments](/images/question-attachments.png)
@@ -68,10 +69,10 @@ You can enhance questions with images, video, or audio. Each attachment can be s
 
 You can add **multiple attachments** in each slot.
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** the quizmaster can choose which attachment to display at each moment.  
+> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/introduction):** the quizmaster can choose which attachment to display at each moment.\
 > 🎮 **In regular games:** all attachments in a given slot are shown at once.
 
-📘 Learn more about supported file types, timing tips, and limitations in the [attachments guide](../editor/006-attachments.md).
+📘 Learn more about supported file types, timing tips, and limitations in the [attachments guide](../editor/attachments).
 
 ---
 
