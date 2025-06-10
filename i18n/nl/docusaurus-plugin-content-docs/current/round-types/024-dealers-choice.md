@@ -1,78 +1,78 @@
 ---
 id: dealers-choice
-title: Dealers' Choice
+title: Keuze van de dealer
 ---
 
-# 🃏 Dealer's choice
+# 🃏 Keuze van de dealer
 
-The **Dealers’ Choice** round in QuizWitz adds a strategic twist to your quiz.
+De **Dealers’ Choice** ronde in QuizWitz voegt een strategische draai toe aan je quiz.
 One of the players gets to **choose the next question category**, giving them a potential
-edge—and possibly a bonus! Here's how to set it up and play:
+edge—and possibly a bonus! Zo stel je het in en speel je het:
 
 ---
 
-## 🔧 How It Works
+## 🔧 Hoe het werkt
 
-In this round, **one player becomes the "dealer"** and selects the next category to play. The method of selection depends on the game mode:
+In deze ronde wordt **één speler de "dealer"** en kiest hij of zij de volgende categorie om te spelen. De methode van keuze hangt af van de spelmodus:
 
-- **Party/Conference Game:** The dealer chooses a category using **their own device**.
-- **Live Game:** The dealer **announces their choice aloud** to the quizmaster.
+- **Feest-/Conferentiespel:** De dealer kiest een categorie via **zijn of haar eigen smart device**.
+- **Live spel:** De dealer **maakt zijn keuze mondeling bekend** aan de quizmaster.
 
 ---
 
-## 🏷️ Assigning Categories to Questions
+## 🏷️ Categorieën toewijzen aan vragen
 
-Each question in the Dealers’ Choice round needs a **unique label**, which acts as the category the dealer sees and selects from.
+Elke vraag in de Dealers’ Choice ronde heeft een **uniek label** nodig, dat fungeert als de categorie die de dealer ziet en kan kiezen.
 
-For example:
+Bijvoorbeeld:
 
-- `Animals – Easy`
-- `Animals – Hard`
-- `History – Fun Facts`
-- `Movies – Action Classics`
+- `Dieren – Makkelijk`
+- `Dieren – Moeilijk`
+- `Geschiedenis – Leuke feiten`
+- `Films – Actieklassiekers`
 
-> Even if questions share a general theme, their labels should still be unique so players can clearly identify and choose them.
+> Zelfs als vragen een algemeen thema delen, moeten hun labels uniek zijn zodat spelers ze duidelijk kunnen herkennen en kiezen.
 
-Labels are set in the **“Label” field** of each question's settings.
+Labels worden ingesteld in het **"Label" veld** van de instellingen van elke vraag.
 
 ---
 
 ## 🏆 Dealer Bonus
 
-If the dealer correctly answers the question they chose, they can receive a **bonus**:
+Als de dealer de door hem gekozen vraag goed beantwoordt, kan hij een **bonus** ontvangen:
 
-- Configure the **bonus percentage** (e.g. 50%) in the **Dealer Bonus** setting.
+- Stel het **bonuspercentage** in (bijv. 50%) in de **Dealer Bonus** instelling.
 
-> The bonus only applies if the dealer’s answer is correct.
-
----
-
-## 👑 Dealer Selection
-
-Before the round starts, QuizWitz determines the dealer using one of these options:
-
-- Highest ranked player goes first
-- Lowest ranked player goes first
-- At random - Dealer is chosen randomly
-
-> Rankings are locked in **at the beginning of the round**.
+> De bonus geldt alleen als het antwoord van de dealer correct is.
 
 ---
 
-### Scoring Options:
+## 👑 Dealer Selectie
+
+Voordat de ronde begint, bepaalt QuizWitz de dealer met een van deze opties:
+
+- De hoogst gerangschikte speler begint
+- De laagst gerangschikte speler begint
+- Willekeurig - Dealer wordt willekeurig gekozen
+
+> De rankings worden **aan het begin van de ronde** vastgezet.
+
+---
+
+### Scoreopties:
 
 - **Scoring strategy:** Choose _Dealer Bonus_
-- **Time-based scoring:** Set the minimum percentage of points retained for slower answers (e.g. 75%)
+- **Tijdbasiert scoren:** Stel het minimale percentage punten in dat behouden blijft bij langzamere antwoorden (bijv. 75%)
 
 ---
 
-## 📝 Tips for Quizmasters
+## 📝 Tips voor quizmasters
 
-- Let players know they’ll be choosing from labeled categories.
-- In live games, be sure to note the dealer’s selection clearly.
-- Use unique, descriptive labels to avoid confusion during selection.
+- Laat spelers weten dat ze uit gelabelde categorieën zullen kiezen.
+- Zorg ervoor dat je de keuze van de dealer duidelijk noteert bij live spellen.
+- Gebruik unieke, beschrijvende labels om verwarring tijdens de keuze te voorkomen.
 
 ---
 
-The Dealers’ Choice round encourages interaction and gives players a bit of control, while still rewarding quick and correct answers. It’s a great way to keep everyone engaged!
+De Dealers’ Choice ronde stimuleert interactie en geeft spelers wat controle, terwijl het toch snelle en juiste antwoorden beloont. Het is een geweldige manier om iedereen betrokken te houden!
 
