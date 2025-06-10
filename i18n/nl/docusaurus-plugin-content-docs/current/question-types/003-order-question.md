@@ -1,57 +1,57 @@
 ---
 id: order-question
-title: Order question
+title: Volgorde vraag
 ---
 
-# 🔀 Order question
+# 🔀 Volgorde vraag
 
 In an **Order question**, players must put up to 4 items in the correct sequence.\
 This round type is great for chronological, ranking, or sequencing challenges.\
-This round type is great for chronological, ranking, or sequencing challenges.
+Dit type ronde is ideaal voor chronologische, rangschikking- of volgorde-uitdagingen.
 
 ---
 
-![Example: Order question about animals](/images/question-modes/order-question/order-question-example.png)
+![Voorbeeld: Volgorde vraag over dieren](/images/question-modes/order-question/order-question-example.png)
 
 ---
 
-## 📝 How it works
+## 📝 Hoe het werkt
 
-- **Question:** Clearly ask what order is required.\
+- **Vraag:** Vraag duidelijk welke volgorde vereist is.\
   **Question:** Clearly ask what order is required.\
   _(Example: “Select the animals in the correct order from least to most legs.”)_
-- **Options:** Enter up to four items. You define the correct sequence.
-- **Player view:** Options are shown in random order. Players **select each item one by one** in the order they think is correct.
-- **Feedback:** After answering, players see the correct order and (optionally) any extra explanation you provide.
+- **Opties:** Voer tot vier items in. Jij bepaalt de juiste volgorde.
+- **Spelersweergave:** Opties worden in willekeurige volgorde getoond. Spelers **selecteren elk item één voor één** in de volgorde die zij denken dat correct is.
+- **Feedback:** Na het beantwoorden zien spelers de juiste volgorde en eventueel extra uitleg die je geeft.
 
 ---
 
-## 🏆 Scoring
+## 🏆 Puntenverdeling
 
 Order questions use **time-based scoring** by default:\
-Faster correct answers earn more points, but most of the points are fixed. Time only affects a portion of the score.\
+Faster correct answers earn more points, but most of the points are fixed. Tijd beïnvloedt slechts een deel van de score.\
 Time only affects a portion of the score.\
 You can also turn off time-based scoring per question for fixed points only.
 
-See [Scoring options in round settings](../editor/008-round-options.md#-scoring-options) for details.
+Zie [Puntenopties in ronde-instellingen](../editor/008-round-options.md#-scoring-options) voor details.
 
 ---
 
-## ⚙️ Expanded settings
+## ⚙️ Uitgebreide instellingen
 
-Order questions offer flexible settings:
+Volgorde vragen bieden flexibele instellingen:
 
-- **Time limit:** Set how long players have to answer.
-- **Points:** Set how many points are awarded for a fully correct answer.
+- **Tijdslimiet:** Stel in hoe lang spelers hebben om te antwoorden.
+- **Punten:** Stel in hoeveel punten worden toegekend voor een volledig correct antwoord.
 
-See [writing questions](../editor/005-writing-questions.md) for more.
+Zie [vragen schrijven](../editor/005-writing-questions.md) voor meer.
 
 ---
 
-## 💡 Tips for great order questions
+## 💡 Tips voor geweldige volgorde vragen
 
-- **Be specific:** State clearly how you want items ordered (e.g., least to most, oldest to newest).
-- **Choose distinct options:** Avoid items that are too similar or ambiguous.
-- **Explain the answer:** Use feedback to clarify the correct order after the question.
-- **Mix formats:** Try chronological, size-based, or ranking-based questions for variety.
+- **Wees specifiek:** Geef duidelijk aan hoe je items gerangschikt wilt hebben (bijv. van minst naar meest, van oudste naar nieuwste).
+- **Kies onderscheidende opties:** Vermijd items die te vergelijkbaar of onduidelijk zijn.
+- **Leg het antwoord uit:** Gebruik feedback om de juiste volgorde na de vraag te verduidelijken.
+- **Mix formaten:** Probeer chronologische, op grootte gebaseerde, of op rangorde gebaseerde vragen voor afwisseling.
 
