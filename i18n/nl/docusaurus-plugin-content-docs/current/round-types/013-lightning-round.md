@@ -31,7 +31,10 @@ Zie [ronde-opties](../editor/008-round-options.md) voor details over het configu
 
 ## 🎵 Bijlagen — Aftel muziek
 
-- Je kunt een **Ronde Bijlage** instellen in de slot "Speel af tijdens vraag aftellen."\
+- You can set a **Round Attachment** in the slot “Play during question countdown.”\
+  You can set a **Round Attachment** in the slot “Play during question countdown.”\
+  This audio attachment will play **continuously** as the countdown music during the entire lightning round, only stopping after the last question.\
+  Je kunt een **Ronde Bijlage** instellen in de slot "Speel af tijdens vraag aftellen."\
   You can set a **Round Attachment** in the slot “Play during question countdown.”\
   This audio attachment will play **continuously** as the countdown music during the entire lightning round, only stopping after the last question.
 - Gebruik energieke of spannende muziek om de opwinding te vergroten en de spelers alert te houden.
