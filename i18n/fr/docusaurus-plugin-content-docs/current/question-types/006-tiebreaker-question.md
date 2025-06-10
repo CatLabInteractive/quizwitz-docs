@@ -1,35 +1,36 @@
 ---
 id: tiebreaker-question
-title: Tiebreaker question
+title: Question de départage
 ---
 
-# 🏁 Tiebreaker question
+# 🏁 Question de départage
 
+La question de départage est utilisée pour résoudre les égalités à la fin d'un quiz.\
 The Tiebreaker question is used to resolve ties at the end of a quiz.\
-Players are asked to guess a number (for example, “How many beans are in the jar?”). The player whose answer is closest to the correct value will win in case of a tie.
+Players are asked to guess a number (for example, “How many beans are in the jar?”). Le joueur dont la réponse est la plus proche de la valeur correcte l'emportera en cas d'égalité.
 
 ---
 
-## 📝 How it works
+## 📝 Comment ça marche
 
-- **No points awarded:** The tiebreaker question does not award regular points.
-- **Shadow points:** Instead, it uses “shadow points” that are only considered when two or more players have the same total score.
-- **Closest wins:** The player with the answer closest to the correct value gets the higher position in the event of a tie.
+- **Aucun point attribué :** La question de départage n'attribue pas de points classiques.
+- **Points fantômes :** À la place, elle utilise des « points fantômes » qui ne sont pris en compte que lorsque deux joueurs ou plus ont le même score total.
+- **Le plus proche gagne :** Le joueur avec la réponse la plus proche de la valeur correcte obtient la meilleure position en cas d'égalité.
 
 ---
 
-## 💡 Tips for tiebreaker questions
+## 💡 Conseils pour les questions de départage
 
-- **Ask for an obscure number:** Choose a question where the answer is not widely known and is unlikely to be guessed exactly.
-- **Encourage unique guesses:** Make sure the question has a wide possible range, so every player is likely to enter a different answer.
-- **Use only for ties:** Shadow points are only used as a tiebreaker and will not affect the main game ranking.
+- **Demande un nombre obscur :** Choisis une question dont la réponse n'est pas largement connue et qu'on ne peut pas deviner exactement.
+- **Encourage les réponses uniques :** Assure-toi que la question offre une large plage de réponses possibles, pour que chaque joueur donne une réponse différente.
+- **Utilise uniquement pour les égalités :** Les points fantômes sont uniquement utilisés comme départage et n’affectent pas le classement principal du jeu.
 
 ---
 
 _Example tiebreaker questions:_
 
-- How many jelly beans are in the jar shown on screen?
-- What is the total length (in meters) of all the rivers in Belgium combined?
-- How many bricks were used to build the Empire State Building?
-- What was the attendance at the first ever World Cup final?
+- Combien de jelly beans y a-t-il dans le bocal affiché à l'écran ?
+- Quelle est la longueur totale (en mètres) de tous les fleuves combinés en Belgique ?
+- Combien de briques ont été utilisées pour construire l'Empire State Building ?
+- Quelle était l'affluence lors de la toute première finale de la Coupe du Monde ?
 
