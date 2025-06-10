@@ -1,79 +1,87 @@
 ---
 id: conference-booth
-title: Conference booth
+title: Messestand
 ---
 
-# Conference booth
+# Messestand
 
-This tutorial will show you how to run QuizWitz at your conference booth — an easy, interactive way to attract visitors and gather leads!
+Dieses Tutorial zeigt dir, wie du QuizWitz an deinem Messestand einsetzt — eine einfache, interaktive Möglichkeit, Besucher anzuziehen und Kontakte zu sammeln!
 
-![A photo of a Marvel conference booth using QuizWitz](/images/photos/marvel.jpg)
+![Ein Foto von einem Marvel-Messestand, der QuizWitz nutzt](/images/photos/marvel.jpg)
 
 ---
 
-## 📝 Creating the quiz
+## 📝 Das Quiz erstellen
 
+Beim Erstellen eines Quiz für den Messestand beachte, dass manche Spieler für mehrere Spiele bleiben.\
 When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.\
 To keep things fresh, make sure you have plenty of questions — enough to randomize and make each playthrough unique.
 
-**Recommended setup:**
+**Empfohlene Einrichtung:**
 
-- 15 questions split into 3 rounds
-- Create at least 3× that many questions for variety — more is better!
+- 15 Fragen, aufgeteilt auf 3 Runden
+- Erstelle mindestens das Dreifache an Fragen für mehr Vielfalt — mehr ist besser!
 
-### 🎲 Step-by-step quiz creation
+### 🎲 Schritt-für-Schritt zum Quiz
 
-1. **Choose “Quiz”** in the Create menu and give your quiz a name. Set the correct language.
-2. **Add 3 rounds** and name them (for example: Round 1, Round 2, Round 3).
+1. **Wähle „Quiz“** im Erstellen-Menü und gib deinem Quiz einen Namen. Stelle die richtige Sprache ein.
+2. **Füge 3 Runden hinzu** und benenne sie (z.B. Runde 1, Runde 2, Runde 3).
 3. In the **Round settings** (cog icon), enable **“Only show x questions”** and set the number to 5.\
   Also enable **“Random question order”** — otherwise the game will always pick the first 5 questions.\
-  Repeat for each round.
+  Repeat for each round.\
+  Aktiviere auch **„Fragenreihenfolge zufällig“** — sonst werden immer die ersten 5 Fragen gewählt.\
+  Wiederhole das für jede Runde.
 
-![Screenshot of round settings for a conference booth](/images/tutorials/conference/round_settings.png)
+![Screenshot der Rundeneinstellungen für einen Messestand](/images/tutorials/conference/round_settings.png)
 
 4. **Füge Fragen zu jeder Runde hinzu.**\
   Du kannst [Fragen schreiben](../editor/005-writing-questions.md) oder die Import-Schaltfläche verwenden, um schnell Inhalte aus Excel hinzuzufügen.
 
 :::tip
-Use lots of images and video clips — they make the game much more entertaining!
+Nutze viele Bilder und Videoclips — sie machen das Spiel viel unterhaltsamer!
 :::
 
 ---
 
-### 🔀 How random selection works
+### 🔀 Wie die zufällige Auswahl funktioniert
 
-Each time the quiz runs, QuizWitz will select 5 random questions from each round. The system will distribute questions fairly so repeats are minimized.
+Jedes Mal, wenn das Quiz läuft, wählt QuizWitz 5 zufällige Fragen aus jeder Runde aus. Das System verteilt die Fragen fair, sodass Wiederholungen minimiert werden.
 
 ---
 
-## 🚀 Launch the quiz
+## 🚀 Starte das Quiz
 
-The fastest way to launch your conference quiz:
+Der schnellste Weg, dein Konferenzquiz zu starten:
 
-1. Click **Play quiz**.
-2. Select **Start Conference Mode**.
+1. Klicke auf **Quiz starten**.
+2. Wähle **Konferenzmodus starten**.
 
+In diesem Modus verbinden sich die Spieler mit ihren Smartphones über den Hauptbildschirm-Link zum Spiel.\
+Wenn alle bereit sind, drückt der Standbetreuer Enter — und das Spiel startet automatisch.\
 In this mode, players use their phones to connect to the game link on the main screen.\
 When everyone is ready, the booth host presses Enter — and the game runs automatically.\
 After the game ends, pressing Enter brings you right back to the connection screen for the next group.
 
 ---
 
-## ⚙️ Advanced game options
+## ⚙️ Erweiterte Spieloptionen
 
+Willst du mehr Kontrolle?\
 Want more control?\
 Choose **Advanced game options** and select **Conference mode** in the mode selector.\
-You’ll get a unique link with all your chosen options.
+You’ll get a unique link with all your chosen options.\
+Du erhältst einen einzigartigen Link mit all deinen gewählten Einstellungen.
 
 - **Ask players’ email:**\
-  Collect visitor emails for your booth! If you enable this, be sure to also set your **Privacy Policy URL**.
-- When launching a game via the advanced options link, you may be prompted to log in before starting — this checks your content and licenses.
+  Collect visitor emails for your booth! Wenn du das aktivierst, vergiss nicht, auch deine **Datenschutzerklärung-URL** anzugeben.
+- Beim Starten eines Spiels über den erweiterten Optionen-Link wirst du eventuell aufgefordert, dich anzumelden — das prüft deine Inhalte und Lizenzen.
 
-![Screenshot of advanced game settings](/images/tutorials/conference/advanced_game_settings.png)
+![Screenshot der erweiterten Spieleinstellungen](/images/tutorials/conference/advanced_game_settings.png)
 
 ---
 
-## 🎨 Theming
+## 🎨 Gestaltung
 
+Willst du das Spiel an dein Stand-Branding anpassen?\
 Want to match the game to your booth branding?\
 Sieh dir unseren [Theming-Guide](../advanced/011-emerald-theme.md) für Tipps zur Anpassung deines QuizWitz-Erlebnisses an.
