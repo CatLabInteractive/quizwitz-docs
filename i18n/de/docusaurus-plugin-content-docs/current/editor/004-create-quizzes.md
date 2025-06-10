@@ -35,7 +35,7 @@ On the left sidebar, you’ll be able to:
 
 - Name the round
 - Choose a category
-- [Import questions](../editor/015-importing-questions.md) in bulk
+- [Fragen importieren](../editor/015-importing-questions.md) en masse
 
 ![Create new round in quiz](/images/quiz-add-round.png)
 
@@ -45,7 +45,7 @@ In the main editor, you can:
 - Reorder rounds or questions using the **arrow buttons**
 - Delete rounds or questions using the **trash bin icon**
 
-> 💡 Use the **Import questions** tool to quickly add multiple questions at once. Just follow the on-screen instructions and [check that everything imported correctly](../editor/015-importing-questions.md).
+> 💡 Use the **Import questions** tool to quickly add multiple questions at once. Folge einfach den Anweisungen auf dem Bildschirm und [prüfe, ob alles korrekt importiert wurde](../editor/015-importing-questions.md).
 
 ---
 
@@ -78,9 +78,9 @@ When you're ready to test or run your quiz, press the **Start Quiz** button. You
 
 ![Quiz playlinks](/images/quiz-playlinks.png)
 
-- **[Play Party Game](../players/001-playing-quizwitz.md)** — A casual quiz experience to enjoy with friends on the same screen or via screenshare
-- **[Start QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Launch a professional live quiz event using the Quizmaster App
-- **[Start Conference Mode (PRO)](../tutorials/050-conference-booth.md)** — Host a conference-style quiz for larger audiences with assigned seating, team codes, and production tools
+- **[Party-Spiel spielen](../players/001-playing-quizwitz.md)** — Ein lockeres Quiz-Erlebnis, das du mit Freunden auf demselben Bildschirm oder per Screensharing genießen kannst
+- **[Starte QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Starte ein professionelles Live-Quiz-Event mit der Quizmaster-App
+- **[Starte den Konferenzmodus (PRO)](../tutorials/050-conference-booth.md)** — Veranstalte ein konferenzstil-Quiz für größere Publikum mit zugewiesenen Sitzplätzen, Teamcodes und Produktionstools
 
 ---
 
@@ -89,7 +89,7 @@ When you're ready to test or run your quiz, press the **Start Quiz** button. You
 Want to simulate a full quiz run-through? Use the advanced testing tools:
 
 - **Simulate** — Run a test playthrough with bots (no presentation)
-- **Simulate Live** — Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) session with bots, including Quizmaster, Jury, and Player views
+- **Simuliere Live** — Simuliere eine vollständige [QuizWitz Live](../quizmaster/001-introduction.md)-Sitzung mit Bots, einschließlich der Ansichten von Quizmaster, Jury und Spieler
 
 ---
 
