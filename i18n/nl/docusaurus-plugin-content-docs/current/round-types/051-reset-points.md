@@ -6,6 +6,7 @@ title: Reset Points
 # 🔄 Reset points
 
 **Reset points** is a special event (not a question round) that sets the score of all players or teams back to zero.\
+This can be used to level the playing field, add suspense, or introduce new phases in your quiz.\
 This can be used to level the playing field, add suspense, or introduce new phases in your quiz.
 
 ---
