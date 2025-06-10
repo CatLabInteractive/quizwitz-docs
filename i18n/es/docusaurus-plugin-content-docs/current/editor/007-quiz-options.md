@@ -27,7 +27,7 @@ Choose a visual theme for your quiz.
 - Your organization may have access to custom themes
 - Themes affect background, colors, and layout
 
-📘 See the [Emerald theme documentation](../advanced/011-emerald-theme.md) for more details on customizing visuals with this theme.
+📘 Consulta la [documentación del tema Emerald](../advanced/011-emerald-theme.md) para más detalles sobre cómo personalizar los visuales con este tema.
 
 ---
 
@@ -40,7 +40,7 @@ Enhance your quiz with visuals, audio, or video in specific slots:
 - **Client logo / alternative logo** — Displayed throughout the quiz interface
 - **Wait screen** — Displayed between questions in live games (1920×1080 image recommended)
 - **Background** — Optional background replacement (depends on theme)
-- **Connect screen** — Used in [Live](../quizmaster/001-introduction.md) and [Conference](../tutorials/conference-booth) modes:
+- **Pantalla de conexión** — Se usa en los modos [Live](../quizmaster/001-introduction.md) y [Conference](../tutorials/conference-booth):
   - **Images** — Fullscreen background visuals
   - **Audio** — Looped music (max 15 min)
   - **Video** — Played every 5 minutes, useful for ads or instructions
@@ -49,7 +49,7 @@ Enhance your quiz with visuals, audio, or video in specific slots:
 
 - **During game outro** — (Audio only) Plays over the winner reveal screen
 
-📘 For technical details and recommendations, see the [attachments guide](../editor/006-attachments.md).
+📘 Para detalles técnicos y recomendaciones, consulta la [guía de attachments](../editor/006-attachments.md).
 
 ---
 
@@ -59,7 +59,7 @@ Optional settings for customizing gameplay and visibility:
 
 - **Enable multiplayer** — Default ON. Allows party play with friends
 - **Random round order** — Shuffle the order of rounds
-  > ⚠️ Not recommended when preparing for [QuizWitz Live](../quizmaster/001-introduction.md)
+  > ⚠️ No recomendado al prepararte para [QuizWitz Live](../quizmaster/001-introduction.md)
 - **Allow users to rate questions** — Lets players rate each question after a round
 - **Enable comments** — Allow feedback after publishing
 - **Speed up when all answered** — If enabled, the game skips ahead when all players have answered
@@ -80,4 +80,4 @@ Add custom presenter instructions for:
 - **Quiz introduction**
 - **Quiz outro**
 
-These are visible on the [Quizmaster app](../quizmaster/001-introduction.md) when using QuizWitz Live.
+Estos son visibles en la [app Quizmaster](../quizmaster/001-introduction.md) cuando se usa QuizWitz Live.
