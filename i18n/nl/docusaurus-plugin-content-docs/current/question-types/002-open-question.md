@@ -1,69 +1,69 @@
 ---
 id: open-question
-title: Open question
+title: Open vraag
 ---
 
-# 💬 Open question
+# 💬 Open vraag
 
-An open question lets players type their answer freely using their keyboard. This mode is perfect for questions where you want written responses — for example, names, numbers, or short explanations.
-
----
-
-![Example: Open question about music](/images/question-modes/open-question/open-question.png)
+Een open vraag laat spelers hun antwoord vrij typen met hun toetsenbord. Deze modus is perfect voor vragen waarbij je schriftelijke antwoorden wilt — bijvoorbeeld namen, cijfers of korte uitleg.
 
 ---
 
-## 📝 How it works
-
-- **Question:** Ask for a specific answer in a freeform text field (example: “Which duo performs this song?”).
-- **Answer:** Players type in their response. You can provide multiple accepted answers for automatic validation.
-- **Attachments:** Add audio, images, or video as a clue (for example, play a music clip).
-- **Feedback:** Players see after answering if their response was marked correct or not. You can also provide additional feedback or explanations.
+![Voorbeeld: Open vraag over muziek](/images/question-modes/open-question/open-question.png)
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Hoe het werkt
 
-Open questions offer a range of settings to fit your quiz:
-
-- **Multiple accepted answers:** Add alternate spellings, abbreviations, or synonyms for more flexible auto-correction.
-- **Time-based scoring:** Reward faster answers (see “Scoring” below).
-- **Force automatic correction:** Enable this to let the game automatically mark correct answers based on your provided list.
-    - If not enabled (the default for most live games), open answers must be reviewed and scored manually using the [Jury app](../quizmaster/004-jury-app.md).
-
-For more on these options, see [writing questions](../editor/005-writing-questions.md).
+- **Vraag:** Vraag om een specifiek antwoord in een vrij tekstveld (voorbeeld: "Welk duo zingt dit nummer?").
+- **Antwoord:** Spelers typen hun antwoord in. Je kunt meerdere geaccepteerde antwoorden opgeven voor automatische controle.
+- **Bijlagen:** Voeg audio, afbeeldingen of video toe als hint (bijvoorbeeld een muziekfragment afspelen).
+- **Feedback:** Spelers zien na het antwoorden of hun antwoord als correct is gemarkeerd. Je kunt ook extra feedback of uitleg geven.
 
 ---
 
-## 🏆 Scoring for open questions
+## ⚙️ Uitgebreide instellingen
 
-Scoring in open questions is designed to be fair, even for slower typers:
+Open vragen bieden een reeks instellingen die bij je quiz passen:
 
-- **Time-based scoring** divides the available points into blocks, not a strict per-millisecond countdown.
-- For example, answering in the first block (e.g. first 5 seconds) gives full points; the next block gives 80%, and so on. This helps reduce the penalty for slow typers.
-- By default, only **25%** of the points depend on speed — the remaining **75%** is fixed, so everyone who answers correctly gets most of the points, regardless of typing speed.
+- **Meerdere geaccepteerde antwoorden:** Voeg alternatieve spellingen, afkortingen of synoniemen toe voor flexibeler automatisch corrigeren.
+- **Tijdgebonden scoring:** Beloon snellere antwoorden (zie "Scoring" hieronder).
+- **Forceer automatische correctie:** Schakel dit in om het spel automatisch juiste antwoorden te laten markeren op basis van jouw lijst.
+    - Als dit niet ingeschakeld is (de standaard voor de meeste live spellen), moeten open antwoorden handmatig worden beoordeeld en gescoord met de [Jury app](../quizmaster/004-jury-app.md).
 
-> ⚙️ **Tip:** You can further adjust scoring behavior and other settings in the [Round options](../editor/008-round-options.md).
-
----
-
-## 🧑‍⚖️ Jury review in QuizWitz Live
-
-In **QuizWitz Live**, open questions generally require a manual review with the [Jury app](../quizmaster/004-jury-app.md):
-
-- The Jury app lets jury members accept, reject, or adjust scoring for open answers.
-- Phonetic and alternative matching helps, but human judgment is essential for fair scoring and creativity.
-- For full instructions and features, see the [Jury app documentation](../quizmaster/004-jury-app.md).
+Voor meer over deze opties, zie [vragen schrijven](../editor/005-writing-questions.md).
 
 ---
 
-## 💡 Tips for great open questions
+## 🏆 Scoring voor open vragen
 
-- **Be specific:** Tell players exactly what you want them to answer.
-- **Anticipate variations:** Add common abbreviations, alternate spellings, or synonyms to accepted answers.
-- **Use attachments:** Add audio, images, or video to make your question clearer or more engaging.
-- **Coordinate with your jury:** Make sure your jury knows what to accept for subjective or tricky answers.
+De scoring bij open vragen is ontworpen om eerlijk te zijn, ook voor langzamere typers:
+
+- **Tijdgebonden scoring** deelt de beschikbare punten op in blokken, geen strikte aftelling per milliseconde.
+- Bijvoorbeeld, antwoorden binnen het eerste blok (bijv. de eerste 5 seconden) geeft volledige punten; het volgende blok 80%, enzovoort. Dit helpt de straf voor langzamere typers te verminderen.
+- Standaard hangt slechts **25%** van de punten af van snelheid — de overige **75%** is vast, dus iedereen die correct antwoordt krijgt het grootste deel van de punten, ongeacht typesnelheid.
+
+> ⚙️ **Tip:** Je kunt het scoregedrag verder aanpassen en andere instellingen wijzigen in de [Rondeopties](../editor/008-round-options.md).
 
 ---
 
-For more about attachments and feedback, see the [Attachments documentation](../editor/006-attachments.md).
+## 🧑‍⚖️ Jury-beoordeling in QuizWitz Live
+
+In **QuizWitz Live** vereisen open vragen meestal een handmatige beoordeling met de [Jury app](../quizmaster/004-jury-app.md):
+
+- De Jury app laat juryleden open antwoorden accepteren, afwijzen of de scoring aanpassen.
+- Fonetic en alternatieve matching helpt, maar menselijke beoordeling is essentieel voor eerlijke scoring en creativiteit.
+- Voor volledige instructies en functies, zie de [Jury app documentatie](../quizmaster/004-jury-app.md).
+
+---
+
+## 💡 Tips voor geweldige open vragen
+
+- **Wees specifiek:** Vertel spelers precies wat je wilt dat ze antwoorden.
+- **Anticipeer op variaties:** Voeg gangbare afkortingen, alternatieve spellingen of synoniemen toe aan geaccepteerde antwoorden.
+- **Gebruik bijlagen:** Voeg audio, afbeeldingen of video toe om je vraag duidelijker of aantrekkelijker te maken.
+- **Stem af met je jury:** Zorg dat je jury weet wat ze moeten accepteren voor subjectieve of lastige antwoorden.
+
+---
+
+Voor meer over bijlagen en feedback, zie de [Bijlagen documentatie](../editor/006-attachments.md).
