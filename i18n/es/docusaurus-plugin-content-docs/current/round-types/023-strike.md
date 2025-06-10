@@ -1,38 +1,38 @@
 ---
 id: strike
-title: Strike
+title: Serie
 ---
 
-# 📈 Strike
+# 📈 Serie
 
-In a **Strike** round, players can climb through multiple levels by answering consecutive questions correctly. The higher their streak, the more points they can earn!
-
----
-
-## 📝 How it works
-
-- Players start at level 1.
-- Each time a player answers correctly, they advance to the next level.
-- Every level increases the points they can earn on the next question.
-- If a player gets a question wrong, they drop down a configurable number of levels (not necessarily all the way to the start).
-- By default, there are **5 levels** and each level grants **20% extra points** (e.g. 100% → 120% → 140%...), but both the number of levels, the extra percentage per level, and the drop amount for wrong answers are configurable in the round settings.
+En una ronda de **Serie**, los jugadores pueden avanzar por múltiples niveles respondiendo correctamente preguntas consecutivas. ¡Cuanto mayor sea su racha, más puntos pueden ganar!
 
 ---
 
-## ⚙️ Settings
+## 📝 Cómo funciona
 
-- **Number of levels:** Set how many levels a player can climb (default is 5).
-- **Point increase per level:** Set how much each level increases the next question’s points (default is 20% per level).
-- **Levels lost on wrong answer:** Configure how many levels a player drops if they answer incorrectly.
-
----
-
-## 💡 Tips
-
-- **Reward consistency!** The longer a player keeps answering correctly, the more their score multiplies.
-- Use for fast-paced or competitive rounds to add excitement and risk.
-- Mix easy and challenging questions to shake up the streaks.
+- Los jugadores comienzan en el nivel 1.
+- Cada vez que un jugador responde correctamente, avanza al siguiente nivel.
+- Cada nivel aumenta los puntos que pueden ganar en la siguiente pregunta.
+- Si un jugador responde mal a una pregunta, desciende un número configurable de niveles (no necesariamente hasta el inicio).
+- Por defecto, hay **5 niveles** y cada nivel otorga un **20% de puntos extra** (p. ej., 100% → 120% → 140%...), pero tanto el número de niveles, el porcentaje extra por nivel y la cantidad de niveles que se pierden tras una respuesta incorrecta son configurables en los ajustes de la ronda.
 
 ---
 
-For more on round settings and advanced configuration, see [Round options](../editor/008-round-options.md).
+## ⚙️ Ajustes
+
+- **Número de niveles:** Ajusta cuántos niveles puede subir un jugador (por defecto 5).
+- **Incremento de puntos por nivel:** Ajusta cuánto aumenta cada nivel los puntos de la siguiente pregunta (por defecto 20% por nivel).
+- **Niveles perdidos por respuesta incorrecta:** Configura cuántos niveles pierde un jugador si responde mal.
+
+---
+
+## 💡 Consejos
+
+- **¡Premia la constancia!** Cuanto más tiempo un jugador responda correctamente, más se multiplica su puntuación.
+- Úsalo para rondas rápidas o competitivas para añadir emoción y riesgo.
+- Mezcla preguntas fáciles y desafiantes para variar las rachas.
+
+---
+
+Para más información sobre los ajustes de ronda y configuración avanzada, consulta [Opciones de ronda](../editor/008-round-options.md).
