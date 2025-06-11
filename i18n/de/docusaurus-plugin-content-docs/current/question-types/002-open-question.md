@@ -1,69 +1,69 @@
 ---
 id: open-question
-title: Offene Frage
+title: Frage öffnen
 ---
 
-# 💬 Offene Frage
+# :speak_balloon: Frage öffnen
 
-Eine offene Frage erlaubt es Spielern, ihre Antwort frei mit der Tastatur einzugeben. Dieser Modus ist perfekt für Fragen, bei denen Sie schriftliche Antworten wünschen – zum Beispiel Namen, Zahlen oder kurze Erklärungen.
-
----
-
-![Beispiel: Offene Frage zur Musik](/images/question-modes/open-question/open-question.png)
+Eine offene Frage ermöglicht es Spielern, ihre Antwort frei mit der Tastatur einzugeben. Dieser Modus ist perfekt für Fragen, bei denen Sie schriftliche Antworten wünschen – zum Beispiel Namen, Zahlen oder kurze Erklärungen.
 
 ---
 
-## 📝 So funktioniert's
+![Beispiel: Offene Frage über Musik](/images/question-modes/open-question/open-question.png)
 
-- **Frage:** Fordere eine spezifische Antwort in einem freien Textfeld an (Beispiel: „Welches Duo führt dieses Lied auf?“).
-- **Antwort:** Spieler tippen ihre Antwort ein. Du kannst mehrere akzeptierte Antworten für die automatische Validierung angeben.
-- **Anhänge:** Füge Audio, Bilder oder Videos als Hinweis hinzu (z. B. einen Musikclip abspielen).
-- **Feedback:** Spieler sehen nach der Antwort, ob ihre Antwort als richtig markiert wurde oder nicht. Du kannst auch zusätzliches Feedback oder Erklärungen geben.
+---
+
+## 📝 So funktioniert es
+
+- **Frage:** Fragen Sie in einem freien Textfeld nach einer bestimmten Antwort (Beispiel: „Welches Duo führt dieses Lied aus?“).
+- **Antwort:** Spieler geben ihre Antwort ein. Sie können mehrere akzeptierte Antworten zur automatischen Validierung angeben.
+- **Anhänge:** Füge Audio, Bilder oder Video als Hinweis hinzu (z. B. Musik-Clip abspielen).
+- **Feedback:** Spieler sehen, nachdem sie geantwortet haben, ob ihre Antwort korrekt war oder nicht. Sie können auch zusätzliche Rückmeldungen oder Erklärungen abgeben.
 
 ---
 
 ## ⚙️ Erweiterte Einstellungen
 
-Offene Fragen bieten eine Reihe von Einstellungen, die zu deinem Quiz passen:
+Offene Fragen bieten eine Reihe von Einstellungen für Ihr Quiz:
 
-- **Mehrere akzeptierte Antworten:** Füge alternative Schreibweisen, Abkürzungen oder Synonyme für flexiblere automatische Korrektur hinzu.
-- **Zeitabhängige Bewertung:** Belohne schnellere Antworten (siehe „Bewertung“ weiter unten).
-- **Automatische Korrektur erzwingen:** Aktiviere dies, damit das Spiel richtige Antworten basierend auf deiner Liste automatisch markiert.
-    - Wenn nicht aktiviert (Standard für die meisten Live-Spiele), müssen offene Antworten manuell mit der [Jury-App](../quizmaster/004-jury-app.md) überprüft und bewertet werden.
+- **Mehrere akzeptierte Antworten:** Füge alternative Schreibweisen, Abkürzungen oder Synonyme für flexiblere Auto-Korrektur hinzu.
+- **Zeitbasierte Punkte:** schnellere Antworten auf Belohnung (siehe “Scoring” unten).
+- **Erzwinge automatische Korrektur:** Aktiviere dies, damit das Spiel automatisch korrekte Antworten basierend auf deiner angegebenen Liste markiert.
+    - Wenn nicht aktiviert (der Standard für die meisten Live-Spiele) müssen offene Antworten manuell überprüft und bewertet werden mit der [Jury app](../quizmaster/004-jury-app.md).
 
-Mehr zu diesen Optionen findest du unter [Fragen schreiben](../editor/005-writing-questions.md).
-
----
-
-## 🏆 Bewertung offener Fragen
-
-Die Bewertung offener Fragen ist so gestaltet, dass sie fair ist, selbst für langsamere Tipptypen:
-
-- **Zeitabhängige Bewertung** teilt die verfügbaren Punkte in Blöcke ein, anstatt einen strikten Millisekunden-Countdown zu verwenden.
-- Zum Beispiel gibt die Antwort im ersten Block (z. B. erste 5 Sekunden) volle Punkte; der nächste Block gibt 80 % und so weiter. Das hilft, die Strafe für langsame Tipptypen zu verringern.
-- Standardmäßig hängen nur **25 %** der Punkte von der Geschwindigkeit ab – die restlichen **75 %** sind fix, sodass jeder, der richtig antwortet, die meisten Punkte erhält, unabhängig von der Tippgeschwindigkeit.
-
-> ⚙️ **Tipp:** Du kannst das Bewertungsverhalten und andere Einstellungen weiter unter den [Rundenoptionen](../editor/008-round-options.md) anpassen.
+Weitere Informationen zu diesen Optionen finden Sie unter [Fragen schreiben](../editor/005-writing-questions.md).
 
 ---
 
-## 🧑‍⚖️ Jury-Bewertung in QuizWitz Live
+## 🏆 Scoring für offene Fragen
 
-In **QuizWitz Live** erfordern offene Fragen meist eine manuelle Überprüfung mit der [Jury-App](../quizmaster/004-jury-app.md):
+Die Punktzahl in offenen Fragen ist gerecht, auch für langsamere Reifen:
 
-- Die Jury-App ermöglicht den Jurymitgliedern, offene Antworten anzunehmen, abzulehnen oder die Bewertung anzupassen.
-- Phonetische und alternative Übereinstimmungen helfen, aber menschliches Urteilsvermögen ist für faire Bewertungen und Kreativität unerlässlich.
-- Für vollständige Anleitungen und Funktionen sieh dir die [Dokumentation der Jury-App](../quizmaster/004-jury-app.md) an.
+- **Zeitbasierte Punkte** teilt die verfügbaren Punkte in Blöcke, nicht einen strikten Countdown pro Millisekunden.
+- Zum Beispiel gibt das Beantworten im ersten Block (z.B. die ersten 5 Sekunden) volle Punkte; der nächste Block gibt 80% und so weiter. Dadurch wird die Strafe für langsame Typern reduziert.
+- Standardmäßig hängen nur **25%** der Punkte von der Geschwindigkeit ab — die restlichen **75%** ist fixiert, so dass jeder, der richtig antwortet, die meisten Punkte erhält, unabhängig von der Schreibgeschwindigkeit.
 
----
-
-## 💡 Tipps für großartige offene Fragen
-
-- **Sei spezifisch:** Sage den Spielern genau, was du als Antwort möchtest.
-- **Erwarte Variationen:** Füge gängige Abkürzungen, alternative Schreibweisen oder Synonyme zu den akzeptierten Antworten hinzu.
-- **Verwende Anhänge:** Füge Audio, Bilder oder Videos hinzu, um deine Frage klarer oder ansprechender zu machen.
-- **Stimme dich mit deiner Jury ab:** Sorge dafür, dass deine Jury weiß, was bei subjektiven oder kniffligen Antworten akzeptiert wird.
+> ⚙️ **Tipp:** Du kannst das Punkteverhalten und andere Einstellungen in den [runden Optionen](../editor/008-round-options.md).
 
 ---
 
-Für mehr zu Anhängen und Feedback siehe die [Dokumentation zu Anhängen](../editor/006-attachments.md).
+## :Jury Review in QuizWitz Live
+
+In **QuizWitz Live** erfordern offene Fragen in der Regel eine manuelle Überprüfung mit der [Jury app](../quizmaster/004-jury-app.md):
+
+- Die Jury-App lässt Jury-Mitglieder akzeptieren, ablehnen oder die Punktzahl für offene Antworten anpassen.
+- Phonetische und alternative Abgleich hilft, aber menschliches Urteilsvermögen ist für Fairness Score und Kreativität unerlässlich.
+- Die vollständigen Anweisungen und Funktionen finden Sie in der [Jury App-Dokumentation](../quizmaster/004-jury-app.md).
+
+---
+
+## 💡 Tipps für große offene Fragen
+
+- **Sei spezifisch:** Sag den Spielern genau, was sie antworten sollen.
+- **Erwarte Variationen:** Füge häufige Abkürzungen, alternative Schreibweisen oder Synonyme zu akzeptierten Antworten hinzu.
+- **Verwende Anhänge:** Füge Audio, Bilder oder Video hinzu, um deine Frage klarer oder engagierter zu machen.
+- **Koordiniere mit deiner Jury:** Stelle sicher, dass deine Jury weiß, was sie für subjektive oder heikle Antworten akzeptieren soll.
+
+---
+
+Weitere Informationen über Anhänge und Feedback finden Sie in der [Anhang Dokumentation](../editor/006-attachments.md).
