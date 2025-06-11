@@ -5,29 +5,29 @@ title: Types de questions
 
 # Types de questions
 
-QuizWitz prend en charge différents types de questions. Chaque type a ses propres règles et mécaniques de jeu.
-Nous suggérons d'utiliser un mélange de différents types pour garder le jeu intéressant et engageant.
+QuizWitz supporte différents types de questions. Chaque type a ses propres règles et mécanismes de jeu.
+Nous vous suggérons d'utiliser un mélange de différents types pour garder le jeu intéressant et intéressant.
 
-Notez que certains types de manche limitent les types de questions que vous pouvez utiliser.
+Notez que certains types de rondes limitent les types de questions que vous pouvez utiliser.
 
-## Types de questions réguliers
+## Types de questions ordinaires
 
 Ce sont les types de questions les plus courants. Ils sont faciles à comprendre et à jouer.
 
-- [Multiple choice](001-multiple-choice.md) (par défaut)
-- [Order question](003-order-question.md)
-- [Image map question](004-image-map.md)
+- [Choix multiple](001-multiple-choice.md) (par défaut)
+- (003-order-question.md)
+- [Question de la carte de l'image](004-image-map.md)
 
 ## Questions ouvertes
 
-Les questions ouvertes demandent aux joueurs de taper leurs réponses.
+Les questions ouvertes exigent que les joueurs tapent leurs réponses.
 
-- [Open question](002-open-question.md)
-- [List question](005-list-question.md)
+- [Question ouverte](002-open-question.md)
+- [Liste de question](005-list-question.md)
 
-## Spéciaux
+## Offres spéciales
 
-Ces questions rendent le jeu un peu moins équitable, mais elles permettent de s'assurer qu'il y a toujours un gagnant.
+Ces questions rendent le jeu un peu moins juste, mais elles aident à s'assurer qu'il y a toujours un gagnant.
 
-- [Tiebreaker question](006-tiebreaker-question.md)
-- [Best answer question](007-best-answer-question.md)
+- [Question du brise-coussin](006-tiebreaker-question.md)
+- [Meilleure question de réponse](007-best-answer-question.md)
