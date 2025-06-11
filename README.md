@@ -58,6 +58,13 @@ To suggest edits or add new documentation, edit or create Markdown files in the 
 
 Please follow the existing formatting and use clear, concise language.
 
+## License
+
+- Code: MIT License (see LICENSE file)
+- Content (text/images): CC BY-NC-SA 4.0 (see CONTENT_LICENSE file)
+
+Please note that commercial use of the content is not permitted without written permission.
+
 ## Building for Production
 To build the static documentation site for production:
 
