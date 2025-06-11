@@ -62,6 +62,7 @@ Als je bovenstaande quiz start, krijg je de game in de standaard Emerald-stijl. 
 De makkelijkste manier om te experimenteren met deze parameters is met onze thematester.\
 De makkelijkste manier om te experimenteren met deze parameters is met onze thematester.\
 De makkelijkste manier om te experimenteren met deze parameters is met onze thematester.\
+De makkelijkste manier om te experimenteren met deze parameters is met onze thematester.\
 Ben je klaar met experimenteren, dan kun je de parameters gewoon kopiëren en plakken naar de URL van je geavanceerde spelopties.
 :::
 
