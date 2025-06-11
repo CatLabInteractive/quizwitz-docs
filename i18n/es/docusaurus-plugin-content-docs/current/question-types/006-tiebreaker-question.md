@@ -1,36 +1,35 @@
 ---
 id: tiebreaker-question
-title: Pregunta de desempate
+title: Pregunta de Tiebreaker
 ---
 
-# 🏁 Pregunta de desempate
+# 🏁 Pregunta de Tiebreaker
 
-La pregunta de desempate se usa para resolver empates al final de un quiz.\
-The Tiebreaker question is used to resolve ties at the end of a quiz.\
-Players are asked to guess a number (for example, “How many beans are in the jar?”). El jugador cuya respuesta esté más cerca del valor correcto ganará en caso de empate.
+La cuestión de Tiebreaker se utiliza para resolver los vínculos al final de un cuestionario.\
+A los jugadores se les pide que adivinen un número (por ejemplo, “¿Cuántos frijoles hay en el tardo?”). El jugador cuya respuesta sea más cercana al valor correcto ganará en caso de empate.
 
 ---
 
 ## 📝 Cómo funciona
 
-- **No se otorgan puntos:** La pregunta de desempate no otorga puntos regulares.
-- **Puntos sombra:** En cambio, usa “puntos sombra” que solo se consideran cuando dos o más jugadores tienen el mismo puntaje total.
-- **Gana el más cercano:** El jugador con la respuesta más cercana al valor correcto obtiene la posición más alta en caso de empate.
+- **No se han concedido puntos:** La pregunta del marcador no otorga puntos regulares.
+- **Puntos de sombra:** En su lugar, utiliza “puntos de sombra” que sólo se consideran cuando dos o más jugadores tienen la misma puntuación total.
+- **Victorias más cerradas:** El jugador con la respuesta más cercana al valor correcto obtiene la posición más alta en caso de empate.
 
 ---
 
-## 💡 Consejos para preguntas de desempate
+## 💡 Consejos para preguntas de marcadores
 
-- **Pregunta por un número poco común:** Escoge una pregunta cuya respuesta no sea muy conocida y que sea improbable que se adivine exactamente.
-- **Fomenta respuestas únicas:** Asegúrate de que la pregunta tenga un rango amplio para que cada jugador ingrese respuestas diferentes.
-- **Solo para empates:** Los puntos sombra se usan solo como desempate y no afectan el ranking principal del juego.
+- **Pregunte por un número oscuro:** Elija una pregunta en la que la respuesta no se conozca ampliamente y es poco probable que se adivine exactamente.
+- **Alentar conjeturas únicas:** Asegúrate de que la pregunta tiene un amplio rango de posibilidades para que cada jugador ingrese una respuesta diferente.
+- **Úsalo sólo para empate:** Los puntos de sombra sólo se utilizan como un mareador y no afectarán a la clasificación principal del juego.
 
 ---
 
-_Example tiebreaker questions:_
+_Ejemplo de preguntas de marcadores:_
 
-- ¿Cuántos caramelos de gelatina hay en el frasco que aparece en pantalla?
-- ¿Cuál es la longitud total (en metros) de todos los ríos de Bélgica combinados?
-- ¿Cuántos ladrillos se usaron para construir el Empire State Building?
-- ¿Cuál fue la asistencia a la primera final de la Copa Mundial?
+- ¿Cuántos frijoles de jalea se muestran en la pantalla?
+- ¿Cuál es la longitud total (en metros) de todos los ríos en Bélgica combinada?
+- ¿Cuántos ladrillos se utilizaron para construir la construcción del Imperio Estado?
+- ¿Cuál fue la asistencia en la primera final de la Copa del Mundo?
 
