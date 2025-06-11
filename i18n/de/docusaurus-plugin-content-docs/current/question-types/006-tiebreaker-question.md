@@ -1,36 +1,35 @@
 ---
 id: tiebreaker-question
-title: Entscheidungsfrage
+title: Tiebreaker Frage
 ---
 
-# 🏁 Entscheidungsfrage
+# 🏁 Tiebreaker Frage
 
-Die Entscheidungsfrage wird verwendet, um bei einem Quiz am Ende Gleichstände zu entscheiden.\
-The Tiebreaker question is used to resolve ties at the end of a quiz.\
-Players are asked to guess a number (for example, “How many beans are in the jar?”). Der Spieler, dessen Antwort am nächsten am korrekten Wert liegt, gewinnt im Fall eines Gleichstands.
-
----
-
-## 📝 So funktioniert's
-
-- **Keine Punktevergabe:** Die Entscheidungsfrage vergibt keine regulären Punkte.
-- **Schattenpunkte:** Stattdessen werden "Schattenpunkte" verwendet, die nur berücksichtigt werden, wenn zwei oder mehr Spieler gleich viele Gesamtpunkte haben.
-- **Der Nächste gewinnt:** Der Spieler mit der Antwort, die dem korrekten Wert am nächsten kommt, erhält bei Gleichstand die bessere Platzierung.
+Die Tiebreaker-Frage wird verwendet, um die Verbindungen am Ende eines Quiz zu lösen.\
+Spieler werden gebeten, eine Zahl zu erraten (z.B. „Wie viele Bohnen sind im Jar?“). Der Spieler, dessen Antwort dem richtigen Wert am nächsten ist, gewinnt im Falle einer Krawatte.
 
 ---
 
-## 💡 Tipps für Entscheidungsfragen
+## 📝 So funktioniert es
 
-- **Frage nach einer unbekannten Zahl:** Wähle eine Frage, bei der die Antwort nicht allgemein bekannt ist und nur schwer genau erraten werden kann.
-- **Ermutige zu einzigartigen Schätzungen:** Sorge dafür, dass die Frage einen großen möglichen Wertebereich hat, damit jeder Spieler wahrscheinlich eine unterschiedliche Antwort eingibt.
-- **Nur für Gleichstände verwenden:** Schattenpunkte werden nur als Entscheidungsfaktor benutzt und beeinflussen nicht die reguläre Spielplatzierung.
+- **Keine Punkte verliehen:** Die tiebreaker Frage gibt keine regulären Punkte an.
+- **Schattenpunkte:** Stattdessen wird „Schattenpunkte“ verwendet, die nur dann berücksichtigt werden, wenn zwei oder mehr Spieler die gleiche Gesamtpunktzahl haben.
+- **Höchste Gewinnt:** Der Spieler mit der Antwort, die dem richtigen Wert am nächsten ist, erhält die höhere Position im Falle einer Krawatte.
 
 ---
 
-_Example tiebreaker questions:_
+## 💡 Tipps für tiebreaker-Fragen
 
-- Wie viele Jelly Beans sind in dem auf dem Bildschirm gezeigten Glas?
-- Wie lang ist die Gesamtlänge aller Flüsse in Belgien (in Metern)?
-- Wie viele Ziegel wurden zum Bau des Empire State Buildings verwendet?
-- Wie hoch war die Zuschauerzahl beim allerersten Finale der Weltmeisterschaft?
+- **Frage nach einer obskuren Nummer:** Wähle eine Frage, bei der die Antwort nicht weithin bekannt ist und wahrscheinlich nicht genau erraten werden wird.
+- **Ermutige einzigartige Vermutungen:** Stelle sicher, dass die Frage einen breiten Bereich hat, so dass jeder Spieler wahrscheinlich eine andere Antwort geben wird.
+- **Benutze nur für Krawatten:** Schattenpunkte werden nur als Tiebreaker verwendet und wirken sich nicht auf die Haupt-Spiel-Rangliste aus.
+
+---
+
+_Beispiel-Titelbrecher-Fragen:_
+
+- Wie viele Jelly Bohnen sind im Gefäß auf dem Bildschirm gezeigt?
+- Was ist die Gesamtlänge (in Metern) aller Flüsse in Belgien zusammen?
+- Wie viele Steine wurden verwendet, um das Empire State Building zu bauen?
+- Wie war die Teilnahme an der ersten Weltmeisterschaft überhaupt?
 
