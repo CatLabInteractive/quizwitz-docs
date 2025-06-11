@@ -4,7 +4,7 @@
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "QuizWitz Logo",
+    "message": "QuizWitz-Logo",
     "description": "The alt text of navbar logo"
   },
   "item.label.About QuizWitz": {
@@ -12,11 +12,11 @@
     "description": "Navbar item with label About QuizWitz"
   },
   "item.label.Round types": {
-    "message": "Rundentypen",
+    "message": "Rundungstypen",
     "description": "Navbar item with label Round types"
   },
   "item.label.Question types": {
-    "message": "Fragetypen",
+    "message": "Fragentypen",
     "description": "Navbar item with label Question types"
   },
   "item.label.FAQ": {
