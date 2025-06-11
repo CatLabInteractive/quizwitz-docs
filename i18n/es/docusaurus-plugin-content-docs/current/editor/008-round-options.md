@@ -5,71 +5,71 @@ title: Opciones de ronda
 
 # 🔄 Opciones de ronda
 
-Cada ronda tiene un **tipo** específico. El predeterminado es **Elección múltiple (Trivia)**, pero siéntete libre de probar y experimentar con todos los tipos disponibles. Esta página explica la configuración y los adjuntos que puedes configurar por ronda.
+Cada ronda tiene un **tipo** específico. El valor por defecto es **Opción Múltiple (Trivia)**, pero no dude en probar y experimentar con todos los tipos disponibles. Esta página explica los ajustes y archivos adjuntos que puede configurar por ronda.
 
-📘 Para una descripción detallada de todos los tipos de ronda, visita la [documentación de tipos de ronda](../round-types/000-round-types.md).
+📘 Para una visión detallada de todos los tipos de ronda, visita la [documentación de tipos de rondas](../round-types/000-round-types.md).
 
 ---
 
 ## 🔧 Configurando una ronda
 
-Para configurar las opciones de una ronda, haz clic en el icono de engranaje en el panel de la ronda:
+Para configurar las opciones de una ronda, haga clic en el icono de engranaje en el panel redondo:
 
-| ![Abrir opciones de ronda](/images/open-round-options.png) | ![Opciones de ronda](/images/round-options.png) |
-| :--------------------------------------------------------: | :---------------------------------------------: |
-|                   _Opening round options_                  |           _Round configuration panel_           |
+| ![Opciones abiertas de ronda](/images/open-round-options.png) | ![Opciones redondeadas](/images/round-options.png) |
+| :-----------------------------------------------------------: | :------------------------------------------------: |
+|               _Opciones de la ronda de apertura_              |         _Panel de configuración redondeado_        |
 
 ---
 
 ## ⚙️ Opciones generales de ronda
 
-Las siguientes opciones están disponibles para la mayoría de los tipos de ronda:
+Las siguientes opciones están disponibles para la mayoría de los tipos redondos:
 
-- **Mostrar solo _X_ preguntas** — Limita la ronda a un número específico de preguntas
-- **Orden aleatorio de preguntas** — Baraja el orden de las preguntas dentro de la ronda
-- **Mostrar introducción de la ronda** — Muestra un título animado antes de que comience la ronda
-- **Mostrar conclusión de la ronda (puntuación provisional)** — Revela el ranking al final de la ronda
-- **Agrupar toda la retroalimentación en una sola pantalla** — Recolecta la retroalimentación de las preguntas en un solo bloque después de que termina la ronda
-- **Mostrar toda la retroalimentación de preguntas al final de la ronda** — Retrasa la retroalimentación de preguntas hasta que la ronda termine
-- **Forzar retroalimentación después de cada pregunta individual** — Asegura retroalimentación inmediata
-  > ⚠️ Esto solo tiene efecto en tipos de ronda y pregunta donde la retroalimentación se retrasaría de otra forma, como preguntas abiertas o rondas rápidas.
+- **Sólo mostrar _X_ preguntas** — Limita la ronda a un número específico de preguntas
+- **Orden de preguntas aleatorias** — Mezclar el orden de preguntas dentro de la ronda
+- **Mostrar entrada redonda** — Muestra un título animado antes de que comience la ronda
+- **Mostrar outro redondo (puntuación provisional)** — Mostrar rangos al final de la ronda
+- **Agrupa todos los comentarios en una sola pantalla** — Recoge los comentarios de preguntas en un bloque después de que la ronda termine
+- **Mostrar todos los comentarios de la pregunta al final de la ronda** — Retrasar la respuesta de la pregunta hasta que finalice la ronda
+- **Forzar retroalimentación después de cada pregunta individual** — Asegurar retroalimentación inmediata
+  > ⚠️ Esto sólo tiene efecto en las rondas y en los tipos de preguntas en los que se retrasaría el comentario, como preguntas abiertas o rondas de relámpagos.
 
-📘 Mira los [tipos de pregunta](../question-types/000-question-types.md) para más información sobre el tiempo y comportamiento de la retroalimentación.
+📘 Ver [tipos de preguntas](../question-types/000-question-types.md) para más información sobre el tiempo y el comportamiento de los comentarios.
 
 ---
 
 ## 🏆 Opciones de puntuación {#scoring}
 
-QuizWitz ofrece una puntuación flexible para mantener todo justo y entretenido para todos los jugadores.
+IraqWitz ofrece puntuación flexible para mantener las cosas justas y atractivas para todos los jugadores.
 
-- **Puntuación basada en tiempo** — Los jugadores ganan más puntos por respuestas rápidas.
-  - Para la mayoría de los tipos de pregunta, los puntos basados en tiempo disminuyen **continuamente por microsegundo**: mientras más rápido respondas, más puntos acumulas.
-  - Solo para **preguntas abiertas**, los puntos basados en tiempo se dividen en bloques. Por ejemplo: las respuestas en el primer bloque (ej., primeros segundos) ganan el **100%** de la parte basada en tiempo, el siguiente bloque gana el **80%**, y así sucesivamente. Esto ayuda a nivelar el campo para los que escriben más lento.
+- **Puntuación basada en el tiempo** — Los jugadores ganan más puntos para obtener respuestas más rápidas.
+  - Para la mayoría de los tipos de preguntas, los puntos basados en el tiempo disminuyen **continuamente por microsegundo**: cuanto más rápido responda, más puntos anota.
+  - Para **sólo preguntas abiertas**, los puntos basados en el tiempo se dividen en bloques. Por ejemplo: las respuestas en el primer bloque (por ejemplo, los primeros segundos) ganan **100%** de la porción basada en el tiempo, el siguiente bloque gana **80%**, y así sucesivamente. Esto ayuda a nivelar el campo de juego para los tiradores más lentos.
 
-- **Porcentaje fijo de puntos en la puntuación basada en tiempo** — Controlas cuánto de la puntuación total está influenciada por la velocidad.
-  - Por defecto, el **75%** de los puntos son fijos (todos los que responden correctamente obtienen estos puntos, sin importar la velocidad).
-  - Solo el **25%** restante está influenciado por qué tan rápido responden los jugadores.
+- **Porcentaje fijo de puntos en puntuación basada en el tiempo** — Controla la cantidad de la puntuación total influenciada por la velocidad.
+  - De forma predeterminada, el **75%** de los puntos son arreglados (todos los que responden correctamente obtienen estos puntos, independientemente de la velocidad).
+  - Sólo el **25%** restante está influenciado por la rapidez con la que responden los jugadores.
 
-> 💡 Ajustar esta configuración te permite hacer las rondas más basadas en conocimiento o más basadas en velocidad, según tu estilo de quiz.
+> 💡 Ajustar esta opción te permite hacer rondas más basadas en el conocimiento o más rápido, dependiendo de tu estilo de cuestionario.
 
-Estas opciones de puntuación están disponibles en el panel de opciones de ronda al editar una ronda.
+Estas opciones de puntuación se pueden encontrar en el panel de opciones redondas al editar una ronda.
 
 ---
 
-## 📜 Instrucciones para quizmaster
+## 📜 Instrucciones Pruebmaster
 
-Puedes añadir un **texto de introducción personalizado para la ronda** que aparecerá solo en la [app Quizmaster](../quizmaster/001-introduction.md) al inicio de la ronda. Úsalo para informar al presentador o añadir un toque personal.
+Puedes añadir un **texto de introducción de rondas** personalizado que aparecerá sólo en la [aplicación Principal](../quizmaster/001-introduction.md) al comienzo de la ronda. Utilice esto para informar al presentador o añadir un toque personal.
 
 ---
 
 ## 📎 Adjuntos
 
-Mejora tu ronda con medios que se muestran en momentos específicos:
+Mejora tu ronda con los medios mostrados en momentos específicos:
 
-- **Antes de la ronda** — Mostrado después de la animación de introducción de la ronda
-- **Después de la ronda** — Mostrado después de la conclusión de la ronda
-- **Antes de la conclusión de la ronda** — Mostrado después de la última pregunta, justo antes de la conclusión
-- **During round outro** — _(audio only)_ Plays while rankings are displayed
+- **Antes de la ronda** — se muestra después de la animación de introducción redonda
+- **Después de la ronda** — Mostrar después de la ronda outro
+- **Antes de la ronda exterior** — Mostrar después de la última pregunta, justo antes de la outro
+- **Durante la ronda exterior** — _(solo en audio)_ Se muestran las reproducciones mientras se muestran los rangos
 - ...
 
-📘 Para tipos de archivos compatibles y consejos de uso, consulta la [guía de adjuntos](../editor/006-attachments.md).
+📘 Para los tipos de archivos soportados y consejos de uso, vea la [guía de adjuntos](../editor/006-attachments.md).
