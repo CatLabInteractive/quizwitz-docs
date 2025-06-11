@@ -5,47 +5,44 @@ title: Question à choix multiple
 
 # 🔢 Choix multiple
 
-Une question à choix multiple régulière permet aux joueurs de sélectionner la bonne réponse parmi plusieurs options proposées.
+Une question régulière à choix multiples permet aux joueurs de sélectionner la bonne réponse à partir de plusieurs options données.
 
 ---
 
-![Exemple : question à choix multiple sur les drapeaux](/images/question-modes/multiple-choice/multiple-choice-wales.png)
+![Exemple: Multiple choice question about flags](/images/question-modes/multiple-choice/multiple-choice-wales.png)
 
 ---
 
-## 📝 Comment ça marche
+## 📝 Comment ������������fonctionne
 
-- **Question :** Indiquez clairement ce à quoi les joueurs doivent répondre (exemple : « Sélectionnez le drapeau de 🐟🐟🐟 »).
-- **Options :** Vous pouvez proposer jusqu’à quatre options de réponse.
-- **Correct/Faux :** Marquez une ou plusieurs réponses correctes, selon vos réglages.
-- **Retour :** Les joueurs voient quelle réponse était correcte après avoir répondu. Vous pouvez en option fournir un retour supplémentaire ou des explications.
-
----
-
-## 🏆 Points
-
-Les questions à choix multiple utilisent par défaut un **calcul des points basé sur le temps** : plus la réponse est rapide, plus vous gagnez de points. Pour ces questions, le score diminue continuellement à la microseconde près, avec la plupart des points fixes et seule une partie influencée par la rapidité.\
-For these questions, scoring decreases continuously per microsecond, with most points fixed and only a portion influenced by speed.\
-**You can also turn off time-based scoring per question** if you want all correct answers to receive the same score.\
-You can further adjust this balance in the round settings.\
-Vous pouvez ajuster ce réglage dans les paramètres du round.
-
-Voir [Options de scoring dans les paramètres du round](../editor/008-round-options.md#-scoring-options) pour tous les détails.
+- **Question :** Définit clairement ce que les joueurs doivent répondre (exemple: “Sélectionnez le drapeau de 🐟🐟”).
+- **Options:** Vous pouvez fournir jusqu'à quatre options de réponse.
+- **Corrige/Mauvaise :** Marquez une ou plusieurs réponses correctes, selon vos paramètres.
+- **Commentaire :** Les joueurs voient quelle réponse était correcte après avoir répondu. Optionnellement, vous pouvez fournir des commentaires ou des explications supplémentaires.
 
 ---
 
-## ⚙️ Paramètres avancés
+## 🏆 Score
 
-The Multiple choice question type offers many settings to fine-tune the experience and scoring.\
-See [writing questions](../editor/005-writing-questions.md) for a general overview of question settings.\
-Voir [écriture des questions](../editor/005-writing-questions.md) pour un aperçu général des réglages de question.
+Les questions à choix multiples utilisent **le pointage basé sur le temps** par défaut : des réponses plus rapides gagnent plus de points. Pour ces questions, le score diminue continuellement par microseconde, avec la plupart des points fixes et seulement une partie influencée par la vitesse.\
+**Vous pouvez également désactiver le pointage basé sur le temps par question** si vous voulez que toutes les réponses correctes reçoivent le même score.\
+Vous pouvez également ajuster ce solde dans les paramètres de la manche.
+
+Voir [Options de cotation dans les paramètres de la ronde](../editor/008-round-options.md#-scoring-options) pour plus de détails.
 
 ---
 
-## 💡 Conseils pour de super questions à choix multiple
+## ⚙️ Paramètres étendus
 
-- **Soyez clair et concis :** Évitez un langage ambigu.
-- **Utilisez des mauvaises réponses plausibles :** Rendez les distracteurs crédibles.
-- **Mélangez les médias :** Ajoutez images, drapeaux ou sons pour motiver les joueurs.
-- **Mélangez l’ordre :** Gardez l’équité entre les joueurs.
-- **Étiquetez et catégorisez :** Pour une navigation et une recherche faciles.
+Le type de question à choix multiple offre de nombreux paramètres pour affiner l'expérience et le score.\
+Voir [écrire des questions](../editor/005-writing-questions.md) pour un aperçu général des paramètres de la question.
+
+---
+
+## 💡 Conseils pour les grandes questions à choix multiple
+
+- **Soyez clair et concis:** Évitez les formulations ambiguës.
+- **Utilisez de mauvaises réponses plausibles:** Rend les distracteurs crédibles.
+- **Mix media:** Ajoute des images, des drapeaux ou des sons pour engagement.
+- **Ordre aléatoire :** Gardez les choses équitables pour tous les joueurs.
+- **Tag et catégorisation :** Pour une navigation et une recherche faciles.
