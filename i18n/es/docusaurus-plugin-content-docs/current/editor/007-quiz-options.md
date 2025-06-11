@@ -1,83 +1,83 @@
 ---
 id: quiz-options
-title: Opciones del quiz
+title: Opciones de prueba
 ---
 
-# ⚙️ Opciones del quiz
+# ⚙️ Opciones de prueba
 
-Al crear un quiz, puedes abrir el panel de **Configuración del quiz** para configurar opciones globales de comportamiento y presentación. Estas configuraciones se aplican a **todo el quiz**.
+Cuando creas un cuestionario, puedes abrir el panel **Ajustes de cuestionario** para configurar las opciones de comportamiento global y presentación. Estos ajustes se aplican a la **prueba completa**.
 
-| ![Abrir opciones del quiz](/images/open-quiz-options.png) | ![Opciones del quiz](/images/quiz-options.png) |
-| :-------------------------------------------------------: | :--------------------------------------------: |
-|              _Opening the quiz options panel_             |            _Quiz settings overview_            |
+| ![Opciones de prueba abiertas](/images/open-quiz-options.png) | ![Opciones del Cuestionario](/images/quiz-options.png) |
+| :-----------------------------------------------------------: | :----------------------------------------------------: |
+|        _Abriendo el panel de opciones de cuestionario_        |          _Resumen de ajustes del Cuestionario_         |
 
 ---
 
 ## 🌐 Idiomas
 
-Selecciona el idioma en el que estás escribiendo el quiz. Puedes añadir traducciones adicionales más adelante.
+Seleccione el idioma en el que está escribiendo el cuestionario. Puedes añadir traducciones adicionales más tarde.
 
 ---
 
 ## 🎨 Temas
 
-Elige un tema visual para tu quiz.
+Elige un tema visual para tu cuestionario.
 
-- El tema predeterminado es **QuizWitz**
-- Tu organización podría tener acceso a temas personalizados
-- Los temas afectan el fondo, colores y la distribución
+- El tema por defecto es **Prueba Witz**
+- Su organización puede tener acceso a temas personalizados
+- Los temas afectan el fondo, los colores y el diseño
 
-📘 Consulta la [documentación del tema Emerald](../advanced/011-emerald-theme.md) para más detalles sobre cómo personalizar los visuales con este tema.
+📘 Vea la [documentación del tema Esmeralda](../advanced/011-emerald-theme.md) para más detalles sobre la personalización de imágenes con este tema.
 
 ---
 
 ## 📎 Adjuntos
 
-Mejora tu quiz con imágenes, audio o video en ranuras específicas:
+Mejora tu cuestionario con visuales, audio o vídeo en ranuras específicas:
 
-- **Antes del quiz** — Se muestra al iniciar el quiz
-- **Después del quiz** — Se reproduce tras la pantalla de resultados finales
-- **Logo del cliente / logo alternativo** — Se muestra en toda la interfaz del quiz
-- **Pantalla de espera** — Se muestra entre preguntas en juegos en vivo (se recomienda imagen 1920×1080)
-- **Fondo** — Reemplazo de fondo opcional (depende del tema)
-- **Pantalla de conexión** — Se usa en los modos [Live](../quizmaster/001-introduction.md) y [Conference](../tutorials/conference-booth):
-  - **Imágenes** — Visuales de fondo a pantalla completa
-  - **Audio** — Música en loop (máx. 15 min)
-  - **Video** — Se reproduce cada 5 minutos, útil para anuncios o instrucciones
+- **Antes del cuestionario** — Mostrar cuando comienza el cuestionario
+- **Después del cuestionario** — Reproducido después de la pantalla de resultados finales
+- **Logotipo de cliente/logo** — Se muestra a través de la interfaz de cuestionario
+- **Pantalla de espera** — Se muestra entre preguntas en los juegos en vivo (se recomienda una imagen de 1920×1080)
+- **Fondo de fondo** — Reemplazo opcional de fondo (depende del tema)
+- **Pantalla de conexión** — Utilizado en modos [Live](../quizmaster/001-introduction.md) y [Conference](../tutorials/conference-booth) :
+  - **Imágenes** — visuales de fondo a pantalla completa
+  - **Audio** — Música en bucle (máx. 15 min)
+  - **Vídeo** — Reproducido cada 5 minutos, útil para anuncios o instrucciones
 
-🎥 Puedes usar nuestros [videos instructivos listos](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) para ayudar a los jugadores a conectar.
+:mo.U_camera: Puedes usar nuestros [vídeos instruccionales ya preparados](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) para ayudar a los jugadores a conectarse.
 
-- **Durante el outro del juego** — (Solo audio) Se reproduce sobre la pantalla de revelación del ganador
+- **Durante el juego exterior** — (sólo audio) Reproduce en la pantalla de revelación del ganador
 
-📘 Para detalles técnicos y recomendaciones, consulta la [guía de attachments](../editor/006-attachments.md).
+📘 Para detalles técnicos y recomendaciones, consulta la [guía de adjuntos](../editor/006-attachments.md).
 
 ---
 
 ## 🔧 Opciones extra
 
-Configuraciones opcionales para personalizar la jugabilidad y visibilidad:
+Configuración opcional para personalizar el juego y la visibilidad:
 
-- **Activar multijugador** — Activado por defecto. Permite jugar en grupo con amigos
-- **Orden aleatorio de rondas** — Mezcla el orden de las rondas
-  > ⚠️ No recomendado al prepararte para [QuizWitz Live](../quizmaster/001-introduction.md)
-- **Permitir a los usuarios calificar preguntas** — Permite a los jugadores puntuar cada pregunta tras una ronda
-- **Habilitar comentarios** — Permitir feedback después de publicar
-- **Acelerar cuando todos respondan** — Si está activado, el juego avanza cuando todos los jugadores hayan respondido
-  > ⏱️ Recomendada al usar **puntuación basada en tiempo**
+- **Activar multijugador** — ACTIVADO por defecto. Permite jugar a la party con amigos
+- **Orden redonda aleatoria** — Mezclar el orden de las rondas
+  > ⚠️ No recomendado al prepararse para [Vídeo Witz](../quizmaster/001-introduction.md)
+- **Permitir a los usuarios calificar preguntas** — Permite que los jugadores evalúen cada pregunta después de una ronda
+- **Habilitar comentarios** — Permitir comentarios después de publicar
+- **Acelera cuando todos respondan** — Si está activado, el juego salta adelante cuando todos los jugadores han respondido
+  > ⏱️ Recomendado al usar **puntuación basada en el tiempo**
 
 ---
 
 ## 📤 Compartir o incrustar
 
-Genera enlaces para compartir o código para incrustar con configuraciones avanzadas del juego.
+Genera enlaces para compartir o incrustar código con la configuración avanzada del juego.
 
 ---
 
-## 📜 Copia para quizmaster
+## 📜 Copia Pruebmaster
 
-Añade instrucciones personalizadas para el presentador de:
+Añadir instrucciones de presentador personalizadas para:
 
-- **Introducción al quiz**
-- **Outro del quiz**
+- **Presentación del Cuestionario**
+- **Quiz outro**
 
-Estos son visibles en la [app Quizmaster](../quizmaster/001-introduction.md) cuando se usa QuizWitz Live.
+Estos son visibles en la [aplicación de probadores](../quizmaster/001-introduction.md) cuando se usa la aplicación Witz Live.
