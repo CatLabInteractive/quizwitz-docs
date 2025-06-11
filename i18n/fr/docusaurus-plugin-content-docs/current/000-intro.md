@@ -3,32 +3,32 @@ id: intro
 title: Introduction
 ---
 
-# 🎉 Pour commencer
+# 🎉 Commencer
 
 ## Bienvenue sur QuizWitz !
 
-**QuizWitz** est une plateforme de quiz sociale où tu peux :
+**QuizWitz** est une plateforme de quiz social où vous pouvez :
 
-- Jouer à des quiz amusants avec des amis ou en solo
-- Organiser des événements quiz professionnels avec des outils en direct
-- Créer tes propres quiz, rounds, playlists, et plus encore
+- Jouez à des jeux de quiz amusants avec des amis ou en solo
+- Organisez des quiz professionnels avec des outils en direct
+- Créez vos propres questionnaires, manches, listes de lecture et plus encore
 
-Que tu sois là pour te détendre, présenter ou créer — on est là pour toi.
+Que vous soyez là pour vous détendre, pour vous présenter ou pour construire, nous vous avons couvert.
 
-Prends un moment pour découvrir les différents rôles et outils disponibles. Ça ne prendra qu'une minute.
+Prenez un moment pour explorer les différents rôles et outils disponibles. Cela ne prendra qu'une minute.
 
 ---
 
 ## 👥 Joueurs et créateurs
 
-Ce guide est divisé en sections selon comment tu utilises QuizWitz :
+Ce guide est divisé en sections en fonction de la façon dont vous utilisez QuizWitz:
 
-- [**Guide du Joueur**](players/001-playing-quizwitz.md) — Apprends à collectionner, jouer et apprécier les quiz
-- [**Guide du Quizmaker**](editor/002-for-the-quizmakers.md) — Crée tes propres questions, rounds, et quiz complets
-- [**Guide du Quizmaster**](quizmaster/001-introduction.md) — Anime une partie en direct avec QuizWitz Live
+- [**Guide du joueur**](players/001-playing-quizwitz.md) — Apprenez à collecter, jouer et profiter de quiz
+- [**Guide du Questionnaire**](editor/002-for-the-quizmakers.md) — Construisez vos propres questions, tours et quiz complets
+- [**Guide du Questionnaire**](quizmaster/001-introduction.md) — Organisez une partie en direct en utilisant QuizWitz Live
 
-Explore les sections qui correspondent à ton rôle — ou toutes si tu es curieux !
+Explorez les sections qui correspondent à votre rôle, ou toutes si vous êtes curieux !
 
 ---
 
-Prêt à te lancer ? C'est parti pour le quiz.
+Prêt à sauter ? Let’s get quizzing.
