@@ -16,11 +16,11 @@
     "description": "The label for category For quizmasters in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Round types": {
-    "message": "Rondetypen",
+    "message": "Rondetypes",
     "description": "The label for category Round types in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Question types": {
-    "message": "Vraagtypen",
+    "message": "Vraagtypes",
     "description": "The label for category Question types in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Advanced": {
