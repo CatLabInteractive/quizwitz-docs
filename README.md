@@ -33,7 +33,6 @@ npm install
 Start the local development server:
 
 ```bash
-Kopiëren
 npm start
 ```
 
