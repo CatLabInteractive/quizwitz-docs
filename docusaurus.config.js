@@ -35,7 +35,7 @@ const config = {
               return `https://crowdin.com/project/quizwitz-documentation/${locale}`;
             }
             // Link to GitHub for English docs
-            return 'https://github.com/catlabinteractive/quizwitz-docs/edit/main/';
+            return `https://github.com/catlabinteractive/quizwitz-docs/edit/main/website/${versionDocsDirPath}/${docPath}`;
           },
         },
         theme: {
