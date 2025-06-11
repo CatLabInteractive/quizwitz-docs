@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} CatLab Interactive bv. Built with Docusaurus.`,
+        copyright: `QuizWitz Documentation © 2021, ${new Date().getFullYear()} by CatLab Interactive is licensed under CC BY-NC-SA 4.0`,
       },
     })
 
