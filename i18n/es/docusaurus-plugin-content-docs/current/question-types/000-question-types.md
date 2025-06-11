@@ -5,29 +5,29 @@ title: Tipos de preguntas
 
 # Tipos de preguntas
 
-QuizWitz soporta diferentes tipos de preguntas. Cada tipo tiene sus propias reglas y mecánicas de juego.
+► Witz soporta diferentes tipos de preguntas. Cada tipo tiene sus propias reglas y mecanismos de juego.
 Sugerimos usar una mezcla de diferentes tipos para mantener el juego interesante y atractivo.
 
-Ten en cuenta que algunos tipos de rondas limitan los tipos de preguntas que puedes usar.
+Tenga en cuenta que algunos tipos redondos limitan los tipos de preguntas que puede utilizar.
 
-## Tipos regulares de preguntas
+## Tipos de preguntas regulares
 
 Estos son los tipos de preguntas más comunes. Son fáciles de entender y de jugar.
 
-- [Multiple choice](001-multiple-choice.md) (por defecto)
-- [Order question](003-order-question.md)
-- [Image map question](004-image-map.md)
+- [Elección múltiple](001-multiple-choice.md) (por defecto)
+- [Pregunta de pedido](003-order-question.md)
+- [Pregunta del mapa de la imagen](004-image-map.md)
 
 ## Preguntas abiertas
 
-Las preguntas abiertas requieren que los jugadores escriban sus respuestas.
+Preguntas abiertas requieren que los jugadores escriban sus respuestas.
 
-- [Open question](002-open-question.md)
-- [List question](005-list-question.md)
+- [Pregunta abierta](002-open-question.md)
+- [Pregunta de la lista](005-list-question.md)
 
 ## Especiales
 
-Estas preguntas hacen el juego un poco menos justo, pero ayudan a asegurar que siempre haya un ganador.
+Estas preguntas hacen que el juego sea un poco menos justo, pero ayudan a asegurarse de que siempre haya un ganador.
 
-- [Tiebreaker question](006-tiebreaker-question.md)
-- [Best answer question](007-best-answer-question.md)
+- [Pregunta de Tiebreaker](006-tiebreaker-question.md)
+- [Mejor pregunta de respuesta](007-best-answer-question.md)
