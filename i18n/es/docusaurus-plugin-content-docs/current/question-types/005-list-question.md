@@ -1,64 +1,65 @@
 ---
 id: list-question
-title: Pregunta de lista
+title: Listar pregunta
 ---
 
-# 📝 Pregunta de lista
+# 📝 Listar pregunta
 
-Una **pregunta de lista** pide a los jugadores que proporcionen varias respuestas correctas de una lista más amplia — perfecta para indicaciones como “Enumera los primeros 5 presidentes de los Estados Unidos de América” o “Nombra tres elementos de la tabla periódica.”
+Una **pregunta de lista** pide a los jugadores que proporcionen varias respuestas correctas de una lista más amplia, perfecta para peticiones como “Lista de los 5 primeros presidentes de los Estados Unidos de América” o “Nombre tres elementos en la tabla periódica”.
 
 ---
 
-![Ejemplo: Pregunta de lista con presidentes de EE.UU.](/images/question-modes/list-question/list-question.png)
+![Ejemplo: Lista de preguntas con presidentes de Estados Unidos](/images/question-modes/list-question/list-question.png)
 
 ---
 
 ## 📝 Cómo funciona
 
-- **Pregunta:** Indica claramente lo que quieres que los jugadores enumeren.
-- **Elementos de la lista:** Ingresa todas las respuestas correctas posibles.
-  - Marca algunos como **‘Dado’** para mostrarlos como ejemplos en pantalla; estos NO necesitan ser respondidos.
-  - El orden **no** importa — los jugadores pueden ingresar respuestas correctas en cualquier orden.
-- **Entrada del jugador:** Los jugadores deben proporcionar un número determinado de respuestas (por ejemplo, entre 1 y 5). Se otorgan puntos por cada respuesta correcta que entreguen.
-- **Adjuntos:** Añade imágenes, audio o video para contexto. Completa la atribución si vas a publicar.
+- **Pregunta:** Indica claramente lo que quieres que los jugadores listen.
+- **Lista de elementos:** Introduce todas las respuestas correctas posibles.
+  - Marque algunos como **‘Diven’** para mostrar como ejemplos en la pantalla; estos NO necesitan ser respondidos.
+  - La orden **no** importa: los jugadores pueden introducir respuestas correctas en cualquier orden.
+- **Entrada del jugador:** Los jugadores deben proporcionar un número determinado de respuestas (por ejemplo, entre 1 y 5). Los puntos se otorgan por cada respuesta correcta que presenten.
+- **Adjuntos:** Añade imágenes, audio o vídeo para el contexto. Rellene la atribución si se publica.
 
 ---
 
-## ⚙️ Configuración ampliada
+## ⚙️ Ajustes ampliados
 
 - **Respuestas mínimas y máximas:** Define cuántas respuestas debe dar un jugador.
-- **Puntos por respuesta:** Se pueden otorgar puntos por cada respuesta correcta o solo cuando se cumple el número mínimo.
-- **Opciones dadas:** Úsalas como ejemplos en la pregunta.
+- **Puntos por respuesta:** Los puntos se pueden otorgar por cada respuesta correcta, o solo cuando se alcanza el número mínimo.
+- **Opciones dadas:** Usar como ejemplos en cuestión.
 - **Corrección:**
-  - **Forzar corrección automática:** Cuando está activado, QuizWitz revisa todas las respuestas automáticamente (aceptando pequeños errores tipográficos y variaciones). No se necesita jurado.
-  - **Revisión manual:** Cuando no está activado, cada respuesta debe ser revisada por la [aplicación de jurado](../quizmaster/004-jury-app.md).
+  - **Forzar corrección automática:** Cuando está habilitado, pruebWitz comprueba automáticamente todas las respuestas (aceptando pequeños errores tipográficos y variaciones). No se necesita un jurado.
+  - **Revisión manual:** Cuando no está activada, cada respuesta proporcionada debe ser revisada por la [aplicación del jurado](../quizmaster/004-jury-app.md).
 
 ---
 
-## 🏆 Puntuación
+## 🏆 puntuación
 
 - **Puntos por respuesta correcta:** Los jugadores ganan puntos por cada respuesta correcta.
-- **Time-based scoring** (if enabled):\
-  Follows the **open question rules** for fairness:
+- **Puntuación basada en el tiempo** (si está habilitado):\
+  Sigue las **reglas de pregunta abierta** para ser justa:
   - Los puntos disponibles se dividen en bloques de tiempo (no por milisegundo).\
     The available points are split into blocks of time (not by the millisecond).\
+    For example: full points in the first block, 80% in the next, and so on.\
+    The available points are split into blocks of time (not by the millisecond).\
     For example: full points in the first block, 80% in the next, and so on.
-  - **Solo el 25%** de los puntos dependen de la velocidad.\
-    **Only 25%** of the points depend on speed.\
-    The other **75%** is fixed — so even slower typers get most of the points if they answer correctly.
-  - Esto reduce la penalización por velocidad de escritura y hace que la puntuación sea más justa para todos.
+  - **Sólo 25%** de los puntos dependen de la velocidad.\
+    El otro **75%** está fijado — por lo que incluso los tiradores más lentos obtienen la mayoría de los puntos si responden correctamente.
+  - Esto reduce la pena por la velocidad de escritura y hace que el puntaje sea más justo para todos.
 
-Para más detalles, consulta las [opciones de puntuación de la ronda](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Consejos para preguntas de lista
-
-- **Sé específico:** Define claramente las respuestas válidas.
-- **Muestra ejemplos:** Usa la función ‘Dado’.
-- **Enumera variantes:** Incluye ortografías/variaciones comunes.
-- **Reduce el trabajo del jurado:** Usa la corrección automática si es posible.
+Para más detalles, consulta [opciones de puntuación redondeada](../editor/008-round-options.md#scoring).
 
 ---
 
-Para más información, consulta la [documentación de la aplicación de jurado](../quizmaster/004-jury-app.md).
+## 💡 Consejos para la lista de preguntas
+
+- **Ser específico:** Definir claramente las respuestas válidas.
+- **Mostrar ejemplos:** Utilice la función 'Diven'.
+- **Variantes de lista:** Incluye ortografías y variaciones comunes.
+- **Reduce el trabajo del jurado:** Utilice corrección automática si es posible.
+
+---
+
+Para más información, vea [documentación de la aplicación del jurado](../quizmaster/004-jury-app.md).
