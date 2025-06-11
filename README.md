@@ -20,7 +20,7 @@ This documentation site is powered by [Docusaurus](https://docusaurus.io/).
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_ORG/quizwitz-docs.git
+git clone https://github.com/CatLabInteractive/quizwitz-docs.git
 cd quizwitz-docs
 ```
 
