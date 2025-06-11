@@ -1,57 +1,54 @@
 ---
 id: order-question
-title: Reihenfrage
+title: Bestellungsfrage
 ---
 
-# 🔀 Reihenfrage
+# 🔀 Bestellfrage
 
-In an **Order question**, players must put up to 4 items in the correct sequence.\
-This round type is great for chronological, ranking, or sequencing challenges.\
-Dieser Rundentyp ist super für chronologische, Rangfolge- oder Reihenfolge-Herausforderungen geeignet.
-
----
-
-![Beispiel: Reihenfrage zu Tieren](/images/question-modes/order-question/order-question-example.png)
+In einer **Bestellfrage**, müssen Spieler bis zu 4 Elemente in der richtigen Reihenfolge platzieren.\
+Dieser Rundentyp eignet sich hervorragend für chronologische, Ranking- oder Sequenzierungs-Herausforderungen.
 
 ---
 
-## 📝 So funktioniert's
-
-- **Frage:** Formuliere klar, welche Reihenfolge gefordert wird.\
-  **Question:** Clearly ask what order is required.\
-  _(Example: “Select the animals in the correct order from least to most legs.”)_
-- **Optionen:** Gib bis zu vier Elemente ein. Du definierst die richtige Reihenfolge.
-- **Spieleransicht:** Die Optionen werden in zufälliger Reihenfolge gezeigt. Spielende **wählen jedes Element einzeln** in der Reihenfolge aus, die sie für richtig halten.
-- **Feedback:** Nach der Antwort sehen Spielende die richtige Reihenfolge und (optional) deine zusätzliche Erklärung.
+![Beispiel: Frage zu Tieren bestellen](/images/question-modes/order-question/order-question-example.png)
 
 ---
 
-## 🏆 Punktevergabe
+## 📝 So funktioniert es
 
-Order questions use **time-based scoring** by default:\
-Faster correct answers earn more points, but most of the points are fixed. Die Zeit beeinflusst nur einen Teil der Punktzahl.\
-Time only affects a portion of the score.\
-You can also turn off time-based scoring per question for fixed points only.
+- **Frage:** Fragen Sie eindeutig, welche Bestellung erforderlich ist.\
+  _(Beispiel: „Wählen Sie die Tiere in der richtigen Reihenfolge von den wenigsten bis zu den meisten Beinen.“)_
+- **Optionen:** Geben Sie bis zu vier Elemente ein. Sie definieren die korrekte Reihenfolge.
+- **Spieleransicht:** Optionen werden in zufälliger Reihenfolge angezeigt. Spieler \*\*wählen jedes einzelne Element in der Reihenfolge, in der sie denken, dass es korrekt ist.
+- **Feedback:** Nach dem Beantworten sehen die Spieler die richtige Reihenfolge und (optional) jede zusätzliche Erklärung, die Sie geben.
 
-Details findest du unter [Punkteoptionen in den Runden-Einstellungen](../editor/008-round-options.md#-scoring-options).
+---
+
+## :trophäe: Scoring
+
+Bestellfragen verwenden standardmäßig **Zeitbasiertes Scoring**:\
+Schnellere richtige Antworten verdienen mehr Punkte, aber die meisten Punkte sind behoben. Die Zeit wirkt sich nur auf einen Teil der Punktzahl aus.\
+Sie können die zeitbasierte Punktzahl pro Frage auch nur für feste Punkte ausschalten.
+
+Siehe [Sortieroptionen in runden Einstellungen](../editor/008-round-options.md#-scoring-options) für Details.
 
 ---
 
 ## ⚙️ Erweiterte Einstellungen
 
-Reihenfragen bieten flexible Einstellungen:
+Bestellfragen bieten flexible Einstellungen:
 
-- **Zeitlimit:** Lege fest, wie lange Spielende zum Antworten haben.
-- **Punkte:** Lege fest, wie viele Punkte es für eine komplett richtige Antwort gibt.
+- **Zeitlimit:** Legen Sie fest, wie lange Spieler antworten müssen.
+- **Punkte:** Lege fest, wie viele Punkte für eine richtige Antwort vergeben werden.
 
-Mehr dazu unter [Fragen schreiben](../editor/005-writing-questions.md).
+Siehe [Fragen schreiben](../editor/005-writing-questions.md) für mehr.
 
 ---
 
-## 💡 Tipps für tolle Reihenfragen
+## 💡 Tipps für große Bestellfragen
 
-- **Sei spezifisch:** Formuliere klar, wie die Elemente geordnet werden sollen (z. B. von wenig bis viel, von alt bis neu).
-- **Wähle unterscheidbare Optionen:** Vermeide Elemente, die sich zu ähnlich oder unklar sind.
-- **Erkläre die Antwort:** Nutze Feedback, um die richtige Reihenfolge nach der Frage zu verdeutlichen.
-- **Variiere Formate:** Probiere chronologische, größenbasierte oder rangbasierte Fragen für Abwechslung.
+- **Sei spezifisch:** Gib klar an, wie du bestellte Artikel bestellen möchtest (z.B. am wenigsten für die meisten, älteste bis neueste).
+- **Wähle verschiedene Optionen:** Vermeide Gegenstände, die zu ähnlich oder zu zweideutig sind.
+- **Erkläre die Antwort:** Nutze Feedback um die richtige Reihenfolge nach der Frage zu klären.
+- **Mix-Formate:** Versuchen Sie chronologische, größenbasierte oder ranking-basierte Fragen für die Varietät.
 
