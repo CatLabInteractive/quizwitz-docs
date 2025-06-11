@@ -22,9 +22,11 @@ Clone the repository:
 ```bash
 git clone https://github.com/YOUR_ORG/quizwitz-docs.git
 cd quizwitz-docs
+```
+
 Install dependencies:
 
-bash
+```bash
 npm install
 ``` 
 
@@ -43,6 +45,13 @@ Documentation pages are in the docs/ folder.
 Sidebar navigation is configured in sidebars.js.
 
 Images and static files are located in /assets/.
+
+## Translations
+Translations are managed using Crowdin. To contribute translations:
+1. Visit the [QuizWitz Crowdin project](https://crowdin.com/project/quizwitz-documentation).
+2. Select a language to translate.
+3. Use the Crowdin editor to suggest translations for existing documentation.
+4. Your contributions will be reviewed and merged into the main documentation.
 
 ## Contributing
 Contributions are welcome!
