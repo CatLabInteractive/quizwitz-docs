@@ -58,7 +58,7 @@ Deze score-opties vind je in het ronde-opties paneel tijdens het bewerken van ee
 
 ## 📜 Quizmaster instructies
 
-You can add a custom **round introduction text** that will appear only on the [Quizmaster app](../quizmaster/introduction) at the start of the round. Gebruik dit om de presentator in te lichten of een persoonlijk tintje toe te voegen.
+Je kunt een aangepaste **ronde introductietekst** toevoegen die alleen zal verschijnen op de [Quizmaster app](../quizmaster/001-introduction.md) aan het begin van de ronde. Gebruik dit om de presentator te informeren of een persoonlijke touch toe te voegen.
 
 ---
 
@@ -72,4 +72,4 @@ Versterk je ronde met media die op specifieke momenten worden getoond:
 - **During round outro** — _(audio only)_ Plays while rankings are displayed
 - ...
 
-📘 For supported file types and usage tips, see the [attachments guide](../editor/attachments).
+📘 Voor ondersteunde bestandstypen en gebruikstips, zie de [attachments guide](../editor/006-attachments.md).
