@@ -6,6 +6,7 @@ name: Rondetypes
 # Rondetypes
 
 Het soort ronde beïnvloedt hoe het spel de vragen aan spelers toont — en hoe spelers punten verdienen.\
+In quizzen, kun je het ronde-type in het **rondetype** select veld in het midden van het scherm bovenaan.\
 In quizzen, kun je het ronde-type in het **rondetype** select veld in het midden van het scherm bovenaan.
 
 ## 🧠 Normale rondes
@@ -26,6 +27,7 @@ Deze rondes bieden iets meer interactie dan simpele vraag-en-antwoord rondes.
 ## 🍺 Traditioneel
 
 Voor iedereen die traditionele kroegquizzen wil organiseren waarbij spelers hun antwoorden tot het einde van de ronde kunnen veranderen.\
+Deze rondetypen simuleren het "inleveren van de papieren" na elke ronde.\
 Deze rondetypen simuleren het "inleveren van de papieren" na elke ronde.
 
 - [Traditioneel](030-traditional.md)
