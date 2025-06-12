@@ -16,6 +16,7 @@ In einer **Bild-Karte** Frage müssen die Spieler den richtigen Ort (oder Spots)
 ## 📝 So funktioniert es
 
 - **Frage:** Geben Sie klar an, welche Spieler auf dem Bild finden müssen.\
+  _(Beispiel: „Wählen Sie den Erlenmeyer Flasche.“)_\
   _(Beispiel: „Wählen Sie den Erlenmeyer Flasche.“)_
 - **Bild:** Hochladen eines hochqualitativen Bildes, das allen Spielern angezeigt wird.
 - **Antwort-Punkte:** Definiere einen oder mehrere **Zielbereiche** („Punkte“) auf dem Bild. Jeder Bereich kann als Kreis oder eine andere Form eingestellt werden, und Sie bestimmen seine Position und Größe.
@@ -42,6 +43,7 @@ Siehe [Fragen schreiben](../editor/005-writing-questions.md) für allgemeine Fra
 ## ⏱️ Zeitbasierte Punktzahl
 
 **Zeitbasierte Punktzahl ist standardmäßig aktiviert.** Spieler, die schnell mehr Punkte erhalten, aber es gibt immer eine feste Komponente (Standard: 75%) für eine korrekte Antwort. Nur 25% der Gesamtpunktzahl wird davon beeinflusst, wie schnell Sie antworten.\
+Wenn Sie möchten, können Sie die zeitbasierte Punktzahl für diesen Fragentyp ausschalten.\
 Wenn Sie möchten, können Sie die zeitbasierte Punktzahl für diesen Fragentyp ausschalten.
 
 📘 Weitere Informationen zu Scoring und Zeiteinstellungen finden Sie in der [runden Optionen](../editor/008-round-options.md#scoring).
