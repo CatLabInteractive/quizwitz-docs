@@ -10,6 +10,7 @@ title: Einführung
 Die erste Zutat für ein erfolgreiches QuizWitz Live Event ist ein fesselnder Quizmaster — jemand, der das Spiel steuert und die Energie hoch hält. Der Quizmaster leitet den Fluss des Quizs, liest die Fragen laut und fügt hinzu, dass zusätzlicher Funken, um das Publikum zu unterhalten.
 
 Um die volle Kontrolle über dein Event zu übernehmen, benutze die **Quizmaster App**, die speziell für QuizWitz Live entwickelt wurde.\
+Sie können QuizWitz Live direkt aus dem Quiz-Editor starten, indem Sie **‘Start QuizWitz Live’** klicken.\
 Sie können QuizWitz Live direkt aus dem Quiz-Editor starten, indem Sie **‘Start QuizWitz Live’** klicken.
 
 > 💡 **Notiz:** Die Quizmaster-App ist eine **Web-App** — es gibt nichts zu installieren. Gehen Sie einfach zu [**quizwitz.tv**](https://quizwitz.tv) in Ihrem Browser, um auf das Gerät zuzugreifen.
