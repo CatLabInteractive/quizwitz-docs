@@ -6,6 +6,7 @@ title: Pregunta de mejor respuesta
 # 🎖️ mejor respuesta
 
 En el tipo de **mejor respuesta**, los jugadores escriben sus propias respuestas a una pregunta abierta.\
+Los puntos son otorgados manualmente por el cuestionario, o —si no hay un cuestionario— por que los jugadores voten por su respuesta favorita.\
 Los puntos son otorgados manualmente por el cuestionario, o —si no hay un cuestionario— por que los jugadores voten por su respuesta favorita.
 
 ---
