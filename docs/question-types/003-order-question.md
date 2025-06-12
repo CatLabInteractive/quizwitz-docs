@@ -30,7 +30,7 @@ Order questions use **time-based scoring** by default:
 Faster correct answers earn more points, but most of the points are fixed. Time only affects a portion of the score.  
 You can also turn off time-based scoring per question for fixed points only.
 
-See [Scoring options in round settings](../editor/008-round-options.md#-scoring-options) for details.
+See [Scoring options in round settings](../editor/008-round-options.md#scoring) for details.
 
 ---
 
