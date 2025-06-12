@@ -69,12 +69,10 @@ Je kunt vragen verbeteren met afbeeldingen, video of audio. Elke bijlage kan op 
 
 Je kunt **meerdere bijlagen** in elk vak toevoegen.
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** the quizmaster can choose which attachment to display at each moment.\
-> 🎮 **In regular games:** all attachments in a given slot are shown at once.\
-> 🎮 **In gewone spellen:** worden alle bijlagen in een bepaald vak tegelijkertijd getoond.\
-> 🎮 **In gewone spellen:** worden alle bijlagen in een bepaald vak tegelijkertijd getoond.
+> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** de quizmaster kan op elk moment kiezen welke bijlage getoond wordt.\
+> 🎮 **In gewone spellen:** alle bijlagen in een bepaalde positie worden tegelijk weergegeven.
 
-📘 Learn more about supported file types, timing tips, and limitations in the [attachments guide](../editor/attachments).
+📘 Leer meer over ondersteunde bestandstypen, timingtips en beperkingen in de [attachments guide](../editor/attachments).
 
 ---
 
