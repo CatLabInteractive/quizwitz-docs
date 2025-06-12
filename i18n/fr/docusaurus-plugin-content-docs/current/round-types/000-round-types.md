@@ -6,6 +6,7 @@ name: Types de manches
 # Types de manches
 
 Le type de manche influence la façon dont le jeu montre les questions aux joueurs — et comment les joueurs gagnent des points.\
+Dans les questionnaires, vous pouvez changer le type de ronde dans le champ de sélection **Type d'arronde** en haut de l'écran.\
 Dans les questionnaires, vous pouvez changer le type de ronde dans le champ de sélection **Type d'arronde** en haut de l'écran.
 
 ## 🧠 rondes régulières
@@ -26,6 +27,7 @@ Ces séries offrent un peu plus d'interactivité que de simples questions de pos
 ## 🍺 Traditionnel
 
 Pour tous ceux qui veulent organiser des quiz traditionnels où les joueurs peuvent changer leurs réponses jusqu'à la fin du tour.\
+Ces types de rondes simulent la "remise dans les papiers" après chaque manche.\
 Ces types de rondes simulent la "remise dans les papiers" après chaque manche.
 
 - [Traditional](030-traditional.md)
