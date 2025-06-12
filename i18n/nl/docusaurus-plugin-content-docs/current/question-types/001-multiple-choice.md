@@ -24,10 +24,8 @@ Een gewone meerkeuzevraag laat spelers het juiste antwoord kiezen uit verschille
 
 ## 🏆 Score
 
-Meerkeuzevragen gebruiken standaard **tijdbased scoring**: sneller antwoorden levert meer punten op. Bij deze vragen neemt de score continu af per microseconde, waarbij de meeste punten vast staan en slechts een deel afhankelijk is van de snelheid.\
-For these questions, scoring decreases continuously per microsecond, with most points fixed and only a portion influenced by speed.\
-**You can also turn off time-based scoring per question** if you want all correct answers to receive the same score.\
-You can further adjust this balance in the round settings.\
+Meerkeuzevragen gebruiken standaard **tijdgebaseerde scoring**: snellere antwoorden leveren meer punten op. Bij deze vragen neemt de score continu af per microseconde, waarbij de meeste punten vast staan en slechts een deel afhankelijk is van de snelheid.\
+**Je kunt ook tijdgebaseerde scoring per vraag uitschakelen** als je wilt dat alle juiste antwoorden dezelfde score krijgen.\
 Je kunt deze balans verder aanpassen in de ronde-instellingen.
 
 Zie [Scoring opties in ronde-instellingen](../editor/008-round-options.md#-scoring-options) voor volledige details.
