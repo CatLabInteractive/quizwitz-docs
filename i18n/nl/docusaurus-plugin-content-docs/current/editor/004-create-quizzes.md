@@ -23,14 +23,7 @@ Vanaf het hoofdmenu:
 ## ✏️ Titel en taal
 
 Geef je quiz een titel en kies de hoofdtaal.\
-Give your quiz a title and choose the main language.\
-You can add **translations** later if needed — no need to decide everything upfront.\
-Give your quiz a title and choose the main language.\
-You can add **translations** later if needed — no need to decide everything upfront.\
-Give your quiz a title and choose the main language.\
-You can add **translations** later if needed — no need to decide everything upfront.\
-Give your quiz a title and choose the main language.\
-You can add **translations** later if needed — no need to decide everything upfront.
+Je kunt later **vertalingen** toevoegen als dat nodig is — je hoeft niet meteen alles vast te leggen.
 
 ---
 
