@@ -9,7 +9,7 @@ Bij het maken van een quiz kun je het **Quiz instellingen**-paneel openen om glo
 
 | ![Open quiz opties](/images/open-quiz-options.png) | ![Quiz opties](/images/quiz-options.png) |
 | :------------------------------------------------: | :--------------------------------------: |
-|          _Opening the quiz options panel_          |         _Quiz settings overview_         |
+|          _Opening the quiz options panel_          |     _Overzicht van quiz instellingen_    |
 
 ---
 
@@ -27,7 +27,7 @@ Kies een visueel thema voor je quiz.
 - Je organisatie kan toegang hebben tot aangepaste thema's
 - Thema's beïnvloeden achtergrond, kleuren en lay-out
 
-📘 See the [Emerald theme documentation](../advanced/emerald-theme) for more details on customizing visuals with this theme.
+📘 Zie de [Emerald thema documentatie](../advanced/011-emerald-theme.md) voor meer informatie over het aanpassen van de visuals met dit thema.
 
 ---
 
@@ -49,7 +49,7 @@ Verfraai je quiz met beelden, audio of video in specifieke slots:
 
 - **Tijdens het einde van het spel** — (alleen audio) Wordt afgespeeld over het scherm met de winnaar onthulling
 
-📘 For technical details and recommendations, see the [attachments guide](../editor/attachments).
+📘 Voor technische details en aanbevelingen, zie de [attachments guide](../editor/attachments).
 
 ---
 
@@ -59,7 +59,7 @@ Optionele instellingen voor het aanpassen van gameplay en zichtbaarheid:
 
 - **Multiplayer inschakelen** — Standaard AAN. Maakt spelen met vrienden mogelijk
 - **Willekeurige rondevolgorde** — Schud de volgorde van rondes door elkaar
-  > ⚠️ Not recommended when preparing for [QuizWitz Live](../quizmaster/introduction)
+  > ⚠️ Niet aanbevolen bij de voorbereiding op [QuizWitz Live](../quizmaster/001-introduction.md)
 - **Gebruikers vragen laten beoordelen** — Laat spelers iedere vraag na een ronde beoordelen
 - **Reacties inschakelen** — Sta feedback toe na publicatie
 - **Versnellen wanneer iedereen heeft geantwoord** — Als ingeschakeld, gaat het spel door zodra alle spelers hebben geantwoord
@@ -80,4 +80,4 @@ Voeg aangepaste presentatorinstructies toe voor:
 - **Quiz introductie**
 - **Quiz afsluiting**
 
-These are visible on the [Quizmaster app](../quizmaster/introduction) when using QuizWitz Live.
+Deze zijn zichtbaar op de [Quizmaster app](../quizmaster/001-introduction.md) wanneer u QuizWitz Live gebruikt.
