@@ -28,20 +28,14 @@ Meerkeuzevragen gebruiken standaard **tijdgebaseerde scoring**: snellere antwoor
 **Je kunt ook tijdgebaseerde scoring per vraag uitschakelen** als je wilt dat alle juiste antwoorden dezelfde score krijgen.\
 Je kunt deze balans verder aanpassen in de ronde-instellingen.
 
-Zie [Scoring opties in ronde-instellingen](../editor/008-round-options.md#-scoring-options) voor volledige details.
+Zie [Score-opties in ronde instellingen](../editor/008-round-options.md#scoring) voor volledige details.
 
 ---
 
 ## ⚙️ Uitgebreide instellingen
 
-The Multiple choice question type offers many settings to fine-tune the experience and scoring.\
-See [writing questions](../editor/005-writing-questions.md) for a general overview of question settings.\
-The Multiple choice question type offers many settings to fine-tune the experience and scoring.\
-See [writing questions](../editor/005-writing-questions.md) for a general overview of question settings.\
-Zie [vragen schrijven](../editor/005-writing-questions.md) voor een algemeen overzicht van vraaginstellingen.\
-The Multiple choice question type offers many settings to fine-tune the experience and scoring.\
-See [writing questions](../editor/005-writing-questions.md) for a general overview of question settings.\
-Zie [vragen schrijven](../editor/005-writing-questions.md) voor een algemeen overzicht van vraaginstellingen.
+Het type multpile-choice vraag biedt vele instellingen om de ervaring en score te verfijnen.\
+Zie [Vragen schrijven](../editor/005-writing-questions.md) voor een algemeen overzicht van vraaginstellingen.
 
 ---
 
