@@ -5,19 +5,14 @@ name: Rondetypes
 
 # Rondetypes
 
-Het ronden type beïnvloedt hoe het spel de vragen aan de spelers toont — en hoe spelers punten verdienen.\
-The round type influences the way the game shows the questions to the players — and how players earn points.\
-In quizzes, you can change the round type in the **Round type** select field at the top middle of the screen.\
-The round type influences the way the game shows the questions to the players — and how players earn points.\
-In quizzes, you can change the round type in the **Round type** select field at the top middle of the screen.\
-The round type influences the way the game shows the questions to the players — and how players earn points.\
-In quizzes, you can change the round type in the **Round type** select field at the top middle of the screen.
+Het soort ronde beïnvloedt hoe het spel de vragen aan spelers toont — en hoe spelers punten verdienen.\
+In quizzen, kun je het ronde-type in het **rondetype** select veld in het midden van het scherm bovenaan.
 
-## 🧠 Gewone rondes
+## 🧠 Normale rondes
 
 - [Trivia](011-trivia.md) (standaard)
-- [Common Thread](012-common-thread.md)
-- [Lightning Round](013-lightning-round.md)
+- [Rode draad](012-common-thread.md)
+- [Bliksemronde](013-lightning-round.md)
 
 ## 🤹 Interactieve rondes
 
@@ -30,29 +25,26 @@ Deze rondes bieden iets meer interactie dan simpele vraag-en-antwoord rondes.
 
 ## 🍺 Traditioneel
 
-For anyone who wants to organize traditional pub quizzes where players can change their answers until the end of the round.\
-These round types simulate "handing in the papers" after each round.\
-Deze ronden types simuleren "inleveren van de papieren" na elke ronde.\
-Deze ronden types simuleren "inleveren van de papieren" na elke ronde.\
-Deze ronden types simuleren "inleveren van de papieren" na elke ronde.
+Voor iedereen die traditionele kroegquizzen wil organiseren waarbij spelers hun antwoorden tot het einde van de ronde kunnen veranderen.\
+Deze rondetypen simuleren het "inleveren van de papieren" na elke ronde.
 
-- [Traditional](030-traditional.md)
-- [Traditional — Common thread](031-traditional-ct.md)
-- [Alphabet](032-alphabet.md)
+- [Traditioneel](030-traditional.md)
+- [Traditioneel — Rode draad](031-traditional-ct.md)
+- [Alfabet](032-alphabet.md)
 
 ## 🎉 Live evenementen
 
 Deze ronden types bevatten geen vragen — maar beïnvloeden het verloop van het spel.
 
 - [Activity](040-activity.md)
-- [Intermission](060-intermission.md)
-- [Player introduction](061-player-introduction.md)
-- [Elimination](050-elimination.md)
-- [Reset points](051-reset-points.md)
+- [Pauze](060-intermission.md)
+- [Spelersintroductie](061-player-introduction.md)
+- [Eliminatie](050-elimination.md)
+- [Reset punten](051-reset-points.md)
 
 ## 🏢 Afdelingen
 
 In deze ronden types kun je specifieke **afdelingen** selecteren die tegen andere afdelingen spelen.
 
-- [Department — Dealer's choice](070-departments-dealers-choice.md)
-- [Department — Elimination](071-departments-elimination.md)
+- [Afdeling — Dealer's choice](070-departments-dealers-choice.md)
+- [Afdeling — Eliminatie](071-departments-elimination.md)
