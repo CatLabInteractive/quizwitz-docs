@@ -8,6 +8,7 @@ title: Introductie
 Welkom bij de gids voor quizmakers!\
 Welkom bij de gids voor quizmakers!\
 Welkom bij de gids voor quizmakers!\
+Welkom bij de gids voor quizmakers!\
 Welcome to the guide for quiz creators!\
 On QuizWitz, you can build and organize your own quiz content — or collect and remix content made by others.
 
@@ -43,12 +44,14 @@ To create and publish **Full Quizzes**, you’ll need a [Premium license](https:
 This unlocks the ability to combine Round-Abouts, set custom order, and use advanced features.\
 Dit maakt het mogelijk om Round-Abouts te combineren, aangepaste volgorde in te stellen en geavanceerde functies te gebruiken.\
 Dit maakt het mogelijk om Round-Abouts te combineren, aangepaste volgorde in te stellen en geavanceerde functies te gebruiken.\
+Dit maakt het mogelijk om Round-Abouts te combineren, aangepaste volgorde in te stellen en geavanceerde functies te gebruiken.\
 Dit maakt het mogelijk om Round-Abouts te combineren, aangepaste volgorde in te stellen en geavanceerde functies te gebruiken.
 
 Round-Abouts kunnen altijd gratis worden gemaakt en gedeeld!
 
 ---
 
+Klaar om te beginnen?\
 Klaar om te beginnen?\
 Klaar om te beginnen?\
 Klaar om te beginnen?\
