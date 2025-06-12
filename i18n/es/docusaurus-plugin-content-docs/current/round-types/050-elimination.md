@@ -6,6 +6,7 @@ title: Eliminación
 # 🚫 Eliminación
 
 La **eliminación** es un evento especial que elimina automáticamente a jugadores o equipos del juego basándose en su clasificación o puntuación actual.\
+¡Es una herramienta útil para torneos, playoffs, o añadir giros dramáticos en eventos en vivo!\
 ¡Es una herramienta útil para torneos, playoffs, o añadir giros dramáticos en eventos en vivo!
 
 ---
