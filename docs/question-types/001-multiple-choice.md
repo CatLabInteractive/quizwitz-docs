@@ -28,7 +28,7 @@ Multiple choice questions use **time-based scoring** by default: faster answers 
 **You can also turn off time-based scoring per question** if you want all correct answers to receive the same score.  
 You can further adjust this balance in the round settings.
 
-See [Scoring options in round settings](../editor/008-round-options.md#scoring) for full details.
+See [Scoring options in round settings](../editor/008-round-options.md#-scoring-options) for full details.
 
 ---
 
