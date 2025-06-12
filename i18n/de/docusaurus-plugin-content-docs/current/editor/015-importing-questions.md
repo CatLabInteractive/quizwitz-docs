@@ -5,67 +5,67 @@ title: Fragen importieren
 
 # 📥 Fragen importieren
 
-Es gibt zwei Möglichkeiten, um Fragen schnell zu einer Runde in QuizWitz hinzuzufügen:
+In QuizWitz gibt es zwei Möglichkeiten, schnell Fragen zu einer Runde hinzuzufügen:
 
-- Bestehende Inhalte aus der **QuizWitz Bibliothek** importieren
-- Eine Liste mit Fragen aus einer **Tabellenkalkulation** einfügen
+- Importiere vorhandene Inhalte aus der **QuizWitz-Bibliothek**
+- Füge eine Liste von Fragen aus einer **Tabellenkalkulation** ein
 
-Beide Optionen sind innerhalb jeder Runde zugänglich.
+Beide Optionen sind von jeder Runde aus erreichbar.
 
 ---
 
-## 📚 Import aus der QuizWitz Bibliothek
+## 📚 Import aus der QuizWitz-Bibliothek
 
-Nutze den Tab **QuizWitz Bibliothek**, um Fragen, Runden oder Quizze zu suchen und zu importieren, die von dir oder anderen Erstellern erstellt wurden.
+Benutze den Reiter **QuizWitz Library** um Fragen, Runden oder Quizzen zu suchen und zu importieren, die von dir oder anderen Erstellern erstellt wurden.
 
-1. Öffne die Runde, in die du Inhalte importieren möchtest
-2. Klicke auf den Tab **QuizWitz Bibliothek**
-3. Nutze Filter wie Sprache, Sammlung, Typ, Kategorie oder Tags
-4. Wähle einen oder mehrere Einträge aus
-5. Klicke auf **X Artikel hinzufügen**, um die ausgewählten Inhalte in dein Quiz einzufügen
+1. Öffne die Runde, in der du Inhalte importieren möchtest
+2. Klicke auf den Reiter **QuizWitz Library**
+3. Filter wie Sprache, Sammlung, Typ, Kategorie oder Tags verwenden
+4. Wählen Sie einen oder mehrere Einträge
+5. Klicke **Füge X Elemente hinzu** um den ausgewählten Inhalt in dein Quiz einzufügen
 
 ![QuizWitz Bibliothek](/images/import/import-from-quizwitz.png)
 
-> ✅ Verwende diese Methode, um hochwertige Inhalte wiederzuverwenden oder mehrere öffentliche Round-Abouts zu einem größeren Quiz zu kombinieren.
+> ✅ Verwenden Sie diese Methode, um hochwertige Inhalte wiederzuverwenden oder mehrere öffentliche Rundum-Abouts zu einem größeren Quiz zu kombinieren.
 
 ---
 
-## 📋 Import aus einer Tabellenkalkulation
+## :Zwischenablage: Aus einer Tabelle importieren
 
-Um viele Fragen auf einmal schnell zu erstellen, nutze den Tab **Import aus Tabellenkalkulation**.
+Um schnell viele Fragen auf einmal zu erstellen, benutzen Sie den **Import aus der Tabelle** Tabelle.
 
 1. Öffne eine Runde
-2. Klicke auf den Tab **Import aus Tabellenkalkulation**
-3. Füge Zeilen mit **tabulatorgetrennten** Werten ein (kopiert aus Excel, Google Sheets usw.)
-4. Klicke auf **Fragen importieren**
+2. Klicken Sie auf den **Import von Tabellenkalkulation**
+3. Fügen Sie Zeilen von **tab-getrennten** Werten ein (kopiert von Excel, Google Sheets, etc.)
+4. Klicke **Importiere Fragen**
 
-![Import aus Tabellenkalkulation](/images/import/import-from-spreadsheet.png)
+![Aus Tabelle importieren](/images/import/import-from-spreadsheet.png)
 
 ---
 
 ### 🗂️ Format zum Einfügen
 
-Jede Zeile muss die folgenden Spalten in genau dieser Reihenfolge enthalten:
+Jede Zeile muss die folgenden Spalten in dieser exakten Reihenfolge enthalten:
 
-1. **Kurze Frage** — Wird auf dem Bildschirm der Spieler angezeigt
+1. **Kurze Frage** — Auf dem Spielerbildschirm angezeigt
 2. **Richtige Antwort**
-3. **Falsche Antwort 1** (für offene Fragen leer lassen)
+3. **Falsche Antwort 1** (leer lassen für offene Fragen)
 4. **Falsche Antwort 2**
 5. **Falsche Antwort 3**
-6. **Kurzes Feedback** — Wird nach der Beantwortung auf dem Bildschirm der Spieler angezeigt
-7. **Long question** _(optional)_ — Displayed on the quizmaster screen
-8. **Long feedback** _(optional)_ — Explanation for the quizmaster to read aloud
+6. **Kurzes Feedback** — Auf dem Spielerbildschirm nach dem Beantworten angezeigt
+7. **Lange Frage** _(optional)_ — Auf dem Quizmaster-Bildschirm angezeigt
+8. **Langes Feedback** _(optional)_ — Erklärung für den Quizmaster vorzulesen
 
-> 📌 Die letzten zwei Spalten werden nur in [QuizWitz Live](../quizmaster/001-introduction.md) verwendet, müssen aber trotzdem enthalten sein (auch wenn sie leer bleiben).
+> 📌 Die letzten beiden Spalten werden nur in [QuizWitz Live](../quizmaster/001-introduction.md), aber sie müssen immer noch enthalten sein (auch wenn sie leer bleiben).
 
 ---
 
-## ✅ Nach dem Importieren
+## ✅ Nach dem Import
 
-Egal ob aus der Bibliothek oder aus einer Tabellenkalkulation importiert:
+Ob Import aus der Bibliothek oder einer Tabellenkalkulation:
 
-- Überprüfe deine Fragen auf Formatierung und Verständlichkeit
-- Aktualisiere alle Metadaten wie Kategorie, Rundentyp oder Anhänge
-- Vergiss nicht, dein Quiz zu **speichern**
+- Überprüfen Sie Ihre Fragen für Formatierung und Klarheit
+- Metadaten wie Kategorie, runden Typ oder Anhänge aktualisieren
+- Vergessen Sie nicht, Ihr Quiz **zu speichern**
 
-📘 Möchtest du deine Fragen noch weiter verbessern? Mach weiter im [Schreibfragen-Leitfaden](../editor/005-writing-questions.md).
+📘 Möchten Sie Ihre Fragen weiter verbessern? Weiter in der [Fragenanleitung schreiben](../editor/005-writing-questions.md).

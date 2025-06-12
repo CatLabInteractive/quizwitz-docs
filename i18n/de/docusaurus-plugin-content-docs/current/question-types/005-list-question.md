@@ -1,64 +1,62 @@
 ---
 id: list-question
-title: Listenfrage
+title: Frage auflisten
 ---
 
-# 📝 Listenfrage
+# 📝 Frage auflisten
 
-Eine **Listenfrage** fordert Spieler dazu auf, mehrere richtige Antworten aus einer größeren Liste zu nennen – perfekt für Aufforderungen wie „Nenne die ersten 5 Präsidenten der Vereinigten Staaten von Amerika“ oder „Nenne drei Elemente im Periodensystem.“
-
----
-
-![Beispiel: Listenfrage mit US-Präsidenten](/images/question-modes/list-question/list-question.png)
+Eine **Listenfrage** bittet die Spieler, mehrere richtige Antworten aus einer größeren Liste zu geben – perfekt für Eingabeaufforderungen wie „Liste der ersten 5 Präsidenten der Vereinigten Staaten von Amerika“ oder „Benennen Sie drei Elemente in der periodischen Tabelle“.
 
 ---
 
-## 📝 So funktioniert's
+![Beispiel: Frage mit US-Präsidenten auflisten](/images/question-modes/list-question/list-question.png)
 
-- **Frage:** Gib klar an, was die Spieler auflisten sollen.
-- **Listeneinträge:** Trage alle möglichen richtigen Antworten ein.
-  - Markiere einige als **‚Gegeben‘**, damit sie als Beispiele auf dem Bildschirm angezeigt werden; diese müssen NICHT beantwortet werden.
-  - Die Reihenfolge ist **egal** – Spieler können richtige Antworten in beliebiger Reihenfolge eingeben.
-- **Spielereingabe:** Spieler müssen eine bestimmte Anzahl an Antworten geben (z. B. zwischen 1 und 5). Für jede richtige Antwort gibt es Punkte.
-- **Anhänge:** Füge Bilder, Audio oder Videos für den Kontext hinzu. Fülle die Quellenangabe aus, wenn du veröffentlichst.
+---
+
+## 📝 So funktioniert es
+
+- **Frage:** Gib klar an, was du auflisten möchtest.
+- **Listenelemente:** Geben Sie alle möglichen korrekten Antworten ein.
+  - Markiere einige als \*\*‘Given’, um sie als Beispiele auf dem Bildschirm zu zeigen; diese müssen NICHT beantwortet werden.
+  - Die Bestellung macht **nicht** wichtig — die Spieler können die richtigen Antworten in beliebiger Reihenfolge eingeben.
+- **Spielereingabe:** Spieler müssen eine bestimmte Anzahl von Antworten angeben (z.B. zwischen 1 und 5). Punkte werden für jede richtige Antwort vergeben.
+- **Anhänge:** Füge Bilder, Audio oder Video für Kontext hinzu. Attribut bei Veröffentlichung ausfüllen.
 
 ---
 
 ## ⚙️ Erweiterte Einstellungen
 
-- **Minimale und maximale Antworten:** Definiere, wie viele Antworten ein Spieler geben muss.
-- **Punkte pro Antwort:** Punkte können für jede richtige Antwort vergeben werden oder nur, wenn die Mindestzahl erreicht ist.
-- **Gegebene Optionen:** Als Beispiele in der Frage verwenden.
+- **Minimale und maximale Antworten:** Legen Sie fest, wie viele Antworten ein Spieler geben muss.
+- **Punkte pro Antwort:** Punkte können für jede richtige Antwort vergeben werden, oder nur, wenn die minimale Zahl erreicht ist.
+- **Angegebene Optionen:** Als Beispiele für Fragen verwenden.
 - **Korrektur:**
-  - **Automatische Korrektur erzwingen:** Wenn aktiviert, überprüft QuizWitz automatisch alle Antworten (akzeptiert kleine Tippfehler und Variationen). Kein Jury-Einsatz nötig.
-  - **Manuelle Überprüfung:** Wenn nicht aktiviert, muss jede abgegebene Antwort in der [Jury-App](../quizmaster/004-jury-app.md) überprüft werden.
+  - **Automatische Korrektur erzwingen:** Wenn aktiviert, überprüft QuizWitz automatisch alle Antworten (akzeptiert kleine Korrekturen und Variationen). Keine Jury erforderlich.
+  - **Manuelle Überprüfung:** Wenn nicht aktiviert, muss jede Antwort von der [Jury-App] überprüft werden (../quizmaster/004-jury-app.md).
 
 ---
 
-## 🏆 Punktevergabe
+## :trophäe: Scoring
 
-- **Punkte pro richtige Antwort:** Spieler erhalten Punkte für jede richtige Antwort.
-- **Time-based scoring** (if enabled):\
-  Follows the **open question rules** for fairness:
-  - Die verfügbaren Punkte werden in Zeitblöcke aufgeteilt (nicht in Millisekunden).\
-    The available points are split into blocks of time (not by the millisecond).\
-    For example: full points in the first block, 80% in the next, and so on.
-  - **Nur 25 %** der Punkte hängen von der Schnelligkeit ab.\
-    **Only 25%** of the points depend on speed.\
-    The other **75%** is fixed — so even slower typers get most of the points if they answer correctly.
-  - Dadurch wird die Strafe für Tippgeschwindigkeit verringert und die Punktevergabe für alle fairer.
+- **Punkte pro richtige Antwort:** Spieler verdienen Punkte für jede richtige Antwort.
+- **Zeitbasierte Scoring** (falls aktiviert):\
+  folgt den **offenen Frageregeln** für Fairness:
+  - Die verfügbaren Punkte werden in Zeitblöcke aufgeteilt (nicht nach Millisekunden).\
+    Zum Beispiel: volle Punkte im ersten Block, 80% im nächsten Block, und so weiter.
+  - **Nur 25%** der Punkte hängen von der Geschwindigkeit ab.\
+    Die anderen **75%** sind fixiert — so erhalten auch langsamere Tipper die meisten Punkte, wenn sie richtig antworten.
+  - Dies reduziert die Strafe für die Eingabe der Geschwindigkeit und macht das Scoring für alle gerechter.
 
-Für Details siehe [Runden-Punkteoptionen](../editor/008-round-options.md#scoring).
+Weitere Informationen hierzu finden Sie unter [Runden Scoring Optionen](../editor/008-round-options.md#scoring).
 
 ---
 
 ## 💡 Tipps für Listenfragen
 
-- **Sei spezifisch:** Definiere gültige Antworten klar.
-- **Zeige Beispiele:** Nutze die ‚Gegeben‘-Funktion.
-- **Liste Varianten auf:** Berücksichtige häufige Schreibweisen/Variationen.
-- **Verringere Jury-Arbeit:** Nutze nach Möglichkeit automatische Korrektur.
+- **Sei spezifisch:** Definiere eindeutig gültige Antworten.
+- **Beispiele anzeigen:** Benutzen Sie die 'Given' Funktion.
+- **Listenvariante:** Häufige Schreibweisen/Variationen einschließen.
+- **Reduzieren der Juryarbeit:** Automatische Korrektur verwenden, wenn möglich.
 
 ---
 
-Mehr dazu findest du in der [Jury-App-Dokumentation](../quizmaster/004-jury-app.md).
+Weitere Informationen finden Sie unter [Jury App-Dokumentation](../quizmaster/004-jury-app.md).

@@ -1,51 +1,48 @@
 ---
 id: multiple-choice
-title: Pregunta de opción múltiple
+title: Pregunta de elección múltiple
 ---
 
 # 🔢 Opción múltiple
 
-Una pregunta de opción múltiple regular permite a los jugadores seleccionar la respuesta correcta entre varias opciones dadas.
+Una pregunta regular de elección múltiple permite a los jugadores seleccionar la respuesta correcta de varias opciones dadas.
 
 ---
 
-![Ejemplo: Pregunta de opción múltiple sobre banderas](/images/question-modes/multiple-choice/multiple-choice-wales.png)
+![Ejemplo: Pregunta de elección múltiple sobre banderas](/images/question-modes/multiple-choice/multiple-choice-wales.png)
 
 ---
 
 ## 📝 Cómo funciona
 
-- **Pregunta:** Indica claramente qué deben responder los jugadores (ejemplo: “Selecciona la bandera de 🐟🐟🐟”).
+- **Pregunta:** Estate claramente qué jugadores deben responder (ejemplo: “Selecciona la bandera de 🐟🐟🐟”).
 - **Opciones:** Puedes proporcionar hasta cuatro opciones de respuesta.
-- **Correcto/Incorrecto:** Marca una o más respuestas correctas, según tus ajustes.
-- **Retroalimentación:** Los jugadores ven cuál respuesta fue correcta después de responder. Opcionalmente, puedes proporcionar retroalimentación o explicaciones adicionales.
+- **Correcto/error:** Marque una o más respuestas correctas, dependiendo de su configuración.
+- **Comentarios:** Los jugadores ven qué respuesta era correcta después de responder. Opcionalmente, puede proporcionar comentarios o explicaciones adicionales.
 
 ---
 
-## 🏆 Puntuación
+## 🏆 puntuación
 
-Las preguntas de opción múltiple usan **puntuación basada en tiempo** por defecto: las respuestas más rápidas obtienen más puntos. Para estas preguntas, la puntuación disminuye continuamente por microsegundo, con la mayoría de puntos fijos y solo una porción influenciada por la velocidad.\
-For these questions, scoring decreases continuously per microsecond, with most points fixed and only a portion influenced by speed.\
-**You can also turn off time-based scoring per question** if you want all correct answers to receive the same score.\
-You can further adjust this balance in the round settings.\
-Además, puedes ajustar este equilibrio en la configuración de la ronda.
+Las preguntas de elección múltiple usan **puntuación basada en el tiempo** por defecto: respuestas más rápidas ganan más puntos. Para estas preguntas, la puntuación disminuye continuamente por microsegundo, con la mayoría de los puntos fijados y sólo una porción influenciada por la velocidad.\
+**También puedes desactivar la puntuación basada en el tiempo por pregunta** si quieres que todas las respuestas correctas reciban la misma puntuación.\
+Puedes ajustar aún más este saldo en los ajustes redondos.
 
-Consulta [Opciones de puntuación en configuración de ronda](../editor/008-round-options.md#-scoring-options) para detalles completos.
+Ver [Opciones de puntuación en ajustes de ronda](../editor/008-round-options.md#-scoring-options) para detalles completos.
 
 ---
 
-## ⚙️ Configuraciones avanzadas
+## ⚙️ Ajustes ampliados
 
-The Multiple choice question type offers many settings to fine-tune the experience and scoring.\
-See [writing questions](../editor/005-writing-questions.md) for a general overview of question settings.\
-Consulta [escribir preguntas](../editor/005-writing-questions.md) para una visión general de la configuración de preguntas.
+El tipo de pregunta de opción múltiple ofrece muchos ajustes para afinar la experiencia y puntuación.\
+Ver [escribir preguntas] (../editor/005-writing-questions.md) para una visión general de la configuración de las preguntas.
 
 ---
 
-## 💡 Consejos para excelentes preguntas de opción múltiple
+## 💡 Consejos para grandes preguntas de elección múltiple
 
-- **Sé claro y conciso:** Evita frases ambiguas.
-- **Usa respuestas incorrectas plausibles:** Haz que los distractores sean creíbles.
-- **Mezcla medios:** Añade imágenes, banderas o sonidos para mayor interés.
-- **Ordena aleatoriamente:** Mantén la equidad para todos los jugadores.
-- **Etiqueta y categoriza:** Para facilitar la navegación y búsqueda.
+- **Ser claro y conciso:** Evitar palabras ambiguas.
+- **Usa respuestas erróneas plausibles:** Haz que los distractores sean creíbles.
+- **Mezcla media:** Añade imágenes, banderas o sonidos para el compromiso.
+- **Orden aleatoria:** Mantenga las cosas limpias para todos los jugadores.
+- **Etiqueta y categoría:** Para una fácil navegación y búsqueda.

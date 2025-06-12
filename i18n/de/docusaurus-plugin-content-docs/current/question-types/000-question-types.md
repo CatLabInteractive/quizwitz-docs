@@ -1,33 +1,33 @@
 ---
 id: question-types
-title: Fragetypen
+title: Fragentypen
 ---
 
-# Fragetypen
+# Fragentypen
 
-QuizWitz unterstützt verschiedene Fragetypen. Jeder Typ hat seine eigenen Regeln und Spielmechaniken.
-Wir empfehlen, eine Mischung verschiedener Typen zu verwenden, um das Spiel interessant und spannend zu halten.
+QuizWitz unterstützt verschiedene Fragetypen. Jeder Typ hat seine eigenen Regeln und Spielmechanik.
+Wir schlagen vor, einen Mix verschiedener Arten zu verwenden, um das Spiel interessant und engagiert zu halten.
 
-Beachte, dass einige Rundentypen die Fragetypen einschränken, die du verwenden kannst.
+Beachten Sie, dass einige runde Typen die Fragentypen begrenzen, die Sie verwenden können.
 
-## Reguläre Fragetypen
+## Normale Fragentypen
 
-Dies sind die häufigsten Fragetypen. Sie sind leicht zu verstehen und zu spielen.
+Dies sind die gängigsten Fragetypen. Sie sind leicht zu verstehen und zu spielen.
 
-- [Multiple choice](001-multiple-choice.md) (Standard)
-- [Order question](003-order-question.md)
-- [Image map question](004-image-map.md)
+- [Multiple Choice](001-multiple-choice.md) (Standard)
+- [Frage bestellen](003-order-question.md)
+- [Frage zur Bildkarte](004-image-map.md)
 
-## Offene Fragen
+## Fragen öffnen
 
-Offene Fragen erfordern, dass die Spieler ihre Antworten eingeben.
+Offene Fragen erfordern von Spielern, ihre Antworten einzugeben.
 
-- [Open question](002-open-question.md)
-- [List question](005-list-question.md)
+- [Frage öffnen](002-open-question.md)
+- [Frage auflisten](005-list-question.md)
 
-## Spezialfragen
+## Specials
 
-Diese Fragen machen das Spiel etwas weniger fair, aber sie helfen sicherzustellen, dass es immer einen Gewinner gibt.
+Diese Fragen machen das Spiel etwas weniger fair, aber sie helfen, sicherzustellen, dass es immer einen Gewinner gibt.
 
-- [Tiebreaker question](006-tiebreaker-question.md)
-- [Best answer question](007-best-answer-question.md)
+- [Tiebreaker Frage](006-tiebreaker-question.md)
+- [Beste Antwortfrage](007-best-answer-question.md)

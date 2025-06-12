@@ -8,15 +8,15 @@
     "description": "The label for category For players in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.For quizmakers": {
-    "message": "Para creadores de quiz",
+    "message": "Para cuestionarios",
     "description": "The label for category For quizmakers in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.For quizmasters": {
-    "message": "Para quizmasters",
+    "message": "Para cuestionarios",
     "description": "The label for category For quizmasters in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Round types": {
-    "message": "Tipos de rondas",
+    "message": "Tipos de ronda",
     "description": "The label for category Round types in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Question types": {

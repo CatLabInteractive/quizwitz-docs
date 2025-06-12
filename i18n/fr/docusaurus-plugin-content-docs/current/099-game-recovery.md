@@ -1,59 +1,59 @@
 ---
 id: live-crash-recovery
-title: ⚠️ Récupération en direct après plantage
+title: ⚠️ Récupération du crash en direct
 sidebar_position: 1000
 ---
 
-# ⚠️ Récupération en direct après plantage
+# ⚠️ Récupération du crash en direct
 
-Votre jeu a-t-il gelé ? L’onglet s’est-il fermé par accident ? [**QuizWitz Live**](quizmaster/001-introduction.md) inclut un système de récupération intégré pour vous aider à reprendre le cours — sans perdre votre progression.
+Votre jeu a-t-il gelé ? L'onglet est-il fermé par accident ? [**QuizWitz Live**](quizmaster/001-introduction.md) inclut un système de récupération intégré pour vous aider à reprendre la piste, sans perdre votre progression.
 
 ---
 
 ## 🔄 Comment fonctionne la récupération du jeu
 
-Si votre jeu plante, se fige ou est interrompu pour une quelconque raison — que ce soit un souci de navigateur, un redémarrage système ou une fermeture accidentelle de l’onglet — vous pouvez facilement reprendre la session.
+Si votre jeu plante, bloque ou est interrompu pour une raison quelconque — qu'il s'agisse d'un problème de navigateur, redémarrage du système, ou fermeture accidentelle des onglets — vous pouvez reprendre la session facilement.
 
-Il suffit de **réouvrir le même onglet ou écran de jeu** que vous utilisiez pour afficher la **vue principale du jeu**. C’est l’écran que vous projetez ou diffusez à votre audience.
+Il vous suffit de **rouvrir le même onglet ou écran de jeu** que vous utilisiez pour afficher la **vue du jeu principal**. Il s'agit de l'écran que vous projetez ou diffusez à votre public.
 
-Quand il se charge :
+Quand il se charge:
 
-- On vous proposera de **reprendre la session précédente** ou de **commencer une nouvelle**
-- Si vous choisissez de reprendre, le jeu restaurera votre progression au plus près
-
----
-
-### ▶️ Reprise du jeu
-
-Sélectionnez **« Reprendre le jeu »** pour :
-
-- Continuer à partir de la même question ou manche
-- Restaurer l’état du quiz et les visuels
-
-> ✅ C’est la meilleure option si votre jeu a planté, gelé ou été fermé accidentellement.
+- Vous serez invité à **reprendre la session précédente** ou **commencer une nouvelle**
+- Si vous choisissez de reprendre, le jeu restaurera votre progression aussi près que possible
 
 ---
 
-### 🆕 Commencer une nouvelle partie
+### ▶️ Reprise de la partie
 
-Vous pouvez aussi choisir de **démarrer une nouvelle partie** à la place.
+Sélectionnez **“Reprendre le jeu”** à:
 
-- Cela effacera complètement **la session précédente**
-- Vous reviendrez au début de la configuration du quiz
+- Continuer depuis la même question ou la même ronde
+- Restaurer l'état et les visuels du quiz
 
-> ⚠️ Ne choisissez cela que si vous êtes sûr de ne pas vouloir continuer la partie en cours.
+> ✅ C'est la meilleure option si votre jeu a planté, gelé ou a été fermé accidentellement.
+
+---
+
+### 🆕 Démarrage d'une nouvelle partie
+
+Vous pouvez aussi choisir de **commencer une nouvelle partie** à la place.
+
+- Ceci **effacera complètement la session précédente**
+- Vous retournerez au début de la configuration du quiz
+
+> ⚠️ Ne choisissez ceci que si vous êtes certain de ne pas vouloir continuer le jeu existant.
 
 ---
 
 ## 💡 Bon à savoir
 
 - La récupération ne fonctionne que si vous **revenez au même écran de jeu dans le même navigateur**
-- Ne **naviguez pas** vers une autre page — réouvrez **l’URL exacte** que vous utilisiez pour héberger le jeu
-- Cette fonctionnalité aide à récupérer d’erreurs telles que :
-  - Plantages du navigateur
-  - Gel ou blocage en plein quiz
-  - Fermeture ou rafraîchissement accidentel
+- Ne **pas** naviguer sur une page différente — rouvre **l'URL exacte** que vous utilisiez pour héberger le jeu
+- Cette fonctionnalité permet de récupérer à partir de :
+  - crashes du navigateur
+  - Geler ou suspendre le quiz
+  - Fermeture accidentelle ou actualisation
 
 ---
 
-Avec la récupération du jeu, vous pouvez animer en toute confiance — en sachant que même si quelque chose tourne mal, vous pourrez reprendre exactement où vous en étiez.
+Avec la récupération du jeu, vous pouvez héberger en toute confiance — sachant que même si quelque chose se passe mal, vous pouvez reprendre là où vous l’avez laissé.

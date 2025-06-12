@@ -8,7 +8,7 @@
     "description": "The label for category For players in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.For quizmakers": {
-    "message": "Pour les quizmakers",
+    "message": "Pour les questionnaires",
     "description": "The label for category For quizmakers in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.For quizmasters": {
@@ -16,7 +16,7 @@
     "description": "The label for category For quizmasters in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Round types": {
-    "message": "Types de rounds",
+    "message": "Types de manches",
     "description": "The label for category Round types in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Question types": {

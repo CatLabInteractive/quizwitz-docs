@@ -1,94 +1,93 @@
 ---
 id: emerald-theme
-name: Thème Emerald
+name: Thème émeraude
 ---
 
-# Thème Emerald
+# Thème émeraude
 
-Le thème Emerald est le moyen le plus simple de personnaliser l'apparence de votre jeu QuizWitz. Par défaut, le thème présente un style bleu / vert épuré avec des couleurs d'options vives, mais en combinant les pièces jointes du quiz et les modificateurs de thème, vous pouvez changer radicalement son apparence.
+Le thème Émeraude est la façon la plus simple de personnaliser l’apparence de votre jeu QuizWitz. Par défaut, le thème est un style bleu / vert propre avec des couleurs vives d'options, mais en combinant des pièces jointes au quiz et des modificateurs de thème, vous pouvez changer l'apparence de celui-ci — de façon drastique.
 
 :::tip
-Vous pouvez utiliser notre [testeur de thème](https://client.quizwitz.com/test.html?theme=emerald) pour voir à quoi ressembleront vos réglages.
+Vous pouvez utiliser notre [testeur de thèmes](https://client.quizwitz.com/test.html?theme=emerald) pour voir à quoi ressembleront vos paramètres.
 :::
 
-![Une capture d'écran du thème emerald](/images/emerald/emerald.png)
+![A screenshot of the emerald theme](/images/emerald/emerald.png)
 
-## Sélectionnez le thème Emerald
+## Sélectionnez le thème émeraude
 
-Dans vos **Paramètres du Quiz**, sélectionnez **Thème** et activez **Emerald**.
+Dans vos **paramètres de Quiz**, sélectionnez **Thème** et activez **Émeraude**.
 
-Vous pouvez tester un quiz utilisant le thème Emerald [ici](https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default).
+Vous pouvez tester un quiz en utilisant le thème Emeraude [here](https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default).
 
-![Une capture d'écran des paramètres du quiz](/images/emerald/quiz-settings.png)
+![A screenshot of the quiz settings](/images/emerald/quiz-settings.png)
 
-## Pièces jointes
+## Fichiers joints
 
-### Pièces jointes du quiz
+### Pièces jointes au quiz
 
-De loin la façon la plus simple de changer l'apparence et l'ambiance du jeu est d'ajouter des images à votre quiz. Ouvrez les **Paramètres du Quiz** et descendez jusqu'à la section **Pièces jointes**. Ici, vous pouvez télécharger des images qui serviront de fond, logo client, écrans de connexion — et de mise en attente (pour les conférences — et quiz en direct), et plus encore.
+De loin, la façon la plus simple de changer l'apparence du jeu consiste à attacher des images à votre quiz. Ouvrez les **paramètres du questionnaire** et descendez jusqu'à la section **Pièces jointes**. Ici vous pouvez télécharger des images qui seront utilisées en arrière-plan, le logo du client, connectez — et attendez les écrans (pour la conférence — et les quiz en direct) et plus encore.
 
-![Une capture d'écran des pièces jointes du quiz](/images/emerald/quiz-attachments.png)
+![A screenshot of the quiz attachments](/images/emerald/quiz-attachments.png)
 
-### Pièces jointes des rounds
+### Pièces jointes arrondies
 
-Vous pouvez aussi télécharger des images ou vidéos qui seront diffusées avant et après le jeu. Cela s'applique aussi aux rounds : trouvez une image que vous voulez utiliser comme introduction de round, allez dans **paramètres du round**, désactivez **Afficher intro du round** pour cacher l'introduction par défaut, et téléchargez votre image ou vidéo comme **Afficher avant le round**. Quand le round démarre, l'image ou vidéo sera affichée à la place de l'introduction par défaut.
+Vous pouvez également télécharger des images ou des vidéos qui seront lues avant et après le jeu. Cela vaut aussi pour les rondes : trouvez une image que vous voulez utiliser comme introduction à la ronde, allez dans les **paramètres arrondiss**, désactivez **Show round intro** pour masquer l'introduction par défaut, et téléchargez votre image ou vidéo en tant que **Show before round**. Lorsque la manche démarre, l'image ou la vidéo sera affichée au lieu de l'introduction par défaut.
 
-![Une capture d'écran des pièces jointes des rounds](/images/emerald/round-settings.png)
+![A screenshot of the round attachments](/images/emerald/round-settings.png)
 
 :::tip
-Utilisez des images et vidéos avec une résolution de 1920 x 1080 pour de meilleurs résultats.
+Utilisez des images et des vidéos d'une résolution de 1920 x 1080 pour de meilleurs résultats.
 :::
 
 :::info
-Après avoir joué avec les pièces jointes, on obtient quelque chose [comme ceci](https://play.quizwitz.com/11487:ACz546ejAV/emerald-theme-tutorial-background-logo).
+Après avoir joué avec les pièces jointes, nous nous retrouvons avec quelque chose [comme ça](https://play.quizwitz.com/11487:ACz546ejAV/emerald-theme-tutorial-background-logo).
 :::
 
-![Une capture d'écran du thème emerald avec pièces jointes au quiz](/images/emerald/emerald-with-attachments.png)
+![A screenshot of the emerald theme with quiz attachments](/images/emerald/emerald-with-attachments.png)
 
 ### Musique
 
-Toute la musique dans le jeu peut aussi être remplacée par des pièces jointes. Tous les fichiers audio téléchargés dans les emplacements **pendant la question** seront joués pendant le compte à rebours de la question.
+Toutes les musiques du jeu peuvent également être remplacées par des pièces jointes. Tous les fichiers audio téléchargés dans les créneaux **pendant la question** seront joués pendant le compte à rebours des questions.
 
-## Modificateurs du thème Emerald
+## Modificateurs de thème émeraude
 
-En plus des pièces jointes, vous pouvez aussi manipuler le thème Emerald avec des **paramètres de requête**. Ce sont des paramètres que vous pouvez ajouter à l'URL des **options avancées de jeu** — et ils modifient l'apparence du thème.
+En plus des pièces jointes, vous pouvez aussi manipuler le thème Emerald avec des **paramètres de requête**. Ce sont des paramètres que vous pouvez ajouter à l'URL **options de jeu avancées** — et ils changent l'apparence du thème.
 
-For this, we will start with an example quiz (without any attachments):\
+Pour cela, nous allons commencer par un exemple de quiz (sans pièces jointes) :\
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 
-Quand vous lancez ce quiz, le jeu sera dans le style Emerald par défaut. Changeons cela.
+Lorsque vous démarrez le quiz ci-dessus, le jeu sera dans le style Emeraude par défaut. Allons-y.
 
 :::tip
-Le moyen le plus simple pour expérimenter avec ces paramètres est d'utiliser notre testeur de thème.\
-The easiest way to experiment with these parameters is by using our theme tester.\
-When you are done experimenting, you can copy — paste the parameters to your advanced game options URL.
+La façon la plus simple d'expérimenter ces paramètres est d'utiliser notre testeur de thèmes.\
+Lorsque vous avez fini d'expérimenter, vous pouvez copier — collez les paramètres dans l'URL des options de jeu avancées.
 :::
 
-Les modificateurs disponibles sont :
+Les modificateurs disponibles sont:
 
-- backgroundColor
-- mainColor
+- Couleur de fond
+- Couleur principale
 - accentColor
-- timerBackgroundColor
+- Couleur de fond du chronomètre
 - headerTextColor
 - optionTextColor
-- optionColors (4 couleurs, séparées par des virgules)
-- optionBorderColors (4 couleurs, séparées par des virgules)
+- optionCouleurs (4 couleurs, virgule — séparées)
+- optionBorderColors (4 couleurs, virgule — séparées)
 
 De plus, vous pouvez définir une police par défaut :
 
 - defaultFont
-- headerFont
+- Police de l'en-tête
 
-Ces polices doivent être des URL vers des fichiers de polices accessibles publiquement.
+Ces polices doivent être des URL pour les fichiers de police accessibles au public.
 
-Chacun de ces modificateurs peut contenir une seule couleur en format hexadécimal HTML (ff0000), ou un dégradé linéaire en fournissant plusieurs couleurs séparées par un trait d'union (— par exemple ff1b6b-45caff). (Notez que le symbole # ne doit pas être ajouté.)
+Chacun de ces modificateurs peut contenir une seule couleur au format HTML hexadécimal (ff0000), ou un dégradé linéaire en fournissant des couleurs multiples divisées par un symbole moins ( — par exemple ff1b6b-45caff). (Notez que le symbole # ne doit pas être ajouté.)
 
 :::note
-Les paramètres de requête doivent commencer par un point d'interrogation ( ? ) et chaque paramètre doit être séparé par un esperluette ( & ). Pour plus d'informations sur les paramètres de requête, visitez [wikipedia](https://fr.wikipedia.org/wiki/Chaîne_de_requête).
+Les paramètres de la requête doivent commencer par un point d'interrogation ( ? ) et chaque paramètre doit être divisé avec un esperluette ( & ). Pour plus d'informations sur les paramètres de la requête, visitez [wikipedia](https://en.wikipedia.org/wiki/Query_string).
 :::
 
-By adding these parameters to your game URL, you can modify the colors in the theme:\
-https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
+En ajoutant ces paramètres à votre URL de jeu, vous pouvez modifier les couleurs dans le thème :\
+https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffff&timerBackgroundColor=fff95b
 
-![Une capture d'écran du thème Emerald avec modificateurs personnalisés](/images/emerald/theme_properties.png)
+![A screenshot of the Emerald theme with custom modifiers](/images/emerald/theme_properties.png)

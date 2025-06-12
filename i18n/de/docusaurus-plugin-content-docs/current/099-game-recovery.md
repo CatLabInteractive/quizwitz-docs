@@ -1,59 +1,59 @@
 ---
 id: live-crash-recovery
-title: ⚠️ Live Crash-Wiederherstellung
+title: ":Warnung: Live-Absturzwiederherstellung"
 sidebar_position: 1000
 ---
 
-# ⚠️ Live Crash-Wiederherstellung
+# :Warnung: Live-Absturzwiederherstellung
 
-Ist dein Spiel eingefroren? Wurde der Tab versehentlich geschlossen? [**QuizWitz Live**](quizmaster/001-introduction.md) enthält ein integriertes Wiederherstellungssystem, mit dem du ohne Fortschrittsverlust wieder auf Kurs kommst.
-
----
-
-## 🔄 So funktioniert die Wiederherstellung des Spiels
-
-Falls dein Spiel abstürzt, hängt oder aus irgendeinem Grund unterbrochen wird – egal ob wegen eines Browserproblems, Neustarts des Systems oder versehentlichem Schließen des Tabs – kannst du die Sitzung problemlos fortsetzen.
-
-Öffne einfach denselben Browser-Tab oder Spielbildschirm, den du zuvor für die Anzeige der **Hauptspielansicht** benutzt hast. Dies ist der Bildschirm, den du an dein Publikum projizierst oder streamst.
-
-Wenn er geladen ist:
-
-- Wirst du aufgefordert, die **vorherige Sitzung fortzusetzen** oder **eine neue zu starten**
-- Wenn du dich für Fortsetzen entscheidest, wird das Spiel deinen Fortschritt so genau wie möglich wiederherstellen
+Ist dein Spiel eingefroren? Hat der Tab zufällig geschlossen? [**QuizWitz Live**](quizmaster/001-introduction.md) enthält ein eingebautes Recovery-System, das dir hilft, wieder auf den Weg zu kommen — ohne deinen Fortschritt zu verlieren.
 
 ---
 
-### ▶️ Spiel fortsetzen
+## 🔄 Wie das Spiel wiederhergestellt wird
 
-Wähle **„Spiel fortsetzen“** um:
+Wenn dein Spiel abstürzt, hängt oder aus irgendeinem Grund unterbrochen wird – ob es sich nun um ein Browserproblem handelt Systemneustart, oder versehentliches Schließen des Tabs — Sie können die Sitzung einfach wieder aufnehmen.
 
-- Vom gleichen Frage- oder Rundenteil weiterzumachen
-- Den Quiz-Zustand und die Visualisierungen wiederherzustellen
+Öffne einfach den gleichen Browser-Tab oder den Spiele-Bildschirm, den du benutzt hast, um die **Hauptspielansicht** anzuzeigen. Dies ist der Bildschirm, den du mit deinem Publikum projizierst oder streamst.
 
-> ✅ Das ist die beste Option, wenn dein Spiel abgestürzt, eingefroren oder versehentlich geschlossen wurde.
+Wenn es lädt:
 
----
-
-### 🆕 Ein neues Spiel starten
-
-Du kannst auch wählen, stattdessen **ein neues Spiel zu starten**.
-
-- Dadurch wird die **vorherige Sitzung komplett gelöscht**
-- Du gelangst zurück zum Anfang der Quiz-Einrichtung
-
-> ⚠️ Wähle das nur, wenn du sicher bist, dass du das bestehende Spiel nicht fortsetzen möchtest.
+- Sie werden aufgefordert, die vorherige Sitzung **fortsetzen** oder **eine neue starten**
+- Wenn du dich entscheidest fortzufahren, wird das Spiel deinen Fortschritt so nah wie möglich wiederherstellen
 
 ---
 
-## 💡 Gut zu wissen
+### ▶️ Fortsetzen des Spiels
 
-- Die Wiederherstellung funktioniert nur, wenn du **zum gleichen Spielbildschirm im gleichen Browser zurückkehrst**
-- Gehe **nicht** auf eine andere Seite – öffne genau die **gleiche URL** erneut, die du zur Spielanzeige genutzt hast
-- Diese Funktion hilft dir bei der Wiederherstellung nach:
-  - Browser-Abstürzen
-  - Einfrieren oder Hängenbleiben mitten im Quiz
-  - Versehendliches Schließen oder Neuladen
+Wähle **„Spiel fortsetzen“** zu:
+
+- Weiter von der gleichen Frage oder Runde
+- Wiederherstellen des Quizstatus und der Grafiken
+
+> ✅ Dies ist die beste Option, wenn dein Spiel abgestürzt, eingefroren oder versehentlich geschlossen wurde.
 
 ---
 
-Mit der Spiel-Wiederherstellung kannst du sorgenfrei hosten – in dem Wissen, dass du, selbst wenn mal was schiefläuft, genau dort weitermachen kannst, wo du aufgehört hast.
+### 🆕 Starte ein neues Spiel
+
+Du kannst stattdessen auch ein neues Spiel **starten** wählen.
+
+- Dies wird **die vorherige Sitzung löschen**
+- Sie werden zum Anfang der Quiz-Setup zurückkehren
+
+> :Warnung: Wählen Sie dies nur, wenn Sie sicher sind, dass Sie das bestehende Spiel nicht fortsetzen möchten.
+
+---
+
+## 💡 Gut zu kennen
+
+- Wiederherstellung funktioniert nur, wenn du **zum gleichen Spielbildschirm im selben Browser zurückkehrst.**
+- Navigiere **nicht** zu einer anderen Seite — öffne die **exakte URL** mit der du das Spiel host erneut
+- Diese Funktion hilft wiederherzustellen von:
+  - Browserabstürze
+  - Gefrierend oder mitten hängend Quiz
+  - Zufällige Schließung oder Aktualisierung
+
+---
+
+Bei der Spielererholung können Sie zuversichtlich Gastgeber werden – in dem Bewusstsein, dass selbst wenn etwas schief läuft, Sie direkt dort ankommen können, wo Sie aufgehört haben.

@@ -40,6 +40,9 @@ The Multiple choice question type offers many settings to fine-tune the experien
 See [writing questions](../editor/005-writing-questions.md) for a general overview of question settings.\
 The Multiple choice question type offers many settings to fine-tune the experience and scoring.\
 See [writing questions](../editor/005-writing-questions.md) for a general overview of question settings.\
+Zie [vragen schrijven](../editor/005-writing-questions.md) voor een algemeen overzicht van vraaginstellingen.\
+The Multiple choice question type offers many settings to fine-tune the experience and scoring.\
+See [writing questions](../editor/005-writing-questions.md) for a general overview of question settings.\
 Zie [vragen schrijven](../editor/005-writing-questions.md) voor een algemeen overzicht van vraaginstellingen.
 
 ---

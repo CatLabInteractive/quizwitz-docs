@@ -1,51 +1,48 @@
 ---
 id: multiple-choice
-title: Multiple-Choice-Frage
+title: Multiple-Choice Frage
 ---
 
-# 🔢 Multiple Choice
+# 🔢 Mehrere Auswahl
 
-Eine reguläre Multiple-Choice-Frage lässt Spieler die richtige Antwort aus mehreren gegebenen Optionen auswählen.
-
----
-
-![Beispiel: Multiple-Choice-Frage zu Flaggen](/images/question-modes/multiple-choice/multiple-choice-wales.png)
+Eine reguläre Mehrfachwahlfrage ermöglicht es den Spielern, die richtige Antwort aus mehreren vorgegebenen Optionen auszuwählen.
 
 ---
 
-## 📝 So funktioniert's
-
-- **Frage:** Gib klar an, was die Spieler beantworten sollen (Beispiel: „Wähle die Flagge von 🐟🐟🐟 aus“).
-- **Optionen:** Du kannst bis zu vier Antwortoptionen anbieten.
-- **Richtig/Falsch:** Markiere eine oder mehrere richtige Antworten, je nach deinen Einstellungen.
-- **Feedback:** Die Spieler sehen nach der Antwort, welche Antwort richtig war. Optional kannst du zusätzliches Feedback oder Erklärungen geben.
+![Beispiel: Multiple-Choice-Frage zu Flags](/images/question-modes/multiple-choice/multiple-choice-wales.png)
 
 ---
 
-## 🏆 Punktevergabe
+## 📝 So funktioniert es
 
-Multiple-Choice-Fragen verwenden standardmäßig **zeitbasierte Punktevergabe**: schnellere Antworten erhalten mehr Punkte. Bei diesen Fragen sinkt die Punktezahl kontinuierlich pro Mikrosekunde, wobei die meisten Punkte fest sind und nur ein Teil von der Geschwindigkeit beeinflusst wird.\
-For these questions, scoring decreases continuously per microsecond, with most points fixed and only a portion influenced by speed.\
-**You can also turn off time-based scoring per question** if you want all correct answers to receive the same score.\
-You can further adjust this balance in the round settings.\
-Du kannst diese Balance weiter in den Runden-Einstellungen anpassen.
+- **Frage:** Stellen Sie sicher, welche Spieler antworten sollen (Beispiel: „Wählen Sie die Flagge von 🐟🐟🐟“).
+- **Optionen:** Du kannst bis zu vier Antwortoptionen angeben.
+- **Richtig/Falsch:** Markiere je nach Einstellungen eine oder mehrere richtige Antworten.
+- **Feedback:** Spieler sehen, welche Antwort nach der Beantwortung korrekt war. Optional können Sie zusätzliche Rückmeldungen oder Erklärungen abgeben.
 
-Siehe [Punkteoptionen in den Runden-Einstellungen](../editor/008-round-options.md#-scoring-options) für alle Details.
+---
+
+## :trophäe: Scoring
+
+Multiple-Choice-Fragen verwenden standardmäßig **Zeitbasierte Scoring** : schnellere Antworten verdienen mehr Punkte. Bei diesen Fragen sinkt die Punktzahl kontinuierlich pro Mikrosekunde, wobei die meisten Punkte fixiert sind und nur ein Teil durch Geschwindigkeit beeinflusst wird.\
+**Du kannst auch die zeitbasierte Punktzahl pro Frage deaktivieren** wenn du möchtest, dass alle korrekten Antworten die gleiche Punktzahl erhalten.\
+Sie können diesen Saldo in den runden Einstellungen weiter anpassen.
+
+Siehe [Sortieroptionen in runden Einstellungen](../editor/008-round-options.md#-scoring-options) für alle Details.
 
 ---
 
 ## ⚙️ Erweiterte Einstellungen
 
-The Multiple choice question type offers many settings to fine-tune the experience and scoring.\
-See [writing questions](../editor/005-writing-questions.md) for a general overview of question settings.\
-Siehe [Fragen schreiben](../editor/005-writing-questions.md) für einen allgemeinen Überblick über Frage-Einstellungen.
+Die Multiple-Choice-Frage-Typ bietet viele Einstellungen, um die Erfahrung und das Scoring zu optimieren.\
+Siehe [Fragen schreiben](../editor/005-writing-questions.md) für eine allgemeine Übersicht der Frageneinstellungen.
 
 ---
 
-## 💡 Tipps für großartige Multiple-Choice-Fragen
+## 💡 Tipps für große Multiple-Choice Fragen
 
-- **Sei klar und präzise:** Vermeide mehrdeutige Formulierungen.
-- **Nutze glaubwürdige falsche Antworten:** Mach die Ablenkungen glaubhaft.
-- **Mische Medien:** Füge Bilder, Flaggen oder Sounds hinzu für mehr Engagement.
-- **Mischt die Reihenfolge:** Sorge für Fairness für alle Spieler.
-- **Tagge und kategorisiere:** Für einfache Navigation und bessere Durchsuchbarkeit.
+- **Sei klar und prägnant:** Vermeide doppeldeutige Formulierung.
+- **Verwende plausible falsche Antworten:** Macht Ablenker glaubwürdig.
+- **Medien mischen:** Füge Bilder, Flaggen oder Töne für Engagement hinzu.
+- **Zufällige Bestellung:** Halte die Dinge fair für alle Spieler.
+- **Tag und Kategorie:** Für einfache Navigation und Suchfähigkeit.

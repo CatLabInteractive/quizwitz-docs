@@ -1,97 +1,96 @@
 ---
 id: create-quizzes
-title: Crear cuestionarios
+title: Crear tests
 ---
 
-# 🧠 Crear un Cuestionario Completo
+# 🧠 Crear un cuestionario completo
 
-¿Quieres crear una experiencia completa de cuestionario para jugadores o eventos? Esta guía te muestra cómo crear un cuestionario completo usando varias rondas, incluyendo tus propias preguntas o Round-Abouts que hayas recopilado.
-
----
-
-## 🎬 Primeros pasos
-
-Desde el menú principal:
-
-1. Haz clic en **Crear**
-2. Elige **Quiz** del menú desplegable
-
-![QuizWitz create quiz](/images/create-quiz.png)
+¿Quieres construir una experiencia completa para jugadores o eventos? Esta guía le guiará a través de la creación de un cuestionario completo usando múltiples rondas — incluyendo sus propias preguntas o Round-Abouts que ha recopilado.
 
 ---
 
-## ✏️ Título y idioma
+## 🎬 Comenzando
 
-Ponle un título a tu quiz y elige el idioma principal.\
-Give your quiz a title and choose the main language.\
-You can add **translations** later if needed — no need to decide everything upfront.
+Del menú principal:
+
+1. Haga clic en **Crear**
+2. Elige **Prueba** del menú desplegable
+
+![Prueba de creación de Witz](/images/create-quiz.png)
 
 ---
 
-## ➕ Agrega rondas y preguntas
+## ✏️ Título e idioma
 
-Haz clic en **Agregar nueva ronda** para empezar a construir tu cuestionario. Cada ronda puede tener sus propios ajustes y estructura.
+Dale un título a tu prueba y elige el idioma principal.\
+Puedes añadir **traducciones** más tarde si es necesario, sin necesidad de decidir todo de antemano.
+
+---
+
+## ➕ Añadir rondas y preguntas
+
+Haz clic en **Añadir nueva ronda** para comenzar a construir tu cuestionario. Cada ronda puede incluir su propia configuración y estructura.
 
 En la barra lateral izquierda, podrás:
 
-- Nombrar la ronda
-- Elegir una categoría
+- Nombre de la ronda
+- Elija una categoría
 - [Importar preguntas](../editor/015-importing-questions.md) en masa
 
-![Create new round in quiz](/images/quiz-add-round.png)
+![Crear una nueva ronda en el cuestionario](/images/quiz-add-round.png)
 
 En el editor principal, puedes:
 
-- Agregar y editar preguntas individuales
-- Reordenar rondas o preguntas usando los **botones de flecha**
-- Eliminar rondas o preguntas usando el **icono de la papelera**
+- Añadir y editar preguntas individuales
+- Reordenar las rondas o preguntas usando los **botones de flecha**
+- Elimina las rondas o preguntas usando el **icono de papelera**
 
-> 💡 Usa la herramienta **Importar preguntas** para añadir muchas preguntas a la vez rápidamente. Solo sigue las instrucciones en pantalla y [verifica que todo se haya importado correctamente](../editor/015-importing-questions.md).
-
----
-
-## ⚙️ Ajustes de la ronda
-
-Cada ronda puede tener sus propias reglas y formato. Aprende más en las guías avanzadas:
-
-- [Tipos de ronda](../round-types/000-round-types.md) — Configura cómo se comporta una ronda (p. ej., ronda relámpago, ronda de acertijos)
-- [Tipos de pregunta](../question-types/000-question-types.md) — Ajusta el formato y la puntuación de cada pregunta
+> 💡 Usa la herramienta **Importar preguntas** para agregar rápidamente varias preguntas a la vez. Simplemente sigue las instrucciones en pantalla y [comprueba que todo se importa correctamente](../editor/015-importing-questions.md).
 
 ---
 
-## 💾 Guarda y administra tu quiz
+## ⚙️ Redondear ajustes
 
-Recuerda:
+Cada ronda puede tener sus propias reglas y formato. Más información en las guías avanzadas:
 
-- **Guardar** tu quiz regularmente
-- **Probar y jugar** en cualquier momento
-- **Publicar** tu quiz cuando esté listo para compartir
-
-> 📢 Para publicar un cuestionario, debe contener **al menos 14 preguntas**. Una vez publicado, estará disponible para la comunidad — pero puedes despublicarlo después si hace falta.
-
-> 📝 **Publicar es completamente opcional.** Puedes jugar cualquier quiz o Round-About de forma privada sin publicarlo. Esto es ideal para uso personal, pruebas o eventos privados.
+- [Tipos de rondas](../round-types/000-round-types.md) — Configura cómo se comporta una ronda (por ejemplo, ronda de relámpagos, redondeada de rompecabezas)
+- [Tipos de preguntas](../question-types/000-question-types.md) — Ajustar el formato y puntuación de cada pregunta
 
 ---
 
-## ▶️ Probar y jugar
+## 💾 Guarda y gestiona tu cuestionario
 
-Cuando estés listo para probar o ejecutar tu quiz, presiona el botón **Iniciar Quiz**. Verás las siguientes opciones:
+Recuerda para:
 
-![Quiz playlinks](/images/quiz-playlinks.png)
+- **Guarda** tu cuestionario regularmente
+- **Prueba y reproducción** en cualquier momento
+- **Publica** tu cuestionario cuando esté listo para compartir
 
-- **[Jugar Party Game](../players/001-playing-quizwitz.md)** — Una experiencia casual de quiz para disfrutar con amigos en la misma pantalla o mediante pantalla compartida
-- **[Iniciar QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Lanzar un evento de quiz en vivo profesional usando la aplicación Quizmaster
-- **[Iniciar modo conferencia (PRO)](../tutorials/050-conference-booth.md)** — Organiza un quiz estilo conferencia para audiencias grandes con asientos asignados, códigos de equipo y herramientas de producción
+> 📢 Para publicar un cuestionario, debe contener **al menos 14 preguntas**. Una vez publicado, está disponible para la comunidad — pero puedes despublicarlo más tarde si es necesario.
+
+> 📝 **La publicación es totalmente opcional.** Puedes reproducir cualquier prueba o redondo-Acerca de forma privada sin publicarla. Esto es ideal para uso personal, pruebas o eventos privados.
+
+---
+
+## ▶️ Prueba y reproducción
+
+Cuando estés listo para probar o ejecutar tu prueba, pulsa el botón **Iniciar prueba**. Verás las siguientes opciones:
+
+![Links del Cuestionario](/images/quiz-playlinks.png)
+
+- **[Juega a Party Game](../players/001-playing-quizwitz.md)** — Una experiencia de prueba casual para disfrutar con amigos en la misma pantalla o a través de un screenshare
+- **[Iniciar Pruebas Witz Live (PRO)](../quizmaster/001-introduction.md)** — Lanza un evento profesional de prueba en vivo usando la App de Pruebas
+- **[Modo de conferencia inicial (PRO)](../tutorials/050-conference-booth.md)** — Organiza un cuestionario de estilo de conferencia para mayores audiencias con asientos asignados, códigos de equipo y herramientas de producción
 
 ---
 
 ### 🧪 Opciones avanzadas de prueba
 
-¿Quieres simular la ejecución completa de un quiz? Usa las herramientas avanzadas de prueba:
+¿Quieres simular un cuestionario completo a través? Utilice las herramientas de prueba avanzadas:
 
-- **Simular** — Ejecuta una prueba con bots (sin presentación)
-- **Simular en vivo** — Simula una sesión completa de [QuizWitz Live](../quizmaster/001-introduction.md) con bots, incluyendo vistas de Quizmaster, Jurado y Jugador
+- **Simular** — Ejecuta una jugada de prueba con bots (sin presentación)
+- **Simular vida** — Simula una sesión completa [Vida de prueba](../quizmaster/001-introduction.md) con bots, incluyendo vistas de prueba, Jury y Jugador
 
 ---
 
-¿Listo para probar tu creatividad? ¡Empieza a crear y dale vida a tu quiz!
+¿Estás listo para poner a prueba tu creatividad? ¡Empieza a construir y trae tu prueba a la vida!

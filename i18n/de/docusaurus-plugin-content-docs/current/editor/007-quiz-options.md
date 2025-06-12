@@ -1,83 +1,83 @@
 ---
 id: quiz-options
-title: Quiz-Optionen
+title: Quiz Optionen
 ---
 
-# ⚙️ Quiz-Optionen
+# ⚙️ Quiz Optionen
 
-Beim Erstellen eines Quiz kannst du das Panel **Quiz-Einstellungen** öffnen, um globale Verhaltens- und Darstellungsoptionen zu konfigurieren. Diese Einstellungen gelten für das **gesamte Quiz**.
+Beim Erstellen eines Quiz können Sie die **Quiz Einstellungen** öffnen, um globale Verhaltens- und Präsentationsoptionen zu konfigurieren. Diese Einstellungen gelten für das **komplette Quiz**.
 
-| ![Open quiz options](/images/open-quiz-options.png) | ![Quiz options](/images/quiz-options.png) |
-| :-------------------------------------------------: | :---------------------------------------: |
-|           _Opening the quiz options panel_          |          _Quiz settings overview_         |
+| ![Quizoptionen öffnen](/images/open-quiz-options.png) | ![Quiz Optionen](/images/quiz-options.png) |
+| :---------------------------------------------------: | :----------------------------------------: |
+|             _Öffne das Quizoptionen Panel_            |       _Quiz Einstellungen Übersicht_       |
 
 ---
 
 ## 🌐 Sprachen
 
-Wähle die Sprache, in der du das Quiz erstellst. Du kannst später zusätzliche Übersetzungen hinzufügen.
+Wählen Sie die Sprache aus, in der Sie das Quiz schreiben. Sie können später weitere Übersetzungen hinzufügen.
 
 ---
 
-## 🎨 Themen
+## 🎨 Themes
 
-Wähle ein visuelles Thema für dein Quiz.
+Wählen Sie ein visuelles Thema für Ihr Quiz.
 
-- Das Standardthema ist **QuizWitz**
-- Deine Organisation hat möglicherweise Zugang zu benutzerdefinierten Themen
-- Themen beeinflussen Hintergrund, Farben und Layout
+- Das Standard-Template ist **QuizWitz**
+- Ihre Organisation kann Zugriff auf benutzerdefinierte Themes haben
+- Themes wirken sich auf Hintergrund, Farben und Layout aus
 
-📘 Siehe die [Emerald-Theme-Dokumentation](../advanced/011-emerald-theme.md) für weitere Details zur Anpassung der Optik mit diesem Theme.
+📘 Siehe [Smaragd-Thema-Dokumentation](../advanced/011-emerald-theme.md) für weitere Details zur Anpassung von Visualen mit diesem Thema.
 
 ---
 
 ## 📎 Anhänge
 
-Verbessere dein Quiz mit Bildern, Audio oder Video in bestimmten Slots:
+Verbessern Sie Ihr Quiz mit Visuellen, Audio oder Video in bestimmten Slots:
 
-- **Vor dem Quiz** — Wird beim Start des Quiz angezeigt
-- **Nach dem Quiz** — Wird nach dem finalen Ergebnisbildschirm abgespielt
-- **Kundenlogo / alternatives Logo** — Werden während der gesamten Quiz-Oberfläche angezeigt
-- **Wartebildschirm** — Angezeigt zwischen Fragen bei Live-Spielen (1920×1080 Bild empfohlen)
-- **Hintergrund** — Optionale Hintergrundersetzung (abhängig vom Thema)
-- **Verbindungsbildschirm** — Wird in den Modi [Live](../quizmaster/001-introduction.md) und [Konferenz](../tutorials/conference-booth) verwendet:
+- **Vor dem Quiz** — Wird angezeigt, wenn der Test gestartet wird
+- **Nach dem Quiz** — Wiedergabe nach dem finalen Ergebnisbildschirm
+- **Client-Logo / alternatives Logo** — Wird über die gesamte Quizschnittstelle angezeigt
+- **Wartebildschirm** — Angezeigt zwischen Fragen in Live-Spielen (1920×1080 Bild empfohlen)
+- **Hintergrund** — Optionaler Ersatz für den Hintergrund (abhängig vom Theme)
+- **Bildschirm verbinden** — Wird in [Live](../quizmaster/001-introduction.md) und [Conference](../tutorials/conference-booth) Modus:
   - **Bilder** — Vollbild-Hintergrundbilder
-  - **Audio** — Endlosschleifen-Musik (max. 15 Min.)
-  - **Video** — Wird alle 5 Minuten abgespielt, nützlich für Werbung oder Anleitungen
+  - **Audio** — Looped Musik (max. 15 Minuten)
+  - **Video** — Alle 5 Minuten gespielt, nützlich für Anzeigen oder Anweisungen
 
-🎥 Du kannst unsere [fertigen Anleitungsvideos](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) nutzen, um den Spielern den Einstieg zu erleichtern.
+🎥 Du kannst unsere [ready-made instructional videos](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) verwenden, um den Spielern beim Verbinden zu helfen.
 
-- **Während Outro des Spiels** — (Nur Audio) Wird während der Gewinneranzeige abgespielt
+- \*\*Während des Spiels außerhalb \*\* — (nur Audio) Spielt über dem Siegerbildschirm ab
 
-📘 Für technische Details und Empfehlungen siehe den [Anhangsleitfaden](../editor/006-attachments.md).
+📘 Technische Details und Empfehlungen finden Sie in der [Anhangs-Anleitung](../editor/006-attachments.md).
 
 ---
 
 ## 🔧 Zusätzliche Optionen
 
-Optionale Einstellungen zur Anpassung von Spielablauf und Sichtbarkeit:
+Optionale Einstellungen zum Anpassen des Spiels und der Sichtbarkeit:
 
-- **Multiplayer aktivieren** — Standardmäßig AN. Ermöglicht Partien mit Freunden
-- **Zufällige Rundereihenfolge** — Mischt die Reihenfolge der Runden
-  > ⚠️ Nicht empfohlen bei der Vorbereitung auf [QuizWitz Live](../quizmaster/001-introduction.md)
-- **Benutzern erlauben, Fragen zu bewerten** — Ermöglicht den Spielern, nach einer Runde jede Frage zu bewerten
-- **Kommentare aktivieren** — Ermöglicht Feedback nach der Veröffentlichung
-- **Beschleunigen, wenn alle geantwortet haben** — Wenn aktiviert, wird fortgefahren, sobald alle Spieler geantwortet haben
-  > ⏱️ Empfohlen bei Verwendung von **zeitbasierter Bewertung**
+- **Multiplayer aktivieren** — Standard ON. Erlaubt das Party-Spiel mit Freunden
+- **Zufällige runde Bestellung** — Mische die Reihenfolge der Runden
+  > :warnung: Nicht empfohlen bei der Vorbereitung auf [QuizWitz Live](../quizmaster/001-introduction.md)
+- **Erlaube Benutzern Fragen zu bewerten** — Lässt Spieler jede Frage nach einer Runde bewerten
+- **Kommentare aktivieren** — Feedback nach Veröffentlichung erlauben
+- **Beschleunigt bei allen Antworten** — Wenn aktiviert, überspringt das Spiel voraus, wenn alle Spieler geantwortet haben
+  > ⏱️ Empfohlen wenn **Time-based scoring**
 
 ---
 
-## 📤 Teilen oder einbetten
+## 📤 Teilen oder einbinden
 
-Generiert Teilungslinks oder Einbettungscode mit erweiterten Spieleinstellungen.
+Erzeugt Teilen-Links oder Embed-Code mit erweiterten Spieleinstellungen.
 
 ---
 
 ## 📜 Quizmaster-Kopie
 
-Füge benutzerdefinierte Moderatorenanweisungen hinzu für:
+Benutzerdefinierte Moderatorenanweisungen hinzufügen für:
 
-- **Quiz-Einführung**
-- **Quiz-Abschluss**
+- **Quiz Einführung**
+- **Quiz outro**
 
-Diese sind in der [Quizmaster App](../quizmaster/001-introduction.md) sichtbar, wenn QuizWitz Live verwendet wird.
+Diese werden in der [Quizmaster app](../quizmaster/001-introduction.md) angezeigt, wenn QuizWitz Live verwendet wird.

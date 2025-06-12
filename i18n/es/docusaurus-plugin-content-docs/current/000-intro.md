@@ -3,32 +3,32 @@ id: intro
 title: Introducción
 ---
 
-# 🎉 Empezando
+# 🎉 Comenzando
 
-## ¡Bienvenido a QuizWitz!
+## ¡Bienvenido/a a Political Witz!
 
-**QuizWitz** es una plataforma social de quizzes donde puedes:
+**PruebasWitz** es una plataforma social de prueba donde puedes:
 
-- Jugar divertidos juegos de quiz con amigos o solo
-- Organizar eventos profesionales de quiz con herramientas en vivo
-- Crear tus propios quizzes, rondas, listas de reproducción y más
+- Juega divertidas pruebas con amigos o solo
+- Organizar eventos de prueba profesionales con herramientas en vivo
+- Crea tus propios cuestionarios, rondas, listas de reproducción y más
 
-Ya sea que estés aquí para relajarte, presentar o crear — te tenemos cubierto.
+Ya sea que esté aquí para relajarse, presente o construir — tenemos que cubrirlo.
 
-Tómate un momento para explorar los diferentes roles y herramientas disponibles. Solo te tomará un minuto.
+Tómese un momento para explorar los diferentes roles y herramientas disponibles. Sólo tardará un minuto.
 
 ---
 
 ## 👥 Jugadores y creadores
 
-Esta guía está dividida en secciones según cómo uses QuizWitz:
+Esta guía está dividida en secciones basadas en la forma en que usas PruebasWitz:
 
-- [**Guía del jugador**](players/001-playing-quizwitz.md) — Aprende cómo coleccionar, jugar y disfrutar quizzes
-- [**Guía del quizmaker**](editor/002-for-the-quizmakers.md) — Construye tus propias preguntas, rondas y quizzes completos
-- [**Guía del Quizmaster**](quizmaster/001-introduction.md) — Organiza un juego en vivo usando QuizWitz Live
+- [**Guía de jugador**](players/001-playing-quizwitz.md) — Aprende a recoger, jugar y disfrutar de cuestionarios
+- [**Guía de creador**](editor/002-for-the-quizmakers.md) — Construye tus propias preguntas, rondas y cuestionarios completos
+- [**Guía Principal**](quizmaster/001-introduction.md) — Organiza un juego en vivo usando la versión de prueba Witz Live
 
-Explora las secciones que se ajusten a tu rol — ¡o todas si tienes curiosidad!
+¡Explora las secciones que se ajustan a tu papel, o todas si eres curioso!
 
 ---
 
-¿Listo para empezar? Vamos a jugar.
+¿Listo para saltar? Let’s get quizzing.

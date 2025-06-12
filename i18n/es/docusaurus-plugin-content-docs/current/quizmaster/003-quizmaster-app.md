@@ -1,107 +1,107 @@
 ---
 id: quizmaster-app
-title: Aplicación Quizmaster
+title: App master
 ---
 
-# 🎛️ Usando la aplicación Quizmaster
+# 🎛️ Utilizando la aplicación master
 
-Como quizmaster, tienes el control total del juego QuizWitz Live. Lo más importante que debes saber es esto:
+Como maestro, tienes el control total del juego de Prueba Witz Live. Lo más importante es saber esto:
 
-> El juego **solo avanza cuando haces clic** — nada se mueve en la pantalla principal hasta que tú lo indiques.
+> El juego **solo progresa cuando haces click** — nada se mueve en la pantalla principal hasta que se lo digas.
 
-Esto te da control total sobre el ritmo y el tiempo, pero también significa que harás muchos toques. Vamos a recorrer cómo funciona la aplicación.
-
----
-
-## 🔁 El flujo del quiz
-
-La estructura del quiz sigue cómo se creó en el editor, pero la mayoría de los quizzes pasarán por las siguientes etapas:
+Esto te da un control total sobre el ritmo y el tiempo, pero también significa que harás un montón de tapping. Caminemos por cómo funciona la aplicación.
 
 ---
 
-### 🎬 Introducción de ronda
+## 🔁 El flujo del cuestionario
 
-Antes de que cada ronda comience, verás una pantalla de introducción de ronda.
-
-- Tú controlas cuándo se reproduce la **animación de introducción de ronda**.
-- Haz clic en **‘Start’** para comenzar la ronda y pasar a la primera pregunta.
+La estructura del cuestionario sigue cómo se construyó en el editor, pero la mayoría de los cuestionarios se moverán a través de las siguientes etapas:
 
 ---
 
-### ❓ Haciendo una pregunta
+### 🎬 Introducción redonda
 
-Cada pregunta tiene su propia pantalla en la aplicación Quizmaster:
+Antes de que comience cada ronda, verás una pantalla de introducción redonda.
 
-![Quizmaster app - start question](/images/quizmaster-app-start-question.png)
+- Controla cuando se reproduce la **animación de entrada redonda**.
+- Haga clic en **‘Empezar’** para comenzar la ronda y moverse a la primera pregunta.
+
+---
+
+### ❓ Hacer una pregunta
+
+Cada pregunta tiene su propia pantalla en la aplicación de prueba:
+
+![Aplicación Principal - Iniciar pregunta](/images/quizmaster-app-start-question.png)
 
 Verás:
 
-- **Número de pregunta** — por ejemplo `1.1` significa la primera pregunta de la primera ronda
-- **Tipo de pregunta** — como Opción múltiple, con modificadores de puntuación relevantes
-- **Versión larga de la pregunta** — para que la leas en voz alta
-- **Información de la pregunta** — incluyendo duración del temporizador y puntos disponibles
+- **Número de pregunta** — por ejemplo, `1.1` significa la primera pregunta de la primera ronda
+- **Tipo de pregunta** — como opción múltiple, con modificadores de puntuación relevantes
+- **Versión larga de la pregunta** — para que puedas leer en voz alta
+- **Información de la pregunta** - incluyendo la duración del temporizador y los puntos disponibles
 - **Pregunta corta** — la versión que se muestra en la pantalla grande
-- **Botón de comenzar pregunta** — inicia el temporizador inmediatamente
-- **Respuestas posibles** — mostradas en el orden correcto (para opción múltiple)
+- **Botón Iniciar pregunta** — inicia inmediatamente el temporizador
+- **Respuestas posibles** — mostradas en el orden correcto (por opción múltiple)
 
-La pregunta permanecerá visible en tu app hasta que:
+La pregunta permanecerá visible en tu aplicación hasta que sea:
 
-- Todos los jugadores hayan respondido
-- El temporizador se acabe
+- Todos los jugadores han respondido
+- Se acaba el temporizador
 
-> 🔎 Para más sobre tipos de preguntas y rondas, revisa la **Guía del Quizmaker**.
+> 🔎 Para más información sobre los tipos de preguntas y redondas, consulta la **Guía del diseñador**.
 
 ---
 
-### ✅ Retroalimentación de la pregunta
+### ✅ Comentarios de preguntas
 
-Después de que termina una pregunta, se revela la respuesta correcta. Lo que ves depende del tipo de pregunta — este ejemplo muestra una pantalla de resultados de opción múltiple:
+Una vez que termina una pregunta, se revela la respuesta correcta. Lo que ves depende del tipo de pregunta — este ejemplo muestra una pantalla de resultado de opción múltiple:
 
-![Quizmaster app - question feedback](/images/quizmaster-app-question-feedback.png)
+![Aplicación maestra - Comentarios de preguntas](/images/quizmaster-app-question-feedback.png)
 
 Incluye:
 
 - **Número de pregunta**
 - **Texto corto de la pregunta**
 - **Respuesta correcta**
-- **Distribución de respuestas** — en números y porcentajes
-- **Retroalimentación larga** — información extra para leer en voz alta
-- **Botón continuar** — avanza a la siguiente pregunta
-- **100 respuestas más rápidas** — mostradas en la parte inferior de la pantalla
+- **Spread de respuesta** — en números y porcentajes
+- **Comentarios largos** — información extra para leer en voz alta
+- **Botón de continuación** — avanza a la siguiente pregunta
+- **Las 100 respuestas más rápidas** — se muestran en la parte inferior de la pantalla
 
 ---
 
-### 📊 Fin de ronda
+### 📊 Round outro
 
-Cuando una ronda termina, verás una pantalla de **Fin de ronda** que muestra las posiciones hasta ahora.
+Cuando una ronda termine, verás una pantalla de **Ronda de Tro** que revela la clasificación hasta ahora.
 
 ![Quizmaster app - round outro](/images/quizmaster-app-round-outro.png)\
 ![QuizWitz - round outro big screen](/images/round-outro.png)
 
-En tu app:
+En tu aplicación:
 
-- Verás a los **100 mejores jugadores**, y puedes desplazarte por ellos
-- Toca la posición de un jugador para resaltarlo en la pantalla grande
-- Desde la ronda 2 en adelante, también verás cuántas posiciones ha cambiado cada jugador:
-    - **Verde** = subió
-    - **Rojo** = bajó
-    - **Blanco** = sin cambio
+- Verás a los **top 100 jugadores**, y puedes desplazarte a través de ellos
+- Toca la posición de un jugador para resaltarlos en la pantalla grande
+- De la ronda 2 en adelante, también verás cuántos lugares se ha movido cada jugador:
+    - **Verde** = movido arriba
+    - **Rojo** = se movió hacia abajo
+    - **Blanco** = sin cambios
 
-Los jugadores verán **su propia posición** en su dispositivo durante el fin de ronda.
-
----
-
-### 🏆 El final del quiz
-
-Al final del quiz, es hora de una **fiesta para revelar al ganador** — completa con confeti y emojis de jugadores volando por la pantalla.
-
-![QuizWitz - game outro big screen](/images/game-outro.png)
-
-- La configuración predeterminada muestra a los **12 mejores jugadores**
-- Puedes personalizar cuántos jugadores aparecen en la **configuración avanzada del juego**
-
-> 🎉 Consejo divertido: El emoji que elijan tus jugadores bailará alrededor de la pantalla — incluso si escogieron el popó sonriente.
+Los jugadores verán **su propia posición** en su dispositivo durante el exterior.
 
 ---
 
-Eso es todo lo que necesitas saber para dirigir tu quiz con la aplicación Quizmaster. ¡Ahora estás totalmente equipado para liderar tu evento con confianza y estilo!
+### 🏆 El final del cuestionario
+
+Al final del cuestionario, es el momento de que un **grupo ganador revele la fiesta** — completo con confetti y emojis de jugador volando por toda la pantalla.
+
+![Prueba Witz - pantalla grande del juego](/images/game-outro.png)
+
+- La configuración predeterminada muestra a los **mejores 12 jugadores**
+- Puedes personalizar cuántos jugadores aparecen en los **ajustes avanzados del juego**
+
+> 🎉 El emoji que tus jugadores elijan bailará alrededor de la pantalla, incluso si eligieron la turba sonriente.
+
+---
+
+Eso es todo lo que necesitas saber para ejecutar tu cuestionario con la aplicación del buffer. ¡Ahora estás completamente equipado para liderar tu evento con confianza y estilo!

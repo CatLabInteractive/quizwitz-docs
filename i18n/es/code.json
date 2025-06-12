@@ -1,42 +1,42 @@
 {
   "theme.ErrorPageContent.title": {
-    "message": "Esta página se bloqueó.",
+    "message": "Esta página ha fallado.",
     "description": "The title of the fallback page when the page crashed"
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Desplázate arriba",
+    "message": "Desplazar hacia arriba",
     "description": "The ARIA label for the back to top button"
   },
   "theme.blog.archive.title": {
-    "message": "Archivo",
+    "message": "Archivar",
     "description": "The page & hero title of the blog archive page"
   },
   "theme.blog.archive.description": {
-    "message": "Archivo",
+    "message": "Archivar",
     "description": "The page & hero description of the blog archive page"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Navegación de la lista del blog",
+    "message": "Navegación de la lista de blogs",
     "description": "The ARIA label for the blog pagination"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "Entradas más recientes",
+    "message": "Entradas nuevas",
     "description": "The label used to navigate to the newer blog posts page (previous page)"
   },
   "theme.blog.paginator.olderEntries": {
-    "message": "Entradas más antiguas",
+    "message": "Entradas antiguas",
     "description": "The label used to navigate to the older blog posts page (next page)"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Navegación de entradas del blog",
+    "message": "Navegación de la página del blog",
     "description": "The ARIA label for the blog posts pagination"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Entrada más reciente",
+    "message": "Poste más reciente",
     "description": "The blog post button label to navigate to the newer/previous post"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Entrada más antigua",
+    "message": "Mensaje antiguo",
     "description": "The blog post button label to navigate to the older/next post"
   },
   "theme.tags.tagsPageLink": {
@@ -44,11 +44,11 @@
     "description": "The label of the link targeting the tag list page"
   },
   "theme.colorToggle.ariaLabel.mode.system": {
-    "message": "modo sistema",
+    "message": "modo de sistema",
     "description": "The name for the system color mode"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "modo claro",
+    "message": "modo de luz",
     "description": "The name for the light color mode"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
@@ -56,19 +56,19 @@
     "description": "The name for the dark color mode"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Alternar entre modo oscuro y claro (actualmente {mode})",
+    "message": "Cambiar entre modo oscuro y claro (actualmente {mode})",
     "description": "The ARIA label for the color mode toggle"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Migas de pan",
+    "message": "migas de pan",
     "description": "The ARIA label for the breadcrumbs"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 elemento|{count} elementos",
+    "message": "1 artículo|{count} artículos",
     "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Páginas de documentación",
+    "message": "Páginas de documentos",
     "description": "The ARIA label for the docs pagination"
   },
   "theme.docs.paginator.previous": {
@@ -91,15 +91,15 @@
     "message": "Versión: {versionLabel}"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "Esta es documentación no publicada para {siteTitle} versión {versionLabel}.",
+    "message": "Esta es la documentación no publicada para la versión {siteTitle} {versionLabel}.",
     "description": "The label used to tell the user that he's browsing an unreleased doc version"
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "Esta es documentación para {siteTitle} versión {versionLabel}, que ya no se mantiene activamente.",
+    "message": "Esta es la documentación para {siteTitle} {versionLabel}, que ya no se mantiene activamente.",
     "description": "The label used to tell the user that he's browsing an unmaintained doc version"
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "Para documentación actualizada, consulta la {latestVersionLink} ({versionLabel}).",
+    "message": "Para obtener documentación actualizada, consulte la {latestVersionLink} ({versionLabel}).",
     "description": "The label used to tell the user to check the latest version"
   },
   "theme.docs.versions.latestVersionLinkLabel": {
@@ -115,7 +115,7 @@
     "description": "Title for link to heading"
   },
   "theme.lastUpdated.atDate": {
-    "message": " el {date}",
+    "message": " en {date}",
     "description": "The words used to describe on which date a page has been last updated"
   },
   "theme.lastUpdated.byUser": {
@@ -155,7 +155,7 @@
     "description": "The default label used for the Note admonition (:::note)"
   },
   "theme.admonition.tip": {
-    "message": "consejo",
+    "message": "tip",
     "description": "The default label used for the Tip admonition (:::tip)"
   },
   "theme.admonition.warning": {
@@ -167,15 +167,15 @@
     "description": "The ARIA label for close button of announcement bar"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Navegación de publicaciones recientes del blog",
+    "message": "Navegación de mensajes recientes del blog",
     "description": "The ARIA label for recent posts in the blog sidebar"
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
-    "message": "Expandir categoría de la barra lateral '{label}'",
+    "message": "Expandir la categoría de barra lateral '{label}'",
     "description": "The ARIA label to expand the sidebar category"
   },
   "theme.DocSidebarItem.collapseCategoryAriaLabel": {
-    "message": "Colapsar categoría de la barra lateral '{label}'",
+    "message": "Colapsar la barra lateral categoría '{label}'",
     "description": "The ARIA label to collapse the sidebar category"
   },
   "theme.NavBar.navAriaLabel": {
@@ -187,11 +187,11 @@
     "description": "The label for the mobile language switcher dropdown"
   },
   "theme.NotFound.p1": {
-    "message": "No pudimos encontrar lo que estabas buscando.",
+    "message": "No pudimos encontrar lo que estaba buscando.",
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "Por favor, contacta al propietario del sitio que te enlazó a la URL original y hazle saber que su enlace está roto.",
+    "message": "Póngase en contacto con el propietario del sitio que le vinculó a la URL original y hágales saber que su enlace está roto.",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
@@ -203,11 +203,11 @@
     "description": "The label used in blog post item excerpts to link to full blog posts"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "Leer más sobre {title}",
+    "message": "Lee más sobre {title}",
     "description": "The ARIA label for the link to full blog posts from excerpts"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "1 min de lectura|{readingTime} min de lectura",
+    "message": "Un minuto leído|{readingTime} min leídos",
     "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.CodeBlock.copy": {
@@ -223,11 +223,11 @@
     "description": "The ARIA label for copy code blocks button"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Alternar ajuste de línea",
+    "message": "Cambiar envoltura de palabra",
     "description": "The title attribute for toggle word wrapping button of code block lines"
   },
   "theme.docs.breadcrumbs.home": {
-    "message": "Página principal",
+    "message": "Página de inicio",
     "description": "The ARIA label for the home page in the breadcrumbs"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
@@ -239,7 +239,7 @@
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Barra lateral de documentación",
+    "message": "Docs sidebar",
     "description": "The ARIA label for the sidebar navigation"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
@@ -251,7 +251,7 @@
     "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
-    "message": "Alternar barra de navegación",
+    "message": "Cambiar barra de navegación",
     "description": "The ARIA label for hamburger menu button of mobile navigation"
   },
   "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
@@ -259,15 +259,15 @@
     "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
   },
   "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
-    "message": "Colapsar el menú desplegable",
+    "message": "Colapsar el desplegable",
     "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Expandir barra lateral",
+    "message": "Expand sidebar",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Expandir barra lateral",
+    "message": "Expand sidebar",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.blog.post.plurals": {
@@ -275,7 +275,7 @@
     "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.tagTitle": {
-    "message": "{nPosts} etiquetado(s) con \"{tagName}\"",
+    "message": "{nPosts} etiquetado con \"{tagName}\"",
     "description": "The title of the page for a blog tag"
   },
   "theme.blog.author.pageTitle": {
@@ -291,31 +291,31 @@
     "description": "The label of the link targeting the blog authors page"
   },
   "theme.blog.author.noPosts": {
-    "message": "Este autor aún no ha escrito ninguna publicación.",
+    "message": "Este autor no ha escrito ningún mensaje todavía.",
     "description": "The text for authors with 0 blog post"
   },
   "theme.contentVisibility.unlistedBanner.title": {
-    "message": "Página no listada",
+    "message": "Página no enumerada",
     "description": "The unlisted content banner title"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "Esta página no está listada. Los motores de búsqueda no la indexarán y solo los usuarios con un enlace directo pueden acceder a ella.",
+    "message": "Esta página no está en la lista. Los motores de búsqueda no lo indexarán, y sólo los usuarios que tengan un enlace directo pueden acceder a ella.",
     "description": "The unlisted content banner message"
   },
   "theme.contentVisibility.draftBanner.title": {
-    "message": "Página borrador",
+    "message": "Página de borrador",
     "description": "The draft content banner title"
   },
   "theme.contentVisibility.draftBanner.message": {
-    "message": "Esta página es un borrador. Solo será visible en desarrollo y se excluye de la compilación de producción.",
+    "message": "Esta página es un borrador. Sólo será visible en dev y será excluida de la construcción de producción.",
     "description": "The draft content banner message"
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Intentar de nuevo",
+    "message": "Inténtalo de nuevo",
     "description": "The label of the button to try again rendering when the React error boundary captures an error"
   },
   "theme.common.skipToMainContent": {
-    "message": "Saltar al contenido principal",
+    "message": "Ir al contenido principal",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
   "theme.tags.tagsPageTitle": {
@@ -326,27 +326,27 @@
     "message": "Crear"
   },
   "Create a fully customizable quiz using different question and round types.": {
-    "message": "Crea un quiz totalmente personalizable usando diferentes tipos de preguntas y rondas."
+    "message": "Crea un cuestionario completamente personalizable usando diferentes tipos de preguntas y redondas."
   },
   "Play": {
     "message": "Jugar"
   },
   "Play any shared quiz on our platform with friends, family, colleagues, … Grab a smart device, connect via the web and show off how much you know!": {
-    "message": "Juega cualquier quiz compartido en nuestra plataforma con amigos, familiares, colegas, … ¡Toma un smart device, conéctate vía web y demuestra cuánto sabes!"
+    "message": "Juega cualquier prueba compartida en nuestra plataforma con amigos, familiares, colegas, … Toma un dispositivo inteligente, conéctate a través de la web y muestra cuánto sabes!"
   },
   "Share": {
     "message": "Compartir"
   },
   "Collect and share quiz rounds from around the world, or share your own! Connect with other quiz aficionados.": {
-    "message": "Recopila y comparte rondas de quiz de todo el mundo, ¡o comparte las tuyas! Conéctate con otros aficionados a los quiz."
+    "message": "¡Recoge y comparte cuestionarios de todo el mundo, o comparte tus propios cuestionarios! Conéctate con otros cuestionarios aficionados."
   },
   "Your guide to creating, hosting, and mastering QuizWitz.": {
-    "message": "Tu guía para crear, organizar y dominar QuizWitz."
+    "message": "Tu guía para crear, alojar y dominar la prueba Witz."
   },
   "Getting started": {
     "message": "Comenzando"
   },
   "FAQ": {
-    "message": "Preguntas frecuentes"
+    "message": "FAQ"
   }
 }

@@ -26,6 +26,8 @@ Geef je quiz een titel en kies de hoofdtaal.\
 Give your quiz a title and choose the main language.\
 You can add **translations** later if needed — no need to decide everything upfront.\
 Give your quiz a title and choose the main language.\
+You can add **translations** later if needed — no need to decide everything upfront.\
+Give your quiz a title and choose the main language.\
 You can add **translations** later if needed — no need to decide everything upfront.
 
 ---

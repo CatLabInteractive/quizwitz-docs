@@ -1,36 +1,35 @@
 ---
 id: tiebreaker-question
-title: Question de départage
+title: Question sur le brise-queue
 ---
 
-# 🏁 Question de départage
+# 🏁 Question du Briseur de queue
 
-La question de départage est utilisée pour résoudre les égalités à la fin d'un quiz.\
-The Tiebreaker question is used to resolve ties at the end of a quiz.\
-Players are asked to guess a number (for example, “How many beans are in the jar?”). Le joueur dont la réponse est la plus proche de la valeur correcte l'emportera en cas d'égalité.
-
----
-
-## 📝 Comment ça marche
-
-- **Aucun point attribué :** La question de départage n'attribue pas de points classiques.
-- **Points fantômes :** À la place, elle utilise des « points fantômes » qui ne sont pris en compte que lorsque deux joueurs ou plus ont le même score total.
-- **Le plus proche gagne :** Le joueur avec la réponse la plus proche de la valeur correcte obtient la meilleure position en cas d'égalité.
+La question de Tiebreaker est utilisée pour résoudre les liens à la fin d'un quiz.\
+On demande aux joueurs de deviner un nombre (par exemple, “Combien de fèves sont dans le pot ?”). Le joueur dont la réponse est la plus proche de la valeur correcte gagnera en cas de cravate.
 
 ---
 
-## 💡 Conseils pour les questions de départage
+## 📝 Comment ������������fonctionne
 
-- **Demande un nombre obscur :** Choisis une question dont la réponse n'est pas largement connue et qu'on ne peut pas deviner exactement.
-- **Encourage les réponses uniques :** Assure-toi que la question offre une large plage de réponses possibles, pour que chaque joueur donne une réponse différente.
-- **Utilise uniquement pour les égalités :** Les points fantômes sont uniquement utilisés comme départage et n’affectent pas le classement principal du jeu.
+- **Pas de points gagnés:** La question du tiebreaker n'attribue pas de points réguliers.
+- **Points d’ombre :** Au lieu de cela, il utilise des “points d’ombre” qui ne sont pris en compte que lorsque deux joueurs ou plus ont le même score total.
+- **Victoires les plus fermes:** Le joueur ayant la réponse la plus proche de la valeur correcte obtient la position la plus élevée en cas de cravate.
 
 ---
 
-_Example tiebreaker questions:_
+## 💡 Conseils pour les questions de tiebreaker
 
-- Combien de jelly beans y a-t-il dans le bocal affiché à l'écran ?
-- Quelle est la longueur totale (en mètres) de tous les fleuves combinés en Belgique ?
+- **Demandez un nombre obscur :** Choisissez une question où la réponse n'est pas très connue et il est peu probable qu'elle soit exactement devinée.
+- **Encourager les devinettes uniques:** Assurez-vous que la question a une large plage de possibilités, donc chaque joueur est susceptible d'entrer une réponse différente.
+- **Utilisez seulement pour les cravates :** Les points de l'ombre ne sont utilisés que comme un brise-cravate et n'affecteront pas le classement du jeu principal.
+
+---
+
+_Exemple de questions de tiebreaker :_
+
+- Combien de fèves de gelée y a-t-il dans le pot affiché à l'écran?
+- Quelle est la longueur totale (en mètres) de toutes les rivières en Belgique combinée?
 - Combien de briques ont été utilisées pour construire l'Empire State Building ?
-- Quelle était l'affluence lors de la toute première finale de la Coupe du Monde ?
+- Quelle a été la participation à la première finale de la Coupe du Monde?
 

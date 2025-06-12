@@ -1,71 +1,71 @@
 ---
 id: create-round-about
-title: Erstelle ein Round-About
+title: Rundum-Info erstellen
 ---
 
-# 🧠 Erstelle ein Round-About
+# 🧠 Eine Runde erstellen
 
-Ein **Round-About** ist die zentrale Quiz-Einheit in QuizWitz — ein thematisierter Fragenblock, der in zufälliger Reihenfolge präsentiert wird. Du kannst dein eigenes erstellen und privat spielen oder es veröffentlichen, um es mit der Community zu teilen.
+Ein **Rund-About** ist die Kern-Quiz-Einheit in QuizWitz — ein thematischer Satz von Fragen, der in zufälliger Reihenfolge vorgestellt wird. Du kannst dein eigenes erstellen und privat spielen oder es veröffentlichen, um es mit der Community zu teilen.
 
 ---
 
 ## 🎬 Erste Schritte
 
-Vom Hauptmenü aus:
+Vom Hauptmenü:
 
-1. Klicke auf **Erstellen**
-2. Wähle **Round-About** aus dem Dropdown-Menü
+1. Klicke **Erstellen**
+2. Wähle **Rund-About** aus dem Dropdown-Menü
 
 ![QuizWitz obere Navigationsleiste](/images/top-menu-create.png)
 
 ---
 
-## ✏️ Titel, Sprache & Kategorie
+## :Bencil: Titel, Sprache & Kategorie
 
-Beginne damit, deinem Round-About ein klares zu geben:
+Beginnen Sie, indem Sie Ihre Runde über eine Klarstellung geben:
 
-- **Titel** — etwas Eingängiges oder Beschreibendes
+- **Titel** — etwas eingängiges oder beschreibendes
 - **Sprache** — die Sprache, in der deine Fragen geschrieben sind
-- **Kategorie** — hilft Spielern, dein Round-About später zu finden
+- **Kategorie** — hilft Spielern, deine Runde später zu finden
 
-> 🔒 Du musst dein Round-About nicht veröffentlichen, um es zu spielen. Behalte es privat oder veröffentliche es, wenn du bereit bist zu teilen.
+> 🔒 Sie müssen Ihre Runde nicht veröffentlichen, um sie spielen zu können. Halten Sie es privat oder veröffentlichen Sie es, wenn Sie bereit sind zu teilen.
 
-![QuizWitz Round erstellen](/images/create-round.png)
+![QuizWitz Erstellungsrunde](/images/create-round.png)
 
 ---
 
 ## ➕ Fragen hinzufügen
 
-Klicke auf **Neue Frage hinzufügen**, um mit der Erstellung deines Quiz-Inhalts zu beginnen.
+Klicke **Neue Frage hinzufügen** um mit der Erstellung deines Quizinhalts zu beginnen.
 
-- Füge so viele Fragen hinzu, wie du möchtest
+- Fügen Sie beliebig viele Fragen hinzu
 - Speichere deinen Fortschritt regelmäßig
-- Du kannst dein Round-About jederzeit testen und spielen
+- Sie können Ihren Rund-About jederzeit testen und spielen
 
-> 📢 **Um dein Round-About zu veröffentlichen**, benötigst du **mindestens 14 Fragen**. Nach der Veröffentlichung ist es für die gesamte QuizWitz-Community sichtbar — du kannst es aber später wieder zurückziehen, falls nötig.
+> 📢 **Um deinen Rund-About** zu veröffentlichen, brauchst du **mindestens 14 Fragen**. Einmal veröffentlicht, wird es für die gesamte QuizWitz Community sichtbar – aber Sie können die Veröffentlichung später rückgängig machen.
 
-Möchtest du Fragen im Bulk hinzufügen? Nutze die Funktion **Fragen importieren** und folge den Anweisungen, um alles korrekt zu formatieren.
+Möchten Sie Fragen in großen Mengen hinzufügen? Benutze die **Importfragen** Funktion und folge den Eingabeaufforderungen, um alles korrekt zu formatieren.
 
-> 🛠️ Mehr Details zu Fragetypen und Bearbeitung findest du in den kommenden Kapiteln.
+> 🛠️ Weitere Details zu Fragetypen und Bearbeitung finden Sie in den kommenden Kapiteln.
 
 ---
 
-## ⚙️ Round-About Einstellungen
+## ⚙️ Runden über die Einstellungen
 
-Im Bereich **Details** findest du weitere Konfigurationsoptionen:
+Im Abschnitt **Details** finden Sie zusätzliche Konfigurationsoptionen:
 
-- **Übersetzen** — Erstelle eine übersetzte Version deines Round-About in einer anderen Sprache
-- **Kategorie** — Wähle oder aktualisiere die Kategorie deines Round-About
-- **Rundentyp** — Wähle, wie Fragen den Spielern präsentiert werden. Du kannst konfigurieren:
-    - Multiple Choice
-    - Offene Fragen
+- **Übersetzen** — Erstelle eine übersetzte Version deines Rund-About in einer anderen Sprache
+- **Kategorie** — Wähle oder aktualisiere die Rundungsüber-Kategorie
+- **Round type** — Wähle aus, wie Fragen an Spieler gestellt werden. Sie können konfigurieren:
+    - Mehrfachauswahl
+    - Fragen öffnen
     - Blitzrunden
     - Und mehr
 
-> 🔗 Erfahre mehr über [Rundentypen](../round-types/000-round-types.md) und [Fragetypen](../question-types/000-question-types.md) in den erweiterten Anleitungen.
+> 🔗 Erfahren Sie mehr über [runde Typen](../round-types/000-round-types.md) und [Fragentypen](../question-types/000-question-types.md) in den erweiterten Anleitungen.
 
-![Round-About Einstellungen](/images/round-about-details.png)
+![Runde über Einstellungen](/images/round-about-details.png)
 
 ---
 
-Wenn du mit deinem Inhalt zufrieden bist, drücke auf Veröffentlichen — und teile dein Round-About mit der Welt!
+Wenn du mit deinem Inhalt zufrieden bist, klicke auf Veröffentlichen – und teile deinen Round-About mit der Welt!

@@ -27,7 +27,7 @@ Choisissez un thème visuel pour votre quiz.
 - Votre organisation peut avoir accès à des thèmes personnalisés
 - Les thèmes affectent l'arrière-plan, les couleurs et la mise en page
 
-📘 Consultez la [documentation du thème Emerald](../advanced/011-emerald-theme.md) pour plus de détails sur la personnalisation visuelle avec ce thème.
+📘 Voir la [documentation du thème émeraude](../advanced/011-emerald-theme.md) pour plus de détails sur la personnalisation des visuels avec ce thème.
 
 ---
 
@@ -40,7 +40,7 @@ Améliorez votre quiz avec des visuels, audio ou vidéo dans des emplacements sp
 - **Logo client / logo alternatif** — Affiché dans toute l'interface du quiz
 - **Écran d'attente** — Affiché entre les questions dans les jeux en direct (image recommandée 1920×1080)
 - **Arrière-plan** — Remplacement d'arrière-plan optionnel (dépend du thème)
-- **Écran Connect** — Utilisé en modes [Live](../quizmaster/001-introduction.md) et [Conference](../tutorials/conference-booth) :
+- **Écran de connexion** — Utilisé dans les modes [Live](../quizmaster/001-introduction.md) et [Conference](../tutorials/conference-booth) :
   - **Images** — Visuels d'arrière-plan plein écran
   - **Audio** — Musique en boucle (max 15 min)
   - **Vidéo** — Jouée toutes les 5 minutes, utile pour des publicités ou instructions
@@ -49,7 +49,7 @@ Améliorez votre quiz avec des visuels, audio ou vidéo dans des emplacements sp
 
 - **Outro du jeu** — (Audio uniquement) Joue pendant l'écran de révélation du gagnant
 
-📘 Pour les détails techniques et recommandations, consultez le [guide des pièces jointes](../editor/006-attachments.md).
+📘 Pour des détails techniques et des recommandations, voir le [guide des pièces jointes](../editor/006-attachments.md).
 
 ---
 
@@ -59,25 +59,25 @@ Paramètres optionnels pour personnaliser le gameplay et la visibilité :
 
 - **Activer le multijoueur** — Activé par défaut. Permet de jouer en groupe avec des amis
 - **Ordre aléatoire des rounds** — Mélange l'ordre des rounds
-  > ⚠️ Non recommandé lors de la préparation pour [QuizWitz Live](../quizmaster/001-introduction.md)
-- **Permet aux utilisateurs de noter les questions** — Permet aux joueurs d'évaluer chaque question après un round
-- **Activer les commentaires** — Autoriser les retours après publication
-- **Accélérer quand tous ont répondu** — Si activé, le jeu avance lorsque tous les joueurs ont répondu
-  > ⏱️ Recommandé lors de l'utilisation du **score basé sur le temps**
+  > ⚠️ Non recommandé lors de la préparation de [QuizWitz Live](../quizmaster/001-introduction.md)
+- **Autoriser les utilisateurs à évaluer les questions** — Permet aux joueurs de noter chaque question après une manche
+- **Activer les commentaires** — Autoriser les commentaires après la publication
+- **Accélérer quand toutes les réponses sont effectuées** — Si activé, le jeu passe en avant quand tous les joueurs ont répondu
+  > ⏱️ Recommandé lors de l'utilisation de **score basé sur le temps**
 
 ---
 
 ## 📤 Partager ou intégrer
 
-Génère des liens de partage ou du code d'intégration avec des paramètres de jeu avancés.
+Génère des liens de partage ou du code intégré avec les paramètres avancés du jeu.
 
 ---
 
-## 📜 Copie Quizmaster
+## 📜 Copie du questionnaire
 
-Ajoutez des instructions personnalisées pour le présentateur :
+Ajouter des instructions personnalisées pour le présentateur :
 
 - **Introduction au quiz**
-- **Outro du quiz**
+- **Quiz outro**
 
-Ils sont visibles sur l’[application Quizmaster](../quizmaster/001-introduction.md) lorsqu’on utilise QuizWitz Live.
+Celles-ci sont visibles sur l'application [Quizmaster app](../quizmaster/001-introduction.md) lorsque vous utilisez QuizWitz Live.

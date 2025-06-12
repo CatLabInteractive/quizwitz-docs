@@ -4,7 +4,7 @@
     "description": "The title of the fallback page when the page crashed"
   },
   "theme.BackToTopButton.buttonAriaLabel": {
-    "message": "Revenir en haut",
+    "message": "Retourner vers le haut",
     "description": "The ARIA label for the back to top button"
   },
   "theme.blog.archive.title": {
@@ -16,31 +16,31 @@
     "description": "The page & hero description of the blog archive page"
   },
   "theme.blog.paginator.navAriaLabel": {
-    "message": "Navigation de la liste du blog",
+    "message": "Navigation des pages de la liste des blogs",
     "description": "The ARIA label for the blog pagination"
   },
   "theme.blog.paginator.newerEntries": {
-    "message": "Articles plus récents",
+    "message": "Nouvelles entrées",
     "description": "The label used to navigate to the newer blog posts page (previous page)"
   },
   "theme.blog.paginator.olderEntries": {
-    "message": "Articles plus anciens",
+    "message": "Anciennes entrées",
     "description": "The label used to navigate to the older blog posts page (next page)"
   },
   "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Navigation des articles de blog",
+    "message": "Navigation de la page de publication du blog",
     "description": "The ARIA label for the blog posts pagination"
   },
   "theme.blog.post.paginator.newerPost": {
-    "message": "Article plus récent",
+    "message": "Nouvelle publication",
     "description": "The blog post button label to navigate to the newer/previous post"
   },
   "theme.blog.post.paginator.olderPost": {
-    "message": "Article plus ancien",
+    "message": "Ancien message",
     "description": "The blog post button label to navigate to the older/next post"
   },
   "theme.tags.tagsPageLink": {
-    "message": "Voir toutes les étiquettes",
+    "message": "Voir tous les tags",
     "description": "The label of the link targeting the tag list page"
   },
   "theme.colorToggle.ariaLabel.mode.system": {
@@ -48,7 +48,7 @@
     "description": "The name for the system color mode"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "mode clair",
+    "message": "mode lumière",
     "description": "The name for the light color mode"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
@@ -60,15 +60,15 @@
     "description": "The ARIA label for the color mode toggle"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
-    "message": "Fil d’Ariane",
+    "message": "Fil d'Ariane",
     "description": "The ARIA label for the breadcrumbs"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "un élément|{count} éléments",
+    "message": "1 article |{count} articles",
     "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Pages de documentation",
+    "message": "Pages de documents",
     "description": "The ARIA label for the docs pagination"
   },
   "theme.docs.paginator.previous": {
@@ -80,7 +80,7 @@
     "description": "The label used to navigate to the next doc"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "Un document marqué|{count} documents marqués",
+    "message": "Un doc étiqueté |{count} docs taggés",
     "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.tagDocListPageTitle": {
@@ -88,18 +88,18 @@
     "description": "The title of the page for a docs tag"
   },
   "theme.docs.versionBadge.label": {
-    "message": "Version : {versionLabel}"
+    "message": "Version : {versionLabel}"
   },
   "theme.docs.versions.unreleasedVersionLabel": {
-    "message": "Ceci est une documentation non publiée pour {siteTitle} version {versionLabel}.",
+    "message": "Ceci est une documentation non publiée pour la version {siteTitle} {versionLabel}.",
     "description": "The label used to tell the user that he's browsing an unreleased doc version"
   },
   "theme.docs.versions.unmaintainedVersionLabel": {
-    "message": "Ceci est la documentation pour {siteTitle} {versionLabel}, qui n'est plus activement maintenue.",
+    "message": "Il s'agit de la documentation pour {siteTitle} {versionLabel}, qui n'est plus activement maintenue.",
     "description": "The label used to tell the user that he's browsing an unmaintained doc version"
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "Pour la documentation à jour, consultez {latestVersionLink} ({versionLabel}).",
+    "message": "Pour une documentation à jour, consultez l' {latestVersionLink} ({versionLabel}).",
     "description": "The label used to tell the user to check the latest version"
   },
   "theme.docs.versions.latestVersionLinkLabel": {
@@ -115,7 +115,7 @@
     "description": "Title for link to heading"
   },
   "theme.lastUpdated.atDate": {
-    "message": " le {date}",
+    "message": " sur {date}",
     "description": "The words used to describe on which date a page has been last updated"
   },
   "theme.lastUpdated.byUser": {
@@ -131,15 +131,15 @@
     "description": "The label for the navbar versions dropdown on mobile view"
   },
   "theme.NotFound.title": {
-    "message": "Page non trouvée",
+    "message": "Page introuvable",
     "description": "The title of the 404 page"
   },
   "theme.tags.tagsListLabel": {
-    "message": "Étiquettes :",
+    "message": "Tags :",
     "description": "The label alongside a tag list"
   },
   "theme.admonition.caution": {
-    "message": "prudence",
+    "message": "précaution",
     "description": "The default label used for the Caution admonition (:::caution)"
   },
   "theme.admonition.danger": {
@@ -155,7 +155,7 @@
     "description": "The default label used for the Note admonition (:::note)"
   },
   "theme.admonition.tip": {
-    "message": "astuce",
+    "message": "tip",
     "description": "The default label used for the Tip admonition (:::tip)"
   },
   "theme.admonition.warning": {
@@ -167,7 +167,7 @@
     "description": "The ARIA label for close button of announcement bar"
   },
   "theme.blog.sidebar.navAriaLabel": {
-    "message": "Navigation des articles récents du blog",
+    "message": "Navigation des articles récents dans le blog",
     "description": "The ARIA label for recent posts in the blog sidebar"
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
@@ -187,11 +187,11 @@
     "description": "The label for the mobile language switcher dropdown"
   },
   "theme.NotFound.p1": {
-    "message": "Nous n’avons pas trouvé ce que vous cherchiez.",
+    "message": "Nous n'avons pas trouvé ce que vous cherchiez.",
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "Veuillez contacter le propriétaire du site qui vous a envoyé vers l’URL d’origine et l’informer que le lien est cassé.",
+    "message": "Veuillez contacter le propriétaire du site qui vous a lié à l'URL d'origine et leur faire savoir que leur lien est cassé.",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
@@ -199,7 +199,7 @@
     "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.blog.post.readMore": {
-    "message": "Lire la suite",
+    "message": "En savoir plus",
     "description": "The label used in blog post item excerpts to link to full blog posts"
   },
   "theme.blog.post.readMoreLabel": {
@@ -207,11 +207,11 @@
     "description": "The ARIA label for the link to full blog posts from excerpts"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "1 min de lecture|{readingTime} min de lecture",
+    "message": "Lecture d'une minute |{readingTime} min de lecture",
     "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.CodeBlock.copy": {
-    "message": "Copier",
+    "message": "Copie",
     "description": "The copy button label on code blocks"
   },
   "theme.CodeBlock.copied": {
@@ -223,11 +223,11 @@
     "description": "The ARIA label for copy code blocks button"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Basculer le retour à la ligne",
+    "message": "Afficher/Masquer les mots",
     "description": "The title attribute for toggle word wrapping button of code block lines"
   },
   "theme.docs.breadcrumbs.home": {
-    "message": "Page d’accueil",
+    "message": "Page d'accueil",
     "description": "The ARIA label for the home page in the breadcrumbs"
   },
   "theme.docs.sidebar.collapseButtonTitle": {
@@ -239,7 +239,7 @@
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Barre latérale de la documentation",
+    "message": "Docs sidebar",
     "description": "The ARIA label for the sidebar navigation"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
@@ -247,7 +247,7 @@
     "description": "The ARIA label for close button of mobile sidebar"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "← Retour au menu principal",
+    "message": "<unk> Retour au menu principal",
     "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
@@ -255,27 +255,27 @@
     "description": "The ARIA label for hamburger menu button of mobile navigation"
   },
   "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
-    "message": "Développer le menu déroulant",
+    "message": "Développer la liste déroulante",
     "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
   },
   "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
-    "message": "Réduire le menu déroulant",
+    "message": "Réduire la liste déroulante",
     "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Développer la barre latérale",
+    "message": "Expand sidebar",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Développer la barre latérale",
+    "message": "Expand sidebar",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.blog.post.plurals": {
-    "message": "Un article|{count} articles",
+    "message": "Un message | Publications{count}",
     "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.tagTitle": {
-    "message": "{nPosts} marqué(s) avec \"{tagName}\"",
+    "message": "{nPosts} étiqueté avec \"{tagName}\"",
     "description": "The title of the page for a blog tag"
   },
   "theme.blog.author.pageTitle": {
@@ -291,27 +291,27 @@
     "description": "The label of the link targeting the blog authors page"
   },
   "theme.blog.author.noPosts": {
-    "message": "Cet auteur n’a pas encore écrit d’articles.",
+    "message": "Cet auteur n'a pas encore écrit de messages.",
     "description": "The text for authors with 0 blog post"
   },
   "theme.contentVisibility.unlistedBanner.title": {
-    "message": "Page non répertoriée",
+    "message": "Page non listée",
     "description": "The unlisted content banner title"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "Cette page est non répertoriée. Les moteurs de recherche ne l’indexeront pas, et seuls les utilisateurs disposant d’un lien direct peuvent y accéder.",
+    "message": "Cette page n'est pas répertoriée. Les moteurs de recherche ne l'indexeront pas, et seuls les utilisateurs ayant un lien direct peuvent y accéder.",
     "description": "The unlisted content banner message"
   },
   "theme.contentVisibility.draftBanner.title": {
-    "message": "Page brouillon",
+    "message": "Page de brouillon",
     "description": "The draft content banner title"
   },
   "theme.contentVisibility.draftBanner.message": {
-    "message": "Cette page est un brouillon. Elle ne sera visible que dans le mode développement et exclue de la version finale.",
+    "message": "Cette page est un brouillon. Elle ne sera visible que dans le dev et sera exclue de la construction en production.",
     "description": "The draft content banner message"
   },
   "theme.ErrorPageContent.tryAgain": {
-    "message": "Réessayer",
+    "message": "Réessayez",
     "description": "The label of the button to try again rendering when the React error boundary captures an error"
   },
   "theme.common.skipToMainContent": {
@@ -319,34 +319,34 @@
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
   "theme.tags.tagsPageTitle": {
-    "message": "Étiquettes",
+    "message": "Tags",
     "description": "The title of the tag list page"
   },
   "Create": {
     "message": "Créer"
   },
   "Create a fully customizable quiz using different question and round types.": {
-    "message": "Crée un quiz entièrement personnalisable en utilisant différents types de questions et de tours."
+    "message": "Créez un quiz entièrement personnalisable en utilisant différents types de questions et de rondes."
   },
   "Play": {
     "message": "Jouer"
   },
   "Play any shared quiz on our platform with friends, family, colleagues, … Grab a smart device, connect via the web and show off how much you know!": {
-    "message": "Joue à n’importe quel quiz partagé sur notre plateforme avec tes amis, famille, collègues... Prends un smart device, connecte-toi via le web et montre à quel point tu es calé !"
+    "message": "Jouez à n'importe quel quiz partagé sur notre plateforme avec vos amis, votre famille, vos collègues, … Attrapez un appareil intelligent, connectez-vous via le Web et montrez ce que vous savez !"
   },
   "Share": {
     "message": "Partager"
   },
   "Collect and share quiz rounds from around the world, or share your own! Connect with other quiz aficionados.": {
-    "message": "Collecte et partage des tours de quiz du monde entier, ou partage les tiens ! Connecte-toi avec d’autres passionnés de quiz."
+    "message": "Collectez et partagez des quiz à travers le monde, ou partagez les vôtres! Connectez-vous avec d'autres passionnés de quiz."
   },
   "Your guide to creating, hosting, and mastering QuizWitz.": {
-    "message": "Ton guide pour créer, animer, et maîtriser QuizWitz."
+    "message": "Votre guide pour créer, héberger et maîtriser QuizWitz."
   },
   "Getting started": {
     "message": "Commencer"
   },
   "FAQ": {
-    "message": "FAQ"
+    "message": "Foire Aux Questions"
   }
 }

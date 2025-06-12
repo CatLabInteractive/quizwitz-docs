@@ -1,75 +1,75 @@
 ---
 id: round-options
-title: Rundenoptionen
+title: Rundungsoptionen
 ---
 
-# 🔄 Rundenoptionen
+# 🔄 Rundungsoptionen
 
-Jede Runde hat einen bestimmten **Typ**. Standard ist **Multiple Choice (Trivia)**, aber probiere ruhig alle verfügbaren Typen aus und experimentiere. Diese Seite erklärt die Einstellungen und Anhänge, die du pro Runde konfigurieren kannst.
+Jede Runde hat einen bestimmten **Typ**. Die Standardeinstellung ist **Multiple-Choice (Trivia)**, aber Sie können alle verfügbaren Typen testen und experimentieren. Diese Seite erklärt die Einstellungen und Anhänge, die Sie pro Runde konfigurieren können.
 
-📘 Für eine detaillierte Übersicht aller Rundentypen besuche die [Rundentyp-Dokumentation](../round-types/000-round-types.md).
-
----
-
-## 🔧 Runde konfigurieren
-
-Um die Optionen einer Runde zu konfigurieren, klicke auf das Zahnrad-Symbol im Rundenpanel:
-
-| ![Rundenoptionen öffnen](/images/open-round-options.png) | ![Rundenoptionen](/images/round-options.png) |
-| :------------------------------------------------------: | :------------------------------------------: |
-|                  _Opening round options_                 |          _Round configuration panel_         |
+📘 Für eine detaillierte Übersicht aller Rundungstypen besuchen Sie bitte die [Rundungstyp-Dokumentation](../round-types/000-round-types.md).
 
 ---
 
-## ⚙️ Allgemeine Rundenoptionen
+## 🔧 Konfigurieren einer Runde
 
-Folgende Optionen sind für die meisten Rundentypen verfügbar:
+Um die Optionen einer Runde zu konfigurieren, klicken Sie auf das Zahnradsymbol im runden Fenster:
 
-- **Zeige nur _X_ Fragen** — Begrenze die Runde auf eine bestimmte Anzahl von Fragen
-- **Zufällige Fragenreihenfolge** — Mische die Reihenfolge der Fragen innerhalb der Runde
-- **Zeige Rundenintro** — Zeige einen animierten Titel bevor die Runde beginnt
-- **Zeige Rundenoutro (Zwischenergebnis)** — Zeige die Ranglisten am Ende der Runde
-- **Fasse sämtliches Feedback auf einem Bildschirm zusammen** — Sammle das Feedback zu den Fragen in einem Block nachdem die Runde endet
-- **Zeige sämtliches Feedback zu den Fragen erst am Ende der Runde** — Verzögere das Feedback zu den Fragen bis zum Rundenende
-- **Feedback nach jeder einzelnen Frage erzwingen** — Sofortiges Feedback sicherstellen
-  > ⚠️ Dies gilt nur für Rundentypen und Fragetyen, bei denen das Feedback sonst verzögert wäre, z. B. offene Fragen oder Blitzrunden.
-
-📘 Weitere Informationen zum Feedbacktiming und -verhalten findest du bei den [Fragetypen](../question-types/000-question-types.md).
+| ![Runde Optionen öffnen](/images/open-round-options.png) | ![Runden Optionen](/images/round-options.png) |
+| :------------------------------------------------------: | :-------------------------------------------: |
+|                     _runde Optionen_                     |            _Rundungskonfiguration_            |
 
 ---
 
-## 🏆 Wertungsoptionen {#scoring}
+## :getriebe: Allgemeine Rundungsoptionen
 
-QuizWitz bietet flexible Punktvergabe, um das Spiel für alle fair und spannend zu halten.
+Die folgenden Optionen sind für die meisten runden Typen verfügbar:
 
-- **Zeitbasierte Punktevergabe** — Spieler erhalten mehr Punkte für schnellere Antworten.
-  - Bei den meisten Fragetypen verringert sich die Zeitpunktzahl **kontinuierlich pro Mikrosekunde**: Je schneller du antwortest, desto mehr Punkte bekommst du.
-  - Nur bei **offenen Fragen** wird die zeitbasierte Punktevergabe in Blöcke eingeteilt. Zum Beispiel: Antworten im ersten Block (z. B. erste paar Sekunden) erhalten **100 %** der zeitbasierten Punkte, der nächste Block bekommt **80 %** und so weiter. Das hilft, den Wettbewerb für langsamere Tippen auszugleichen.
+- **Nur _X_ Fragen anzeigen** — Begrenzt die Runde auf eine bestimmte Anzahl von Fragen
+- **Zufällige Fragenbestellung** — Mische die Fragenreihenfolge innerhalb der Runde
+- **Runde Intro** anzeigen — Zeigt einen animierten Titel vor Beginn der Runde an
+- **Zeige Round outro (Interims-Punktestand)** — Zeige Rankings am Ende der Runde
+- **Gruppiere alle Feedback in einem einzigen Bildschirm** — Sammle FragenFeedback in einem Block nach Ende der Runde
+- **Zeige alle Fragen Feedback am Ende der Runde** — Verzögere das Feedback der Frage bis zum Ende der Runde
+- **Erzwinge Feedback nach jeder einzelnen Frage** — Stelle sofortige Rückmeldung sicher
+  > :warnung: Dies wirkt nur bei runden und Fragetypen, bei denen das Feedback sonst verzögert würde, wie zum Beispiel offene Fragen oder Blitzrunden.
 
-- **Fester Prozentsatz der Punkte bei zeitbasierter Punktevergabe** — Du bestimmst, wie stark die Gesamtpunktzahl durch die Geschwindigkeit beeinflusst wird.
-  - Standardmäßig sind **75 %** der Punkte fest (jeder, der richtig antwortet, bekommt diese Punkte, unabhängig von der Geschwindigkeit).
-  - Nur die restlichen **25 %** werden durch die Antwortgeschwindigkeit beeinflusst.
+📘 Siehe [Frage Typen](../question-types/000-question-types.md) für weitere Informationen zum Feedback-Timing und zum Verhalten.
 
-> 💡 Mit dieser Einstellung kannst du machen, dass Runden mehr wissens- oder mehr geschwindigkeitsbasiert sind, je nach deinem Quizstil.
+---
 
-Diese Punkteoptionen findest du im Rundenoptionspanel beim Bearbeiten einer Runde.
+## 🏆 Scoring-Optionen {#scoring}
+
+QuizWitz bietet flexible Scoring, um die Dinge fair und engagiert für alle Spieler zu halten.
+
+- **Zeitbasierte Punkte** — Spieler erhalten mehr Punkte für schnellere Antworten.
+  - Bei den meisten Fragetypen sinken die Zeitpunkte **kontinuierlich pro Mikrosekunde**: Je schneller du antwortest, desto mehr Punkte bekommst du.
+  - Nur für **offene Fragen**, werden zeitbasierte Punkte in Blöcke aufgeteilt. Zum Beispiel: Antworten im ersten Block (z.B. erste Sekunden) verdienen **100%** des zeitbasierten Teils, der nächste Block verdient **80%**, und so weiter. Dies hilft dabei, das Spielfeld für langsamere Reifer zu gleichen.
+
+- **Prozentsatz der Punkte bei zeitbasierter Punkte** — Du kontrollierst, wie viel der Gesamtpunktzahl durch Geschwindigkeit beeinflusst wird.
+  - Standardmäßig sind **75%** der Punkte festgelegt (jeder, der richtig antwortet, bekommt diese Punkte, unabhängig von der Geschwindigkeit).
+  - Nur die restlichen **25%** sind davon beeinflusst, wie schnell die Spieler reagieren.
+
+> 💡 Mit dieser Einstellung können Sie Runden wissensbasierter oder schneller gestalten, je nach Quizstil.
+
+Diese Scoring-Optionen finden Sie in der runden Optionsleiste beim Bearbeiten einer Runde.
 
 ---
 
 ## 📜 Quizmaster-Anweisungen
 
-Du kannst einen eigenen **Rundeneinleitungstext** hinzufügen, der nur in der [Quizmaster-App](../quizmaster/001-introduction.md) zu Beginn der Runde angezeigt wird. Nutze dies, um den Moderator zu briefen oder eine persönliche Note hinzuzufügen.
+Du kannst einen benutzerdefinierten **runden Einführung** hinzufügen, der nur in der [Quizmaster app](../quizmaster/001-introduction.md) zu Beginn der Runde angezeigt wird. Benutzen Sie dies, um den Moderator zu kürzen oder eine persönliche Note hinzuzufügen.
 
 ---
 
 ## 📎 Anhänge
 
-Bereichere deine Runde mit Medien, die zu bestimmten Momenten angezeigt werden:
+Verbessern Sie Ihre Runde mit Medien, die zu bestimmten Zeiten gezeigt werden:
 
-- **Vor der Runde** — Wird nach der Intro-Animation der Runde angezeigt
-- **Nach der Runde** — Wird nach dem Outro der Runde gezeigt
-- **Vor dem Rundenoutro** — Wird nach der letzten Frage, direkt vor dem Outro angezeigt
-- **During round outro** — _(audio only)_ Plays while rankings are displayed
+- **Vor der Runde** — Nach der runden Einführungsanimation angezeigt
+- **Nach Runde** — Wird nach dem runden Outro angezeigt
+- **Vor Runde outro** — Wird nach der letzten Frage vor dem Outtro angezeigt
+- \*\*Während der Runde außerhalb \*\* — _(nur Audio)_ Spielt während der Rangliste ab
 - ...
 
-📘 Für unterstützte Dateitypen und Nutzungstipps siehe den [Anhangsleitfaden](../editor/006-attachments.md).
+📘 Für unterstützte Dateitypen und Benutzungstipps siehe [Anhang Anleitung](../editor/006-attachments.md).

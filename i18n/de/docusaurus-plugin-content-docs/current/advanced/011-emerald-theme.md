@@ -1,94 +1,93 @@
 ---
 id: emerald-theme
-name: Emerald-Thema
+name: Smaragdthema
 ---
 
-# Emerald-Thema
+# Smaragdthema
 
-Das Emerald-Thema ist der einfachste Weg, das Aussehen deines QuizWitz-Spiels anzupassen. Standardmäßig ist das Thema ein sauberer Blau-/Grün-Stil mit lebendigen Optionsfarben, aber durch die Kombination von Quiz-Anhängen und Themenmodifikatoren kannst du das Aussehen drastisch verändern.
+Das Smaragd-Theme ist der einfachste Weg, um das Aussehen Ihres QuizWitz Spiels anzupassen. Standardmäßig ist das Theme ein sauberer blauer / grüner Stil mit lebhaften Optionsfarben, aber durch die Kombination von Quiz-Anhängen und Theme-Modifikatoren können Sie die Art und Weise ändern, wie es aussieht — drastisch.
 
 :::tip
-Du kannst unseren [Theme-Tester](https://client.quizwitz.com/test.html?theme=emerald) benutzen, um zu sehen, wie deine Einstellungen aussehen werden.
+Du kannst unseren [Thementest](https://client.quizwitz.com/test.html?theme=emerald) verwenden, um zu sehen, wie deine Einstellungen aussehen werden.
 :::
 
-![Ein Screenshot des Emerald-Themas](/images/emerald/emerald.png)
+![Ein Screenshot des Smaragdtheme](/images/emerald/emerald.png)
 
-## Wähle das Emerald-Thema aus
+## Smaragdthema auswählen
 
-Wähle in deinen **Quiz-Einstellungen** unter **Thema** die Option **Emerald** aus und aktiviere sie.
+Wählen Sie in Ihren **Quiz Einstellungen**, **Theme** aus und aktivieren Sie **Emerald**.
 
-Du kannst ein Quiz mit dem Emerald-Thema [hier](https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default) testen.
+Du kannst einen Test mit dem Smaragdthema [here](https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default).
 
-![Ein Screenshot der Quiz-Einstellungen](/images/emerald/quiz-settings.png)
+![Ein Screenshot der Quizeinstellungen](/images/emerald/quiz-settings.png)
 
 ## Anhänge
 
-### Quiz-Anhänge
+### Quiz Anhänge
 
-Der mit Abstand einfachste Weg, das Aussehen und das Gefühl des Spiels zu ändern, ist das Anhängen von Bildern an dein Quiz. Öffne die **Quiz-Einstellungen** und scrolle zum Abschnitt **Anhänge** nach unten. Hier kannst du Bilder hochladen, die als Hintergrund, Kundenlogo, Verbindungs- und Wartebildschirme (für Konferenz- und Live-Quizze) und mehr verwendet werden.
+Der einfachste Weg, das Aussehen und das Gefühl des Spiels zu verändern, ist das Anhängen von Bildern an Ihrem Quiz. Öffne die **Quiz-Einstellungen** und gehe zum Abschnitt **Anhänge**. Hier können Sie Bilder hochladen, die als Hintergrund, Client-Logo verwendet werden Verbinden — und Wartebildschirme (für Konferenz- und Live-Quizzen) und mehr.
 
 ![Ein Screenshot der Quiz-Anhänge](/images/emerald/quiz-attachments.png)
 
-### Runden-Anhänge
+### Anhänge runden
 
-Du kannst auch Bilder oder Videos hochladen, die vor und nach dem Spiel abgespielt werden. Das gilt auch für Runden: Finde ein Bild, das du als Runden-Einführung verwenden möchtest, gehe zu den **Rundeneinstellungen**, deaktiviere **Rundenintro anzeigen**, um die Standard-Einführung zu verbergen, und lade dein Bild oder Video als **Vor der Runde anzeigen** hoch. Wenn die Runde startet, wird das Bild oder Video statt der Standard-Einführung angezeigt.
+Sie können auch Bilder oder Videos hochladen, die vor und nach dem Spiel wiedergegeben werden. Dies gilt auch für Runden: Finde ein Bild, das du als runde Einführung verwenden möchtest, gehe zu **runden Einstellungen**, Deaktiviere **Runde Intro** um die Standardeinleitung zu verstecken, und lade dein Bild oder Video als **Vor Runde anzeigen** hoch. Wenn die Runde beginnt, wird das Bild oder das Video anstelle der Standardeinführung angezeigt.
 
-![Ein Screenshot der Runden-Anhänge](/images/emerald/round-settings.png)
+![Ein Screenshot der runden Anhänge](/images/emerald/round-settings.png)
 
 :::tip
-Verwende Bilder und Videos mit einer Auflösung von 1920 x 1080 für beste Ergebnisse.
+Verwenden Sie Bilder und Videos mit einer Auflösung von 1920 x 1080 für beste Ergebnisse.
 :::
 
 :::info
-Nach dem Experimentieren mit den Anhängen erhalten wir etwas [wie das hier](https://play.quizwitz.com/11487:ACz546ejAV/emerald-theme-tutorial-background-logo).
+Nachdem wir mit den Anhängen gespielt haben, landen wir mit etwas [ähnlich](https://play.quizwitz.com/11487:ACz546ejAV/emerald-theme-tutorial-background-logo).
 :::
 
-![Ein Screenshot des Emerald-Themas mit Quiz-Anhängen](/images/emerald/emerald-with-attachments.png)
+![Ein Screenshot des Smaragd-Themes mit Quiz-Anhängen](/images/emerald/emerald-with-attachments.png)
 
 ### Musik
 
-Alle Musik im Spiel kann ebenfalls durch Anhänge ersetzt werden. Alle in den **Während der Frage**-Slots hochgeladenen Audiodateien werden während des Frage-Countdowns abgespielt.
+Alle Musik im Spiel kann auch durch Anhänge ersetzt werden. Alle Audiodateien, die in den **während der Fragen** Slots hochgeladen werden, werden während des Fragencountdown abgespielt.
 
-## Emerald-Thema-Modifier
+## Smaragd-Theme-Modifikatoren
 
-Zusätzlich zu den Anhängen kannst du das Emerald-Thema auch mit **Abfrageparametern** manipulieren. Das sind Parameter, die du der URL für **Erweiterte Spieloptionen** hinzufügen kannst — und sie ändern das Aussehen des Themas.
+Zusätzlich zu den Anhängen können Sie das Smaragdthema auch mit **Query-Parametern** bearbeiten. Dies sind Parameter, die du zur URL der **erweiterten Spieloptionen** hinzufügen kannst und die das Aussehen des Themes verändern.
 
-For this, we will start with an example quiz (without any attachments):\
-https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
+Dazu beginnen wir mit einem Beispiel-Quiz (ohne Anhänge):\
+https://play.quizwitz.com/11486:gFUFUFh7i/emerald-theme-tutorial-default
 
-Wenn du das oben genannte Quiz startest, ist das Spiel im Standard-Emerald-Stil. Lass uns das ändern.
+Wenn Sie das obige Quiz starten, wird das Spiel im voreingestellten Smaragdstil sein. Lassen Sie uns das ändern.
 
 :::tip
-Der einfachste Weg, mit diesen Parametern zu experimentieren, ist die Nutzung unseres Theme-Testers.\
-The easiest way to experiment with these parameters is by using our theme tester.\
-When you are done experimenting, you can copy — paste the parameters to your advanced game options URL.
+Der einfachste Weg, mit diesen Parametern zu experimentieren, ist die Verwendung unseres Thementester.\
+Wenn du mit dem Experimentieren fertig bist, kannst du kopieren — füge die Parameter in die URL deiner erweiterten Spieloptionen ein.
 :::
 
-Die verfügbaren Modifier sind:
+Die verfügbaren Modifikatoren sind:
 
-- backgroundColor
-- mainColor
+- Hintergrundfarbe
+- startfarbe
 - accentColor
-- timerBackgroundColor
+- timerbackfarbe
 - headerTextColor
 - optionTextColor
-- optionColors (4 Farben, durch Komma getrennt)
-- optionBorderColors (4 Farben, durch Komma getrennt)
+- optionFarben (4 Farben, Komma — getrennt)
+- optionBorderColors (4 Farben, Komma — getrennt)
 
-Außerdem kannst du eine Standardschriftart festlegen:
+Zusätzlich können Sie eine Standardschriftart festlegen:
 
 - defaultFont
-- headerFont
+- header-Schriftart
 
-Diese Schriftarten müssen URLs zu öffentlich verfügbaren Schriftdateien sein.
+Diese Schriftarten müssen URLs für öffentlich zugängliche Schriftarten sein.
 
-Jeder dieser Modifier kann eine einzelne Farbe im HTML-Hex-Format (ff0000) oder einen linearen Farbverlauf enthalten, indem mehrere Farben durch ein Minuszeichen getrennt werden (— zum Beispiel ff1b6b-45caff). (Beachte, dass das #-Symbol nicht hinzugefügt werden sollte.)
+Jeder dieser Modifikatoren kann eine einzelne Farbe im HTML-Hex-Format enthalten (ff0000), oder ein linearer Verlauf, indem mehrere Farben durch ein Minussymbol geteilt werden ( — zum Beispiel ff1b6b-45caff). (Beachten Sie, dass das # Symbol nicht hinzugefügt werden sollte.)
 
 :::note
-Die Abfrageparameter müssen mit einem Fragezeichen ( ? ) beginnen und jeder Parameter muss mit einem Ampersand ( & ) getrennt werden. Für weitere Informationen über Abfrageparameter besuche [wikipedia](https://en.wikipedia.org/wiki/Query_string).
+Die Abfrageparameter müssen mit einem Fragezeichen beginnen ( ? ) und jeder Parameter muss mit einem Amperand ( & ) geteilt werden. Weitere Informationen zu den Abfrageparametern finden Sie unter [wikipedia](https://en.wikipedia.org/wiki/Query_string).
 :::
 
-By adding these parameters to your game URL, you can modify the colors in the theme:\
-https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
+Wenn du diese Parameter deiner Spiel-URL hinzufügst, kannst du die Farben im Theme ändern:\
+https://play.quizwitz.com/11486:gFUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
-![Ein Screenshot des Emerald-Themas mit benutzerdefinierten Modifikatoren](/images/emerald/theme_properties.png)
+![Ein Screenshot des Smaragd-Themes mit benutzerdefinierten Modifikatoren](/images/emerald/theme_properties.png)
