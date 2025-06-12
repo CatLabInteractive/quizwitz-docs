@@ -23,8 +23,8 @@ Klik op het **tandwielicoon** linksboven in een vraag om het volledige instellin
 
 ### 🎮 Modus & scoring
 
-- **Question type** — Choose how the question is played (e.g. multiple choice, open answer, puzzle)\
-  → Learn more in [question types](../question-types/000-question-types.md)
+- **Vraagtype** — Kies hoe de vraag wordt gespeeld (bijv. multiple choice, open antwoord, puzzel)\
+  → Leer meer in [vraagtypes](../question-types/000-question-types.md)
 - **Punten** — Stel in hoeveel punten een correct antwoord waard is
 - **Vraag timer** — Pas de tijdslimiet aan met de schuifbalk
 
