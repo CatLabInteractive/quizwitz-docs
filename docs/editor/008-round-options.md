@@ -5,7 +5,7 @@ title: Round options
 
 # 🔄 Round options
 
-Each round has a specific **type**. The default is **Multiple Choice (Trivia)**, but feel free to test and experiment with all available types. This page explains the settings and attachments you can configure per round.
+Each round has a specific **type**. The default is **Trivia**, but we invite you to test and experiment with all available types. This page explains the settings and attachments you can configure per round.
 
 📘 For a detailed overview of all round types, visit the [round types documentation](../round-types/000-round-types.md).
 
@@ -44,9 +44,9 @@ QuizWitz offers flexible scoring to keep things fair and engaging for all player
 
 - **Time-based scoring** — Players earn more points for faster answers.
   - For most question types, time-based points decrease **continuously per microsecond**: the faster you answer, the more points you score.
-  - For **open questions only**, time-based points are divided into blocks. For example: answers in the first block (e.g., first few seconds) earn **100%** of the time-based portion, the next block earns **80%**, and so on. This helps level the playing field for slower typers.
+  - For **open questions**, time-based points are divided into blocks. For example: answers in the first block (e.g., first few seconds) earn **100%** of the time-based portion, the next block earns **80%**, and so on. This helps level the playing field for slower typers.
 
-- **Fixed percentage of points on timebased scoring** — You control how much of the total score is influenced by speed.
+- **Fixed percentage of points on time-based scoring** — You control how much of the total score is influenced by speed.
   - By default, **75%** of the points are fixed (everyone who answers correctly gets these points, regardless of speed).
   - Only the remaining **25%** is influenced by how quickly players respond.
 
