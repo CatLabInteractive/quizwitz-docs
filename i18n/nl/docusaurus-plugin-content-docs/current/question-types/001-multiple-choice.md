@@ -34,7 +34,7 @@ Zie [Score-opties in ronde instellingen](../editor/008-round-options.md#scoring)
 
 ## ⚙️ Uitgebreide instellingen
 
-Het type multpile-choice vraag biedt vele instellingen om de ervaring en score te verfijnen.\
+Het type meerkeuzevraag biedt vele instellingen om de ervaring en score te verfijnen.\
 Zie [Vragen schrijven](../editor/005-writing-questions.md) voor een algemeen overzicht van vraaginstellingen.
 
 ---
