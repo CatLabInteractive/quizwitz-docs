@@ -5,7 +5,7 @@ title: Rundungsoptionen
 
 # 🔄 Rundungsoptionen
 
-Jede Runde hat einen bestimmten **Typ**. Die Standardeinstellung ist **Multiple-Choice (Trivia)**, aber Sie können alle verfügbaren Typen testen und experimentieren. Diese Seite erklärt die Einstellungen und Anhänge, die Sie pro Runde konfigurieren können.
+Jede Runde hat einen bestimmten **Typ**. Die Standardeinstellung ist **Trivia**, aber wir laden Sie ein, alle verfügbaren Typen zu testen und zu experimentieren. Diese Seite erklärt die Einstellungen und Anhänge, die Sie pro Runde konfigurieren können.
 
 📘 Für eine detaillierte Übersicht aller Rundungstypen besuchen Sie bitte die [Rundungstyp-Dokumentation](../round-types/000-round-types.md).
 
@@ -44,7 +44,7 @@ QuizWitz bietet flexible Scoring, um die Dinge fair und engagiert für alle Spie
 
 - **Zeitbasierte Punkte** — Spieler erhalten mehr Punkte für schnellere Antworten.
   - Bei den meisten Fragetypen sinken die Zeitpunkte **kontinuierlich pro Mikrosekunde**: Je schneller du antwortest, desto mehr Punkte bekommst du.
-  - Nur für **offene Fragen**, werden zeitbasierte Punkte in Blöcke aufgeteilt. Zum Beispiel: Antworten im ersten Block (z.B. erste Sekunden) verdienen **100%** des zeitbasierten Teils, der nächste Block verdient **80%**, und so weiter. Dies hilft dabei, das Spielfeld für langsamere Reifer zu gleichen.
+  - Bei **offenen Fragen** werden Zeitpunkte in Blöcke aufgeteilt. Zum Beispiel: Antworten im ersten Block (z.B. erste Sekunden) verdienen **100%** des zeitbasierten Teils, der nächste Block verdient **80%**, und so weiter. Dies hilft dabei, das Spielfeld für langsamere Reifer zu gleichen.
 
 - **Prozentsatz der Punkte bei zeitbasierter Punkte** — Du kontrollierst, wie viel der Gesamtpunktzahl durch Geschwindigkeit beeinflusst wird.
   - Standardmäßig sind **75%** der Punkte festgelegt (jeder, der richtig antwortet, bekommt diese Punkte, unabhängig von der Geschwindigkeit).
