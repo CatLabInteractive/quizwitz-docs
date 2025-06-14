@@ -22,7 +22,7 @@ Je kunt ook **Round-Abouts verzamelen** die door andere leden zijn gemaakt en de
 ---
 
 > 💡 **Tip:**\
-> A **Round-About** is the smallest building block in QuizWitz. Het is een korte reeks vragen over een specifiek onderwerp.\
+> Een **Round-About** is het kleinste bouwblok in QuizWitz. Het is een korte reeks vragen over een specifiek onderwerp.\
 > Round-Abouts kunnen worden gepubliceerd zodat anderen ze kunnen gebruiken, of privé gehouden worden voor jezelf.
 >
 > Een **volledige quiz** stelt je in staat meerdere rondes te combineren, de volgorde te bepalen en je eigen quizverloop en regels in te stellen. Perfect voor evenementen of grotere quizervaringen!
