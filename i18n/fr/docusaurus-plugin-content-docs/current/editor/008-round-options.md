@@ -5,7 +5,7 @@ title: Options de la manche
 
 # 🔄 Options d'arrondi
 
-Chaque manche a un **type** spécifique. La valeur par défaut est **Choix multiple (Trivia)**, mais n'hésitez pas à tester et expérimenter tous les types disponibles. Cette page explique les paramètres et les pièces jointes que vous pouvez configurer par joute.
+Chaque manche a un **type** spécifique. La valeur par défaut est **Trivia**, mais nous vous invitons à tester et expérimenter tous les types disponibles. Cette page explique les paramètres et les pièces jointes que vous pouvez configurer par joute.
 
 📘 Pour une vue d'ensemble détaillée de tous les types d'arronde, visitez la [documentation sur les types d'arrondisse](../round-types/000-round-types.md).
 
@@ -44,9 +44,9 @@ QuizWitz offre des notes flexibles pour garder les choses équitables et engagea
 
 - **Score basé sur le temps** — Les joueurs gagnent plus de points pour des réponses plus rapides.
   - Pour la plupart des types de questions, les points temporels diminuent **continuellement par microseconde**: plus vous répondez rapidement, plus vous marquez de points.
-  - Pour les **questions ouvertes seulement**, les points basés sur le temps sont divisés en blocs. Par exemple: les réponses dans le premier bloc (par exemple, les premières secondes) gagnent **100%** de la portion basée sur le temps, le prochain bloc gagne **80%**, et ainsi de suite. Cela aide à uniformiser les conditions de jeu pour les typers plus lents.
+  - Pour les **questions ouvertes**, les points basés sur le temps sont divisés en blocs. Par exemple: les réponses dans le premier bloc (par exemple, les premières secondes) gagnent **100%** de la portion basée sur le temps, le prochain bloc gagne **80%**, et ainsi de suite. Cela aide à uniformiser les conditions de jeu pour les typers plus lents.
 
-- **Pourcentage fixe de points sur le pointage basé sur le temps** — Vous contrôlez la quantité du score total influencée par la vitesse.
+- **Pourcentage fixe de points sur le score basé sur le temps** — Vous contrôlez la quantité du score total influencée par la vitesse.
   - Par défaut, **75%** des points sont corrigés (tous ceux qui répondent correctement obtiennent ces points, quelle que soit la vitesse).
   - Seuls les **25%** restants sont influencés par la rapidité avec laquelle les joueurs réagissent.
 
