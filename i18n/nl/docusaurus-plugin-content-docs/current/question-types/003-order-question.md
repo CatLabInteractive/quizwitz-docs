@@ -27,18 +27,9 @@ Dit type ronde is ideaal voor chronologische, rangschikking- of volgorde-uitdagi
 
 ## 🏆 Puntenverdeling
 
-Order questions use **time-based scoring** by default:\
-Faster correct answers earn more points, but most of the points are fixed. Tijd beïnvloedt slechts een deel van de score.\
-Tijd beïnvloedt slechts een deel van de score.\
-Time only affects a portion of the score.\
-You can also turn off time-based scoring per question for fixed points only.\
-Tijd beïnvloedt slechts een deel van de score.\
-Tijd beïnvloedt slechts een deel van de score.\
-Time only affects a portion of the score.\
-You can also turn off time-based scoring per question for fixed points only.\
-Tijd beïnvloedt slechts een deel van de score.\
-Time only affects a portion of the score.\
-You can also turn off time-based scoring per question for fixed points only.
+Order questions gebruiken standaard **tijdbased scoring**:\
+Snellere juiste antwoorden verdienen meer punten, maar het grootste deel van de punten is vast. Tijd beïnvloedt slechts een deel van de score.\
+Je kunt de tijdgebaseerde score per vraag ook uitschakelen zodat er alleen vaste punten worden toegekend.
 
 Zie [Puntenopties in ronde-instellingen](../editor/008-round-options.md#-scoring-options) voor details.
 
