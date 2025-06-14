@@ -5,11 +5,7 @@ title: Volgorde vraag
 
 # 🔀 Volgorde vraag
 
-In an **Order question**, players must put up to 4 items in the correct sequence.\
-This round type is great for chronological, ranking, or sequencing challenges.\
-Dit type ronde is ideaal voor chronologische, rangschikking- of volgorde-uitdagingen.\
-Dit type ronde is ideaal voor chronologische, rangschikking- of volgorde-uitdagingen.\
-Dit type ronde is ideaal voor chronologische, rangschikking- of volgorde-uitdagingen.\
+In een **Volgordevraag** moeten spelers tot 4 antwoorden in de juiste volgorde plaatsen.\
 Dit type ronde is ideaal voor chronologische, rangschikking- of volgorde-uitdagingen.
 
 ---
