@@ -19,15 +19,14 @@ In quizzen, kun je het ronde-type in het **rondetype** select veld in het midden
 
 Deze rondes bieden iets meer interactie dan simpele vraag-en-antwoord rondes.
 
-- [Piece of pie](021-piece-of-pie.md)
-- [Multiquestion](022-multiquestion.md)
+- [Deel de taart](021-piece-of-pie.md)
+- [Multivragen](022-multiquestion.md)
 - [Strike](023-strike.md)
-- [Dealer's choice](024-dealers-choice.md)
+- [Dealer's keuze](024-dealers-choice.md)
 
 ## 🍺 Traditioneel
 
-Voor iedereen die traditionele kroegquizzen wil organiseren waarbij spelers hun antwoorden tot het einde van de ronde kunnen veranderen.\
-Deze rondetypen simuleren het "inleveren van de papieren" na elke ronde.\
+Voor iedereen die traditionele cafés wil organiseren waar spelers hun antwoorden kunnen veranderen tot het einde van de ronde.\
 Deze rondetypen simuleren het "inleveren van de papieren" na elke ronde.
 
 - [Traditioneel](030-traditional.md)
@@ -38,7 +37,7 @@ Deze rondetypen simuleren het "inleveren van de papieren" na elke ronde.
 
 Deze ronden types bevatten geen vragen — maar beïnvloeden het verloop van het spel.
 
-- [Activity](040-activity.md)
+- [Doe-opdracht](040-activity.md)
 - [Pauze](060-intermission.md)
 - [Spelersintroductie](061-player-introduction.md)
 - [Eliminatie](050-elimination.md)
