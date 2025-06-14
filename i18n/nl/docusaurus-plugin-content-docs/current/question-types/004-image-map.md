@@ -15,17 +15,13 @@ Bij een **afbeeldingskaart** vraag moeten spelers de juiste plek (of plekken) op
 
 ## 📝 Hoe het werkt
 
-- **Question:** Clearly state what players need to find on the image.\
-  _(Example: “Select the Erlenmeyer flask.”)_\
-  _(Voorbeeld: “Selecteer de Erlenmeyer-kolf.”)_\
-  _(Voorbeeld: “Selecteer de Erlenmeyer-kolf.”)_\
-  _(Voorbeeld: “Selecteer de Erlenmeyer-kolf.”)_\
+- **Vraag:** Geef duidelijk aan wat spelers op de afbeelding moeten vinden.\
   _(Voorbeeld: “Selecteer de Erlenmeyer-kolf.”)_
 - **Afbeelding:** Upload een afbeelding van hoge kwaliteit die aan alle spelers wordt getoond.
 - **Antwoordpunten:** Bepaal een of meer **doelgebieden** (“punten”) op de afbeelding. Elk gebied kan worden ingesteld als een cirkel of een andere vorm, waarbij jij de positie en grootte bepaalt.
 - **Antwoorden selecteren:** Spelers tikken of klikken om hun antwoord(en) op de afbeelding te markeren.
   - Als het antwoord **binnen een correct gebied** valt, krijgen ze volledige punten.
-  - If the answer falls **outside the correct area** but within the “almost correct” radius, they can earn partial points based on the distance (as defined by the _score easing_ setting).
+  - Als het antwoord **buiten het juiste gebied valt** maar binnen de straal "bijna correct" valt, ze kunnen partiële punten verdienen op basis van de afstand (zoals gedefinieerd door de _score_ optie).
 - **Meerdere antwoorden:** Als de vraag meer dan één antwoord vereist, moeten spelers elk correct gebied selecteren.
   - Het meerdere keren selecteren van hetzelfde gebied levert **geen** extra punten op.
 - **Scoringsmethode:** Je kunt instellen of punten worden toegekend voor elk correct gebied afzonderlijk, of alleen wanneer het vereiste minimum aantal correcte antwoorden is geselecteerd.
@@ -45,21 +41,8 @@ Zie [vragen schrijven](../editor/005-writing-questions.md) voor algemene vraagin
 
 ## ⏱️ Op tijd gebaseerde scoring
 
-**Op tijd gebaseerde scoring is standaard ingeschakeld.** Spelers die snel antwoorden verdienen meer punten, maar er is altijd een vast onderdeel (standaard: 75%) voor een correct antwoord. Only 25% of the total score is influenced by how fast you answer.\
-You can turn off time-based scoring for this question type if you wish.\
-You can turn off time-based scoring for this question type if you wish.\
-Only 25% of the total score is influenced by how fast you answer.\
-You can turn off time-based scoring for this question type if you wish.\
-You can turn off time-based scoring for this question type if you wish.\
-Only 25% of the total score is influenced by how fast you answer.\
-You can turn off time-based scoring for this question type if you wish.\
-Voor dit vraagtype kun je de op tijd gebaseerde scoring uitschakelen als je dat wilt.\
-Only 25% of the total score is influenced by how fast you answer.\
-You can turn off time-based scoring for this question type if you wish.\
-You can turn off time-based scoring for this question type if you wish.\
-Only 25% of the total score is influenced by how fast you answer.\
-You can turn off time-based scoring for this question type if you wish.\
-Voor dit vraagtype kun je de op tijd gebaseerde scoring uitschakelen als je dat wilt.
+**Op tijd gebaseerde scoring is standaard ingeschakeld.** Spelers die snel antwoorden verdienen meer punten, maar er is altijd een vast onderdeel (standaard: 75%) voor een correct antwoord. Slechts 25% van de totaalscore wordt beïnvloed door hoe snel je antwoordt.\
+Je kunt de op tijd gebaseerde scoring voor dit vraagtype uitschakelen als je dat wilt.
 
 📘 Voor details over scoring en tijdinstellingen, zie de [documentatie voor ronde-opties](../editor/008-round-options.md#scoring).
 
