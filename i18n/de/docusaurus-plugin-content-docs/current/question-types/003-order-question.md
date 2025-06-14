@@ -6,6 +6,7 @@ title: Bestellungsfrage
 # 🔀 Bestellfrage
 
 In einer **Bestellfrage**, müssen Spieler bis zu 4 Elemente in der richtigen Reihenfolge platzieren.\
+Dieser Rundentyp eignet sich hervorragend für chronologische, Ranking- oder Sequenzierungs-Herausforderungen.\
 Dieser Rundentyp eignet sich hervorragend für chronologische, Ranking- oder Sequenzierungs-Herausforderungen.
 
 ---
@@ -17,6 +18,7 @@ Dieser Rundentyp eignet sich hervorragend für chronologische, Ranking- oder Seq
 ## 📝 So funktioniert es
 
 - **Frage:** Fragen Sie eindeutig, welche Bestellung erforderlich ist.\
+  **Frage:** Fragen Sie eindeutig, welche Bestellung erforderlich ist.\
   _(Beispiel: „Wählen Sie die Tiere in der richtigen Reihenfolge von den wenigsten bis zu den meisten Beinen.“)_
 - **Optionen:** Geben Sie bis zu vier Elemente ein. Sie definieren die korrekte Reihenfolge.
 - **Spieleransicht:** Optionen werden in zufälliger Reihenfolge angezeigt. Spieler \*\*wählen jedes einzelne Element in der Reihenfolge, in der sie denken, dass es korrekt ist.
@@ -28,6 +30,7 @@ Dieser Rundentyp eignet sich hervorragend für chronologische, Ranking- oder Seq
 
 Bestellfragen verwenden standardmäßig **Zeitbasiertes Scoring**:\
 Schnellere richtige Antworten verdienen mehr Punkte, aber die meisten Punkte sind behoben. Die Zeit wirkt sich nur auf einen Teil der Punktzahl aus.\
+Die Zeit wirkt sich nur auf einen Teil der Punktzahl aus.\
 Sie können die zeitbasierte Punktzahl pro Frage auch nur für feste Punkte ausschalten.
 
 Siehe [Sortieroptionen in runden Einstellungen](../editor/008-round-options.md#-scoring-options) für Details.

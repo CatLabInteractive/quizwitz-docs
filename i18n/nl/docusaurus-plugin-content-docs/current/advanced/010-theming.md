@@ -6,10 +6,10 @@ title: Thematisering
 # Thematisering
 
 :::warning
-Hoewel het maken van je eigen QuizWitz-thema de meeste flexibiliteit biedt, is het een complex en tijdrovend proces. In de meeste gevallen ben je veel beter af met het aanpassen van onze [Emerald theme](011-emerald-theme.md), die speciaal is ontworpen om makkelijk aan te passen te zijn.
+Hoewel het maken van je eigen QuizWitz-thema de meeste flexibiliteit biedt, is het een complex en tijdrovend proces. In de meeste gevallen ben je beter af met het [Emerald theme](011-emerald-theme.md), die speciaal ontworpen is om makkelijk aan te passen.
 :::
 
-QuizWitz-thema's worden gemaakt met behulp van **Adobe Animate**. Je kunt een [thema-sjabloon](https://themes.quizwitz.com/empty/quizwitz-empty-theme.zip) downloaden om als startpunt te gebruiken. Houd er rekening mee dat theming van QuizWitz nauwkeurig werk is en het beste overgelaten kan worden aan ervaren ontwerpers die de ins en outs van Adobe Animate kennen.
+QuizWitz-thema's worden gemaakt met behulp van **Adobe Animate**. Je kan een [thema-sjabloon](https://themes.quizwitz.com/empty/quizwitz-empty-theme.zip) downloaden om als startpunt te gebruiken. Wees ervan bewust dat het thematiseren van QuizWitz een nauwgezet karwei is en het beste overgelaten kan worden aan ervaren ontwerpers die alle ins en outs van Adobe Animate kennen.
 
 Wil je het liever aan de professionals overlaten? Stuur ons een e-mail op [support@catlab.be](mailto:support@catlab.be) en we kunnen een offerte maken om je ontwerp om te zetten in een kant-en-klaar QuizWitz-thema.
 
@@ -19,19 +19,19 @@ Wil je het liever aan de professionals overlaten? Stuur ons een e-mail op [suppo
 
 Als je klaar bent om je thema te testen, **zip dan de inhoud van je ontwerpmap** ( — niet de map zelf; als je de zip opent, moet je je bestanden zien en niet alleen een map — ) en upload deze naar onze [thema-tester](https://themes.quizwitz.com/). Dit geeft je een live preview van hoe je thema eruit zal zien in het spel.
 
-Na het testen, mail de zipfile naar ons en we koppelen het aan je account zodat je je thema kunt selecteren en gebruiken in je quizzes.
+Mail na het testen de zipfile naar ons en we koppelen het aan je account zodat je je thema kunt selecteren en gebruiken in je quizzes.
 
 ---
 
 ## 🏷️ QuizWitz-logo
 
-Alle aangepaste ontwerpen moeten het QuizWitz-logo bevatten.
+Alle ontwerpen moeten het QuizWitz-logo bevatten.
 
 ---
 
 ## 🖥️ Schermoverzicht
 
-| Podium                                              | Hoofdscherm                                                                                                | Spelerapparaat (Tablet/Telefoon)                   |
+| Fase                                                | Hoofdscherm                                                                                                | Spelerapparaat (Tablet/Telefoon)                   |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | Verbindingsscherm                                   |                                                                                                            |                                                                       |
 | Wacht-scherm                                        | Logo van de quiz. Wordt weergegeven terwijl de presentator de vraag leest. | Een citaat dat de speler aanspoort goed te luisteren. |

@@ -28,11 +28,13 @@ Une fois lancé, ton écran affichera un **Code Maître**. **Ne partagez pas ce 
 - Visitez [quizwitz.tv](https://quizwitz.tv) sur votre quizmaster et entrez le Code Maître.
 - Une **interface d'application de questionnaire** apparaîtra où vous contrôlez le jeu.
 - Nous recommandons une **tablette ou smartphone** pour la mobilité, mais un ordinateur portable fonctionne aussi.\
+  ![Écran de connexion QuizWitz PRO](/images/quizwitz-pro-connect-token.png)\
   ![Écran de connexion QuizWitz PRO](/images/quizwitz-pro-connect-token.png)
 
 Après la connexion, le code maître disparaît de l'écran. Vous êtes maintenant prêt à afficher l'écran principal sur un projecteur ou à démarrer votre salle de réunion.
 
-> ⚠️ \*\*Attention ! \* Si l'écran du jeu (affichage principal) n'est pas en focus — par exemple, si vous changez d'onglets ou si vous le réduisez — le jeu **mettra automatiquement en pause**.\
+> \* Si l'écran du jeu (affichage principal) n'est pas en focus — par exemple, si vous changez d'onglets ou si vous le réduisez — le jeu **mettra automatiquement en pause**.\
+> Quand cela se passe:\
 > Quand cela se passe:
 >
 > - L'application **Quizmaster s'interrompt aussi**

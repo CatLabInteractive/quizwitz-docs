@@ -41,6 +41,7 @@ Na verbinding verdwijnt de Master Code van het scherm. Je bent nu klaar om het h
 > When this happens:\
 > Als dit gebeurt:\
 > Als dit gebeurt:\
+> Als dit gebeurt:\
 > Als dit gebeurt:
 >
 > - De **Quizmaster App pauzeert ook**

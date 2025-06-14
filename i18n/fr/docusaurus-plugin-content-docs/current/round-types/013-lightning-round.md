@@ -32,6 +32,7 @@ Voir [les options de la ronde](../editor/008-round-options.md) pour plus de dét
 ## 🎵 Pièces jointes — Compte à rebours
 
 - Vous pouvez définir une **pièce jointe d'arrondissement** dans l'emplacement "Jouer pendant le compte à rebours des questions".\
+  Vous pouvez définir une **pièce jointe d'arrondissement** dans l'emplacement "Jouer pendant le compte à rebours des questions".\
   Cette pièce jointe audio sera lue **continuellement** comme la musique à rebours pendant toute la ronde de foudre et ne s'arrêtera qu'après la dernière question.
 - Utilisez de la musique énergique ou tendue pour booster l'excitation et garder les joueurs sur leurs pieds.
 

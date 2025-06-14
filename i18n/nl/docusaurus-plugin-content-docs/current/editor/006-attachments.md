@@ -5,13 +5,13 @@ title: Bijlagen
 
 # 📎 Bijlagen
 
-Bijlagen kunnen in verschillende velden door je quiz worden toegevoegd om de ervaring te verrijken met afbeeldingen, audio of video.
+Bijlagen kunnen in verschillende slots door je quiz worden toegevoegd om de ervaring te verrijken met afbeeldingen, audio of video.
 
-Deze velden verschijnen in de volgende delen van je quiz:
+Deze slots verschijnen in de volgende onderdelen van je quiz:
 
-- [Questions](../editor/writing-questions)
-- [Rounds](../editor/round-options)
-- [Quizzes](../editor/quiz-options)
+- [Vragen](../editor/writing-questions)
+- [Rondes](../editor/round-options)
+- [Quizzen](../editor/quiz-options)
 
 Elke pagina legt uit wanneer deze bijlagen tijdens het spel worden getoond.
 
@@ -21,7 +21,7 @@ Elke pagina legt uit wanneer deze bijlagen tijdens het spel worden getoond.
 
 ## 🗂️ Ondersteunde bestandstypen
 
-Hier is een algemene (niet-uitputtende) lijst van compatibele formaten:
+Hier is een algemene (incomplete) lijst van compatibele formaten:
 
 - **Afbeeldingen** — `.png`, `.jpeg`, `.gif` (niet-geanimeerd). Full HD (1920×1080) aanbevolen
 - **Audio** — De meeste standaardformaten worden ondersteund
@@ -31,14 +31,14 @@ Hier is een algemene (niet-uitputtende) lijst van compatibele formaten:
 
 ---
 
-## 📝 Naam & toeschrijving
+## 📝 Naam & attributie
 
-Elke bijlage kan een naam en optioneel een toeschrijving hebben:
+Elke bijlage kan een naam en optionele bronvermelding hebben:
 
-- **Name** — Displayed to the quizmaster in [QuizWitz Live (PRO)](../quizmaster/introduction); helps in organizing attachments
-- **Toeschrijving** — Wordt aan spelers getoond als eerbewijs of broninformatie. Dit moet de **naam van de rechthebbende** zijn.
+- **Naam** - Weergegeven aan de quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); helpt bij het organiseren van bijlagen
+- **Toeschrijving** — Getoond aan spelers als krediet- of broninformatie. Dit moet de **naam van de rechthebbende** zijn.
 
-> ⚠️ Om een Round-About of Quiz te **publiceren**, moeten **alle bijlagen een geldige toeschrijving** hebben. Zonder deze informatie kan je inzending niet openbaar gemaakt worden.
+> ⚠️ Om een Round-About of Quiz te **publiceren**, moeten **alle bijlagen een geldige attributie** hebben. Zonder deze informatie kan je inzending niet openbaar gemaakt worden.
 
 ---
 
@@ -57,8 +57,7 @@ Dit werkt vooral goed bij puzzels of trage onthullingen tijdens intro’s of dra
 
 Sommige velden laten toe om **meerdere bijlagen** toe te voegen. Hoe ze zich gedragen hangt af van de spelmodus:
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** The quizmaster has full control and can decide when to show or hide attachments during gameplay.\
-> 🎮 **In regular games:** All attachments within a slot are shown **simultaneously**.\
-> 🎮 **In gewone games:** Alle bijlagen binnen een veld worden **tegelijkertijd** getoond.
+> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** De quizmaster heeft volledige controle en kan tijdens het spel bepalen wanneer bijlagen worden getoond of verborgen.\
+> 🎮 **In reguliere spellen:** Alle bijlagen binnen een slot worden **gelijktijdig getoond**.
 
-Details about each slot’s timing and behavior can be found in the linked documentation for [questions](../editor/writing-questions), [rounds](../editor/round-options), and [quizzes](../editor/quiz-options).
+Details over de timing en het gedrag van elke slot vind je in de gekoppelde documentatie voor [vragen](../editor/015-importing-questions.md), [rondes](../editor/008-round-options.md), en [quizzen](../editor/007-quiz-options.md).

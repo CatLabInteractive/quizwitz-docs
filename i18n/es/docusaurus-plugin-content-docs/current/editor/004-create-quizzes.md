@@ -23,6 +23,7 @@ Del menú principal:
 ## ✏️ Título e idioma
 
 Dale un título a tu prueba y elige el idioma principal.\
+Puedes añadir **traducciones** más tarde si es necesario, sin necesidad de decidir todo de antemano.\
 Puedes añadir **traducciones** más tarde si es necesario, sin necesidad de decidir todo de antemano.
 
 ---

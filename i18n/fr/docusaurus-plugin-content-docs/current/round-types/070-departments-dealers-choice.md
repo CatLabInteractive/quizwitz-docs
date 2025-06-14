@@ -40,4 +40,5 @@ Le **Choix du Departamente** est un type de ronde interactif où les joueurs d'u
 ---
 
 Pour les règles classiques du choix du concessionnaire, voir [Choix du concessionnaire] (024-dealers-choice.md).\
+Pour plus d'options de jeu d'équipe, cochez [Options d'arrondissement] (../editor/008-round-options.md).\
 Pour plus d'options de jeu d'équipe, cochez [Options d'arrondissement] (../editor/008-round-options.md).

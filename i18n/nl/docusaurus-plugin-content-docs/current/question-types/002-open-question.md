@@ -27,7 +27,7 @@ Een open vraag laat spelers hun antwoord vrij typen met hun toetsenbord. Deze mo
 Open vragen bieden een reeks instellingen die bij je quiz passen:
 
 - **Meerdere geaccepteerde antwoorden:** Voeg alternatieve spellingen, afkortingen of synoniemen toe voor flexibeler automatisch corrigeren.
-- **Tijdgebonden scoring:** Beloon snellere antwoorden (zie "Scoring" hieronder).
+- **Tijdsgebonden scoring:** Beloon snellere antwoorden (zie "Scoring" hieronder).
 - **Forceer automatische correctie:** Schakel dit in om het spel automatisch juiste antwoorden te laten markeren op basis van jouw lijst.
     - Als dit niet ingeschakeld is (de standaard voor de meeste live spellen), moeten open antwoorden handmatig worden beoordeeld en gescoord met de [Jury app](../quizmaster/004-jury-app.md).
 

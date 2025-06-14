@@ -23,6 +23,7 @@ Vom Hauptmenü:
 ## :Bleistift: Titel und Sprache
 
 Geben Sie Ihrem Quiz einen Titel und wählen Sie die Hauptsprache.\
+Du kannst später **Übersetzungen** hinzufügen – du brauchst nicht alles im Voraus zu entscheiden.\
 Du kannst später **Übersetzungen** hinzufügen – du brauchst nicht alles im Voraus zu entscheiden.
 
 ---

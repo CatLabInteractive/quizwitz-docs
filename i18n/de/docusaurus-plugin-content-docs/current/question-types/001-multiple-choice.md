@@ -35,6 +35,7 @@ Siehe [Sortieroptionen in runden Einstellungen](../editor/008-round-options.md#-
 ## ⚙️ Erweiterte Einstellungen
 
 Die Multiple-Choice-Frage-Typ bietet viele Einstellungen, um die Erfahrung und das Scoring zu optimieren.\
+Siehe [Fragen schreiben](../editor/005-writing-questions.md) für eine allgemeine Übersicht der Frageneinstellungen.\
 Siehe [Fragen schreiben](../editor/005-writing-questions.md) für eine allgemeine Übersicht der Frageneinstellungen.
 
 ---

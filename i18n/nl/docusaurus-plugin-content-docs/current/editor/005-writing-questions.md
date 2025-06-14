@@ -5,7 +5,7 @@ title: Vragen schrijven
 
 # ✍️ Vragen schrijven
 
-Tijd om creatief te worden! Of je nu een volledige quiz maakt of een Round-About, sterke en leuke vragen schrijven is de kern van een geweldig spel.
+Tijd om je creativiteit los te laten! Of je nu een volledige quiz maakt of een Round-About, sterke en leuke vragen schrijven is de kern van een geweldig spel.
 
 Begin met klikken op **Nieuwe vraag toevoegen**. Je kunt zoveel toevoegen als je wilt.
 
@@ -30,7 +30,7 @@ Klik op het **tandwielicoon** linksboven in een vraag om het volledige instellin
 
 ---
 
-### 🧩 Spelgedraginstellingen
+### 🧩 Spelinstellingen
 
 Pas aan hoe de vraag zich gedraagt tijdens het spel:
 
@@ -43,7 +43,7 @@ Pas aan hoe de vraag zich gedraagt tijdens het spel:
 
 ---
 
-### 🎤 Inhoud voor presentator
+### 🎤 Presentatorinhoud
 
 Deze velden bepalen wat er op de Quizmaster App en het grote scherm verschijnt:
 
@@ -51,15 +51,15 @@ Deze velden bepalen wat er op de Quizmaster App en het grote scherm verschijnt:
 - **Presentator – Lange vraag** — Een versie van de vraag voor de host om hardop voor te lezen
 - **Presentator – Lange feedback** — Tekst die de host kan voorlezen nadat het juiste antwoord is onthuld
 
-> 📝 Deze velden helpen om live-presentaties dynamisch en professioneel te laten aanvoelen.
+> 📝 Deze velden helpen live presentaties dynamisch en gepolijst te maken.
 
 ---
 
 ## 📎 Bijlagen
 
-![Question attachments](/images/question-attachments.png)
+![Vraagbijlagen](/images/question-attachments.png)
 
-Je kunt vragen verbeteren met afbeeldingen, video of audio. Elke bijlage kan op specifieke momenten worden getoond:
+Je kunt vragen verrijken met afbeeldingen, video of audio. Elke bijlage kan op specifieke momenten worden getoond:
 
 - **Voor / Tijdens / Na de vraag** — Getoond rond het moment dat de vraag wordt gepresenteerd
 - **Voor / Tijdens / Na feedback** — Getoond wanneer de resultaten worden onthuld
@@ -69,11 +69,10 @@ Je kunt vragen verbeteren met afbeeldingen, video of audio. Elke bijlage kan op 
 
 Je kunt **meerdere bijlagen** in elk vak toevoegen.
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** the quizmaster can choose which attachment to display at each moment.\
-> 🎮 **In regular games:** all attachments in a given slot are shown at once.\
-> 🎮 **In gewone spellen:** worden alle bijlagen in een bepaald vak tegelijkertijd getoond.
+> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** de quizmaster kan op elk moment kiezen welke bijlage getoond wordt.\
+> 🎮 **In gewone spellen:** alle bijlagen in een bepaalde positie worden tegelijk weergegeven.
 
-📘 Learn more about supported file types, timing tips, and limitations in the [attachments guide](../editor/attachments).
+📘 Leer meer over ondersteunde bestandstypen, timingtips en beperkingen in de [attachments guide](../editor/attachments).
 
 ---
 
@@ -81,7 +80,7 @@ Je kunt **meerdere bijlagen** in elk vak toevoegen.
 
 - Correct antwoord visueel tonen? → Gebruik **Na de vraag**
 - Spanning opbouwen voor het onthullen van feedback? → Gebruik **Voor feedback**
-- Extra trivia of diepgang toevoegen? → Gebruik **Na feedback**
+- Extra informatie toevoegen? → Gebruik **Na feedback**
 
 ---
 

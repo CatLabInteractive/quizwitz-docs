@@ -14,6 +14,7 @@ Ce tutoriel vous montrera comment organiser QuizWitz sur votre stand de confére
 ## 📝 Création du quiz
 
 Lors de la construction d'un quiz pour une cabine de conférence, gardez à l'esprit que certains joueurs peuvent rester sur place pour plusieurs jeux.\
+Pour garder les choses fraîches, assurez-vous d'avoir suffisamment de questions — suffisamment pour être aléatoire et rendre chaque jeu unique.\
 Pour garder les choses fraîches, assurez-vous d'avoir suffisamment de questions — suffisamment pour être aléatoire et rendre chaque jeu unique.
 
 **Configuration recommandée :**
@@ -26,7 +27,9 @@ Pour garder les choses fraîches, assurez-vous d'avoir suffisamment de questions
 1. **Choisissez le « Quiz»** dans le menu Créer et donnez un nom à votre quiz. Définissez la langue correcte.
 2. **Ajoute 3 tours** et nommez-les (par exemple: la ronde 1, la ronde 2, la ronde 3).
 3. Dans les **Réglages de la ronde** (icône du cog), activez **“Ne montrer que x questions”** et réglez le nombre à 5.\
+  Dans les **Réglages de la ronde** (icône du cog), activez **“Ne montrer que x questions”** et réglez le nombre à 5.\
   Activez aussi **"Ordre des questions aléatoires"** — sinon le jeu choisira toujours les 5 premières questions.\
+  Répéter pour chaque manche.\
   Répéter pour chaque manche.
 
 ![Screenshot of round settings for a conference booth](/images/tutorials/conference/round_settings.png)
@@ -55,6 +58,8 @@ La façon la plus rapide de lancer votre quiz de conférence :
 
 Dans ce mode, les joueurs utilisent leur téléphone pour se connecter au lien de jeu sur l'écran principal.\
 Lorsque tout le monde est prêt, l'hôte du stand appuie sur Enter — et le jeu s'exécute automatiquement.\
+Une fois la partie terminée, appuyez sur la touche Entrée pour revenir directement à l'écran de connexion du groupe suivant.\
+Lorsque tout le monde est prêt, l'hôte du stand appuie sur Enter — et le jeu s'exécute automatiquement.\
 Une fois la partie terminée, appuyez sur la touche Entrée pour revenir directement à l'écran de connexion du groupe suivant.
 
 ---
@@ -62,7 +67,9 @@ Une fois la partie terminée, appuyez sur la touche Entrée pour revenir directe
 ## ⚙️ Options de jeu avancées
 
 Vous voulez plus de contrôle ?\
+Vous voulez plus de contrôle ?\
 Choisissez **Options de jeu avancées** et sélectionnez **Mode de conférence** dans le sélecteur de mode.\
+Vous obtiendrez un lien unique avec toutes les options que vous avez choisies.\
 Vous obtiendrez un lien unique avec toutes les options que vous avez choisies.
 
 - **Demandez l'email des joueurs:**\
@@ -75,5 +82,6 @@ Vous obtiendrez un lien unique avec toutes les options que vous avez choisies.
 
 ## 🎨 Theming
 
+Vous voulez faire correspondre le jeu à la marque de votre stand ?\
 Vous voulez faire correspondre le jeu à la marque de votre stand ?\
 Consultez notre [guide thématique] (../advanced/011-emerald-theme.md) pour des conseils sur la personnalisation de votre expérience QuizWitz.

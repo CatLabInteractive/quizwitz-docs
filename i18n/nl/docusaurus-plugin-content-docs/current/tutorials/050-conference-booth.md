@@ -19,6 +19,8 @@ To keep things fresh, make sure you have plenty of questions — enough to rando
 When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.\
 To keep things fresh, make sure you have plenty of questions — enough to randomize and make each playthrough unique.\
 When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.\
+To keep things fresh, make sure you have plenty of questions — enough to randomize and make each playthrough unique.\
+When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.\
 To keep things fresh, make sure you have plenty of questions — enough to randomize and make each playthrough unique.
 
 **Aanbevolen opzet:**

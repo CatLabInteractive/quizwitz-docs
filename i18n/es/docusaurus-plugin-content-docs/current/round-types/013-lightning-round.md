@@ -32,6 +32,7 @@ Ver [opciones de rondas](../editor/008-round-options.md) para más detalles sobr
 ## 🎵 Adjuntos — Música de cuenta atrás
 
 - Puedes establecer un **adjunto de la raga** en la tragamonedas “Juega durante la cuenta atrás de las preguntas”.\
+  Puedes establecer un **adjunto de la raga** en la tragamonedas “Juega durante la cuenta atrás de las preguntas”.\
   Este archivo adjunto de audio se reproducirá **continuamente** como la música regresiva durante toda la ronda de relámpagos, sólo parando después de la última pregunta.
 - Utiliza música enérgica o tensa para aumentar la emoción y mantener a los jugadores en sus pies.
 

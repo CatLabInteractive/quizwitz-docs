@@ -28,11 +28,13 @@ Una vez lanzado, tu pantalla mostrará un **código maestro**. **No compartas es
 - Visita [quizwitz.tv](https://quizwitz.tv) en tu dispositivo de prueba e introduce el código maestro.
 - Aparecerá una **interfaz de aplicación** donde controlas el juego.
 - Recomendamos un **tableta o smartphone** para movilidad, pero también funciona un portátil.\
+  ![Pantalla de conexión Witz PRO](/images/quizwitz-pro-connect-token.png)\
   ![Pantalla de conexión Witz PRO](/images/quizwitz-pro-connect-token.png)
 
 Después de conectarse, el código maestro desaparece de la pantalla. Ahora está listo para mostrar la pantalla principal en un proyector o para iniciar su livraam.
 
-> ⚠️ \*\*¡Aviso! \* Si la pantalla de juego (pantalla principal) no está activa en el foco — por ejemplo, si cambias de pestañas o lo minimizas — el juego se pausará **automáticamente**.\
+> \* Si la pantalla de juego (pantalla principal) no está activa en el foco — por ejemplo, si cambias de pestañas o lo minimizas — el juego se pausará **automáticamente**.\
+> Cuando esto sucede:\
 > Cuando esto sucede:
 >
 > - La **aplicación de Greensmaster también se pausa**

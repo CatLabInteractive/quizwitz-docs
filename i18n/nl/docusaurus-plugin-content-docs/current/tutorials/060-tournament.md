@@ -16,6 +16,11 @@ If visitors need to spend too much time on the quiz, they might not finish.\
 **Only players who finish the whole quiz will be listed on the leaderboard.**\
 If visitors need to spend too much time on the quiz, they might not finish.\
 **Only players who finish the whole quiz will be listed on the leaderboard.**\
+Als bezoekers teveel tijd aan de quiz moeten besteden, maken ze deze misschien niet af.\
+If visitors need to spend too much time on the quiz, they might not finish.\
+**Only players who finish the whole quiz will be listed on the leaderboard.**\
+If visitors need to spend too much time on the quiz, they might not finish.\
+**Only players who finish the whole quiz will be listed on the leaderboard.**\
 If visitors need to spend too much time on the quiz, they might not finish.\
 **Only players who finish the whole quiz will be listed on the leaderboard.**
 

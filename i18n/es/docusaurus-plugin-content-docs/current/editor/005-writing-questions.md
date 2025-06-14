@@ -70,6 +70,7 @@ Puedes mejorar las preguntas con imágenes, vídeos o audio. Cada archivo adjunt
 Puedes añadir **múltiples archivos adjuntos** en cada ranura.
 
 > ⚡ **En [Prueba Witz Live (PRO)](../quizmaster/001-introduction.md):** el probador puede elegir qué archivo adjunto mostrar en cada momento.\
+> 🎮 **En juegos normales:** todos los archivos adjuntos en una ranura determinada se muestran a la vez.\
 > 🎮 **En juegos normales:** todos los archivos adjuntos en una ranura determinada se muestran a la vez.
 
 📘 Aprende más sobre los tipos de archivos soportados, consejos de temporización y limitaciones en la [guía de adjuntos](../editor/006-attachments.md).

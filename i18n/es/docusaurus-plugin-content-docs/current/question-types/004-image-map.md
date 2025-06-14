@@ -16,6 +16,7 @@ En una pregunta de **mapa de imágenes**, los jugadores deben seleccionar el lug
 ## 📝 Cómo funciona
 
 - **Pregunta:** Claramente indica qué jugadores necesitan encontrar en la imagen.\
+  _(Ejemplo: “Selecciona el flask de Erlenmeyer.”)_\
   _(Ejemplo: “Selecciona el flask de Erlenmeyer.”)_
 - **Imágenes:** Sube una imagen de alta calidad que se mostrará a todos los jugadores.
 - **Puntos de respuesta:** Define una o más **áreas de destino** (“puntos”) en la imagen. Cada área puede establecerse como un círculo u otra forma, y usted determina su posición y tamaño.
@@ -42,6 +43,7 @@ Ver [escribir preguntas] (../editor/005-writing-questions.md) para la configurac
 ## ⏱️ puntuación basada en el tiempo
 
 **La puntuación basada en el tiempo está habilitada por defecto.** Los jugadores que respondan rápidamente ganan más puntos, pero siempre hay un componente fijo (por defecto: 75%) para una respuesta correcta. Sólo el 25% de la puntuación total se ve influenciado por la rapidez con que responde.\
+Puede desactivar la puntuación basada en el tiempo para este tipo de pregunta si lo desea.\
 Puede desactivar la puntuación basada en el tiempo para este tipo de pregunta si lo desea.
 
 📘 Para más detalles sobre la puntuación y la configuración del tiempo, vea la [documentación de opciones de redonde](../editor/008-round-options.md#scoring).

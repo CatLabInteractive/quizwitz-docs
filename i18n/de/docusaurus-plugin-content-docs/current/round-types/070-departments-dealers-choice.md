@@ -40,4 +40,5 @@ title: Auswahl des Fachhändlers
 ---
 
 Die klassischen Regeln zur Auswahl des Händlers finden Sie unter [Auswahl des Händlers](024-dealers-choice.md).\
+Weitere Teamspieloptionen finden Sie unter [Runden Optionen](../editor/008-round-options.md).\
 Weitere Teamspieloptionen finden Sie unter [Runden Optionen](../editor/008-round-options.md).

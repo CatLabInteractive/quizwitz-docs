@@ -60,9 +60,6 @@ Als je bovenstaande quiz start, krijg je de game in de standaard Emerald-stijl. 
 
 :::tip
 De makkelijkste manier om te experimenteren met deze parameters is met onze thematester.\
-De makkelijkste manier om te experimenteren met deze parameters is met onze thematester.\
-De makkelijkste manier om te experimenteren met deze parameters is met onze thematester.\
-De makkelijkste manier om te experimenteren met deze parameters is met onze thematester.\
 Ben je klaar met experimenteren, dan kun je de parameters gewoon kopiëren en plakken naar de URL van je geavanceerde spelopties.
 :::
 
@@ -93,4 +90,4 @@ De query parameters moeten beginnen met een vraagteken (?) ) en elke parameter m
 Door deze parameters aan je game URL toe te voegen, kun je de kleuren in het thema aanpassen:\
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
-![Een screenshot van het Emerald-thema met aangepaste aanpassers](/images/emerald/theme_properties.png)
+![Een screenshot van het Emerald-thema met aangepaste modificators](/images/emerald/theme_properties.png)

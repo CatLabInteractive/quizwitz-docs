@@ -6,6 +6,7 @@ title: Introduction
 # 🛠️ Guide du Quizmaker
 
 Bienvenue dans le guide pour les créateurs de quiz !\
+Bienvenue dans le guide pour les créateurs de quiz !\
 Sur QuizWitz, vous pouvez construire et organiser votre propre contenu de quiz — ou collecter et remixer le contenu créé par d'autres.
 
 ---
@@ -23,6 +24,7 @@ Vous pouvez aussi **ramasser les infos sur la ronde** créées par d'autres memb
 
 > 💡 **Conseil:**\
 > A **arrondi** est le plus petit bloc de construction de QuizWitz. Il s’agit d’une courte série de questions sur un sujet spécifique.\
+> Il s’agit d’une courte série de questions sur un sujet spécifique.\
 > Les bouts Round-Abouts peuvent être publiés pour que d'autres personnes puissent les utiliser, ou rester privé juste pour vous.
 >
 > Un **quiz complet** vous permet de combiner plusieurs tours, de définir l'ordre et de définir vos propres flux de quiz et règles. Parfait pour des événements ou des expériences de quiz plus grandes !

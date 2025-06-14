@@ -35,6 +35,7 @@ Voir [Options de cotation dans les paramètres de la ronde](../editor/008-round-
 ## ⚙️ Paramètres étendus
 
 Le type de question à choix multiple offre de nombreux paramètres pour affiner l'expérience et le score.\
+Voir [écrire des questions](../editor/005-writing-questions.md) pour un aperçu général des paramètres de la question.\
 Voir [écrire des questions](../editor/005-writing-questions.md) pour un aperçu général des paramètres de la question.
 
 ---

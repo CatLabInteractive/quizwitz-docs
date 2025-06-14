@@ -14,17 +14,17 @@ Beide opties zijn toegankelijk binnen elke ronde.
 
 ---
 
-## 📚 Importeren vanuit de QuizWitz Library
+## 📚 Importeren vanuit de QuizWitz bibliotheek
 
-Gebruik het tabblad **QuizWitz Library** om te zoeken en vragen, rondes of quizzes te importeren die door jezelf of andere makers zijn gemaakt.
+Gebruik het tabblad **QuizWitz bibliotheek** om te zoeken en vragen, rondes of quizzes te importeren die door jezelf of andere makers zijn gemaakt.
 
 1. Open de ronde waarin je content wilt importeren
-2. Klik op het tabblad **QuizWitz Library**
+2. Klik op het tabblad **QuizWitz bibliotheek**
 3. Gebruik filters zoals taal, collectie, type, categorie of tags
 4. Selecteer één of meerdere items
 5. Klik op **Voeg X items toe** om de geselecteerde content in je quiz te plaatsen
 
-![QuizWitz Library](/images/import/import-from-quizwitz.png)
+![QuizWitz Bibliotheek](/images/import/import-from-quizwitz.png)
 
 > ✅ Gebruik deze methode om hoogwaardige content opnieuw te gebruiken of om meerdere openbare Round-Abouts te combineren tot een grotere quiz.
 
@@ -43,7 +43,7 @@ Om snel veel vragen tegelijk te maken, gebruik je het tabblad **Importeren vanui
 
 ---
 
-### 🗂️ Formaat voor plakken
+### 🗂️ Formaat voor spreadsheet
 
 Elke rij moet de volgende kolommen bevatten in deze exacte volgorde:
 
@@ -56,7 +56,7 @@ Elke rij moet de volgende kolommen bevatten in deze exacte volgorde:
 7. **Long question** _(optional)_ — Displayed on the quizmaster screen
 8. **Long feedback** _(optional)_ — Explanation for the quizmaster to read aloud
 
-> 📌 The last two columns are only used in [QuizWitz Live](../quizmaster/introduction), but they must still be included (even if left empty).
+> 📌 De laatste twee kolommen worden alleen gebruikt in [QuizWitz Live](../quizmaster/001-introduction.md), maar ze moeten toch worden opgenomen (ook als ze leeg zijn).
 
 ---
 
@@ -68,4 +68,4 @@ Of je nu importeert vanuit de library of een spreadsheet:
 - Werk eventuele metadata bij zoals categorie, rondetype of bijlagen
 - Vergeet niet om je quiz **op te slaan**
 
-📘 Wil je je vragen nog beter maken? Continue in the [Writing questions guide](../editor/writing-questions).
+📘 Wil je je vragen nog beter maken? Ga verder in de [Handleiding voor vragen schrijven](../editor/005-writing-questions.md).

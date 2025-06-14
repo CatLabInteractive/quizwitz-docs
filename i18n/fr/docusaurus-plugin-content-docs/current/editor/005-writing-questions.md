@@ -70,6 +70,7 @@ Vous pouvez améliorer les questions avec des images, des vidéos ou de l’audi
 Tu peux ajouter **plusieurs pièces jointes** dans chaque emplacement.
 
 > ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** le quizmaster peut choisir quelle pièce jointe afficher à chaque instant.\
+> 🎮 **Dans les jeux normaux :** toutes les pièces attachées dans une fente donnée sont affichées en même temps.\
 > 🎮 **Dans les jeux normaux :** toutes les pièces attachées dans une fente donnée sont affichées en même temps.
 
 📘 En savoir plus sur les types de fichiers pris en charge, les conseils de synchronisation et les limitations dans le [guide des pièces jointes](../editor/006-attachments.md).

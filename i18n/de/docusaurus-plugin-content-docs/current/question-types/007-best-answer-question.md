@@ -6,6 +6,7 @@ title: Beste Antwort
 # 🎖️ Beste Antwort
 
 Im Typ **Beste Antwortfrage** schreiben Spieler ihre eigenen Antworten auf eine offene Frage.\
+Die Punkte werden entweder manuell vom Quizmaster vergeben oder, falls es keinen Quizmeister gibt, indem Spieler für ihre Lieblingsantwort stimmen.\
 Die Punkte werden entweder manuell vom Quizmaster vergeben oder, falls es keinen Quizmeister gibt, indem Spieler für ihre Lieblingsantwort stimmen.
 
 ---

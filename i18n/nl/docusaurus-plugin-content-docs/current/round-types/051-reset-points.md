@@ -9,6 +9,7 @@ title: Punten resetten
 This can be used to level the playing field, add suspense, or introduce new phases in your quiz.\
 Dit kun je gebruiken om het speelveld gelijk te maken, spanning toe te voegen of nieuwe fases in je quiz in te voeren.\
 Dit kun je gebruiken om het speelveld gelijk te maken, spanning toe te voegen of nieuwe fases in je quiz in te voeren.\
+Dit kun je gebruiken om het speelveld gelijk te maken, spanning toe te voegen of nieuwe fases in je quiz in te voeren.\
 Dit kun je gebruiken om het speelveld gelijk te maken, spanning toe te voegen of nieuwe fases in je quiz in te voeren.
 
 ---
