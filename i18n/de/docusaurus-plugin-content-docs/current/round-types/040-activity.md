@@ -15,7 +15,7 @@ Mit einer Aktivitätsrunde können Sie sich von den üblichen Quizfragen für ei
 
 ## :trophie: So funktioniert es
 
-- **Challenge Description:** Die Runde beginnt mit einer Beschreibung der Aktivität (z.B. „Falte ein Papierflugzeug und wirf es so weit wie möglich. Am weitesten gewinnt!”).
+- **Challenge Description:** Die Runde beginnt mit einer Beschreibung der Aktivität (z.B. "Falte ein Papierflugzeug und wirf es so weit wie möglich!").
 - **Team/Player-Auswahl:** Der Quizmaster wählt aus, welche Teams oder Spieler an der Aktivität teilnehmen werden.
   - \*\*Zufällige Auswahl stellt sicher, dass jedes Team während des Tests gleich oft gezeichnet wird. \* Wenn Sie also 40 Teams und 10 Aktivitätsrunden mit je 4 Teams haben, wird jedes Team genau einmal ausgewählt.
 - **Timer & Tools:** Starten Sie einen Timer und verwenden Sie Soundeffekte (wie Buzzer oder Glocken), um die Herausforderung zu bewältigen.
