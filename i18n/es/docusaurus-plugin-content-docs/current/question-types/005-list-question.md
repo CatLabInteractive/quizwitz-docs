@@ -46,8 +46,12 @@ Una **pregunta de lista** pide a los jugadores que proporcionen varias respuesta
     The available points are split into blocks of time (not by the millisecond).\
     For example: full points in the first block, 80% in the next, and so on.\
     The available points are split into blocks of time (not by the millisecond).\
+    For example: full points in the first block, 80% in the next, and so on.\
+    The available points are split into blocks of time (not by the millisecond).\
     For example: full points in the first block, 80% in the next, and so on.
   - **Sólo 25%** de los puntos dependen de la velocidad.\
+    **Sólo 25%** de los puntos dependen de la velocidad.\
+    El otro **75%** está fijado — por lo que incluso los tiradores más lentos obtienen la mayoría de los puntos si responden correctamente.\
     **Sólo 25%** de los puntos dependen de la velocidad.\
     El otro **75%** está fijado — por lo que incluso los tiradores más lentos obtienen la mayoría de los puntos si responden correctamente.
   - Esto reduce la pena por la velocidad de escritura y hace que el puntaje sea más justo para todos.
