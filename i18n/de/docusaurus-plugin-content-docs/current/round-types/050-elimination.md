@@ -7,6 +7,7 @@ title: Eliminierung
 
 **Elimination** ist ein spezielles Ereignis, das Spieler oder Teams automatisch aus dem Spiel entfernt, basierend auf ihrem aktuellen Ranking oder Punktestand.\
 Es ist ein nützliches Werkzeug für Turniere, Playoffs oder das Hinzufügen dramatischer Verdrehungen in Live-Events.\
+Es ist ein nützliches Werkzeug für Turniere, Playoffs oder das Hinzufügen dramatischer Verdrehungen in Live-Events.\
 Es ist ein nützliches Werkzeug für Turniere, Playoffs oder das Hinzufügen dramatischer Verdrehungen in Live-Events.
 
 ---
