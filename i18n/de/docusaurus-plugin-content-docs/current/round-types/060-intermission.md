@@ -17,6 +17,7 @@ title: Unterbrechung
 - **In QuizWitz Live Spielen:**\
   Der Quizmaster beendet die Unterbrechung von seinem Gerät (Tablet oder Smartphone).\
   Die Quizmaster-App zeigt einen Timer an, so dass der Host sehen kann, wie lange die Unterbrechung gedauert hat.\
+  Die Quizmaster-App zeigt einen Timer an, so dass der Host sehen kann, wie lange die Unterbrechung gedauert hat.\
   Die Quizmaster-App zeigt einen Timer an, so dass der Host sehen kann, wie lange die Unterbrechung gedauert hat.
 
 ---
