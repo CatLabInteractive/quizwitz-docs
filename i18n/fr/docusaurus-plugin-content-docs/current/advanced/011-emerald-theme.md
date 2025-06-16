@@ -61,6 +61,8 @@ Lorsque vous démarrez le quiz ci-dessus, le jeu sera dans le style Emeraude par
 :::tip
 La façon la plus simple d'expérimenter ces paramètres est d'utiliser notre testeur de thèmes.\
 La façon la plus simple d'expérimenter ces paramètres est d'utiliser notre testeur de thèmes.\
+Lorsque vous avez fini d'expérimenter, vous pouvez copier — collez les paramètres dans l'URL des options de jeu avancées.\
+La façon la plus simple d'expérimenter ces paramètres est d'utiliser notre testeur de thèmes.\
 Lorsque vous avez fini d'expérimenter, vous pouvez copier — collez les paramètres dans l'URL des options de jeu avancées.
 :::
 
