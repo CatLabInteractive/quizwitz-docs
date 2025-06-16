@@ -5,8 +5,8 @@ title: Traditioneel (CT)
 
 # 📝🧵 Traditioneel – Gemeenschappelijke Draad
 
-A **Traditional – Common Thread** round works just like a [traditional round](030-traditional.md), but with a twist:\
-At the end of the round, the **last question** (“What was the common thread?”) wordt eerst geëvalueerd en getoond. Dit stelt de quizmaster in staat om de verbinding te benadrukken voordat de andere antwoorden worden onthuld.
+Een **traditionele – rode draad** ronde werkt net als een [traditionele ronde](030-traditional.md), maar met een wending:\
+Aan het einde van de ronde de **laatste vraag** ("Wat was de algemene discussie?") wordt eerst geëvalueerd en getoond. Dit stelt de quizmaster in staat om de verbinding te benadrukken voordat de andere antwoorden worden onthuld.
 
 ---
 
@@ -22,4 +22,4 @@ At the end of the round, the **last question** (“What was the common thread?�
 
 ---
 
-Voor setup details en gedeelde opties, zie [Traditional round](030-traditional.md) en [Round options](../editor/008-round-options.md).
+Voor setup-details en gedeelde opties, zie [Traditionele ronde](030-traditional.md) en [Ronde-opties](../editor/008-round-options.md).

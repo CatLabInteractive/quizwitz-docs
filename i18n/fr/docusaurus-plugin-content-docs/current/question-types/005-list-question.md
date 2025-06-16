@@ -41,8 +41,10 @@ Une **question de liste** demande aux joueurs de fournir plusieurs réponses cor
 - **Score basé sur le temps** (si activé):\
   Suit les **règles de questions ouvertes** pour l'équité:
   - Les points disponibles sont divisés en blocs de temps (pas en millisecondes).\
+    Par exemple: points complets dans le premier bloc, 80% dans le suivant, etc.\
     Par exemple: points complets dans le premier bloc, 80% dans le suivant, etc.
   - **Seulement 25%** des points dépendent de la vitesse.\
+    **Seulement 25%** des points dépendent de la vitesse.\
     L'autre **75%** est fixe — donc les typers plus lents obtiennent la plupart des points s'ils répondent correctement.
   - Cela réduit la pénalité pour la vitesse de frappe et rend le score plus juste pour tout le monde.
 

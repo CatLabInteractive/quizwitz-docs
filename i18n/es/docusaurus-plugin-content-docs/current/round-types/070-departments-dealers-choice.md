@@ -40,4 +40,5 @@ La **Elección del Dealer del Departamento** es un tipo de ronda interactiva don
 ---
 
 Para las reglas de elección del distribuidor clásico, consulte [Elección del distribuidor](024-dealers-choice.md).\
+Para más opciones de juego de equipos, consulta [Opciones de ronda](../editor/008-round-options.md).\
 Para más opciones de juego de equipos, consulta [Opciones de ronda](../editor/008-round-options.md).

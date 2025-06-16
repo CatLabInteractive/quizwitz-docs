@@ -60,6 +60,7 @@ Wenn Sie das obige Quiz starten, wird das Spiel im voreingestellten Smaragdstil 
 
 :::tip
 Der einfachste Weg, mit diesen Parametern zu experimentieren, ist die Verwendung unseres Thementester.\
+Der einfachste Weg, mit diesen Parametern zu experimentieren, ist die Verwendung unseres Thementester.\
 Wenn du mit dem Experimentieren fertig bist, kannst du kopieren — füge die Parameter in die URL deiner erweiterten Spieloptionen ein.
 :::
 

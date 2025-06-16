@@ -15,16 +15,7 @@ title: Pauze
 - **In conference and party games:**\
   The intermission ends when someone presses **Enter** on the main game screen.
 - **In QuizWitz Live games:**\
-  The quizmaster ends the intermission from their device (tablet or smartphone).\
-  The Quizmaster app displays a timer so the host can see how long the intermission has lasted.\
-  The Quizmaster app displays a timer so the host can see how long the intermission has lasted.\
-  **In QuizWitz Live games:**\
-  The quizmaster ends the intermission from their device (tablet or smartphone).\
-  The Quizmaster app displays a timer so the host can see how long the intermission has lasted.\
-  De Quizmaster app toont een timer zodat de host kan zien hoe lang de pauze duurt.\
-  **In QuizWitz Live games:**\
-  The quizmaster ends the intermission from their device (tablet or smartphone).\
-  The Quizmaster app displays a timer so the host can see how long the intermission has lasted.\
+  De quizmaster beëindigt de interactie van hun apparaat (tablet of smartphone).\
   De Quizmaster app toont een timer zodat de host kan zien hoe lang de pauze duurt.
 
 ---
@@ -41,4 +32,4 @@ title: Pauze
 
 ---
 
-Voor meer informatie over het aanpassen van je pauze en het gebruik van bijlagen, zie [Round options](../editor/008-round-options.md) en [Attachments guide](../editor/006-attachments.md).
+Voor meer informatie over het aanpassen van je pauze en het gebruik van bijlagen, zie [ronde opties](../editor/008-round-options.md) en [bijlagegids](../editor/006-attachments.md).

@@ -27,20 +27,12 @@ Zodra gestart, toont je scherm een **Master Code**. **Deel deze code niet met sp
 
 - Bezoek [quizwitz.tv](https://quizwitz.tv) op je quizmaster-apparaat en voer de Master Code in.
 - Er verschijnt een **Quizmaster App-interface**, waarmee je het spel bedient.
-- We recommend a **tablet or smartphone** for mobility, but a laptop works too.\
-  ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)\
-  ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)\
-  We recommend a **tablet or smartphone** for mobility, but a laptop works too.\
-  ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)\
-  ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)\
-  ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)
+- We raden een **tablet of smartphone** aan voor mobiliteit, maar een laptop werkt ook.\
+  ![QuizWitz PRO verbindingsscherm](/images/quizwitz-pro-connect-token.png)
 
 Na verbinding verdwijnt de Master Code van het scherm. Je bent nu klaar om het hoofdscherm op een projector te tonen of je livestream te starten.
 
-> ⚠️ **Heads up!** If the game screen (main display) is not actively in focus — for example, if you switch tabs or minimize it — the game will **automatically pause**.\
-> When this happens:\
-> Als dit gebeurt:\
-> Als dit gebeurt:\
+> ⚠️ \*\*Let op! \* Als het spelscherm (hoofdscherm) niet actief in focus is - bijvoorbeeld als je van tabbladen wisselt of deze minimaliseert — het spel zal **automatisch pauzeren**.\
 > Als dit gebeurt:
 >
 > - De **Quizmaster App pauzeert ook**
@@ -76,8 +68,7 @@ Eenmaal verbonden, kies je tussen twee spelmodi:
 Bij gebruik van **Teamcodes** maak je eerst teams aan in de Quizmaster App:
 
 - Voeg teamnamen toe
-- Press **‘Generate Codes’** to create access codes\
-  ![Quizmaster app - create teams](/images/quizmaster-app-create-teams.png)
+- Press **‘Genereer Codes’** to create access codes![Quizmaster app - create teams](/images/quizmaster-app-create-teams.png)
 
 Je kunt ook **codes van tevoren reserveren** — meer daarover in de tips & trucs sectie.
 
@@ -95,7 +86,7 @@ Als je klaar bent, klik je op **‘Laad quiz’**, wacht je tot de bestanden gel
 
 ---
 
-## 👤 Hosten met een Enkele spelcode
+## 👤 Host met een enkele spelcode
 
 Met de **Enkele Game Code** modus:
 
@@ -116,7 +107,7 @@ Zodra je spelers binnen zijn:
 Voordat je begint, moet je je beschikbare Seats controleren.
 
 - Een overzicht verschijnt nadat je je spelmodus hebt gekozen
-- If you need more seats, activate them at [app.quizwitz.com/seats](https://app.quizwitz.com/seats)\
+- Als je meer Seats nodig hebt, activeer ze dan op [app.quizwitz.com/seats](https://app.quizwitz.com/seats)\
   ![Quizmaster app - activate seats](/images/quizmaster-app-seats.png)
 
 ---

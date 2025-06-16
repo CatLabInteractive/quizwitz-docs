@@ -1,11 +1,11 @@
 ---
 id: common-thread
-title: Gemeenschappelijke draad
+title: Rode draad
 ---
 
-# 🧵 Gemeenschappelijke draad
+# 🧵 Rode draad
 
-De **Gemeenschappelijke Draad** ronde is een speciale variant van de klassieke Trivia ronde. In deze ronde beantwoorden spelers een reeks gewone vragen, maar de twist is dat alle antwoorden stiekem verbonden zijn door een enkel onderliggend thema of link — de “gemeenschappelijke draad.”
+De **rode draad** ronde is een speciale variant van de klassieke Trivia ronde. In deze ronde beantwoorden spelers een reeks gewone vragen, maar de twist is dat alle antwoorden stiekem verbonden zijn door een enkel onderliggend thema of link — de “rode draad.”
 
 ---
 
@@ -29,7 +29,7 @@ Zie [ronde opties](../editor/008-round-options.md) voor details over het configu
 
 ---
 
-## 💡 Tips voor het schrijven van een Gemeenschappelijke Draad ronde
+## 💡 Tips voor het schrijven van een rode draad ronde
 
 - **Kies een goede link:** Kies een thema dat slim is maar niet onmogelijk te raden.
 - **Balans in de vragen:** Zorg dat elke vraag op zichzelf logisch is, maar ook past in de gemeenschappelijke draad.
@@ -37,4 +37,4 @@ Zie [ronde opties](../editor/008-round-options.md) voor details over het configu
 
 ---
 
-Voor meer informatie over het configureren van ronde feedback en speciale rondetypes, zie de [ronde types documentatie](../question-types/000-question-types.md).
+Voor meer informatie over het configureren van ronde feedback en speciale rondetypes, zie de [rondetypes documentatie](../question-types/000-question-types.md).

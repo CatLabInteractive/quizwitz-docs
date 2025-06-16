@@ -5,8 +5,8 @@ title: La meilleure réponse à la question
 
 # 🎖️ Meilleure question de réponse
 
-Dans le type de **meilleure question de réponse**, les joueurs écrivent leurs propres réponses à une question ouverte.\
-Les points sont attribués manuellement par le quizmaster ou, s'il n'y a pas de quizmaster, en faisant voter pour leur réponse préférée.
+Dans les jeux réguliers (pas d'hôte), les joueurs votent pour la réponse qu'ils pensent être la meilleure.\
+Les réponses avec le plus de votes obtiennent les points.
 
 ---
 
