@@ -46,6 +46,7 @@ Voir [écrire des questions](../editor/005-writing-questions.md) pour les param�
 **Le pointage basé sur le temps est activé par défaut.** Les joueurs qui répondent rapidement gagnent plus de points, mais il y a toujours un composant fixe (par défaut : 75%) pour une réponse correcte. Seulement 25% du score total est influencé par la rapidité de votre réponse.\
 Vous pouvez désactiver le pointage basé sur le temps pour ce type de question si vous le souhaitez.\
 Vous pouvez désactiver le pointage basé sur le temps pour ce type de question si vous le souhaitez.\
+Vous pouvez désactiver le pointage basé sur le temps pour ce type de question si vous le souhaitez.\
 Vous pouvez désactiver le pointage basé sur le temps pour ce type de question si vous le souhaitez.
 
 📘 Pour plus de détails sur les paramètres de notation et de temps, consultez la [documentation des options de ronde](../editor/008-round-options.md#scoring).
