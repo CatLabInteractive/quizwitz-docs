@@ -1,6 +1,6 @@
 ---
 id: theming
-title: Tema
+title: "Tema"
 ---
 
 # Tema
