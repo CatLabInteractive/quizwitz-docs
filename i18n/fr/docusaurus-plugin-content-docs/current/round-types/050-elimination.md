@@ -7,6 +7,7 @@ title: Élimination
 
 **Elimination** est un événement spécial qui supprime automatiquement les joueurs ou les équipes du jeu en fonction de leur classement ou de leur score actuel.\
 C’est un outil utile pour les tournois, les éliminatoires ou l’ajout de tours spectaculaires lors d’événements en direct!\
+C’est un outil utile pour les tournois, les éliminatoires ou l’ajout de tours spectaculaires lors d’événements en direct!\
 C’est un outil utile pour les tournois, les éliminatoires ou l’ajout de tours spectaculaires lors d’événements en direct!
 
 ---
