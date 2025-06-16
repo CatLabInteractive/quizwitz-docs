@@ -10,6 +10,7 @@ title: Introductie
 Het eerste ingrediënt voor een succesvol QuizWitz Live evenement is een boeiende quizmaster – iemand die het spel leidt en de energie hoog houdt. De quizmaster stuurt de voortgang van de quiz, leest de vragen luidop voor, en voegt dat extra beetje pit toe om het publiek te vermaken.
 
 Om de volledige controle over je evenement te nemen, gebruik de **Quizmaster App**, speciaal ontworpen voor QuizWitz Live.\
+Je kunt QuizWitz Live direct vanuit de quiz-editor starten door te klikken op **‘Start QuizWitz Live’**.\
 Je kunt QuizWitz Live direct vanuit de quiz-editor starten door te klikken op **‘Start QuizWitz Live’**.
 
 > 💡 **Let op:** De Quizmaster App is een **webapp** — je hoeft niets te installeren. Ga simpelweg naar [**quizwitz.tv**](https://quizwitz.tv) in je browser om het te gebruiken op je smart device.
