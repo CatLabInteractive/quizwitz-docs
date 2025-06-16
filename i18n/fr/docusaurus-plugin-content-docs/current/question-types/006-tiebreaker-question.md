@@ -7,6 +7,8 @@ title: Question sur le brise-queue
 
 La question de Tiebreaker est utilisée pour résoudre les liens à la fin d'un quiz.\
 La question de Tiebreaker est utilisée pour résoudre les liens à la fin d'un quiz.\
+On demande aux joueurs de deviner un nombre (par exemple, “Combien de fèves sont dans le pot ?”).\
+La question de Tiebreaker est utilisée pour résoudre les liens à la fin d'un quiz.\
 On demande aux joueurs de deviner un nombre (par exemple, “Combien de fèves sont dans le pot ?”). Le joueur dont la réponse est la plus proche de la valeur correcte gagnera en cas de cravate.
 
 ---
