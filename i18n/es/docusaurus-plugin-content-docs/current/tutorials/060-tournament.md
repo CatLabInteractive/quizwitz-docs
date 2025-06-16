@@ -13,6 +13,8 @@ Este tutorial te mostrará cómo usar el modo de prueba del Torneo Witz. El modo
 
 Cuando construya un test de torneo, manténgalo corto y atractivo. Si los visitantes necesitan pasar demasiado tiempo en el cuestionario, puede que no terminen.\
 Si los visitantes necesitan pasar demasiado tiempo en el cuestionario, puede que no terminen.\
+**Solo los jugadores que terminen todo el cuestionario serán listados en la tabla de posiciones.**\
+Si los visitantes necesitan pasar demasiado tiempo en el cuestionario, puede que no terminen.\
 **Solo los jugadores que terminen todo el cuestionario serán listados en la tabla de posiciones.**
 
 ### 🎲 Selección aleatoria de preguntas
