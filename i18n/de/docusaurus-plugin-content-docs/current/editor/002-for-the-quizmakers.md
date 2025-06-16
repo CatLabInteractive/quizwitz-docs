@@ -7,6 +7,8 @@ title: Einführung
 
 Willkommen bei der Anleitung für Quiz-Ersteller!\
 Willkommen bei der Anleitung für Quiz-Ersteller!\
+Auf QuizWitz können Sie eigene Quiz-Inhalte erstellen und organisieren – oder Inhalte von anderen sammeln und neu mischen.\
+Willkommen bei der Anleitung für Quiz-Ersteller!\
 Auf QuizWitz können Sie eigene Quiz-Inhalte erstellen und organisieren – oder Inhalte von anderen sammeln und neu mischen.
 
 ---
@@ -34,12 +36,14 @@ Du kannst auch **Rund-About** von anderen Mitgliedern sammeln und in deine eigen
 
 Um **Full Quizzes**, erstellen und veröffentlichen zu können, benötigst du eine [Premium Lizenz](https://www.quizwitz.com/pricing).\
 Dies entsperrt die Fähigkeit, Round-Abouts, benutzerdefinierte Reihenfolge zu setzen und erweiterte Funktionen zu nutzen.\
+Dies entsperrt die Fähigkeit, Round-Abouts, benutzerdefinierte Reihenfolge zu setzen und erweiterte Funktionen zu nutzen.\
 Dies entsperrt die Fähigkeit, Round-Abouts, benutzerdefinierte Reihenfolge zu setzen und erweiterte Funktionen zu nutzen.
 
 Rund-Abouts können immer kostenlos erstellt und geteilt werden!
 
 ---
 
+Bereit zum Start?\
 Bereit zum Start?\
 Bereit zum Start?\
 Erkunden Sie den Editor, probieren Sie ein Template aus, oder schauen Sie auf den nächsten Seiten in dieser Anleitung nach weiteren Tipps und Inspirationen.

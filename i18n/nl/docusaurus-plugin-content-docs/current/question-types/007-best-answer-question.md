@@ -17,6 +17,7 @@ Het antwoord/de antwoorden met de meeste stemmen krijgen de punten.
 - **Puntentelling:**
     - In **QuizWitz Live** (met een quizmaster) bekijkt de host alle antwoorden en kent punten toe aan het beste antwoord/de beste antwoorden.
     - In gewone spellen (zonder host) stemmen spelers op het antwoord dat zij het beste vinden.\
+        Het antwoord/de antwoorden met de meeste stemmen krijgen de punten.\
         Het antwoord/de antwoorden met de meeste stemmen krijgen de punten. Het antwoord/de antwoorden met de meeste stemmen krijgen de punten.
 
 ---

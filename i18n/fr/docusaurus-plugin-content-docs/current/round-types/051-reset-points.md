@@ -7,6 +7,7 @@ title: Réinitialiser les points
 
 **Réinitialiser les points** est un événement spécial (pas un tour de questions) qui définit le score de tous les joueurs ou équipes à zéro.\
 Cela peut être utilisé pour égaliser le terrain de jeu, ajouter une suspension ou introduire de nouvelles phases dans votre quiz.\
+Cela peut être utilisé pour égaliser le terrain de jeu, ajouter une suspension ou introduire de nouvelles phases dans votre quiz.\
 Cela peut être utilisé pour égaliser le terrain de jeu, ajouter une suspension ou introduire de nouvelles phases dans votre quiz.
 
 ---

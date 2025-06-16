@@ -18,6 +18,9 @@ title: Intermission
   Le quizmaster met fin à l'intermission de son appareil (tablette ou smartphone).\
   **Dans les jeux QuizWitz Live :**\
   Le quizmaster met fin à l'intermission de son appareil (tablette ou smartphone).\
+  L'application Quizmaster affiche un chronomètre pour que l'hôte puisse voir combien de temps l'intermission a duré.\
+  **Dans les jeux QuizWitz Live :**\
+  Le quizmaster met fin à l'intermission de son appareil (tablette ou smartphone).\
   L'application Quizmaster affiche un chronomètre pour que l'hôte puisse voir combien de temps l'intermission a duré.
 
 ---

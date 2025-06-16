@@ -35,6 +35,7 @@ Après la connexion, le code maître disparaît de l'écran. Vous êtes maintena
 
 > \* Si l'écran du jeu (affichage principal) n'est pas en focus — par exemple, si vous changez d'onglets ou si vous le réduisez — le jeu **mettra automatiquement en pause**.\
 > Quand cela se passe:\
+> Quand cela se passe:\
 > Quand cela se passe:
 >
 > - L'application **Quizmaster s'interrompt aussi**

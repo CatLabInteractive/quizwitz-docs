@@ -15,7 +15,7 @@ Una ronda de actividades te permite alejarte de las preguntas de prueba estánda
 
 ## 🏆 Cómo funciona
 
-- **Descripción del Desafío:** La ronda comienza con una descripción de la actividad (por ejemplo, “Doblar un plano de papel y lanzarlo en la medida de lo posible. ¡Más lejos gana!”).
+- **Descripción del Desafío:** La ronda comienza con una descripción de la actividad (por ejemplo, "¡Doble un avión de papel y lánzalo en la medida de lo posible!").
 - **Selección de equipo/jugador:** El cuestionario selecciona qué equipos o jugadores participarán en la actividad.
   - \*\*La selección aleatoria asegura que cada equipo sea atraído por el mismo número de veces a lo largo del cuestionario. \* Así que si tienes 40 equipos y 10 rondas de actividad con 4 equipos cada uno, cada equipo será seleccionado exactamente una vez.
 - **Temporizador y herramientas:** Inicie un temporizador y utilice efectos de sonido (como zumbidos o campanas) para gestionar el desafío.

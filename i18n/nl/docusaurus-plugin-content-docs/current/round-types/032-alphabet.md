@@ -5,7 +5,8 @@ title: Alfabet
 
 # 🔤 Alfabet
 
-Een **Alfabet** ronde is een traditionele stijl ronde met een twist—elke vraag krijgt een unieke label toegewezen, en spelers moeten hun antwoorden koppelen aan de juiste gelabelde velden. Deze ronde beloont zowel kennis als deductie!
+Een **Alfabet** ronde is een [Traditionele ronde](030-traditional.md) met een draai - elke vraag krijgt een uniek label,
+en spelers moeten overeenkomen met hun antwoorden op de juiste velden met het juiste label. Deze ronde beloont zowel kennis als deductie!
 
 ---
 
@@ -16,7 +17,7 @@ Een **Alfabet** ronde is een traditionele stijl ronde met een twist—elke vraag
 ## 🏷️ Alfabet labels
 
 - Elke vraag krijgt een unieke **Label** toegewezen. Traditioneel is dit de **eerste letter van het antwoord**, maar je kunt elk label gebruiken dat je maar wilt (letters, cijfers of creatieve codes).
-- **Alle vragen moeten open vragen zijn** in dit type ronde.
+- In dit rondetypen moeten **alle vragen open vragen zijn**.
 
 ---
 
@@ -26,14 +27,14 @@ Een **Alfabet** ronde is een traditionele stijl ronde met een twist—elke vraag
 
 ## 📝 Hoe het werkt
 
-- Terwijl de vragen worden gesteld, zien spelers een lijst met antwoordvelden—één voor elke vraag.
-- **De antwoordvelden staan niet in quiz volgorde**—in plaats daarvan worden ze alfabetisch gesorteerd op label.
-- Spelers moeten hun antwoorden koppelen aan de juiste gelabelde velden (bijv. antwoord voor vraag "Bear" moet worden ingevuld onder label "B").
-- Antwoorden kunnen op elk moment worden gewijzigd totdat de ronde is afgelopen—spelers kunnen antwoorden tussen velden wisselen wanneer ze hun fouten ontdekken.
+- Als er vragen worden gesteld, zien spelers een lijst met antwoordvelden – één voor elke vraag.
+- **De antwoordvelden staan niet in quizvolgorde** – in plaats daarvan worden ze alfabetisch gesorteerd op label.
+- Spelers moeten hun antwoorden koppelen aan de juiste gelabelde velden (bijv. antwoord voor vraag "Beer" moet worden ingevuld onder label "B").
+- Antwoorden kunnen op elk moment worden gewijzigd tot de ronde klaar is — spelers kunnen antwoorden tussen velden wisselen wanneer ze hun fouten realiseren.
 
 ---
 
-> Deze ronde is vooral leuk en uitdagend, omdat het zowel kennis vereist als het vermogen om af te leiden welk antwoord bij welk label past. Perfect voor ervaren quizspelers en creatieve rondes!
+> Deze ronde is vooral leuk en uitdagend, omdat kennis en het vermogen om te bepalen welk antwoord past bij welk etiket vereist zijn. Perfect voor doorgewinterde quizers en creatieve rondes!
 
 ---
 

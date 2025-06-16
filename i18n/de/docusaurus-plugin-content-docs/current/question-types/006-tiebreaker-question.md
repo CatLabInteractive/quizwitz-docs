@@ -7,6 +7,8 @@ title: Tiebreaker Frage
 
 Die Tiebreaker-Frage wird verwendet, um die Verbindungen am Ende eines Quiz zu lösen.\
 Spieler werden gebeten, eine Zahl zu erraten (z.B.\
+Die Tiebreaker-Frage wird verwendet, um die Verbindungen am Ende eines Quiz zu lösen.\
+Spieler werden gebeten, eine Zahl zu erraten (z.B.\
 „Wie viele Bohnen sind im Jar?“). Der Spieler, dessen Antwort dem richtigen Wert am nächsten ist, gewinnt im Falle einer Krawatte.
 
 ---

@@ -35,6 +35,7 @@ Después de conectarse, el código maestro desaparece de la pantalla. Ahora est�
 
 > \* Si la pantalla de juego (pantalla principal) no está activa en el foco — por ejemplo, si cambias de pestañas o lo minimizas — el juego se pausará **automáticamente**.\
 > Cuando esto sucede:\
+> Cuando esto sucede:\
 > Cuando esto sucede:
 >
 > - La **aplicación de Greensmaster también se pausa**

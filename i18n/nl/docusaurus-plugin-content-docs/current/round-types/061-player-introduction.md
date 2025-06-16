@@ -20,4 +20,4 @@ title: Spelerintroductie
 
 ---
 
-Voor andere speciale ronden zie [Rond opties](../editor/008-round-options.md).
+Voor andere speciale ronden zie [ronde opties](../editor/008-round-options.md).

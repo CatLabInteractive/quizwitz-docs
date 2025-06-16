@@ -13,6 +13,8 @@ Dieses Tutorial zeigt Ihnen, wie Sie den QuizWitz Turniermodus verwenden. Der Tu
 
 Beim Bau eines Turnier-Quizs, halten Sie es kurz und engagiert. Wenn Besucher zu viel Zeit am Quiz verbringen müssen, werden sie vielleicht nicht zu Ende sein.\
 Wenn Besucher zu viel Zeit am Quiz verbringen müssen, werden sie vielleicht nicht zu Ende sein.\
+**Nur Spieler, die das gesamte Quiz beendet haben, werden auf der Rangliste gelistet.**\
+Wenn Besucher zu viel Zeit am Quiz verbringen müssen, werden sie vielleicht nicht zu Ende sein.\
 **Nur Spieler, die das gesamte Quiz beendet haben, werden auf der Rangliste gelistet.**
 
 ### 🎲 Zufällige Fragenauswahl

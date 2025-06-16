@@ -7,6 +7,7 @@ title: Bestellungsfrage
 
 In einer **Bestellfrage**, müssen Spieler bis zu 4 Elemente in der richtigen Reihenfolge platzieren.\
 Dieser Rundentyp eignet sich hervorragend für chronologische, Ranking- oder Sequenzierungs-Herausforderungen.\
+Dieser Rundentyp eignet sich hervorragend für chronologische, Ranking- oder Sequenzierungs-Herausforderungen.\
 Dieser Rundentyp eignet sich hervorragend für chronologische, Ranking- oder Sequenzierungs-Herausforderungen.
 
 ---

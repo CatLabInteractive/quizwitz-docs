@@ -7,7 +7,7 @@ title: Livestream quiz
 
 Met QuizWitz Live is het makkelijk om een volledig interactieve livestream quiz te hosten op platforms zoals **Twitch**, **YouTube Live** of **Facebook Live** — zelfs voor grote publieken. Deze gids begeleidt je bij de setup, het omgaan met vertragingen en beste presentatietechnieken.
 
-> 🧭 Als je nieuw bent met de Quizmaster app, begin dan met de [**Quizmaster startup guide**](../quizmaster/002-startup.md).
+> 🧭 Als je nieuw bent met de Quizmaster app, begin dan met de [**Quizmaster startup gids**](../quizmaster/002-startup.md).
 
 ---
 
@@ -96,12 +96,12 @@ Zodra de vertraging is ingesteld en je spelers verbonden zijn:
 
 - **Laat de quizmaster de vertraagde stream niet bekijken** — hij of zij moet alleen de live Quizmaster app gebruiken om ongemakkelijke pauzes te voorkomen.
 
-- Om met het publiek te communiceren, volg je **live reacties** op een apart scherm — niet de videofeed.
+- Om met het publiek te communiceren, volg **live reacties** op een apart scherm — niet de videofeed.
 
-- Wil je automatisch OBS-scènes wisselen? Use:\
+- Wil je automatisch OBS-scènes wisselen? Gebruik:\
   [`https://regie.catlab.eu/obs.html`](https://regie.catlab.eu/obs.html)
 
-- Wil je MIDI-apparaten activeren tijdens het spel? Try:\
+- Wil je MIDI-apparaten activeren tijdens het spel? Gebruik:\
   [`https://regie.catlab.eu/midi.html`](https://regie.catlab.eu/midi.html)
 
 - Op zoek naar meer hulpmiddelen? Bezoek [**regie.catlab.eu**](https://regie.catlab.eu) — een centraal punt met extra tools voor automatisering, scène wisselen, effecten en meer.

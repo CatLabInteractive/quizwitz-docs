@@ -1,6 +1,6 @@
 ---
 id: theming
-title: Thème
+title: "Thème"
 ---
 
 # Thème

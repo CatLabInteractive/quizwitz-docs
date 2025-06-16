@@ -15,6 +15,8 @@ Este tutorial le enseñará cómo correr prueba Witz en el stand de su conferenc
 
 Cuando construya un cuestionario para una cabina de conferencias, tenga en cuenta que algunos jugadores pueden quedarse con varios juegos.\
 Para mantener las cosas frescas, asegúrate de tener muchas preguntas — suficiente para aleatorizar y hacer que cada juego sea único.\
+Cuando construya un cuestionario para una cabina de conferencias, tenga en cuenta que algunos jugadores pueden quedarse con varios juegos.\
+Para mantener las cosas frescas, asegúrate de tener muchas preguntas — suficiente para aleatorizar y hacer que cada juego sea único.\
 Para mantener las cosas frescas, asegúrate de tener muchas preguntas — suficiente para aleatorizar y hacer que cada juego sea único.
 
 **Configuración recomendada:**

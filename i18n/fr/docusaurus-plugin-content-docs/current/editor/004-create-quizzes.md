@@ -26,6 +26,7 @@ Donnez un titre à votre quiz et choisissez la langue principale.\
 Give your quiz a title and choose the main language.\
 You can add **translations** later if needed — no need to decide everything upfront.\
 Vous pouvez ajouter des **traductions** plus tard si nécessaire — pas besoin de tout décider à l'avance.\
+Vous pouvez ajouter des **traductions** plus tard si nécessaire — pas besoin de tout décider à l'avance.\
 Vous pouvez ajouter des **traductions** plus tard si nécessaire — pas besoin de tout décider à l'avance.
 
 ---

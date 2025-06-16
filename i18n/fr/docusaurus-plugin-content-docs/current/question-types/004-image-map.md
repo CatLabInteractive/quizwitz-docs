@@ -17,6 +17,7 @@ Dans une question de **carte des images**, les joueurs doivent sélectionner le 
 
 - **Question :** Indiquez clairement ce que les joueurs doivent trouver sur l'image.\
   _(Exemple : « Sélectionnez la flasque Erlenmeyer.»)_\
+  _(Exemple : « Sélectionnez la flasque Erlenmeyer.»)_\
   _(Exemple : « Sélectionnez la flasque Erlenmeyer.»)_
 - **Image:** Téléchargez une image de haute qualité qui sera affichée à tous les joueurs.
 - **Points de réponse :** Définissez une ou plusieurs **zones cibles** (« points») sur l'image. Chaque zone peut être définie comme un cercle ou une autre forme, et vous déterminez sa position et sa taille.
@@ -43,6 +44,7 @@ Voir [écrire des questions](../editor/005-writing-questions.md) pour les param�
 ## ⏱️ Score basé sur le temps
 
 **Le pointage basé sur le temps est activé par défaut.** Les joueurs qui répondent rapidement gagnent plus de points, mais il y a toujours un composant fixe (par défaut : 75%) pour une réponse correcte. Seulement 25% du score total est influencé par la rapidité de votre réponse.\
+Vous pouvez désactiver le pointage basé sur le temps pour ce type de question si vous le souhaitez.\
 Vous pouvez désactiver le pointage basé sur le temps pour ce type de question si vous le souhaitez.\
 Vous pouvez désactiver le pointage basé sur le temps pour ce type de question si vous le souhaitez.
 

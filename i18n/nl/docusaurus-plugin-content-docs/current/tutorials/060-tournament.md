@@ -5,24 +5,14 @@ title: Toernooi
 
 # Toernooi
 
-Deze tutorial laat je zien hoe je de QuizWitz Tournament modus gebruikt. De Tournament modus laat spelers toe om je quiz te spelen wanneer ze willen — op hun eigen smart device. Hun scores worden geregistreerd op een wereldwijde ranglijst die je in je locatie kunt tonen.
+Deze handleiding laat je zien hoe je de QuizWitz Toernooi modus kunt gebruiken. Toernooi modus laat spelers samenkomen en je quiz spelen wanneer ze dat willen - op hun eigen apparaat. Hun scores worden opgenomen op een globaal scorebord dat u kunt laten zien in uw locatie.
 
 ---
 
 ## 📝 Maak de quiz
 
-Houd een Tournament quiz kort en boeiend. Als bezoekers teveel tijd aan de quiz moeten besteden, maken ze deze misschien niet af.\
-If visitors need to spend too much time on the quiz, they might not finish.\
-**Only players who finish the whole quiz will be listed on the leaderboard.**\
-If visitors need to spend too much time on the quiz, they might not finish.\
-**Only players who finish the whole quiz will be listed on the leaderboard.**\
-Als bezoekers teveel tijd aan de quiz moeten besteden, maken ze deze misschien niet af.\
-If visitors need to spend too much time on the quiz, they might not finish.\
-**Only players who finish the whole quiz will be listed on the leaderboard.**\
-If visitors need to spend too much time on the quiz, they might not finish.\
-**Only players who finish the whole quiz will be listed on the leaderboard.**\
-If visitors need to spend too much time on the quiz, they might not finish.\
-**Only players who finish the whole quiz will be listed on the leaderboard.**
+Houd het kort en boeiend bij het bouwen van een toernooi. Als bezoekers teveel tijd aan de quiz moeten besteden, maken ze deze misschien niet af.\
+**Alleen spelers die de hele quiz voltooien, worden op het klassement vermeld.**
 
 ### 🎲 Willekeurige vraagselectie
 
@@ -32,7 +22,7 @@ Laat het spel een willekeurige set vragen uit je pool kiezen, zodat elke keer sp
 
 - Kies **Quiz** in het Maak menu en geef je quiz een naam. Stel de correcte taal in.
 - Maak 3 rondes, noem ze (bijv. Round 1, Round 2, Round 3).
-- Schakel bij **Round instellingen** (tandwiel icoon) **Toon alleen x vragen** in en stel dit in op 5.
+- Schakel bij **Ronde instellingen** (tandwiel icoon) **Toon slechts x vragen** in en stel dit in op 5.
 - Schakel **Willekeurige vraagvolgorde** in zodat het spel niet altijd dezelfde vragen eerst kiest.
 
 Herhaal deze stappen voor elke ronde in de quiz.
@@ -47,7 +37,7 @@ Toernooien kunnen alleen gestart worden vanuit het **Geavanceerde spelopties** m
 
    ![Een screenshot van het 'Start quiz' menu](/images/tutorials/tournament/tournament-start.png)
 
-2. Selecteer in het popup venster de **Tournament** spelmodus en klik op **Genereer speel-link**.
+2. Selecteer in het popup venster de **Toernooi** spelmodus en klik op **Genereer speel-link**.
 
    ![Een screenshot van het 'Geavanceerde spelopties' menu](/images/tutorials/tournament/tournament-advanced-game-settings.png)
 
@@ -73,7 +63,7 @@ Zodra de eerste spelers hun spellen hebben beëindigd, verschijnen hun scores li
 
 ---
 
-## 📧 E-mail bevestiging
+## 📧 E-mailbevestiging
 
 Je krijgt ook een e-mail met zowel de speler- als ranglijst-links — handig zodat je ze niet kwijtraakt!
 

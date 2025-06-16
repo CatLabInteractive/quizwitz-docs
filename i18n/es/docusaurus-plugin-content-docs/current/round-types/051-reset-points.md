@@ -7,6 +7,7 @@ title: Restablecer puntos
 
 **Restablecer puntos** es un evento especial (no una ronda de preguntas) que vuelve a cero la puntuación de todos los jugadores o equipos.\
 Esto puede utilizarse para nivelar el campo de juego, añadir suspense o introducir nuevas fases en su cuestionario.\
+Esto puede utilizarse para nivelar el campo de juego, añadir suspense o introducir nuevas fases en su cuestionario.\
 Esto puede utilizarse para nivelar el campo de juego, añadir suspense o introducir nuevas fases en su cuestionario.
 
 ---

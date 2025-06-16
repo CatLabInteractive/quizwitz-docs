@@ -36,6 +36,8 @@ Ver [Opciones de puntuación en ajustes de ronda](../editor/008-round-options.md
 
 El tipo de pregunta de opción múltiple ofrece muchos ajustes para afinar la experiencia y puntuación.\
 El tipo de pregunta de opción múltiple ofrece muchos ajustes para afinar la experiencia y puntuación.\
+Ver [escribir preguntas] (../editor/005-writing-questions.md) para una visión general de la configuración de las preguntas.\
+El tipo de pregunta de opción múltiple ofrece muchos ajustes para afinar la experiencia y puntuación.\
 Ver [escribir preguntas] (../editor/005-writing-questions.md) para una visión general de la configuración de las preguntas.
 
 ---

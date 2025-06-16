@@ -7,6 +7,7 @@ title: Pedir pregunta
 
 En una **pregunta de orden**, los jugadores deben poner hasta 4 objetos en la secuencia correcta.\
 Este tipo de ronda es ideal para los desafíos cronológicos, de clasificación o secuenciales.\
+Este tipo de ronda es ideal para los desafíos cronológicos, de clasificación o secuenciales.\
 Este tipo de ronda es ideal para los desafíos cronológicos, de clasificación o secuenciales.
 
 ---
@@ -19,6 +20,8 @@ Este tipo de ronda es ideal para los desafíos cronológicos, de clasificación 
 
 - **Pregunta:** Claramente pregunta qué orden se requiere.\
   **Pregunta:** Claramente pregunta qué orden se requiere.\
+  _(Ejemplo: “Selecciona a los animales en el orden correcto de lo menos a la mayoría de las piernas”)_\
+  **Pregunta:** Claramente pregunta qué orden se requiere.\
   _(Ejemplo: “Selecciona a los animales en el orden correcto de lo menos a la mayoría de las piernas”)_
 - **Opciones:** Introduzca hasta cuatro elementos. Definir la secuencia correcta.
 - **Vista del jugador:** Las opciones se muestran en orden aleatorio. Los jugadores **seleccionan cada elemento uno por uno** en el orden en que creen que es correcto.
@@ -30,6 +33,8 @@ Este tipo de ronda es ideal para los desafíos cronológicos, de clasificación 
 
 Las preguntas de pedido usan **puntuación basada en el tiempo** por defecto:\
 Las respuestas correctas más rápidas ganan más puntos, pero la mayoría de los puntos son fijos. El tiempo sólo afecta a una porción de la puntuación.\
+El tiempo sólo afecta a una porción de la puntuación.\
+También puede desactivar la puntuación basada en el tiempo por pregunta sólo para puntos fijos.\
 El tiempo sólo afecta a una porción de la puntuación.\
 También puede desactivar la puntuación basada en el tiempo por pregunta sólo para puntos fijos.
 

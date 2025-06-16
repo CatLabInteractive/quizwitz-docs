@@ -15,7 +15,8 @@ Les réponses avec le plus de votes obtiennent les points.
 - **Répondre aux joueurs :** Chaque joueur tape sa réponse à la question ouverte.
 - **Score :**
     - Dans **QuizWitz Live** (avec un quizmaster), l'hôte passe en revue toutes les réponses et attribue des points au meilleur.
-    - Dans les jeux réguliers (pas d'hôte), les joueurs votent pour la réponse qu'ils pensent être la meilleure. Les réponses avec le plus de votes obtiennent les points.
+    - Dans les jeux réguliers (pas d'hôte), les joueurs votent pour la réponse qu'ils pensent être la meilleure.\
+        Les réponses avec le plus de votes obtiennent les points. Les réponses avec le plus de votes obtiennent les points.
 
 ---
 

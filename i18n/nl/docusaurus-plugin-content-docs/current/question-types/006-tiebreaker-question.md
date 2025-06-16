@@ -6,6 +6,7 @@ title: Tiebreaker vraag
 # 🏁 Tiebreaker vraag
 
 De schiftingsvraag wordt gebruikt om gelijke standen aan het einde van een quiz te beslissen.\
+De schiftingsvraag wordt gebruikt om gelijke standen aan het einde van een quiz te beslissen.\
 De spelers wordt gevraagd een getal te raden (bijvoorbeeld: "Hoeveel bonen zitten er in deze bokaal?"). De speler wiens antwoord het dichtst bij de juiste waarde ligt, wint bij een gelijkspel.
 
 ---

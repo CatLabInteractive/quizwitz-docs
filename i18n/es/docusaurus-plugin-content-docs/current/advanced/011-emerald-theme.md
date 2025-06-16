@@ -61,6 +61,7 @@ Cuando comiences el cuestionario anterior, el juego estará en el estilo predete
 :::tip
 La forma más fácil de experimentar con estos parámetros es usando nuestro test de temas.\
 La forma más fácil de experimentar con estos parámetros es usando nuestro test de temas.\
+La forma más fácil de experimentar con estos parámetros es usando nuestro test de temas.\
 Cuando termines de experimentar, puedes copiar — pegar los parámetros a la URL de tus opciones de juego avanzadas.
 :::
 
