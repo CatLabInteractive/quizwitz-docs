@@ -15,7 +15,7 @@ Une partie d'activités vous permet de vous éloigner des questions de quiz stan
 
 ## 🏆 Comment ������������fonctionne
 
-- **Description du défi:** La manche commence par une description de l'activité (par exemple, « Pliez un avion en papier et jetez-le le le plus loin possible. Le plus éloigné gagne!”).
+- **Description du défi:** La manche commence par une description de l’activité (par exemple, « Pliez un avion en papier et jetez-le le le plus loin possible!»).
 - **Sélection d'équipe/joueur :** Le quizmaster sélectionne les équipes ou les joueurs qui participeront à l'activité.
   - \*\*La sélection aléatoire garantit que chaque équipe est tirée un nombre égal de fois tout au long du quiz. \* Donc, si vous avez 40 équipes et 10 tours avec 4 équipes chacune, chaque équipe sera sélectionnée une seule fois.
 - **Minuterie & Outils :** Démarrez un minuteur et utilisez des effets sonores (comme des buzzers ou des cloches) pour gérer le défi.
