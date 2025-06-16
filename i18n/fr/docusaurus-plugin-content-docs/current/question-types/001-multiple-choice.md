@@ -28,7 +28,7 @@ Les questions à choix multiples utilisent **le pointage basé sur le temps** pa
 **Vous pouvez également désactiver le pointage basé sur le temps par question** si vous voulez que toutes les réponses correctes reçoivent le même score.\
 Vous pouvez également ajuster ce solde dans les paramètres de la manche.
 
-Voir [Options de cotation dans les paramètres de la ronde](../editor/008-round-options.md#scoring) pour plus de détails.
+Voir [Options de cotation dans les paramètres de la ronde](../editor/008-round-options.md#-scoring-options) pour plus de détails.
 
 ---
 

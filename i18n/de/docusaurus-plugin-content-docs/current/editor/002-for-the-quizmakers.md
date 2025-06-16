@@ -9,6 +9,8 @@ Willkommen bei der Anleitung für Quiz-Ersteller!\
 Willkommen bei der Anleitung für Quiz-Ersteller!\
 Auf QuizWitz können Sie eigene Quiz-Inhalte erstellen und organisieren – oder Inhalte von anderen sammeln und neu mischen.\
 Willkommen bei der Anleitung für Quiz-Ersteller!\
+Auf QuizWitz können Sie eigene Quiz-Inhalte erstellen und organisieren – oder Inhalte von anderen sammeln und neu mischen.\
+Willkommen bei der Anleitung für Quiz-Ersteller!\
 Auf QuizWitz können Sie eigene Quiz-Inhalte erstellen und organisieren – oder Inhalte von anderen sammeln und neu mischen.
 
 ---
@@ -43,6 +45,7 @@ Rund-Abouts können immer kostenlos erstellt und geteilt werden!
 
 ---
 
+Bereit zum Start?\
 Bereit zum Start?\
 Bereit zum Start?\
 Bereit zum Start?\

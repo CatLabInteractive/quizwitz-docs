@@ -40,6 +40,7 @@ Nach der Verbindung verschwindet der Master Code vom Bildschirm. Du bist jetzt b
 > \* Wenn der Spielbildschirm (Hauptanzeigen) nicht aktiv im Fokus ist — zum Beispiel wenn Sie Tabs wechseln oder minimieren — das Spiel wird **automatisch pausieren**.\
 > Wenn das passiert:\
 > Wenn das passiert:\
+> Wenn das passiert:\
 > Wenn das passiert:
 >
 > - Die **Quizmaster-App pausiert auch**

@@ -8,6 +8,7 @@ name: Types de manches
 Le type de manche influence la façon dont le jeu montre les questions aux joueurs — et comment les joueurs gagnent des points.\
 Dans les questionnaires, vous pouvez changer le type de ronde dans le champ de sélection **Type d'arronde** en haut de l'écran.\
 Dans les questionnaires, vous pouvez changer le type de ronde dans le champ de sélection **Type d'arronde** en haut de l'écran.\
+Dans les questionnaires, vous pouvez changer le type de ronde dans le champ de sélection **Type d'arronde** en haut de l'écran.\
 Dans les questionnaires, vous pouvez changer le type de ronde dans le champ de sélection **Type d'arronde** en haut de l'écran.
 
 ## 🧠 rondes régulières

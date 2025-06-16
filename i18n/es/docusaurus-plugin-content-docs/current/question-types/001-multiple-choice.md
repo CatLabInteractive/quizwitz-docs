@@ -28,7 +28,7 @@ Las preguntas de elección múltiple usan **puntuación basada en el tiempo** po
 **También puedes desactivar la puntuación basada en el tiempo por pregunta** si quieres que todas las respuestas correctas reciban la misma puntuación.\
 Puedes ajustar aún más este saldo en los ajustes redondos.
 
-Ver [Opciones de puntuación en ajustes de ronda](../editor/008-round-options.md#scoring) para detalles completos.
+Ver [Opciones de puntuación en ajustes de ronda](../editor/008-round-options.md#-scoring-options) para detalles completos.
 
 ---
 

@@ -48,6 +48,8 @@ Una **pregunta de lista** pide a los jugadores que proporcionen varias respuesta
     The available points are split into blocks of time (not by the millisecond).\
     For example: full points in the first block, 80% in the next, and so on.\
     The available points are split into blocks of time (not by the millisecond).\
+    For example: full points in the first block, 80% in the next, and so on.\
+    The available points are split into blocks of time (not by the millisecond).\
     For example: full points in the first block, 80% in the next, and so on.
   - **Sólo 25%** de los puntos dependen de la velocidad.\
     **Sólo 25%** de los puntos dependen de la velocidad.\

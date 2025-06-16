@@ -29,11 +29,13 @@ Zodra gestart, toont je scherm een **Master Code**. **Deel deze code niet met sp
 - Er verschijnt een **Quizmaster App-interface**, waarmee je het spel bedient.
 - We raden een **tablet of smartphone** aan voor mobiliteit, maar een laptop werkt ook.\
   ![QuizWitz PRO verbindingsscherm](/images/quizwitz-pro-connect-token.png)\
+  ![QuizWitz PRO verbindingsscherm](/images/quizwitz-pro-connect-token.png)\
   ![QuizWitz PRO verbindingsscherm](/images/quizwitz-pro-connect-token.png)
 
 Na verbinding verdwijnt de Master Code van het scherm. Je bent nu klaar om het hoofdscherm op een projector te tonen of je livestream te starten.
 
 > ⚠️ \*\*Let op! \* Als het spelscherm (hoofdscherm) niet actief in focus is - bijvoorbeeld als je van tabbladen wisselt of deze minimaliseert — het spel zal **automatisch pauzeren**.\
+> Als dit gebeurt:\
 > Als dit gebeurt:\
 > Als dit gebeurt:
 >

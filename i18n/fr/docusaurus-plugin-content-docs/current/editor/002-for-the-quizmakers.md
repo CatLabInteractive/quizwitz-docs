@@ -8,6 +8,7 @@ title: Introduction
 Bienvenue dans le guide pour les créateurs de quiz !\
 Bienvenue dans le guide pour les créateurs de quiz !\
 Bienvenue dans le guide pour les créateurs de quiz !\
+Bienvenue dans le guide pour les créateurs de quiz !\
 Sur QuizWitz, vous pouvez construire et organiser votre propre contenu de quiz — ou collecter et remixer le contenu créé par d'autres.
 
 ---
@@ -43,5 +44,6 @@ Les Bouts Round-Abouts peuvent toujours être créés et partagés gratuitement 
 
 ---
 
+Prêt à commencer ?\
 Prêt à commencer ?\
 Explore l'éditeur, essaie un modèle ou consulte les pages suivantes de ce guide pour plus d'astuces et d'inspiration.

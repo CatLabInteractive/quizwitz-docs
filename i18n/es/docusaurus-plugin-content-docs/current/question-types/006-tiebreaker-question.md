@@ -8,6 +8,7 @@ title: Pregunta de Tiebreaker
 La cuestión de Tiebreaker se utiliza para resolver los vínculos al final de un cuestionario.\
 A los jugadores se les pide que adivinen un número (por ejemplo, “¿Cuántos frijoles hay en el tardo?”).\
 A los jugadores se les pide que adivinen un número (por ejemplo, “¿Cuántos frijoles hay en el tardo?”).\
+A los jugadores se les pide que adivinen un número (por ejemplo, “¿Cuántos frijoles hay en el tardo?”).\
 A los jugadores se les pide que adivinen un número (por ejemplo, “¿Cuántos frijoles hay en el tardo?”). El jugador cuya respuesta sea más cercana al valor correcto ganará en caso de empate.
 
 ---

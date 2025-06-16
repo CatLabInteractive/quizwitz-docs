@@ -60,6 +60,7 @@ Einige Slots erlauben das Hinzufügen von **mehreren Anhängen**. Die Art und We
 > ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** Der Quizmaster hat die volle Kontrolle und kann entscheiden, wann Anhänge während des Spiels angezeigt oder versteckt werden sollen.\
 > 🎮 **In regulären Spielen:** Alle Anhänge innerhalb eines Slot werden **gleichzeitig** angezeigt.\
 > 🎮 **In regulären Spielen:** Alle Anhänge innerhalb eines Slot werden **gleichzeitig** angezeigt.\
+> 🎮 **In regulären Spielen:** Alle Anhänge innerhalb eines Slot werden **gleichzeitig** angezeigt.\
 > 🎮 **In regulären Spielen:** Alle Anhänge innerhalb eines Slot werden **gleichzeitig** angezeigt.
 
 Details über das Timing und das Verhalten jedes Slots finden Sie in der verlinkten Dokumentation für [questions](../editor/015-importing-questions.md), [rounds](../editor/008-round-options.md), und [quizzes](../editor/007-quiz-options.md).
