@@ -1,27 +1,20 @@
 ---
 id: conference-booth
-title: Conferentiekraam
+title: Conferentie booth
 ---
 
-# Conferentiekraam
+# Conferentie booth
 
 Deze tutorial laat je zien hoe je QuizWitz kunt gebruiken bij je conferentiekraam — een makkelijke, interactieve manier om bezoekers aan te trekken en leads te verzamelen!
 
-![Een foto van een Marvel conferentiekraam dat QuizWitz gebruikt](/images/photos/marvel.jpg)
+![Een foto van een Marvel stand op een conferentie met gebruik van QuizWitz](/images/photos/marvel.jpg)
 
 ---
 
 ## 📝 De quiz maken
 
-Als je een quiz maakt voor een conferentiekraam, houd dan in gedachten dat sommige spelers misschien meerdere spellen mee willen doen.\
-When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.\
-To keep things fresh, make sure you have plenty of questions — enough to randomize and make each playthrough unique.\
-When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.\
-To keep things fresh, make sure you have plenty of questions — enough to randomize and make each playthrough unique.\
-When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.\
-To keep things fresh, make sure you have plenty of questions — enough to randomize and make each playthrough unique.\
-When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.\
-To keep things fresh, make sure you have plenty of questions — enough to randomize and make each playthrough unique.
+Als je een quiz maakt voor een booth, houd dan in gedachten dat sommige spelers misschien meerdere spellen mee willen doen.\
+Zorg dat je genoeg vragen hebt om het fris te houden — genoeg om te blijven variëren en elk spel uniek te maken.
 
 **Aanbevolen opzet:**
 
@@ -32,20 +25,13 @@ To keep things fresh, make sure you have plenty of questions — enough to rando
 
 1. **Kies “Quiz”** in het Maak-menu en geef je quiz een naam. Stel de juiste taal in.
 2. **Voeg 3 rondes toe** en geef ze een naam (bijvoorbeeld: Ronde 1, Ronde 2, Ronde 3).
-3. In the **Round settings** (cog icon), enable **“Only show x questions”** and set the number to 5.\
-  Also enable **“Random question order”** — otherwise the game will always pick the first 5 questions.\
-  Repeat for each round.\
-  In the **Round settings** (cog icon), enable **“Only show x questions”** and set the number to 5.\
-  Also enable **“Random question order”** — otherwise the game will always pick the first 5 questions.\
-  Repeat for each round.\
+3. Schakel in **Ronde instellingen** (cog icon) **"Toon slechts x vragen"** in en zet het nummer op 5.\
   Zet ook **“Willekeurige vraagvolgorde”** aan — anders kiest het spel altijd de eerste 5 vragen.\
-  Herhaal dit voor elke ronde.\
   Herhaal dit voor elke ronde.
 
-![Screenshot van ronde-instellingen voor een conferentiekraam](/images/tutorials/conference/round_settings.png)
+![Screenshot van ronde-instellingen voor een conferentiestand](/images/tutorials/conference/round_settings.png)
 
-4. **Add questions to each round.**\
-  You can [write questions](../editor/005-writing-questions.md) or use the Import button to quickly add content from Excel.
+4. **Voeg vragen toe aan elke ronde.**\nJe kunt [vragen schrijven](/docs/editor/writing-questions) of de knop Importeren gebruiken om snel inhoud uit Excel toe te voegen.
 
 :::tip
 Gebruik veel afbeeldingen en videoclips — die maken het spel veel leuker!
