@@ -13,7 +13,7 @@ Het is een handig hulpmiddel voor toernooien, playoffs of het toevoegen van dram
 ## 📝 Hoe het werkt
 
 - Wanneer geactiveerd, beoordeelt het eliminatie-evenement de spelersranglijsten en **verwijdert spelers of teams** volgens jouw gekozen regel.
-- Eliminatie is geen ronde met vragen, maar een automatische filter tussen rondes.
+- Eliminatie is geen ronde met vragen, maar een automatische actie tussen rondes.
 
 ---
 
@@ -34,4 +34,4 @@ Het aantal spelers om te behouden (of eruit te halen) kan als exact aantal of al
 
 ---
 
-Voor meer geavanceerde opties en typen evenementen, zie [Round options](../editor/008-round-options.md).
+Voor meer geavanceerde opties en typen evenementen, zie [ronde opties](../editor/008-round-options.md).
