@@ -5,7 +5,7 @@ title: Ronde-opties
 
 # 🔄 Ronde-opties
 
-Elke ronde heeft een specifiek **type**. Standaard is **Trivia**, maar we nodigen je uit om te testen en te experimenteren met alle beschikbare types. Op deze pagina worden de instellingen en bijlagen uitgelegd die je per ronde kunt configureren.
+Elke ronde heeft een specifiek **type**. De standaard is **Multiple Choice (Trivia)**, maar voel je vrij om te testen en experimenteren met alle beschikbare types. Op deze pagina worden de instellingen en bijlagen uitgelegd die je per ronde kunt configureren.
 
 📘 Voor een gedetailleerd overzicht van alle ronde types, bezoek de [documentatie over ronde types](../round-types/000-round-types.md).
 
@@ -44,9 +44,9 @@ QuizWitz biedt flexibele scoring om het eerlijk en boeiend te houden voor alle s
 
 - **Tijdgebaseerde scoring** — Spelers verdienen meer punten voor snellere antwoorden.
   - Voor de meeste vraagtypen nemen tijdgebaseerde punten **continu af per microseconde**: hoe sneller je antwoordt, hoe meer punten je scoort.
-  - Voor **open vragen** worden tijdgebaseerde punten in blokken verdeeld. Bijvoorbeeld: antwoorden in het eerste blok (bijv. eerste paar seconden) verdienen **100%** van het tijdbased gedeelte, het volgende blok verdient **80%**, enzovoorts. Dit helpt om het speelveld gelijk te trekken voor langzamere typers.
+  - Voor **alleen open vragen**, worden tijdbased punten verdeeld in blokken. Bijvoorbeeld: antwoorden in het eerste blok (bijv. eerste paar seconden) verdienen **100%** van het tijdbased gedeelte, het volgende blok verdient **80%**, enzovoorts. Dit helpt om het speelveld gelijk te trekken voor langzamere typers.
 
-- **Vaste percentage van punten op tijdgebaseerde scoring** — U bepaalt hoeveel van de totale score wordt beïnvloed door snelheid.
+- **Vast percentage van de punten op tijdbased scoring** — Jij bepaalt hoeveel van de totaalscore beïnvloed wordt door snelheid.
   - Standaard is **75%** van de punten vast (iedereen die correct antwoordt krijgt deze, ongeacht snelheid).
   - Alleen de resterende **25%** wordt beïnvloed door hoe snel spelers reageren.
 
