@@ -18,6 +18,7 @@ En una pregunta de **mapa de imágenes**, los jugadores deben seleccionar el lug
 - **Pregunta:** Claramente indica qué jugadores necesitan encontrar en la imagen.\
   _(Ejemplo: “Selecciona el flask de Erlenmeyer.”)_\
   _(Ejemplo: “Selecciona el flask de Erlenmeyer.”)_\
+  _(Ejemplo: “Selecciona el flask de Erlenmeyer.”)_\
   _(Ejemplo: “Selecciona el flask de Erlenmeyer.”)_
 - **Imágenes:** Sube una imagen de alta calidad que se mostrará a todos los jugadores.
 - **Puntos de respuesta:** Define una o más **áreas de destino** (“puntos”) en la imagen. Cada área puede establecerse como un círculo u otra forma, y usted determina su posición y tamaño.
