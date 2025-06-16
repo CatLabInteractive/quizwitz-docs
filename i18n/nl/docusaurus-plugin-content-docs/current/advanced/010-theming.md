@@ -1,6 +1,6 @@
 ---
 id: theming
-title: Thematisering
+title: "Thematisering"
 ---
 
 # Thematisering
