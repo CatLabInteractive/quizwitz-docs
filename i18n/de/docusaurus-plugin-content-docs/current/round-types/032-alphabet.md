@@ -5,7 +5,8 @@ title: Alphabet
 
 # :input_latin_Buchstaben: Alphabet
 
-Eine **Alphabet** Runde ist eine traditionelle Runde mit einer Drehung – jeder Frage wird ein einzigartiges Label zugewiesen, und Spieler müssen ihre Antworten auf die korrekt gekennzeichneten Felder abstimmen. Diese Runde belohnt sowohl Wissen als auch Abzug!
+Eine **Alphabet** Runde ist eine [Traditionelle Runde](030-traditional.md) mit einer Drehung — jeder Frage wird ein einzigartiges Label zugewiesen
+und Spieler müssen ihre Antworten auf die korrekt gekennzeichneten Felder abstimmen. Diese Runde belohnt sowohl Wissen als auch Abzug!
 
 ---
 
@@ -27,9 +28,9 @@ Eine **Alphabet** Runde ist eine traditionelle Runde mit einer Drehung – jeder
 ## 📝 So funktioniert es
 
 - Wenn Fragen gestellt werden, sehen Spieler eine Liste von Antwortfeldern – eins für jede Frage.
-- **Die Antwortfelder sind nicht in Quizbestellung**—stattdessen sind sie alphabetisch nach Label sortiert.
+- **Die Antwortfelder sind nicht in Quizbestellung** — stattdessen sind sie alphabetisch nach Label sortiert.
 - Spieler müssen ihre Antworten auf die richtigen Felder (z.B. die Antwort auf die Frage "Bär" muss unter dem Label "B" eingegeben werden).
-- Antworten können jederzeit bis zum Ende der Runde geändert werden – Spieler können Antworten zwischen Feldern wechseln, während sie ihre Fehler erkennen.
+- Antworten können jederzeit bis zum Ende der Runde geändert werden – Spieler können Antworten zwischen Feldern wechseln, wenn sie ihre Fehler erkennen.
 
 ---
 
