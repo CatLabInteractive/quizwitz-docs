@@ -15,7 +15,7 @@ An Activity round lets you step away from standard quiz questions for a creative
 
 ## 🏆 How it works
 
-- **Challenge Description:** The round begins with a description of the activity (e.g., "Fold a paper plane and throw it as far as possible, furthest wins!").
+- **Challenge Description:** The round begins with a description of the activity (e.g., “Fold a paper plane and throw it as far as possible. Furthest wins!”).
 - **Team/Player Selection:** The quizmaster selects which teams or players will participate in the activity.
   - **Random selection ensures every team is drawn an equal number of times throughout the quiz.** So if you have 40 teams and 10 activity rounds with 4 teams each, every team will be selected exactly once.
 - **Timer & Tools:** Start a timer and use sound effects (like buzzer or bells) to manage the challenge.
