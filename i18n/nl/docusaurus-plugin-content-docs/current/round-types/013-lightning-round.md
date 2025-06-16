@@ -32,6 +32,7 @@ Zie [ronde-opties](../editor/008-round-options.md) voor details over het instell
 ## 🎵 Bijlagen — Aftel muziek
 
 - Je kunt een **ronde-bijlage** instellen in het vakje “Afspelen tijdens de aftelling van de vraag.”\
+  Je kunt een **ronde-bijlage** instellen in het vakje “Afspelen tijdens de aftelling van de vraag.”\
   Deze audio-bijlage speelt **continu continu** als aftelmuziek tijdens de hele flitsronde, en stopt pas na de laatste vraag.
 - Gebruik energieke of spannende muziek om de opwinding te vergroten en de spelers alert te houden.
 
