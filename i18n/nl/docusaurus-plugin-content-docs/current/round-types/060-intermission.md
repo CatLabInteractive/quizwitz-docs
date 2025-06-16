@@ -12,8 +12,8 @@ title: Pauze
 ## 📝 Hoe het werkt
 
 - Tijdens een pauze wordt het hoofdspel gepauzeerd en wordt een timer weergegeven.
-- **In conference and party games:**\
-  The intermission ends when someone presses **Enter** on the main game screen.
+- **In conference- en partyspellen:**\
+  De pauze eindigt wanneer iemand op **Enter** drukt op het hoofdscherm van het spel.
 - **In QuizWitz Live games:**\
   De quizmaster beëindigt de interactie van hun apparaat (tablet of smartphone).\
   De Quizmaster app toont een timer zodat de host kan zien hoe lang de pauze duurt.
