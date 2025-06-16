@@ -24,6 +24,7 @@ Vanaf het hoofdmenu:
 
 Geef je quiz een titel en kies de hoofdtaal.\
 Geef je quiz een titel en kies de hoofdtaal.\
+Geef je quiz een titel en kies de hoofdtaal.\
 Je kunt later **vertalingen** toevoegen als dat nodig is — je hoeft niet meteen alles vast te leggen.
 
 ---
