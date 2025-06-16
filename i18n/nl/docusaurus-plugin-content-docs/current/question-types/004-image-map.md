@@ -17,6 +17,7 @@ Bij een **afbeeldingskaart** vraag moeten spelers de juiste plek (of plekken) op
 
 - **Vraag:** Geef duidelijk aan wat spelers op de afbeelding moeten vinden.\
   _(Voorbeeld: “Selecteer de Erlenmeyer-kolf.”)_\
+  _(Voorbeeld: “Selecteer de Erlenmeyer-kolf.”)_\
   _(Voorbeeld: “Selecteer de Erlenmeyer-kolf.”)_
 - **Afbeelding:** Upload een afbeelding van hoge kwaliteit die aan alle spelers wordt getoond.
 - **Antwoordpunten:** Bepaal een of meer **doelgebieden** (“punten”) op de afbeelding. Elk gebied kan worden ingesteld als een cirkel of een andere vorm, waarbij jij de positie en grootte bepaalt.
@@ -43,6 +44,8 @@ Zie [vragen schrijven](../editor/005-writing-questions.md) voor algemene vraagin
 ## ⏱️ Op tijd gebaseerde scoring
 
 **Op tijd gebaseerde scoring is standaard ingeschakeld.** Spelers die snel antwoorden verdienen meer punten, maar er is altijd een vast onderdeel (standaard: 75%) voor een correct antwoord. Slechts 25% van de totaalscore wordt beïnvloed door hoe snel je antwoordt.\
+Je kunt de op tijd gebaseerde scoring voor dit vraagtype uitschakelen als je dat wilt.\
+Slechts 25% van de totaalscore wordt beïnvloed door hoe snel je antwoordt.\
 Je kunt de op tijd gebaseerde scoring voor dit vraagtype uitschakelen als je dat wilt.\
 Je kunt de op tijd gebaseerde scoring voor dit vraagtype uitschakelen als je dat wilt.
 
