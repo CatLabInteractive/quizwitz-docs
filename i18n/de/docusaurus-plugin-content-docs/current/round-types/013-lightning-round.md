@@ -33,6 +33,8 @@ Siehe [runde Optionen](../editor/008-round-options.md) für Details zur Konfigur
 
 - Du kannst einen **Round Attachment** im Slot “Play during question countdown” einrichten.\
   Dieser Audio-Anhang wird während der gesamten Blitzrunde **kontinuierlich** als Countdown-Musik abgespielt, der erst nach der letzten Frage anhält.\
+  Du kannst einen **Round Attachment** im Slot “Play during question countdown” einrichten.\
+  Dieser Audio-Anhang wird während der gesamten Blitzrunde **kontinuierlich** als Countdown-Musik abgespielt, der erst nach der letzten Frage anhält.\
   Dieser Audio-Anhang wird während der gesamten Blitzrunde **kontinuierlich** als Countdown-Musik abgespielt, der erst nach der letzten Frage anhält.
 - Verwenden Sie energetische oder angespannte Musik, um die Spannung zu steigern und die Spieler auf dem Laufenden zu halten.
 
