@@ -59,6 +59,7 @@ Algunas ranuras permiten añadir **múltiples archivos adjuntos**. La forma en q
 
 > ⚡ **En [Prueba Witz Live (PRO)](../quizmaster/001-introduction.md):** El cuestionario tiene control total y puede decidir cuándo mostrar u ocultar archivos adjuntos durante el juego.\
 > 🎮 **En juegos normales:** Todos los archivos adjuntos dentro de una ranura se muestran de forma **simultánea**.\
+> 🎮 **En juegos normales:** Todos los archivos adjuntos dentro de una ranura se muestran de forma **simultánea**.\
 > 🎮 **En juegos normales:** Todos los archivos adjuntos dentro de una ranura se muestran de forma **simultánea**.
 
 Los detalles sobre el tiempo y el comportamiento de cada ranura se pueden encontrar en la documentación vinculada para [questions](../editor/015-importing-questions.md), [rounds](../editor/008-round-options.md), y [quizzes](../editor/007-quiz-options.md).
