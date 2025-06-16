@@ -1,6 +1,6 @@
 ---
 id: theming
-title: Design
+title: "Design"
 ---
 
 # Design
