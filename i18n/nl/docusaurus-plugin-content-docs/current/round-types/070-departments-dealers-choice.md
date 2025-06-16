@@ -1,11 +1,11 @@
 ---
 id: departments-dealers-choice
-title: Afdeling Dealer's Choice
+title: Afdeling Dealer's Keuze
 ---
 
-# 🏢 Afdeling Dealer’s Choice
+# 🏢 Afdeling Dealer’s Keuze
 
-**Afdeling Dealer’s Choice** is een interactief rondetype waarbij spelers uit een specifieke afdeling om de beurt de volgende categorie of vraag kiezen.
+**Afdeling Dealer’s Keuze** is een interactief rondetype waarbij spelers uit een specifieke afdeling om de beurt de volgende categorie of vraag kiezen.
 
 ---
 
@@ -25,10 +25,9 @@ title: Afdeling Dealer's Choice
   - Hoogst gerangschikt eerst
   - Willekeurig
 - **Dealer afdeling:**
-  - _Only dealer may play_ — Only the selected dealer answers the question
-  - _All players in dealer’s department may play_ — Everyone in the department can answer and score points
-- **Dealer bonus:**\
-  Set a bonus percentage for the dealer (if enabled).
+  - _Alleen dealer mag spelen_ - Alleen de geselecteerde dealer beantwoordt de vraag
+  - _Alle spelers in de afdeling van de dealer kunnen spelen_ — Iedereen in de afdeling kan antwoorden en punten scoren
+- **Dealerbonus:** Stel een bonuspercentage in voor de dealer (indien ingeschakeld).
 
 ---
 
@@ -39,11 +38,5 @@ title: Afdeling Dealer's Choice
 
 ---
 
-For classic Dealer’s Choice rules, see [Dealer’s Choice](024-dealers-choice.md).\
-For more team game options, check [Round options](../editor/008-round-options.md).\
-For classic Dealer’s Choice rules, see [Dealer’s Choice](024-dealers-choice.md).\
-For more team game options, check [Round options](../editor/008-round-options.md).\
-Voor meer teamspelopties, bekijk [Round options](../editor/008-round-options.md).\
-For classic Dealer’s Choice rules, see [Dealer’s Choice](024-dealers-choice.md).\
-For more team game options, check [Round options](../editor/008-round-options.md).\
+Voor klassieke Dealer’s Keuze-regels, zie [Dealer’s Keuze](024-dealers-choice.md).\
 Voor meer teamspelopties, bekijk [Round options](../editor/008-round-options.md).
