@@ -7,6 +7,7 @@ name: Rundungstypen
 
 Der runde Typ beeinflusst die Art und Weise, wie das Spiel die Fragen an die Spieler zeigt – und wie die Spieler Punkte sammeln.\
 In den Quiz kannst du den runden Typ im Feld **Rundungstyp** in der oberen Bildschirmmitte ändern.\
+In den Quiz kannst du den runden Typ im Feld **Rundungstyp** in der oberen Bildschirmmitte ändern.\
 In den Quiz kannst du den runden Typ im Feld **Rundungstyp** in der oberen Bildschirmmitte ändern.
 
 ## 🧠 Reguläre Runden
@@ -27,6 +28,7 @@ Diese Runden bieten etwas mehr Interaktivität als einfache Fragen und Antworten
 ## :beer_beer_mug: Traditionell
 
 Für alle, die traditionelle Pub-Quizze organisieren wollen, wo Spieler ihre Antworten bis zum Ende der Runde ändern können.\
+Diese runden Typen simulieren nach jeder Runde "Handing in die Papiere".\
 Diese runden Typen simulieren nach jeder Runde "Handing in die Papiere".\
 Diese runden Typen simulieren nach jeder Runde "Handing in die Papiere".
 
