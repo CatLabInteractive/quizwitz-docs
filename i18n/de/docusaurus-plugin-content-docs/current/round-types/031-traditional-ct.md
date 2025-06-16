@@ -6,7 +6,7 @@ title: Traditionell (CT)
 # Thread: Traditionell – Gemeinsamer Thread
 
 Eine **Traditionelle - Gewöhnliche Thread** Runde funktioniert wie eine [traditionelle Runde](030-traditional.md), aber mit einer Drehung:\
-Am Ende der Runde ist die **letzte Frage** („Was war der gemeinsame Thread?“) wird zuerst ausgewertet und angezeigt. Dadurch kann der Quizmaster die Verbindung hervorheben bevor die anderen Antworten aufgedeckt werden.
+Am Ende der Runde ist die **letzte Frage** („Was war der gemeinsame Thread?“) wird zuerst ausgewertet und angezeigt. wird zuerst ausgewertet und angezeigt. Dadurch kann der Quizmaster die Verbindung hervorheben bevor die anderen Antworten aufgedeckt werden.
 
 ---
 

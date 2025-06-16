@@ -30,7 +30,7 @@ Een **lijstvraag** vraagt spelers om meerdere correcte antwoorden te geven uit e
 - **Punten per antwoord:** Punten kunnen per correct antwoord worden toegekend, of alleen wanneer het minimum aantal is behaald.
 - **Gegeven opties:** Gebruik als voorbeelden in de vraag.
 - **Correctie:**
-  - **Forceer automatische correctie:** Als ingeschakeld, controleert QuizWitz automatisch alle antwoorden (met acceptatie van kleine typefouten en variaties). Geen jury nodig.
+  - **Forceer automatische correctie:** Wanneer ingeschakeld, controleert QuizWitz automatisch alle antwoorden (kleine typos en variaties accepteren). Geen jury nodig.
   - **Handmatige beoordeling:** Als niet ingeschakeld, moet elk gegeven antwoord worden beoordeeld door de [jury app](../quizmaster/004-jury-app.md).
 
 ---
@@ -38,24 +38,12 @@ Een **lijstvraag** vraagt spelers om meerdere correcte antwoorden te geven uit e
 ## 🏆 Score
 
 - **Punten per correct antwoord:** Spelers verdienen punten voor elk correct antwoord.
-- **Time-based scoring** (if enabled):\
+- **Time-based scoring** (if enabled):
   Follows the **open question rules** for fairness:
-  - The available points are split into blocks of time (not by the millisecond).\
-    The available points are split into blocks of time (not by the millisecond).\
-    For example: full points in the first block, 80% in the next, and so on.\
-    De beschikbare punten zijn verdeeld in tijdsblokken (niet per milliseconde).\
-    The available points are split into blocks of time (not by the millisecond).\
-    For example: full points in the first block, 80% in the next, and so on.\
-    De beschikbare punten zijn verdeeld in tijdsblokken (niet per milliseconde).\
-    The available points are split into blocks of time (not by the millisecond).\
-    For example: full points in the first block, 80% in the next, and so on.
+  - De beschikbare punten zijn verdeeld in tijdsblokken (niet per milliseconde).\
+    Bijvoorbeeld: volle punten in het eerste blok, 80% in het volgende, enzovoort.
   - **Slechts 25%** van de punten is afhankelijk van snelheid.\
-    **Only 25%** of the points depend on speed.\
-    The other **75%** is fixed — so even slower typers get most of the points if they answer correctly.\
-    **Only 25%** of the points depend on speed.\
-    The other **75%** is fixed — so even slower typers get most of the points if they answer correctly.\
-    **Only 25%** of the points depend on speed.\
-    The other **75%** is fixed — so even slower typers get most of the points if they answer correctly.
+    De andere **75%** is vast gezet - dus ook langzame typers krijgen het meeste deel van de punten als ze correct antwoorden.
   - Dit vermindert de straf voor typsnelheid en maakt het scoren eerlijker voor iedereen.
 
 Voor details, zie [ronde score opties](../editor/008-round-options.md#scoring).

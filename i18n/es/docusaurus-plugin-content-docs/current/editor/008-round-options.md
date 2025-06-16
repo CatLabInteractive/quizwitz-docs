@@ -5,7 +5,7 @@ title: Opciones de ronda
 
 # 🔄 Opciones de ronda
 
-Cada ronda tiene un **tipo** específico. El valor por defecto es **Opción Múltiple (Trivia)**, pero no dude en probar y experimentar con todos los tipos disponibles. Esta página explica los ajustes y archivos adjuntos que puede configurar por ronda.
+Cada ronda tiene un **tipo** específico. El valor por defecto es **Trivia**, pero te invitamos a probar y experimentar con todos los tipos disponibles. Esta página explica los ajustes y archivos adjuntos que puede configurar por ronda.
 
 📘 Para una visión detallada de todos los tipos de ronda, visita la [documentación de tipos de rondas](../round-types/000-round-types.md).
 
@@ -44,9 +44,9 @@ IraqWitz ofrece puntuación flexible para mantener las cosas justas y atractivas
 
 - **Puntuación basada en el tiempo** — Los jugadores ganan más puntos para obtener respuestas más rápidas.
   - Para la mayoría de los tipos de preguntas, los puntos basados en el tiempo disminuyen **continuamente por microsegundo**: cuanto más rápido responda, más puntos anota.
-  - Para **sólo preguntas abiertas**, los puntos basados en el tiempo se dividen en bloques. Por ejemplo: las respuestas en el primer bloque (por ejemplo, los primeros segundos) ganan **100%** de la porción basada en el tiempo, el siguiente bloque gana **80%**, y así sucesivamente. Esto ayuda a nivelar el campo de juego para los tiradores más lentos.
+  - Para **preguntas abiertas**, los puntos basados en el tiempo se dividen en bloques. Por ejemplo: las respuestas en el primer bloque (por ejemplo, los primeros segundos) ganan **100%** de la porción basada en el tiempo, el siguiente bloque gana **80%**, y así sucesivamente. Esto ayuda a nivelar el campo de juego para los tiradores más lentos.
 
-- **Porcentaje fijo de puntos en puntuación basada en el tiempo** — Controla la cantidad de la puntuación total influenciada por la velocidad.
+- **Porcentaje fijo de puntos en la puntuación basada en el tiempo** — Controla la cantidad de la puntuación total influenciada por la velocidad.
   - De forma predeterminada, el **75%** de los puntos son arreglados (todos los que responden correctamente obtienen estos puntos, independientemente de la velocidad).
   - Sólo el **25%** restante está influenciado por la rapidez con la que responden los jugadores.
 

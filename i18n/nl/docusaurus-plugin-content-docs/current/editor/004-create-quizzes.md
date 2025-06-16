@@ -23,43 +23,38 @@ Vanaf het hoofdmenu:
 ## ✏️ Titel en taal
 
 Geef je quiz een titel en kies de hoofdtaal.\
-Give your quiz a title and choose the main language.\
-You can add **translations** later if needed — no need to decide everything upfront.\
-Give your quiz a title and choose the main language.\
-You can add **translations** later if needed — no need to decide everything upfront.\
-Give your quiz a title and choose the main language.\
-You can add **translations** later if needed — no need to decide everything upfront.
+Je kunt later **vertalingen** toevoegen als dat nodig is — je hoeft niet meteen alles vast te leggen.
 
 ---
 
 ## ➕ Ronden en vragen toevoegen
 
-Klik op **Add new round** om te beginnen met het maken van je quiz. Elke ronde kan zijn eigen instellingen en structuur hebben.
+Klik op **Nieuwe ronde toevoegen** om te beginnen met het bouwen van je quiz. Elke ronde kan zijn eigen instellingen en structuur hebben.
 
 Aan de linkerzijbalk kun je:
 
 - De ronde een naam geven
 - Een categorie kiezen
-- [Import questions](../editor/import-questions) in bulk
+- [Vragen importeren](../editor/import-questions)
 
 ![Nieuwe ronde maken in quiz](/images/quiz-add-round.png)
 
-In de hoofd-editor kun je:
+In de hoofdeditor kun je:
 
 - Individuele vragen toevoegen en bewerken
 - Ronden of vragen herschikken met de **pijltjestoetsen**
 - Ronden of vragen verwijderen met het **prullenbak-icoon**
 
-> 💡 Gebruik de **Import questions** tool om snel meerdere vragen tegelijk toe te voegen. Just follow the on-screen instructions and [check that everything imported correctly](../editor/import-questions).
+> 💡 Gebruik de **Import questions** tool om snel meerdere vragen tegelijk toe te voegen. Volg de instructies op het scherm en [controleer of alles correct is geïmporteerd](../editor/015-importing-questions.md).
 
 ---
 
 ## ⚙️ Ronde-instellingen
 
-Elke ronde kan zijn eigen regels en format hebben. Lees meer in de geavanceerde gidsen:
+Elke ronde kan zijn eigen regels en format hebben. Leer meer in de gevorderde handleidingen:
 
 - [Rondetypes](../round-types/000-round-types.md) — Configureer hoe een ronde werkt (bijv. bliksemsnelle ronde, puzzelronde)
-- [Vraagtypes](../question-types/000-question-types.md) — Pas het formaat en de score aan voor elke vraag
+- [Vraagtypes](../question-types/000-question-types.md) — Pas het format en de score aan voor elke vraag
 
 ---
 
@@ -83,9 +78,9 @@ Als je klaar bent om je quiz te testen of te starten, druk je op de knop **Start
 
 ![Quiz playlinks](/images/quiz-playlinks.png)
 
-- **[Play Party Game](../players/playing)** — A casual quiz experience to enjoy with friends on the same screen or via screenshare
-- **[Start QuizWitz Live (PRO)](../quizmaster/introduction)** — Launch a professional live quiz event using the Quizmaster App
-- **[Start Conference Mode (PRO)](../tutorials/conference-booth)** — Host a conference-style quiz for larger audiences with assigned seating, team codes, and production tools
+- **[Play Party Game](../players/001-playing-quizwitz.md)** — Een casual quizervaring om van te genieten met vrienden op hetzelfde scherm of via screensharing
+- **[Start QuizWitz Live (PRO)](../quizmaster/introduction)** — Start een professioneel live quiz-evenement met de Quizmaster App
+- **[Start Conference Mode (PRO)](../tutorials/conference-booth)** — Host een quiz in conferentiestijl voor grotere publieken met toegewezen Seats, teamcodes en productiehulpmiddelen
 
 ---
 
@@ -94,7 +89,7 @@ Als je klaar bent om je quiz te testen of te starten, druk je op de knop **Start
 Wil je een volledige quizrun simuleren? Gebruik de geavanceerde testtools:
 
 - **Simuleren** — Doe een test-playthrough met bots (zonder presentatie)
-- **Simulate Live** — Simulate a full [QuizWitz Live](../quizmaster/introduction) session with bots, including Quizmaster, Jury, and Player views
+- **Simuleer Live** — Simuleer een volledige [QuizWitz Live](../quizmaster/001-introduction.md) sessie met bots, inclusief Quizmaster-, Jury- en Spelersweergaven
 
 ---
 

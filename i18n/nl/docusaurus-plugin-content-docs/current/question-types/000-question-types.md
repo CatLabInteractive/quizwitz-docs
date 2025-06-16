@@ -14,20 +14,20 @@ Let op dat sommige rondetypes de vraagtypes beperken die je kunt gebruiken.
 
 Dit zijn de meest voorkomende vraagtypes. Ze zijn makkelijk te begrijpen en te spelen.
 
-- [Multiple choice](001-multiple-choice.md) (standaard)
-- [Order question](003-order-question.md)
-- [Image map question](004-image-map.md)
+- [Meerkeuzevraag](001-multiple-choice.md) (standaard)
+- [Volgordevraag](003-order-question.md)
+- [Afbeeldingsvraag](004-image-map.md)
 
 ## Open vragen
 
 Open vragen vereisen dat spelers hun antwoorden typen.
 
-- [Open question](002-open-question.md)
-- [List question](005-list-question.md)
+- [Open vraag](002-open-question.md)
+- [Lijstvraag](005-list-question.md)
 
 ## Specials
 
 Deze vragen maken het spel iets minder eerlijk, maar ze zorgen ervoor dat er altijd een winnaar is.
 
-- [Tiebreaker question](006-tiebreaker-question.md)
-- [Best answer question](007-best-answer-question.md)
+- [Schiftingsvraag](006-tiebreaker-question.md)
+- [Beste-antwoord vraag](007-best-answer-question.md)

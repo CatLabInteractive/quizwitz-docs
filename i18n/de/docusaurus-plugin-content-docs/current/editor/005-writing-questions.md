@@ -70,6 +70,7 @@ Sie können Fragen mit Bildern, Videos oder Audio erweitern. Jeder Anhang kann a
 Du kannst in jedem Slot **mehrere Anhänge** hinzufügen.
 
 > ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** der Quizmaster kann wählen, welcher Anhang in jedem Moment angezeigt werden soll.\
+> 🎮 **In regulären Spielen:** werden alle Anhänge in einem bestimmten Slot auf einmal angezeigt.\
 > 🎮 **In regulären Spielen:** werden alle Anhänge in einem bestimmten Slot auf einmal angezeigt.
 
 📘 Erfahren Sie mehr über unterstützte Dateitypen, Timing-Tipps und Einschränkungen in der [Anhangs-Anleitung](../editor/006-attachments.md).

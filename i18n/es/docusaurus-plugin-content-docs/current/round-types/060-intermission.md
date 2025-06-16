@@ -14,7 +14,7 @@ La **Intermisión** es una ronda de eventos especiales que pausa el cuestionario
 - Durante una intermisión, la pantalla principal del juego está pausada y se muestra un temporizador.
 - **En juegos de conferencias y fiestas:**\
   La intermisión termina cuando alguien presiona **Entrar** en la pantalla principal del juego.
-- **En los juegos Witz en vivo:**La aplicación de prueba muestra un temporizador para que el host pueda ver cuánto tiempo ha durado la intermisión.
+- **En los juegos Witz en vivo:**\*\*En los juegos Witz en vivo:\*\*La aplicación de prueba muestra un temporizador para que el host pueda ver cuánto tiempo ha durado la intermisión.
 
 ---
 

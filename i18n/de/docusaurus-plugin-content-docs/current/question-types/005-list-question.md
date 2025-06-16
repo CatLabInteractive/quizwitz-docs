@@ -41,8 +41,10 @@ Eine **Listenfrage** bittet die Spieler, mehrere richtige Antworten aus einer gr
 - **Zeitbasierte Scoring** (falls aktiviert):\
   folgt den **offenen Frageregeln** für Fairness:
   - Die verfügbaren Punkte werden in Zeitblöcke aufgeteilt (nicht nach Millisekunden).\
+    Zum Beispiel: volle Punkte im ersten Block, 80% im nächsten Block, und so weiter.\
     Zum Beispiel: volle Punkte im ersten Block, 80% im nächsten Block, und so weiter.
   - **Nur 25%** der Punkte hängen von der Geschwindigkeit ab.\
+    **Nur 25%** der Punkte hängen von der Geschwindigkeit ab.\
     Die anderen **75%** sind fixiert — so erhalten auch langsamere Tipper die meisten Punkte, wenn sie richtig antworten.
   - Dies reduziert die Strafe für die Eingabe der Geschwindigkeit und macht das Scoring für alle gerechter.
 

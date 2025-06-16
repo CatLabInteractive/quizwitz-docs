@@ -5,7 +5,7 @@ title: Multiquestion
 
 # ❓ Multiquestion
 
-De **Multiquestion** ronde geeft spelers (of teams) de vrijheid om te kiezen welke vraag ze willen beantwoorden uit een reeks mogelijkheden. Dit maakt elke speelsessie uniek en geeft ruimte voor strategische keuzes!
+De **Multivragen** ronde geeft spelers (of teams) de vrijheid om te kiezen welke vraag ze willen beantwoorden uit een reeks mogelijkheden. Dit maakt elke speelsessie uniek en geeft ruimte voor strategische keuzes!
 
 ---
 
@@ -26,8 +26,8 @@ De **Multiquestion** ronde geeft spelers (of teams) de vrijheid om te kiezen wel
 - Je kunt vraagtypes en puntenwaarden binnen dezelfde groep mixen en matchen.
 - **Duur:** Hoewel je een andere timervermenigvuldiger per vraag kunt instellen, gebruikt het spel de hoogste waarde voor alle vragen in de groep (zodat niemand gehaast wordt).
 - **Bijlagen:**
-  - _Before question_ attachments from all options are combined into one view before players make their choice.
-  - _During question_ visible attachments are not shown, but audio still plays.
+  - _Voor vraag_ bijlagen van alle opties worden in één weergave gecombineerd voordat spelers hun keuze maken.
+  - Tijdens vragen\* worden zichtbare bijlagen niet getoond, maar wordt er nog steeds audio afgespeeld.
 
 ---
 

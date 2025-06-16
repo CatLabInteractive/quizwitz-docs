@@ -1,6 +1,6 @@
 ---
 id: dealers-choice
-title: Keuze van de dealer
+title: Dealers' keuze
 ---
 
 # 🃏 Keuze van de dealer
@@ -14,7 +14,7 @@ Een van de spelers mag **de volgende vraagcategorie kiezen**, wat hen een potent
 
 In deze ronde wordt **één speler de "dealer"** en kiest hij of zij de volgende categorie om te spelen. De methode van keuze hangt af van de spelmodus:
 
-- **Feest-/Conferentiespel:** De dealer kiest een categorie via **zijn of haar eigen smart device**.
+- **Party-/Conferentiespel:** De dealer kiest een categorie via **zijn of haar eigen smart device**.
 - **Live spel:** De dealer **maakt zijn keuze mondeling bekend** aan de quizmaster.
 
 ---
@@ -73,5 +73,5 @@ Voordat de ronde begint, bepaalt QuizWitz de dealer met een van deze opties:
 
 ---
 
-De Dealers’ Choice ronde stimuleert interactie en geeft spelers wat controle, terwijl het toch snelle en juiste antwoorden beloont. Het is een geweldige manier om iedereen betrokken te houden!
+De Dealers’ Keuze ronde stimuleert interactie en geeft spelers wat controle, terwijl het toch snelle en juiste antwoorden beloont. Het is een geweldige manier om iedereen betrokken te houden!
 

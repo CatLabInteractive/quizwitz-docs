@@ -6,6 +6,7 @@ title: Beste antwoord vraag
 # 🎖️ Beste antwoord vraag
 
 In gewone spellen (zonder host) stemmen spelers op het antwoord dat zij het beste vinden.\
+Het antwoord/de antwoorden met de meeste stemmen krijgen de punten.\
 Het antwoord/de antwoorden met de meeste stemmen krijgen de punten.
 
 ---
@@ -28,4 +29,4 @@ Het antwoord/de antwoorden met de meeste stemmen krijgen de punten.
 
 ---
 
-> 📚 Voor meer over hoe stemmen of handmatige puntentelling werkt, zie de [Jury app documentatie](../quizmaster/004-jury-app.md).
+> 📚 Zie [Jury app documentatie] voor meer over hoe stemmen of handmatig scoren (../quizmaster/004-jury-app.md).

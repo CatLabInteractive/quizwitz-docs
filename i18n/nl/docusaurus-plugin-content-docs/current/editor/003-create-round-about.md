@@ -28,9 +28,9 @@ Begin met je Round-About een duidelijke te geven:
 - **Taal** — de taal waarin je vragen zijn geschreven
 - **Categorie** — helpt spelers je Round-About later terug te vinden
 
-> 🔒 Je hoeft je Round-About niet te publiceren om hem te spelen. Houd het privé of publiceer het als je klaar bent om te delen.
+> 🔒 Je hoeft je Round-About niet te publiceren om hem te spelen. Houd de Round-About privé of publiceer het als je klaar bent om te delen.
 
-![QuizWitz maak round](/images/create-round.png)
+![QuizWitz ronde editor](/images/create-round.png)
 
 ---
 
@@ -42,7 +42,7 @@ Klik op **Nieuwe vraag toevoegen** om te beginnen met het maken van je quizinhou
 - Sla je voortgang regelmatig op
 - Je kunt je Round-About op elk moment testen en spelen
 
-> 📢 **Om je Round-About te publiceren** heb je **minstens 14 vragen** nodig. Eenmaal gepubliceerd, wordt het zichtbaar voor de hele QuizWitz community — maar je kunt het later weer unpubliceren als dat nodig is.
+> 📢 **Om je Round-About te publiceren** heb je **minstens 14 vragen** nodig. Eenmaal gepubliceerd, wordt het zichtbaar voor de hele QuizWitz community — maar je kunt het later weer onpubliceren als dat nodig is.
 
 Wil je vragen in bulk toevoegen? Gebruik de functie **Vragen importeren** en volg de instructies om alles correct te formatteren.
 
