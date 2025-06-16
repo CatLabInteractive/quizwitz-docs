@@ -5,7 +5,8 @@ title: Alfabeto
 
 # 🔤 Alfabeto
 
-Una ronda de **alfabeto** es una ronda de estilo tradicional con un giro — cada pregunta tiene una etiqueta única, y los jugadores deben emparejar sus respuestas a los campos etiquetados correctamente. ¡Esta ronda recompensa tanto el conocimiento como la deducción!
+Una ronda de **Alfabe** es una [ronda tradicional](030-traditional.md) con un giro — cada pregunta se le asigna una etiqueta única,
+y los jugadores deben emparejar sus respuestas a los campos etiquetados correctamente. ¡Esta ronda recompensa tanto el conocimiento como la deducción!
 
 ---
 
@@ -26,8 +27,8 @@ Una ronda de **alfabeto** es una ronda de estilo tradicional con un giro — cad
 
 ## 📝 Cómo funciona
 
-- A medida que se hacen preguntas, los jugadores ven una lista de campos de respuesta—una para cada pregunta.
-- **Los campos de respuesta no están en orden de cuestionario**—en cambio, están ordenados alfabéticamente por etiqueta.
+- A medida que se hacen preguntas, los jugadores ven una lista de campos de respuesta — una para cada pregunta.
+- **Los campos de respuesta no están en orden de cuestionario** — en cambio, están ordenados alfabéticamente por etiqueta.
 - Los jugadores deben coincidir con sus respuestas a los campos etiquetados correctos (por ejemplo, la respuesta para la pregunta "Oso" debe introducirse bajo la etiqueta "B").
 - Las respuestas pueden cambiarse en cualquier momento hasta que la ronda termine. Los jugadores pueden cambiar las respuestas entre los campos mientras se dan cuenta de sus errores.
 
