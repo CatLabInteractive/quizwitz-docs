@@ -15,6 +15,8 @@ Dieses Tutorial zeigt Ihnen, wie Sie QuizWitz auf Ihrem Konferenzstand betreiben
 
 Wenn Sie ein Quiz für einen Konferenzstand erstellen, sollten Sie bedenken, dass einige Spieler mehrere Spiele spielen können.\
 Um die Dinge frisch zu halten, stelle sicher, dass du viele Fragen hast – genug, um jedes Spiel zufällig zu machen und einzigartig zu machen.\
+Wenn Sie ein Quiz für einen Konferenzstand erstellen, sollten Sie bedenken, dass einige Spieler mehrere Spiele spielen können.\
+Um die Dinge frisch zu halten, stelle sicher, dass du viele Fragen hast – genug, um jedes Spiel zufällig zu machen und einzigartig zu machen.\
 Um die Dinge frisch zu halten, stelle sicher, dass du viele Fragen hast – genug, um jedes Spiel zufällig zu machen und einzigartig zu machen.
 
 **Empfohlene Einricht:**
