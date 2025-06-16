@@ -35,7 +35,7 @@ Le temps n'affecte qu'une partie du score.\
 Le temps n'affecte qu'une partie du score.\
 Vous pouvez également désactiver le pointage basé sur le temps par question uniquement pour les points fixes.
 
-Voir [Options de cotation dans les paramètres de la ronde](../editor/008-round-options.md#-scoring-options) pour plus de détails.
+Voir [Options de cotation dans les paramètres de la ronde](../editor/008-round-options.md#scoring) pour plus de détails.
 
 ---
 

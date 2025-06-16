@@ -34,7 +34,7 @@ Schnellere richtige Antworten verdienen mehr Punkte, aber die meisten Punkte sin
 Die Zeit wirkt sich nur auf einen Teil der Punktzahl aus.\
 Sie können die zeitbasierte Punktzahl pro Frage auch nur für feste Punkte ausschalten.
 
-Siehe [Sortieroptionen in runden Einstellungen](../editor/008-round-options.md#-scoring-options) für Details.
+Siehe [Sortieroptionen in runden Einstellungen](../editor/008-round-options.md#scoring) für Details.
 
 ---
 

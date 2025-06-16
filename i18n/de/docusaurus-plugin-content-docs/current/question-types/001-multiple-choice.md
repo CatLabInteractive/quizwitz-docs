@@ -28,7 +28,7 @@ Multiple-Choice-Fragen verwenden standardmäßig **Zeitbasierte Scoring** : schn
 **Du kannst auch die zeitbasierte Punktzahl pro Frage deaktivieren** wenn du möchtest, dass alle korrekten Antworten die gleiche Punktzahl erhalten.\
 Sie können diesen Saldo in den runden Einstellungen weiter anpassen.
 
-Siehe [Sortieroptionen in runden Einstellungen](../editor/008-round-options.md#-scoring-options) für alle Details.
+Siehe [Sortieroptionen in runden Einstellungen](../editor/008-round-options.md#scoring) für alle Details.
 
 ---
 

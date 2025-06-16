@@ -33,7 +33,7 @@ Snellere juiste antwoorden verdienen meer punten, maar het grootste deel van de 
 Tijd beïnvloedt slechts een deel van de score.\
 Je kunt de tijdgebaseerde score per vraag ook uitschakelen zodat er alleen vaste punten worden toegekend.
 
-Zie [Puntenopties in ronde-instellingen](../editor/008-round-options.md#-scoring-options) voor details.
+Zie [Puntenopties in ronde-instellingen](../editor/008-round-options.md#scoring) voor details.
 
 ---
 
