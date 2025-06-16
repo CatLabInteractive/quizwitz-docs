@@ -30,11 +30,15 @@ Einmal gestartet, wird dein Bildschirm einen **Master Code** anzeigen. **Teilen 
 - We recommend a **tablet or smartphone** for mobility, but a laptop works too.\
   ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)\
   ![QuizWitz PRO Connect screen](/images/quizwitz-pro-connect-token.png)\
+  We recommend a **tablet or smartphone** for mobility, but a laptop works too.\
+  ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)\
+  ![QuizWitz PRO Connect screen](/images/quizwitz-pro-connect-token.png)\
   ![QuizWitz PRO Connect screen](/images/quizwitz-pro-connect-token.png)
 
 Nach der Verbindung verschwindet der Master Code vom Bildschirm. Du bist jetzt bereit, den Hauptbildschirm auf einem Projektor zu zeigen oder deinen Livesystem zu starten.
 
 > \* Wenn der Spielbildschirm (Hauptanzeigen) nicht aktiv im Fokus ist — zum Beispiel wenn Sie Tabs wechseln oder minimieren — das Spiel wird **automatisch pausieren**.\
+> Wenn das passiert:\
 > Wenn das passiert:\
 > Wenn das passiert:
 >
