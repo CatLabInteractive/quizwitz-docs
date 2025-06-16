@@ -15,6 +15,8 @@ Ce tutoriel vous montrera comment organiser QuizWitz sur votre stand de confére
 
 Lors de la construction d'un quiz pour une cabine de conférence, gardez à l'esprit que certains joueurs peuvent rester sur place pour plusieurs jeux.\
 Pour garder les choses fraîches, assurez-vous d'avoir suffisamment de questions — suffisamment pour être aléatoire et rendre chaque jeu unique.\
+Lors de la construction d'un quiz pour une cabine de conférence, gardez à l'esprit que certains joueurs peuvent rester sur place pour plusieurs jeux.\
+Pour garder les choses fraîches, assurez-vous d'avoir suffisamment de questions — suffisamment pour être aléatoire et rendre chaque jeu unique.\
 Pour garder les choses fraîches, assurez-vous d'avoir suffisamment de questions — suffisamment pour être aléatoire et rendre chaque jeu unique.
 
 **Configuration recommandée :**
@@ -68,7 +70,9 @@ Une fois la partie terminée, appuyez sur la touche Entrée pour revenir directe
 
 Vous voulez plus de contrôle ?\
 Vous voulez plus de contrôle ?\
+Vous voulez plus de contrôle ?\
 Choisissez **Options de jeu avancées** et sélectionnez **Mode de conférence** dans le sélecteur de mode.\
+Vous obtiendrez un lien unique avec toutes les options que vous avez choisies.\
 Vous obtiendrez un lien unique avec toutes les options que vous avez choisies.\
 Vous obtiendrez un lien unique avec toutes les options que vous avez choisies.
 
@@ -82,6 +86,7 @@ Vous obtiendrez un lien unique avec toutes les options que vous avez choisies.
 
 ## 🎨 Theming
 
+Vous voulez faire correspondre le jeu à la marque de votre stand ?\
 Vous voulez faire correspondre le jeu à la marque de votre stand ?\
 Vous voulez faire correspondre le jeu à la marque de votre stand ?\
 Consultez notre [guide thématique] (../advanced/011-emerald-theme.md) pour des conseils sur la personnalisation de votre expérience QuizWitz.
