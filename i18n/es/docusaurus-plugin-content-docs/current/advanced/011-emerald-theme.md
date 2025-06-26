@@ -59,7 +59,7 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 Cuando comiences el cuestionario anterior, el juego estará en el estilo predeterminado de Esmeralda. Vamos a cambiar eso.
 
 :::tip
-La forma más fácil de experimentar con estos parámetros es usando nuestro test de temas.\
+La forma más fácil de experimentar con estos parámetros es usando nuestro [test de temas](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).\
 La forma más fácil de experimentar con estos parámetros es usando nuestro test de temas.\
 La forma más fácil de experimentar con estos parámetros es usando nuestro test de temas.\
 Cuando termines de experimentar, puedes copiar — pegar los parámetros a la URL de tus opciones de juego avanzadas.

@@ -59,6 +59,7 @@ https://play.quizwitz.com/11486:gFUFUFh7i/emerald-theme-tutorial-default
 Wenn Sie das obige Quiz starten, wird das Spiel im voreingestellten Smaragdstil sein. Lassen Sie uns das ändern.
 
 :::tip
+Der einfachste Weg, mit diesen Parametern zu experimentieren, ist die Verwendung unseres [Thementester](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).\
 Der einfachste Weg, mit diesen Parametern zu experimentieren, ist die Verwendung unseres Thementester.\
 Der einfachste Weg, mit diesen Parametern zu experimentieren, ist die Verwendung unseres Thementester.\
 Der einfachste Weg, mit diesen Parametern zu experimentieren, ist die Verwendung unseres Thementester.\

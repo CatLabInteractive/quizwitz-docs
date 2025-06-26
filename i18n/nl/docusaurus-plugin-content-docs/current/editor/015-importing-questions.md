@@ -1,13 +1,13 @@
 ---
 id: import-questions
-title: Importeer vragen
+title: Vragen importeren
 ---
 
 # 📥 Vragen importeren
 
 Er zijn twee manieren om snel vragen toe te voegen aan een ronde in QuizWitz:
 
-- Importeer bestaande content uit de **QuizWitz Library**
+- Importeer bestaande inhoud uit de **QuizWitz Bibliotheek**
 - Plak een lijst vragen vanuit een **spreadsheet**
 
 Beide opties zijn toegankelijk binnen elke ronde.

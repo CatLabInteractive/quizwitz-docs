@@ -6,6 +6,7 @@ title: La meilleure réponse à la question
 # 🎖️ Meilleure question de réponse
 
 Dans les jeux réguliers (pas d'hôte), les joueurs votent pour la réponse qu'ils pensent être la meilleure.\
+Les réponses avec le plus de votes obtiennent les points.\
 Les réponses avec le plus de votes obtiennent les points.
 
 ---

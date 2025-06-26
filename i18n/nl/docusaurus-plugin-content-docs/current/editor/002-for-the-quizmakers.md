@@ -6,7 +6,6 @@ title: Inleiding
 # 🛠️ Gids voor quizmakers
 
 Welkom bij de gids voor quizmakers!\
-Welkom bij de gids voor quizmakers!\
 Op QuizWitz kun je je eigen quizinhoud maken en organiseren — of inhoud verzamelen en remixen die door anderen is gemaakt.
 
 ---

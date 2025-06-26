@@ -44,8 +44,14 @@ Une **question de liste** demande aux joueurs de fournir plusieurs réponses cor
     Par exemple: points complets dans le premier bloc, 80% dans le suivant, etc.\
     Les points disponibles sont divisés en blocs de temps (pas en millisecondes).\
     Par exemple: points complets dans le premier bloc, 80% dans le suivant, etc.\
+    Par exemple: points complets dans le premier bloc, 80% dans le suivant, etc.\
+    Les points disponibles sont divisés en blocs de temps (pas en millisecondes).\
+    Par exemple: points complets dans le premier bloc, 80% dans le suivant, etc.\
     Par exemple: points complets dans le premier bloc, 80% dans le suivant, etc.
   - **Seulement 25%** des points dépendent de la vitesse.\
+    **Seulement 25%** des points dépendent de la vitesse.\
+    **Seulement 25%** des points dépendent de la vitesse.\
+    L'autre **75%** est fixe — donc les typers plus lents obtiennent la plupart des points s'ils répondent correctement.\
     **Seulement 25%** des points dépendent de la vitesse.\
     **Seulement 25%** des points dépendent de la vitesse.\
     L'autre **75%** est fixe — donc les typers plus lents obtiennent la plupart des points s'ils répondent correctement.

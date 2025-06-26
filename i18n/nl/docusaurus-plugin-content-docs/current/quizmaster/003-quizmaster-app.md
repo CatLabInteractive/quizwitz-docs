@@ -13,7 +13,7 @@ Dit geeft je volledige controle over tempo en timing, maar betekent ook dat je v
 
 ---
 
-## 🔁 De quizstroom
+## 🔁 De quizflow
 
 De quizstructuur volgt hoe deze in de editor is opgebouwd, maar de meeste quizzen doorlopen de volgende fases:
 

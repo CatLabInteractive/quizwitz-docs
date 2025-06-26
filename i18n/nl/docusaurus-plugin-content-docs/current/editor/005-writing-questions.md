@@ -70,7 +70,6 @@ Je kunt vragen verrijken met afbeeldingen, video of audio. Elke bijlage kan op s
 Je kunt **meerdere bijlagen** in elk vak toevoegen.
 
 > ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** de quizmaster kan op elk moment kiezen welke bijlage getoond wordt.\
-> 🎮 **In gewone spellen:** alle bijlagen in een bepaalde positie worden tegelijk weergegeven.\
 > 🎮 **In gewone spellen:** alle bijlagen in een bepaalde positie worden tegelijk weergegeven.
 
 📘 Leer meer over ondersteunde bestandstypen, timingtips en beperkingen in de [attachments guide](../editor/attachments).

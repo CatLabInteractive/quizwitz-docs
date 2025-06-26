@@ -23,8 +23,7 @@ Vanaf het hoofdmenu:
 ## ✏️ Titel en taal
 
 Geef je quiz een titel en kies de hoofdtaal.\
-Geef je quiz een titel en kies de hoofdtaal.\
-Je kunt later **vertalingen** toevoegen als dat nodig is — je hoeft niet meteen alles vast te leggen.
+Je kunt later **vertalingen** toevoegen indien nodig — je hoeft niet alles vooraf te beslissen.
 
 ---
 

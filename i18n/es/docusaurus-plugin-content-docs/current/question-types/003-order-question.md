@@ -38,7 +38,7 @@ También puede desactivar la puntuación basada en el tiempo por pregunta sólo 
 El tiempo sólo afecta a una porción de la puntuación.\
 También puede desactivar la puntuación basada en el tiempo por pregunta sólo para puntos fijos.
 
-Ver [Opciones de puntuación en ajustes de ronda](../editor/008-round-options.md#scoring) para más detalles.
+Ver [Opciones de puntuación en ajustes de ronda](../editor/008-round-options.md#-scoring-options) para más detalles.
 
 ---
 
