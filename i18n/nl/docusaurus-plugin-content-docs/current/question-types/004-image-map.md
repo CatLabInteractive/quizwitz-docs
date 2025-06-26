@@ -44,9 +44,6 @@ Zie [vragen schrijven](../editor/005-writing-questions.md) voor algemene vraagin
 ## ⏱️ Op tijd gebaseerde scoring
 
 **Op tijd gebaseerde scoring is standaard ingeschakeld.** Spelers die snel antwoorden verdienen meer punten, maar er is altijd een vast onderdeel (standaard: 75%) voor een correct antwoord. Slechts 25% van de totaalscore wordt beïnvloed door hoe snel je antwoordt.\
-Je kunt de op tijd gebaseerde scoring voor dit vraagtype uitschakelen als je dat wilt.\
-Slechts 25% van de totaalscore wordt beïnvloed door hoe snel je antwoordt.\
-Je kunt de op tijd gebaseerde scoring voor dit vraagtype uitschakelen als je dat wilt.\
 Je kunt de op tijd gebaseerde scoring voor dit vraagtype uitschakelen als je dat wilt.
 
 📘 Voor details over scoring en tijdinstellingen, zie de [documentatie voor ronde-opties](../editor/008-round-options.md#scoring).
