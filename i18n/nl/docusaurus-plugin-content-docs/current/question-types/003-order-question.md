@@ -6,7 +6,7 @@ title: Volgorde vraag
 # 🔀 Volgorde vraag
 
 In een **Volgordevraag** moeten spelers tot 4 antwoorden in de juiste volgorde plaatsen.\
-Dit type ronde is geweldig voor chronologische, rangschikking- of volgorde-uitdagingen.
+Dit type ronde is ideaal voor chronologische, rangschikking- of volgorde-uitdagingen.
 
 ---
 
@@ -27,8 +27,8 @@ Dit type ronde is geweldig voor chronologische, rangschikking- of volgorde-uitda
 
 ## 🏆 Puntenverdeling
 
-Order questions gebruiken standaard **tijdbased scoring**:\
-Snellere juiste antwoorden verdienen meer punten, maar het grootste deel van de punten is vast. Tijd beïnvloedt slechts een deel van de score.\
+Bestelvragen gebruiken standaard **tijdgebaseerde scoring**:\
+Nauwkeurige antwoorden verdienen meer punten, maar de meeste punten zijn vastgezet. Tijd beïnvloedt slechts een deel van de score.\
 Je kunt de tijdgebaseerde score per vraag ook uitschakelen zodat er alleen vaste punten worden toegekend.
 
 Zie [Score-opties in ronde instellingen](../editor/008-round-options.md#scoring) voor details.
