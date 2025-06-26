@@ -52,7 +52,7 @@ De scoring bij open vragen is ontworpen om eerlijk te zijn, ook voor langzamere 
 In **QuizWitz Live** vereisen open vragen meestal een handmatige beoordeling met de [Jury app](../quizmaster/004-jury-app.md):
 
 - De Jury app laat juryleden open antwoorden accepteren, afwijzen of de scoring aanpassen.
-- Fonetic en alternatieve matching helpt, maar menselijke beoordeling is essentieel voor eerlijke scoring en creativiteit.
+- Er gebeurt fonetische en alternatieve automatische correctie, maar menselijk oordeel is essentieel voor eerlijke score en creativiteit.
 - Voor volledige instructies en functies, zie de [Jury app documentatie](../quizmaster/004-jury-app.md).
 
 ---
