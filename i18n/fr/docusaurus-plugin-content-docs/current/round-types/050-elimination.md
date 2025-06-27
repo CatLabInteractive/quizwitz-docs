@@ -1,37 +1,37 @@
 ---
 id: elimination
-title: Elimination
+title: Élimination
 ---
 
-# 🚫 Elimination
+# 🚫 Élimination
 
-**Elimination** is a special event that automatically removes players or teams from the game based on their current ranking or score.\
-It’s a useful tool for tournaments, playoffs, or adding dramatic twists in live events!
-
----
-
-## 📝 How it works
-
-- When triggered, the elimination event evaluates player rankings and **kicks out players or teams** according to your chosen rule.
-- Elimination is not a round type with questions, but an automatic filter between rounds.
+**L’élimination** est un événement spécial qui retire automatiquement les joueurs ou équipes du jeu en fonction de leur classement ou score actuel.\
+C’est un outil pratique pour les tournois, les phases éliminatoires, ou pour ajouter du suspense dans les événements en direct !
 
 ---
 
-## ⚙️ Elimination criteria
+## 📝 Comment ça marche
 
-You can configure the elimination event to:
-
-- **Kick lowest ranked players** until a specified number of players remain
-- **Kick highest ranked players** until a specified number of players remain
-- **Kick lowest ranked** (a set number of) players
-- **Kick highest ranked** (a set number of) players
-
-The number of players to keep (or kick) can be set as an exact number or as a percentage of all participants.
+- Lorsqu’il est déclenché, l’événement d’élimination évalue le classement des joueurs et **exclut les joueurs ou équipes** selon la règle que vous avez choisie.
+- L’élimination n’est pas un type de manche avec des questions, mais un filtre automatique entre les manches.
 
 ---
 
-> Elimination events are perfect for knock-out formats, reducing the field between quiz rounds, or creating tense “sudden death” moments in your game!
+## ⚙️ Critères d’élimination
+
+Vous pouvez configurer l’événement d’élimination pour :
+
+- **Exclure les joueurs les moins bien classés** jusqu’à ce qu’il reste un nombre spécifié de joueurs
+- **Exclure les joueurs les mieux classés** jusqu’à ce qu’il reste un nombre spécifié de joueurs
+- **Exclure les joueurs les moins bien classés** (un nombre défini)
+- **Exclure les joueurs les mieux classés** (un nombre défini)
+
+Le nombre de joueurs à garder (ou à exclure) peut être fixé comme un nombre exact ou un pourcentage de tous les participants.
 
 ---
 
-For more advanced options and event types, see [Round options](../editor/008-round-options.md).
+> Les événements d’élimination sont parfaits pour les formats à élimination directe, pour réduire le nombre de participants entre les manches de quiz, ou pour créer des moments de « mort subite » intenses dans votre partie !
+
+---
+
+Pour des options plus avancées et des types d’événements, voir [Options de manche](../editor/008-round-options.md).
