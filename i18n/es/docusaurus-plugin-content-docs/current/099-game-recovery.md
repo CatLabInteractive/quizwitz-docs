@@ -1,59 +1,59 @@
 ---
 id: live-crash-recovery
-title: ⚠️ Live Crash Recovery
+title: ⚠️ Recuperación en Vivo de Fallos
 sidebar_position: 1000
 ---
 
-# ⚠️ Live Crash Recovery
+# ⚠️ Recuperación en Vivo de Fallos
 
-Did your game freeze? Did the tab close by accident? [**QuizWitz Live**](quizmaster/001-introduction.md) includes a built-in recovery system to help you get back on track — without losing your progress.
-
----
-
-## 🔄 How game recovery works
-
-If your game crashes, hangs, or is interrupted for any reason — whether it’s a browser issue, system restart, or accidental tab closure — you can resume the session easily.
-
-Just **reopen the same browser tab or game screen** you were using to display the **main game view**. This is the screen you project or stream to your audience.
-
-When it loads:
-
-- You’ll be prompted to **resume the previous session** or **start a new one**
-- If you choose to resume, the game will restore your progress as closely as possible
+¿Se bloqueó tu juego? ¿Se cerró la pestaña por accidente? [**QuizWitz Live**](quizmaster/001-introduction.md) incluye un sistema de recuperación incorporado para ayudarte a retomar el control — sin perder tu progreso.
 
 ---
 
-### ▶️ Resuming the game
+## 🔄 Cómo funciona la recuperación del juego
 
-Select **“Resume game”** to:
+Si tu juego se bloquea, se cuelga o se interrumpe por cualquier motivo — ya sea un problema del navegador, un reinicio del sistema o el cierre accidental de la pestaña — puedes reanudar la sesión fácilmente.
 
-- Continue from the same question or round
-- Restore the quiz state and visuals
+Solo **vuelve a abrir la misma pestaña del navegador o pantalla del juego** que estabas usando para mostrar la **vista principal del juego**. Esta es la pantalla que proyectas o transmites a tu audiencia.
 
-> ✅ This is the best option if your game crashed, froze, or was accidentally closed.
+Cuando se cargue:
 
----
-
-### 🆕 Starting a new game
-
-You can also choose to **start a new game** instead.
-
-- This will completely **clear the previous session**
-- You’ll return to the beginning of the quiz setup
-
-> ⚠️ Only choose this if you’re certain you don’t want to continue the existing game.
+- Se te pedirá que **reanudes la sesión anterior** o **inicies una nueva**
+- Si eliges reanudar, el juego restaurará tu progreso lo más fielmente posible
 
 ---
 
-## 💡 Good to know
+### ▶️ Reanudando el juego
 
-- Recovery only works if you **return to the same game screen in the same browser**
-- Do **not** navigate to a different page — reopen the **exact URL** you were using to host the game
-- This feature helps recover from:
-  - Browser crashes
-  - Freezing or hanging mid-quiz
-  - Accidental closure or refresh
+Selecciona **"Reanudar juego"** para:
+
+- Continuar desde la misma pregunta o ronda
+- Restaurar el estado y los elementos visuales del cuestionario
+
+> ✅ Esta es la mejor opción si tu juego se bloqueó, se congeló o se cerró accidentalmente.
 
 ---
 
-With game recovery, you can host confidently — knowing that even if something goes wrong, you can pick up right where you left off.
+### 🆕 Iniciando un juego nuevo
+
+También puedes elegir **iniciar un juego nuevo** en su lugar.
+
+- Esto **borrará por completo la sesión anterior**
+- Volverás al inicio de la configuración del cuestionario
+
+> ⚠️ Solo elige esto si estás seguro de que no quieres continuar con el juego existente.
+
+---
+
+## 💡 Buen dato
+
+- La recuperación solo funciona si vuelves a la misma pantalla del juego en el mismo navegador
+- No navegues a una página diferente— vuelve a abrir la **URL exacta** que estabas usando para hospedar el juego
+- Esta función ayuda a recuperarse de:
+  - Bloqueos del navegador
+  - Congelamientos o cuelgues durante el cuestionario
+  - Cierre accidental o actualización
+
+---
+
+Con la recuperación del juego, puedes dirigir con confianza — sabiendo que si algo falla, puedes continuar justo donde lo dejaste.
