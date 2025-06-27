@@ -1,78 +1,77 @@
 ---
 id: dealers-choice
-title: Dealers' Choice
+title: Choix du donneur
 ---
 
-# 🃏 Dealer's choice
+# 🃏 Choix du donneur
 
-The **Dealers’ Choice** round in QuizWitz adds a strategic twist to your quiz.
-One of the players gets to **choose the next question category**, giving them a potential
-edge—and possibly a bonus! Here's how to set it up and play:
-
----
-
-## 🔧 How It Works
-
-In this round, **one player becomes the "dealer"** and selects the next category to play. The method of selection depends on the game mode:
-
-- **Party/Conference Game:** The dealer chooses a category using **their own device**.
-- **Live Game:** The dealer **announces their choice aloud** to the quizmaster.
+Le tour **Choix du donneur** dans QuizWitz ajoute une touche stratégique à votre quiz.
+Un des joueurs peut **choisir la catégorie de la prochaine question**, ce qui lui donne un avantage potentiel — et peut-être un bonus ! Voici comment le configurer et y jouer :
 
 ---
 
-## 🏷️ Assigning Categories to Questions
+## 🔧 Comment ça marche
 
-Each question in the Dealers’ Choice round needs a **unique label**, which acts as the category the dealer sees and selects from.
+Dans ce tour, **un joueur devient le "donneur"** et choisit la prochaine catégorie à jouer. La méthode de sélection dépend du mode de jeu :
 
-For example:
-
-- `Animals – Easy`
-- `Animals – Hard`
-- `History – Fun Facts`
-- `Movies – Action Classics`
-
-> Even if questions share a general theme, their labels should still be unique so players can clearly identify and choose them.
-
-Labels are set in the **“Label” field** of each question's settings.
+- **Jeu de fête/conférence :** Le donneur choisit une catégorie en utilisant **son propre appareil**.
+- **Jeu en direct :** Le donneur **annonce son choix à voix haute** au quizmaster.
 
 ---
 
-## 🏆 Dealer Bonus
+## 🏷️ Attribution des catégories aux questions
 
-If the dealer correctly answers the question they chose, they can receive a **bonus**:
+Chaque question dans le tour Choix du donneur nécessite une **étiquette unique**, qui sert de catégorie visible et sélectionnable par le donneur.
 
-- Configure the **bonus percentage** (e.g. 50%) in the **Dealer Bonus** setting.
+Par exemple :
 
-> The bonus only applies if the dealer’s answer is correct.
+- `Animaux – Facile`
+- `Animaux – Difficile`
+- `Histoire – Anecdotes`
+- `Films – Classiques d’action`
 
----
+> Même si les questions partagent un thème général, leurs étiquettes doivent être uniques pour que les joueurs puissent clairement les identifier et les choisir.
 
-## 👑 Dealer Selection
-
-Before the round starts, QuizWitz determines the dealer using one of these options:
-
-- Highest ranked player goes first
-- Lowest ranked player goes first
-- At random - Dealer is chosen randomly
-
-> Rankings are locked in **at the beginning of the round**.
+Les étiquettes sont définies dans le **champ "Étiquette"** des paramètres de chaque question.
 
 ---
 
-### Scoring Options:
+## 🏆 Bonus du donneur
 
-- **Scoring strategy:** Choose _Dealer Bonus_
-- **Time-based scoring:** Set the minimum percentage of points retained for slower answers (e.g. 75%)
+Si le donneur répond correctement à la question qu’il a choisie, il peut recevoir un **bonus** :
 
----
+- Configurez le **pourcentage de bonus** (par ex. 50%) dans le paramètre **Bonus du donneur**.
 
-## 📝 Tips for Quizmasters
-
-- Let players know they’ll be choosing from labeled categories.
-- In live games, be sure to note the dealer’s selection clearly.
-- Use unique, descriptive labels to avoid confusion during selection.
+> Le bonus ne s’applique que si la réponse du donneur est correcte.
 
 ---
 
-The Dealers’ Choice round encourages interaction and gives players a bit of control, while still rewarding quick and correct answers. It’s a great way to keep everyone engaged!
+## 👑 Sélection du donneur
+
+Avant le début du tour, QuizWitz détermine le donneur selon l’une des options suivantes :
+
+- Le joueur le mieux classé commence
+- Le joueur le moins bien classé commence
+- Au hasard - Le donneur est choisi aléatoirement
+
+> Les classements sont verrouillés **au début du tour**.
+
+---
+
+### Options de score :
+
+- **Stratégie de score :** Choisissez _Bonus du donneur_
+- **Score basé sur le temps :** Réglez le pourcentage minimum de points conservés pour les réponses plus lentes (par ex. 75%)
+
+---
+
+## 📝 Conseils pour les quizmasters
+
+- Informez les joueurs qu’ils choisiront parmi des catégories étiquetées.
+- Dans les jeux en direct, assurez-vous de bien noter la sélection du donneur.
+- Utilisez des étiquettes uniques et descriptives pour éviter toute confusion lors de la sélection.
+
+---
+
+Le tour Choix du donneur encourage l’interaction et donne aux joueurs un peu de contrôle, tout en récompensant les réponses rapides et correctes. C’est un excellent moyen de maintenir l’engagement de tous !
 
