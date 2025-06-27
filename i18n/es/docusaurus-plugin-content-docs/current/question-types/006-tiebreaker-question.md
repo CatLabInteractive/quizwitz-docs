@@ -1,35 +1,35 @@
 ---
 id: tiebreaker-question
-title: Tiebreaker question
+title: Pregunta de desempate
 ---
 
-# 🏁 Tiebreaker question
+# 🏁 Pregunta de desempate
 
-The Tiebreaker question is used to resolve ties at the end of a quiz.\
-Players are asked to guess a number (for example, “How many beans are in the jar?”). The player whose answer is closest to the correct value will win in case of a tie.
-
----
-
-## 📝 How it works
-
-- **No points awarded:** The tiebreaker question does not award regular points.
-- **Shadow points:** Instead, it uses “shadow points” that are only considered when two or more players have the same total score.
-- **Closest wins:** The player with the answer closest to the correct value gets the higher position in the event of a tie.
+La pregunta de desempate se usa para resolver empates al final de un cuestionario.\
+Se les pide a los jugadores que adivinen un número (por ejemplo, "¿Cuántos frijoles hay en el frasco?"). El jugador cuya respuesta esté más cerca del valor correcto ganará en caso de empate.
 
 ---
 
-## 💡 Tips for tiebreaker questions
+## 📝 Cómo funciona
 
-- **Ask for an obscure number:** Choose a question where the answer is not widely known and is unlikely to be guessed exactly.
-- **Encourage unique guesses:** Make sure the question has a wide possible range, so every player is likely to enter a different answer.
-- **Use only for ties:** Shadow points are only used as a tiebreaker and will not affect the main game ranking.
+- **No se otorgan puntos:** La pregunta de desempate no otorga puntos regulares.
+- **Puntos sombra:** En cambio, utiliza "puntos sombra" que sólo se consideran cuando dos o más jugadores tienen el mismo puntaje total.
+- **El más cercano gana:** El jugador con la respuesta más cercana al valor correcto obtiene la posición más alta en caso de empate.
 
 ---
 
-_Example tiebreaker questions:_
+## 💡 Consejos para preguntas de desempate
 
-- How many jelly beans are in the jar shown on screen?
-- What is the total length (in meters) of all the rivers in Belgium combined?
-- How many bricks were used to build the Empire State Building?
-- What was the attendance at the first ever World Cup final?
+- **Pide un número poco común:** Elige una pregunta cuya respuesta no sea ampliamente conocida y sea poco probable que se adivine exactamente.
+- **Fomenta respuestas únicas:** Asegúrate de que la pregunta tenga un rango amplio de posibles respuestas para que cada jugador pueda ingresar una respuesta diferente.
+- **Usar solo para desempates:** Los puntos sombra sólo se usan como desempate y no afectarán la clasificación principal del juego.
+
+---
+
+_Ejemplos de preguntas de desempate:_
+
+- ¿Cuántos caramelos de gelatina hay en el frasco que se muestra en la pantalla?
+- ¿Cuál es la longitud total (en metros) de todos los ríos en Bélgica combinados?
+- ¿Cuántos ladrillos se usaron para construir el Empire State Building?
+- ¿Cuál fue la asistencia en la primera final de la Copa del Mundo?
 
