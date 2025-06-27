@@ -1,23 +1,23 @@
 ---
 id: player-introduction
-title: Player Introduction
+title: Introduction du joueur
 ---
 
-# 🙋‍♂️ Player introduction
+# 🙋‍♂️ Introduction du joueur
 
-**Player introduction** is a special event that simply displays the **names and selected emojis of all players or teams** on the main game screen.
-
----
-
-## 📝 How it works
-
-- At this point in the quiz, each participant’s **name** and chosen **emoji** will appear on the big screen.
-- This is often used at the start of an event, after a break, or before a final round to introduce or celebrate participants.
+**L’introduction du joueur** est un événement spécial qui affiche simplement **les noms et les émoticônes sélectionnés de tous les joueurs ou équipes** sur l’écran principal du jeu.
 
 ---
 
-> Player introductions help set the mood, break the ice, and personalize the quiz experience—especially in live and team-based events!
+## 📝 Comment ça marche
+
+- À ce moment du quiz, le **nom** et l’**émoticône** choisis de chaque participant apparaîtront sur le grand écran.
+- Cela est souvent utilisé au début d’un événement, après une pause ou avant une manche finale pour présenter ou célébrer les participants.
 
 ---
 
-For other special event rounds, see [Round options](../editor/008-round-options.md).
+> Les introductions des joueurs aident à créer l’ambiance, briser la glace et personnaliser l’expérience du quiz — surtout dans les événements en direct et en équipe !
+
+---
+
+Pour d’autres manches d’événements spéciaux, voir [Options des manches](../editor/008-round-options.md).
