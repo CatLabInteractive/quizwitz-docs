@@ -1,28 +1,28 @@
 ---
 id: department-elimination
-title: Department Elimination
+title: Eliminación por Departamento
 ---
 
-# 🏢 Department elimination
+# 🏢 Eliminación por departamento
 
-**Department elimination** is a special event that removes players from a specific department, using the same elimination criteria as the standard [Elimination](050-elimination.md) round.
-
----
-
-## 📝 How it works
-
-- When this event is triggered, only players or teams belonging to the selected department are considered for elimination.
-- The elimination criteria are flexible:
-    - **Kick the lowest ranked in the department** until a set number of players remain
-    - **Kick the highest ranked in the department** until a set number remain
-    - **Kick a specific number of lowest ranked** in the department
-    - **Kick a specific number of highest ranked** in the department
-- The number of players to keep or eliminate can be set as an exact number or percentage.
+**La eliminación por departamento** es un evento especial que elimina jugadores de un departamento específico, utilizando los mismos criterios de eliminación que la ronda estándar [Eliminación](050-elimination.md).
 
 ---
 
-> Department elimination lets you run knockouts within a group or department, perfect for tournaments or themed competitions.
+## 📝 Cómo funciona
+
+- Cuando se activa este evento, sólo los jugadores o equipos que pertenecen al departamento seleccionado son considerados para la eliminación.
+- Los criterios de eliminación son flexibles:
+    - **Expulsar al peor clasificado del departamento** hasta que quede un número establecido de jugadores
+    - **Expulsar al mejor clasificado del departamento** hasta que quede un número establecido
+    - **Expulsar un número específico de los peor clasificados** en el departamento
+    - **Expulsar un número específico de los mejores clasificados** en el departamento
+- El número de jugadores que se mantienen o eliminan puede establecerse como un número exacto o un porcentaje.
 
 ---
 
-For more on elimination options, see the [Elimination round](050-elimination.md) or [Round options](../editor/008-round-options.md).
+> La eliminación por departamento te permite realizar eliminatorias dentro de un grupo o departamento, perfecto para torneos o competiciones temáticas.
+
+---
+
+Para más opciones de eliminación, consulta la [ronda de Eliminación](050-elimination.md) o las [Opciones de ronda](../editor/008-round-options.md).
