@@ -5,38 +5,38 @@ title: Multiquestion
 
 # ❓ Multiquestion
 
-The **Multiquestion** round gives players (or teams) the freedom to pick which question they want to answer from a set of possibilities. This makes each playthrough unique and allows for strategic choices!
+La ronda **Multiquestion** da a los jugadores (o equipos) la libertad de elegir qué pregunta quieren responder de un conjunto de opciones. Esto hace que cada partida sea única y permite elecciones estratégicas.
 
 ---
 
-## 📝 How it works
+## 📝 Cómo funciona
 
-- For each "question group," several alternative questions are presented.
-- **Each player (or team) selects one question** from the available options to answer.
-- Every question can have its own point value, difficulty, or type (multiple choice, open, etc.).
-- Players only answer the question they picked; the rest are skipped for them.
-
----
-
-## 🛠️ Editor setup
-
-- In the quiz editor, create **Question groups**. Each group contains all the alternative questions for that turn.
-- For each question in the group, set the **Label** field. This label is shown to players as the “title” or hint for their choice.
-  - Labels can be cryptic (“A, B, C”), themed (“Animals”, “History”), or descriptive (“Easy MC”, “Hard open”).
-- You can mix and match question types and point values within the same group.
-- **Duration:** Even though you can set a different timer multiplier per question, the game uses the highest value for all questions in the group (so nobody is rushed).
-- **Attachments:**
-  - _Before question_ attachments from all options are combined into one view before players make their choice.
-  - _During question_ visible attachments are not shown, but audio still plays.
+- Para cada "grupo de preguntas", se presentan varias preguntas alternativas.
+- **Cada jugador (o equipo) selecciona una pregunta** de las opciones disponibles para responder.
+- Cada pregunta puede tener su propio valor de puntos, dificultad o tipo (opción múltiple, abierta, etc.).
+- Los jugadores solo responden la pregunta que eligieron; las demás se omiten para ellos.
 
 ---
 
-## 💡 Tips
+## 🛠️ Configuración en el editor
 
-- Offer a mix of easy and hard questions for more strategy.
-- Use labels creatively—mystery or fun themes can boost engagement.
-- Reward risk-takers with higher point questions.
+- En el editor del quiz, crea **grupos de preguntas**. Cada grupo contiene todas las preguntas alternativas para ese turno.
+- Para cada pregunta en el grupo, configura el campo **Etiqueta**. Esta etiqueta se muestra a los jugadores como el “título” o pista para su elección.
+  - Las etiquetas pueden ser crípticas (“A, B, C”), temáticas (“Animales”, “Historia”) o descriptivas (“MC fácil”, “Abierta difícil”).
+- Puedes combinar tipos de preguntas y valores de puntos dentro del mismo grupo.
+- **Duración:** Aunque puedes establecer un multiplicador de tiempo diferente por pregunta, el juego usa el valor más alto para todas las preguntas del grupo (para que nadie tenga prisa).
+- **Archivos adjuntos:**
+  - _Antes de la pregunta_, los archivos adjuntos de todas las opciones se combinan en una vista antes de que los jugadores hagan su elección.
+  - _Durante la pregunta_, los archivos adjuntos visibles no se muestran, pero el audio sigue reproduciéndose.
 
 ---
 
-For more on configuring questions and using attachments, see [writing questions](../editor/005-writing-questions.md) and [attachments documentation](../editor/006-attachments.md).
+## 💡 Consejos
+
+- Ofrece una mezcla de preguntas fáciles y difíciles para más estrategia.
+- Usa las etiquetas creativamente—temas misteriosos o divertidos pueden aumentar la participación.
+- Premia a los arriesgados con preguntas de más puntos.
+
+---
+
+Para más información sobre cómo configurar preguntas y usar archivos adjuntos, consulta [escribir preguntas](../editor/005-writing-questions.md) y la [documentación de archivos adjuntos](../editor/006-attachments.md).
