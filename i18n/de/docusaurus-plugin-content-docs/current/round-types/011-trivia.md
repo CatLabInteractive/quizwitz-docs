@@ -1,43 +1,43 @@
 ---
 id: trivia
-title: Trivia (regular round)
+title: Quiz (normale Runde)
 ---
 
-# ❓ Trivia (regular round)
+# ❓ Quiz (normale Runde)
 
-The **Trivia** round is the classic, default round type in QuizWitz. It presents a series of questions to all players — ideal for general knowledge, themed quizzes, or warm-up rounds.
-
----
-
-## 📝 How it works
-
-- Supports a mix of question types (multiple choice, open questions, image map, etc).
-- Players answer each question individually, following the round’s settings for feedback and scoring.
-- Great for testing broad knowledge or mixing up topics.
+Die **Quiz**-Runde ist der klassische, Standardrundentyp in QuizWitz. Sie stellt allen Spielern eine Reihe von Fragen — ideal für Allgemeinwissen, thematische Quizze oder Aufwärmrunden.
 
 ---
 
-## ⚙️ Recommended settings
+## 📝 So funktioniert es
 
-- **Question feedback:** By default, players see feedback after every question. You can group feedback at the end of the round if you prefer (see [round options](../editor/008-round-options.md)).
-- **Random question order:** Can be enabled for variety.
-- **Timer:** Set per question, or adjust round defaults.
-
----
-
-## 🏆 Scoring
-
-- Each question uses its own scoring type (time-based, fixed, etc) as configured.
-- For more about scoring and customization, see [round scoring settings](../editor/008-round-options.md#scoring).
+- Unterstützt eine Mischung aus Fragetypen (Multiple Choice, offene Fragen, Bildkarte usw.).
+- Spieler beantworten jede Frage einzeln und folgen dabei den Runden-Einstellungen für Feedback und Punktevergabe.
+- Ideal, um breites Wissen zu testen oder Themen abwechslungsreich zu gestalten.
 
 ---
 
-## 💡 Tips
+## ⚙️ Empfohlene Einstellungen
 
-- **Mix question types:** Add variety for engagement.
-- **Keep it balanced:** Alternate easy and tough questions to keep players motivated.
-- **Use media:** Attach images, audio, or video for richer content.
+- **Frage-Feedback:** Standardmäßig sehen Spieler nach jeder Frage Feedback. Feedback kann auch am Ende der Runde gesammelt angezeigt werden, wenn du möchtest (siehe [Rundenoptionen](../editor/008-round-options.md)).
+- **Zufällige Fragenreihenfolge:** Kann für mehr Abwechslung aktiviert werden.
+- **Timer:** Pro Frage einstellbar oder passe Standardwerte der Runde an.
 
 ---
 
-For more about available question types, see the [question type overview](../question-types/000-question-types.md).
+## 🏆 Punktevergabe
+
+- Jede Frage verwendet ihren eigenen Punktetyp (zeitbasiert, festgelegt usw.), wie konfiguriert.
+- Mehr zu Punkten und Anpassung findest du unter [Punkteinstellungen für Runden](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Tipps
+
+- **Fragetypen mischen:** Für mehr Spaß und Abwechslung.
+- **Balance halten:** Abwechselnd leichte und schwere Fragen, um Motivation hoch zu halten.
+- **Medien nutzen:** Bilder, Audio oder Videos anhängen für reichhaltigeren Inhalt.
+
+---
+
+Mehr zu Fragetypen findest du in der [Übersicht der Fragetypen](../question-types/000-question-types.md).
