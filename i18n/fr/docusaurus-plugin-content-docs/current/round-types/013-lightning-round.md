@@ -1,61 +1,61 @@
 ---
 id: lightning-round
-title: Lightning round
+title: Manche éclair
 ---
 
-# ⚡ Lightning round
+# ⚡ Manche éclair
 
-The **Lightning round** is all about speed and excitement. Players answer a rapid series of questions with very short timers — all set to continuous timer music for maximum energy and tension.
-
----
-
-## 📝 How it works
-
-- Questions are presented one after another with minimal delay.
-- Timer music plays **continuously** throughout the round, only stopping after the last question.
-- Players must answer quickly; there’s no break between questions.
-- **By default, feedback for each question is postponed until the end of the round,** but each question’s feedback is shown separately, not grouped on a single screen.
-- If you want to group all feedback on one screen at the end, you can enable this in the round settings.
+La **manche éclair** est une question de vitesse et d'excitation. Les joueurs répondent à une série rapide de questions avec des minuteries très courtes — le tout accompagné d'une musique de minuterie continue pour une énergie et une tension maximales.
 
 ---
 
-## ⚙️ Feedback settings
+## 📝 Comment ça marche
 
-- **Default (postponed feedback):** Feedback for each question is shown after the last question, one by one in sequence.
-- **Grouped feedback:** If “Show all question feedback at the end of the round” is enabled in round settings, all feedback is combined into a single feedback screen at the end.
-- **Force results after question:** If enabled in a question’s settings, feedback for that question will always be shown immediately, regardless of round feedback grouping.
-
-See [round options](../editor/008-round-options.md) for details on configuring feedback timing.
-
----
-
-## 🎵 Attachments — Countdown music
-
-- You can set a **Round Attachment** in the slot “Play during question countdown.”\
-  This audio attachment will play **continuously** as the countdown music during the entire lightning round, only stopping after the last question.
-- Use energetic or tense music to boost excitement and keep players on their toes.
-
-For more details, see the [attachments documentation](../editor/006-attachments.md).
+- Les questions sont présentées les unes après les autres avec un délai minimal.
+- La musique du minuteur joue **en continu** pendant toute la manche, s'arrêtant seulement après la dernière question.
+- Les joueurs doivent répondre rapidement ; il n’y a pas de pause entre les questions.
+- **Par défaut, les retours pour chaque question sont différés jusqu'à la fin de la manche,** mais le retour de chaque question est affiché séparément, pas regroupé sur un seul écran.
+- Si vous souhaitez regrouper tous les retours sur un seul écran à la fin, vous pouvez activer cette option dans les paramètres de la manche.
 
 ---
 
-## 🏆 Scoring
+## ⚙️ Paramètres de retours
 
-- **Time-based scoring is _not_ recommended** for this round type.
-- Instead, use a **short question timer** (typically 15 seconds).
-- Set point values lower than usual (e.g. 500 points per question) to keep the game fair and minimize the impact of wrong answers.
+- **Par défaut (retours différés) :** Le retour pour chaque question est affiché après la dernière question, une par une dans l'ordre.
+- **Retours groupés :** Si "Afficher tous les retours des questions à la fin de la manche" est activé dans les paramètres de la manche, tous les retours sont combinés en un seul écran de retour à la fin.
+- **Forcer résultats après question :** Si activé dans les paramètres d'une question, le retour pour cette question sera toujours affiché immédiatement, quel que soit le regroupement des retours de la manche.
 
-For scoring setup, see the [scoring section](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips
-
-- **Keep questions short:** This encourages fast, instinctive answers.
-- **Use energetic music:** Timer music adds to the pressure and excitement.
-- **Balance difficulty:** Too many tough questions can stall the pace.
-- **Lower the stakes:** Fewer points and shorter timers mean mistakes aren’t too punishing.
+Voir les [options de manche](../editor/008-round-options.md) pour les détails sur la configuration du timing des retours.
 
 ---
 
-Lightning rounds are perfect for energizing your quiz and ramping up the pace!
+## 🎵 Pièces jointes — Musique du compte à rebours
+
+- Vous pouvez définir une **Pièce jointe de manche** dans la case « Jouer pendant le compte à rebours de la question ».\
+  Cette pièce audio sera jouée **en continu** comme musique du compte à rebours pendant toute la manche éclair, ne s’arrêtant qu’après la dernière question.
+- Utilisez une musique énergique ou tendue pour booster l’excitation et maintenir les joueurs en alerte.
+
+Pour plus de détails, consultez la [documentation sur les pièces jointes](../editor/006-attachments.md).
+
+---
+
+## 🏆 Points
+
+- **Le calcul des points basé sur le temps _n’est pas_ recommandé** pour ce type de manche.
+- Utilisez plutôt un **minuteur court pour chaque question** (typiquement 15 secondes).
+- Attribuez des points moins élevés que d’habitude (par exemple 500 points par question) pour garder l’équité et minimiser l’impact des mauvaises réponses.
+
+Pour la configuration des points, consultez la [section sur les points](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Astuces
+
+- **Gardez les questions courtes :** Cela encourage des réponses rapides et instinctives.
+- **Utilisez une musique énergique :** La musique du minuteur ajoute à la pression et à l’excitation.
+- **Équilibrez la difficulté :** Trop de questions difficiles peuvent ralentir le rythme.
+- **Baissez les enjeux :** Moins de points et des minuteries plus courtes signifient que les erreurs ne sont pas trop punitives.
+
+---
+
+Les manches éclairs sont parfaites pour dynamiser votre quiz et accélérer le rythme !
