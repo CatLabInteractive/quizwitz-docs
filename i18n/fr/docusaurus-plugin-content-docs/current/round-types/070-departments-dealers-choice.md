@@ -1,43 +1,43 @@
 ---
 id: departments-dealers-choice
-title: Department Dealer's Choice
+title: Choix du département par le dealer
 ---
 
-# 🏢 Department Dealer’s Choice
+# 🏢 Choix du département par le dealer
 
-**Department Dealer’s Choice** is an interactive round type where players from a specific department take turns selecting the next category or question.
-
----
-
-## 📝 How it works
-
-- A single **department** is selected to play this round.
-- A **dealer** is chosen from within that department (by ranking or at random) to pick the next category or question.
-- Depending on settings, **only the dealer** or **all players in the dealer's department** can answer and score points for the selected question.
+**Choix du département par le dealer** est un type de manche interactive où les joueurs d'un département spécifique choisissent à tour de rôle la prochaine catégorie ou question.
 
 ---
 
-## ⚙️ Settings
+## 📝 Comment ça marche
 
-- **Department number:** Choose which department is playing this round.
-- **Dealer selection:**
-  - Lowest ranked first
-  - Highest ranked first
-  - Random
-- **Dealer department:**
-  - _Only dealer may play_ — Only the selected dealer answers the question
-  - _All players in dealer’s department may play_ — Everyone in the department can answer and score points
-- **Dealer bonus:**\
-  Set a bonus percentage for the dealer (if enabled).
+- Un seul **département** est sélectionné pour jouer cette manche.
+- Un **dealer** est choisi dans ce département (selon le classement ou de manière aléatoire) pour sélectionner la prochaine catégorie ou question.
+- Selon les paramètres, **seul le dealer** ou **tous les joueurs du département du dealer** peuvent répondre et marquer des points pour la question sélectionnée.
 
 ---
 
-## 💡 Tips
+## ⚙️ Paramètres
 
-- Use this mode for team-based competitions or when you want to give specific groups a chance to shine.
-- Dealer’s Choice rounds keep the game dynamic and engaging, with added strategy for departments.
+- **Numéro du département :** Choisissez quel département joue cette manche.
+- **Sélection du dealer :**
+  - Le plus bas classé en premier
+  - Le plus haut classé en premier
+  - Aléatoire
+- **Département du dealer :**
+  - _Seul le dealer peut jouer_ — Seul le dealer sélectionné répond à la question
+  - _Tous les joueurs du département du dealer peuvent jouer_ — Tout le monde dans le département peut répondre et marquer des points
+- **Bonus du dealer :**
+  Définissez un pourcentage de bonus pour le dealer (si activé).
 
 ---
 
-For classic Dealer’s Choice rules, see [Dealer’s Choice](024-dealers-choice.md).\
-For more team game options, check [Round options](../editor/008-round-options.md).
+## 💡 Astuces
+
+- Utilisez ce mode pour des compétitions en équipe ou lorsque vous voulez donner à des groupes spécifiques une chance de briller.
+- Les manches Choix du dealer maintiennent le jeu dynamique et captivant, avec une stratégie supplémentaire pour les départements.
+
+---
+
+Pour les règles classiques du Choix du dealer, consultez [Dealer’s Choice](024-dealers-choice.md).\
+Pour plus d'options de jeu en équipe, consultez [Options de manche](../editor/008-round-options.md).
