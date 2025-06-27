@@ -1,43 +1,43 @@
 ---
 id: departments-dealers-choice
-title: Department Dealer's Choice
+title: Abteilung Dealer's Wahl
 ---
 
-# 🏢 Department Dealer’s Choice
+# 🏢 Abteilung Dealer's Wahl
 
-**Department Dealer’s Choice** is an interactive round type where players from a specific department take turns selecting the next category or question.
-
----
-
-## 📝 How it works
-
-- A single **department** is selected to play this round.
-- A **dealer** is chosen from within that department (by ranking or at random) to pick the next category or question.
-- Depending on settings, **only the dealer** or **all players in the dealer's department** can answer and score points for the selected question.
+**Abteilung Dealer's Wahl** ist ein interaktiver Rundentyp, bei dem Spieler aus einer bestimmten Abteilung abwechselnd die nächste Kategorie oder Frage auswählen.
 
 ---
 
-## ⚙️ Settings
+## 📝 So funktioniert es
 
-- **Department number:** Choose which department is playing this round.
-- **Dealer selection:**
-  - Lowest ranked first
-  - Highest ranked first
-  - Random
-- **Dealer department:**
-  - _Only dealer may play_ — Only the selected dealer answers the question
-  - _All players in dealer’s department may play_ — Everyone in the department can answer and score points
-- **Dealer bonus:**\
-  Set a bonus percentage for the dealer (if enabled).
+- Eine einzelne **Abteilung** wird ausgewählt, um diese Runde zu spielen.
+- Ein **Dealer** wird aus dieser Abteilung (nach Rang oder zufällig) ausgewählt, um die nächste Kategorie oder Frage zu wählen.
+- Je nach Einstellungen können **nur der Dealer** oder **alle Spieler in der Abteilung des Dealers** die ausgewählte Frage beantworten und Punkte erzielen.
 
 ---
 
-## 💡 Tips
+## ⚙️ Einstellungen
 
-- Use this mode for team-based competitions or when you want to give specific groups a chance to shine.
-- Dealer’s Choice rounds keep the game dynamic and engaging, with added strategy for departments.
+- **Abteilungsnummer:** Wähle, welche Abteilung diese Runde spielt.
+- **Dealer-Auswahl:**
+  - Niedrigster Rang zuerst
+  - Höchster Rang zuerst
+  - Zufällig
+- **Dealer-Abteilung:**
+  - _Nur der Dealer darf spielen_ — Nur der ausgewählte Dealer beantwortet die Frage
+  - _Alle Spieler in der Abteilung des Dealers dürfen spielen_ — Jeder in der Abteilung kann antworten und Punkte erzielen
+- **Dealer-Bonus:**\
+  Lege einen Bonusprozentsatz für den Dealer fest (falls aktiviert).
 
 ---
 
-For classic Dealer’s Choice rules, see [Dealer’s Choice](024-dealers-choice.md).\
-For more team game options, check [Round options](../editor/008-round-options.md).
+## 💡 Tipps
+
+- Nutze diesen Modus für team-basierte Wettbewerbe oder wenn du bestimmten Gruppen eine Chance geben willst, zu glänzen.
+- Dealer’s Choice-Runden halten das Spiel dynamisch und spannend, mit zusätzlicher Strategie für Abteilungen.
+
+---
+
+Für klassische Dealer’s Choice-Regeln sieh [Dealer’s Choice](024-dealers-choice.md).\
+Für weitere Teamspieloptionen siehe [Rundenoptionen](../editor/008-round-options.md).
