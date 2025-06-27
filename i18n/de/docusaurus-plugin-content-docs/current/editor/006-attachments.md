@@ -1,63 +1,63 @@
 ---
 id: attachments
-title: Attachments
+title: Anhänge
 ---
 
-# 📎 Attachments
+# 📎 Anhänge
 
-Attachments can be added in various slots throughout your quiz to enrich the experience with images, audio, or video.
+Anhänge können an verschiedenen Stellen in deinem Quiz hinzugefügt werden, um die Erfahrung mit Bildern, Audio oder Video zu bereichern.
 
-These slots appear in the following parts of your quiz:
+Diese Stellen erscheinen in folgenden Teilen deines Quiz:
 
-- [Questions](../editor/005-writing-questions.md)
-- [Rounds](../editor/008-round-options.md)
-- [Quizzes](../editor/007-quiz-options.md)
+- [Fragen](../editor/005-writing-questions.md)
+- [Runden](../editor/008-round-options.md)
+- [Quizze](../editor/007-quiz-options.md)
 
-Each page explains when these attachments are shown during gameplay.
+Jede Seite erklärt, wann diese Anhänge während des Spiels angezeigt werden.
 
-![Question attachments](/images/edit-question.png)
-
----
-
-## 🗂️ Supported file types
-
-Here is a general (non-exhaustive) list of compatible formats:
-
-- **Images** — `.png`, `.jpeg`, `.gif` (non-animated). Full HD (1920×1080) recommended
-- **Audio** — Most standard formats are supported
-- **Video** — Most standard formats are supported
-
-> 🔊 ⏱️ Audio and video attachments should be **no longer than 15 minutes** in duration.
+![Fragenanhänge](/images/edit-question.png)
 
 ---
 
-## 📝 Name & attribution
+## 🗂️ Unterstützte Dateitypen
 
-Each attachment can have a name and optional attribution:
+Hier ist eine allgemeine (nicht abschließende) Liste kompatibler Formate:
 
-- **Name** — Displayed to the quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); helps in organizing attachments
-- **Attribution** — Shown to players as credit or source information. This should be the **name of the rights holder**.
+- **Bilder** — `.png`, `.jpeg`, `.gif` (nicht animiert). Full HD (1920×1080) empfohlen
+- **Audio** — Die meisten Standardformate werden unterstützt
+- **Video** — Die meisten Standardformate werden unterstützt
 
-> ⚠️ In order to **publish** a Round-About or Quiz, **all attachments must have a valid attribution** filled in. Without this, your entry cannot be made public.
-
----
-
-## ✨ Attachment effects
-
-Some attachment slots support **effects** to reveal visuals more gradually:
-
-- **None** — The file is shown as-is
-- **Spotlight effect** — Gradually reveals parts of the image over time with a moving spotlight that expands as it progresses
-
-This is especially effective for puzzles or slow reveals during intros or dramatic moments.
+> 🔊 ⏱️ Audio- und Videoanhänge sollten **nicht länger als 15 Minuten** dauern.
 
 ---
 
-## 📚 Multiple attachments per slot
+## 📝 Name & Quellenangabe
 
-Some slots allow adding **multiple attachments**. The way these behave depends on the game mode:
+Jeder Anhang kann einen Namen und eine optionale Quellenangabe haben:
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** The quizmaster has full control and can decide when to show or hide attachments during gameplay.\
-> 🎮 **In regular games:** All attachments within a slot are shown **simultaneously**.
+- **Name** — Wird dem quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) angezeigt; hilft bei der Organisation der Anhänge
+- **Quellenangabe** — Wird den Spielern als Anerkennung oder Quelleninformation angezeigt. Dies sollte der **Name des Rechteinhabers** sein.
 
-Details about each slot’s timing and behavior can be found in the linked documentation for [questions](../editor/015-importing-questions.md), [rounds](../editor/008-round-options.md), and [quizzes](../editor/007-quiz-options.md).
+> ⚠️ Um ein Round-About oder Quiz zu **veröffentlichen**, **müssen alle Anhänge eine gültige Quellenangabe** enthalten. Ohne diese können deine Einträge nicht öffentlich gemacht werden.
+
+---
+
+## ✨ Effekt der Anhänge
+
+Einige Anhangsstellen unterstützen **Effekte**, um visuelle Inhalte nach und nach zu enthüllen:
+
+- **Keine** — Die Datei wird unverändert angezeigt
+- **Spotlight-Effekt** — Enthüllt nach und nach Teile des Bildes mit einem sich bewegenden Spotlight, das sich währenddessen erweitert
+
+Dies ist besonders effektiv für Rätsel oder langsame Enthüllungen während Einleitungen oder dramatischen Momenten.
+
+---
+
+## 📚 Mehrere Anhänge pro Stelle
+
+Einige Stellen erlauben das Hinzufügen von **mehreren Anhängen**. Das Verhalten hängt vom Spielmodus ab:
+
+> ⚡ **Im [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** Der quizmaster hat die volle Kontrolle und kann während des Spiels entscheiden, wann Anhänge gezeigt oder verborgen werden.\
+> 🎮 **In regulären Spielen:** Alle Anhänge innerhalb einer Stelle werden **gleichzeitig** angezeigt.
+
+Details zu Zeit und Verhalten jeder Stelle sind in der verlinkten Dokumentation für [Fragen](../editor/015-importing-questions.md), [Runden](../editor/008-round-options.md) und [Quizze](../editor/007-quiz-options.md) zu finden.
