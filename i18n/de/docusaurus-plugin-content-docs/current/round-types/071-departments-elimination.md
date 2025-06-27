@@ -1,28 +1,28 @@
 ---
 id: department-elimination
-title: Department Elimination
+title: Abteilungs-Eliminierung
 ---
 
-# 🏢 Department elimination
+# 🏢 Abteilungs-Eliminierung
 
-**Department elimination** is a special event that removes players from a specific department, using the same elimination criteria as the standard [Elimination](050-elimination.md) round.
-
----
-
-## 📝 How it works
-
-- When this event is triggered, only players or teams belonging to the selected department are considered for elimination.
-- The elimination criteria are flexible:
-    - **Kick the lowest ranked in the department** until a set number of players remain
-    - **Kick the highest ranked in the department** until a set number remain
-    - **Kick a specific number of lowest ranked** in the department
-    - **Kick a specific number of highest ranked** in the department
-- The number of players to keep or eliminate can be set as an exact number or percentage.
+**Abteilungs-Eliminierung** ist ein spezielles Ereignis, das Spieler aus einer bestimmten Abteilung entfernt, wobei dieselben Eliminierungskriterien wie in der standardmäßigen [Elimination](050-elimination.md)-Runde angewendet werden.
 
 ---
 
-> Department elimination lets you run knockouts within a group or department, perfect for tournaments or themed competitions.
+## 📝 So funktioniert es
+
+- Wenn dieses Ereignis ausgelöst wird, werden nur Spieler oder Teams berücksichtigt, die zur ausgewählten Abteilung gehören.
+- Die Eliminierungskriterien sind flexibel:
+    - **Wirf die am niedrigsten Platzierten in der Abteilung raus**, bis eine festgelegte Anzahl von Spielern übrig bleibt
+    - **Wirf die am höchsten Platzierten in der Abteilung raus**, bis eine bestimmte Anzahl übrig bleibt
+    - **Wirf eine bestimmte Anzahl der am niedrigsten Platzierten** in der Abteilung raus
+    - **Wirf eine bestimmte Anzahl der am höchsten Platzierten** in der Abteilung raus
+- Die Anzahl der Spieler, die behalten oder eliminiert werden sollen, kann als genaue Zahl oder Prozentsatz festgelegt werden.
 
 ---
 
-For more on elimination options, see the [Elimination round](050-elimination.md) or [Round options](../editor/008-round-options.md).
+> Die Abteilungs-Eliminierung ermöglicht es dir, Knockouts innerhalb einer Gruppe oder Abteilung durchzuführen – perfekt für Turniere oder thematische Wettbewerbe.
+
+---
+
+Weitere Informationen zu Eliminierungsoptionen findest du in der [Elimination-Runde](050-elimination.md) oder bei den [Rundenoptionen](../editor/008-round-options.md).
