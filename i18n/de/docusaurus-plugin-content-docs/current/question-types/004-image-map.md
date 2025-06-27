@@ -1,60 +1,60 @@
 ---
 id: image-map-question
-title: Image map question
+title: Bildkartenfrage
 ---
 
-# 🗺️ Image map
+# 🗺️ Bildkarte
 
-In an **Image map** question, players must select the correct spot (or spots) on an image displayed on their device. This is ideal for visual identification challenges, such as "Select the Erlenmeyer flask."
-
----
-
-![Example: Image map question with flasks](/images/question-modes/image-map/image-map-example.png)
+Bei einer **Bildkartenfrage** müssen die Spieler den richtigen Punkt (oder die richtigen Punkte) auf einem Bild auswählen, das auf ihrem smart device angezeigt wird. Das ist ideal für visuelle Erkennungsaufgaben, wie beispielsweise „Wähle den Erlenmeyerkolben aus.“
 
 ---
 
-## 📝 How it works
-
-- **Question:** Clearly state what players need to find on the image.\
-  _(Example: “Select the Erlenmeyer flask.”)_
-- **Image:** Upload a high-quality image that will be shown to all players.
-- **Answer points:** Define one or more **target areas** (“points”) on the image. Each area can be set as a circle or another shape, and you determine its position and size.
-- **Selecting answers:** Players tap or click to mark their answer(s) on the image.
-  - If the answer falls **within a correct area**, they receive full points.
-  - If the answer falls **outside the correct area** but within the “almost correct” radius, they can earn partial points based on the distance (as defined by the _score easing_ setting).
-- **Multiple answers:** If the question requires more than one answer, players must select each correct area.
-  - Selecting the same area multiple times will **not** grant extra points.
-- **Scoring method:** You can configure whether points are awarded for each correct area individually, or only when the required minimum number of correct answers are selected.
+![Beispiel: Bildkartenfrage mit Kolben](/images/question-modes/image-map/image-map-example.png)
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 So funktioniert’s
 
-- **Number of answers:** Set the required minimum and maximum number of points a player must identify.
-- **Score easing:** Adjusts partial credit for “almost correct” answers, based on how close the selection is to the correct area (only applies to distance between correct and almost correct).
-- **Points per area:** Decide if points are awarded per correctly identified area, or only if all minimum required areas are selected.
-- **Attachment options:** Add images, audio, or video for richer context. Set attributions if publishing.
-
-See [writing questions](../editor/005-writing-questions.md) for general question settings.
-
----
-
-## ⏱️ Time-based scoring
-
-**Time-based scoring is enabled by default.** Players who answer quickly earn more points, but there’s always a fixed component (default: 75%) for a correct answer. Only 25% of the total score is influenced by how fast you answer.\
-You can turn off time-based scoring for this question type if you wish.
-
-📘 For details on scoring and time settings, see the [round options documentation](../editor/008-round-options.md#scoring).
+- **Frage:** Formuliere klar, was die Spieler auf dem Bild finden müssen.\
+  _(Beispiel: „Wähle den Erlenmeyerkolben aus.“)_
+- **Bild:** Lade ein hochqualitatives Bild hoch, das allen Spielern angezeigt wird.
+- **Antwortbereiche:** Definiere einen oder mehrere **Zielbereiche** („Punkte“) auf dem Bild. Jeder Bereich kann als Kreis oder eine andere Form eingestellt werden, und Du bestimmst Position und Größe.
+- **Antwort auswählen:** Spieler tippen oder klicken, um ihre Antwort(en) auf dem Bild zu markieren.
+  - Wenn die Antwort **innerhalb eines korrekten Bereichs** liegt, erhalten sie volle Punkte.
+  - Liegt die Antwort **außerhalb des richtigen Bereichs**, aber innerhalb des "fast richtigen" Radius, können sie Teilpunkte basierend auf der Entfernung erhalten (gemäß der Einstellung _score easing_).
+- **Mehrfache Antworten:** Wenn die Frage mehrere Antworten erfordert, müssen die Spieler jeden korrekten Bereich auswählen.
+  - Das mehrfache Auswählen desselben Bereichs gibt **keine** zusätzlichen Punkte.
+- **Punktesystem:** Du kannst einstellen, ob Punkte für jeden korrekt identifizierten Bereich einzeln vergeben werden oder nur, wenn die erforderliche Mindestanzahl korrekter Antworten erreicht wird.
 
 ---
 
-## 💡 Tips for great image map questions
+## ⚙️ Erweiterte Einstellungen
 
-- **Use clear, non-cluttered images** for easy identification.
-- **Define answer areas carefully** to avoid overlap or confusion.
-- **Provide constructive feedback** to help players learn from mistakes.
-- **Partial credit:** Use the “almost correct” option to reward near-misses and keep things fair.
+- **Anzahl der Antworten:** Leg die erforderliche Mindest- und Höchstanzahl an Punkten fest, die ein Spieler identifizieren muss.
+- **Score easing:** Passt die Teilpunkte für „fast richtige“ Antworten an, basierend darauf, wie nah die Auswahl am richtigen Bereich ist (gilt nur für die Distanz zwischen richtig und fast richtig).
+- **Punkte pro Bereich:** Entscheide, ob Punkte pro korrekt erkanntem Bereich vergeben werden oder nur, wenn alle mindestens erforderlichen Bereiche ausgewählt sind.
+- **Anhangoptionen:** Füge Bilder, Audio oder Video für reichhaltigeren Kontext hinzu. Setze Quellenangaben, wenn veröffentlicht wird.
+
+Siehe [Fragen schreiben](../editor/005-writing-questions.md) für allgemeine Frageeinstellungen.
 
 ---
 
-Image map questions are perfect for labeling diagrams, identifying regions, or visual “find-the-object” games!
+## ⏱️ Zeitbasierte Punktevergabe
+
+**Zeitbasierte Punktevergabe ist standardmäßig aktiviert.** Spieler, die schnell antworten, erhalten mehr Punkte, aber es gibt immer eine feste Komponente (Standard: 75 %) für eine korrekte Antwort. Nur 25 % der Gesamtpunktzahl werden davon beeinflusst, wie schnell Du antwortest.\
+Du kannst die zeitbasierte Punktevergabe für diesen Fragetyp deaktivieren, wenn Du möchtest.
+
+📘 Für Details zu Punkten und Zeiteinstellungen siehe die [Rundenoptionen-Dokumentation](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Tipps für großartige Bildkartenfragen
+
+- **Benutze klare, unübersichtliche Bilder** für einfache Erkennung.
+- **Definiere Antwortbereiche sorgfältig**, um Überlappungen oder Verwirrung zu vermeiden.
+- **Gib konstruktives Feedback**, um Spielern zu helfen, aus Fehlern zu lernen.
+- **Teilpunkte:** Nutze die „fast richtig“-Option, um Beinahe-Treffer zu belohnen und es fair zu halten.
+
+---
+
+Bildkartenfragen sind perfekt für das Beschriften von Diagrammen, das Erkennen von Regionen oder visuelle "Finde-das-Objekt"-Spiele!
