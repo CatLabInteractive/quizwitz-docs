@@ -1,87 +1,87 @@
 ---
 id: writing-questions
-title: Writing questions
+title: Escribiendo preguntas
 ---
 
-# ✍️ Writing Questions
+# ✍️ Escribiendo preguntas
 
-Time to get creative! Whether you're building a full quiz or a Round-About, writing strong, fun questions is at the heart of a great game.
+¡Es hora de ser creativo! Ya sea que estés construyendo un quiz completo o un Round-About, escribir preguntas fuertes y divertidas es el corazón de un gran juego.
 
-To begin, click **Add new question**. You can add as many as you like.
+Para empezar, haz clic en **Agregar nueva pregunta**. Puedes añadir tantas como quieras.
 
-> 💾 Don’t forget to **save your work** regularly and **test your quiz** at any time to see how it plays!
-
----
-
-## ⚙️ Question settings
-
-Click the **gear icon** in the top-left corner of a question to open its full settings panel.
-
-![Question options](/images/question-options.png)
+> 💾 No olvides **guardar tu trabajo** regularmente y **probar tu quiz** en cualquier momento para ver cómo se juega.
 
 ---
 
-### 🎮 Mode & scoring
+## ⚙️ Configuración de preguntas
 
-- **Question type** — Choose how the question is played (e.g. multiple choice, open answer, puzzle)\
-  → Learn more in [question types](../question-types/000-question-types.md)
-- **Points** — Set how many points a correct answer is worth
-- **Question timer** — Adjust the time limit using the slider
+Haz clic en el **icono de engranaje** en la esquina superior izquierda de una pregunta para abrir su panel completo de configuración.
 
----
-
-### 🧩 Game behavior settings
-
-Customize how the question behaves during gameplay:
-
-- **Time-based scoring** — Reward players who answer more quickly
-- **Multiple correct answers** — Allow more than one valid choice
-- **Random answer order** — Shuffle the options on screen
-- **Stop timer when all answered** — Continue as soon as all responses are in
-- **Show question results** — Show feedback after the question (or disable it)
-- **Force results after question** — Only applies when feedback would normally be delayed (e.g., in lightning rounds or open questions). For standard questions without jury interaction, feedback is shown automatically after each question.
+![Opciones de pregunta](/images/question-options.png)
 
 ---
 
-### 🎤 Presenter content
+### 🎮 Modo y puntuación
 
-These fields control what appears on the Quizmaster App and big screen:
-
-- **Big screen – Question feedback** — Shown to all players after feedback is revealed
-- **Presenter – Long question** — A version of the question to be read aloud by the host
-- **Presenter – Long feedback** — Text the host can read after revealing the correct answer
-
-> 📝 These fields help make live presentations feel dynamic and polished.
+- **Tipo de pregunta** — Elige cómo se juega la pregunta (por ejemplo, opción múltiple, respuesta abierta, rompecabezas)\
+  → Aprende más en [tipos de pregunta](../question-types/000-question-types.md)
+- **Puntos** — Establece cuántos puntos vale una respuesta correcta
+- **Temporizador de la pregunta** — Ajusta el límite de tiempo usando el deslizador
 
 ---
 
-## 📎 Attachments
+### 🧩 Configuración de comportamiento del juego
 
-![Question attachments](/images/question-attachments.png)
+Personaliza cómo se comporta la pregunta durante el juego:
 
-You can enhance questions with images, video, or audio. Each attachment can be shown at specific points:
+- **Puntuación basada en tiempo** — Premia a los jugadores que responden más rápido
+- **Múltiples respuestas correctas** — Permite más de una opción válida
+- **Orden aleatorio de respuestas** — Mezcla las opciones en pantalla
+- **Detener temporizador cuando todos responden** — Continuar tan pronto todas las respuestas estén recibidas
+- **Mostrar resultados de la pregunta** — Mostrar retroalimentación después de la pregunta (o deshabilitarla)
+- **Forzar resultados después de la pregunta** — Sólo aplica cuando la retroalimentación normalmente se retrasaría (p.ej., en rondas relámpago o preguntas abiertas). Para preguntas estándar sin interacción de jurado, la retroalimentación se muestra automáticamente después de cada pregunta.
 
-- **Before / During / After Question** — Shown around the time the question is presented
-- **Before / During / After Feedback** — Shown when results are revealed
+---
+
+### 🎤 Contenido para presentador
+
+Estos campos controlan lo que aparece en la App del Quizmaster y en la pantalla grande:
+
+- **Pantalla grande – Retroalimentación de la pregunta** — Mostrado a todos los jugadores después de revelar retroalimentación
+- **Presentador – Pregunta larga** — Una versión de la pregunta para que la lea el anfitrión en voz alta
+- **Presentador – Retroalimentación larga** — Texto que el anfitrión puede leer después de revelar la respuesta correcta
+
+> 📝 Estos campos ayudan a que las presentaciones en vivo se sientan dinámicas y pulidas.
+
+---
+
+## 📎 Archivos adjuntos
+
+![Archivos adjuntos a la pregunta](/images/question-attachments.png)
+
+Puedes mejorar las preguntas con imágenes, video o audio. Cada adjunto puede mostrarse en momentos específicos:
+
+- **Antes / Durante / Después de la pregunta** — Mostrado cuando se presenta la pregunta
+- **Antes / Durante / Después de la retroalimentación** — Mostrado cuando se revelan los resultados
 - ...
 
-> 🧠 Attachments are especially useful for building suspense, illustrating answers, or giving context.
+> 🧠 Los archivos adjuntos son especialmente útiles para generar suspense, ilustrar respuestas o dar contexto.
 
-You can add **multiple attachments** in each slot.
+Puedes agregar **múltiples archivos adjuntos** en cada espacio.
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** the quizmaster can choose which attachment to display at each moment.\
-> 🎮 **In regular games:** all attachments in a given slot are shown at once.
+> ⚡ **En [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** el quizmaster puede elegir qué archivo adjunto mostrar en cada momento.\
+> 🎮 **En juegos regulares:** todos los archivos adjuntos en un espacio dado se muestran al mismo tiempo.
 
-📘 Learn more about supported file types, timing tips, and limitations in the [attachments guide](../editor/006-attachments.md).
-
----
-
-### 💡 Pro tip: Choosing the right moment
-
-- Show the correct answer visually? → Use **After Question**
-- Build suspense before revealing feedback? → Use **Before Feedback**
-- Add extra trivia or depth? → Use **After Feedback**
+📘 Aprende más sobre los tipos de archivo soportados, consejos sobre tiempos y limitaciones en la [guía de archivos adjuntos](../editor/006-attachments.md).
 
 ---
 
-Next up: Learn more about the different [question types](../question-types/000-question-types.md) and how to structure your [round types](../round-types/000-round-types.md) for maximum impact.
+### 💡 Consejo profesional: Elegir el momento adecuado
+
+- ¿Mostrar visualmente la respuesta correcta? → Usar **Después de la pregunta**
+- ¿Generar suspense antes de revelar la retroalimentación? → Usar **Antes de la retroalimentación**
+- ¿Agregar datos curiosos o profundidad extra? → Usar **Después de la retroalimentación**
+
+---
+
+A continuación: Aprende más sobre los diferentes [tipos de pregunta](../question-types/000-question-types.md) y cómo estructurar tus [tipos de ronda](../round-types/000-round-types.md) para lograr el máximo impacto.
