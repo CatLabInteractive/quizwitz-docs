@@ -1,64 +1,64 @@
 ---
 id: activity
-title: Activity
+title: Aktivität
 ---
 
-# 🎭 Activity
+# 🎭 Aktivität
 
-An Activity round lets you step away from standard quiz questions for a creative or physical challenge. The quizmaster describes an activity or duel, selects teams to compete, and awards points based on performance.
-
----
-
-![Main screen for Activity round](/images/round-modes/activity-main-screen.png)
+Eine Aktivitätsrunde erlaubt es dir, von den klassischen Quizfragen zu einem kreativen oder körperlichen Wettbewerb zu wechseln. Der quizmaster beschreibt eine Aktivität oder einen Wettbewerb, wählt Teams zur Teilnahme aus und vergibt Punkte basierend auf der Leistung.
 
 ---
 
-## 🏆 How it works
+![Hauptbildschirm für die Aktivitätsrunde](/images/round-modes/activity-main-screen.png)
 
-- **Challenge Description:** The round begins with a description of the activity (e.g., "Fold a paper plane and throw it as far as possible, furthest wins!").
-- **Team/Player Selection:** The quizmaster selects which teams or players will participate in the activity.
-  - **Random selection ensures every team is drawn an equal number of times throughout the quiz.** So if you have 40 teams and 10 activity rounds with 4 teams each, every team will be selected exactly once.
-- **Timer & Tools:** Start a timer and use sound effects (like buzzer or bells) to manage the challenge.
-- **Award Points:** After the activity, the quizmaster enters the results and awards points to the winning team(s).
+---
+
+## 🏆 So funktioniert es
+
+- **Beschreibung der Herausforderung:** Die Runde beginnt mit einer Beschreibung der Aktivität (z. B. "Falte ein Papierflugzeug und wirf es so weit wie möglich — der weiteste Wurf gewinnt!").
+- **Team-/Spielerauswahl:** Der quizmaster wählt aus, welche Teams oder Spieler bei der Aktivität mitmachen.
+  - **Die Zufallsauswahl sorgt dafür, dass jedes Team im Laufe des Quiz gleich oft ausgewählt wird.** Wenn du also 40 Teams und 10 Aktivitätsrunden mit je 4 Teams hast, wird jedes Team genau einmal gezogen.
+- **Timer & Tools:** Starte einen Timer und nutze Soundeffekte (z. B. Buzzer oder Glocken), um die Herausforderung zu steuern.
+- **Punktevergabe:** Nach der Aktivität trägt der quizmaster die Ergebnisse ein und vergibt Punkte an das/ die Gewinnerteam(s).
 
 <table><tbody><tr><td markdown>
-![Team selection for Activity round](/images/round-modes/activity-team-selection.png)
+![Teamauswahl für die Aktivitätsrunde](/images/round-modes/activity-team-selection.png)
 </td><td markdown>
-![Activity round tools](/images/round-modes/activity-tools.png)
+![Aktivitätsrunden-Tools](/images/round-modes/activity-tools.png)
 </td></tr></tbody></table>
 
 ---
 
-## 🛠️ Tools & Controls
+## 🛠️ Werkzeuge & Steuerung
 
-- **Duel tools:** The quizmaster can access quick actions for buzzer, gong, bells, and timers during the activity.
-- **Custom Points:** Points can be entered manually for each team, or you can select a winner with quick action buttons.
-- **Attachments:** Add images, audio, or video to explain the activity or show examples. The quizmaster can display these on the main screen during the activity.
+- **Duell-Tools:** Der quizmaster kann während der Aktivität Schnellaktionen für Buzzer, Gong, Glocken und Timer nutzen.
+- **Individuelle Punkte:** Punkte können für jedes Team manuell eingetragen werden, oder du kannst mit Schnellaktionen einen Gewinner auswählen.
+- **Anhänge:** Füge Bilder, Audio oder Video hinzu, um die Aktivität zu erklären oder Beispiele zu zeigen. Der quizmaster kann diese während der Aktivität auf dem Hauptbildschirm anzeigen.
 
 ---
 
-## 🏅 Deciding the Winner
+## 🏅 Den Gewinner bestimmen
 
-- **Winner Selection:** Choose the winner(s) or divide points among several teams.
-- **Player Vote:** Let players vote for the winner if you like.
-- **Award Points:** Points can be divided or awarded as you see fit.
+- **Siegerauswahl:** Wähle den/ die Gewinner aus oder teile Punkte auf mehrere Teams auf.
+- **Spielerabstimmung:** Lass die Spieler auf Wunsch für den Gewinner abstimmen.
+- **Punktevergabe:** Punkte können so vergeben oder verteilt werden, wie du möchtest.
 
 <table><tbody><tr><td markdown>
-![Winner selection screen](/images/round-modes/activity-winner-selection.png)
+![Siegerauswahl-Bildschirm](/images/round-modes/activity-winner-selection.png)
 </td><td markdown>
-![Custom points entry](/images/round-modes/activity-custom-points.png)
+![Individuelle Punkteeingabe](/images/round-modes/activity-custom-points.png)
 </td></tr></tbody></table>
 
 ---
 
-## 💡 Tips
+## 💡 Tipps
 
-- **Make it memorable:** Activities work best when they're fun for everyone to watch or participate in.
-- **Make it fair:** Ensure the activity can be judged objectively, or use a voting system to decide the winner.
-- **Be clear:** Announce the rules and expectations before starting.
-- **Energize your event:** Use activity rounds to keep things lively and engaging.
-- **Encourage creativity:** Let teams come up with their own strategies or approaches to the activity.
+- **Mach es erinnerungswürdig:** Aktivitäten funktionieren am besten, wenn alle Spaß am Zuschauen oder Mitmachen haben.
+- **Sei fair:** Stelle sicher, dass die Aktivität objektiv bewertet werden kann, oder nutze ein Abstimmungssystem zur Siegerbestimmung.
+- **Sei klar:** Kündige die Regeln und Erwartungen vor dem Start an.
+- **Belebe dein Event:** Nutze Aktivitätsrunden, um das Event lebendig und spannend zu halten.
+- **Fordere Kreativität heraus:** Lass Teams ihre eigenen Strategien oder Herangehensweisen zur Aktivität entwickeln.
 
 ---
 
-The Activity round is perfect for interactive challenges, duels, or creative tasks — a great way to add energy and variety to your QuizWitz event!
+Die Aktivitätsrunde ist perfekt für interaktive Challenges, Duelle oder kreative Aufgaben – eine tolle Möglichkeit, deinem QuizWitz-Event Energie und Abwechslung zu verleihen!
