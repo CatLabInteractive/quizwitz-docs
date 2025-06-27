@@ -1,79 +1,79 @@
 ---
 id: conference-booth
-title: Conference booth
+title: Stand de conferencia
 ---
 
-# Conference booth
+# Stand de conferencia
 
-This tutorial will show you how to run QuizWitz at your conference booth — an easy, interactive way to attract visitors and gather leads!
+¡Este tutorial te mostrará cómo usar QuizWitz en tu stand de conferencia — una forma fácil e interactiva de atraer visitantes y recopilar contactos!
 
-![A photo of a Marvel conference booth using QuizWitz](/images/photos/marvel.jpg)
+![Una foto de un stand de Marvel usando QuizWitz](/images/photos/marvel.jpg)
 
 ---
 
-## 📝 Creating the quiz
+## 📝 Creando el quiz
 
-When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.\
-To keep things fresh, make sure you have plenty of questions — enough to randomize and make each playthrough unique.
+Al crear un quiz para un stand de conferencia, ten en cuenta que algunos jugadores pueden quedarse para jugar varias partidas.\
+Para mantenerlo fresco, asegúrate de tener muchas preguntas — suficientes para aleatorizar y hacer que cada partida sea única.
 
-**Recommended setup:**
+**Configuración recomendada:**
 
-- 15 questions split into 3 rounds
-- Create at least 3× that many questions for variety — more is better!
+- 15 preguntas divididas en 3 rondas
+- Crea al menos 3× esa cantidad de preguntas para variedad — ¡cuantas más, mejor!
 
-### 🎲 Step-by-step quiz creation
+### 🎲 Creación paso a paso del quiz
 
-1. **Choose “Quiz”** in the Create menu and give your quiz a name. Set the correct language.
-2. **Add 3 rounds** and name them (for example: Round 1, Round 2, Round 3).
-3. In the **Round settings** (cog icon), enable **“Only show x questions”** and set the number to 5.\
-  Also enable **“Random question order”** — otherwise the game will always pick the first 5 questions.\
-  Repeat for each round.
+1. **Elige “Quiz”** en el menú Crear y ponle un nombre a tu quiz. Configura el idioma correcto.
+2. **Agrega 3 rondas** y nómbralas (por ejemplo: Ronda 1, Ronda 2, Ronda 3).
+3. En la **configuración de rondas** (ícono de engranaje), activa **“Mostrar solo x preguntas”** y pon el número en 5.\
+  También activa **“Orden aleatorio de preguntas”** — si no, el juego siempre seleccionará las primeras 5 preguntas.\
+  Repite para cada ronda.
 
-![Screenshot of round settings for a conference booth](/images/tutorials/conference/round_settings.png)
+![Captura de pantalla de la configuración de rondas para un stand de conferencia](/images/tutorials/conference/round_settings.png)
 
-4. **Add questions to each round.**\
-  You can [write questions](../editor/005-writing-questions.md) or use the Import button to quickly add content from Excel.
+4. **Agrega preguntas a cada ronda.**\
+  Puedes [escribir preguntas](../editor/005-writing-questions.md) o usar el botón Importar para añadir contenido rápidamente desde Excel.
 
 :::tip
-Use lots of images and video clips — they make the game much more entertaining!
+Usa muchas imágenes y clips de video — ¡hacen el juego mucho más divertido!
 :::
 
 ---
 
-### 🔀 How random selection works
+### 🔀 Cómo funciona la selección aleatoria
 
-Each time the quiz runs, QuizWitz will select 5 random questions from each round. The system will distribute questions fairly so repeats are minimized.
-
----
-
-## 🚀 Launch the quiz
-
-The fastest way to launch your conference quiz:
-
-1. Click **Play quiz**.
-2. Select **Start Conference Mode**.
-
-In this mode, players use their phones to connect to the game link on the main screen.\
-When everyone is ready, the booth host presses Enter — and the game runs automatically.\
-After the game ends, pressing Enter brings you right back to the connection screen for the next group.
+Cada vez que se ejecuta el quiz, QuizWitz selecciona 5 preguntas aleatorias de cada ronda. El sistema distribuye las preguntas de forma justa para minimizar repeticiones.
 
 ---
 
-## ⚙️ Advanced game options
+## 🚀 Lanza el quiz
 
-Want more control?\
-Choose **Advanced game options** and select **Conference mode** in the mode selector.\
-You’ll get a unique link with all your chosen options.
+La forma más rápida de lanzar tu quiz para conferencia:
 
-- **Ask players’ email:**\
-  Collect visitor emails for your booth! If you enable this, be sure to also set your **Privacy Policy URL**.
-- When launching a game via the advanced options link, you may be prompted to log in before starting — this checks your content and licenses.
+1. Haz clic en **Jugar quiz**.
+2. Selecciona **Iniciar modo de conferencia**.
 
-![Screenshot of advanced game settings](/images/tutorials/conference/advanced_game_settings.png)
+En este modo, los jugadores usan sus teléfonos para conectarse al enlace del juego en la pantalla principal.\
+Cuando todos estén listos, el anfitrión del stand presiona Enter — y el juego corre automáticamente.\
+Después de que termine el juego, presionar Enter te lleva de vuelta a la pantalla de conexión para el siguiente grupo.
 
 ---
 
-## 🎨 Theming
+## ⚙️ Opciones avanzadas del juego
 
-Want to match the game to your booth branding?\
-See our [Theming guide](../advanced/011-emerald-theme.md) for tips on customizing your QuizWitz experience.
+¿Quieres más control?\
+Elige **Opciones avanzadas de juego** y selecciona **Modo conferencia** en el selector de modo.\
+Obtendrás un enlace único con todas tus opciones seleccionadas.
+
+- **Pedir correo electrónico de los jugadores:**\
+  ¡Recopila correos de visitantes para tu stand! Si activas esto, asegúrate también de configurar tu **URL de política de privacidad**.
+- Al lanzar un juego vía el enlace de opciones avanzadas, es posible que te pidan iniciar sesión antes de comenzar — esto verifica tu contenido y licencias.
+
+![Captura de pantalla de configuración avanzada del juego](/images/tutorials/conference/advanced_game_settings.png)
+
+---
+
+## 🎨 Tematización
+
+¿Quieres que el juego combine con el branding de tu stand?\
+Consulta nuestra [Guía de tematización](../advanced/011-emerald-theme.md) para consejos sobre cómo personalizar tu experiencia en QuizWitz.
