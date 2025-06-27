@@ -1,40 +1,40 @@
 ---
 id: common-thread
-title: Common thread
+title: Hilo común
 ---
 
-# 🧵 Common Thread
+# 🧵 Hilo común
 
-The **Common Thread** round is a special variation of the classic Trivia round. In this round, players answer a series of regular questions, but the twist is that all answers are secretly connected by a single underlying theme or link — the “common thread.”
-
----
-
-## 📝 How it works
-
-- Players answer a sequence of questions as usual.
-- The final question in the round is typically **“What is the common thread that connects all these answers?”**
-- Instead of showing feedback after each question, **all feedback is postponed until the end of the round.**
-- When the round ends, feedback for the final “common thread” question is shown **first**.
-- After that, feedback for all previous questions is revealed, allowing the quizmaster to explain how each answer ties into the overall theme.
+La ronda **Hilo común** es una variación especial de la clásica ronda de Trivia. En esta ronda, los jugadores responden una serie de preguntas regulares, pero la sorpresa es que todas las respuestas están secretamente conectadas por un solo tema o enlace subyacente: el "hilo común".
 
 ---
 
-## ⚙️ Feedback and scoring
+## 📝 Cómo funciona
 
-- **Postponed feedback:** No immediate answer feedback after each question. Everything is revealed at the end.
-- **Quizmaster control:** The feedback reveal sequence helps build suspense and encourages group discussion.
-- **Scoring:** Each question uses its configured scoring type. The “common thread” question is usually open or freeform.
-
-See [round options](../editor/008-round-options.md) for details on configuring feedback timing and scoring.
-
----
-
-## 💡 Tips for writing a Common Thread round
-
-- **Choose a good link:** Pick a theme that is clever but not impossible to guess.
-- **Balance the questions:** Ensure each question makes sense on its own, but also fits the common thread.
-- **Final question:** End the round with a clear, direct question asking players to identify the link.
+- Los jugadores responden una secuencia de preguntas como de costumbre.
+- La pregunta final de la ronda suele ser **“¿Cuál es el hilo común que conecta todas estas respuestas?”**
+- En lugar de mostrar retroalimentación después de cada pregunta, **toda la retroalimentación se pospone hasta el final de la ronda.**
+- Cuando termina la ronda, se muestra la retroalimentación de la pregunta final del “hilo común” **primero**.
+- Después de eso, se revela la retroalimentación de todas las preguntas anteriores, lo que permite al quizmaster explicar cómo cada respuesta se relaciona con el tema general.
 
 ---
 
-For more information about configuring round feedback and special round types, see the [round types documentation](../question-types/000-question-types.md).
+## ⚙️ Retroalimentación y puntuación
+
+- **Retroalimentación pospuesta:** No hay retroalimentación inmediata después de cada pregunta. Todo se revela al final.
+- **Control del quizmaster:** La secuencia de revelación de la retroalimentación ayuda a crear suspenso y fomenta la discusión grupal.
+- **Puntuación:** Cada pregunta utiliza su tipo de puntuación configurado. La pregunta de “hilo común” suele ser abierta o de forma libre.
+
+Consulta las [opciones de ronda](../editor/008-round-options.md) para obtener detalles sobre cómo configurar el tiempo de retroalimentación y la puntuación.
+
+---
+
+## 💡 Consejos para escribir una ronda Hilo común
+
+- **Elige un buen enlace:** Escoge un tema que sea inteligente pero no imposible de adivinar.
+- **Equilibra las preguntas:** Asegúrate de que cada pregunta tenga sentido por sí sola, pero que también encaje con el hilo común.
+- **Pregunta final:** Termina la ronda con una pregunta clara y directa que pida a los jugadores identificar el enlace.
+
+---
+
+Para más información sobre cómo configurar la retroalimentación de las rondas y tipos especiales de rondas, consulta la [documentación de tipos de ronda](../question-types/000-question-types.md).
