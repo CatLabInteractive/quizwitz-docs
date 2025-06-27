@@ -1,62 +1,62 @@
 ---
 id: list-question
-title: List question
+title: Question de liste
 ---
 
-# 📝 List question
+# 📝 Question de liste
 
-A **List question** asks players to provide several correct answers from a larger list — perfect for prompts like “List the first 5 presidents of the United States of America” or “Name three elements in the periodic table.”
-
----
-
-![Example: List question with US presidents](/images/question-modes/list-question/list-question.png)
+Une **question de liste** demande aux joueurs de fournir plusieurs bonnes réponses issues d'une liste plus étendue — parfait pour des consignes comme « Listez les 5 premiers présidents des États-Unis d'Amérique » ou « Nommez trois éléments du tableau périodique. »
 
 ---
 
-## 📝 How it works
-
-- **Question:** Clearly state what you want players to list.
-- **List items:** Enter all possible correct answers.
-  - Mark some as **‘Given’** to show as examples on screen; these do NOT need to be answered.
-  - Order does **not** matter — players can enter correct answers in any order.
-- **Player input:** Players must provide a set number of answers (e.g., between 1 and 5). Points are awarded for each correct answer they submit.
-- **Attachments:** Add images, audio, or video for context. Fill in attribution if publishing.
+![Exemple : Question de liste avec les présidents américains](/images/question-modes/list-question/list-question.png)
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Comment ça marche
 
-- **Minimum and maximum answers:** Define how many answers a player must give.
-- **Points per answer:** Points can be awarded for each correct answer, or only when the minimum number is met.
-- **Given options:** Use as in-question examples.
-- **Correction:**
-  - **Force automatic correction:** When enabled, QuizWitz automatically checks all answers (accepting small typos and variations). No jury needed.
-  - **Manual review:** When not enabled, each provided answer must be reviewed by the [jury app](../quizmaster/004-jury-app.md).
+- **Question :** Indiquez clairement ce que vous voulez que les joueurs listent.
+- **Éléments à lister :** Saisissez toutes les réponses correctes possibles.
+  - Marquez certains comme **« Donnés »** pour les afficher en exemple à l'écran ; ils n'ont PAS besoin d'être répondus.
+  - L'ordre n'a **pas** d'importance — les joueurs peuvent saisir les réponses correctes dans n'importe quel ordre.
+- **Réponse du joueur :** Les joueurs doivent fournir un nombre défini de réponses (par ex. entre 1 et 5). Des points sont attribués pour chaque réponse correcte soumise.
+- **Pièces jointes :** Ajoutez images, audio ou vidéo pour le contexte. Remplissez la mention d’attribution si vous publiez.
+
+---
+
+## ⚙️ Paramètres avancés
+
+- **Réponses minimum et maximum :** Définissez combien de réponses un joueur doit fournir.
+- **Points par réponse :** Les points peuvent être attribués pour chaque réponse correcte, ou seulement quand le nombre minimum est atteint.
+- **Options données :** Utilisez-les comme exemples dans la question.
+- **Correction :**
+  - **Forcer la correction automatique :** Quand activé, QuizWitz vérifie automatiquement toutes les réponses (en acceptant petites fautes et variations). Pas besoin de jury.
+  - **Revue manuelle :** Quand désactivé, chaque réponse doit être validée par l’[app jury](../quizmaster/004-jury-app.md).
 
 ---
 
 ## 🏆 Scoring
 
-- **Points per correct answer:** Players earn points for each correct answer.
-- **Time-based scoring** (if enabled):\
-  Follows the **open question rules** for fairness:
-  - The available points are split into blocks of time (not by the millisecond).\
-    For example: full points in the first block, 80% in the next, and so on.
-  - **Only 25%** of the points depend on speed.\
-    The other **75%** is fixed — so even slower typers get most of the points if they answer correctly.
-  - This reduces the penalty for typing speed and makes scoring fairer for everyone.
+- **Points par réponse correcte :** Les joueurs gagnent des points pour chaque bonne réponse.
+- **Scoring basé sur le temps** (si activé) :\
+  Suit les **règles des questions ouvertes** pour plus d'équité :
+  - Les points disponibles sont divisés en tranches de temps (pas au milliseconde).\
+    Par exemple : plein de points dans la première tranche, 80 % dans la suivante, etc.
+  - **Seuls 25 %** des points dépendent de la rapidité.\
+    Les autres **75 %** sont fixes — même les joueurs plus lents obtiennent la majorité des points s’ils répondent correctement.
+  - Cela réduit la pénalité liée à la vitesse de frappe et rend le scoring plus équitable pour tous.
 
-For details, see [round scoring options](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips for list questions
-
-- **Be specific:** Clearly define valid answers.
-- **Show examples:** Use the ‘Given’ feature.
-- **List variants:** Include common spellings/variations.
-- **Reduce jury work:** Use automatic correction if possible.
+Pour plus de détails, voyez [options de scoring des manches](../editor/008-round-options.md#scoring).
 
 ---
 
-For more, see [Jury app documentation](../quizmaster/004-jury-app.md).
+## 💡 Astuces pour les questions de liste
+
+- **Soyez précis :** Définissez clairement les réponses valides.
+- **Montrez des exemples :** Utilisez la fonction « Donné ».
+- **Lister les variantes :** Incluez les orthographes/variantes courantes.
+- **Réduisez le travail du jury :** Utilisez la correction automatique si possible.
+
+---
+
+Pour plus d’infos, consultez la [documentation de l’app jury](../quizmaster/004-jury-app.md).
