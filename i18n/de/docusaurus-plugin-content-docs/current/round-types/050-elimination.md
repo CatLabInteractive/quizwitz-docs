@@ -5,33 +5,33 @@ title: Elimination
 
 # 🚫 Elimination
 
-**Elimination** is a special event that automatically removes players or teams from the game based on their current ranking or score.\
-It’s a useful tool for tournaments, playoffs, or adding dramatic twists in live events!
+**Elimination** ist ein spezielles Ereignis, das Spieler oder Teams basierend auf ihrer aktuellen Rangliste oder Punktzahl automatisch aus dem Spiel entfernt.\
+Es ist ein nützliches Werkzeug für Turniere, Playoffs oder um dramatische Wendungen bei Live-Events hinzuzufügen!
 
 ---
 
-## 📝 How it works
+## 📝 Wie es funktioniert
 
-- When triggered, the elimination event evaluates player rankings and **kicks out players or teams** according to your chosen rule.
-- Elimination is not a round type with questions, but an automatic filter between rounds.
-
----
-
-## ⚙️ Elimination criteria
-
-You can configure the elimination event to:
-
-- **Kick lowest ranked players** until a specified number of players remain
-- **Kick highest ranked players** until a specified number of players remain
-- **Kick lowest ranked** (a set number of) players
-- **Kick highest ranked** (a set number of) players
-
-The number of players to keep (or kick) can be set as an exact number or as a percentage of all participants.
+- Wenn ausgelöst, bewertet das Eliminierungsevent die Spieler-Ranglisten und **wirft Spieler oder Teams** gemäß deiner gewählten Regel raus.
+- Elimination ist kein Fragentyp einer Runde, sondern ein automatischer Filter zwischen den Runden.
 
 ---
 
-> Elimination events are perfect for knock-out formats, reducing the field between quiz rounds, or creating tense “sudden death” moments in your game!
+## ⚙️ Eliminierungskriterien
+
+Du kannst das Eliminierungsevent so konfigurieren, dass es:
+
+- **die am niedrigsten platzierten Spieler rauswirft**, bis eine bestimmte Anzahl Spieler übrig bleibt
+- **die am höchsten platzierten Spieler rauswirft**, bis eine bestimmte Anzahl Spieler übrig bleibt
+- **eine festgelegte Anzahl der am niedrigsten platzierten Spieler rauswirft**
+- **eine festgelegte Anzahl der am höchsten platzierten Spieler rauswirft**
+
+Die Anzahl der Spieler, die behalten (oder rausgeworfen) werden sollen, kann als genaue Zahl oder als Prozentsatz aller Teilnehmer festgelegt werden.
 
 ---
 
-For more advanced options and event types, see [Round options](../editor/008-round-options.md).
+> Eliminierungsevents sind perfekt für K.o.-Formate, um die Anzahl der Spieler zwischen Quizrunden zu reduzieren oder um spannende “Sudden Death”-Momente in deinem Spiel zu schaffen!
+
+---
+
+Für weitergehende Optionen und Eventtypen siehe [Rundenoptionen](../editor/008-round-options.md).
