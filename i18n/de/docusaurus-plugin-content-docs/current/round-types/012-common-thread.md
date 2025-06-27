@@ -1,40 +1,40 @@
 ---
 id: common-thread
-title: Common thread
+title: Gemeinsamer Faden
 ---
 
-# 🧵 Common Thread
+# 🧵 Gemeinsamer Faden
 
-The **Common Thread** round is a special variation of the classic Trivia round. In this round, players answer a series of regular questions, but the twist is that all answers are secretly connected by a single underlying theme or link — the “common thread.”
-
----
-
-## 📝 How it works
-
-- Players answer a sequence of questions as usual.
-- The final question in the round is typically **“What is the common thread that connects all these answers?”**
-- Instead of showing feedback after each question, **all feedback is postponed until the end of the round.**
-- When the round ends, feedback for the final “common thread” question is shown **first**.
-- After that, feedback for all previous questions is revealed, allowing the quizmaster to explain how each answer ties into the overall theme.
+Die **Gemeinsamer Faden**-Runde ist eine besondere Variante der klassischen Trivia-Runde. In dieser Runde beantworten Spieler eine Reihe von regulären Fragen, aber der Clou ist, dass alle Antworten heimlich durch ein einziges zugrundeliegendes Thema oder eine Verbindung verbunden sind – der „gemeinsame Faden“.
 
 ---
 
-## ⚙️ Feedback and scoring
+## 📝 So funktioniert es
 
-- **Postponed feedback:** No immediate answer feedback after each question. Everything is revealed at the end.
-- **Quizmaster control:** The feedback reveal sequence helps build suspense and encourages group discussion.
-- **Scoring:** Each question uses its configured scoring type. The “common thread” question is usually open or freeform.
-
-See [round options](../editor/008-round-options.md) for details on configuring feedback timing and scoring.
-
----
-
-## 💡 Tips for writing a Common Thread round
-
-- **Choose a good link:** Pick a theme that is clever but not impossible to guess.
-- **Balance the questions:** Ensure each question makes sense on its own, but also fits the common thread.
-- **Final question:** End the round with a clear, direct question asking players to identify the link.
+- Spieler beantworten wie gewohnt eine Abfolge von Fragen.
+- Die abschließende Frage in der Runde ist typischerweise **„Was ist der gemeinsame Faden, der all diese Antworten verbindet?“**
+- Anstatt nach jeder Frage Feedback zu geben, wird **das gesamte Feedback bis zum Ende der Runde zurückgestellt.**
+- Wenn die Runde endet, wird zuerst das Feedback zur finalen „gemeinsamen Faden“-Frage angezeigt.
+- Danach wird das Feedback zu allen vorherigen Fragen offenbart, sodass der quizmaster erklären kann, wie jede Antwort zum übergreifenden Thema passt.
 
 ---
 
-For more information about configuring round feedback and special round types, see the [round types documentation](../question-types/000-question-types.md).
+## ⚙️ Feedback und Bewertung
+
+- **Zurückgestelltes Feedback:** Keine sofortige Rückmeldung nach jeder Frage. Alles wird am Ende enthüllt.
+- **Kontrolle durch den quizmaster:** Die Feedback-Aufdeckreihenfolge baut Spannung auf und regt Gruppendiskussionen an.
+- **Bewertung:** Jede Frage verwendet ihren konfigurierten Bewertungsmodus. Die Frage zum „gemeinsamen Faden“ ist normalerweise offen oder frei formuliert.
+
+Siehe [Rundenoptionen](../editor/008-round-options.md) für Details zur Konfiguration von Feedback-Timing und Bewertung.
+
+---
+
+## 💡 Tipps zur Erstellung einer Gemeinsamer Faden-Runde
+
+- **Wähle eine gute Verbindung:** Wähle ein Thema, das clever, aber nicht unmöglich zu erraten ist.
+- **Balance der Fragen:** Sorge dafür, dass jede Frage für sich allein Sinn ergibt, aber auch zum gemeinsamen Faden passt.
+- **Abschlussfrage:** Beende die Runde mit einer klaren, direkten Frage, die die Spieler auffordert, die Verbindung zu identifizieren.
+
+---
+
+Für weitere Informationen zur Konfiguration von Rundengefeedback und speziellen Rundentypen siehe die [Rundentyp-Dokumentation](../question-types/000-question-types.md).
