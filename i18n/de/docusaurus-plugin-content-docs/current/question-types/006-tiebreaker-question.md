@@ -1,35 +1,35 @@
 ---
 id: tiebreaker-question
-title: Tiebreaker question
+title: Entscheidungsfrage
 ---
 
-# 🏁 Tiebreaker question
+# 🏁 Entscheidungsfrage
 
-The Tiebreaker question is used to resolve ties at the end of a quiz.\
-Players are asked to guess a number (for example, “How many beans are in the jar?”). The player whose answer is closest to the correct value will win in case of a tie.
-
----
-
-## 📝 How it works
-
-- **No points awarded:** The tiebreaker question does not award regular points.
-- **Shadow points:** Instead, it uses “shadow points” that are only considered when two or more players have the same total score.
-- **Closest wins:** The player with the answer closest to the correct value gets the higher position in the event of a tie.
+Die Entscheidungsfrage wird verwendet, um Unentschieden am Ende eines Quiz zu lösen.\
+Spieler werden gebeten, eine Zahl zu schätzen (zum Beispiel „Wie viele Bohnen sind im Glas?“). Der Spieler, dessen Antwort dem korrekten Wert am nächsten kommt, gewinnt bei unentschiedenem Ergebnis.
 
 ---
 
-## 💡 Tips for tiebreaker questions
+## 📝 So funktioniert es
 
-- **Ask for an obscure number:** Choose a question where the answer is not widely known and is unlikely to be guessed exactly.
-- **Encourage unique guesses:** Make sure the question has a wide possible range, so every player is likely to enter a different answer.
-- **Use only for ties:** Shadow points are only used as a tiebreaker and will not affect the main game ranking.
+- **Keine Punkte vergeben:** Die Entscheidungsfrage vergibt keine regulären Punkte.
+- **Schattenpunkte:** Stattdessen werden „Schattenpunkte“ verwendet, die nur berücksichtigt werden, wenn zwei oder mehr Spieler die gleiche Gesamtpunktzahl haben.
+- **Der Nächste gewinnt:** Der Spieler mit der Antwort, die dem korrekten Wert am nächsten ist, erhält bei Gleichstand den höheren Platz.
 
 ---
 
-_Example tiebreaker questions:_
+## 💡 Tipps für Entscheidungsfragen
 
-- How many jelly beans are in the jar shown on screen?
-- What is the total length (in meters) of all the rivers in Belgium combined?
-- How many bricks were used to build the Empire State Building?
-- What was the attendance at the first ever World Cup final?
+- **Frage nach einer obskuren Zahl:** Wähle eine Frage, deren Antwort nicht allgemein bekannt ist und wahrscheinlich nicht genau geraten wird.
+- **Ermutige zu einzigartigen Schätzungen:** Stelle sicher, dass die Frage eine breite mögliche Spanne hat, damit jeder Spieler wahrscheinlich eine andere Antwort eingibt.
+- **Nur bei Gleichstand verwenden:** Schattenpunkte werden nur als Entscheidungsmechanismus bei Unentschieden verwendet und beeinflussen nicht die Hauptwertung.
+
+---
+
+_Beispiel für Entscheidungsfragen:_
+
+- Wie viele Jelly Beans sind im auf dem Bildschirm gezeigten Glas?
+- Wie lang ist die Gesamtlänge (in Metern) aller Flüsse in Belgien zusammen?
+- Wie viele Ziegel wurden für den Bau des Empire State Building verwendet?
+- Wie hoch war die Zuschauerzahl beim allerersten Finale der Weltmeisterschaft?
 
