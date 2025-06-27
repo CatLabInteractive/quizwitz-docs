@@ -1,35 +1,35 @@
 ---
 id: intermission
-title: Intermission
+title: Pause
 ---
 
-# ⏸️ Intermission
+# ⏸️ Pause
 
-**Intermission** is a special event round that pauses the quiz for a break—ideal for stretching, chatting, or promoting sponsors.
-
----
-
-## 📝 How it works
-
-- During an intermission, the main game screen is paused and a timer is shown.
-- **In conference and party games:**\
-  The intermission ends when someone presses **Enter** on the main game screen.
-- **In QuizWitz Live games:**\
-  The quizmaster ends the intermission from their device (tablet or smartphone).\
-  The Quizmaster app displays a timer so the host can see how long the intermission has lasted.
+**Pause** ist eine spezielle Spielrunde, die das Quiz für eine Pause unterbricht – ideal zum Dehnen, Plaudern oder für Sponsorenwerbung.
 
 ---
 
-## 🖼️ Attachments
+## 📝 So funktioniert’s
 
-- You can upload images, logos, or videos in the round settings.
-- During the intermission, these attachments will be shown in a carousel on the main screen—great for sponsor logos, messages, or promotional videos.
-- Attachments will loop for the duration of the break.
+- Während einer Pause wird der Hauptbildschirm angehalten und ein Timer angezeigt.
+- **Bei Konferenz- und Partyspielen:**\
+  Die Pause endet, wenn jemand **Enter** auf dem Hauptbildschirm drückt.
+- **Bei QuizWitz Live Spielen:**\
+  Der quizmaster beendet die Pause über sein Gerät (Tablet oder Smartphone).\
+  Die Quizmaster-App zeigt einen Timer an, damit der Gastgeber sehen kann, wie lange die Pause bereits dauert.
 
 ---
 
-> Intermissions are perfect for scheduled breaks, halftime entertainment, or showcasing important messages without interrupting the quiz flow.
+## 🖼️ Anhänge
+
+- Du kannst in den Rundeneinstellungen Bilder, Logos oder Videos hochladen.
+- Während der Pause werden diese Anhänge auf dem Hauptbildschirm in einem Karussell angezeigt – ideal für Sponsorlogos, Nachrichten oder Werbevideos.
+- Anhänge werden während der ganzen Pause wiederholt abgespielt.
 
 ---
 
-For more on customizing your intermission and using attachments, see [Round options](../editor/008-round-options.md) and [Attachments guide](../editor/006-attachments.md).
+> Pausen eignen sich perfekt für geplante Unterbrechungen, Halbzeitunterhaltung oder wichtige Botschaften, ohne den Quizablauf zu stören.
+
+---
+
+Mehr zur Anpassung deiner Pause und der Verwendung von Anhängen findest du unter [Rundeneinstellungen](../editor/008-round-options.md) und [Anhänge-Anleitung](../editor/006-attachments.md).
