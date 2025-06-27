@@ -1,79 +1,79 @@
 ---
 id: conference-booth
-title: Conference booth
+title: Stand de conférence
 ---
 
-# Conference booth
+# Stand de conférence
 
-This tutorial will show you how to run QuizWitz at your conference booth — an easy, interactive way to attract visitors and gather leads!
+Ce tutoriel vous montrera comment gérer QuizWitz à votre stand de conférence — un moyen facile et interactif d'attirer les visiteurs et de recueillir des prospects !
 
-![A photo of a Marvel conference booth using QuizWitz](/images/photos/marvel.jpg)
+![Une photo d'un stand Marvel utilisant QuizWitz](/images/photos/marvel.jpg)
 
 ---
 
-## 📝 Creating the quiz
+## 📝 Création du quiz
 
-When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.\
-To keep things fresh, make sure you have plenty of questions — enough to randomize and make each playthrough unique.
+Lorsque vous créez un quiz pour un stand de conférence, gardez à l'esprit que certains joueurs peuvent rester pour plusieurs parties.\
+Pour garder de la fraîcheur, assurez-vous d'avoir plein de questions — suffisamment pour randomiser et rendre chaque partie unique.
 
-**Recommended setup:**
+**Configuration recommandée :**
 
-- 15 questions split into 3 rounds
-- Create at least 3× that many questions for variety — more is better!
+- 15 questions réparties en 3 manches
+- Créez au moins 3× plus de questions pour varier — plus c'est mieux !
 
-### 🎲 Step-by-step quiz creation
+### 🎲 Création pas-à-pas du quiz
 
-1. **Choose “Quiz”** in the Create menu and give your quiz a name. Set the correct language.
-2. **Add 3 rounds** and name them (for example: Round 1, Round 2, Round 3).
-3. In the **Round settings** (cog icon), enable **“Only show x questions”** and set the number to 5.\
-  Also enable **“Random question order”** — otherwise the game will always pick the first 5 questions.\
-  Repeat for each round.
+1. **Choisissez « Quiz »** dans le menu Créer et donnez un nom à votre quiz. Définissez la langue correcte.
+2. **Ajoutez 3 manches** et nommez-les (par exemple : Manche 1, Manche 2, Manche 3).
+3. Dans les **Paramètres de la manche** (icône engrenage), activez **« Afficher uniquement x questions »** et réglez le nombre à 5.\
+  Activez aussi **« Ordre des questions aléatoire »** — sinon le jeu prendra toujours les 5 premières questions.\
+  Répétez pour chaque manche.
 
-![Screenshot of round settings for a conference booth](/images/tutorials/conference/round_settings.png)
+![Capture d'écran des paramètres de manche pour un stand de conférence](/images/tutorials/conference/round_settings.png)
 
-4. **Add questions to each round.**\
-  You can [write questions](../editor/005-writing-questions.md) or use the Import button to quickly add content from Excel.
+4. **Ajoutez des questions à chaque manche.**\
+  Vous pouvez [écrire des questions](../editor/005-writing-questions.md) ou utiliser le bouton Importer pour ajouter rapidement du contenu depuis Excel.
 
 :::tip
-Use lots of images and video clips — they make the game much more entertaining!
+Utilisez beaucoup d'images et de clips vidéo — ils rendent le jeu bien plus divertissant !
 :::
 
 ---
 
-### 🔀 How random selection works
+### 🔀 Comment fonctionne la sélection aléatoire
 
-Each time the quiz runs, QuizWitz will select 5 random questions from each round. The system will distribute questions fairly so repeats are minimized.
-
----
-
-## 🚀 Launch the quiz
-
-The fastest way to launch your conference quiz:
-
-1. Click **Play quiz**.
-2. Select **Start Conference Mode**.
-
-In this mode, players use their phones to connect to the game link on the main screen.\
-When everyone is ready, the booth host presses Enter — and the game runs automatically.\
-After the game ends, pressing Enter brings you right back to the connection screen for the next group.
+À chaque partie, QuizWitz sélectionne 5 questions aléatoires dans chaque manche. Le système répartit les questions équitablement pour minimiser les répétitions.
 
 ---
 
-## ⚙️ Advanced game options
+## 🚀 Lancez le quiz
 
-Want more control?\
-Choose **Advanced game options** and select **Conference mode** in the mode selector.\
-You’ll get a unique link with all your chosen options.
+Le moyen le plus rapide de lancer votre quiz de conférence :
 
-- **Ask players’ email:**\
-  Collect visitor emails for your booth! If you enable this, be sure to also set your **Privacy Policy URL**.
-- When launching a game via the advanced options link, you may be prompted to log in before starting — this checks your content and licenses.
+1. Cliquez sur **Jouer au quiz**.
+2. Sélectionnez **Démarrer le mode Conférence**.
 
-![Screenshot of advanced game settings](/images/tutorials/conference/advanced_game_settings.png)
+Dans ce mode, les joueurs utilisent leur smart device pour se connecter au lien du jeu sur l'écran principal.\
+Quand tout le monde est prêt, l'animateur du stand appuie sur Entrée — et le jeu démarre automatiquement.\
+À la fin du jeu, appuyer sur Entrée vous ramène directement à l'écran de connexion pour le groupe suivant.
 
 ---
 
-## 🎨 Theming
+## ⚙️ Options avancées de jeu
 
-Want to match the game to your booth branding?\
-See our [Theming guide](../advanced/011-emerald-theme.md) for tips on customizing your QuizWitz experience.
+Vous voulez plus de contrôle ?\
+Choisissez **Options avancées de jeu** et sélectionnez **Mode Conférence** dans le sélecteur de mode.\
+Vous recevrez un lien unique avec toutes vos options choisies.
+
+- **Demander l'email des joueurs :**\
+  Recueillez les emails des visiteurs de votre stand ! Si vous activez cela, pensez à aussi définir votre **URL de politique de confidentialité**.
+- Quand vous lancez une partie via le lien d'options avancées, on peut vous demander de vous connecter avant de commencer — cela vérifie votre contenu et licences.
+
+![Capture d'écran des paramètres avancés de jeu](/images/tutorials/conference/advanced_game_settings.png)
+
+---
+
+## 🎨 Thématisation
+
+Vous souhaitez que le jeu corresponde à l'identité visuelle de votre stand ?\
+Consultez notre [guide de thématisation](../advanced/011-emerald-theme.md) pour des astuces sur la personnalisation de votre expérience QuizWitz.
