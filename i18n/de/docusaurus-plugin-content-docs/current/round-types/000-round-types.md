@@ -1,50 +1,50 @@
 ---
 id: round-types
-name: Round types
+name: Rundentypen
 ---
 
-# Round types
+# Rundentypen
 
-The round type influences the way the game shows the questions to the players — and how players earn points.\
-In quizzes, you can change the round type in the **Round type** select field at the top middle of the screen.
+Der Rundentyp beeinflusst, wie das Spiel die Fragen den Spielern zeigt — und wie die Spieler Punkte verdienen.\
+In Quizzen kannst du den Rundentyp im Auswahlfeld **Rundentyp** oben in der Mitte des Bildschirms ändern.
 
-## 🧠 Regular rounds
+## 🧠 Reguläre Runden
 
-- [Trivia](011-trivia.md) (default)
-- [Common Thread](012-common-thread.md)
-- [Lightning Round](013-lightning-round.md)
+- [Trivia](011-trivia.md) (Standard)
+- [Gemeinsamer Faden](012-common-thread.md)
+- [Blitzrunde](013-lightning-round.md)
 
-## 🤹 Interactive rounds
+## 🤹 Interaktive Runden
 
-These rounds offer a bit more interactivity than simple ask-and-answer questions.
+Diese Runden bieten etwas mehr Interaktivität als einfache Frage-Antwort-Runden.
 
-- [Piece of pie](021-piece-of-pie.md)
-- [Multiquestion](022-multiquestion.md)
+- [Stück vom Kuchen](021-piece-of-pie.md)
+- [Mehrfachfrage](022-multiquestion.md)
 - [Strike](023-strike.md)
 - [Dealer's choice](024-dealers-choice.md)
 
-## 🍺 Traditional
+## 🍺 Traditionell
 
-For anyone who wants to organize traditional pub quizzes where players can change their answers until the end of the round.\
-These round types simulate "handing in the papers" after each round.
+Für alle, die traditionelle Pub-Quizze organisieren möchten, bei denen Spieler ihre Antworten bis zum Ende der Runde ändern können.\
+Diese Rundentypen simulieren das "Abgeben der Zettel" nach jeder Runde.
 
-- [Traditional](030-traditional.md)
-- [Traditional — Common thread](031-traditional-ct.md)
+- [Traditionell](030-traditional.md)
+- [Traditionell — Gemeinsamer Faden](031-traditional-ct.md)
 - [Alphabet](032-alphabet.md)
 
-## 🎉 Live events
+## 🎉 Live-Events
 
-These round types do not contain any questions — but instead influence the outcome of the game.
+Diese Rundentypen enthalten keine Fragen — beeinflussen stattdessen den Spielverlauf.
 
-- [Activity](040-activity.md)
-- [Intermission](060-intermission.md)
-- [Player introduction](061-player-introduction.md)
+- [Aktivität](040-activity.md)
+- [Pause](060-intermission.md)
+- [Spieler-Vorstellung](061-player-introduction.md)
 - [Elimination](050-elimination.md)
-- [Reset points](051-reset-points.md)
+- [Punkte zurücksetzen](051-reset-points.md)
 
-## 🏢 Departments
+## 🏢 Abteilungen
 
-In these round types, you can select specific **departments** that play against other departments.
+In diesen Rundentypen kannst du bestimmte **Abteilungen** auswählen, die gegeneinander spielen.
 
-- [Department — Dealer's choice](070-departments-dealers-choice.md)
-- [Department — Elimination](071-departments-elimination.md)
+- [Abteilung — Dealer's choice](070-departments-dealers-choice.md)
+- [Abteilung — Elimination](071-departments-elimination.md)
