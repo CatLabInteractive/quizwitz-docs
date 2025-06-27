@@ -1,55 +1,55 @@
 ---
 id: theming
-title: "Theming"
+title: "Tematización"
 ---
 
-# Theming
+# Tematización
 
 :::warning
-While creating your own QuizWitz theme offers the most flexibility, it is a complex and time-consuming process. In most cases, you are much better off customizing our [Emerald theme](011-emerald-theme.md), which is specifically designed to be easy to adapt.
+Aunque crear tu propio tema de QuizWitz ofrece la mayor flexibilidad, es un proceso complejo y que consume mucho tiempo. En la mayoría de los casos, te conviene mucho más personalizar nuestro [tema Emerald](011-emerald-theme.md), que está diseñado específicamente para ser fácil de adaptar.
 :::
 
-QuizWitz themes are created using **Adobe Animate**. You can download a [theme template](https://themes.quizwitz.com/empty/quizwitz-empty-theme.zip) to use as a starting point. Be aware that theming QuizWitz is painstaking work and is best left to experienced designers who know the ins and outs of Adobe Animate.
+Los temas de QuizWitz se crean usando **Adobe Animate**. Puedes descargar una [plantilla de tema](https://themes.quizwitz.com/empty/quizwitz-empty-theme.zip) para usar como punto de partida. Ten en cuenta que crear temas para QuizWitz es un trabajo minucioso y es mejor dejarlo en manos de diseñadores experimentados que conozcan bien Adobe Animate.
 
-Prefer to leave it to the professionals? Send us an email at [support@catlab.be](mailto:support@catlab.be) and we can provide an estimate to turn your design into a ready-to-use QuizWitz theme.
-
----
-
-## 🧪 Theme test tool
-
-When you're ready to test your theme, **zip the contents of your design folder** ( — not the folder itself; when you open the zip, you should see your files, not just a single folder — ) and upload it to our [theme tester](https://themes.quizwitz.com/). This gives you a live preview of how your theme will look in the game.
-
-After testing, email the zip file to us and we'll link it to your account so you can select and use your theme in your quizzes.
+¿Prefieres dejarlo en manos de profesionales? Envíanos un correo a [support@catlab.be](mailto:support@catlab.be) y podemos darte un presupuesto para convertir tu diseño en un tema de QuizWitz listo para usar.
 
 ---
 
-## 🏷️ QuizWitz logo
+## 🧪 Herramienta de prueba de tema
 
-All custom designs must include the QuizWitz logo.
+Cuando estés listo para probar tu tema, **comprime el contenido de tu carpeta de diseño** (— no la carpeta en sí; al abrir el zip, deberías ver tus archivos, no solo una carpeta —) y súbelo a nuestro [probador de temas](https://themes.quizwitz.com/). Esto te da una vista previa en vivo de cómo se verá tu tema en el juego.
+
+Después de probarlo, envíanos el archivo zip por correo y lo vincularemos a tu cuenta para que puedas seleccionar y usar tu tema en tus quizzes.
 
 ---
 
-## 🖥️ Screen overview
+## 🏷️ Logo de QuizWitz
 
-| Stage                                                           | Main screen                                                                                              | Player device (Tablet/Phone)                |
-| --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Connect screen                                                  |                                                                                                          |                                                                |
-| Waiting screen                                                  | Logo of the quiz. Displayed while the presenter is reading the question. | A quote urging the player to listen carefully. |
-| Game intro                                                      | Animation before the game.                                                               | Waiting screen.                                |
-| Round intro                                                     | Animation before each round.                                                             | Waiting screen.                                |
-| Questions                                                       |                                                                                                          |                                                                |
-| Attachment                                                      | Fullscreen attachment view ( — before/after questions or rounds — ).  | Waiting screen.                                |
-| Question: multiple choice without attachment    | Question + 4 multiple choice options.                                                    | Multiple choice answer screen.                 |
-| Question: multiple choice with attachment       | Question + 4 multiple choice options + a visual attachment.                              | Multiple choice answer screen.                 |
-| Question: open question without attachment      | Only the question.                                                                       | Text input and submit button.                  |
-| Question: open question with attachment         | The question + a visual attachment.                                                      | Text input and submit button.                  |
-| Activity: chosen teams                          | The name of an activity.                                                                 | Waiting screen or "you are selected" screen.   |
-| Feedback                                                        |                                                                                                          |                                                                |
-| Question feedback: multiple choice              | The question, correct options, and spread of answers.                                    | Correct / wrong + points earned.               |
-| Question feedback: open question                | The question, correct options, and % of correct answers.                                 | Correct / wrong + points earned.               |
-| Question feedback: open question + attachment   | The question, correct options, answer spread, and a visual attachment.                   | Correct / wrong + points earned.               |
-| Question feedback: multiple choice + attachment | The question, correct options, answer spread, and a visual attachment.                   | Correct / wrong + points earned.               |
-| Activity feedback                                               | The teams selected for an activity.                                                      | Waiting or correct/wrong screen.               |
-| Player ranking                                                  |                                                                                                          |                                                                |
-| Round outro                                                     | Top 10 of all players.                                                                   | Current position and total points.             |
-| Game outro                                                      | Countdown from 10th to 1st place, then final top 10.                                     | Final rank and total points.                   |
+Todos los diseños personalizados deben incluir el logo de QuizWitz.
+
+---
+
+## 🖥️ Vista general de pantalla
+
+| Escenario                                                              | Pantalla principal                                                                                                  | smart device del jugador (Tablet/Teléfono)            |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Pantalla de conexión                                                   |                                                                                                                     |                                                                          |
+| Pantalla de espera                                                     | Logo del quiz. Mostrado mientras el presentador lee la pregunta.                    | Una frase que invita al jugador a escuchar con atención. |
+| Introducción al juego                                                  | Animación antes del juego.                                                                          | Pantalla de espera.                                      |
+| Introducción de la ronda                                               | Animación antes de cada ronda.                                                                      | Pantalla de espera.                                      |
+| Preguntas                                                              |                                                                                                                     |                                                                          |
+| Adjunto                                                                | Vista de adjunto en pantalla completa (— antes/después de preguntas o rondas —). | Pantalla de espera.                                      |
+| Pregunta: opción múltiple sin adjunto                  | Pregunta + 4 opciones de opción múltiple.                                                           | Pantalla de respuesta de opción múltiple.                |
+| Pregunta: opción múltiple con adjunto                  | Pregunta + 4 opciones de opción múltiple + un adjunto visual.                                       | Pantalla de respuesta de opción múltiple.                |
+| Pregunta: pregunta abierta sin adjunto                 | Sólo la pregunta.                                                                                   | Entrada de texto y botón de envío.                       |
+| Pregunta: pregunta abierta con adjunto                 | La pregunta + un adjunto visual.                                                                    | Entrada de texto y botón de envío.                       |
+| Actividad: equipos escogidos                           | El nombre de una actividad.                                                                         | Pantalla de espera o pantalla "estás seleccionado".      |
+| Comentarios                                                            |                                                                                                                     |                                                                          |
+| Comentarios de la pregunta: opción múltiple            | La pregunta, opciones correctas y distribución de respuestas.                                       | Correcto / incorrecto + puntos ganados.                  |
+| Comentarios de la pregunta: pregunta abierta           | La pregunta, opciones correctas y % de respuestas correctas.                                        | Correcto / incorrecto + puntos ganados.                  |
+| Comentarios de la pregunta: pregunta abierta + adjunto | La pregunta, opciones correctas, distribución de respuestas y un adjunto visual.                    | Correcto / incorrecto + puntos ganados.                  |
+| Comentarios de la pregunta: opción múltiple + adjunto  | La pregunta, opciones correctas, distribución de respuestas y un adjunto visual.                    | Correcto / incorrecto + puntos ganados.                  |
+| Comentarios de la actividad                                            | Los equipos seleccionados para una actividad.                                                       | Pantalla de espera o pantalla de correcto/incorrecto.    |
+| Clasificación de jugadores                                             |                                                                                                                     |                                                                          |
+| Final de la ronda                                                      | Top 10 de todos los jugadores.                                                                      | Posición actual y puntos totales.                        |
+| Final del juego                                                        | Cuenta regresiva del 10º al 1º lugar, luego el top 10 final.                                        | Clasificación final y puntos totales.                    |
