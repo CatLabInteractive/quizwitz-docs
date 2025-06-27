@@ -1,71 +1,71 @@
 ---
 id: import-questions
-title: Import questions
+title: Importar preguntas
 ---
 
-# 📥 Import questions
+# 📥 Importar preguntas
 
-There are two ways to quickly add questions to a round in QuizWitz:
+Hay dos formas de agregar preguntas rápidamente a una ronda en QuizWitz:
 
-- Import existing content from the **QuizWitz Library**
-- Paste a list of questions from a **spreadsheet**
+- Importar contenido existente de la **QuizWitz Library**
+- Pegar una lista de preguntas desde una **hoja de cálculo**
 
-Both options are accessible from within any round.
+Ambas opciones son accesibles desde cualquier ronda.
 
 ---
 
-## 📚 Import from the QuizWitz Library
+## 📚 Importar desde la QuizWitz Library
 
-Use the **QuizWitz Library** tab to search and import questions, rounds, or quizzes created by yourself or other creators.
+Usa la pestaña **QuizWitz Library** para buscar e importar preguntas, rondas o cuestionarios creados por ti o por otros creadores.
 
-1. Open the round where you want to import content
-2. Click the **QuizWitz Library** tab
-3. Use filters like language, collection, type, category, or tags
-4. Select one or more entries
-5. Click **Add X items** to insert the selected content into your quiz
+1. Abre la ronda donde quieres importar contenido
+2. Haz clic en la pestaña **QuizWitz Library**
+3. Usa filtros como idioma, colección, tipo, categoría o etiquetas
+4. Selecciona una o más entradas
+5. Haz clic en **Añadir X elementos** para insertar el contenido seleccionado en tu cuestionario
 
 ![QuizWitz Library](/images/import/import-from-quizwitz.png)
 
-> ✅ Use this method to reuse high-quality content or combine multiple public Round-Abouts into a larger quiz.
+> ✅ Usa este método para reutilizar contenido de alta calidad o combinar múltiples Round-Abouts públicos en un cuestionario más grande.
 
 ---
 
-## 📋 Import from a spreadsheet
+## 📋 Importar desde una hoja de cálculo
 
-To quickly create many questions at once, use the **Import from spreadsheet** tab.
+Para crear muchas preguntas rápidamente, usa la pestaña **Importar desde hoja de cálculo**.
 
-1. Open a round
-2. Click the **Import from spreadsheet** tab
-3. Paste rows of **tab-separated** values (copied from Excel, Google Sheets, etc.)
-4. Click **Import questions**
+1. Abre una ronda
+2. Haz clic en la pestaña **Importar desde hoja de cálculo**
+3. Pega filas de valores **separados por tabulación** (copiados de Excel, Google Sheets, etc.)
+4. Haz clic en **Importar preguntas**
 
-![Import from spreadsheet](/images/import/import-from-spreadsheet.png)
-
----
-
-### 🗂️ Format for pasting
-
-Each row must contain the following columns in this exact order:
-
-1. **Short question** — Displayed on the player screen
-2. **Correct answer**
-3. **Wrong answer 1** (leave blank for open questions)
-4. **Wrong answer 2**
-5. **Wrong answer 3**
-6. **Short feedback** — Displayed on the player screen after answering
-7. **Long question** _(optional)_ — Displayed on the quizmaster screen
-8. **Long feedback** _(optional)_ — Explanation for the quizmaster to read aloud
-
-> 📌 The last two columns are only used in [QuizWitz Live](../quizmaster/001-introduction.md), but they must still be included (even if left empty).
+![Importar desde hoja de cálculo](/images/import/import-from-spreadsheet.png)
 
 ---
 
-## ✅ After importing
+### 🗂️ Formato para pegar
 
-Whether importing from the library or a spreadsheet:
+Cada fila debe contener las siguientes columnas en este orden exacto:
 
-- Review your questions for formatting and clarity
-- Update any metadata like category, round type, or attachments
-- Don’t forget to **save your quiz**
+1. **Pregunta corta** — Se muestra en la pantalla del jugador
+2. **Respuesta correcta**
+3. **Respuesta incorrecta 1** (dejar en blanco para preguntas abiertas)
+4. **Respuesta incorrecta 2**
+5. **Respuesta incorrecta 3**
+6. **Comentario corto** — Se muestra en la pantalla del jugador después de responder
+7. **Pregunta larga** _(opcional)_ — Se muestra en la pantalla del quizmaster
+8. **Comentario largo** _(opcional)_ — Explicación para que el quizmaster lea en voz alta
 
-📘 Want to enhance your questions further? Continue in the [Writing questions guide](../editor/005-writing-questions.md).
+> 📌 Las dos últimas columnas solo se usan en [QuizWitz Live](../quizmaster/001-introduction.md), pero aún deben incluirse (incluso si están vacías).
+
+---
+
+## ✅ Después de importar
+
+Ya sea que importes desde la biblioteca o una hoja de cálculo:
+
+- Revisa tus preguntas para formato y claridad
+- Actualiza cualquier metadato como categoría, tipo de ronda o adjuntos
+- No olvides **guardar tu cuestionario**
+
+📘 ¿Quieres mejorar aún más tus preguntas? Continúa en la [Guía para escribir preguntas](../editor/005-writing-questions.md).
