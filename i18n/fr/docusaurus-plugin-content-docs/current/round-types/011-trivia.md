@@ -1,43 +1,43 @@
 ---
 id: trivia
-title: Trivia (regular round)
+title: Trivia (manche classique)
 ---
 
-# ❓ Trivia (regular round)
+# ❓ Trivia (manche classique)
 
-The **Trivia** round is the classic, default round type in QuizWitz. It presents a series of questions to all players — ideal for general knowledge, themed quizzes, or warm-up rounds.
-
----
-
-## 📝 How it works
-
-- Supports a mix of question types (multiple choice, open questions, image map, etc).
-- Players answer each question individually, following the round’s settings for feedback and scoring.
-- Great for testing broad knowledge or mixing up topics.
+La manche **Trivia** est le type de manche classique et par défaut dans QuizWitz. Elle présente une série de questions à tous les joueurs — idéale pour les connaissances générales, les quiz thématiques ou les manches d’échauffement.
 
 ---
 
-## ⚙️ Recommended settings
+## 📝 Comment ça marche
 
-- **Question feedback:** By default, players see feedback after every question. You can group feedback at the end of the round if you prefer (see [round options](../editor/008-round-options.md)).
-- **Random question order:** Can be enabled for variety.
-- **Timer:** Set per question, or adjust round defaults.
-
----
-
-## 🏆 Scoring
-
-- Each question uses its own scoring type (time-based, fixed, etc) as configured.
-- For more about scoring and customization, see [round scoring settings](../editor/008-round-options.md#scoring).
+- Prend en charge un mélange de types de questions (choix multiple, questions ouvertes, carte image, etc).
+- Les joueurs répondent individuellement à chaque question, suivant les paramètres de la manche pour les retours et le score.
+- Parfait pour tester des connaissances variées ou mélanger les sujets.
 
 ---
 
-## 💡 Tips
+## ⚙️ Paramètres recommandés
 
-- **Mix question types:** Add variety for engagement.
-- **Keep it balanced:** Alternate easy and tough questions to keep players motivated.
-- **Use media:** Attach images, audio, or video for richer content.
+- **Retour sur les questions :** Par défaut, les joueurs voient un retour après chaque question. Vous pouvez regrouper les retours à la fin de la manche si vous préférez (voir [options de manche](../editor/008-round-options.md)).
+- **Ordre aléatoire des questions :** Peut être activé pour varier.
+- **Minuteur :** Défini par question, ou ajustez les valeurs par défaut de la manche.
 
 ---
 
-For more about available question types, see the [question type overview](../question-types/000-question-types.md).
+## 🏆 Score
+
+- Chaque question utilise son propre type de score (basé sur le temps, fixe, etc) tel que configuré.
+- Pour plus d’informations sur le scoring et la personnalisation, consultez les [paramètres de score de la manche](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Conseils
+
+- **Mélangez les types de questions :** Ajoutez de la variété pour plus d’engagement.
+- **Gardez un équilibre :** Alternez questions faciles et difficiles pour garder la motivation des joueurs.
+- **Utilisez des médias :** Ajoutez images, audio ou vidéo pour un contenu plus riche.
+
+---
+
+Pour plus d’informations sur les types de questions disponibles, voyez le [aperçu des types de questions](../question-types/000-question-types.md).
