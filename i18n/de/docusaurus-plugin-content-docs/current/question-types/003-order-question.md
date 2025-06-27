@@ -1,54 +1,54 @@
 ---
 id: order-question
-title: Order question
+title: Bestellfrage
 ---
 
-# 🔀 Order question
+# 🔀 Bestellfrage
 
-In an **Order question**, players must put up to 4 items in the correct sequence.\
-This round type is great for chronological, ranking, or sequencing challenges.
-
----
-
-![Example: Order question about animals](/images/question-modes/order-question/order-question-example.png)
+In einer **Bestellfrage** müssen die Spieler bis zu 4 Elemente in der richtigen Reihenfolge anordnen.\
+Dieser Rundentyp eignet sich hervorragend für chronologische, Ranglisten- oder Reihenfolge-Herausforderungen.
 
 ---
 
-## 📝 How it works
-
-- **Question:** Clearly ask what order is required.\
-  _(Example: “Select the animals in the correct order from least to most legs.”)_
-- **Options:** Enter up to four items. You define the correct sequence.
-- **Player view:** Options are shown in random order. Players **select each item one by one** in the order they think is correct.
-- **Feedback:** After answering, players see the correct order and (optionally) any extra explanation you provide.
+![Beispiel: Bestellfrage über Tiere](/images/question-modes/order-question/order-question-example.png)
 
 ---
 
-## 🏆 Scoring
+## 📝 So funktioniert es
 
-Order questions use **time-based scoring** by default:\
-Faster correct answers earn more points, but most of the points are fixed. Time only affects a portion of the score.\
-You can also turn off time-based scoring per question for fixed points only.
-
-See [Scoring options in round settings](../editor/008-round-options.md#scoring) for details.
-
----
-
-## ⚙️ Expanded settings
-
-Order questions offer flexible settings:
-
-- **Time limit:** Set how long players have to answer.
-- **Points:** Set how many points are awarded for a fully correct answer.
-
-See [writing questions](../editor/005-writing-questions.md) for more.
+- **Frage:** Formuliere klar, in welcher Reihenfolge die Elemente angeordnet werden sollen.\
+  _(Beispiel: „Wähle die Tiere in der korrekten Reihenfolge von den wenigsten bis zu den meisten Beinen.“)_
+- **Optionen:** Gib bis zu vier Elemente ein. Du legst die korrekte Reihenfolge fest.
+- **Spieleransicht:** Die Optionen werden in zufälliger Reihenfolge angezeigt. Die Spieler **wählen jedes Element einzeln** in der Reihenfolge aus, die sie für richtig halten.
+- **Feedback:** Nach der Antwort sehen die Spieler die korrekte Reihenfolge und (optional) eine zusätzliche Erklärung, die du bereitstellst.
 
 ---
 
-## 💡 Tips for great order questions
+## 🏆 Wertung
 
-- **Be specific:** State clearly how you want items ordered (e.g., least to most, oldest to newest).
-- **Choose distinct options:** Avoid items that are too similar or ambiguous.
-- **Explain the answer:** Use feedback to clarify the correct order after the question.
-- **Mix formats:** Try chronological, size-based, or ranking-based questions for variety.
+Bestellfragen verwenden standardmäßig **zeitbasierte Wertung**:\
+Schnellere richtige Antworten erhalten mehr Punkte, aber der Großteil der Punkte ist festgelegt. Die Zeit beeinflusst nur einen Teil der Punktzahl.\
+Du kannst die zeitbasierte Wertung pro Frage auch ausschalten, sodass nur feste Punkte vergeben werden.
+
+Siehe [Punkteoptionen in den Rundeneinstellungen](../editor/008-round-options.md#scoring) für Details.
+
+---
+
+## ⚙️ Erweiterte Einstellungen
+
+Bestellfragen bieten flexible Einstellungen:
+
+- **Zeitlimit:** Lege fest, wie lange Spieler Zeit haben, zu antworten.
+- **Punkte:** Lege fest, wie viele Punkte für eine vollständig richtige Antwort vergeben werden.
+
+Siehe [Fragen schreiben](../editor/005-writing-questions.md) für mehr Informationen.
+
+---
+
+## 💡 Tipps für großartige Bestellfragen
+
+- **Sei spezifisch:** Sag genau, wie die Reihenfolge sein soll (z. B. von wenig nach viel, von alt nach neu).
+- **Wähle deutlich unterscheidbare Optionen:** Vermeide Elemente, die zu ähnlich oder mehrdeutig sind.
+- **Erkläre die Antwort:** Nutze Feedback, um die richtige Reihenfolge nach der Frage zu verdeutlichen.
+- **Formate mischen:** Probiere chronologische, größenbezogene oder rangbasierte Fragen für Abwechslung aus.
 
