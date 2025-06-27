@@ -1,61 +1,61 @@
 ---
 id: lightning-round
-title: Lightning round
+title: Blitzrunde
 ---
 
-# ⚡ Lightning round
+# ⚡ Blitzrunde
 
-The **Lightning round** is all about speed and excitement. Players answer a rapid series of questions with very short timers — all set to continuous timer music for maximum energy and tension.
-
----
-
-## 📝 How it works
-
-- Questions are presented one after another with minimal delay.
-- Timer music plays **continuously** throughout the round, only stopping after the last question.
-- Players must answer quickly; there’s no break between questions.
-- **By default, feedback for each question is postponed until the end of the round,** but each question’s feedback is shown separately, not grouped on a single screen.
-- If you want to group all feedback on one screen at the end, you can enable this in the round settings.
+Die **Blitzrunde** dreht sich ganz um Geschwindigkeit und Spannung. Spieler beantworten eine schnelle Serie von Fragen mit sehr kurzen Timern – alles begleitet von durchgehender Timer-Musik für maximale Energie und Spannung.
 
 ---
 
-## ⚙️ Feedback settings
+## 📝 So funktioniert’s
 
-- **Default (postponed feedback):** Feedback for each question is shown after the last question, one by one in sequence.
-- **Grouped feedback:** If “Show all question feedback at the end of the round” is enabled in round settings, all feedback is combined into a single feedback screen at the end.
-- **Force results after question:** If enabled in a question’s settings, feedback for that question will always be shown immediately, regardless of round feedback grouping.
-
-See [round options](../editor/008-round-options.md) for details on configuring feedback timing.
-
----
-
-## 🎵 Attachments — Countdown music
-
-- You can set a **Round Attachment** in the slot “Play during question countdown.”\
-  This audio attachment will play **continuously** as the countdown music during the entire lightning round, only stopping after the last question.
-- Use energetic or tense music to boost excitement and keep players on their toes.
-
-For more details, see the [attachments documentation](../editor/006-attachments.md).
+- Fragen werden nacheinander mit minimaler Verzögerung präsentiert.
+- Timer-Musik läuft **durchgehend** während der ganzen Runde und stoppt erst nach der letzten Frage.
+- Spieler müssen schnell antworten; es gibt keine Pause zwischen den Fragen.
+- **Standardmäßig wird die Rückmeldung zu jeder Frage bis zum Ende der Runde verschoben,** aber die Rückmeldungen zu einzelnen Fragen werden separat gezeigt, nicht gesammelt auf einem Bildschirm.
+- Wenn du alle Rückmeldungen am Ende auf einem Bildschirm gruppieren möchtest, kannst du das in den Rundeneinstellungen aktivieren.
 
 ---
 
-## 🏆 Scoring
+## ⚙️ Rückmeldeeinstellungen
 
-- **Time-based scoring is _not_ recommended** for this round type.
-- Instead, use a **short question timer** (typically 15 seconds).
-- Set point values lower than usual (e.g. 500 points per question) to keep the game fair and minimize the impact of wrong answers.
+- **Standard (verschobene Rückmeldung):** Die Rückmeldung zu jeder Frage wird nach der letzten Frage einzeln nacheinander gezeigt.
+- **Gesammelte Rückmeldung:** Wenn „Alle Feedbacks am Ende der Runde zeigen“ in den Rundeneinstellungen aktiviert ist, wird das Feedback auf einem einzigen Bildschirm am Ende zusammengefasst.
+- **Ergebnisse sofort anzeigen:** Wenn in den Einstellungen einer Frage aktiviert, wird das Feedback für diese Frage immer sofort gezeigt, unabhängig von der Gruppierung der Rückmeldungen in der Runde.
 
-For scoring setup, see the [scoring section](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips
-
-- **Keep questions short:** This encourages fast, instinctive answers.
-- **Use energetic music:** Timer music adds to the pressure and excitement.
-- **Balance difficulty:** Too many tough questions can stall the pace.
-- **Lower the stakes:** Fewer points and shorter timers mean mistakes aren’t too punishing.
+Siehe [Rundeneinstellungen](../editor/008-round-options.md) für Details zur Konfiguration der Rückmeldezeiten.
 
 ---
 
-Lightning rounds are perfect for energizing your quiz and ramping up the pace!
+## 🎵 Anhänge — Countdown-Musik
+
+- Du kannst einen **Runden-Anhang** im Slot „Während des Frage-Countdowns abspielen“ einstellen.\
+  Dieser Audioanhang wird **durchgehend** als Countdown-Musik während der gesamten Blitzrunde abgespielt und stoppt erst nach der letzten Frage.
+- Nutze energiegeladene oder spannungsgeladene Musik, um die Aufregung zu steigern und die Spieler in Atem zu halten.
+
+Für mehr Details siehe die [Anhänge-Dokumentation](../editor/006-attachments.md).
+
+---
+
+## 🏆 Punktevergabe
+
+- **Zeitbasierte Punktevergabe wird für diesen Rundentyp _nicht_ empfohlen.**
+- Stattdessen verwende einen **kurzen Frage-Timer** (typischerweise 15 Sekunden).
+- Setze die Punktewerte niedriger als üblich (z.B. 500 Punkte pro Frage), um das Spiel fair zu halten und den Einfluss falscher Antworten zu minimieren.
+
+Zur Punktevergabe-Einrichtung siehe den [Punktevergabe-Abschnitt](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Tipps
+
+- **Halte Fragen kurz:** Das fördert schnelle, instinktive Antworten.
+- **Nutze energiegeladene Musik:** Timer-Musik erhöht den Druck und die Spannung.
+- **Balance bei der Schwierigkeit:** Zu viele schwere Fragen können das Tempo verlangsamen.
+- **Senke die Einsätze:** Weniger Punkte und kürzere Timer bedeuten, Fehler sind nicht zu bestrafend.
+
+---
+
+Blitzrunden sind perfekt, um dein Quiz mit Energie zu füllen und das Tempo anzuziehen!
