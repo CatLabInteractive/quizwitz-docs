@@ -5,8 +5,8 @@ title: Alphabet
 
 # 🔤 Alphabet
 
-An **Alphabet** round is a [Traditional round](030-traditional.md) with a twist—each question is assigned a unique label,
-and players must match their answers to the correct labeled fields. This round rewards both knowledge and deduction!
+Eine **Alphabet**-Runde ist eine [Traditionelle Runde](030-traditional.md) mit einem Twist – jede Frage erhält ein einzigartiges Etikett,
+und Spieler müssen ihre Antworten den korrekten markierten Feldern zuordnen. Diese Runde belohnt sowohl Wissen als auch Schlussfolgerung!
 
 ---
 
@@ -14,10 +14,10 @@ and players must match their answers to the correct labeled fields. This round r
 
 ---
 
-## 🏷️ Alphabet labels
+## 🏷️ Alphabet-Etiketten
 
-- Each question is assigned a unique **Label**. Traditionally, this is the **first letter of the answer**, but you can use any label you like (letters, numbers, or creative codes).
-- **All questions must be open questions** in this round type.
+- Jede Frage erhält ein einzigartiges **Etikett**. Traditionell ist dies der **erste Buchstabe der Antwort**, aber du kannst jedes beliebige Etikett verwenden (Buchstaben, Zahlen oder kreative Codes).
+- **Alle Fragen müssen offene Fragen sein** in diesem Rundentyp.
 
 ---
 
@@ -25,17 +25,17 @@ and players must match their answers to the correct labeled fields. This round r
 
 ---
 
-## 📝 How it works
+## 📝 Wie es funktioniert
 
-- As questions are asked, players see a list of answer fields — one for each question.
-- **The answer fields are not in quiz order** — instead, they’re sorted alphabetically by label.
-- Players must match their answers to the correct labeled fields (e.g. answer for question "Bear" must be entered under label "B").
-- Answers can be changed at any time until the round finishes — players can switch answers between fields as they realize their mistakes.
-
----
-
-> This round is especially fun and challenging, as it requires both knowledge and the ability to deduce which answer fits which label. Perfect for seasoned quizzers and creative rounds!
+- Während die Fragen gestellt werden, sehen Spieler eine Liste von Antwortfeldern – eins für jede Frage.
+- **Die Antwortfelder sind nicht in der Reihenfolge des Quiz** – stattdessen sind sie alphabetisch nach Etikett sortiert.
+- Spieler müssen ihre Antworten den richtigen markierten Feldern zuordnen (z. B. muss die Antwort auf die Frage "Bear" unter dem Etikett "B" eingetragen werden).
+- Antworten können jederzeit bis zum Ende der Runde geändert werden – Spieler können Antworten zwischen Feldern tauschen, wenn sie ihre Fehler bemerken.
 
 ---
 
-For shared configuration details, see [Traditional round](030-traditional.md) and [Round options](../editor/008-round-options.md).
+> Diese Runde macht besonders Spaß und ist herausfordernd, weil sie sowohl Wissen als auch die Fähigkeit erfordert, zu schlussfolgern, welche Antwort zu welchem Etikett passt. Perfekt für erfahrene Quizzer und kreative Runden!
+
+---
+
+Für gemeinsame Konfigurationsdetails siehe [Traditionelle Runde](030-traditional.md) und [Rundenoptionen](../editor/008-round-options.md).
