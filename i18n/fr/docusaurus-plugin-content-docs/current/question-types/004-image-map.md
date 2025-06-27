@@ -1,60 +1,60 @@
 ---
 id: image-map-question
-title: Image map question
+title: Question avec carte image
 ---
 
-# 🗺️ Image map
+# 🗺️ Carte image
 
-In an **Image map** question, players must select the correct spot (or spots) on an image displayed on their device. This is ideal for visual identification challenges, such as "Select the Erlenmeyer flask."
-
----
-
-![Example: Image map question with flasks](/images/question-modes/image-map/image-map-example.png)
+Dans une question **carte image**, les joueurs doivent sélectionner le ou les bons emplacements sur une image affichée sur leur smart device. C’est idéal pour les défis d’identification visuelle, comme « Sélectionnez le ballon d’Erlenmeyer. »
 
 ---
 
-## 📝 How it works
-
-- **Question:** Clearly state what players need to find on the image.\
-  _(Example: “Select the Erlenmeyer flask.”)_
-- **Image:** Upload a high-quality image that will be shown to all players.
-- **Answer points:** Define one or more **target areas** (“points”) on the image. Each area can be set as a circle or another shape, and you determine its position and size.
-- **Selecting answers:** Players tap or click to mark their answer(s) on the image.
-  - If the answer falls **within a correct area**, they receive full points.
-  - If the answer falls **outside the correct area** but within the “almost correct” radius, they can earn partial points based on the distance (as defined by the _score easing_ setting).
-- **Multiple answers:** If the question requires more than one answer, players must select each correct area.
-  - Selecting the same area multiple times will **not** grant extra points.
-- **Scoring method:** You can configure whether points are awarded for each correct area individually, or only when the required minimum number of correct answers are selected.
+![Exemple : question carte image avec des ballons](/images/question-modes/image-map/image-map-example.png)
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Comment ça marche
 
-- **Number of answers:** Set the required minimum and maximum number of points a player must identify.
-- **Score easing:** Adjusts partial credit for “almost correct” answers, based on how close the selection is to the correct area (only applies to distance between correct and almost correct).
-- **Points per area:** Decide if points are awarded per correctly identified area, or only if all minimum required areas are selected.
-- **Attachment options:** Add images, audio, or video for richer context. Set attributions if publishing.
-
-See [writing questions](../editor/005-writing-questions.md) for general question settings.
-
----
-
-## ⏱️ Time-based scoring
-
-**Time-based scoring is enabled by default.** Players who answer quickly earn more points, but there’s always a fixed component (default: 75%) for a correct answer. Only 25% of the total score is influenced by how fast you answer.\
-You can turn off time-based scoring for this question type if you wish.
-
-📘 For details on scoring and time settings, see the [round options documentation](../editor/008-round-options.md#scoring).
+- **Question :** Indiquez clairement ce que les joueurs doivent trouver sur l’image.\
+  _(Exemple : « Sélectionnez le ballon d’Erlenmeyer. »)_
+- **Image :** Téléchargez une image de haute qualité qui sera montrée à tous les joueurs.
+- **Points de réponse :** Définissez une ou plusieurs **zones cibles** (« points ») sur l’image. Chaque zone peut être définie comme un cercle ou une autre forme, et vous déterminez sa position et sa taille.
+- **Sélection des réponses :** Les joueurs tapent ou cliquent pour marquer leur ou leurs réponses sur l’image.
+  - Si la réponse se trouve **dans une zone correcte**, ils reçoivent le plein de points.
+  - Si la réponse se trouve **en dehors de la zone correcte** mais dans le rayon « presque correct », ils peuvent obtenir des points partiels basés sur la distance (comme défini par le réglage _adoucissement du score_).
+- **Réponses multiples :** Si la question nécessite plus d’une réponse, les joueurs doivent sélectionner chaque zone correcte.
+  - Sélectionner plusieurs fois la même zone **n'accordera pas** de points supplémentaires.
+- **Méthode de score :** Vous pouvez configurer si les points sont attribués pour chaque zone correcte individuellement, ou seulement lorsque le nombre minimum requis de réponses correctes est sélectionné.
 
 ---
 
-## 💡 Tips for great image map questions
+## ⚙️ Paramètres avancés
 
-- **Use clear, non-cluttered images** for easy identification.
-- **Define answer areas carefully** to avoid overlap or confusion.
-- **Provide constructive feedback** to help players learn from mistakes.
-- **Partial credit:** Use the “almost correct” option to reward near-misses and keep things fair.
+- **Nombre de réponses :** Définissez le nombre minimum et maximum de points qu’un joueur doit identifier.
+- **Adoucissement du score :** Ajuste les crédits partiels pour les réponses « presque correctes », selon la proximité de la sélection de la zone correcte (s’applique uniquement à la distance entre correcte et presque correcte).
+- **Points par zone :** Décidez si les points sont attribués par zone correctement identifiée, ou seulement si toutes les zones minimum requises sont sélectionnées.
+- **Options de pièces jointes :** Ajoutez des images, audios ou vidéos pour un contexte plus riche. Définissez les attributions si vous publiez.
+
+Voir [rédiger des questions](../editor/005-writing-questions.md) pour les réglages généraux des questions.
 
 ---
 
-Image map questions are perfect for labeling diagrams, identifying regions, or visual “find-the-object” games!
+## ⏱️ Scoring basé sur le temps
+
+**Le scoring basé sur le temps est activé par défaut.** Les joueurs qui répondent rapidement gagnent plus de points, mais il y a toujours une composante fixe (par défaut : 75%) pour une bonne réponse. Seulement 25% du score total est influencé par la rapidité de la réponse.\
+Vous pouvez désactiver le scoring basé sur le temps pour ce type de question si vous le souhaitez.
+
+📘 Pour plus de détails sur le scoring et les réglages de temps, consultez la [documentation des options de manche](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Conseils pour de super questions avec carte image
+
+- **Utilisez des images claires et non encombrées** pour faciliter l’identification.
+- **Définissez soigneusement les zones de réponse** pour éviter les chevauchements ou confusions.
+- **Fournissez un feedback constructif** pour aider les joueurs à apprendre de leurs erreurs.
+- **Crédit partiel :** Utilisez l’option « presque correct » pour récompenser les quasi-bons choix et rendre le jeu plus équitable.
+
+---
+
+Les questions avec carte image sont parfaites pour annoter des diagrammes, identifier des régions ou des jeux visuels de type « trouvez l’objet » !
