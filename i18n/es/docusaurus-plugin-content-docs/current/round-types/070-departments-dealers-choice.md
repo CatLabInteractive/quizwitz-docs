@@ -1,43 +1,43 @@
 ---
 id: departments-dealers-choice
-title: Department Dealer's Choice
+title: Elección del concesionario del departamento
 ---
 
-# 🏢 Department Dealer’s Choice
+# 🏢 Elección del concesionario del departamento
 
-**Department Dealer’s Choice** is an interactive round type where players from a specific department take turns selecting the next category or question.
-
----
-
-## 📝 How it works
-
-- A single **department** is selected to play this round.
-- A **dealer** is chosen from within that department (by ranking or at random) to pick the next category or question.
-- Depending on settings, **only the dealer** or **all players in the dealer's department** can answer and score points for the selected question.
+**Elección del concesionario del departamento** es un tipo de ronda interactiva donde los jugadores de un departamento específico toman turnos para seleccionar la siguiente categoría o pregunta.
 
 ---
 
-## ⚙️ Settings
+## 📝 Cómo funciona
 
-- **Department number:** Choose which department is playing this round.
-- **Dealer selection:**
-  - Lowest ranked first
-  - Highest ranked first
-  - Random
-- **Dealer department:**
-  - _Only dealer may play_ — Only the selected dealer answers the question
-  - _All players in dealer’s department may play_ — Everyone in the department can answer and score points
-- **Dealer bonus:**\
-  Set a bonus percentage for the dealer (if enabled).
+- Se selecciona un **departamento** para jugar esta ronda.
+- Se elige un **concesionario** dentro de ese departamento (por clasificación o al azar) para escoger la siguiente categoría o pregunta.
+- Dependiendo de la configuración, **solo el concesionario** o **todos los jugadores del departamento del concesionario** pueden responder y sumar puntos por la pregunta seleccionada.
 
 ---
 
-## 💡 Tips
+## ⚙️ Configuración
 
-- Use this mode for team-based competitions or when you want to give specific groups a chance to shine.
-- Dealer’s Choice rounds keep the game dynamic and engaging, with added strategy for departments.
+- **Número de departamento:** Elige qué departamento jugará esta ronda.
+- **Selección del concesionario:**
+  - Primero el de clasificación más baja
+  - Primero el de clasificación más alta
+  - Aleatorio
+- **Departamento del concesionario:**
+  - _Solo el concesionario puede jugar_ — Solo el concesionario seleccionado responde la pregunta
+  - _Todos los jugadores del departamento del concesionario pueden jugar_ — Todos en el departamento pueden responder y sumar puntos
+- **Bonificación para el concesionario:**\
+  Establece un porcentaje de bonificación para el concesionario (si está activado).
 
 ---
 
-For classic Dealer’s Choice rules, see [Dealer’s Choice](024-dealers-choice.md).\
-For more team game options, check [Round options](../editor/008-round-options.md).
+## 💡 Consejos
+
+- Usa este modo para competiciones por equipos o cuando quieras dar a grupos específicos la oportunidad de brillar.
+- Las rondas de Elección del concesionario mantienen el juego dinámico y atractivo, con estrategia adicional para los departamentos.
+
+---
+
+Para las reglas clásicas de Elección del concesionario, consulta [Elección del concesionario](024-dealers-choice.md).\
+Para más opciones de juegos en equipo, consulta [Opciones de ronda](../editor/008-round-options.md).
