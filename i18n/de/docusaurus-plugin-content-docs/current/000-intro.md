@@ -1,34 +1,34 @@
 ---
 id: intro
-title: Introduction
+title: Einführung
 ---
 
-# 🎉 Getting started
+# 🎉 Erste Schritte
 
-## Welcome to QuizWitz!
+## Willkommen bei QuizWitz!
 
-**QuizWitz** is a social quiz platform where you can:
+**QuizWitz** ist eine soziale Quiz-Plattform, auf der du kannst:
 
-- Play fun quiz games with friends or solo
-- Host professional quiz events with live tools
-- Create your own quizzes, rounds, playlists, and more
+- Spiele lustige Quiz-Spiele mit Freunden oder Solo-Spielen
+- Veranstalte professionelle Quiz-Events mit Live-Tools
+- Erstelle deine eigenen Quizs, Runden, Playlisten und mehr
 
-Whether you're here to relax, present, or build — we've got you covered.
+Egal ob du hier bist um zu entspannen, zu präsentieren oder zu bauen – wir haben dich bedeckt.
 
-Take a moment to explore the different roles and tools available. It’ll only take a minute.
-
----
-
-## 👥 Players and creators
-
-This guide is divided into sections based on how you use QuizWitz:
-
-- [**Player Guide**](players/001-playing-quizwitz.md) — Learn how to collect, play, and enjoy quizzes
-- [**Quizmaker Guide**](editor/002-for-the-quizmakers.md) — Build your own questions, rounds, and full quizzes
-- [**Quizmaster Guide**](quizmaster/001-introduction.md) — Host a live game using QuizWitz Live
-
-Explore the sections that fit your role — or all of them if you're curious!
+Nimm dir einen Moment Zeit, um die verschiedenen Rollen und Tools zu erkunden. Es dauert nur eine Minute.
 
 ---
 
-Ready to jump in? Let’s get quizzing.
+## 👥 Spieler und Schöpfer
+
+Diese Anleitung ist in Abschnitte unterteilt, basierend auf der Verwendung von QuizWitz:
+
+- [**Spieleranleitung**](players/001-playing-quizwitz.md) — Lernen Sie, wie Sie Quizze sammeln, spielen und genießen
+- [**Quizmaker Guide**](editor/002-for-the-quizmakers.md) — Baue deine eigenen Fragen, Runden und vollständige Quizze
+- [**Quizmaster Guide**](quizmaster/001-introduction.md) — Wirf ein Live-Spiel mit QuizWitz Live
+
+Entdecke die Abschnitte, die zu deiner Rolle passen – oder alle, wenn du neugierig bist!
+
+---
+
+Bereit zum Einspringen? Los geht's mit dem Quizzen.
