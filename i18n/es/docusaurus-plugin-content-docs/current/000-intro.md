@@ -1,34 +1,34 @@
 ---
 id: intro
-title: Introduction
+title: Introducción
 ---
 
-# 🎉 Getting started
+# 🎉 Comenzando
 
-## Welcome to QuizWitz!
+## ¡Bienvenido/a a QuizWitz!
 
-**QuizWitz** is a social quiz platform where you can:
+**QuizWitz** es una plataforma social de pruebas donde puedes:
 
-- Play fun quiz games with friends or solo
-- Host professional quiz events with live tools
-- Create your own quizzes, rounds, playlists, and more
+- Juega divertidos juegos de quiz con amigos o solo
+- Organiza eventos profesionales de quiz con herramientas en vivo
+- Crea tus propios quizzes, rondas, listas de reproducción y más
 
-Whether you're here to relax, present, or build — we've got you covered.
+Ya sea que estés aquí para relajarte, presentar o construir — tenemos lo que necesitas.
 
-Take a moment to explore the different roles and tools available. It’ll only take a minute.
-
----
-
-## 👥 Players and creators
-
-This guide is divided into sections based on how you use QuizWitz:
-
-- [**Player Guide**](players/001-playing-quizwitz.md) — Learn how to collect, play, and enjoy quizzes
-- [**Quizmaker Guide**](editor/002-for-the-quizmakers.md) — Build your own questions, rounds, and full quizzes
-- [**Quizmaster Guide**](quizmaster/001-introduction.md) — Host a live game using QuizWitz Live
-
-Explore the sections that fit your role — or all of them if you're curious!
+Tómate un momento para explorar los diferentes roles y herramientas disponibles. Sólo te tomará un minuto.
 
 ---
 
-Ready to jump in? Let’s get quizzing.
+## 👥 Jugadores y creadores
+
+Esta guía está dividida en secciones según cómo uses QuizWitz:
+
+- [**Guía de jugador**](players/001-playing-quizwitz.md) — Aprende a coleccionar, jugar y disfrutar de quizzes
+- [**Guía de creador**](editor/002-for-the-quizmakers.md) — Construye tus propias preguntas, rondas y quizzes completos
+- [**Guía principal**](quizmaster/001-introduction.md) — Organiza un juego en vivo usando QuizWitz Live
+
+Explora las secciones que se ajusten a tu rol — ¡o todas si tienes curiosidad!
+
+---
+
+¿Listo para comenzar? Vamos a jugar quiz.
