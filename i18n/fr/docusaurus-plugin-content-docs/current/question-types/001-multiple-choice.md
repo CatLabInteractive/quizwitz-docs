@@ -1,48 +1,48 @@
 ---
 id: multiple-choice
-title: Multiple choice question
+title: Question à choix multiple
 ---
 
-# 🔢 Multiple choice
+# 🔢 Choix multiple
 
-A regular multiple choice question lets players select the correct answer from several given options.
-
----
-
-![Example: Multiple choice question about flags](/images/question-modes/multiple-choice/multiple-choice-wales.png)
+Une question à choix multiple classique permet aux joueurs de sélectionner la bonne réponse parmi plusieurs options proposées.
 
 ---
 
-## 📝 How it works
-
-- **Question:** State clearly what players should answer (example: “Select the flag of 🐟🐟🐟”).
-- **Options:** You can provide up to four answer options.
-- **Correct/Wrong:** Mark one or more correct answers, depending on your settings.
-- **Feedback:** Players see which answer was correct after answering. Optionally, you can provide extra feedback or explanations.
+![Exemple : question à choix multiple sur les drapeaux](/images/question-modes/multiple-choice/multiple-choice-wales.png)
 
 ---
 
-## 🏆 Scoring
+## 📝 Comment ça fonctionne
 
-Multiple choice questions use **time-based scoring** by default: faster answers earn more points. For these questions, scoring decreases continuously per microsecond, with most points fixed and only a portion influenced by speed.\
-**You can also turn off time-based scoring per question** if you want all correct answers to receive the same score.\
-You can further adjust this balance in the round settings.
-
-See [Scoring options in round settings](../editor/008-round-options.md#scoring) for full details.
-
----
-
-## ⚙️ Expanded settings
-
-The Multiple choice question type offers many settings to fine-tune the experience and scoring.\
-See [writing questions](../editor/005-writing-questions.md) for a general overview of question settings.
+- **Question :** Indiquez clairement ce que les joueurs doivent répondre (exemple : « Sélectionnez le drapeau de 🐟🐟🐟 »).
+- **Options :** Vous pouvez proposer jusqu'à quatre options de réponse.
+- **Correct/Erreur :** Marquez une ou plusieurs réponses correctes, selon vos réglages.
+- **Retour d'information :** Les joueurs voient quelle réponse était correcte après avoir répondu. Optionnellement, vous pouvez fournir un retour supplémentaire ou des explications.
 
 ---
 
-## 💡 Tips for great multiple choice questions
+## 🏆 Attribution des points
 
-- **Be clear and concise:** Avoid ambiguous wording.
-- **Use plausible wrong answers:** Make distractors believable.
-- **Mix media:** Add images, flags, or sounds for engagement.
-- **Randomize order:** Keep things fair for all players.
-- **Tag and categorize:** For easy navigation and searchability.
+Les questions à choix multiple utilisent par défaut un **système de points basé sur le temps** : plus la réponse est rapide, plus elle rapporte de points. Pour ces questions, le score diminue continuellement à la microseconde près, avec la plupart des points fixes et seule une partie influencée par la rapidité.\
+**Vous pouvez aussi désactiver le système de points basé sur le temps par question** si vous voulez que toutes les bonnes réponses obtiennent le même score.\
+Vous pouvez affiner cet équilibre dans les réglages de la manche.
+
+Voir [Options de notation dans les réglages de la manche](../editor/008-round-options.md#scoring) pour tous les détails.
+
+---
+
+## ⚙️ Réglages avancés
+
+Le type de question à choix multiple offre de nombreux réglages pour affiner l'expérience et l'attribution des points.\
+Voir [écrire des questions](../editor/005-writing-questions.md) pour une vue d'ensemble des réglages des questions.
+
+---
+
+## 💡 Conseils pour de super questions à choix multiple
+
+- **Soyez clair et concis :** Évitez les formulations ambiguës.
+- **Utilisez de fausses réponses plausibles :** Rendez les distracteurs crédibles.
+- **Mélangez les médias :** Ajoutez des images, des drapeaux ou des sons pour plus d'engagement.
+- **Mélangez l'ordre :** Pour que tout soit juste pour tous les joueurs.
+- **Taguez et catégorisez :** Pour une navigation et une recherche faciles.
