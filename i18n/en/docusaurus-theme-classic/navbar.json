@@ -1,1 +1,26 @@
-{}
+{
+  "title": {
+    "message": "QuizWitz",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "QuizWitz Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.About QuizWitz": {
+    "message": "About QuizWitz",
+    "description": "Navbar item with label About QuizWitz"
+  },
+  "item.label.Round types": {
+    "message": "Round types",
+    "description": "Navbar item with label Round types"
+  },
+  "item.label.Question types": {
+    "message": "Question types",
+    "description": "Navbar item with label Question types"
+  },
+  "item.label.FAQ": {
+    "message": "FAQ",
+    "description": "Navbar item with label FAQ"
+  }
+}
