@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "Witz",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Logo Witz",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.About QuizWitz": {
+    "message": "Sobre la prueba de Witz",
+    "description": "Navbar item with label About QuizWitz"
+  },
+  "item.label.Round types": {
+    "message": "Tipos de ronda",
+    "description": "Navbar item with label Round types"
+  },
+  "item.label.Question types": {
+    "message": "Tipos de preguntas",
+    "description": "Navbar item with label Question types"
+  },
+  "item.label.FAQ": {
+    "message": "FAQ",
+    "description": "Navbar item with label FAQ"
+  }
+}
