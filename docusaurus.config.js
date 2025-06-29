@@ -17,7 +17,7 @@ const config = {
 
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'nl' /*, 'fr', 'de', 'es' */ ],
+    locales: ['en', 'nl' , 'fr', 'de', 'es'  ],
     path: 'i18n',
   },
 
@@ -85,6 +85,7 @@ const config = {
           {
             type: 'localeDropdown',
             position: 'right',
+            queryString: '?persistLocale=true',
           },
         ],
       },
