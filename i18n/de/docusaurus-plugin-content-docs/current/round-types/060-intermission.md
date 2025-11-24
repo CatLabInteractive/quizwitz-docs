@@ -12,10 +12,10 @@ title: Pause
 ## 📝 So funktioniert’s
 
 - Während einer Pause wird der Hauptbildschirm angehalten und ein Timer angezeigt.
-- **Bei Konferenz- und Partyspielen:**\
+- **Bei Konferenz- und Partyspielen:**  
   Die Pause endet, wenn jemand **Enter** auf dem Hauptbildschirm drückt.
-- **Bei QuizWitz Live Spielen:**\
-  Der quizmaster beendet die Pause über sein Gerät (Tablet oder Smartphone).\
+- **Bei QuizWitz Live Spielen:**  
+  Der quizmaster beendet die Pause über sein Gerät (Tablet oder Smartphone).  
   Die Quizmaster-App zeigt einen Timer an, damit der Gastgeber sehen kann, wie lange die Pause bereits dauert.
 
 ---
