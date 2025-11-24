@@ -24,8 +24,8 @@ Een gewone meerkeuzevraag laat spelers het juiste antwoord kiezen uit verschille
 
 ## 🏆 Score
 
-Meerkeuzevragen gebruiken standaard **tijdgebaseerde scoring**: snellere antwoorden leveren meer punten op. Bij deze vragen neemt de score continu af per microseconde, waarbij de meeste punten vast staan en slechts een deel afhankelijk is van de snelheid.\
-**Je kunt ook tijdgebaseerde scoring per vraag uitschakelen** als je wilt dat alle juiste antwoorden dezelfde score ontvangen.\
+Meerkeuzevragen gebruiken standaard **tijdgebaseerde scoring**: snellere antwoorden leveren meer punten op. Bij deze vragen neemt de score continu af per microseconde, waarbij de meeste punten vast staan en slechts een deel afhankelijk is van de snelheid.  
+**Je kunt ook tijdgebaseerde scoring per vraag uitschakelen** als je wilt dat alle juiste antwoorden dezelfde score ontvangen.  
 Je kunt deze balans verder aanpassen in de ronde-instellingen.
 
 Zie [Score-opties in ronde instellingen](../editor/008-round-options.md#scoring) voor volledige details.
@@ -34,7 +34,7 @@ Zie [Score-opties in ronde instellingen](../editor/008-round-options.md#scoring)
 
 ## ⚙️ Uitgebreide instellingen
 
-Het type meerkeuzevraag biedt vele instellingen om de ervaring en score te verfijnen.\
+Het type meerkeuzevraag biedt vele instellingen om de ervaring en score te verfijnen.  
 Zie [vragen schrijven](../editor/005-writing-questions.md) voor een algemeen overzicht van vraaginstellingen.
 
 ---
