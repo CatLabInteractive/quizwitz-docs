@@ -15,7 +15,7 @@ Bei einer **Bildkartenfrage** müssen die Spieler den richtigen Punkt (oder die 
 
 ## 📝 So funktioniert’s
 
-- **Frage:** Formuliere klar, was die Spieler auf dem Bild finden müssen.\
+- **Frage:** Formuliere klar, was die Spieler auf dem Bild finden müssen.  
   _(Beispiel: „Wähle den Erlenmeyerkolben aus.“)_
 - **Bild:** Lade ein hochqualitatives Bild hoch, das allen Spielern angezeigt wird.
 - **Antwortbereiche:** Definiere einen oder mehrere **Zielbereiche** („Punkte“) auf dem Bild. Jeder Bereich kann als Kreis oder eine andere Form eingestellt werden, und Du bestimmst Position und Größe.
@@ -41,7 +41,7 @@ Siehe [Fragen schreiben](../editor/005-writing-questions.md) für allgemeine Fra
 
 ## ⏱️ Zeitbasierte Punktevergabe
 
-**Zeitbasierte Punktevergabe ist standardmäßig aktiviert.** Spieler, die schnell antworten, erhalten mehr Punkte, aber es gibt immer eine feste Komponente (Standard: 75 %) für eine korrekte Antwort. Nur 25 % der Gesamtpunktzahl werden davon beeinflusst, wie schnell Du antwortest.\
+**Zeitbasierte Punktevergabe ist standardmäßig aktiviert.** Spieler, die schnell antworten, erhalten mehr Punkte, aber es gibt immer eine feste Komponente (Standard: 75 %) für eine korrekte Antwort. Nur 25 % der Gesamtpunktzahl werden davon beeinflusst, wie schnell Du antwortest.  
 Du kannst die zeitbasierte Punktevergabe für diesen Fragetyp deaktivieren, wenn Du möchtest.
 
 📘 Für Details zu Punkten und Zeiteinstellungen siehe die [Rundenoptionen-Dokumentation](../editor/008-round-options.md#scoring).
