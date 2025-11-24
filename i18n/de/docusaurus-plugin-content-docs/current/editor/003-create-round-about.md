@@ -57,10 +57,10 @@ Im Bereich **Details** findest du weitere Konfigurationsmöglichkeiten:
 - **Translate** — Erstelle eine übersetzte Version deines Round-About in einer anderen Sprache
 - **Kategorie** — Wähle oder aktualisiere die Kategorie deines Round-About
 - **Round-Typ** — Wähle, wie die Fragen den Spielern präsentiert werden. Du kannst konfigurieren:
-    - Multiple Choice
-    - Offene Fragen
-    - Blitzrunden
-    - Und mehr
+  - Multiple Choice
+  - Offene Fragen
+  - Blitzrunden
+  - Und mehr
 
 > 🔗 Erfahre mehr über [Round-Typen](../round-types/000-round-types.md) und [Fragetypen](../question-types/000-question-types.md) in den fortgeschrittenen Anleitungen.
 
