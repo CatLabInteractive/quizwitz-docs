@@ -51,8 +51,8 @@ Voor eenmalige of occasionele evenementen kun je **pay-as-you-go Seats** activer
 - **Korting bij bulkaankoop** is beschikbaar wanneer je credits in grote hoeveelheden koopt.
 - Elke **premium licentie** bevat een **waarde aan gratis credits**.
 - Als je niet zeker weet hoeveel spelers meedoen:
-    - Je kunt **wachten tot iedereen verbonden is** voor je Seats activeert.
-    - Of activeer meer Seats dan nodig — **ongebruikte Seats worden na afloop automatisch terugbetaald** in credits.
+  - Je kunt **wachten tot iedereen verbonden is** voor je Seats activeert.
+  - Of activeer meer Seats dan nodig — **ongebruikte Seats worden na afloop automatisch terugbetaald** in credits.
 
 ---
 
@@ -60,9 +60,9 @@ Voor eenmalige of occasionele evenementen kun je **pay-as-you-go Seats** activer
 
 - **Pay-as-you-go Seats** blijven **48 uur** actief na activatie.
 - Binnen die tijd kun je:
-    - **Meerdere quizzen of sessies** draaien
-    - Je quiz **testen** met grotere groepen
-    - **Meerdaagse evenementen** in het weekend hosten
+  - **Meerdere quizzen of sessies** draaien
+  - Je quiz **testen** met grotere groepen
+  - **Meerdaagse evenementen** in het weekend hosten
 
 ---
 
