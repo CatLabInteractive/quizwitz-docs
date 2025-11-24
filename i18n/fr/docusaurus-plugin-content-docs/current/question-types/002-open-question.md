@@ -29,7 +29,7 @@ Les questions ouvertes offrent une gamme de paramètres pour s’adapter à votr
 - **Plusieurs réponses acceptées :** Ajoutez des orthographes alternatives, des abréviations ou des synonymes pour une correction automatique plus flexible.
 - **Score basé sur le temps :** Récompensez les réponses plus rapides (voir « Score » ci-dessous).
 - **Forcer la correction automatique :** Activez cette option pour que le jeu marque automatiquement les réponses correctes selon la liste que vous avez fournie.
-    - Si non activé (par défaut pour la plupart des parties en direct), les réponses ouvertes doivent être examinées et notées manuellement via l’[application Jury](../quizmaster/004-jury-app.md).
+  - Si non activé (par défaut pour la plupart des parties en direct), les réponses ouvertes doivent être examinées et notées manuellement via l’[application Jury](../quizmaster/004-jury-app.md).
 
 Pour en savoir plus sur ces options, voyez [comment écrire des questions](../editor/005-writing-questions.md).
 
