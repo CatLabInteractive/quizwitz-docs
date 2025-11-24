@@ -23,7 +23,7 @@ Klicke auf das **Zahnrad-Symbol** oben links bei einer Frage, um das volle Einst
 
 ### 🎮 Modus & Punktevergabe
 
-- **Fragetyp** — Wähle, wie die Frage gespielt wird (z. B. Multiple Choice, offene Antwort, Puzzle)\
+- **Fragetyp** — Wähle, wie die Frage gespielt wird (z. B. Multiple Choice, offene Antwort, Puzzle)  
   → Erfahre mehr unter [Fragetypen](../question-types/000-question-types.md)
 - **Punkte** — Lege fest, wie viele Punkte eine richtige Antwort wert ist
 - **Frage-Timer** — Stelle mit dem Schieberegler das Zeitlimit ein
@@ -69,7 +69,7 @@ Du kannst Fragen mit Bildern, Videos oder Audio ergänzen. Jeder Anhang kann zu 
 
 Du kannst **mehrere Anhänge** in jedem Slot hinzufügen.
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** kann der quizmaster auswählen, welcher Anhang zu welchem Zeitpunkt angezeigt wird.\
+> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** kann der quizmaster auswählen, welcher Anhang zu welchem Zeitpunkt angezeigt wird.  
 > 🎮 **In regulären Spielen:** werden alle Anhänge eines Slots gleichzeitig angezeigt.
 
 📘 Erfahre mehr über unterstützte Dateitypen, Timing-Tipps und Einschränkungen im [Anhänge-Guide](../editor/006-attachments.md).
