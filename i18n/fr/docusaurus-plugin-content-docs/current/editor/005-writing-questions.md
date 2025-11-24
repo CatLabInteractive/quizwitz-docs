@@ -23,7 +23,7 @@ Cliquez sur l'**icône d'engrenage** en haut à gauche d'une question pour ouvri
 
 ### 🎮 Mode & notation
 
-- **Type de question** — Choisissez comment la question est jouée (ex. choix multiple, réponse ouverte, puzzle)\
+- **Type de question** — Choisissez comment la question est jouée (ex. choix multiple, réponse ouverte, puzzle)  
   → En savoir plus dans [types de questions](../question-types/000-question-types.md)
 - **Points** — Définissez combien de points vaut une bonne réponse
 - **Minuteur de la question** — Ajustez la limite de temps avec le curseur
@@ -69,7 +69,7 @@ Vous pouvez enrichir les questions avec des images, vidéos ou sons. Chaque piè
 
 Vous pouvez ajouter **plusieurs pièces jointes** dans chaque emplacement.
 
-> ⚡ **Dans [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) :** le quizmaster peut choisir quelle pièce jointe afficher à chaque moment.\
+> ⚡ **Dans [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) :** le quizmaster peut choisir quelle pièce jointe afficher à chaque moment.  
 > 🎮 **Dans les parties régulières :** toutes les pièces jointes d'un emplacement donné sont affichées en même temps.
 
 📘 En savoir plus sur les types de fichiers supportés, astuces de timing, et limites dans le [guide des pièces jointes](../editor/006-attachments.md).
