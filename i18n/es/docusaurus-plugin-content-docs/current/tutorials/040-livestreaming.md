@@ -98,10 +98,10 @@ Una vez que el retraso esté configurado y tus jugadores conectados:
 
 - Para interactuar con la audiencia, monitorea los **comentarios en vivo** en una pantalla separada — no el flujo de vídeo.
 
-- ¿Quieres cambiar escenas de OBS automáticamente? Usa:\
+- ¿Quieres cambiar escenas de OBS automáticamente? Usa:  
   [`https://regie.catlab.eu/obs.html`](https://regie.catlab.eu/obs.html)
 
-- ¿Quieres activar dispositivos MIDI durante el juego? Prueba:\
+- ¿Quieres activar dispositivos MIDI durante el juego? Prueba:  
   [`https://regie.catlab.eu/midi.html`](https://regie.catlab.eu/midi.html)
 
 - ¿Buscas más herramientas? Visita [**regie.catlab.eu**](https://regie.catlab.eu) — un centro con utilidades adicionales para automatización, cambio de escenas, efectos y más.
