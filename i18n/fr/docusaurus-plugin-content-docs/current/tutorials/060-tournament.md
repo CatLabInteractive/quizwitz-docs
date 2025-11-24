@@ -11,7 +11,7 @@ Ce tutoriel vous montrera comment utiliser le mode Tournoi de QuizWitz. Le mode 
 
 ## 📝 Créez le quiz
 
-Lorsque vous créez un quiz pour tournoi, gardez-le court et engageant. Si les visiteurs doivent passer trop de temps sur le quiz, ils risquent de ne pas le finir.\
+Lorsque vous créez un quiz pour tournoi, gardez-le court et engageant. Si les visiteurs doivent passer trop de temps sur le quiz, ils risquent de ne pas le finir.  
 **Seuls les joueurs qui terminent tout le quiz seront listés sur le classement.**
 
 ### 🎲 Sélection aléatoire des questions
