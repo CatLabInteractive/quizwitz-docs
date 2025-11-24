@@ -51,8 +51,8 @@ Para eventos únicos u ocasionales, puedes activar **seats de pago por uso** en 
 - Hay **descuentos por volumen** al comprar créditos al por mayor.
 - Cada **licencia premium** incluye un **valor de créditos gratis**.
 - Si no estás seguro de cuántos jugadores se unirán:
-    - Puedes **esperar hasta que todos se conecten** antes de activar los seats.
-    - O, activas más seats de los necesarios — **los seats no usados se reembolsan automáticamente** en créditos después de que expiran.
+  - Puedes **esperar hasta que todos se conecten** antes de activar los seats.
+  - O, activas más seats de los necesarios — **los seats no usados se reembolsan automáticamente** en créditos después de que expiran.
 
 ---
 
@@ -60,9 +60,9 @@ Para eventos únicos u ocasionales, puedes activar **seats de pago por uso** en 
 
 - Los **seats de pago por uso** permanecen activos durante **48 horas** tras su activación.
 - Dentro de ese tiempo, puedes:
-    - Realizar **múltiples quizzes o sesiones**
-    - **Probar** tu quiz con grupos grandes
-    - Organizar **eventos de varios días** durante un fin de semana
+  - Realizar **múltiples quizzes o sesiones**
+  - **Probar** tu quiz con grupos grandes
+  - Organizar **eventos de varios días** durante un fin de semana
 
 ---
 
