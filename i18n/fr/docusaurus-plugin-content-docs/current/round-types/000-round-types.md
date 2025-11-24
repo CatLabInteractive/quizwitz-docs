@@ -5,7 +5,7 @@ name: Types de manches
 
 # Types de manches
 
-Le type de manche influence la façon dont le jeu affiche les questions aux joueurs — et comment les joueurs gagnent des points.\
+Le type de manche influence la façon dont le jeu affiche les questions aux joueurs — et comment les joueurs gagnent des points.  
 Dans les quiz, vous pouvez changer le type de manche dans le champ de sélection **Type de manche** en haut au centre de l'écran.
 
 ## 🧠 Manches régulières
@@ -25,7 +25,7 @@ Ces manches offrent un peu plus d’interactivité que de simples questions-rép
 
 ## 🍺 Traditionnel
 
-Pour ceux qui veulent organiser des quiz de pub traditionnels où les joueurs peuvent changer leurs réponses jusqu'à la fin de la manche.\
+Pour ceux qui veulent organiser des quiz de pub traditionnels où les joueurs peuvent changer leurs réponses jusqu'à la fin de la manche.  
 Ces types de manches simulent le "remise des copies" après chaque manche.
 
 - [Traditional](030-traditional.md)
