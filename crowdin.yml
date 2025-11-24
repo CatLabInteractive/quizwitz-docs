@@ -11,9 +11,3 @@ files:
     scheme: 'identifier'
     excluded_front_matter_elements:
       - id
-  # Game client files
-  - source: /translations/game-client/original.json
-    translation: /translations/game-client/%two_letters_code%.json
-  # Game client view files
-  - source: /translations/game-client/views/en.json
-    translation: /translations/game-client/views/%two_letters_code%.json
