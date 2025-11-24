@@ -5,7 +5,7 @@ title: Pregunta de desempate
 
 # 🏁 Pregunta de desempate
 
-La pregunta de desempate se usa para resolver empates al final de un cuestionario.\
+La pregunta de desempate se usa para resolver empates al final de un cuestionario.  
 Se les pide a los jugadores que adivinen un número (por ejemplo, "¿Cuántos frijoles hay en el frasco?"). El jugador cuya respuesta esté más cerca del valor correcto ganará en caso de empate.
 
 ---
