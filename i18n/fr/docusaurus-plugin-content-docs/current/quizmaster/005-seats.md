@@ -51,8 +51,8 @@ Pour des événements ponctuels ou occasionnels, vous pouvez activer des **Seats
 - Des **réductions de volume** sont disponibles lors de l’achat de crédits en grande quantité.
 - Chaque **licence premium** inclut une **valeur de crédits gratuits**.
 - Si vous n’êtes pas sûr du nombre de joueurs qui participeront :
-    - Vous pouvez **attendre que tout le monde soit connecté** avant d’activer les Seats.
-    - Ou activer plus de Seats que nécessaire — **les Seats inutilisés sont automatiquement remboursés** en crédits après expiration.
+  - Vous pouvez **attendre que tout le monde soit connecté** avant d’activer les Seats.
+  - Ou activer plus de Seats que nécessaire — **les Seats inutilisés sont automatiquement remboursés** en crédits après expiration.
 
 ---
 
@@ -60,9 +60,9 @@ Pour des événements ponctuels ou occasionnels, vous pouvez activer des **Seats
 
 - Les **Seats payants à l’usage** restent actifs pendant **48 heures** après activation.
 - Pendant ce temps, vous pouvez :
-    - Organiser **plusieurs quiz ou sessions**
-    - **Tester** votre quiz avec des groupes plus grands
-    - Organiser des **événements sur plusieurs jours** durant un week-end
+  - Organiser **plusieurs quiz ou sessions**
+  - **Tester** votre quiz avec des groupes plus grands
+  - Organiser des **événements sur plusieurs jours** durant un week-end
 
 ---
 
