@@ -5,7 +5,7 @@ title: Beste Antwort Frage
 
 # 🎖️ Beste Antwort Frage
 
-Beim Fragetyp **Beste Antwort Frage** schreiben die Spieler ihre eigenen Antworten auf eine offene Frage.\
+Beim Fragetyp **Beste Antwort Frage** schreiben die Spieler ihre eigenen Antworten auf eine offene Frage.  
 Punkte werden entweder manuell vom quizmaster vergeben oder—wenn kein quizmaster vorhanden ist—indem die Spieler für ihre Lieblingsantwort abstimmen.
 
 ---
@@ -14,8 +14,8 @@ Punkte werden entweder manuell vom quizmaster vergeben oder—wenn kein quizmast
 
 - **Spieler antworten:** Jeder Spieler gibt seine Antwort auf die offene Frage ein.
 - **Punktevergabe:**
-    - In **QuizWitz Live** (mit quizmaster) überprüft der Gastgeber alle Antworten und vergibt Punkte an die beste(n).
-    - In regulären Spielen (ohne Gastgeber) stimmen die Spieler für die Antwort ab, die sie am besten finden. Die Antwort(en) mit den meisten Stimmen erhalten die Punkte.
+  - In **QuizWitz Live** (mit quizmaster) überprüft der Gastgeber alle Antworten und vergibt Punkte an die beste(n).
+  - In regulären Spielen (ohne Gastgeber) stimmen die Spieler für die Antwort ab, die sie am besten finden. Die Antwort(en) mit den meisten Stimmen erhalten die Punkte.
 
 ---
 
