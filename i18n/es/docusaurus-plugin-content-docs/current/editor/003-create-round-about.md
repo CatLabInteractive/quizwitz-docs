@@ -57,10 +57,10 @@ En la sección **Detalles**, encontrarás opciones adicionales de configuración
 - **Traducir** — Crea una versión traducida de tu Round-About en otro idioma
 - **Categoría** — Elige o actualiza la categoría de tu Round-About
 - **Tipo de ronda** — Selecciona cómo se presentan las preguntas a los jugadores. Puedes configurar:
-    - Opción múltiple
-    - Preguntas abiertas
-    - Rondas relámpago
-    - Y más
+  - Opción múltiple
+  - Preguntas abiertas
+  - Rondas relámpago
+  - Y más
 
 > 🔗 Aprende más sobre [tipos de ronda](../round-types/000-round-types.md) y [tipos de pregunta](../question-types/000-question-types.md) en las guías avanzadas.
 

@@ -5,7 +5,7 @@ title: Pregunta de mejor respuesta
 
 # 🎖️ Pregunta de mejor respuesta
 
-En el tipo de **Pregunta de mejor respuesta**, los jugadores escriben sus propias respuestas a una pregunta abierta.\
+En el tipo de **Pregunta de mejor respuesta**, los jugadores escriben sus propias respuestas a una pregunta abierta.  
 Los puntos se otorgan manualmente por el quizmaster, o —si no hay quizmaster— haciendo que los jugadores voten por su respuesta favorita.
 
 ---
@@ -14,8 +14,8 @@ Los puntos se otorgan manualmente por el quizmaster, o —si no hay quizmaster�
 
 - **Los jugadores responden:** Cada jugador escribe su respuesta a la pregunta abierta.
 - **Puntuación:**
-    - En **QuizWitz Live** (con un quizmaster), el anfitrión revisa todas las respuestas y asigna puntos a la(s) mejor(es).
-    - En juegos normales (sin anfitrión), los jugadores votan por la respuesta que consideran mejor. La(s) respuesta(s) con más votos obtienen los puntos.
+  - En **QuizWitz Live** (con un quizmaster), el anfitrión revisa todas las respuestas y asigna puntos a la(s) mejor(es).
+  - En juegos normales (sin anfitrión), los jugadores votan por la respuesta que consideran mejor. La(s) respuesta(s) con más votos obtienen los puntos.
 
 ---
 

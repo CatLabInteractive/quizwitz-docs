@@ -5,7 +5,7 @@ title: Pregunta de orden
 
 # 🔀 Pregunta de orden
 
-En una **pregunta de orden**, los jugadores deben colocar hasta 4 elementos en la secuencia correcta.\
+En una **pregunta de orden**, los jugadores deben colocar hasta 4 elementos en la secuencia correcta.  
 Este tipo de ronda es genial para desafíos cronológicos, de clasificación o secuenciación.
 
 ---
@@ -16,7 +16,7 @@ Este tipo de ronda es genial para desafíos cronológicos, de clasificación o s
 
 ## 📝 Cómo funciona
 
-- **Pregunta:** Pregunta claramente cuál orden se requiere.\
+- **Pregunta:** Pregunta claramente cuál orden se requiere.  
   _(Ejemplo: “Selecciona los animales en el orden correcto de menos a más patas.”)_
 - **Opciones:** Ingresa hasta cuatro elementos. Tú defines la secuencia correcta.
 - **Vista del jugador:** Las opciones se muestran en orden aleatorio. Los jugadores **seleccionan cada ítem uno por uno** en el orden que creen correcto.
@@ -26,8 +26,8 @@ Este tipo de ronda es genial para desafíos cronológicos, de clasificación o s
 
 ## 🏆 Puntuación
 
-Las preguntas de orden usan **puntuación basada en el tiempo** por defecto:\
-Respuestas correctas más rápidas ganan más puntos, pero la mayoría de los puntos son fijos. El tiempo solo afecta una parte de la puntuación.\
+Las preguntas de orden usan **puntuación basada en el tiempo** por defecto:  
+Respuestas correctas más rápidas ganan más puntos, pero la mayoría de los puntos son fijos. El tiempo solo afecta una parte de la puntuación.  
 También puedes desactivar la puntuación basada en el tiempo por pregunta para puntos fijos únicamente.
 
 Consulta [Opciones de puntuación en ajustes de ronda](../editor/008-round-options.md#scoring) para más detalles.

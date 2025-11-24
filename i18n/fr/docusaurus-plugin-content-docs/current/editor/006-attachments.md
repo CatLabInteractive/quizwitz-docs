@@ -57,7 +57,7 @@ C'est particulièrement efficace pour les énigmes ou les révélations lentes p
 
 Certains emplacements permettent d'ajouter **plusieurs pièces jointes**. Le comportement dépend du mode de jeu :
 
-> ⚡ **Dans [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) :** Le quizmaster a un contrôle total et peut décider quand afficher ou cacher les pièces jointes pendant le jeu.\
+> ⚡ **Dans [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) :** Le quizmaster a un contrôle total et peut décider quand afficher ou cacher les pièces jointes pendant le jeu.  
 > 🎮 **Dans les parties régulières :** Toutes les pièces jointes dans un emplacement sont affichées **simultanément**.
 
 Les détails sur la temporisation et le comportement de chaque emplacement se trouvent dans la documentation liée pour [questions](../editor/015-importing-questions.md), [manches](../editor/008-round-options.md) et [quizzes](../editor/007-quiz-options.md).

@@ -24,8 +24,8 @@ Una pregunta de opción múltiple regular permite a los jugadores seleccionar la
 
 ## 🏆 Puntaje
 
-Las preguntas de opción múltiple usan **puntaje basado en tiempo** por defecto: las respuestas más rápidas obtienen más puntos. Para estas preguntas, la puntuación disminuye de forma continua por microsegundo, con la mayoría de puntos fijos y solo una parte influenciada por la velocidad.\
-**También puedes desactivar el puntaje basado en tiempo por pregunta** si quieres que todas las respuestas correctas reciban la misma puntuación.\
+Las preguntas de opción múltiple usan **puntaje basado en tiempo** por defecto: las respuestas más rápidas obtienen más puntos. Para estas preguntas, la puntuación disminuye de forma continua por microsegundo, con la mayoría de puntos fijos y solo una parte influenciada por la velocidad.  
+**También puedes desactivar el puntaje basado en tiempo por pregunta** si quieres que todas las respuestas correctas reciban la misma puntuación.  
 Puedes ajustar aún más este equilibrio en la configuración de la ronda.
 
 Consulta [Opciones de puntuación en la configuración de la ronda](../editor/008-round-options.md#scoring) para detalles completos.
@@ -34,7 +34,7 @@ Consulta [Opciones de puntuación en la configuración de la ronda](../editor/00
 
 ## ⚙️ Configuraciones ampliadas
 
-El tipo de pregunta Opción múltiple ofrece muchas configuraciones para afinar la experiencia y la puntuación.\
+El tipo de pregunta Opción múltiple ofrece muchas configuraciones para afinar la experiencia y la puntuación.  
 Consulta [escribir preguntas](../editor/005-writing-questions.md) para una visión general de las configuraciones de preguntas.
 
 ---

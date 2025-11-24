@@ -98,7 +98,7 @@ Una vez que comience tu juego, elige tu modo:
 - Haz clic en **Comenzar**, luego elige **Jugador único**
 - Usa el mouse, teclado o pantalla táctil para responder
 
-![Pantalla de inicio de QuizWitz](/images/quizwitz-start-screen.png)\
+![Pantalla de inicio de QuizWitz](/images/quizwitz-start-screen.png)  
 ![Pantalla de inicio de QuizWitz jugador único](/images/quizwitz-start-screen-single.png)
 
 ---
@@ -113,8 +113,8 @@ Juega con amigos usando sus propios teléfonos o tablets:
 2. Los jugadores siguen las instrucciones en pantalla para unirse
 3. Haz clic en **Iniciar quiz** cuando todos estén listos
 
-![Pantalla de inicio de QuizWitz](/images/quizwitz-start-screen.png)\
-![Pantalla de inicio de QuizWitz juego en grupo](/images/quizwitz-start-screen-party.png)\
+![Pantalla de inicio de QuizWitz](/images/quizwitz-start-screen.png)  
+![Pantalla de inicio de QuizWitz juego en grupo](/images/quizwitz-start-screen-party.png)  
 ![Pantalla de conexión](/images/connect-screen.png)
 
 ---

@@ -38,11 +38,11 @@ Une **question de liste** demande aux joueurs de fournir plusieurs bonnes répon
 ## 🏆 Scoring
 
 - **Points par réponse correcte :** Les joueurs gagnent des points pour chaque bonne réponse.
-- **Scoring basé sur le temps** (si activé) :\
+- **Scoring basé sur le temps** (si activé) :  
   Suit les **règles des questions ouvertes** pour plus d'équité :
-  - Les points disponibles sont divisés en tranches de temps (pas au milliseconde).\
+  - Les points disponibles sont divisés en tranches de temps (pas au milliseconde).  
     Par exemple : plein de points dans la première tranche, 80 % dans la suivante, etc.
-  - **Seuls 25 %** des points dépendent de la rapidité.\
+  - **Seuls 25 %** des points dépendent de la rapidité.  
     Les autres **75 %** sont fixes — même les joueurs plus lents obtiennent la majorité des points s’ils répondent correctement.
   - Cela réduit la pénalité liée à la vitesse de frappe et rend le scoring plus équitable pour tous.
 

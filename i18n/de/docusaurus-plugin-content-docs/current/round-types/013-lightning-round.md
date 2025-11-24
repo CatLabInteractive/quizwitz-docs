@@ -31,7 +31,7 @@ Siehe [Rundeneinstellungen](../editor/008-round-options.md) für Details zur Kon
 
 ## 🎵 Anhänge — Countdown-Musik
 
-- Du kannst einen **Runden-Anhang** im Slot „Während des Frage-Countdowns abspielen“ einstellen.\
+- Du kannst einen **Runden-Anhang** im Slot „Während des Frage-Countdowns abspielen“ einstellen.  
   Dieser Audioanhang wird **durchgehend** als Countdown-Musik während der gesamten Blitzrunde abgespielt und stoppt erst nach der letzten Frage.
 - Nutze energiegeladene oder spannungsgeladene Musik, um die Aufregung zu steigern und die Spieler in Atem zu halten.
 

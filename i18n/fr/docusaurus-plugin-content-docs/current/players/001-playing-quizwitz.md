@@ -98,7 +98,7 @@ Une fois votre partie lancée, choisissez votre mode :
 - Cliquez sur **Démarrer**, puis choisissez **Joueur seul**
 - Utilisez votre souris, clavier ou écran tactile pour répondre
 
-![QuizWitz start screen](/images/quizwitz-start-screen.png)\
+![QuizWitz start screen](/images/quizwitz-start-screen.png)  
 ![QuizWitz start screen single player](/images/quizwitz-start-screen-single.png)
 
 ---
@@ -113,8 +113,8 @@ Jouez avec des amis utilisant leurs propres téléphones ou tablettes :
 2. Les joueurs suivent les instructions à l'écran pour rejoindre
 3. Cliquez sur **Démarrer le quiz** quand tout le monde est prêt
 
-![QuizWitz start screen](/images/quizwitz-start-screen.png)\
-![QuizWitz start screen party](/images/quizwitz-start-screen-party.png)\
+![QuizWitz start screen](/images/quizwitz-start-screen.png)  
+![QuizWitz start screen party](/images/quizwitz-start-screen-party.png)  
 ![QuizWitz connect screen](/images/connect-screen.png)
 
 ---

@@ -22,7 +22,7 @@ Im Hauptmenü:
 
 ## ✏️ Titel und Sprache
 
-Gib deinem Quiz einen Titel und wähle die Hauptsprache.\
+Gib deinem Quiz einen Titel und wähle die Hauptsprache.  
 Du kannst später **Übersetzungen** hinzufügen – du musst nicht alles sofort festlegen.
 
 ---

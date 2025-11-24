@@ -98,10 +98,10 @@ Sobald die Verzögerung eingestellt ist und deine Spieler verbunden sind:
 
 - Zur Interaktion mit dem Publikum beobachte **Live-Kommentare** auf einem separaten Bildschirm — nicht das Video-Feed.
 
-- Möchtest du OBS-Szenen automatisch wechseln? Nutze:\
+- Möchtest du OBS-Szenen automatisch wechseln? Nutze:  
   [`https://regie.catlab.eu/obs.html`](https://regie.catlab.eu/obs.html)
 
-- Willst du MIDI-Geräte während des Spiels steuern? Probier:\
+- Willst du MIDI-Geräte während des Spiels steuern? Probier:  
   [`https://regie.catlab.eu/midi.html`](https://regie.catlab.eu/midi.html)
 
 - Suchst du weitere Tools? Besuche [**regie.catlab.eu**](https://regie.catlab.eu) — eine zentrale Anlaufstelle mit zusätzlichen Utilities für Automatisierung, Szenenwechsel, Effekte und mehr.

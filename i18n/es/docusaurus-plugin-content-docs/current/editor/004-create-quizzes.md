@@ -22,7 +22,7 @@ Desde el menú principal:
 
 ## ✏️ Título y idioma
 
-Ponle un título a tu quiz y elige el idioma principal.\
+Ponle un título a tu quiz y elige el idioma principal.  
 Puedes añadir **traducciones** más tarde si es necesario — no tienes que decidir todo desde el principio.
 
 ---

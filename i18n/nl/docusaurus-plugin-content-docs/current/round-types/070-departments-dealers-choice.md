@@ -38,5 +38,5 @@ title: Afdeling Dealer's Keuze
 
 ---
 
-Voor klassieke Dealer’s Keuze-regels, zie [Dealer’s Keuze](024-dealers-choice.md).\
+Voor klassieke Dealer’s Keuze-regels, zie [Dealer’s Keuze](024-dealers-choice.md).  
 Voor meer teamspelopties, bekijk [Round options](../editor/008-round-options.md).

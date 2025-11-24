@@ -51,8 +51,8 @@ Für einmalige oder gelegentliche Events kannst du **nutzungsabhängige Seats** 
 - **Mengenrabatte** gibt es beim Kauf von Credits in großen Stückzahlen.
 - Jede **Premium-Lizenz** beinhaltet einen **Wert an kostenlosen Credits**.
 - Wenn du nicht genau weißt, wie viele Spieler teilnehmen:
-    - Du kannst **warten, bis sich alle verbunden haben**, bevor du Seats aktivierst.
-    - Oder aktiviere mehr Seats als benötigt – **nicht genutzte Seats werden nach Ablauf automatisch als Credits erstattet**.
+  - Du kannst **warten, bis sich alle verbunden haben**, bevor du Seats aktivierst.
+  - Oder aktiviere mehr Seats als benötigt – **nicht genutzte Seats werden nach Ablauf automatisch als Credits erstattet**.
 
 ---
 
@@ -60,9 +60,9 @@ Für einmalige oder gelegentliche Events kannst du **nutzungsabhängige Seats** 
 
 - **Nutzungsabhängige Seats** bleiben nach der Aktivierung **48 Stunden** aktiv.
 - Innerhalb dieser Zeit kannst du:
-    - **Mehrere Quizze oder Sessions durchführen**
-    - Dein Quiz mit größeren Gruppen **testen**
-    - **Mehrtägige Events** über ein Wochenende veranstalten
+  - **Mehrere Quizze oder Sessions durchführen**
+  - Dein Quiz mit größeren Gruppen **testen**
+  - **Mehrtägige Events** über ein Wochenende veranstalten
 
 ---
 

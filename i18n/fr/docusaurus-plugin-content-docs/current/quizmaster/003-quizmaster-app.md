@@ -75,7 +75,7 @@ Comprend :
 
 Lorsque la manche se termine, vous verrez un écran de **fin de manche** qui révèle le classement à ce jour.
 
-![Quizmaster app - round outro](/images/quizmaster-app-round-outro.png)\
+![Quizmaster app - round outro](/images/quizmaster-app-round-outro.png)  
 ![QuizWitz - round outro big screen](/images/round-outro.png)
 
 Dans votre application :
@@ -83,9 +83,9 @@ Dans votre application :
 - Vous verrez les **100 meilleurs joueurs**, et vous pourrez les faire défiler
 - Tapez la position d'un joueur pour le mettre en surbrillance sur le grand écran
 - À partir de la manche 2, vous verrez aussi combien de places chaque joueur a gagné ou perdu :
-    - **Vert** = progressé
-    - **Rouge** = reculé
-    - **Blanc** = aucun changement
+  - **Vert** = progressé
+  - **Rouge** = reculé
+  - **Blanc** = aucun changement
 
 Les joueurs voient **leur propre position** sur leur appareil pendant la fin de la manche.
 

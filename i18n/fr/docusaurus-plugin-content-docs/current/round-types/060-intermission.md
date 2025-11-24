@@ -12,10 +12,10 @@ title: Entracte
 ## 📝 Comment ça marche
 
 - Pendant un entracte, l'écran principal du jeu est en pause et un minuteur est affiché.
-- **Dans les jeux de conférence et de fête :**\
+- **Dans les jeux de conférence et de fête :**  
   L'entracte se termine lorsque quelqu'un appuie sur **Entrée** sur l'écran principal du jeu.
-- **Dans les parties QuizWitz Live :**\
-  Le quizmaster termine l'entracte depuis son appareil (tablette ou smartphone).\
+- **Dans les parties QuizWitz Live :**  
+  Le quizmaster termine l'entracte depuis son appareil (tablette ou smartphone).  
   L'application Quizmaster affiche un minuteur pour que l'hôte puisse voir la durée de l'entracte.
 
 ---

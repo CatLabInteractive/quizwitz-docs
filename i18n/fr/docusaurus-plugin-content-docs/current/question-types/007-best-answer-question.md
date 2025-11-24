@@ -5,7 +5,7 @@ title: Meilleure réponse à la question
 
 # 🎖️ Meilleure réponse à la question
 
-Dans le type **Meilleure réponse à la question**, les joueurs écrivent leurs propres réponses à une question ouverte.\
+Dans le type **Meilleure réponse à la question**, les joueurs écrivent leurs propres réponses à une question ouverte.  
 Les points sont attribués soit manuellement par le quizmaster, soit — s'il n'y a pas de quizmaster — en faisant voter les joueurs pour leur réponse préférée.
 
 ---
@@ -14,8 +14,8 @@ Les points sont attribués soit manuellement par le quizmaster, soit — s'il n'
 
 - **Les joueurs répondent :** Chaque joueur tape sa réponse à la question ouverte.
 - **Notation :**
-    - Dans **QuizWitz Live** (avec un quizmaster), l'hôte examine toutes les réponses et attribue des points à la ou aux meilleures.
-    - Dans les parties classiques (sans hôte), les joueurs votent pour la réponse qu'ils estiment la meilleure. La ou les réponses ayant obtenu le plus de votes remportent les points.
+  - Dans **QuizWitz Live** (avec un quizmaster), l'hôte examine toutes les réponses et attribue des points à la ou aux meilleures.
+  - Dans les parties classiques (sans hôte), les joueurs votent pour la réponse qu'ils estiment la meilleure. La ou les réponses ayant obtenu le plus de votes remportent les points.
 
 ---
 

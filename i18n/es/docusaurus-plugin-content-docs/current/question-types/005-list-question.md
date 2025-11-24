@@ -38,11 +38,11 @@ Una **pregunta de lista** pide a los jugadores que proporcionen varias respuesta
 ## 🏆 Puntuación
 
 - **Puntos por respuesta correcta:** Los jugadores ganan puntos por cada respuesta correcta.
-- **Puntuación basada en tiempo** (si está activada):\
+- **Puntuación basada en tiempo** (si está activada):  
   Sigue las **reglas de preguntas abiertas** para ser justa:
-  - Los puntos disponibles se dividen en bloques de tiempo (no por milisegundo).\
+  - Los puntos disponibles se dividen en bloques de tiempo (no por milisegundo).  
     Por ejemplo: puntos completos en el primer bloque, 80% en el siguiente, y así sucesivamente.
-  - **Solo el 25%** de los puntos dependen de la velocidad.\
+  - **Solo el 25%** de los puntos dependen de la velocidad.  
     El otro **75%** es fijo — así que incluso quienes escriben más lento obtienen la mayoría de los puntos si responden correctamente.
   - Esto reduce la penalización por velocidad de escritura y hace que la puntuación sea más justa para todos.
 

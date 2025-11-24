@@ -13,10 +13,10 @@ title: Élimination de département
 
 - Lorsque cet événement est déclenché, seuls les joueurs ou équipes appartenant au département sélectionné sont pris en compte pour l’élimination.
 - Les critères d’élimination sont flexibles :
-    - **Exclure les mieux classés du département** jusqu’à ce qu’un certain nombre de joueurs restent
-    - **Exclure les moins bien classés du département** jusqu’à ce qu’un nombre défini reste
-    - **Exclure un nombre spécifique des mieux classés** du département
-    - **Exclure un nombre spécifique des moins bien classés** du département
+  - **Exclure les mieux classés du département** jusqu’à ce qu’un certain nombre de joueurs restent
+  - **Exclure les moins bien classés du département** jusqu’à ce qu’un nombre défini reste
+  - **Exclure un nombre spécifique des mieux classés** du département
+  - **Exclure un nombre spécifique des moins bien classés** du département
 - Le nombre de joueurs à conserver ou éliminer peut être défini comme un nombre exact ou en pourcentage.
 
 ---

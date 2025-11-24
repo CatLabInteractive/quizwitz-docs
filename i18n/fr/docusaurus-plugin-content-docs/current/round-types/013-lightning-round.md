@@ -31,7 +31,7 @@ Voir les [options de manche](../editor/008-round-options.md) pour les détails s
 
 ## 🎵 Pièces jointes — Musique du compte à rebours
 
-- Vous pouvez définir une **Pièce jointe de manche** dans la case « Jouer pendant le compte à rebours de la question ».\
+- Vous pouvez définir une **Pièce jointe de manche** dans la case « Jouer pendant le compte à rebours de la question ».  
   Cette pièce audio sera jouée **en continu** comme musique du compte à rebours pendant toute la manche éclair, ne s’arrêtant qu’après la dernière question.
 - Utilisez une musique énergique ou tendue pour booster l’excitation et maintenir les joueurs en alerte.
 

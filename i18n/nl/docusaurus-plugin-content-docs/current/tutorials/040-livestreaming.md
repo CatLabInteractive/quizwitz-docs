@@ -98,10 +98,10 @@ Zodra de vertraging is ingesteld en je spelers verbonden zijn:
 
 - Om met het publiek te communiceren, volg **live reacties** op een apart scherm — niet de videofeed.
 
-- Wil je automatisch OBS-scènes wisselen? Gebruik:\
+- Wil je automatisch OBS-scènes wisselen? Gebruik:  
   [`https://regie.catlab.eu/obs.html`](https://regie.catlab.eu/obs.html)
 
-- Wil je MIDI-apparaten activeren tijdens het spel? Gebruik:\
+- Wil je MIDI-apparaten activeren tijdens het spel? Gebruik:  
   [`https://regie.catlab.eu/midi.html`](https://regie.catlab.eu/midi.html)
 
 - Op zoek naar meer hulpmiddelen? Bezoek [**regie.catlab.eu**](https://regie.catlab.eu) — een centraal punt met extra tools voor automatisering, scène wisselen, effecten en meer.
