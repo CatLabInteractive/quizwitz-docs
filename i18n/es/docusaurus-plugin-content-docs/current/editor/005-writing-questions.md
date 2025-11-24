@@ -23,7 +23,7 @@ Haz clic en el **icono de engranaje** en la esquina superior izquierda de una pr
 
 ### 🎮 Modo y puntuación
 
-- **Tipo de pregunta** — Elige cómo se juega la pregunta (por ejemplo, opción múltiple, respuesta abierta, rompecabezas)\
+- **Tipo de pregunta** — Elige cómo se juega la pregunta (por ejemplo, opción múltiple, respuesta abierta, rompecabezas)  
   → Aprende más en [tipos de pregunta](../question-types/000-question-types.md)
 - **Puntos** — Establece cuántos puntos vale una respuesta correcta
 - **Temporizador de la pregunta** — Ajusta el límite de tiempo usando el deslizador
@@ -69,7 +69,7 @@ Puedes mejorar las preguntas con imágenes, video o audio. Cada adjunto puede mo
 
 Puedes agregar **múltiples archivos adjuntos** en cada espacio.
 
-> ⚡ **En [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** el quizmaster puede elegir qué archivo adjunto mostrar en cada momento.\
+> ⚡ **En [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** el quizmaster puede elegir qué archivo adjunto mostrar en cada momento.  
 > 🎮 **En juegos regulares:** todos los archivos adjuntos en un espacio dado se muestran al mismo tiempo.
 
 📘 Aprende más sobre los tipos de archivo soportados, consejos sobre tiempos y limitaciones en la [guía de archivos adjuntos](../editor/006-attachments.md).
