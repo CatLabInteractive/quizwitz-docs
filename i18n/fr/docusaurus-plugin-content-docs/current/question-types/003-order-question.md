@@ -5,7 +5,7 @@ title: Question d'ordre
 
 # 🔀 Question d'ordre
 
-Dans une **Question d'ordre**, les joueurs doivent mettre jusqu'à 4 éléments dans la bonne séquence.\
+Dans une **Question d'ordre**, les joueurs doivent mettre jusqu'à 4 éléments dans la bonne séquence.  
 Ce type de manche est parfait pour les défis chronologiques, de classement ou de séquençage.
 
 ---
@@ -16,7 +16,7 @@ Ce type de manche est parfait pour les défis chronologiques, de classement ou d
 
 ## 📝 Comment ça marche
 
-- **Question :** Demandez clairement quel ordre est demandé.\
+- **Question :** Demandez clairement quel ordre est demandé.  
   _(Exemple : « Sélectionnez les animaux dans le bon ordre du moins au plus de pattes. »)_
 - **Options :** Saisissez jusqu'à quatre éléments. Vous définissez la séquence correcte.
 - **Vue du joueur :** Les options sont affichées dans un ordre aléatoire. Les joueurs **sélectionnent chaque élément un par un** dans l'ordre qu'ils pensent être correct.
@@ -26,8 +26,8 @@ Ce type de manche est parfait pour les défis chronologiques, de classement ou d
 
 ## 🏆 Score
 
-Les questions d'ordre utilisent par défaut un **score basé sur le temps** :\
-les bonnes réponses plus rapides gagnent plus de points, mais la majorité des points sont fixes. Le temps n'affecte qu'une partie du score.\
+Les questions d'ordre utilisent par défaut un **score basé sur le temps** :  
+les bonnes réponses plus rapides gagnent plus de points, mais la majorité des points sont fixes. Le temps n'affecte qu'une partie du score.  
 Vous pouvez aussi désactiver le score basé sur le temps par question pour n'accorder que des points fixes.
 
 Voir [Options de score dans les paramètres de la manche](../editor/008-round-options.md#scoring) pour plus de détails.
