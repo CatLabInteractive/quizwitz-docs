@@ -5,7 +5,7 @@ title: Punkte zurücksetzen
 
 # 🔄 Punkte zurücksetzen
 
-**Punkte zurücksetzen** ist ein spezielles Ereignis (keine Fragerunde), das den Punktestand aller Spieler oder Teams auf null zurücksetzt.\
+**Punkte zurücksetzen** ist ein spezielles Ereignis (keine Fragerunde), das den Punktestand aller Spieler oder Teams auf null zurücksetzt.  
 Das kann genutzt werden, um gleiche Startbedingungen zu schaffen, Spannung zu erhöhen oder neue Phasen in deinem Quiz einzuführen.
 
 ---
