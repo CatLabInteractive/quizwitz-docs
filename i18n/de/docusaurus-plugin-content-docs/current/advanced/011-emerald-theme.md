@@ -53,13 +53,13 @@ Alle Musik im Spiel kann ebenfalls durch Anhänge ersetzt werden. Alle Audiodate
 
 Zusätzlich zu Anhängen kannst du das Emerald Thema auch mit **Abfrageparametern** manipulieren. Das sind Parameter, die du zur **Erweiterten Spieloptionen**-URL hinzufügen kannst — und die das Erscheinungsbild des Themas ändern.
 
-Dafür starten wir mit einem Beispielquiz (ohne Anhänge):\
+Dafür starten wir mit einem Beispielquiz (ohne Anhänge):  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 
 Wenn du das obige Quiz startest, ist das Spiel im Standard Emerald Stil. Lass uns das ändern.
 
 :::tip
-Der einfachste Weg, mit diesen Parametern zu experimentieren, ist die Nutzung unseres [Theme Testers](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).\
+Der einfachste Weg, mit diesen Parametern zu experimentieren, ist die Nutzung unseres [Theme Testers](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).  
 Wenn du fertig bist mit dem Experimentieren, kannst du die Parameter in deine erweiterte Spieloptionen-URL kopieren und einfügen.
 :::
 
@@ -87,7 +87,7 @@ Jeder dieser Modifikatoren kann eine einzelne Farbe im HTML-Hex-Format enthalten
 Die Abfrageparameter müssen mit einem Fragezeichen ( ? ) beginnen und jeder Parameter muss mit einem Kaufmanns-Und ( & ) getrennt werden. Für weitere Informationen zu Abfrageparametern besuche [Wikipedia](https://de.wikipedia.org/wiki/Query_string).
 :::
 
-Indem du diese Parameter zu deiner Spiel-URL hinzufügst, kannst du die Farben im Thema anpassen:\
+Indem du diese Parameter zu deiner Spiel-URL hinzufügst, kannst du die Farben im Thema anpassen:  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![Ein Screenshot des Emerald Themas mit benutzerdefinierten Modifikatoren](/images/emerald/theme_properties.png)
