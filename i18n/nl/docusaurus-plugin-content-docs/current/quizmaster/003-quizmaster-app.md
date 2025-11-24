@@ -83,9 +83,9 @@ In jouw app:
 - Je ziet de **top 100 spelers**, en je kunt door hen scrollen
 - Tik op de positie van een speler om hem te markeren op het grote scherm
 - Vanaf ronde 2 zie je ook hoeveel plaatsen elke speler is gestegen of gedaald:
-    - **Groen** = opgestegen
-    - **Rood** = gedaald
-    - **Wit** = geen verandering
+  - **Groen** = opgestegen
+  - **Rood** = gedaald
+  - **Wit** = geen verandering
 
 Spelers zien **hun eigen positie** op hun apparaat tijdens de afsluiting.
 
