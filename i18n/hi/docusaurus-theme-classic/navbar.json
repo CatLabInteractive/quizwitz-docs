@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "QuizWitz",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "QuizWitz लोगो",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.About QuizWitz": {
+    "message": "QuizWitz के बारे में",
+    "description": "Navbar item with label About QuizWitz"
+  },
+  "item.label.Round types": {
+    "message": "राउंड के प्रकार",
+    "description": "Navbar item with label Round types"
+  },
+  "item.label.Question types": {
+    "message": "प्रश्नों के प्रकार",
+    "description": "Navbar item with label Question types"
+  },
+  "item.label.FAQ": {
+    "message": "अक्सर पूछे जाने वाले सवाल",
+    "description": "Navbar item with label FAQ"
+  }
+}
