@@ -5,7 +5,7 @@ title: Elimination
 
 # 🚫 Elimination
 
-**Elimination** ist ein spezielles Ereignis, das Spieler oder Teams basierend auf ihrer aktuellen Rangliste oder Punktzahl automatisch aus dem Spiel entfernt.\
+**Elimination** ist ein spezielles Ereignis, das Spieler oder Teams basierend auf ihrer aktuellen Rangliste oder Punktzahl automatisch aus dem Spiel entfernt.  
 Es ist ein nützliches Werkzeug für Turniere, Playoffs oder um dramatische Wendungen bei Live-Events hinzuzufügen!
 
 ---

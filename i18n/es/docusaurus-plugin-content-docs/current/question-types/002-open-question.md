@@ -29,7 +29,7 @@ Las preguntas abiertas ofrecen una variedad de configuraciones para adaptar tu c
 - **Múltiples respuestas aceptadas:** Añade variantes, abreviaturas o sinónimos para una autocorrección más flexible.
 - **Puntuación basada en tiempo:** Premia respuestas más rápidas (ver "Puntuación" abajo).
 - **Forzar corrección automática:** Activa esto para que el juego marque automáticamente respuestas correctas según tu lista proporcionada.
-    - Si no está activado (por defecto en la mayoría de los juegos en vivo), las respuestas abiertas deben revisarse y puntuarse manualmente usando la [app Jury](../quizmaster/004-jury-app.md).
+  - Si no está activado (por defecto en la mayoría de los juegos en vivo), las respuestas abiertas deben revisarse y puntuarse manualmente usando la [app Jury](../quizmaster/004-jury-app.md).
 
 Para más sobre estas opciones, consulta [escribir preguntas](../editor/005-writing-questions.md).
 

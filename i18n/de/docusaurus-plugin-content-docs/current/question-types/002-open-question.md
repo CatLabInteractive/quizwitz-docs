@@ -29,7 +29,7 @@ Offene Fragen bieten verschiedene Einstellungen, die zu deinem Quiz passen:
 - **Mehrere akzeptierte Antworten:** Füge alternative Schreibweisen, Abkürzungen oder Synonyme für eine flexiblere Autokorrektur hinzu.
 - **Zeitbasierte Punktevergabe:** Belohne schnellere Antworten (siehe „Punktevergabe“ unten).
 - **Automatische Korrektur erzwingen:** Aktiviere dies, damit das Spiel Antworten automatisch basierend auf deiner Liste als richtig markiert.
-    - Wenn nicht aktiviert (Standard bei den meisten Live-Spielen), müssen offene Antworten manuell mit der [Jury-App](../quizmaster/004-jury-app.md) überprüft und bewertet werden.
+  - Wenn nicht aktiviert (Standard bei den meisten Live-Spielen), müssen offene Antworten manuell mit der [Jury-App](../quizmaster/004-jury-app.md) überprüft und bewertet werden.
 
 Mehr zu diesen Optionen findest du unter [Fragen schreiben](../editor/005-writing-questions.md).
 

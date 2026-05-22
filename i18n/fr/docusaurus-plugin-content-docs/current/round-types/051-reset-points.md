@@ -5,7 +5,7 @@ title: Réinitialiser les points
 
 # 🔄 Réinitialiser les points
 
-**Réinitialiser les points** est un événement spécial (pas une manche de questions) qui remet le score de tous les joueurs ou équipes à zéro.\
+**Réinitialiser les points** est un événement spécial (pas une manche de questions) qui remet le score de tous les joueurs ou équipes à zéro.  
 Cela peut être utilisé pour égaliser les chances, ajouter du suspense ou introduire de nouvelles phases dans votre quiz.
 
 ---

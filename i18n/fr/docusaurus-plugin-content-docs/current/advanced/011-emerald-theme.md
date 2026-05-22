@@ -53,13 +53,13 @@ Toute la musique dans le jeu peut également être remplacée par des pièces jo
 
 En plus des pièces jointes, vous pouvez aussi manipuler le thème Emerald avec des **paramètres de requête**. Ce sont des paramètres que vous pouvez ajouter à l'URL des **options avancées du jeu** — ils modifient l'apparence du thème.
 
-Pour cela, nous commencerons avec un quiz exemple (sans pièces jointes) :\
+Pour cela, nous commencerons avec un quiz exemple (sans pièces jointes) :  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 
 Lorsque vous démarrez ce quiz, le jeu sera dans le style Emerald par défaut. Changeons cela.
 
 :::tip
-La façon la plus simple d'expérimenter avec ces paramètres est d'utiliser notre [testeur de thème](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).\
+La façon la plus simple d'expérimenter avec ces paramètres est d'utiliser notre [testeur de thème](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).  
 Une fois que vous avez fini d'expérimenter, vous pouvez copier–coller les paramètres dans l'URL des options avancées de votre jeu.
 :::
 
@@ -87,7 +87,7 @@ Chacun de ces modificateurs peut contenir une seule couleur au format hexadécim
 Les paramètres de requête doivent commencer par un point d'interrogation ( ? ) et chaque paramètre doit être séparé par un esperluette ( & ). Pour plus d'informations sur les paramètres de requête, visitez [wikipedia](https://fr.wikipedia.org/wiki/URI_Query).
 :::
 
-En ajoutant ces paramètres à l'URL de votre jeu, vous pouvez modifier les couleurs du thème :\
+En ajoutant ces paramètres à l'URL de votre jeu, vous pouvez modifier les couleurs du thème :  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![Une capture d'écran du thème Emerald avec modificateurs personnalisés](/images/emerald/theme_properties.png)

@@ -31,7 +31,7 @@ Consulta las [opciones de ronda](../editor/008-round-options.md) para detalles s
 
 ## 🎵 Adjuntos — Música de cuenta regresiva
 
-- Puedes establecer un **Adjunto de Ronda** en la ranura "Reproducir durante la cuenta regresiva de la pregunta".\
+- Puedes establecer un **Adjunto de Ronda** en la ranura "Reproducir durante la cuenta regresiva de la pregunta".  
   Este adjunto de audio se reproducirá **continuamente** como música de cuenta regresiva durante toda la ronda relámpago, deteniéndose solo después de la última pregunta.
 - Usa música energética o tensa para aumentar la emoción y mantener a los jugadores alerta.
 

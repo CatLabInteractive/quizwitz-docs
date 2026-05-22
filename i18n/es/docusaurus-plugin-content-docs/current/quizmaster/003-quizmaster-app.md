@@ -75,7 +75,7 @@ Incluye:
 
 Cuando una ronda termina, verás una pantalla de **Final de Ronda** que muestra las posiciones hasta el momento.
 
-![Quizmaster app - round outro](/images/quizmaster-app-round-outro.png)\
+![Quizmaster app - round outro](/images/quizmaster-app-round-outro.png)  
 ![QuizWitz - round outro big screen](/images/round-outro.png)
 
 En tu app:
@@ -83,9 +83,9 @@ En tu app:
 - Verás los **100 mejores jugadores**, y puedes desplazarte por ellos
 - Toca la posición de un jugador para resaltarlo en la pantalla grande
 - Desde la ronda 2 en adelante, también verás cuántos puestos ha subido o bajado cada jugador:
-    - **Verde** = subió puestos
-    - **Rojo** = bajó puestos
-    - **Blanco** = sin cambios
+  - **Verde** = subió puestos
+  - **Rojo** = bajó puestos
+  - **Blanco** = sin cambios
 
 Los jugadores verán **su propia posición** en su dispositivo durante el final de ronda.
 

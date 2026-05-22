@@ -57,7 +57,7 @@ Esto es especialmente efectivo para acertijos o revelados lentos durante introdu
 
 Algunos espacios permiten agregar **varios archivos adjuntos**. El comportamiento depende del modo de juego:
 
-> ⚡ **En [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** El quizmaster tiene control total y puede decidir cuándo mostrar u ocultar archivos adjuntos durante el juego.\
+> ⚡ **En [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** El quizmaster tiene control total y puede decidir cuándo mostrar u ocultar archivos adjuntos durante el juego.  
 > 🎮 **En juegos regulares:** Todos los archivos adjuntos dentro de un espacio se muestran **simultáneamente**.
 
 Los detalles sobre el tiempo y comportamiento de cada espacio se encuentran en la documentación enlazada para [preguntas](../editor/015-importing-questions.md), [rondas](../editor/008-round-options.md) y [cuestionarios](../editor/007-quiz-options.md).

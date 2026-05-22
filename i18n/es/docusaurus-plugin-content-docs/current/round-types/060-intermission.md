@@ -12,10 +12,10 @@ title: Intermedio
 ## 📝 Cómo funciona
 
 - Durante un intermedio, la pantalla principal del juego se pausa y se muestra un temporizador.
-- **En juegos de conferencia y fiesta:**\
+- **En juegos de conferencia y fiesta:**  
   El intermedio termina cuando alguien presiona **Enter** en la pantalla principal del juego.
-- **En juegos de QuizWitz Live:**\
-  El quizmaster termina el intermedio desde su dispositivo (tableta o smartphone).\
+- **En juegos de QuizWitz Live:**  
+  El quizmaster termina el intermedio desde su dispositivo (tableta o smartphone).  
   La aplicación del Quizmaster muestra un temporizador para que el anfitrión pueda ver cuánto tiempo ha durado el intermedio.
 
 ---

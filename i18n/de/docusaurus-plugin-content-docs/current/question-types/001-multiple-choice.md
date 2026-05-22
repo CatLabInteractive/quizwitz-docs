@@ -24,8 +24,8 @@ Eine reguläre Multiple-Choice-Frage ermöglicht es Spielern, die richtige Antwo
 
 ## 🏆 Punktevergabe
 
-Multiple-Choice-Fragen verwenden standardmäßig **zeitbasierte Punktevergabe**: schnellere Antworten erhalten mehr Punkte. Bei diesen Fragen verringert sich die Punktzahl kontinuierlich pro Mikrosekunde, wobei der Großteil der Punkte fix ist und nur ein Teil durch die Geschwindigkeit beeinflusst wird.\
-**Du kannst die zeitbasierte Punktevergabe pro Frage auch deaktivieren**, wenn alle richtigen Antworten dieselbe Punktzahl erhalten sollen.\
+Multiple-Choice-Fragen verwenden standardmäßig **zeitbasierte Punktevergabe**: schnellere Antworten erhalten mehr Punkte. Bei diesen Fragen verringert sich die Punktzahl kontinuierlich pro Mikrosekunde, wobei der Großteil der Punkte fix ist und nur ein Teil durch die Geschwindigkeit beeinflusst wird.  
+**Du kannst die zeitbasierte Punktevergabe pro Frage auch deaktivieren**, wenn alle richtigen Antworten dieselbe Punktzahl erhalten sollen.  
 Du kannst diese Balance außerdem in den Runden-Einstellungen weiter anpassen.
 
 Siehe [Punkteoptionen in den Runden-Einstellungen](../editor/008-round-options.md#scoring) für vollständige Details.
@@ -34,7 +34,7 @@ Siehe [Punkteoptionen in den Runden-Einstellungen](../editor/008-round-options.m
 
 ## ⚙️ Erweiterte Einstellungen
 
-Der Multiple-Choice-Fragetyp bietet viele Einstellungen, um das Erlebnis und die Punktevergabe zu optimieren.\
+Der Multiple-Choice-Fragetyp bietet viele Einstellungen, um das Erlebnis und die Punktevergabe zu optimieren.  
 Siehe [Fragen schreiben](../editor/005-writing-questions.md) für einen allgemeinen Überblick über Fragensettings.
 
 ---

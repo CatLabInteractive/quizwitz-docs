@@ -5,7 +5,7 @@ title: Eliminatie
 
 # 🚫 Eliminatie
 
-**Eliminatie** is een speciale gebeurtenis die automatisch spelers of teams uit het spel verwijdert op basis van hun huidige ranglijst of score.\
+**Eliminatie** is een speciale gebeurtenis die automatisch spelers of teams uit het spel verwijdert op basis van hun huidige ranglijst of score.  
 Het is een handig hulpmiddel voor toernooien, playoffs of het toevoegen van dramatische wendingen bij live-evenementen!
 
 ---

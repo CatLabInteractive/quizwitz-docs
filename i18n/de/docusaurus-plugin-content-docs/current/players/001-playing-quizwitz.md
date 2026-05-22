@@ -98,7 +98,7 @@ Sobald dein Spiel startet, wähle deinen Modus:
 - Klicke auf **Starten**, dann wähle **Einzelspieler**
 - Nutze Maus, Tastatur oder Touchscreen, um zu antworten
 
-![QuizWitz Startbildschirm](/images/quizwitz-start-screen.png)\
+![QuizWitz Startbildschirm](/images/quizwitz-start-screen.png)  
 ![QuizWitz Startbildschirm Einzelspieler](/images/quizwitz-start-screen-single.png)
 
 ---
@@ -113,8 +113,8 @@ Spiele mit Freunden, die ihr eigenes Handy oder Tablet nutzen:
 2. Die Spieler folgen den Anweisungen auf dem Bildschirm, um beizutreten
 3. Klicke auf **Quiz starten**, wenn alle bereit sind
 
-![QuizWitz Startbildschirm](/images/quizwitz-start-screen.png)\
-![QuizWitz Startbildschirm Party](/images/quizwitz-start-screen-party.png)\
+![QuizWitz Startbildschirm](/images/quizwitz-start-screen.png)  
+![QuizWitz Startbildschirm Party](/images/quizwitz-start-screen-party.png)  
 ![QuizWitz Verbindungsbildschirm](/images/connect-screen.png)
 
 ---

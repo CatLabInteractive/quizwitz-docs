@@ -5,7 +5,7 @@ title: Élimination
 
 # 🚫 Élimination
 
-**L’élimination** est un événement spécial qui retire automatiquement les joueurs ou équipes du jeu en fonction de leur classement ou score actuel.\
+**L’élimination** est un événement spécial qui retire automatiquement les joueurs ou équipes du jeu en fonction de leur classement ou score actuel.  
 C’est un outil pratique pour les tournois, les phases éliminatoires, ou pour ajouter du suspense dans les événements en direct !
 
 ---

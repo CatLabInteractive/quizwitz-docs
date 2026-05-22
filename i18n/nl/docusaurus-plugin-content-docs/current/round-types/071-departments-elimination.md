@@ -13,10 +13,10 @@ title: Afdeling Eliminatie
 
 - Wanneer dit event wordt geactiveerd, worden alleen spelers of teams die tot de geselecteerde afdeling behoren, overwogen voor eliminatie.
 - De eliminatiecriteria zijn flexibel:
-    - **Trap de laagst geplaatste in de afdeling eruit** totdat er een bepaald aantal spelers overblijft
-    - **Trap de hoogst geplaatste in de afdeling eruit** totdat er een bepaald aantal overblijft
-    - **Trap een specifiek aantal laagst geplaatste** in de afdeling eruit
-    - **Trap een specifiek aantal hoogst geplaatste** in de afdeling eruit
+  - **Trap de laagst geplaatste in de afdeling eruit** totdat er een bepaald aantal spelers overblijft
+  - **Trap de hoogst geplaatste in de afdeling eruit** totdat er een bepaald aantal overblijft
+  - **Trap een specifiek aantal laagst geplaatste** in de afdeling eruit
+  - **Trap een specifiek aantal hoogst geplaatste** in de afdeling eruit
 - Het aantal spelers om te behouden of te elimineren kan worden ingesteld als een exact aantal of percentage.
 
 ---

@@ -12,9 +12,9 @@ In einer **Stück Kuchen**-Runde zahlt sich Teamarbeit aus! Die Gesamtpunktzahl 
 ## 📝 So funktioniert's
 
 - **Gesamtpunkte = Basispunkte × Anzahl der Spieler (oder Teams).**
-    - Beispiel: Wenn eine Frage 100 Punkte wert ist und es 20 Spieler gibt, sind 2.000 Punkte im Spiel.
+  - Beispiel: Wenn eine Frage 100 Punkte wert ist und es 20 Spieler gibt, sind 2.000 Punkte im Spiel.
 - Nach der Frage werden die **Gesamtpunkte gleichmäßig** unter allen verteilt, die richtig geantwortet haben.
-    - Beispiel: Wenn 5 Spieler richtig geantwortet haben, bekommt jeder von ihnen 400 Punkte.
+  - Beispiel: Wenn 5 Spieler richtig geantwortet haben, bekommt jeder von ihnen 400 Punkte.
 - Wenn alle richtig liegen, bekommt jeder denselben (kleineren) Anteil. Wenn nur ein Spieler richtig liegt, bekommt er den ganzen „Kuchen“!
 
 ---

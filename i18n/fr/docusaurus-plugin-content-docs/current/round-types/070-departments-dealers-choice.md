@@ -39,5 +39,5 @@ title: Choix du département par le dealer
 
 ---
 
-Pour les règles classiques du Choix du dealer, consultez [Dealer’s Choice](024-dealers-choice.md).\
+Pour les règles classiques du Choix du dealer, consultez [Dealer’s Choice](024-dealers-choice.md).  
 Pour plus d'options de jeu en équipe, consultez [Options de manche](../editor/008-round-options.md).

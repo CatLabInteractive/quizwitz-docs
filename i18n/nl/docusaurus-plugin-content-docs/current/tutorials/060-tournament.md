@@ -11,7 +11,7 @@ Deze handleiding laat je zien hoe je de QuizWitz Toernooi modus kunt gebruiken. 
 
 ## 📝 Maak de quiz
 
-Houd het kort en boeiend bij het bouwen van een toernooi. Als bezoekers teveel tijd aan de quiz moeten besteden, maken ze deze misschien niet af.\
+Houd het kort en boeiend bij het bouwen van een toernooi. Als bezoekers teveel tijd aan de quiz moeten besteden, maken ze deze misschien niet af.  
 **Alleen spelers die de hele quiz voltooien, worden op het klassement vermeld.**
 
 ### 🎲 Willekeurige vraagselectie

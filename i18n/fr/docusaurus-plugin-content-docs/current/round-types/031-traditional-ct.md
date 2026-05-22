@@ -5,7 +5,7 @@ title: Traditionnel (CT)
 
 # 📝🧵 Traditionnel – Fil conducteur
 
-Un tour **Traditionnel – Fil conducteur** fonctionne comme un [tour traditionnel](030-traditional.md), mais avec une touche spéciale :\
+Un tour **Traditionnel – Fil conducteur** fonctionne comme un [tour traditionnel](030-traditional.md), mais avec une touche spéciale :  
 À la fin du tour, la **dernière question** (« Quel était le fil conducteur ? »). est évaluée et affichée en premier. Cela permet au quizmaster de mettre en avant la connexion avant de révéler les autres réponses.
 
 ---

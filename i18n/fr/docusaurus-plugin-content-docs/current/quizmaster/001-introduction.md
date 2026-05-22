@@ -9,7 +9,7 @@ title: Introduction
 
 L'ingrédient principal pour un événement QuizWitz Live réussi est un quizmaster captivant — quelqu'un qui contrôle le jeu et maintient l'énergie à son maximum. Le quizmaster conduit le déroulement du quiz, lit les questions à voix haute et ajoute cette étincelle supplémentaire pour divertir le public.
 
-Pour avoir un contrôle total sur votre événement, utilisez l'**application Quizmaster**, conçue spécialement pour QuizWitz Live.\
+Pour avoir un contrôle total sur votre événement, utilisez l'**application Quizmaster**, conçue spécialement pour QuizWitz Live.  
 Vous pouvez lancer QuizWitz Live directement depuis l'éditeur de quiz en cliquant sur **« Démarrer QuizWitz Live »**.
 
 > 💡 **Note:** L'application Quizmaster est une **application web** — il n'y a rien à installer. Il suffit d'aller sur [**quizwitz.tv**](https://quizwitz.tv) dans votre navigateur pour y accéder sur votre smart device.

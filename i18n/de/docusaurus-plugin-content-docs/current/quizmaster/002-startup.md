@@ -13,10 +13,10 @@ Willkommen bei QuizWitz Live — die professionelle Art, Quizze für Teams, Live
 
 Du kannst ein QuizWitz Live-Spiel aus dem Quiz-Editor oder direkt aus deiner Quizsammlung starten.
 
-- Im Quiz-Editor klicke auf **‚Start QuizWitz Live‘**\
+- Im Quiz-Editor klicke auf **‚Start QuizWitz Live‘**  
   ![QuizWitz PRO starten](/images/start-quizwitz-pro.png)
 
-- Aus deiner Sammlung klicke auf das **Live-Symbol**, um zu starten\
+- Aus deiner Sammlung klicke auf das **Live-Symbol**, um zu starten  
   ![QuizWitz PRO aus deiner Sammlung starten](/images/start-quizwitz-live.png)
 
 ---
@@ -27,12 +27,12 @@ Nach dem Start zeigt dein Bildschirm einen **Master-Code** an. **Teile diesen Co
 
 - Besuche auf deinem Quizmaster-Gerät [quizwitz.tv](https://quizwitz.tv) und gib den Master-Code ein.
 - Die **Quizmaster App-Oberfläche** erscheint, mit der du das Spiel steuerst.
-- Wir empfehlen ein **Tablet oder Smartphone** für die Mobilität, aber ein Laptop funktioniert auch.\
+- Wir empfehlen ein **Tablet oder Smartphone** für die Mobilität, aber ein Laptop funktioniert auch.  
   ![QuizWitz PRO Verbindungsbildschirm](/images/quizwitz-pro-connect-token.png)
 
 Nach der Verbindung verschwindet der Master-Code vom Bildschirm. Du bist nun bereit, den Hauptbildschirm auf einem Projektor zu zeigen oder deinen Livestream zu starten.
 
-> ⚠️ **Achtung!** Wenn der Spielbildschirm (Hauptanzeige) nicht aktiv ist — zum Beispiel wenn du Tabs wechselst oder minimierst — wird das Spiel **automatisch pausiert**.\
+> ⚠️ **Achtung!** Wenn der Spielbildschirm (Hauptanzeige) nicht aktiv ist — zum Beispiel wenn du Tabs wechselst oder minimierst — wird das Spiel **automatisch pausiert**.  
 > Wenn das passiert:
 >
 > - Die **Quizmaster App pausiert ebenfalls**
@@ -68,7 +68,7 @@ Einmal verbunden, wähle zwischen zwei Spielmodi:
 Wenn du **Team-Codes** benutzt, erstellst du zuerst Teams in der Quizmaster App:
 
 - Teamnamen hinzufügen
-- Drücke **‚Codes generieren‘**, um Zugangscodes zu erstellen\
+- Drücke **‚Codes generieren‘**, um Zugangscodes zu erstellen  
   ![Quizmaster App – Teams erstellen](/images/quizmaster-app-create-teams.png)
 
 Du kannst auch **Codes im Voraus reservieren** — mehr dazu im Tipps & Tricks Abschnitt.
@@ -108,7 +108,7 @@ Sobald deine Spieler angemeldet sind:
 Vor dem Start musst du deine verfügbaren Seats überprüfen.
 
 - Eine Übersicht erscheint, nachdem du deinen Spielmodus gewählt hast
-- Wenn du mehr Seats brauchst, aktiviere sie unter [app.quizwitz.com/seats](https://app.quizwitz.com/seats)\
+- Wenn du mehr Seats brauchst, aktiviere sie unter [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
   ![Quizmaster App – Seats aktivieren](/images/quizmaster-app-seats.png)
 
 ---

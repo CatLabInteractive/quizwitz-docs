@@ -57,10 +57,10 @@ In de sectie **Details** vind je extra configuratieopties:
 - **Vertalen** — Maak een vertaalde versie van je Round-About in een andere taal
 - **Categorie** — Kies of werk de categorie van je Round-About bij
 - **Rondetype** — Selecteer hoe vragen aan spelers worden gepresenteerd. Je kunt configureren:
-    - Meerkeuze
-    - Open vragen
-    - Bliksemrondes
-    - En meer
+  - Meerkeuze
+  - Open vragen
+  - Bliksemrondes
+  - En meer
 
 > 🔗 Leer meer over [rondetypes](../round-types/000-round-types.md) en [vraagtypes](../question-types/000-question-types.md) in de gevorderde handleidingen.
 

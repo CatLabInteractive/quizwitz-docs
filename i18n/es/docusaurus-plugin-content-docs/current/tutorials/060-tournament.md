@@ -11,7 +11,7 @@ Este tutorial te mostrará cómo usar el modo Torneo de QuizWitz. El modo Torneo
 
 ## 📝 Crea el quiz
 
-Al crear un quiz para torneo, mantenlo corto y entretenido. Si los visitantes necesitan mucho tiempo para completar el quiz, podrían no terminarlo.\
+Al crear un quiz para torneo, mantenlo corto y entretenido. Si los visitantes necesitan mucho tiempo para completar el quiz, podrían no terminarlo.  
 **Solo los jugadores que terminen el quiz completo aparecerán en la tabla de clasificación.**
 
 ### 🎲 Selección aleatoria de preguntas

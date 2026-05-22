@@ -38,11 +38,11 @@ Eine **Listenfrage** bittet die Spieler, mehrere richtige Antworten aus einer gr
 ## 🏆 Punktevergabe
 
 - **Punkte pro richtige Antwort:** Spieler erhalten für jede richtige Antwort Punkte.
-- **Zeitbasierte Punkte** (wenn aktiviert):\
+- **Zeitbasierte Punkte** (wenn aktiviert):  
   Folgt den **Regeln für offene Fragen** für Fairness:
-  - Die verfügbaren Punkte werden in Zeitblöcke aufgeteilt (nicht auf Millisekunden genau).\
+  - Die verfügbaren Punkte werden in Zeitblöcke aufgeteilt (nicht auf Millisekunden genau).  
     Zum Beispiel: volle Punktzahl im ersten Block, 80% im nächsten und so weiter.
-  - **Nur 25 %** der Punkte hängen von der Geschwindigkeit ab.\
+  - **Nur 25 %** der Punkte hängen von der Geschwindigkeit ab.  
     Die anderen **75 %** sind festgelegt – so erhalten auch langsamere Tippen die meisten Punkte, wenn sie richtig antworten.
   - Das reduziert die Benachteiligung durch Tippgeschwindigkeit und macht die Punktevergabe fairer für alle.
 

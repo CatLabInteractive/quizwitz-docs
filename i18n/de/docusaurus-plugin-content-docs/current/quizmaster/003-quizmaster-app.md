@@ -75,7 +75,7 @@ Beinhaltet:
 
 Wenn eine Runde endet, siehst du einen **Runden-Abschluss**-Bildschirm, der den Zwischenstand zeigt.
 
-![Quizmaster app - round outro](/images/quizmaster-app-round-outro.png)\
+![Quizmaster app - round outro](/images/quizmaster-app-round-outro.png)  
 ![QuizWitz - round outro big screen](/images/round-outro.png)
 
 In deiner App:
@@ -83,9 +83,9 @@ In deiner App:
 - Du siehst die **Top 100 Spieler**, und du kannst durch sie scrollen
 - Tippe auf die Position eines Spielers, um ihn auf dem großen Bildschirm hervorzuheben
 - Ab Runde 2 siehst du auch, wie viele Plätze jeder Spieler nach oben oder unten gerückt ist:
-    - **Grün** = nach oben gerückt
-    - **Rot** = nach unten gerückt
-    - **Weiß** = keine Veränderung
+  - **Grün** = nach oben gerückt
+  - **Rot** = nach unten gerückt
+  - **Weiß** = keine Veränderung
 
 Spieler sehen **ihre eigene Position** auf ihrem Gerät während des Abschlussbildschirms.
 

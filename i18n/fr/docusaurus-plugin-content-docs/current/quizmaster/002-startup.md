@@ -13,10 +13,10 @@ Bienvenue sur QuizWitz Live — la manière professionnelle d’animer des quiz 
 
 Vous pouvez démarrer une partie QuizWitz Live depuis l’éditeur de quiz ou directement depuis votre collection de quiz.
 
-- Dans l’éditeur de quiz, cliquez sur **« Start QuizWitz Live »**\
+- Dans l’éditeur de quiz, cliquez sur **« Start QuizWitz Live »**  
   ![Start QuizWitz PRO](/images/start-quizwitz-pro.png)
 
-- Depuis votre collection, cliquez sur l’**icône Live** pour lancer\
+- Depuis votre collection, cliquez sur l’**icône Live** pour lancer  
   ![Start QuizWitz PRO from your collection](/images/start-quizwitz-live.png)
 
 ---
@@ -27,12 +27,12 @@ Une fois lancé, votre écran affichera un **Code Maître**. **Ne partagez pas c
 
 - Visitez [quizwitz.tv](https://quizwitz.tv) sur votre appareil quizmaster et saisissez le Code Maître.
 - Une **interface de l’App Quizmaster** apparaîtra, où vous contrôlez le jeu.
-- Nous recommandons une **tablette ou un smartphone** pour la mobilité, mais un ordinateur portable fonctionne aussi.\
+- Nous recommandons une **tablette ou un smartphone** pour la mobilité, mais un ordinateur portable fonctionne aussi.  
   ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)
 
 Après connexion, le Code Maître disparaît de l’écran. Vous êtes maintenant prêt à afficher l’écran principal sur un projecteur ou à lancer votre livestream.
 
-> ⚠️ **Attention !** Si l’écran du jeu (affichage principal) n’est pas activement en focus — par exemple, si vous changez d’onglet ou le minimisez — le jeu **se mettra automatiquement en pause**.\
+> ⚠️ **Attention !** Si l’écran du jeu (affichage principal) n’est pas activement en focus — par exemple, si vous changez d’onglet ou le minimisez — le jeu **se mettra automatiquement en pause**.  
 > Quand cela arrive :
 >
 > - L’**App Quizmaster se met également en pause**
@@ -68,7 +68,7 @@ Une fois connecté, choisissez entre deux modes de jeu :
 Quand vous utilisez les **Codes d’équipe**, vous commencerez par créer des équipes dans l’App Quizmaster :
 
 - Ajoutez les noms des équipes
-- Appuyez sur **« Generate Codes »** pour créer les codes d’accès\
+- Appuyez sur **« Generate Codes »** pour créer les codes d’accès  
   ![Quizmaster app - create teams](/images/quizmaster-app-create-teams.png)
 
 Vous pouvez aussi **réserver les codes à l’avance** — plus d’infos dans la section astuces et conseils.
@@ -108,7 +108,7 @@ Une fois vos joueurs connectés :
 Avant de commencer, vous devez vérifier vos Seats disponibles.
 
 - Un aperçu apparaît après avoir sélectionné votre mode de jeu
-- Si vous avez besoin de plus de Seats, activez-les sur [app.quizwitz.com/seats](https://app.quizwitz.com/seats)\
+- Si vous avez besoin de plus de Seats, activez-les sur [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
   ![Quizmaster app - activate seats](/images/quizmaster-app-seats.png)
 
 ---

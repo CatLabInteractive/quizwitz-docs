@@ -5,7 +5,7 @@ title: Question de départage
 
 # 🏁 Question de départage
 
-La question de départage est utilisée pour résoudre les égalités à la fin d'un quiz.\
+La question de départage est utilisée pour résoudre les égalités à la fin d'un quiz.  
 Les joueurs doivent deviner un nombre (par exemple, « Combien de haricots y a-t-il dans le bocal ? »). Le joueur dont la réponse est la plus proche de la valeur correcte remportera la partie en cas d'égalité.
 
 ---

@@ -13,10 +13,10 @@ title: Eliminación por Departamento
 
 - Cuando se activa este evento, sólo los jugadores o equipos que pertenecen al departamento seleccionado son considerados para la eliminación.
 - Los criterios de eliminación son flexibles:
-    - **Expulsar al peor clasificado del departamento** hasta que quede un número establecido de jugadores
-    - **Expulsar al mejor clasificado del departamento** hasta que quede un número establecido
-    - **Expulsar un número específico de los peor clasificados** en el departamento
-    - **Expulsar un número específico de los mejores clasificados** en el departamento
+  - **Expulsar al peor clasificado del departamento** hasta que quede un número establecido de jugadores
+  - **Expulsar al mejor clasificado del departamento** hasta que quede un número establecido
+  - **Expulsar un número específico de los peor clasificados** en el departamento
+  - **Expulsar un número específico de los mejores clasificados** en el departamento
 - El número de jugadores que se mantienen o eliminan puede establecerse como un número exacto o un porcentaje.
 
 ---

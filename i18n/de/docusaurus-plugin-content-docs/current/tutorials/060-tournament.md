@@ -11,7 +11,7 @@ Dieses Tutorial zeigt dir, wie du den QuizWitz Turniermodus benutzt. Der Turnier
 
 ## 📝 Erstelle das Quiz
 
-Beim Erstellen eines Turnier-Quiz halte es kurz und spannend. Wenn Besucher zu viel Zeit fürs Quiz brauchen, könnten sie es möglicherweise nicht beenden.\
+Beim Erstellen eines Turnier-Quiz halte es kurz und spannend. Wenn Besucher zu viel Zeit fürs Quiz brauchen, könnten sie es möglicherweise nicht beenden.  
 **Nur Spieler, die das gesamte Quiz beenden, werden in der Bestenliste aufgeführt.**
 
 ### 🎲 Zufällige Fragenauswahl

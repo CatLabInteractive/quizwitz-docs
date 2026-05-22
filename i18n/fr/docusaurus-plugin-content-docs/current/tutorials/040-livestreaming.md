@@ -98,10 +98,10 @@ Une fois le délai réglé et vos joueurs connectés :
 
 - Pour interagir avec l'audience, surveillez les **commentaires en direct** sur un écran séparé — pas le flux vidéo.
 
-- Vous voulez changer automatiquement les scènes OBS ? Utilisez :\
+- Vous voulez changer automatiquement les scènes OBS ? Utilisez :  
   [`https://regie.catlab.eu/obs.html`](https://regie.catlab.eu/obs.html)
 
-- Vous voulez déclencher des appareils MIDI pendant la partie ? Essayez :\
+- Vous voulez déclencher des appareils MIDI pendant la partie ? Essayez :  
   [`https://regie.catlab.eu/midi.html`](https://regie.catlab.eu/midi.html)
 
 - Vous cherchez plus d'outils ? Visitez [**regie.catlab.eu**](https://regie.catlab.eu) — un hub central avec des utilitaires supplémentaires pour l'automatisation, le changement de scène, les effets, et plus encore.

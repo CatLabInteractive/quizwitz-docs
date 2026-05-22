@@ -27,7 +27,7 @@ title: Elección del concesionario del departamento
 - **Departamento del concesionario:**
   - _Solo el concesionario puede jugar_ — Solo el concesionario seleccionado responde la pregunta
   - _Todos los jugadores del departamento del concesionario pueden jugar_ — Todos en el departamento pueden responder y sumar puntos
-- **Bonificación para el concesionario:**\
+- **Bonificación para el concesionario:**  
   Establece un porcentaje de bonificación para el concesionario (si está activado).
 
 ---
@@ -39,5 +39,5 @@ title: Elección del concesionario del departamento
 
 ---
 
-Para las reglas clásicas de Elección del concesionario, consulta [Elección del concesionario](024-dealers-choice.md).\
+Para las reglas clásicas de Elección del concesionario, consulta [Elección del concesionario](024-dealers-choice.md).  
 Para más opciones de juegos en equipo, consulta [Opciones de ronda](../editor/008-round-options.md).

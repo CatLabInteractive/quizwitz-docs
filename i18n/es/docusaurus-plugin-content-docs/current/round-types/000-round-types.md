@@ -5,7 +5,7 @@ name: Tipos de rondas
 
 # Tipos de rondas
 
-El tipo de ronda influye en la forma en que el juego muestra las preguntas a los jugadores — y cómo los jugadores ganan puntos.\
+El tipo de ronda influye en la forma en que el juego muestra las preguntas a los jugadores — y cómo los jugadores ganan puntos.  
 En los quizzes, puedes cambiar el tipo de ronda en el campo de selección **Round type** en la parte superior central de la pantalla.
 
 ## 🧠 Rondas normales
@@ -25,7 +25,7 @@ Estas rondas ofrecen un poco más de interactividad que las simples preguntas y 
 
 ## 🍺 Tradicional
 
-Para quien quiera organizar quizzes tradicionales de pub donde los jugadores pueden cambiar sus respuestas hasta el final de la ronda.\
+Para quien quiera organizar quizzes tradicionales de pub donde los jugadores pueden cambiar sus respuestas hasta el final de la ronda.  
 Estos tipos de ronda simulan "entregar los papeles" después de cada ronda.
 
 - [Tradicional](030-traditional.md)

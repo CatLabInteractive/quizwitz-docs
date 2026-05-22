@@ -59,7 +59,7 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 Als je bovenstaande quiz start, krijg je de game in de standaard Emerald-stijl. Laten we dat veranderen.
 
 :::tip
-De makkelijkste manier om te experimenteren met deze parameters is met onze [thematester](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).\
+De makkelijkste manier om te experimenteren met deze parameters is met onze [thematester](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).  
 Ben je klaar met experimenteren, dan kun je de parameters gewoon kopiëren en plakken naar de URL van je geavanceerde spelopties.
 :::
 

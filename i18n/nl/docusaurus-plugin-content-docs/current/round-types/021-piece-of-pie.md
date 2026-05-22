@@ -12,9 +12,9 @@ In een **deel de taart** ronde loont teamwork! De totaal beschikbare punten per 
 ## 📝 Hoe het werkt
 
 - **Totaal punten = basis punten × aantal spelers (of teams).**
-    - Voorbeeld: Als een vraag 100 punten waard is en er zijn 20 spelers, dan staat er 2.000 punten op het spel.
+  - Voorbeeld: Als een vraag 100 punten waard is en er zijn 20 spelers, dan staat er 2.000 punten op het spel.
 - Na de vraag worden de **totaal punten gelijk verdeeld** onder iedereen die correct geantwoord heeft.
-    - Voorbeeld: als 5 spelers het antwoord goed hebben, krijgt ieder van hen 400 punten.
+  - Voorbeeld: als 5 spelers het antwoord goed hebben, krijgt ieder van hen 400 punten.
 - Als iedereen het goed heeft, krijgt iedereen hetzelfde (lagere) aandeel. Als maar één speler het antwoord goed heeft, krijgt die de hele "taart"!
 
 ---

@@ -5,7 +5,7 @@ name: Rundentypen
 
 # Rundentypen
 
-Der Rundentyp beeinflusst, wie das Spiel die Fragen den Spielern zeigt — und wie die Spieler Punkte verdienen.\
+Der Rundentyp beeinflusst, wie das Spiel die Fragen den Spielern zeigt — und wie die Spieler Punkte verdienen.  
 In Quizzen kannst du den Rundentyp im Auswahlfeld **Rundentyp** oben in der Mitte des Bildschirms ändern.
 
 ## 🧠 Reguläre Runden
@@ -25,7 +25,7 @@ Diese Runden bieten etwas mehr Interaktivität als einfache Frage-Antwort-Runden
 
 ## 🍺 Traditionell
 
-Für alle, die traditionelle Pub-Quizze organisieren möchten, bei denen Spieler ihre Antworten bis zum Ende der Runde ändern können.\
+Für alle, die traditionelle Pub-Quizze organisieren möchten, bei denen Spieler ihre Antworten bis zum Ende der Runde ändern können.  
 Diese Rundentypen simulieren das "Abgeben der Zettel" nach jeder Runde.
 
 - [Traditionell](030-traditional.md)
