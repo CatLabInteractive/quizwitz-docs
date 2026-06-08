@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "अगला",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.For players": {
+    "message": "खिलाड़ियों के लिए",
+    "description": "The label for category For players in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.For quizmakers": {
+    "message": "क्विज़ बनाने वालों के लिए",
+    "description": "The label for category For quizmakers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.For quizmasters": {
+    "message": "quizmasters के लिए",
+    "description": "The label for category For quizmasters in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Round types": {
+    "message": "राउंड के प्रकार",
+    "description": "The label for category Round types in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Question types": {
+    "message": "प्रश्नों के प्रकार",
+    "description": "The label for category Question types in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Advanced": {
+    "message": "एडवांस्ड",
+    "description": "The label for category Advanced in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorials": {
+    "message": "ट्यूटोरियल",
+    "description": "The label for category Tutorials in sidebar tutorialSidebar"
+  }
+}
