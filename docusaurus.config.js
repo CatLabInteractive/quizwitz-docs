@@ -28,6 +28,8 @@ const config = {
       'hu',
       'nl',
       'sk',
+      'pt',
+      'it'
     ],
     path: 'i18n',
   },
