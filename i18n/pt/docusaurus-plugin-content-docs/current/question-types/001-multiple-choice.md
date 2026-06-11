@@ -1,48 +1,48 @@
 ---
 id: multiple-choice
-title: Multiple choice question
+title: Pergunta de múltipla escolha
 ---
 
-# 🔢 Multiple choice
+# 🔢 Múltipla escolha
 
-A regular multiple choice question lets players select the correct answer from several given options.
-
----
-
-![Example: Multiple choice question about flags](/images/question-modes/multiple-choice/multiple-choice-wales.png)
+Uma pergunta normal de múltipla escolha permite que os jogadores selecionem a resposta correta entre várias opções dadas.
 
 ---
 
-## 📝 How it works
-
-- **Question:** State clearly what players should answer (example: “Select the flag of 🐟🐟🐟”).
-- **Options:** You can provide up to four answer options.
-- **Correct/Wrong:** Mark one or more correct answers, depending on your settings.
-- **Feedback:** Players see which answer was correct after answering. Optionally, you can provide extra feedback or explanations.
+![Exemplo: Pergunta de múltipla escolha sobre bandeiras](/images/question-modes/multiple-choice/multiple-choice-wales.png)
 
 ---
 
-## 🏆 Scoring
+## 📝 Como funciona
 
-Multiple choice questions use **time-based scoring** by default: faster answers earn more points. For these questions, scoring decreases continuously per microsecond, with most points fixed and only a portion influenced by speed.  
-**You can also turn off time-based scoring per question** if you want all correct answers to receive the same score.  
-You can further adjust this balance in the round settings.
-
-See [Scoring options in round settings](../editor/008-round-options.md#scoring) for full details.
-
----
-
-## ⚙️ Expanded settings
-
-The Multiple choice question type offers many settings to fine-tune the experience and scoring.  
-See [writing questions](../editor/005-writing-questions.md) for a general overview of question settings.
+- **Pergunta:** Diga claramente o que os jogadores devem responder (exemplo: “Selecione a bandeira de 🐟🐟🐟”).
+- **Opções:** Você pode fornecer até quatro opções de resposta.
+- **Correto/Errado:** Marque uma ou mais respostas corretas, dependendo das suas configurações.
+- **Feedback:** Os jogadores veem qual resposta estava correta depois de responder. Opcionalmente, você pode fornecer feedback ou explicações extras.
 
 ---
 
-## 💡 Tips for great multiple choice questions
+## 🏆 Pontuação
 
-- **Be clear and concise:** Avoid ambiguous wording.
-- **Use plausible wrong answers:** Make distractors believable.
-- **Mix media:** Add images, flags, or sounds for engagement.
-- **Randomize order:** Keep things fair for all players.
-- **Tag and categorize:** For easy navigation and searchability.
+Perguntas de múltipla escolha usam **pontuação baseada em tempo** por padrão: respostas mais rápidas ganham mais pontos. Para essas perguntas, a pontuação diminui continuamente por microssegundo, com a maior parte dos pontos fixa e apenas uma parte influenciada pela velocidade.  
+**Você também pode desativar a pontuação baseada em tempo por pergunta** se quiser que todas as respostas corretas recebam a mesma pontuação.  
+Você pode ajustar ainda mais esse equilíbrio nas configurações da rodada.
+
+Veja [Opções de pontuação nas configurações da rodada](../editor/008-round-options.md#scoring) para todos os detalhes.
+
+---
+
+## ⚙️ Configurações expandidas
+
+O tipo de pergunta de múltipla escolha oferece muitas configurações para ajustar a experiência e a pontuação.  
+Veja [como escrever perguntas](../editor/005-writing-questions.md) para uma visão geral das configurações de perguntas.
+
+---
+
+## 💡 Dicas para ótimas perguntas de múltipla escolha
+
+- **Seja claro e conciso:** Evite textos ambíguos.
+- **Use respostas erradas plausíveis:** Torne os distratores convincentes.
+- **Misture mídias:** Adicione imagens, bandeiras ou sons para aumentar o envolvimento.
+- **Aleatorize a ordem:** Mantenha tudo justo para todos os jogadores.
+- **Marque e categorize:** Para facilitar a navegação e a busca.
