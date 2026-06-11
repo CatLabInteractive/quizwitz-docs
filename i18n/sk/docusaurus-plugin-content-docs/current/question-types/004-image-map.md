@@ -1,60 +1,60 @@
 ---
 id: image-map-question
-title: Image map question
+title: Otázka s obrázkovou mapou
 ---
 
-# 🗺️ Image map
+# 🗺️ Obrázková mapa
 
-In an **Image map** question, players must select the correct spot (or spots) on an image displayed on their device. This is ideal for visual identification challenges, such as "Select the Erlenmeyer flask."
-
----
-
-![Example: Image map question with flasks](/images/question-modes/image-map/image-map-example.png)
+V otázke s **obrázkovou mapou** musia hráči vybrať správne miesto (alebo miesta) na obrázku zobrazenom na ich zariadení. Je to ideálne na výzvy s vizuálnou identifikáciou, napríklad „Vyber Erlenmeyerovu banku.“.
 
 ---
 
-## 📝 How it works
-
-- **Question:** Clearly state what players need to find on the image.  
-  _(Example: “Select the Erlenmeyer flask.”)_
-- **Image:** Upload a high-quality image that will be shown to all players.
-- **Answer points:** Define one or more **target areas** (“points”) on the image. Each area can be set as a circle or another shape, and you determine its position and size.
-- **Selecting answers:** Players tap or click to mark their answer(s) on the image.
-  - If the answer falls **within a correct area**, they receive full points.
-  - If the answer falls **outside the correct area** but within the “almost correct” radius, they can earn partial points based on the distance (as defined by the _score easing_ setting).
-- **Multiple answers:** If the question requires more than one answer, players must select each correct area.
-  - Selecting the same area multiple times will **not** grant extra points.
-- **Scoring method:** You can configure whether points are awarded for each correct area individually, or only when the required minimum number of correct answers are selected.
+![Príklad: otázka s obrázkovou mapou a bankami](/images/question-modes/image-map/image-map-example.png)
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Ako to funguje
 
-- **Number of answers:** Set the required minimum and maximum number of points a player must identify.
-- **Score easing:** Adjusts partial credit for “almost correct” answers, based on how close the selection is to the correct area (only applies to distance between correct and almost correct).
-- **Points per area:** Decide if points are awarded per correctly identified area, or only if all minimum required areas are selected.
-- **Attachment options:** Add images, audio, or video for richer context. Set attributions if publishing.
-
-See [writing questions](../editor/005-writing-questions.md) for general question settings.
-
----
-
-## ⏱️ Time-based scoring
-
-**Time-based scoring is enabled by default.** Players who answer quickly earn more points, but there’s always a fixed component (default: 75%) for a correct answer. Only 25% of the total score is influenced by how fast you answer.  
-You can turn off time-based scoring for this question type if you wish.
-
-📘 For details on scoring and time settings, see the [round options documentation](../editor/008-round-options.md#scoring).
+- **Otázka:** Jasne uveď, čo majú hráči na obrázku nájsť.  
+  _(Príklad: „Vyber Erlenmeyerovu banku.“)_
+- **Obrázok:** Nahraj kvalitný obrázok, ktorý sa zobrazí všetkým hráčom.
+- **Body odpovede:** Definuj jednu alebo viac **cieľových oblastí** („bodov“) na obrázku. Každú oblasť môžeš nastaviť ako kruh alebo iný tvar a určiť jej polohu aj veľkosť.
+- **Výber odpovedí:** Hráči ťuknú alebo kliknú, aby označili svoju odpoveď (alebo odpovede) na obrázku.
+  - Ak odpoveď spadá **do správnej oblasti**, získajú plný počet bodov.
+  - Ak odpoveď spadá **mimo správnej oblasti**, ale je v rámci polomeru „takmer správne“, môžu získať čiastkové body podľa vzdialenosti (ako je definované v nastavení _vyhladzovania skóre_).
+- **Viac odpovedí:** Ak otázka vyžaduje viac než jednu odpoveď, hráči musia vybrať každú správnu oblasť.
+  - Opakovaný výber tej istej oblasti **nepridá** extra body.
+- **Spôsob bodovania:** Môžeš nastaviť, či sa body udeľujú za každú správnu oblasť samostatne, alebo až vtedy, keď je vybraný požadovaný minimálny počet správnych odpovedí.
 
 ---
 
-## 💡 Tips for great image map questions
+## ⚙️ Rozšírené nastavenia
 
-- **Use clear, non-cluttered images** for easy identification.
-- **Define answer areas carefully** to avoid overlap or confusion.
-- **Provide constructive feedback** to help players learn from mistakes.
-- **Partial credit:** Use the “almost correct” option to reward near-misses and keep things fair.
+- **Počet odpovedí:** Nastav požadovaný minimálny a maximálny počet bodov, ktoré musí hráč identifikovať.
+- **Vyhladzovanie skóre:** Upravuje čiastkové body za „takmer správne“ odpovede podľa toho, ako blízko je výber k správnej oblasti (platí iba pre vzdialenosť medzi správnou a takmer správnou oblasťou).
+- **Body za oblasť:** Rozhodni, či sa body udeľujú za každú správne identifikovanú oblasť, alebo iba vtedy, keď sú vybrané všetky minimálne požadované oblasti.
+- **Možnosti príloh:** Pridaj obrázky, zvuk alebo video pre bohatší kontext. Ak publikuješ, nastav uvedenie autorstva.
+
+V časti [písanie otázok](../editor/005-writing-questions.md) nájdeš všeobecné nastavenia otázok.
 
 ---
 
-Image map questions are perfect for labeling diagrams, identifying regions, or visual “find-the-object” games!
+## ⏱️ Bodovanie podľa času
+
+**Bodovanie podľa času je predvolene zapnuté.** Hráči, ktorí odpovedajú rýchlo, získajú viac bodov, ale za správnu odpoveď je vždy zahrnutá aj pevná zložka (predvolene: 75 %). To, ako rýchlo odpovieš, ovplyvní iba 25 % z celkového skóre.  
+Ak chceš, môžeš pre tento typ otázky vypnúť bodovanie podľa času.
+
+📘 Podrobnosti o bodovaní a nastaveniach času nájdeš v [dokumentácii možností kola](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Tipy na skvelé otázky s obrázkovou mapou
+
+- **Používaj jasné, nepreplnené obrázky**, aby sa objekty dali ľahko identifikovať.
+- **Oblasti odpovedí definuj opatrne**, aby sa neprekrývali a nevznikal zmätok.
+- **Poskytni konštruktívnu spätnú väzbu**, aby sa hráči mohli poučiť z chýb.
+- **Čiastkové body:** Použi možnosť „takmer správne“, aby si odmenil tesné netrafenia a zachoval férovosť.
+
+---
+
+Otázky s obrázkovou mapou sú perfektné na označovanie diagramov, identifikáciu oblastí alebo vizuálne hry typu „nájdi objekt“!
