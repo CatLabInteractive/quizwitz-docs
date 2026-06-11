@@ -1,32 +1,32 @@
 ---
 id: introduction
-title: Introduction
+title: Introdução
 ---
 
-# 🎤 QuizWitz Live – Introduction
+# 🎤 QuizWitz Live – Introdução
 
-## Hosting a quiz with QuizWitz Live
+## Apresentar um quiz com QuizWitz Live
 
-The first ingredient for a successful QuizWitz Live event is an engaging quizmaster — someone who controls the game and keeps the energy high. The quizmaster leads the flow of the quiz, reads the questions aloud, and adds that extra spark to entertain the audience.
+O primeiro ingrediente para um evento QuizWitz Live de sucesso é um quizmaster envolvente — alguém que controla o jogo e mantém a energia lá em cima. O quizmaster conduz o ritmo do quiz, lê as perguntas em voz alta e dá aquele toque extra para entreter o público.
 
-To take full control of your event, use the **Quizmaster App**, designed specifically for QuizWitz Live.  
-You can launch QuizWitz Live directly from the quiz editor by clicking **‘Start QuizWitz Live’**.
+Para ter controle total do seu evento, use o **App do Quizmaster**, criado especialmente para QuizWitz Live.  
+Você pode iniciar o QuizWitz Live diretamente pelo editor de quiz clicando em **‘Iniciar QuizWitz Live’**.
 
-> 💡 **Note:** The Quizmaster App is a **web app** — there's nothing to install. Simply go to [**quizwitz.tv**](https://quizwitz.tv) in your browser to access it on your smart device.
-
----
-
-## 🧰 Requirements
-
-To ensure a smooth and professional quiz experience, make sure you have:
-
-- **A large screen or projector** showing the main game screen — or a **livestream** accessible to all players
-- **A tablet or laptop** for the quizmaster to control the game and read the script aloud
-- **A laptop or tablet** for the jury (if needed) to evaluate open answer questions
-- **One smart device per player or team** (e.g. smartphone or tablet) to submit answers
-
-> If your quiz includes **open answer questions**, you’ll need a jury to review submissions. While the quizmaster can take on this role with an extra device, we recommend assigning one or more dedicated jury members so the quizmaster can focus on presenting.
+> 💡 **Nota:** O App do Quizmaster é uma **web app** — não há nada para instalar. Basta acessar [**quizwitz.tv**](https://quizwitz.tv) no seu navegador para usá-lo no seu smart device.
 
 ---
 
-Once you’ve got everything ready, continue to the next page to learn how to start the game with QuizWitz Live.
+## 🧰 Requisitos
+
+Para garantir uma experiência de quiz tranquila e profissional, certifique-se de ter:
+
+- **Uma tela grande ou projetor** mostrando a tela principal do jogo — ou uma **transmissão ao vivo** acessível a todos os jogadores
+- **Um tablet ou notebook** para o quizmaster controlar o jogo e ler o roteiro em voz alta
+- **Um notebook ou tablet** para o júri (se necessário) avaliar perguntas de resposta aberta
+- **Um smart device por jogador ou equipe** (por exemplo, smartphone ou tablet) para enviar respostas
+
+> Se o seu quiz incluir **perguntas de resposta aberta**, você precisará de um júri para revisar os envios. Embora o quizmaster possa assumir esse papel com um dispositivo extra, recomendamos designar um ou mais membros dedicados do júri para que o quizmaster possa se concentrar na apresentação.
+
+---
+
+Depois que estiver tudo pronto, continue para a próxima página para aprender como iniciar o jogo com QuizWitz Live.
