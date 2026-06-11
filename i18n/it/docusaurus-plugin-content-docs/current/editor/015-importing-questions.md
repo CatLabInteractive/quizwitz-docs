@@ -1,71 +1,71 @@
 ---
 id: import-questions
-title: Import questions
+title: Importa domande
 ---
 
-# 📥 Import questions
+# 📥 Importa domande
 
-There are two ways to quickly add questions to a round in QuizWitz:
+Ci sono due modi per aggiungere rapidamente domande a un round in QuizWitz:
 
-- Import existing content from the **QuizWitz Library**
-- Paste a list of questions from a **spreadsheet**
+- Importa contenuti esistenti dalla **Libreria QuizWitz**
+- Incolla un elenco di domande da un **foglio di calcolo**
 
-Both options are accessible from within any round.
-
----
-
-## 📚 Import from the QuizWitz Library
-
-Use the **QuizWitz Library** tab to search and import questions, rounds, or quizzes created by yourself or other creators.
-
-1. Open the round where you want to import content
-2. Click the **QuizWitz Library** tab
-3. Use filters like language, collection, type, category, or tags
-4. Select one or more entries
-5. Click **Add X items** to insert the selected content into your quiz
-
-![QuizWitz Library](/images/import/import-from-quizwitz.png)
-
-> ✅ Use this method to reuse high-quality content or combine multiple public Round-Abouts into a larger quiz.
+Entrambe le opzioni sono accessibili dall'interno di qualsiasi round.
 
 ---
 
-## 📋 Import from a spreadsheet
+## 📚 Importa dalla Libreria QuizWitz
 
-To quickly create many questions at once, use the **Import from spreadsheet** tab.
+Usa la scheda **Libreria QuizWitz** per cercare e importare domande, round o quiz creati da te o da altri creatori.
 
-1. Open a round
-2. Click the **Import from spreadsheet** tab
-3. Paste rows of **tab-separated** values (copied from Excel, Google Sheets, etc.)
-4. Click **Import questions**
+1. Apri il round in cui vuoi importare contenuti
+2. Clicca sulla scheda **Libreria QuizWitz**
+3. Usa filtri come lingua, raccolta, tipo, categoria o tag
+4. Seleziona una o più voci
+5. Clicca su **Aggiungi X elementi** per inserire il contenuto selezionato nel tuo quiz
 
-![Import from spreadsheet](/images/import/import-from-spreadsheet.png)
+![Libreria QuizWitz](/images/import/import-from-quizwitz.png)
 
----
-
-### 🗂️ Format for pasting
-
-Each row must contain the following columns in this exact order:
-
-1. **Short question** — Displayed on the player screen
-2. **Correct answer**
-3. **Wrong answer 1** (leave blank for open questions)
-4. **Wrong answer 2**
-5. **Wrong answer 3**
-6. **Short feedback** — Displayed on the player screen after answering
-7. **Long question** _(optional)_ — Displayed on the quizmaster screen
-8. **Long feedback** _(optional)_ — Explanation for the quizmaster to read aloud
-
-> 📌 The last two columns are only used in [QuizWitz Live](../quizmaster/001-introduction.md), but they must still be included (even if left empty).
+> ✅ Usa questo metodo per riutilizzare contenuti di alta qualità o combinare più Round-About pubblici in un quiz più grande.
 
 ---
 
-## ✅ After importing
+## 📋 Importa da un foglio di calcolo
 
-Whether importing from the library or a spreadsheet:
+Per creare rapidamente molte domande in una volta sola, usa la scheda **Importa da foglio di calcolo**.
 
-- Review your questions for formatting and clarity
-- Update any metadata like category, round type, or attachments
-- Don’t forget to **save your quiz**
+1. Apri un round
+2. Clicca sulla scheda **Importa da foglio di calcolo**
+3. Incolla righe di valori **separati da tabulazioni** (copiate da Excel, Google Sheets, ecc.)
+4. Clicca su **Importa domande**
 
-📘 Want to enhance your questions further? Continue in the [Writing questions guide](../editor/005-writing-questions.md).
+![Importa da foglio di calcolo](/images/import/import-from-spreadsheet.png)
+
+---
+
+### 🗂️ Formato per l'incollaggio
+
+Ogni riga deve contenere le seguenti colonne in questo ordine esatto:
+
+1. **Domanda breve** — Visualizzata sullo schermo del giocatore
+2. **Risposta corretta**
+3. **Risposta errata 1** (lascia vuoto per le domande aperte)
+4. **Risposta errata 2**
+5. **Risposta errata 3**
+6. **Feedback breve** — Visualizzato sullo schermo del giocatore dopo la risposta
+7. **Domanda lunga** _(facoltativa)_ — Visualizzata sullo schermo del quizmaster
+8. **Feedback lungo** _(facoltativo)_ — Spiegazione da far leggere ad alta voce al quizmaster
+
+> 📌 Le ultime due colonne vengono usate solo in [QuizWitz Live](../quizmaster/001-introduction.md), ma devono comunque essere incluse (anche se lasciate vuote).
+
+---
+
+## ✅ Dopo l'importazione
+
+Che tu importi dalla libreria o da un foglio di calcolo:
+
+- Rivedi le tue domande per formattazione e chiarezza
+- Aggiorna eventuali metadati come categoria, tipo di round o allegati
+- Non dimenticare di **salvare il tuo quiz**
+
+📘 Vuoi migliorare ancora di più le tue domande? Continua nella [guida alla scrittura delle domande](../editor/005-writing-questions.md).
