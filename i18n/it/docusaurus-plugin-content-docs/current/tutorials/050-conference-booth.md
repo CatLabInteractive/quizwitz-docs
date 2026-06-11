@@ -1,79 +1,79 @@
 ---
 id: conference-booth
-title: Conference booth
+title: Stand in conferenza
 ---
 
-# Conference booth
+# Stand in conferenza
 
-This tutorial will show you how to run QuizWitz at your conference booth — an easy, interactive way to attract visitors and gather leads!
+Questo tutorial ti mostrerà come usare QuizWitz al tuo stand in conferenza — un modo facile e interattivo per attirare visitatori e raccogliere lead!
 
-![A photo of a Marvel conference booth using QuizWitz](/images/photos/marvel.jpg)
+![Una foto di uno stand Marvel in conferenza che usa QuizWitz](/images/photos/marvel.jpg)
 
 ---
 
-## 📝 Creating the quiz
+## 📝 Creare il quiz
 
-When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.  
-To keep things fresh, make sure you have plenty of questions — enough to randomize and make each playthrough unique.
+Quando crei un quiz per uno stand in conferenza, tieni presente che alcuni giocatori potrebbero fermarsi per più partite.  
+Per mantenere tutto sempre interessante, assicurati di avere tante domande — abbastanza da poterle randomizzare e rendere ogni partita unica.
 
-**Recommended setup:**
+**Configurazione consigliata:**
 
-- 15 questions split into 3 rounds
-- Create at least 3× that many questions for variety — more is better!
+- 15 domande divise in 3 round
+- Crea almeno 3× quel numero di domande per avere varietà — più ce ne sono, meglio è!
 
-### 🎲 Step-by-step quiz creation
+### 🎲 Creazione del quiz passo dopo passo
 
-1. **Choose “Quiz”** in the Create menu and give your quiz a name. Set the correct language.
-2. **Add 3 rounds** and name them (for example: Round 1, Round 2, Round 3).
-3. In the **Round settings** (cog icon), enable **“Only show x questions”** and set the number to 5.  
-   Also enable **“Random question order”** — otherwise the game will always pick the first 5 questions.  
-   Repeat for each round.
+1. **Scegli “Quiz”** nel menu Crea e dai un nome al tuo quiz. Imposta la lingua corretta.
+2. **Aggiungi 3 round** e dai loro un nome (per esempio: Round 1, Round 2, Round 3).
+3. Nelle **impostazioni del round** (icona a ingranaggio), abilita **“Mostra solo x domande”** e imposta il numero su 5.  
+   Abilita anche **“Ordine casuale delle domande”** — altrimenti il gioco sceglierà sempre le prime 5 domande.  
+   Ripeti per ogni round.
 
-![Screenshot of round settings for a conference booth](/images/tutorials/conference/round_settings.png)
+![Screenshot delle impostazioni del round per uno stand in conferenza](/images/tutorials/conference/round_settings.png)
 
-4. **Add questions to each round.**  
-   You can [write questions](../editor/005-writing-questions.md) or use the Import button to quickly add content from Excel.
+4. **Aggiungi domande a ogni round.**  
+   Puoi [scrivere domande](../editor/005-writing-questions.md) o usare il pulsante Importa per aggiungere rapidamente contenuti da Excel.
 
 :::tip
-Use lots of images and video clips — they make the game much more entertaining!
+Usa tante immagini e clip video — rendono il gioco molto più divertente!
 :::
 
 ---
 
-### 🔀 How random selection works
+### 🔀 Come funziona la selezione casuale
 
-Each time the quiz runs, QuizWitz will select 5 random questions from each round. The system will distribute questions fairly so repeats are minimized.
-
----
-
-## 🚀 Launch the quiz
-
-The fastest way to launch your conference quiz:
-
-1. Click **Play quiz**.
-2. Select **Start Conference Mode**.
-
-In this mode, players use their phones to connect to the game link on the main screen.  
-When everyone is ready, the booth host presses Enter — and the game runs automatically.  
-After the game ends, pressing Enter brings you right back to the connection screen for the next group.
+Ogni volta che il quiz viene avviato, QuizWitz selezionerà 5 domande casuali da ogni round. Il sistema distribuirà le domande in modo equo, così le ripetizioni saranno ridotte al minimo.
 
 ---
 
-## ⚙️ Advanced game options
+## 🚀 Avvia il quiz
 
-Want more control?  
-Choose **Advanced game options** and select **Conference mode** in the mode selector.  
-You’ll get a unique link with all your chosen options.
+Il modo più veloce per avviare il tuo quiz da conferenza:
 
-- **Ask players’ email:**  
-  Collect visitor emails for your booth! If you enable this, be sure to also set your **Privacy Policy URL**.
-- When launching a game via the advanced options link, you may be prompted to log in before starting — this checks your content and licenses.
+1. Clicca su **Gioca il quiz**.
+2. Seleziona **Avvia modalità conferenza**.
 
-![Screenshot of advanced game settings](/images/tutorials/conference/advanced_game_settings.png)
+In questa modalità, i giocatori usano i loro telefoni per collegarsi al link del gioco sulla schermata principale.  
+Quando tutti sono pronti, l’host dello stand preme Invio — e il gioco parte automaticamente.  
+Al termine del gioco, premendo Invio torni subito alla schermata di connessione per il gruppo successivo.
 
 ---
 
-## 🎨 Theming
+## ⚙️ Opzioni di gioco avanzate
 
-Want to match the game to your booth branding?  
-See our [Theming guide](../advanced/011-emerald-theme.md) for tips on customizing your QuizWitz experience.
+Vuoi più controllo?  
+Scegli **Opzioni di gioco avanzate** e seleziona **Modalità conferenza** nel selettore della modalità.  
+Otterrai un link unico con tutte le opzioni che hai scelto.
+
+- **Chiedi l’email ai giocatori:**  
+  Raccogli le email dei visitatori per il tuo stand! Se abiliti questa opzione, assicurati di impostare anche l’**URL dell’informativa sulla privacy**.
+- Quando avvii un gioco tramite il link delle opzioni avanzate, potrebbe esserti richiesto di accedere prima di iniziare — serve a controllare i tuoi contenuti e le licenze.
+
+![Screenshot delle impostazioni avanzate del gioco](/images/tutorials/conference/advanced_game_settings.png)
+
+---
+
+## 🎨 Temi
+
+Vuoi adattare il gioco al branding del tuo stand?  
+Consulta la nostra [guida ai temi](../advanced/011-emerald-theme.md) per consigli su come personalizzare la tua esperienza QuizWitz.
