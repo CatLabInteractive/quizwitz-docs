@@ -1,69 +1,69 @@
 ---
 id: emerald-theme
-name: Emerald theme
+name: Emerald téma
 ---
 
-# Emerald theme
+# Emerald téma
 
-The Emerald theme is the easiest way to customize the look of your QuizWitz game. By default, the theme is a clean blue / green style with vivid option colors, but by combining quiz attachments and theme modifiers you can change the way it looks — drastically.
+Az Emerald téma a legegyszerűbb módja annak, hogy testre szabd a QuizWitz játékod kinézetét. Alapértelmezés szerint a téma letisztult kék/zöld stílusú, élénk válaszopció-színekkel, de a kvíz mellékleteinek és a témamódosítóknak a kombinálásával drasztikusan megváltoztathatod a kinézetét.
 
 :::tip
-You can use our [theme tester](https://client.quizwitz.com/test.html?theme=emerald) to see what your settings will look like.
+A [téma tesztelőnkkel](https://client.quizwitz.com/test.html?theme=emerald) megnézheted, hogyan fognak kinézni a beállításaid.
 :::
 
-![A screenshot of the emerald theme](/images/emerald/emerald.png)
+![Képernyőkép az Emerald témáról](/images/emerald/emerald.png)
 
-## Select the Emerald theme
+## Válaszd ki az Emerald témát
 
-In your **Quiz settings**, select **Theme** and enable **Emerald**.
+A **Kvízbeállításokban** válaszd ki a **Téma** opciót, és engedélyezd az **Emerald** témát.
 
-You can test a quiz using the Emerald theme [here](https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default).
+[Itt](https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default) kipróbálhatsz egy kvízt az Emerald témával.
 
-![A screenshot of the quiz settings](/images/emerald/quiz-settings.png)
+![Képernyőkép a kvízbeállításokról](/images/emerald/quiz-settings.png)
 
-## Attachments
+## Mellékletek
 
-### Quiz attachments
+### Kvíz mellékletei
 
-By far the easiest way to change the look and feel of the game is by attaching images to your quiz. Open the **Quiz settings** and scroll down to the **Attachments** section. Here you can upload images that will be used as background, client logo, connect — and wait screens (for conference — and live quizzes), and more.
+A játék kinézetét és hangulatát messze a legegyszerűbben úgy változtathatod meg, ha képeket csatolsz a kvízedhez. Nyisd meg a **Kvízbeállításokat**, és görgess le a **Mellékletek** szakaszhoz. Itt olyan képeket tölthetsz fel, amelyeket háttérként, klienslogóként, csatlakozási és várakozási képernyőként (konferencia- és élő kvízekhez), valamint más célokra használhatsz.
 
-![A screenshot of the quiz attachments](/images/emerald/quiz-attachments.png)
+![Képernyőkép a kvíz mellékleteiről](/images/emerald/quiz-attachments.png)
 
-### Round attachments
+### Forduló mellékletei
 
-You can also upload images or videos that will be played before and after the game. This goes for rounds as well: find an image that you want to use as round introduction, go to **round settings**, disable **Show round intro** to hide the default round introduction, and upload your image or video as **Show before round**. When the round starts, the image or video will be displayed instead of the default introduction.
+Olyan képeket vagy videókat is feltölthetsz, amelyek a játék előtt és után lesznek lejátszva. Ez a fordulókra is igaz: keress egy képet, amelyet fordulóbevezetőként szeretnél használni, menj a **fordulóbeállításokhoz**, kapcsold ki a **Fordulóbevezető megjelenítése** opciót az alapértelmezett fordulóbevezető elrejtéséhez, majd töltsd fel a képedet vagy videódat a **Megjelenítés a forduló előtt** résznél. Amikor a forduló elindul, az alapértelmezett bevezető helyett a kép vagy videó jelenik meg.
 
-![A screenshot of the round attachments](/images/emerald/round-settings.png)
+![Képernyőkép a forduló mellékleteiről](/images/emerald/round-settings.png)
 
 :::tip
-Use images and videos of a 1920 x 1080 resolution for best results.
+A legjobb eredményhez használj 1920 x 1080 felbontású képeket és videókat.
 :::
 
 :::info
-After playing with the attachments, we end up with something [like this](https://play.quizwitz.com/11487:ACz546ejAV/emerald-theme-tutorial-background-logo).
+Miután kicsit játszottunk a mellékletekkel, [valami ilyesmit](https://play.quizwitz.com/11487:ACz546ejAV/emerald-theme-tutorial-background-logo) kapunk.
 :::
 
-![A screenshot of the emerald theme with quiz attachments](/images/emerald/emerald-with-attachments.png)
+![Képernyőkép az Emerald témáról kvízmellékletekkel](/images/emerald/emerald-with-attachments.png)
 
-### Music
+### Zene
 
-All music in the game can be replaced with attachments as well. Any audio files uploaded in the **during question** slots will be played during the question countdown.
+A játékban minden zene lecserélhető mellékletekkel is. A **kérdés közben** helyekre feltöltött bármilyen hangfájl a kérdés visszaszámlálása alatt fog lejátszódni.
 
-## Emerald theme modifiers
+## Emerald témamódosítók
 
-In addition to attachments, you can also manipulate the Emerald theme with **query parameters**. These are parameters you can add to the **advanced game options** URL — and they change the look of the theme.
+A mellékletek mellett **query paraméterekkel** is alakíthatod az Emerald témát. Ezek olyan paraméterek, amelyeket hozzáadhatsz a **haladó játékbeállítások** URL-jéhez — és megváltoztatják a téma kinézetét.
 
-For this, we will start with an example quiz (without any attachments):  
+Ehhez egy példakvízzel kezdünk (mellékletek nélkül):  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 
-When you start the above quiz, the game will be in the default Emerald style. Let's change that.
+Amikor elindítod a fenti kvízt, a játék az alapértelmezett Emerald stílusban fog megjelenni. Változtassuk meg.
 
 :::tip
-The easiest way to experiment with these parameters is by using our [theme tester](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).  
-When you are done experimenting, you can copy — paste the parameters to your advanced game options URL.
+Ezekkel a paraméterekkel a legegyszerűbben a [téma tesztelőnkkel](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b) kísérletezhetsz.  
+Ha végeztél a kísérletezéssel, másold be a paramétereket a haladó játékbeállítások URL-jébe.
 :::
 
-The available modifiers are:
+Az elérhető módosítók:
 
 - backgroundColor
 - mainColor
@@ -71,23 +71,23 @@ The available modifiers are:
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
-- optionColors (4 colors, comma — separated)
-- optionBorderColors (4 colors, comma — separated)
+- optionColors (4 szín, vesszővel elválasztva)
+- optionBorderColors (4 szín, vesszővel elválasztva)
 
-Additionally, you can set a default font:
+Emellett beállíthatsz egy alapértelmezett betűtípust is:
 
 - defaultFont
 - headerFont
 
-These fonts must be URLs to publicly available font files.
+Ezeknek a betűtípusoknak nyilvánosan elérhető betűtípusfájlokra mutató URL-eknek kell lenniük.
 
-Each of these modifiers can contain a single color in HTML hex format (ff0000), or a linear gradient by providing multiple colors divided by a minus symbol ( — for example ff1b6b-45caff). (Note that the # symbol should not be added.)
+Ezek a módosítók tartalmazhatnak egyetlen színt HTML hex formátumban (ff0000), vagy lineáris színátmenetet is, ha több színt adsz meg mínuszjellel elválasztva ( — például ff1b6b-45caff). (Figyelj rá, hogy a # szimbólumot nem kell hozzáadni.)
 
 :::note
-The query parameters must start with a question mark ( ? ) and each parameter must be divided with an ampersand ( & ). For more information on query parameters, visit [wikipedia](https://en.wikipedia.org/wiki/Query_string).
+A query paramétereknek kérdőjellel kell kezdődniük ( ? ) és minden paramétert és jellel ( & ) kell elválasztani. A query paraméterekről további információt a [wikipedián](https://en.wikipedia.org/wiki/Query_string) találsz.
 :::
 
-By adding these parameters to your game URL, you can modify the colors in the theme:  
+Ha ezeket a paramétereket hozzáadod a játék URL-jéhez, módosíthatod a téma színeit:  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
-![A screenshot of the Emerald theme with custom modifiers](/images/emerald/theme_properties.png)
+![Képernyőkép az Emerald témáról egyéni módosítókkal](/images/emerald/theme_properties.png)
