@@ -1,33 +1,33 @@
 ---
 id: question-types
-title: Question types
+title: Kérdéstípusok
 ---
 
-# Question types
+# Kérdéstípusok
 
-QuizWitz supports different question types. Each type has its own rules and gameplay mechanics.
-We suggest using a mix of different types to keep the game interesting and engaging.
+A QuizWitz különböző kérdéstípusokat támogat. Minden típusnak megvannak a saját szabályai és játékmenet-mechanikái.
+Javasoljuk, hogy használj többféle típust vegyesen, hogy a játék érdekes és izgalmas maradjon.
 
-Note that some round types limit the question types you can use.
+Vedd figyelembe, hogy egyes körtípusok korlátozzák, milyen kérdéstípusokat használhatsz.
 
-## Regular question types
+## Normál kérdéstípusok
 
-These are the most common question types. They are easy to understand and play.
+Ezek a leggyakoribb kérdéstípusok. Könnyű megérteni és játszani velük.
 
-- [Multiple choice](001-multiple-choice.md) (default)
-- [Order question](003-order-question.md)
-- [Image map question](004-image-map.md)
+- [Feleletválasztós](001-multiple-choice.md) (alapértelmezett)
+- [Sorrendbe rendezős kérdés](003-order-question.md)
+- [Képtérképes kérdés](004-image-map.md)
 
-## Open questions
+## Nyílt kérdések
 
-Open questions require players to type in their answers.
+A nyílt kérdéseknél a játékosoknak be kell gépelniük a válaszaikat.
 
-- [Open question](002-open-question.md)
-- [List question](005-list-question.md)
+- [Nyílt kérdés](002-open-question.md)
+- [Listás kérdés](005-list-question.md)
 
-## Specials
+## Különlegességek
 
-These questions make the game slightly less fair, but they help to make sure there is always a winner.
+Ezek a kérdések kissé kevésbé igazságossá teszik a játékot, de segítenek biztosítani, hogy mindig legyen győztes.
 
-- [Tiebreaker question](006-tiebreaker-question.md)
-- [Best answer question](007-best-answer-question.md)
+- [Holtversenyt eldöntő kérdés](006-tiebreaker-question.md)
+- [Legjobb válasz kérdés](007-best-answer-question.md)
