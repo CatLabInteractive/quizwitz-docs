@@ -27,7 +27,7 @@ Antes de começar, certifique-se de que:
 
 2. Uma tela de carregamento preta aparece mostrando uma porcentagem. Isto leva apenas alguns segundos.
 
-3. Uma vez carregada, a tela do teste aparece. Se solicitado para entrar, clique em **Login** — abrirá uma segunda aba.
+3. Uma vez carregado, o ecrã do quiz aparece. Se solicitado para entrar, clique em **Login** — abrirá uma segunda aba.
    - Clique em **Login** na página de login e digite as credenciais fornecidas a você.
    - Depois de fazer o login, a aba fecha automaticamente e o questionário termina o carregamento.
 
@@ -48,7 +48,7 @@ Para sair da tela cheia a qualquer momento — por exemplo, para mudar para outr
 Para jogar novamente após um jogo concluído, você tem algumas opções:
 
 - **Recarregar a página** — clique no ícone de recarga na barra de ferramentas do Chrome(talvez você precise pressionar Esc primeiro para sair da tela cheia).
-- **Pressione S** — após o teste terminar, pressionar **S** no teclado leva você de volta à tela inicial.
+- **Pressione S** — após o quiz terminar, pressionar **S** no teclado leva você de volta ao ecrã inicial.
 
 Se um pop-up aparece perguntando se você deseja iniciar um novo jogo, clique em **Sim, começar um novo jogo**.
 
@@ -56,7 +56,7 @@ Quando o questionário recarregar, ele vai se lembrar do seu login e ir direto p
 
 ---
 
-## Jogadores entrando no teste
+## Jogadores a entrar no quiz
 
 Os jogadores se juntam usando seus próprios smartphones de uma das duas maneiras:
 
@@ -85,7 +85,7 @@ Uma contagem regressiva de 5 segundos começa, e depois o questionário começa 
 
 ---
 
-## Como o teste funciona
+## Como o quiz funciona
 
 - Cada pergunta aparece no ecrã principal com o texto da pergunta, quatro opções de resposta e uma imagem.
 - Jogadores vêem a mesma pergunta em seu telefone e toque em uma das quatro opções.
@@ -101,16 +101,16 @@ Uma contagem regressiva de 5 segundos começa, e depois o questionário começa 
 
 A **barra de controle** aparece na parte inferior da tela quando você move seu cursor sobre ela. Ela contém:
 
-| Controles          | O que ele faz                                                 |
-| ------------------ | ------------------------------------------------------------- |
-| Pausar ícone       | Pausa o teste; clique no ícone play para continuar            |
-| Controle de volume | Arraste para a esquerda para silenciar todos os sons do teste |
-| Código do jogo     | Codificar os jogadores usam para entrar                       |
+| Controles          | O que ele faz                                                |
+| ------------------ | ------------------------------------------------------------ |
+| Pausar ícone       | Pausa o quiz; clique no ícone play para continuar            |
+| Controle de volume | Arraste para a esquerda para silenciar todos os sons do quiz |
+| Código do jogo     | Codificar os jogadores usam para entrar                      |
 
 ---
 
 ## O que fazer se algo der errado
 
-- **Teste fechado por acidente?** Reabra a URL do questionário. Quando o pop-up perguntar sobre um jogo anterior, clique **Não** (ou "Continuar") para continuar de onde você parou.
+- **Quiz fechado por acidente?** Reabra a URL do quiz. Quando o pop-up perguntar sobre um jogo anterior, clique **Não** (ou "Continuar") para continuar de onde você parou.
 - **Um jogador caiu de fora?** Eles podem se juntar usando o mesmo código, desde que o número máximo de jogadores ainda não tenha sido atingido.
 - **A tela ficou preta ou congelada?** Tente pressionar **F5** para recarregar ou clique no ícone de recarregamento no Chrome.
