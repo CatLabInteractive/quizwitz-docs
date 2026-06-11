@@ -1,39 +1,39 @@
 ---
 id: piece-of-pie
-title: Piece of pie
+title: Fatia da torta
 ---
 
-# 🥧 Piece of pie
+# 🥧 Fatia da torta
 
-In a **Piece of pie** round, teamwork pays off! The total points available for each question depend on the number of players, and are then split between all players (or teams) who answer the question correctly.
-
----
-
-## 📝 How it works
-
-- **Total points = base points × number of players (or teams).**
-  - Example: If a question is worth 100 points and there are 20 players, 2,000 points are at stake.
-- After the question, the **total points are divided equally** among everyone who answered correctly.
-  - Example: If 5 players answered correctly, each of them gets 400 points.
-- If everyone gets it right, everyone gets the same (lower) share. If only one player is correct, they get the whole “pie”!
+Numa rodada **Fatia da torta**, o trabalho em equipe compensa! O total de pontos disponíveis para cada pergunta depende do número de jogadores e depois é dividido entre todos os jogadores (ou equipes) que respondem à pergunta corretamente.
 
 ---
 
-## ⚙️ Time-based scoring
+## 📝 Como funciona
 
-- **Time-based scoring can be enabled** (and is enabled by default).
-- In that case, the displayed points are the _maximum_ you could win for a fast and correct answer.
-- Your share of the “pie” will be adjusted for your speed _and_ the number of other correct answers.
-- For details, see the [scoring section](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips
-
-- **Encourage unique knowledge!** The fewer people who get it right, the bigger the reward.
-- **Speed still matters** if time-based scoring is on, but sharing the “pie” means you want to be both fast and correct.
-- Works well for questions where there’s a single clear answer, or to reward players who think outside the box.
+- **Total de pontos = pontos-base × número de jogadores (ou equipes).**
+  - Exemplo: se uma pergunta vale 100 pontos e há 20 jogadores, há 2.000 pontos em jogo.
+- Depois da pergunta, os **pontos totais são divididos igualmente** entre todos que responderam corretamente.
+  - Exemplo: se 5 jogadores responderam corretamente, cada um deles ganha 400 pontos.
+- Se todo mundo acertar, todo mundo fica com a mesma parte (menor). Se só um jogador acertar, ele fica com a “torta” inteira!
 
 ---
 
-For more about round settings and configuration, see [Round options](../editor/008-round-options.md).
+## ⚙️ Pontuação com base no tempo
+
+- **A pontuação com base no tempo pode ser ativada** (e vem ativada por padrão).
+- Nesse caso, os pontos exibidos são o _máximo_ que você pode ganhar por uma resposta rápida e correta.
+- Sua parte da “torta” será ajustada de acordo com a sua velocidade _e_ o número de outras respostas corretas.
+- Para mais detalhes, veja a [seção de pontuação](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Dicas
+
+- **Incentive conhecimentos únicos!** Quanto menos pessoas acertarem, maior será a recompensa.
+- **A velocidade ainda importa** se a pontuação com base no tempo estiver ligada, mas dividir a “torta” significa que você precisa ser rápido e acertar.
+- Funciona bem para perguntas em que há uma única resposta clara, ou para recompensar jogadores que pensam fora da caixa.
+
+---
+
+Para saber mais sobre configurações e opções de rodada, veja [Opções de rodada](../editor/008-round-options.md).
