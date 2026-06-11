@@ -1,130 +1,130 @@
 ---
 id: playing
-title: Playing QuizWitz
+title: Giocare a QuizWitz
 ---
 
-# 🧠 Playing QuizWitz
+# 🧠 Giocare a QuizWitz
 
-Welcome to QuizWitz! Whether you're playing solo or with friends, this guide will help you get started.
-
----
-
-## 🎯 Choose what to play
-
-Start by browsing the available **Round-Abouts** — short themed rounds of quiz questions. Use the menu at the top of the screen to explore:
-
-- **New** — Discover the latest Round-Abouts
-- **My Collection** — Access everything you've saved or created
-- **Collect** — Find Round-Abouts made by the community
-- **Quick Play** — Jump into a random selection
-
-![QuizWitz top navigation bar](/images/top-menu-play.png)
-
-> 💡 **Tip:** Want to play everything you’ve collected? Click **My Collection**, then hit **Play my collection**!
+Benvenuto su QuizWitz! Che tu stia giocando da solo o con gli amici, questa guida ti aiuterà a iniziare.
 
 ---
 
-## 📚 What's in My Collection?
+## 🎯 Scegli a cosa giocare
 
-**My Collection** includes all the quiz content you’ve either:
+Inizia esplorando i **Round-Abouts** disponibili — brevi round a tema con domande quiz. Usa il menu in alto sullo schermo per esplorare:
 
-- Created yourself
-- Collected from other creators
+- **Novità** — Scopri gli ultimi Round-Abouts
+- **La mia raccolta** — Accedi a tutto ciò che hai salvato o creato
+- **Raccogli** — Trova Round-Abouts creati dalla community
+- **Partita veloce** — Entra subito in una selezione casuale
 
-This includes:
+![Barra di navigazione superiore di QuizWitz](/images/top-menu-play.png)
+
+> 💡 **Suggerimento:** Vuoi giocare con tutto ciò che hai raccolto? Clicca su **La mia raccolta**, poi premi **Gioca con la mia raccolta**!
+
+---
+
+## 📚 Cosa c'è nella mia raccolta?
+
+**La mia raccolta** include tutti i contenuti quiz che hai:
+
+- Creato tu
+- Raccolto da altri creatori
+
+Questo include:
 
 - Round-Abouts
-- Full quizzes
-- Playlists
-- Bingos
+- Quiz completi
+- Playlist
+- Bingo
 - ...
 
-You can organize, play, or remove items at any time. This is your personal library — build it how you like!
+Puoi organizzare, giocare o rimuovere elementi in qualsiasi momento. Questa è la tua libreria personale — costruiscila come preferisci!
 
 ---
 
-## 🧠 Choose a Round-About
+## 🧠 Scegli un Round-About
 
-A **Round-About** is a small, themed round of questions. Playing just one will give you a short game with 7 random questions.
+Un **Round-About** è un piccolo round di domande a tema. Giocarne anche solo uno ti darà una partita breve con 7 domande casuali.
 
-To explore a Round-About in more detail:
+Per esplorare un Round-About più nel dettaglio:
 
-- Click its **image**, **title**, or **comments icon**
-- Click **Play** to jump in immediately
+- Clicca sulla sua **immagine**, sul **titolo** o sull'**icona dei commenti**
+- Clicca su **Gioca** per iniziare subito
 
-![QuizWitz round-about details](/images/round-about-details.png)
-
----
-
-## ⭐ Add Round-Abouts to your collection
-
-Want to build a full quiz game from multiple Round-Abouts? Here's how:
-
-- Click **Add to my collection** inside the Round-About
-- Or click the **star icon** on the Round-About tile
-
-To remove one later, just click the star again — it’ll now say **Remove from my collection**.
-
-![Add a Round-About to your collection](/images/add-to-collection.png)
+![Dettagli del Round-About di QuizWitz](/images/round-about-details.png)
 
 ---
 
-## ▶️ Play your collection
+## ⭐ Aggiungi Round-Abouts alla tua raccolta
 
-When you're ready:
+Vuoi creare una partita quiz completa usando più Round-Abouts? Ecco come fare:
 
-1. Click **My Collection**
-2. Press **Play my collection**
+- Clicca su **Aggiungi alla mia raccolta** dentro il Round-About
+- Oppure clicca sull'**icona a stella** nella scheda del Round-About
 
-![Play my collection](/images/play-my-collection.png)
+Per rimuoverne uno più tardi, clicca di nuovo sulla stella — ora dirà **Rimuovi dalla mia raccolta**.
 
-Choose:
-
-- **Game mode** — Single Player or Party Game
-- **Which Round-Abouts** to include in your session
-
-QuizWitz will try to skip questions you've already seen.
-
-![Play my collection - step 2](/images/play-my-collection-step2.png)
+![Aggiungi un Round-About alla tua raccolta](/images/add-to-collection.png)
 
 ---
 
-## 🕹️ In-game experience
+## ▶️ Gioca con la tua raccolta
 
-Once your game starts, choose your mode:
+Quando sei pronto:
 
-### 🎮 Single Player
+1. Clicca su **La mia raccolta**
+2. Premi **Gioca con la mia raccolta**
 
-- Click **Start**, then choose **Single Player**
-- Use your mouse, keyboard, or touchscreen to answer
+![Gioca con la mia raccolta](/images/play-my-collection.png)
 
-![QuizWitz start screen](/images/quizwitz-start-screen.png)  
-![QuizWitz start screen single player](/images/quizwitz-start-screen-single.png)
+Scegli:
 
----
+- **Modalità di gioco** — Giocatore singolo o Partita di gruppo
+- **Quali Round-Abouts** includere nella tua sessione
 
-### 🎉 Party Game
+QuizWitz proverà a saltare le domande che hai già visto.
 
-Play with friends using their own phones or tablets:
-
-> 📺 Make sure the quiz screen is visible — use a shared display or screen share
-
-1. Click **Start**, then **Party Game**
-2. Players follow the instructions on-screen to join
-3. Click **Start quiz** when everyone is ready
-
-![QuizWitz start screen](/images/quizwitz-start-screen.png)  
-![QuizWitz start screen party](/images/quizwitz-start-screen-party.png)  
-![QuizWitz connect screen](/images/connect-screen.png)
+![Gioca con la mia raccolta - passaggio 2](/images/play-my-collection-step2.png)
 
 ---
 
-## ⭐ After the game
+## 🕹️ Esperienza di gioco
 
-At the end, rate the Round-Abouts you played. This helps surface great content and supports creators.
+Una volta iniziata la partita, scegli la modalità:
 
-![Rate Round-Abouts when the game is done](/images/rate-rounds.png)
+### 🎮 Giocatore singolo
+
+- Clicca su **Avvia**, poi scegli **Giocatore singolo**
+- Usa mouse, tastiera o touchscreen per rispondere
+
+![Schermata iniziale di QuizWitz](/images/quizwitz-start-screen.png)  
+![Schermata iniziale giocatore singolo di QuizWitz](/images/quizwitz-start-screen-single.png)
 
 ---
 
-Enjoy the quiz, and may the best brain win! 🧠🎉
+### 🎉 Partita di gruppo
+
+Gioca con gli amici usando i loro telefoni o tablet:
+
+> 📺 Assicurati che la schermata del quiz sia visibile — usa uno schermo condiviso o la condivisione schermo
+
+1. Clicca su **Avvia**, poi su **Partita di gruppo**
+2. I giocatori seguono le istruzioni sullo schermo per partecipare
+3. Clicca su **Avvia quiz** quando tutti sono pronti
+
+![Schermata iniziale di QuizWitz](/images/quizwitz-start-screen.png)  
+![Schermata iniziale partita di gruppo di QuizWitz](/images/quizwitz-start-screen-party.png)  
+![Schermata di connessione](/images/connect-screen.png)
+
+---
+
+## ⭐ Dopo la partita
+
+Alla fine, valuta i Round-Abouts che hai giocato. Questo aiuta a far emergere i contenuti migliori e supporta i creatori.
+
+![Valuta i Round-Abouts quando la partita è finita](/images/rate-rounds.png)
+
+---
+
+Goditi il quiz, e che vinca il cervello migliore! 🧠🎉
