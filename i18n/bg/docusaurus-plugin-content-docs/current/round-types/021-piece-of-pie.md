@@ -1,39 +1,39 @@
 ---
 id: piece-of-pie
-title: Piece of pie
+title: Парче пай
 ---
 
-# 🥧 Piece of pie
+# 🥧 Парче пай
 
-In a **Piece of pie** round, teamwork pays off! The total points available for each question depend on the number of players, and are then split between all players (or teams) who answer the question correctly.
-
----
-
-## 📝 How it works
-
-- **Total points = base points × number of players (or teams).**
-  - Example: If a question is worth 100 points and there are 20 players, 2,000 points are at stake.
-- After the question, the **total points are divided equally** among everyone who answered correctly.
-  - Example: If 5 players answered correctly, each of them gets 400 points.
-- If everyone gets it right, everyone gets the same (lower) share. If only one player is correct, they get the whole “pie”!
+В рунд **Парче пай** работата в екип се отплаща! Общият брой точки, налични за всеки въпрос, зависи от броя играчи, а след това се разделя между всички играчи (или отбори), които отговорят правилно на въпроса.
 
 ---
 
-## ⚙️ Time-based scoring
+## 📝 Как работи
 
-- **Time-based scoring can be enabled** (and is enabled by default).
-- In that case, the displayed points are the _maximum_ you could win for a fast and correct answer.
-- Your share of the “pie” will be adjusted for your speed _and_ the number of other correct answers.
-- For details, see the [scoring section](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips
-
-- **Encourage unique knowledge!** The fewer people who get it right, the bigger the reward.
-- **Speed still matters** if time-based scoring is on, but sharing the “pie” means you want to be both fast and correct.
-- Works well for questions where there’s a single clear answer, or to reward players who think outside the box.
+- **Общо точки = базови точки × брой играчи (или отбори).**
+  - Пример: Ако един въпрос носи 100 точки и има 20 играчи, залогът е 2000 точки.
+- След въпроса **общите точки се разделят поравно** между всички, които са отговорили правилно.
+  - Пример: Ако 5 играчи са отговорили правилно, всеки от тях получава 400 точки.
+- Ако всички познаят, всеки получава един и същ (по-малък) дял. Ако само един играч е прав, той получава целия „пай“!
 
 ---
 
-For more about round settings and configuration, see [Round options](../editor/008-round-options.md).
+## ⚙️ Точкуване според времето
+
+- **Точкуването според времето може да бъде включено** (и е включено по подразбиране).
+- В такъв случай показаните точки са _максимумът_, който можеш да спечелиш за бърз и правилен отговор.
+- Твоят дял от „пая“ ще бъде коригиран според скоростта ти _и_ броя на другите правилни отговори.
+- За подробности виж [раздела за точкуване](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Съвети
+
+- **Насърчавай уникалните знания!** Колкото по-малко хора познаят, толкова по-голяма е наградата.
+- **Скоростта все още е важна**, ако точкуването според времето е включено, но споделянето на „пая“ означава, че искаш да си едновременно бърз и точен.
+- Работи добре за въпроси, при които има един ясен отговор, или за да награди играчи, които мислят нестандартно.
+
+---
+
+За повече за настройките и конфигурацията на рунда виж [Опции на рунда](../editor/008-round-options.md).
