@@ -1,33 +1,33 @@
 ---
 id: question-types
-title: Question types
+title: Tipi di domanda
 ---
 
-# Question types
+# Tipi di domanda
 
-QuizWitz supports different question types. Each type has its own rules and gameplay mechanics.
-We suggest using a mix of different types to keep the game interesting and engaging.
+QuizWitz supporta diversi tipi di domanda. Ogni tipo ha le sue regole e le sue meccaniche di gioco.
+Ti consigliamo di usare un mix di tipi diversi per mantenere il gioco interessante e coinvolgente.
 
-Note that some round types limit the question types you can use.
+Nota che alcuni tipi di round limitano i tipi di domanda che puoi usare.
 
-## Regular question types
+## Tipi di domanda normali
 
-These are the most common question types. They are easy to understand and play.
+Questi sono i tipi di domanda più comuni. Sono facili da capire e da giocare.
 
-- [Multiple choice](001-multiple-choice.md) (default)
-- [Order question](003-order-question.md)
-- [Image map question](004-image-map.md)
+- [Scelta multipla](001-multiple-choice.md) (predefinito)
+- [Domanda di ordinamento](003-order-question.md)
+- [Domanda con mappa immagine](004-image-map.md)
 
-## Open questions
+## Domande aperte
 
-Open questions require players to type in their answers.
+Le domande aperte richiedono ai giocatori di digitare le loro risposte.
 
-- [Open question](002-open-question.md)
-- [List question](005-list-question.md)
+- [Domanda aperta](002-open-question.md)
+- [Domanda elenco](005-list-question.md)
 
-## Specials
+## Speciali
 
-These questions make the game slightly less fair, but they help to make sure there is always a winner.
+Queste domande rendono il gioco un po' meno equo, ma aiutano a fare in modo che ci sia sempre un vincitore.
 
-- [Tiebreaker question](006-tiebreaker-question.md)
-- [Best answer question](007-best-answer-question.md)
+- [Domanda spareggio](006-tiebreaker-question.md)
+- [Domanda sulla risposta migliore](007-best-answer-question.md)
