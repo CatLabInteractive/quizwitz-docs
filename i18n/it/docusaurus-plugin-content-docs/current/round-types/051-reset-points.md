@@ -1,24 +1,24 @@
 ---
 id: reset-points
-title: Reset Points
+title: Azzera punti
 ---
 
-# 🔄 Reset points
+# 🔄 Azzera punti
 
-**Reset points** is a special event (not a question round) that sets the score of all players or teams back to zero.  
-This can be used to level the playing field, add suspense, or introduce new phases in your quiz.
-
----
-
-## 📝 How it works
-
-- When triggered, the event **instantly sets the score of every player or team to 0**.
-- This applies to all participants, regardless of previous ranking or performance.
+**Azzera punti** è un evento speciale (non un round di domande) che riporta a zero il punteggio di tutti i giocatori o team.  
+Puoi usarlo per livellare il campo di gioco, aggiungere suspense o introdurre nuove fasi nel tuo quiz.
 
 ---
 
-> Use **Reset points** to create dramatic restarts, new game phases, or to give everyone a fair shot at a big final round!
+## 📝 Come funziona
+
+- Quando viene attivato, l'evento **imposta istantaneamente a 0 il punteggio di ogni giocatore o team**.
+- Si applica a tutti i partecipanti, indipendentemente dalla posizione in classifica o dalle prestazioni precedenti.
 
 ---
 
-For more ways to shape your game flow, see [Round options](../editor/008-round-options.md).
+> Usa **Azzera punti** per creare ripartenze spettacolari, nuove fasi di gioco o per dare a tutti una possibilità equa in un grande round finale!
+
+---
+
+Per scoprire altri modi per definire il flusso di gioco, consulta [Opzioni round](../editor/008-round-options.md).
