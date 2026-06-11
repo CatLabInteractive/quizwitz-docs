@@ -1,62 +1,62 @@
 ---
 id: list-question
-title: List question
+title: Otázka se seznamem
 ---
 
-# 📝 List question
+# 📝 Otázka se seznamem
 
-A **List question** asks players to provide several correct answers from a larger list — perfect for prompts like “List the first 5 presidents of the United States of America” or “Name three elements in the periodic table.”
-
----
-
-![Example: List question with US presidents](/images/question-modes/list-question/list-question.png)
+U **otázky se seznamem** mají hráči uvést několik správných odpovědí z delšího seznamu — ideální pro zadání jako „Vyjmenujte prvních 5 prezidentů Spojených států amerických“ nebo „Jmenujte tři prvky periodické tabulky.“
 
 ---
 
-## 📝 How it works
-
-- **Question:** Clearly state what you want players to list.
-- **List items:** Enter all possible correct answers.
-  - Mark some as **‘Given’** to show as examples on screen; these do NOT need to be answered.
-  - Order does **not** matter — players can enter correct answers in any order.
-- **Player input:** Players must provide a set number of answers (e.g., between 1 and 5). Points are awarded for each correct answer they submit.
-- **Attachments:** Add images, audio, or video for context. Fill in attribution if publishing.
+![Příklad: Otázka se seznamem s prezidenty USA](/images/question-modes/list-question/list-question.png)
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Jak to funguje
 
-- **Minimum and maximum answers:** Define how many answers a player must give.
-- **Points per answer:** Points can be awarded for each correct answer, or only when the minimum number is met.
-- **Given options:** Use as in-question examples.
-- **Correction:**
-  - **Force automatic correction:** When enabled, QuizWitz automatically checks all answers (accepting small typos and variations). No jury needed.
-  - **Manual review:** When not enabled, each provided answer must be reviewed by the [jury app](../quizmaster/004-jury-app.md).
-
----
-
-## 🏆 Scoring
-
-- **Points per correct answer:** Players earn points for each correct answer.
-- **Time-based scoring** (if enabled):  
-  Follows the **open question rules** for fairness:
-  - The available points are split into blocks of time (not by the millisecond).  
-    For example: full points in the first block, 80% in the next, and so on.
-  - **Only 25%** of the points depend on speed.  
-    The other **75%** is fixed — so even slower typers get most of the points if they answer correctly.
-  - This reduces the penalty for typing speed and makes scoring fairer for everyone.
-
-For details, see [round scoring options](../editor/008-round-options.md#scoring).
+- **Otázka:** Jasně uveďte, co mají hráči vyjmenovat.
+- **Položky seznamu:** Zadejte všechny možné správné odpovědi.
+  - Některé označte jako **„Zadané“**, aby se na obrazovce zobrazily jako příklady; na ty se odpovídat NEMUSÍ.
+  - Na pořadí **nezáleží** — hráči mohou správné odpovědi zadat v libovolném pořadí.
+- **Vstup od hráče:** Hráči musí zadat určený počet odpovědí (např. mezi 1 a 5). Body se udělují za každou správnou odpověď, kterou odešlou.
+- **Přílohy:** Přidejte obrázky, zvuk nebo video pro kontext. Pokud otázku publikujete, vyplňte uvedení zdroje.
 
 ---
 
-## 💡 Tips for list questions
+## ⚙️ Rozšířená nastavení
 
-- **Be specific:** Clearly define valid answers.
-- **Show examples:** Use the ‘Given’ feature.
-- **List variants:** Include common spellings/variations.
-- **Reduce jury work:** Use automatic correction if possible.
+- **Minimum a maximum odpovědí:** Určete, kolik odpovědí musí hráč zadat.
+- **Body za odpověď:** Body lze udělit za každou správnou odpověď, nebo až po splnění minimálního počtu.
+- **Zadané možnosti:** Použijte je jako příklady přímo v otázce.
+- **Oprava:**
+  - **Vynutit automatickou opravu:** Když je zapnutá, QuizWitz automaticky zkontroluje všechny odpovědi (uznává drobné překlepy a varianty). Porota není potřeba.
+  - **Ruční kontrola:** Když není zapnutá, každou zadanou odpověď musí zkontrolovat [aplikace poroty](../quizmaster/004-jury-app.md).
 
 ---
 
-For more, see [Jury app documentation](../quizmaster/004-jury-app.md).
+## 🏆 Bodování
+
+- **Body za správnou odpověď:** Hráči získávají body za každou správnou odpověď.
+- **Bodování podle času** (pokud je zapnuté):  
+  Kvůli férovosti se řídí **pravidly pro otevřené otázky**:
+  - Dostupné body se rozdělí do časových bloků (ne po milisekundách).  
+    Například: plný počet bodů v prvním bloku, 80 % v dalším atd.
+  - Na rychlosti závisí **jen 25 %** bodů.  
+    Zbývajících **75 %** je pevných — takže i pomalejší písaři získají většinu bodů, pokud odpoví správně.
+  - Tím se snižuje postih za rychlost psaní a bodování je férovější pro všechny.
+
+Podrobnosti najdete v [možnostech bodování kola](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Tipy pro otázky se seznamem
+
+- **Buďte konkrétní:** Jasně určete, které odpovědi jsou platné.
+- **Ukažte příklady:** Použijte funkci „Zadané“.
+- **Uveďte varianty:** Zahrňte běžné pravopisy a varianty.
+- **Snižte práci poroty:** Pokud to jde, použijte automatickou opravu.
+
+---
+
+Více najdete v [dokumentaci aplikace poroty](../quizmaster/004-jury-app.md).
