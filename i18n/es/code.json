@@ -334,7 +334,7 @@
     "description": "Generic button label to start playing a game or quiz."
   },
   "Play any shared quiz on our platform with friends, family, colleagues, … Grab a smart device, connect via the web and show off how much you know!": {
-    "message": "Juega cualquier prueba compartida en nuestra plataforma con amigos, familiares, colegas, … Toma un dispositivo inteligente, conéctate a través de la web y muestra cuánto sabes!"
+    "message": "Juega cualquier quiz compartido en nuestra plataforma con amigos, familiares, colegas, … Toma un dispositivo inteligente, conéctate a través de la web y muestra cuánto sabes!"
   },
   "Share": {
     "message": "Compartir",
@@ -344,7 +344,7 @@
     "message": "¡Recoge y comparte cuestionarios de todo el mundo, o comparte tus propios cuestionarios! Conéctate con otros cuestionarios aficionados."
   },
   "Your guide to creating, hosting, and mastering QuizWitz.": {
-    "message": "Tu guía para crear, alojar y dominar la prueba Witz."
+    "message": "Tu guía para crear, alojar y dominar QuizWitz."
   },
   "Getting started": {
     "message": "Comenzando"
