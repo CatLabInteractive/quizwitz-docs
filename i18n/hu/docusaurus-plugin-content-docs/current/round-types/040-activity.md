@@ -1,64 +1,64 @@
 ---
 id: activity
-title: Activity
+title: Aktivitás
 ---
 
-# 🎭 Activity
+# 🎭 Aktivitás
 
-An Activity round lets you step away from standard quiz questions for a creative or physical challenge. The quizmaster describes an activity or duel, selects teams to compete, and awards points based on performance.
-
----
-
-![Main screen for Activity round](/images/round-modes/activity-main-screen.png)
+Egy Aktivitás körben elszakadhatsz a hagyományos kvízkérdésektől, és kreatív vagy fizikai kihívást adhatsz a résztvevőknek. A quizmaster leírja az aktivitást vagy párbajt, kiválasztja a versenyző csapatokat, majd a teljesítmény alapján pontokat oszt ki.
 
 ---
 
-## 🏆 How it works
+![Az Aktivitás kör főképernyője](/images/round-modes/activity-main-screen.png)
 
-- **Challenge Description:** The round begins with a description of the activity (e.g., "Fold a paper plane and throw it as far as possible, furthest wins!").
-- **Team/Player Selection:** The quizmaster selects which teams or players will participate in the activity.
-  - **Random selection ensures every team is drawn an equal number of times throughout the quiz.** So if you have 40 teams and 10 activity rounds with 4 teams each, every team will be selected exactly once.
-- **Timer & Tools:** Start a timer and use sound effects (like buzzer or bells) to manage the challenge.
-- **Award Points:** After the activity, the quizmaster enters the results and awards points to the winning team(s).
+---
+
+## 🏆 Így működik
+
+- **Kihívás leírása:** A kör az aktivitás leírásával kezdődik (pl. „Hajtogass papírrepülőt, és dobd el minél messzebbre; akié a legtávolabb repül, az nyer!”).
+- **Csapat/játékos kiválasztása:** A quizmaster kiválasztja, mely csapatok vagy játékosok vesznek részt az aktivitásban.
+  - **A véletlenszerű kiválasztás biztosítja, hogy a kvíz során minden csapat ugyanannyiszor kerüljön sorra.** Tehát ha 40 csapatod van és 10 aktivitásköröd, körönként 4 csapattal, akkor minden csapat pontosan egyszer lesz kiválasztva.
+- **Időzítő és eszközök:** Indíts időzítőt, és használj hangeffekteket (például csengőt vagy gongot) a kihívás levezényléséhez.
+- **Pontok kiosztása:** Az activity után a quizmaster beírja az eredményeket, és pontokat ad a győztes csapat(ok)nak.
 
 <table><tbody><tr><td markdown>
-![Team selection for Activity round](/images/round-modes/activity-team-selection.png)
+![Csapatválasztás az Aktivitás körhöz](/images/round-modes/activity-team-selection.png)
 </td><td markdown>
-![Activity round tools](/images/round-modes/activity-tools.png)
+![Aktivitás kör eszközei](/images/round-modes/activity-tools.png)
 </td></tr></tbody></table>
 
 ---
 
-## 🛠️ Tools & Controls
+## 🛠️ Eszközök és vezérlők
 
-- **Duel tools:** The quizmaster can access quick actions for buzzer, gong, bells, and timers during the activity.
-- **Custom Points:** Points can be entered manually for each team, or you can select a winner with quick action buttons.
-- **Attachments:** Add images, audio, or video to explain the activity or show examples. The quizmaster can display these on the main screen during the activity.
+- **Párbaj eszközök:** A quizmaster gyorsműveleteket érhet el az aktivitás közben, például csengőt, gongot, harangokat és időzítőket.
+- **Egyéni pontok:** A pontokat kézzel is beírhatod minden csapatnak, vagy gyorsművelet-gombokkal kiválaszthatod a nyertest.
+- **Mellékletek:** Adj hozzá képeket, hangot vagy videót az aktivitás elmagyarázásához vagy példák bemutatásához. A quizmaster ezeket az aktivitás közben megjelenítheti a főképernyőn.
 
 ---
 
-## 🏅 Deciding the Winner
+## 🏅 A győztes eldöntése
 
-- **Winner Selection:** Choose the winner(s) or divide points among several teams.
-- **Player Vote:** Let players vote for the winner if you like.
-- **Award Points:** Points can be divided or awarded as you see fit.
+- **Győztes kiválasztása:** Válaszd ki a győztes(eke)t, vagy oszd szét a pontokat több csapat között.
+- **Játékosszavazás:** Ha szeretnéd, hagyd, hogy a játékosok szavazzanak a győztesre.
+- **Pontok kiosztása:** A pontokat feloszthatod vagy kioszthatod úgy, ahogy jónak látod.
 
 <table><tbody><tr><td markdown>
-![Winner selection screen](/images/round-modes/activity-winner-selection.png)
+![Győztes kiválasztása képernyő](/images/round-modes/activity-winner-selection.png)
 </td><td markdown>
-![Custom points entry](/images/round-modes/activity-custom-points.png)
+![Egyéni pontok megadása](/images/round-modes/activity-custom-points.png)
 </td></tr></tbody></table>
 
 ---
 
-## 💡 Tips
+## 💡 Tippek
 
-- **Make it memorable:** Activities work best when they're fun for everyone to watch or participate in.
-- **Make it fair:** Ensure the activity can be judged objectively, or use a voting system to decide the winner.
-- **Be clear:** Announce the rules and expectations before starting.
-- **Energize your event:** Use activity rounds to keep things lively and engaging.
-- **Encourage creativity:** Let teams come up with their own strategies or approaches to the activity.
+- **Legyen emlékezetes:** Az aktivitások akkor működnek a legjobban, ha mindenkinek jó móka nézni vagy részt venni bennük.
+- **Legyen igazságos:** Gondoskodj róla, hogy az aktivitás objektíven értékelhető legyen, vagy használj szavazási rendszert a győztes eldöntésére.
+- **Legyen egyértelmű:** Kezdés előtt mondd el a szabályokat és az elvárásokat.
+- **Pörgesd fel az eseményed:** Használj aktivitásköröket, hogy a hangulat élénk és izgalmas maradjon.
+- **Bátorítsd a kreativitást:** Hagyd, hogy a csapatok saját stratégiákat vagy megközelítéseket találjanak ki az aktivitáshoz.
 
 ---
 
-The Activity round is perfect for interactive challenges, duels, or creative tasks — a great way to add energy and variety to your QuizWitz event!
+Az Aktivitás kör tökéletes interaktív kihívásokhoz, párbajokhoz vagy kreatív feladatokhoz — remek módja annak, hogy energiát és változatosságot vigyél a QuizWitz eseményedbe!
