@@ -1,30 +1,30 @@
 ---
 id: best-answer-question
-title: Best answer question
+title: Domanda con risposta migliore
 ---
 
-# 🎖️ Best answer question
+# 🎖️ Domanda con risposta migliore
 
-In the **Best answer question** type, players write their own answers to an open-ended question.  
-Points are awarded either manually by the quizmaster, or—if there is no quizmaster—by having players vote for their favorite response.
-
----
-
-## 📝 How it works
-
-- **Players answer:** Each player types their response to the open question.
-- **Scoring:**
-  - In **QuizWitz Live** (with a quizmaster), the host reviews all answers and assigns points to the best one(s).
-  - In regular games (no host), players vote for the answer they think is best. The answer(s) with the most votes get the points.
+Nel tipo **Domanda con risposta migliore**, i giocatori scrivono le proprie risposte a una domanda aperta.  
+I punti vengono assegnati manualmente dal quizmaster oppure, se non c'è un quizmaster, facendo votare i giocatori per la loro risposta preferita.
 
 ---
 
-## 💡 Tips for best answer questions
+## 📝 Come funziona
 
-- Use creative, open-ended questions that invite original or funny responses.
-- For in-person or hosted quizzes, the quizmaster can award points for creativity, accuracy, or humor.
-- In self-hosted games, voting encourages players to read each other's answers and adds a fun social element.
+- **I giocatori rispondono:** Ogni giocatore scrive la propria risposta alla domanda aperta.
+- **Punteggio:**
+  - In **QuizWitz Live** (con un quizmaster), il conduttore esamina tutte le risposte e assegna punti alla/e migliore/i.
+  - Nelle partite normali (senza conduttore), i giocatori votano la risposta che ritengono migliore. La/e risposta/e con più voti ottiene/ottengono i punti.
 
 ---
 
-> 📚 For more on how voting or manual scoring works, see the [Jury app documentation](../quizmaster/004-jury-app.md).
+## 💡 Consigli per le domande con risposta migliore
+
+- Usa domande creative e aperte che invitino a dare risposte originali o divertenti.
+- Per quiz dal vivo o con conduttore, il quizmaster può assegnare punti per creatività, precisione o umorismo.
+- Nelle partite autogestite, il voto incoraggia i giocatori a leggere le risposte degli altri e aggiunge un divertente elemento sociale.
+
+---
+
+> 📚 Per saperne di più su come funzionano il voto o il punteggio manuale, consulta la [documentazione dell'app Giuria](../quizmaster/004-jury-app.md).
