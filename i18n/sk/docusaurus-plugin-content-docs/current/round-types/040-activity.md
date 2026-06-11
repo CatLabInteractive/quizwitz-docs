@@ -1,64 +1,64 @@
 ---
 id: activity
-title: Activity
+title: Aktivita
 ---
 
-# 🎭 Activity
+# 🎭 Aktivita
 
-An Activity round lets you step away from standard quiz questions for a creative or physical challenge. The quizmaster describes an activity or duel, selects teams to compete, and awards points based on performance.
-
----
-
-![Main screen for Activity round](/images/round-modes/activity-main-screen.png)
+Kolo Aktivita ťa nechá na chvíľu odísť od štandardných kvízových otázok a pustiť sa do kreatívnej alebo pohybovej výzvy. Quizmaster opíše aktivitu alebo duel, vyberie tímy, ktoré budú súťažiť, a udelí body podľa výkonu.
 
 ---
 
-## 🏆 How it works
+![Hlavná obrazovka kola Aktivita](/images/round-modes/activity-main-screen.png)
 
-- **Challenge Description:** The round begins with a description of the activity (e.g., "Fold a paper plane and throw it as far as possible, furthest wins!").
-- **Team/Player Selection:** The quizmaster selects which teams or players will participate in the activity.
-  - **Random selection ensures every team is drawn an equal number of times throughout the quiz.** So if you have 40 teams and 10 activity rounds with 4 teams each, every team will be selected exactly once.
-- **Timer & Tools:** Start a timer and use sound effects (like buzzer or bells) to manage the challenge.
-- **Award Points:** After the activity, the quizmaster enters the results and awards points to the winning team(s).
+---
+
+## 🏆 Ako to funguje
+
+- **Opis výzvy:** Kolo sa začína opisom aktivity (napr. „Zlož papierové lietadlo a hoď ho čo najďalej, vyhráva najvzdialenejší hod!“).
+- **Výber tímu/hráča:** quizmaster vyberie, ktoré tímy alebo hráči sa zúčastnia aktivity.
+  - **Náhodný výber zabezpečí, že každý tím bude počas kvízu vyžrebovaný rovnaký početkrát.** Takže ak máš 40 tímov a 10 kôl aktivity so 4 tímami v každom, každý tím bude vybraný presne raz.
+- **Časovač a nástroje:** Spusti časovač a použi zvukové efekty (napríklad bzučiak alebo zvončeky) na riadenie výzvy.
+- **Udeľovanie bodov:** Po aktivite quizmaster zadá výsledky a udelí body víťaznému tímu/tímom.
 
 <table><tbody><tr><td markdown>
-![Team selection for Activity round](/images/round-modes/activity-team-selection.png)
+![Výber tímu pre kolo Aktivita](/images/round-modes/activity-team-selection.png)
 </td><td markdown>
-![Activity round tools](/images/round-modes/activity-tools.png)
+![Nástroje kola Aktivita](/images/round-modes/activity-tools.png)
 </td></tr></tbody></table>
 
 ---
 
-## 🛠️ Tools & Controls
+## 🛠️ Nástroje a ovládanie
 
-- **Duel tools:** The quizmaster can access quick actions for buzzer, gong, bells, and timers during the activity.
-- **Custom Points:** Points can be entered manually for each team, or you can select a winner with quick action buttons.
-- **Attachments:** Add images, audio, or video to explain the activity or show examples. The quizmaster can display these on the main screen during the activity.
+- **Nástroje duelu:** quizmaster má počas aktivity prístup k rýchlym akciám pre bzučiak, gong, zvončeky a časovače.
+- **Vlastné body:** Body môžeš zadať manuálne pre každý tím alebo môžeš vybrať víťaza pomocou tlačidiel rýchlej akcie.
+- **Prílohy:** Pridaj obrázky, zvuk alebo video na vysvetlenie aktivity alebo ukázanie príkladov. Quizmaster ich môže počas aktivity zobraziť na hlavnej obrazovke.
 
 ---
 
-## 🏅 Deciding the Winner
+## 🏅 Určenie víťaza
 
-- **Winner Selection:** Choose the winner(s) or divide points among several teams.
-- **Player Vote:** Let players vote for the winner if you like.
-- **Award Points:** Points can be divided or awarded as you see fit.
+- **Výber víťaza:** Vyber víťaza/víťazov alebo rozdeľ body medzi viacero tímov.
+- **Hlasovanie hráčov:** Ak chceš, nechaj hráčov hlasovať za víťaza.
+- **Udeľovanie bodov:** Body môžeš rozdeliť alebo udeliť tak, ako uznáš za vhodné.
 
 <table><tbody><tr><td markdown>
-![Winner selection screen](/images/round-modes/activity-winner-selection.png)
+![Obrazovka výberu víťaza](/images/round-modes/activity-winner-selection.png)
 </td><td markdown>
-![Custom points entry](/images/round-modes/activity-custom-points.png)
+![Zadanie vlastných bodov](/images/round-modes/activity-custom-points.png)
 </td></tr></tbody></table>
 
 ---
 
-## 💡 Tips
+## 💡 Tipy
 
-- **Make it memorable:** Activities work best when they're fun for everyone to watch or participate in.
-- **Make it fair:** Ensure the activity can be judged objectively, or use a voting system to decide the winner.
-- **Be clear:** Announce the rules and expectations before starting.
-- **Energize your event:** Use activity rounds to keep things lively and engaging.
-- **Encourage creativity:** Let teams come up with their own strategies or approaches to the activity.
+- **Nech je to nezabudnuteľné:** Aktivity fungujú najlepšie, keď je zábava ich sledovať alebo sa do nich zapojiť pre každého.
+- **Nech je to férové:** Uisti sa, že aktivita sa dá objektívne posúdiť, alebo použi hlasovací systém na určenie víťaza.
+- **Buď jasný:** Oznám pravidlá a očakávania ešte pred začiatkom.
+- **Rozprúď svoju akciu:** Použi kolá aktivity, aby to zostalo živé a pútavé.
+- **Podpor kreativitu:** Nechaj tímy vymyslieť si vlastné stratégie alebo prístupy k aktivite.
 
 ---
 
-The Activity round is perfect for interactive challenges, duels, or creative tasks — a great way to add energy and variety to your QuizWitz event!
+Kolo Aktivita je ideálne na interaktívne výzvy, duely alebo kreatívne úlohy — skvelý spôsob, ako dodať tvojej QuizWitz akcii energiu a rozmanitosť!

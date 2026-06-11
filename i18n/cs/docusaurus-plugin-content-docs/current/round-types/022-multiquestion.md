@@ -1,42 +1,42 @@
 ---
 id: multiquestion
-title: Multiquestion
+title: Víceotázek
 ---
 
-# ❓ Multiquestion
+# ❓ Víceotázek
 
-The **Multiquestion** round gives players (or teams) the freedom to pick which question they want to answer from a set of possibilities. This makes each playthrough unique and allows for strategic choices!
-
----
-
-## 📝 How it works
-
-- For each "question group," several alternative questions are presented.
-- **Each player (or team) selects one question** from the available options to answer.
-- Every question can have its own point value, difficulty, or type (multiple choice, open, etc.).
-- Players only answer the question they picked; the rest are skipped for them.
+Kolo **Víceotázek** dává hráčům (nebo týmům) svobodu vybrat si, na kterou otázku chtějí odpovědět, ze sady možností. Díky tomu je každé hraní jedinečné a umožňuje strategická rozhodnutí!
 
 ---
 
-## 🛠️ Editor setup
+## 📝 Jak to funguje
 
-- In the quiz editor, create **Question groups**. Each group contains all the alternative questions for that turn.
-- For each question in the group, set the **Label** field. This label is shown to players as the “title” or hint for their choice.
-  - Labels can be cryptic (“A, B, C”), themed (“Animals”, “History”), or descriptive (“Easy MC”, “Hard open”).
-- You can mix and match question types and point values within the same group.
-- **Duration:** Even though you can set a different timer multiplier per question, the game uses the highest value for all questions in the group (so nobody is rushed).
-- **Attachments:**
-  - _Before question_ attachments from all options are combined into one view before players make their choice.
-  - _During question_ visible attachments are not shown, but audio still plays.
+- Pro každou „skupinu otázek“ se zobrazí několik alternativních otázek.
+- **Každý hráč (nebo tým) si vybere jednu otázku** z dostupných možností, na kterou odpoví.
+- Každá otázka může mít vlastní bodovou hodnotu, obtížnost nebo typ (výběr z možností, otevřená atd.).
+- Hráči odpovídají jen na otázku, kterou si vybrali; zbytek se pro ně přeskočí.
 
 ---
 
-## 💡 Tips
+## 🛠️ Nastavení v editoru
 
-- Offer a mix of easy and hard questions for more strategy.
-- Use labels creatively—mystery or fun themes can boost engagement.
-- Reward risk-takers with higher point questions.
+- V editoru kvízu vytvoř **Skupiny otázek**. Každá skupina obsahuje všechny alternativní otázky pro daný tah.
+- U každé otázky ve skupině nastav pole **Štítek**. Tento štítek se hráčům zobrazí jako „název“ nebo nápověda pro jejich volbu.
+  - Štítky můžou být tajemné („A, B, C“), tematické („Zvířata“, „Historie“) nebo popisné („Lehká s výběrem“, „Těžká otevřená“).
+- V rámci stejné skupiny můžeš libovolně kombinovat typy otázek a bodové hodnoty.
+- **Doba trvání:** I když můžeš pro každou otázku nastavit jiný násobitel časovače, hra použije nejvyšší hodnotu pro všechny otázky ve skupině (aby nikdo nebyl ve stresu).
+- **Přílohy:**
+  - Přílohy _před otázkou_ ze všech možností se sloučí do jednoho zobrazení, než si hráči vyberou.
+  - Viditelné přílohy _během otázky_ se nezobrazují, ale zvuk se pořád přehrává.
 
 ---
 
-For more on configuring questions and using attachments, see [writing questions](../editor/005-writing-questions.md) and [attachments documentation](../editor/006-attachments.md).
+## 💡 Tipy
+
+- Nabídni kombinaci lehkých a těžkých otázek pro víc strategie.
+- Používej štítky kreativně – tajemné nebo zábavné motivy můžou zvýšit zapojení.
+- Odměň hráče, kteří rádi riskují, otázkami s vyšším počtem bodů.
+
+---
+
+Více o nastavování otázek a používání příloh najdeš v části [psaní otázek](../editor/005-writing-questions.md) a v [dokumentaci k přílohám](../editor/006-attachments.md).

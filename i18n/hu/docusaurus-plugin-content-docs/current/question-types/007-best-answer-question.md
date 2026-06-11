@@ -1,30 +1,30 @@
 ---
 id: best-answer-question
-title: Best answer question
+title: Legjobb válasz kérdés
 ---
 
-# 🎖️ Best answer question
+# 🎖️ Legjobb válasz kérdés
 
-In the **Best answer question** type, players write their own answers to an open-ended question.  
-Points are awarded either manually by the quizmaster, or—if there is no quizmaster—by having players vote for their favorite response.
-
----
-
-## 📝 How it works
-
-- **Players answer:** Each player types their response to the open question.
-- **Scoring:**
-  - In **QuizWitz Live** (with a quizmaster), the host reviews all answers and assigns points to the best one(s).
-  - In regular games (no host), players vote for the answer they think is best. The answer(s) with the most votes get the points.
+A **Legjobb válasz kérdés** típusnál a játékosok saját válaszokat írnak egy nyitott kérdésre.  
+A pontokat vagy manuálisan a quizmaster osztja ki, vagy – ha nincs quizmaster – a játékosok szavaznak a kedvenc válaszukra.
 
 ---
 
-## 💡 Tips for best answer questions
+## 📝 Hogyan működik
 
-- Use creative, open-ended questions that invite original or funny responses.
-- For in-person or hosted quizzes, the quizmaster can award points for creativity, accuracy, or humor.
-- In self-hosted games, voting encourages players to read each other's answers and adds a fun social element.
+- **A játékosok válaszolnak:** Minden játékos beírja a válaszát a nyitott kérdésre.
+- **Pontozás:**
+  - A **QuizWitz Live** játékban (quizmasterrel) a házigazda átnézi az összes választ, és pontokat ad a legjobb(ak)nak.
+  - A hagyományos játékokban (házigazda nélkül) a játékosok arra a válaszra szavaznak, amelyet a legjobbnak tartanak. A legtöbb szavazatot kapó válasz(ok) kapják a pontokat.
 
 ---
 
-> 📚 For more on how voting or manual scoring works, see the [Jury app documentation](../quizmaster/004-jury-app.md).
+## 💡 Tippek a legjobb válasz kérdésekhez
+
+- Használj kreatív, nyitott kérdéseket, amelyek eredeti vagy vicces válaszokra ösztönöznek.
+- Személyes vagy házigazdával vezetett kvízeknél a quizmaster pontokat adhat kreativitásért, pontosságért vagy humorért.
+- Az önállóan vezetett játékokban a szavazás arra ösztönzi a játékosokat, hogy elolvassák egymás válaszait, és egy szórakoztató közösségi elemet is hozzáad.
+
+---
+
+> 📚 Ha többet szeretnél megtudni arról, hogyan működik a szavazás vagy a manuális pontozás, nézd meg a [Jury app dokumentációját](../quizmaster/004-jury-app.md).

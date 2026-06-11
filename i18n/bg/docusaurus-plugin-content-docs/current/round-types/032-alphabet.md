@@ -1,41 +1,41 @@
 ---
 id: alphabet
-title: Alphabet
+title: Азбука
 ---
 
-# 🔤 Alphabet
+# 🔤 Азбука
 
-An **Alphabet** round is a [Traditional round](030-traditional.md) with a twist—each question is assigned a unique label,
-and players must match their answers to the correct labeled fields. This round rewards both knowledge and deduction!
-
----
-
-![Screenshot of an alphabet round while playing](/images/round-modes/alphabet-answer-screen.png)
+Рунд **Азбука** е [Традиционен рунд](030-traditional.md) с обрат — на всеки въпрос се задава уникален етикет,
+а играчите трябва да съпоставят отговорите си с правилните полета с етикети. Този рунд награждава както знанията, така и дедукцията!
 
 ---
 
-## 🏷️ Alphabet labels
-
-- Each question is assigned a unique **Label**. Traditionally, this is the **first letter of the answer**, but you can use any label you like (letters, numbers, or creative codes).
-- **All questions must be open questions** in this round type.
+![Екранна снимка на рунд с азбука по време на игра](/images/round-modes/alphabet-answer-screen.png)
 
 ---
 
-![Screenshot of an alphabet round in the quiz editor](/images/round-modes/alphabet-round.png)
+## 🏷️ Етикети за азбука
+
+- На всеки въпрос се задава уникален **етикет**. Традиционно това е **първата буква на отговора**, но можеш да използваш какъвто етикет си поискаш (букви, числа или креативни кодове).
+- **Всички въпроси трябва да са отворени въпроси** в този тип рунд.
 
 ---
 
-## 📝 How it works
-
-- As questions are asked, players see a list of answer fields — one for each question.
-- **The answer fields are not in quiz order** — instead, they’re sorted alphabetically by label.
-- Players must match their answers to the correct labeled fields (e.g. answer for question "Bear" must be entered under label "B").
-- Answers can be changed at any time until the round finishes — players can switch answers between fields as they realize their mistakes.
+![Екранна снимка на рунд с азбука в редактора на quiz](/images/round-modes/alphabet-round.png)
 
 ---
 
-> This round is especially fun and challenging, as it requires both knowledge and the ability to deduce which answer fits which label. Perfect for seasoned quizzers and creative rounds!
+## 📝 Как работи
+
+- Докато се задават въпросите, играчите виждат списък с полета за отговори — по едно за всеки въпрос.
+- **Полетата за отговори не са в реда на quiz** — вместо това са сортирани по азбучен ред според етикета.
+- Играчите трябва да съпоставят отговорите си с правилните полета с етикети (напр. отговорът за въпрос "Bear" трябва да се въведе под етикет "B").
+- Отговорите могат да се променят по всяко време, докато рундът приключи — играчите могат да разменят отговори между полетата, когато осъзнаят грешките си.
 
 ---
 
-For shared configuration details, see [Traditional round](030-traditional.md) and [Round options](../editor/008-round-options.md).
+> Този рунд е особено забавен и предизвикателен, защото изисква както знания, така и способността да се досетиш кой отговор към кой етикет пасва. Перфектен за опитни quiz играчи и креативни рундове!
+
+---
+
+За подробности за споделената конфигурация виж [Традиционен рунд](030-traditional.md) и [Опции за рунд](../editor/008-round-options.md).

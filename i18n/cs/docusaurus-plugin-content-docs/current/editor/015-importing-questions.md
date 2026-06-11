@@ -1,71 +1,71 @@
 ---
 id: import-questions
-title: Import questions
+title: Import otázek
 ---
 
-# 📥 Import questions
+# 📥 Import otázek
 
-There are two ways to quickly add questions to a round in QuizWitz:
+V QuizWitz můžeš rychle přidat otázky do kola dvěma způsoby:
 
-- Import existing content from the **QuizWitz Library**
-- Paste a list of questions from a **spreadsheet**
+- Importovat existující obsah z **knihovny QuizWitz**
+- Vložit seznam otázek z **tabulky**
 
-Both options are accessible from within any round.
-
----
-
-## 📚 Import from the QuizWitz Library
-
-Use the **QuizWitz Library** tab to search and import questions, rounds, or quizzes created by yourself or other creators.
-
-1. Open the round where you want to import content
-2. Click the **QuizWitz Library** tab
-3. Use filters like language, collection, type, category, or tags
-4. Select one or more entries
-5. Click **Add X items** to insert the selected content into your quiz
-
-![QuizWitz Library](/images/import/import-from-quizwitz.png)
-
-> ✅ Use this method to reuse high-quality content or combine multiple public Round-Abouts into a larger quiz.
+Obě možnosti jsou dostupné přímo v libovolném kole.
 
 ---
 
-## 📋 Import from a spreadsheet
+## 📚 Import z knihovny QuizWitz
 
-To quickly create many questions at once, use the **Import from spreadsheet** tab.
+Na kartě **knihovna QuizWitz** můžeš vyhledávat a importovat otázky, kola nebo kvízy vytvořené tebou nebo jinými tvůrci.
 
-1. Open a round
-2. Click the **Import from spreadsheet** tab
-3. Paste rows of **tab-separated** values (copied from Excel, Google Sheets, etc.)
-4. Click **Import questions**
+1. Otevři kolo, do kterého chceš importovat obsah
+2. Klikni na kartu **knihovna QuizWitz**
+3. Použij filtry jako jazyk, kolekce, typ, kategorie nebo štítky
+4. Vyber jednu nebo více položek
+5. Kliknutím na **Přidat X položek** vložíš vybraný obsah do svého kvízu
 
-![Import from spreadsheet](/images/import/import-from-spreadsheet.png)
+![Knihovna QuizWitz](/images/import/import-from-quizwitz.png)
 
----
-
-### 🗂️ Format for pasting
-
-Each row must contain the following columns in this exact order:
-
-1. **Short question** — Displayed on the player screen
-2. **Correct answer**
-3. **Wrong answer 1** (leave blank for open questions)
-4. **Wrong answer 2**
-5. **Wrong answer 3**
-6. **Short feedback** — Displayed on the player screen after answering
-7. **Long question** _(optional)_ — Displayed on the quizmaster screen
-8. **Long feedback** _(optional)_ — Explanation for the quizmaster to read aloud
-
-> 📌 The last two columns are only used in [QuizWitz Live](../quizmaster/001-introduction.md), but they must still be included (even if left empty).
+> ✅ Tuto metodu použij k opětovnému využití kvalitního obsahu nebo ke spojení více veřejných Round-Abouts do většího kvízu.
 
 ---
 
-## ✅ After importing
+## 📋 Import z tabulky
 
-Whether importing from the library or a spreadsheet:
+Pokud chceš rychle vytvořit mnoho otázek najednou, použij kartu **Import z tabulky**.
 
-- Review your questions for formatting and clarity
-- Update any metadata like category, round type, or attachments
-- Don’t forget to **save your quiz**
+1. Otevři kolo
+2. Klikni na kartu **Import z tabulky**
+3. Vlož řádky s hodnotami **oddělenými tabulátorem** (zkopírované z Excelu, Tabulek Google apod.)
+4. Klikni na **Import otázek**
 
-📘 Want to enhance your questions further? Continue in the [Writing questions guide](../editor/005-writing-questions.md).
+![Import z tabulky](/images/import/import-from-spreadsheet.png)
+
+---
+
+### 🗂️ Formát pro vložení
+
+Každý řádek musí obsahovat následující sloupce přesně v tomto pořadí:
+
+1. **Krátká otázka** — Zobrazí se na obrazovce hráče
+2. **Správná odpověď**
+3. **Špatná odpověď 1** (u otevřených otázek nech prázdné)
+4. **Špatná odpověď 2**
+5. **Špatná odpověď 3**
+6. **Krátká zpětná vazba** — Zobrazí se na obrazovce hráče po odpovědi
+7. **Dlouhá otázka** _(volitelné)_ — Zobrazí se na obrazovce quizmaster
+8. **Dlouhá zpětná vazba** _(volitelné)_ — Vysvětlení, které quizmaster přečte nahlas
+
+> 📌 Poslední dva sloupce se používají pouze v [QuizWitz Live](../quizmaster/001-introduction.md), ale i tak musí být zahrnuté (i když zůstanou prázdné).
+
+---
+
+## ✅ Po importu
+
+Ať už importuješ z knihovny, nebo z tabulky:
+
+- Zkontroluj formátování a srozumitelnost svých otázek
+- Aktualizuj případná metadata, jako je kategorie, typ kola nebo přílohy
+- Nezapomeň si **uložit kvíz**
+
+📘 Chceš své otázky ještě vylepšit? Pokračuj v [průvodci psaním otázek](../editor/005-writing-questions.md).

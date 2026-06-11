@@ -1,33 +1,33 @@
 ---
 id: question-types
-title: Question types
+title: Typy otázok
 ---
 
-# Question types
+# Typy otázok
 
-QuizWitz supports different question types. Each type has its own rules and gameplay mechanics.
-We suggest using a mix of different types to keep the game interesting and engaging.
+QuizWitz podporuje rôzne typy otázok. Každý typ má svoje vlastné pravidlá a herné mechaniky.
+Odporúčame použiť mix rôznych typov, aby hra zostala zaujímavá a pútavá.
 
-Note that some round types limit the question types you can use.
+Nezabudni, že niektoré typy kôl obmedzujú typy otázok, ktoré môžeš použiť.
 
-## Regular question types
+## Bežné typy otázok
 
-These are the most common question types. They are easy to understand and play.
+Toto sú najbežnejšie typy otázok. Sú ľahko pochopiteľné a ľahko sa hrajú.
 
-- [Multiple choice](001-multiple-choice.md) (default)
-- [Order question](003-order-question.md)
-- [Image map question](004-image-map.md)
+- [Výber z viacerých možností](001-multiple-choice.md) (predvolené)
+- [Otázka na zoradenie](003-order-question.md)
+- [Otázka s obrázkovou mapou](004-image-map.md)
 
-## Open questions
+## Otvorené otázky
 
-Open questions require players to type in their answers.
+Otvorené otázky vyžadujú, aby hráči napísali svoje odpovede.
 
-- [Open question](002-open-question.md)
-- [List question](005-list-question.md)
+- [Otvorená otázka](002-open-question.md)
+- [Otázka so zoznamom](005-list-question.md)
 
-## Specials
+## Špeciálne otázky
 
-These questions make the game slightly less fair, but they help to make sure there is always a winner.
+Tieto otázky robia hru o niečo menej férovou, ale pomáhajú zabezpečiť, aby bol vždy nejaký víťaz.
 
-- [Tiebreaker question](006-tiebreaker-question.md)
-- [Best answer question](007-best-answer-question.md)
+- [Rozhodujúca otázka](006-tiebreaker-question.md)
+- [Otázka na najlepšiu odpoveď](007-best-answer-question.md)

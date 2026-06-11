@@ -1,62 +1,62 @@
 ---
 id: list-question
-title: List question
+title: Felsorolós kérdés
 ---
 
-# 📝 List question
+# 📝 Felsorolós kérdés
 
-A **List question** asks players to provide several correct answers from a larger list — perfect for prompts like “List the first 5 presidents of the United States of America” or “Name three elements in the periodic table.”
-
----
-
-![Example: List question with US presidents](/images/question-modes/list-question/list-question.png)
+A **felsorolós kérdés** arra kéri a játékosokat, hogy több helyes választ adjanak meg egy nagyobb listából — tökéletes olyan feladatokhoz, mint például „Sorold fel az Amerikai Egyesült Államok első 5 elnökét” vagy „Nevezz meg három elemet a periódusos rendszerből.”
 
 ---
 
-## 📝 How it works
-
-- **Question:** Clearly state what you want players to list.
-- **List items:** Enter all possible correct answers.
-  - Mark some as **‘Given’** to show as examples on screen; these do NOT need to be answered.
-  - Order does **not** matter — players can enter correct answers in any order.
-- **Player input:** Players must provide a set number of answers (e.g., between 1 and 5). Points are awarded for each correct answer they submit.
-- **Attachments:** Add images, audio, or video for context. Fill in attribution if publishing.
+![Példa: felsorolós kérdés amerikai elnökökkel](/images/question-modes/list-question/list-question.png)
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Hogyan működik
 
-- **Minimum and maximum answers:** Define how many answers a player must give.
-- **Points per answer:** Points can be awarded for each correct answer, or only when the minimum number is met.
-- **Given options:** Use as in-question examples.
-- **Correction:**
-  - **Force automatic correction:** When enabled, QuizWitz automatically checks all answers (accepting small typos and variations). No jury needed.
-  - **Manual review:** When not enabled, each provided answer must be reviewed by the [jury app](../quizmaster/004-jury-app.md).
-
----
-
-## 🏆 Scoring
-
-- **Points per correct answer:** Players earn points for each correct answer.
-- **Time-based scoring** (if enabled):  
-  Follows the **open question rules** for fairness:
-  - The available points are split into blocks of time (not by the millisecond).  
-    For example: full points in the first block, 80% in the next, and so on.
-  - **Only 25%** of the points depend on speed.  
-    The other **75%** is fixed — so even slower typers get most of the points if they answer correctly.
-  - This reduces the penalty for typing speed and makes scoring fairer for everyone.
-
-For details, see [round scoring options](../editor/008-round-options.md#scoring).
+- **Kérdés:** Fogalmazd meg egyértelműen, mit szeretnél felsoroltatni a játékosokkal.
+- **Listaelemek:** Add meg az összes lehetséges helyes választ.
+  - Jelölj meg néhányat **„Megadottként”**, hogy példaként megjelenjenek a képernyőn; ezeket NEM kell megválaszolni.
+  - A sorrend **nem** számít — a játékosok bármilyen sorrendben megadhatják a helyes válaszokat.
+- **Játékosi bevitel:** A játékosoknak meghatározott számú választ kell adniuk (pl. 1 és 5 között). Minden beküldött helyes válaszért pont jár.
+- **Mellékletek:** Adj hozzá képeket, hangot vagy videót a kontextushoz. Ha közzéteszed, töltsd ki a forrásmegjelölést.
 
 ---
 
-## 💡 Tips for list questions
+## ⚙️ Kibővített beállítások
 
-- **Be specific:** Clearly define valid answers.
-- **Show examples:** Use the ‘Given’ feature.
-- **List variants:** Include common spellings/variations.
-- **Reduce jury work:** Use automatic correction if possible.
+- **Minimum és maximum válaszok:** Határozd meg, hány választ kell adnia egy játékosnak.
+- **Pontok válaszonként:** Pont adható minden helyes válaszért, vagy csak akkor, ha megvan a minimális szám.
+- **Megadott opciók:** Használd őket példaként a kérdésben.
+- **Javítás:**
+  - **Automatikus javítás kényszerítése:** Ha be van kapcsolva, a QuizWitz automatikusan ellenőrzi az összes választ (elfogadva a kisebb elgépeléseket és változatokat). Nincs szükség zsűrire.
+  - **Kézi ellenőrzés:** Ha nincs bekapcsolva, minden megadott választ ellenőrizni kell a [zsűri appban](../quizmaster/004-jury-app.md).
 
 ---
 
-For more, see [Jury app documentation](../quizmaster/004-jury-app.md).
+## 🏆 Pontozás
+
+- **Pontok helyes válaszonként:** A játékosok minden helyes válaszért pontot kapnak.
+- **Időalapú pontozás** (ha be van kapcsolva):  
+  A méltányosság érdekében a **nyílt kérdések szabályait** követi:
+  - Az elérhető pontok időblokkokra vannak felosztva (nem ezredmásodpercenként).  
+    Például: teljes pontszám az első blokkban, 80% a következőben, és így tovább.
+  - A pontoknak **csak 25%**-a függ a gyorsaságtól.  
+    A másik **75%** fix — így a lassabban gépelők is megkapják a pontok nagy részét, ha helyesen válaszolnak.
+  - Ez csökkenti a gépelési sebesség miatti hátrányt, és mindenki számára igazságosabbá teszi a pontozást.
+
+Részletekért lásd a [kör pontozási beállításait](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Tippek felsorolós kérdésekhez
+
+- **Légy konkrét:** Határozd meg egyértelműen, mely válaszok érvényesek.
+- **Mutass példákat:** Használd a „Megadott” funkciót.
+- **Sorolj fel változatokat:** Add meg a gyakori írásmódokat/változatokat.
+- **Csökkentsd a zsűri munkáját:** Használj automatikus javítást, ha lehetséges.
+
+---
+
+További infóért lásd a [zsűri app dokumentációját](../quizmaster/004-jury-app.md).

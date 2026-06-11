@@ -1,41 +1,41 @@
 ---
 id: alphabet
-title: Alphabet
+title: Abeceda
 ---
 
-# 🔤 Alphabet
+# 🔤 Abeceda
 
-An **Alphabet** round is a [Traditional round](030-traditional.md) with a twist—each question is assigned a unique label,
-and players must match their answers to the correct labeled fields. This round rewards both knowledge and deduction!
-
----
-
-![Screenshot of an alphabet round while playing](/images/round-modes/alphabet-answer-screen.png)
+Kolo **Abeceda** je [Tradičné kolo](030-traditional.md) s malým zvratom — každej otázke je priradené jedinečné označenie
+a hráči musia priradiť svoje odpovede k správnym označeným poliam. Toto kolo odmeňuje vedomosti aj dedukciu!
 
 ---
 
-## 🏷️ Alphabet labels
-
-- Each question is assigned a unique **Label**. Traditionally, this is the **first letter of the answer**, but you can use any label you like (letters, numbers, or creative codes).
-- **All questions must be open questions** in this round type.
+![Snímka obrazovky abecedného kola počas hrania](/images/round-modes/alphabet-answer-screen.png)
 
 ---
 
-![Screenshot of an alphabet round in the quiz editor](/images/round-modes/alphabet-round.png)
+## 🏷️ Abecedné označenia
+
+- Každej otázke je priradené jedinečné **označenie**. Tradične je to **prvé písmeno odpovede**, ale môžeš použiť akékoľvek označenie, ktoré sa ti páči (písmená, čísla alebo kreatívne kódy).
+- **V tomto type kola musia byť všetky otázky otvorené otázky**.
 
 ---
 
-## 📝 How it works
-
-- As questions are asked, players see a list of answer fields — one for each question.
-- **The answer fields are not in quiz order** — instead, they’re sorted alphabetically by label.
-- Players must match their answers to the correct labeled fields (e.g. answer for question "Bear" must be entered under label "B").
-- Answers can be changed at any time until the round finishes — players can switch answers between fields as they realize their mistakes.
+![Snímka obrazovky abecedného kola v editore kvízu](/images/round-modes/alphabet-round.png)
 
 ---
 
-> This round is especially fun and challenging, as it requires both knowledge and the ability to deduce which answer fits which label. Perfect for seasoned quizzers and creative rounds!
+## 📝 Ako to funguje
+
+- Keď sa otázky kladú, hráči vidia zoznam polí na odpovede — jedno pre každú otázku.
+- **Polia na odpovede nie sú v poradí kvízu** — namiesto toho sú zoradené abecedne podľa označenia.
+- Hráči musia priradiť svoje odpovede k správnym označeným poliam (napr. odpoveď na otázku "Medveď" musí byť zadaná pod označením "M").
+- Odpovede je možné meniť kedykoľvek, kým sa kolo neskončí — hráči môžu presúvať odpovede medzi poľami, keď si uvedomia svoje chyby.
 
 ---
 
-For shared configuration details, see [Traditional round](030-traditional.md) and [Round options](../editor/008-round-options.md).
+> Toto kolo je obzvlášť zábavné a náročné, pretože vyžaduje vedomosti aj schopnosť vydedukovať, ktorá odpoveď patrí ku ktorému označeniu. Ideálne pre skúsených hráčov kvízov a kreatívne kolá!
+
+---
+
+Podrobnosti o spoločnej konfigurácii nájdeš v častiach [Tradičné kolo](030-traditional.md) a [Možnosti kola](../editor/008-round-options.md).

@@ -1,54 +1,54 @@
 ---
 id: order-question
-title: Order question
+title: Въпрос за подреждане
 ---
 
-# 🔀 Order question
+# 🔀 Въпрос за подреждане
 
-In an **Order question**, players must put up to 4 items in the correct sequence.  
-This round type is great for chronological, ranking, or sequencing challenges.
-
----
-
-![Example: Order question about animals](/images/question-modes/order-question/order-question-example.png)
+При **въпрос за подреждане** играчите трябва да поставят до 4 елемента в правилната последователност.  
+Този тип рунд е страхотен за хронологични предизвикателства, класиране или подреждане в последователност.
 
 ---
 
-## 📝 How it works
-
-- **Question:** Clearly ask what order is required.  
-  _(Example: “Select the animals in the correct order from least to most legs.”)_
-- **Options:** Enter up to four items. You define the correct sequence.
-- **Player view:** Options are shown in random order. Players **select each item one by one** in the order they think is correct.
-- **Feedback:** After answering, players see the correct order and (optionally) any extra explanation you provide.
+![Пример: въпрос за подреждане за животни](/images/question-modes/order-question/order-question-example.png)
 
 ---
 
-## 🏆 Scoring
+## 📝 Как работи
 
-Order questions use **time-based scoring** by default:  
-Faster correct answers earn more points, but most of the points are fixed. Time only affects a portion of the score.  
-You can also turn off time-based scoring per question for fixed points only.
-
-See [Scoring options in round settings](../editor/008-round-options.md#scoring) for details.
-
----
-
-## ⚙️ Expanded settings
-
-Order questions offer flexible settings:
-
-- **Time limit:** Set how long players have to answer.
-- **Points:** Set how many points are awarded for a fully correct answer.
-
-See [writing questions](../editor/005-writing-questions.md) for more.
+- **Въпрос:** Попитай ясно какъв ред се изисква.  
+  _(Пример: „Избери животните в правилния ред — от най-малко към най-много крака.“)_
+- **Опции:** Въведи до четири елемента. Ти определяш правилната последователност.
+- **Изглед за играча:** Опциите се показват в произволен ред. Играчите **избират всеки елемент един по един** в реда, който смятат за правилен.
+- **Обратна връзка:** След като отговорят, играчите виждат правилния ред и (по желание) всяко допълнително обяснение, което си предоставил.
 
 ---
 
-## 💡 Tips for great order questions
+## 🏆 Точки
 
-- **Be specific:** State clearly how you want items ordered (e.g., least to most, oldest to newest).
-- **Choose distinct options:** Avoid items that are too similar or ambiguous.
-- **Explain the answer:** Use feedback to clarify the correct order after the question.
-- **Mix formats:** Try chronological, size-based, or ranking-based questions for variety.
+Въпросите за подреждане използват **оценяване според времето** по подразбиране:  
+По-бързите правилни отговори носят повече точки, но повечето точки са фиксирани. Времето влияе само на част от резултата.  
+Можеш също да изключиш оценяването според времето за отделен въпрос, така че да се дават само фиксирани точки.
+
+Виж [опции за оценяване в настройките на рунда](../editor/008-round-options.md#scoring) за подробности.
+
+---
+
+## ⚙️ Разширени настройки
+
+Въпросите за подреждане предлагат гъвкави настройки:
+
+- **Времеви лимит:** Задай колко време имат играчите, за да отговорят.
+- **Точки:** Задай колко точки се присъждат за напълно правилен отговор.
+
+Виж [писане на въпроси](../editor/005-writing-questions.md) за повече информация.
+
+---
+
+## 💡 Съвети за страхотни въпроси за подреждане
+
+- **Бъди конкретен:** Посочи ясно как искаш да бъдат подредени елементите (напр. от най-малко към най-много, от най-старо към най-ново).
+- **Избери ясно различими опции:** Избягвай елементи, които са твърде сходни или двусмислени.
+- **Обясни отговора:** Използвай обратната връзка, за да изясниш правилния ред след въпроса.
+- **Смесвай форматите:** Пробвай хронологични въпроси, въпроси по размер или по класиране за повече разнообразие.
 

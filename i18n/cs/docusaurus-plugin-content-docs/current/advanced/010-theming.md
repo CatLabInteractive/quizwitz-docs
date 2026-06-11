@@ -1,55 +1,55 @@
 ---
 id: theming
-title: "Theming"
+title: "Tvorba motivů"
 ---
 
-# Theming
+# Tvorba motivů
 
 :::warning
-While creating your own QuizWitz theme offers the most flexibility, it is a complex and time-consuming process. In most cases, you are much better off customizing our [Emerald theme](011-emerald-theme.md), which is specifically designed to be easy to adapt.
+Vytvoření vlastního motivu QuizWitz ti sice dá největší flexibilitu, ale je to složitý a časově náročný proces. Ve většině případů bude pro tebe mnohem lepší přizpůsobit si náš [motiv Emerald](011-emerald-theme.md), který je speciálně navržený tak, aby se dal snadno upravit.
 :::
 
-QuizWitz themes are created using **Adobe Animate**. You can download a [theme template](https://themes.quizwitz.com/empty/quizwitz-empty-theme.zip) to use as a starting point. Be aware that theming QuizWitz is painstaking work and is best left to experienced designers who know the ins and outs of Adobe Animate.
+Motivy QuizWitz se vytvářejí pomocí **Adobe Animate**. Jako výchozí bod si můžeš stáhnout [šablonu motivu](https://themes.quizwitz.com/empty/quizwitz-empty-theme.zip). Měj na paměti, že tvorba motivu pro QuizWitz je mravenčí práce a je nejlepší ji nechat na zkušených designérech, kteří Adobe Animate znají skrz naskrz.
 
-Prefer to leave it to the professionals? Send us an email at [support@catlab.be](mailto:support@catlab.be) and we can provide an estimate to turn your design into a ready-to-use QuizWitz theme.
-
----
-
-## 🧪 Theme test tool
-
-When you're ready to test your theme, **zip the contents of your design folder** ( — not the folder itself; when you open the zip, you should see your files, not just a single folder — ) and upload it to our [theme tester](https://themes.quizwitz.com/). This gives you a live preview of how your theme will look in the game.
-
-After testing, email the zip file to us and we'll link it to your account so you can select and use your theme in your quizzes.
+Radši to necháš na profesionálech? Pošli nám e-mail na [support@catlab.be](mailto:support@catlab.be) a připravíme odhad, za kolik tvůj návrh převedeme do hotového motivu QuizWitz připraveného k použití.
 
 ---
 
-## 🏷️ QuizWitz logo
+## 🧪 Nástroj pro testování motivu
 
-All custom designs must include the QuizWitz logo.
+Až budeš chtít svůj motiv otestovat, **zazipuj obsah složky s návrhem** ( — ne samotnou složku; když zip otevřeš, měly by se zobrazit tvoje soubory, ne jen jedna složka — ) a nahraj ho do našeho [testeru motivů](https://themes.quizwitz.com/). Získáš tak živý náhled toho, jak bude tvůj motiv ve hře vypadat.
+
+Po otestování nám zip soubor pošli e-mailem a my ho propojíme s tvým účtem, abys mohl/a svůj motiv vybrat a používat ve svých kvízech.
 
 ---
 
-## 🖥️ Screen overview
+## 🏷️ Logo QuizWitz
 
-| Stage                                                           | Main screen                                                                                              | Player device (Tablet/Phone)                |
-| --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Connect screen                                                  |                                                                                                          |                                                                |
-| Waiting screen                                                  | Logo of the quiz. Displayed while the presenter is reading the question. | A quote urging the player to listen carefully. |
-| Game intro                                                      | Animation before the game.                                                               | Waiting screen.                                |
-| Round intro                                                     | Animation before each round.                                                             | Waiting screen.                                |
-| Questions                                                       |                                                                                                          |                                                                |
-| Attachment                                                      | Fullscreen attachment view ( — before/after questions or rounds — ).  | Waiting screen.                                |
-| Question: multiple choice without attachment    | Question + 4 multiple choice options.                                                    | Multiple choice answer screen.                 |
-| Question: multiple choice with attachment       | Question + 4 multiple choice options + a visual attachment.                              | Multiple choice answer screen.                 |
-| Question: open question without attachment      | Only the question.                                                                       | Text input and submit button.                  |
-| Question: open question with attachment         | The question + a visual attachment.                                                      | Text input and submit button.                  |
-| Activity: chosen teams                          | The name of an activity.                                                                 | Waiting screen or "you are selected" screen.   |
-| Feedback                                                        |                                                                                                          |                                                                |
-| Question feedback: multiple choice              | The question, correct options, and spread of answers.                                    | Correct / wrong + points earned.               |
-| Question feedback: open question                | The question, correct options, and % of correct answers.                                 | Correct / wrong + points earned.               |
-| Question feedback: open question + attachment   | The question, correct options, answer spread, and a visual attachment.                   | Correct / wrong + points earned.               |
-| Question feedback: multiple choice + attachment | The question, correct options, answer spread, and a visual attachment.                   | Correct / wrong + points earned.               |
-| Activity feedback                                               | The teams selected for an activity.                                                      | Waiting or correct/wrong screen.               |
-| Player ranking                                                  |                                                                                                          |                                                                |
-| Round outro                                                     | Top 10 of all players.                                                                   | Current position and total points.             |
-| Game outro                                                      | Countdown from 10th to 1st place, then final top 10.                                     | Final rank and total points.                   |
+Všechny vlastní návrhy musí obsahovat logo QuizWitz.
+
+---
+
+## 🖥️ Přehled obrazovek
+
+| Fáze                                                              | Hlavní obrazovka                                                                                              | Zařízení hráče (tablet/telefon)              |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| Obrazovka připojení                                               |                                                                                                               |                                                                 |
+| Čekací obrazovka                                                  | Logo kvízu. Zobrazuje se, zatímco moderátor čte otázku.                       | Citát vybízející hráče, aby pozorně poslouchal. |
+| Úvod hry                                                          | Animace před hrou.                                                                            | Čekací obrazovka.                               |
+| Úvod kola                                                         | Animace před každým kolem.                                                                    | Čekací obrazovka.                               |
+| Otázky                                                            |                                                                                                               |                                                                 |
+| Příloha                                                           | Zobrazení přílohy na celou obrazovku ( — před/po otázkách nebo kolech — ). | Čekací obrazovka.                               |
+| Otázka: výběr z možností bez přílohy              | Otázka + 4 možnosti výběru.                                                                   | Obrazovka odpovědi s výběrem z možností.        |
+| Otázka: výběr z možností s přílohou               | Otázka + 4 možnosti výběru + vizuální příloha.                                                | Obrazovka odpovědi s výběrem z možností.        |
+| Otázka: otevřená otázka bez přílohy               | Pouze otázka.                                                                                 | Textové pole a tlačítko pro odeslání.           |
+| Otázka: otevřená otázka s přílohou                | Otázka + vizuální příloha.                                                                    | Textové pole a tlačítko pro odeslání.           |
+| Aktivita: vybrané týmy                            | Název aktivity.                                                                               | Čekací obrazovka nebo obrazovka „jsi vybrán/a“. |
+| Zpětná vazba                                                      |                                                                                                               |                                                                 |
+| Zpětná vazba k otázce: výběr z možností           | Otázka, správné možnosti a rozložení odpovědí.                                                | Správně / špatně + získané body.                |
+| Zpětná vazba k otázce: otevřená otázka            | Otázka, správné možnosti a % správných odpovědí.                                              | Správně / špatně + získané body.                |
+| Zpětná vazba k otázce: otevřená otázka + příloha  | Otázka, správné možnosti, rozložení odpovědí a vizuální příloha.                              | Správně / špatně + získané body.                |
+| Zpětná vazba k otázce: výběr z možností + příloha | Otázka, správné možnosti, rozložení odpovědí a vizuální příloha.                              | Správně / špatně + získané body.                |
+| Zpětná vazba k aktivitě                                           | Týmy vybrané pro aktivitu.                                                                    | Čekací obrazovka nebo obrazovka správně/špatně. |
+| Žebříček hráčů                                                    |                                                                                                               |                                                                 |
+| Závěr kola                                                        | Top 10 všech hráčů.                                                                           | Aktuální pozice a celkový počet bodů.           |
+| Závěr hry                                                         | Odpočet od 10. po 1. místo, potom finální top 10.             | Konečné umístění a celkový počet bodů.          |

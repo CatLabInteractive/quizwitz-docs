@@ -1,30 +1,30 @@
 ---
 id: best-answer-question
-title: Best answer question
+title: Otázka s nejlepší odpovědí
 ---
 
-# 🎖️ Best answer question
+# 🎖️ Otázka s nejlepší odpovědí
 
-In the **Best answer question** type, players write their own answers to an open-ended question.  
-Points are awarded either manually by the quizmaster, or—if there is no quizmaster—by having players vote for their favorite response.
-
----
-
-## 📝 How it works
-
-- **Players answer:** Each player types their response to the open question.
-- **Scoring:**
-  - In **QuizWitz Live** (with a quizmaster), the host reviews all answers and assigns points to the best one(s).
-  - In regular games (no host), players vote for the answer they think is best. The answer(s) with the most votes get the points.
+U typu **Otázka s nejlepší odpovědí** hráči píšou vlastní odpovědi na otevřenou otázku.  
+Body uděluje buď ručně quizmaster, nebo — pokud quizmaster není — hráči hlasují pro svou oblíbenou odpověď.
 
 ---
 
-## 💡 Tips for best answer questions
+## 📝 Jak to funguje
 
-- Use creative, open-ended questions that invite original or funny responses.
-- For in-person or hosted quizzes, the quizmaster can award points for creativity, accuracy, or humor.
-- In self-hosted games, voting encourages players to read each other's answers and adds a fun social element.
+- **Hráči odpovídají:** Každý hráč napíše svou odpověď na otevřenou otázku.
+- **Bodování:**
+  - V **QuizWitz Live** (s quizmaster) moderátor projde všechny odpovědi a přidělí body té nejlepší (nebo těm nejlepším).
+  - V běžných hrách (bez moderátora) hráči hlasují pro odpověď, která je podle nich nejlepší. Body získá odpověď (nebo odpovědi) s nejvíce hlasy.
 
 ---
 
-> 📚 For more on how voting or manual scoring works, see the [Jury app documentation](../quizmaster/004-jury-app.md).
+## 💡 Tipy pro otázky s nejlepší odpovědí
+
+- Používej kreativní, otevřené otázky, které vybízejí k originálním nebo vtipným odpovědím.
+- U osobních nebo moderovaných kvízů může quizmaster udělovat body za kreativitu, přesnost nebo humor.
+- Ve hrách pořádaných vlastními silami hlasování motivuje hráče, aby si četli odpovědi ostatních, a přidává zábavný společenský prvek.
+
+---
+
+> 📚 Další informace o tom, jak funguje hlasování nebo ruční bodování, najdeš v [dokumentaci aplikace Jury](../quizmaster/004-jury-app.md).

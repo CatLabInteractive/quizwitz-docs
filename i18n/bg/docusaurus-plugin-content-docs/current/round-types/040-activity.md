@@ -1,64 +1,64 @@
 ---
 id: activity
-title: Activity
+title: Активност
 ---
 
-# 🎭 Activity
+# 🎭 Активност
 
-An Activity round lets you step away from standard quiz questions for a creative or physical challenge. The quizmaster describes an activity or duel, selects teams to compete, and awards points based on performance.
-
----
-
-![Main screen for Activity round](/images/round-modes/activity-main-screen.png)
+Рундът с активност ти позволява да се откъснеш от стандартните въпроси в куиза за творческо или физическо предизвикателство. quizmaster описва активност или дуел, избира отбори, които да се състезават, и присъжда точки според представянето.
 
 ---
 
-## 🏆 How it works
+![Главен екран за рунд с активност](/images/round-modes/activity-main-screen.png)
 
-- **Challenge Description:** The round begins with a description of the activity (e.g., "Fold a paper plane and throw it as far as possible, furthest wins!").
-- **Team/Player Selection:** The quizmaster selects which teams or players will participate in the activity.
-  - **Random selection ensures every team is drawn an equal number of times throughout the quiz.** So if you have 40 teams and 10 activity rounds with 4 teams each, every team will be selected exactly once.
-- **Timer & Tools:** Start a timer and use sound effects (like buzzer or bells) to manage the challenge.
-- **Award Points:** After the activity, the quizmaster enters the results and awards points to the winning team(s).
+---
+
+## 🏆 Как работи
+
+- **Описание на предизвикателството:** Рундът започва с описание на активността (напр. „Сгъни хартиен самолет и го хвърли възможно най-далеч — печели този, който стигне най-далеч!“).
+- **Избор на отбор/играч:** quizmaster избира кои отбори или играчи ще участват в активността.
+  - **Случайният избор гарантира, че всеки отбор ще бъде изтеглен равен брой пъти по време на куиза.** Така че ако имаш 40 отбора и 10 рунда с активност с по 4 отбора във всеки, всеки отбор ще бъде избран точно веднъж.
+- **Таймер и инструменти:** Стартирай таймер и използвай звукови ефекти (като зумер или звънци), за да управляваш предизвикателството.
+- **Присъждане на точки:** След активността quizmaster въвежда резултатите и присъжда точки на печелившите отбори.
 
 <table><tbody><tr><td markdown>
-![Team selection for Activity round](/images/round-modes/activity-team-selection.png)
+![Избор на отбор за рунд с активност](/images/round-modes/activity-team-selection.png)
 </td><td markdown>
-![Activity round tools](/images/round-modes/activity-tools.png)
+![Инструменти за рунд с активност](/images/round-modes/activity-tools.png)
 </td></tr></tbody></table>
 
 ---
 
-## 🛠️ Tools & Controls
+## 🛠️ Инструменти и контроли
 
-- **Duel tools:** The quizmaster can access quick actions for buzzer, gong, bells, and timers during the activity.
-- **Custom Points:** Points can be entered manually for each team, or you can select a winner with quick action buttons.
-- **Attachments:** Add images, audio, or video to explain the activity or show examples. The quizmaster can display these on the main screen during the activity.
+- **Инструменти за дуел:** quizmaster има достъп до бързи действия за зумер, гонг, звънци и таймери по време на активността.
+- **Персонализирани точки:** Точките могат да се въвеждат ръчно за всеки отбор или можеш да избереш победител с бутоните за бързи действия.
+- **Прикачени файлове:** Добави изображения, аудио или видео, за да обясниш активността или да покажеш примери. quizmaster може да ги показва на главния екран по време на активността.
 
 ---
 
-## 🏅 Deciding the Winner
+## 🏅 Определяне на победителя
 
-- **Winner Selection:** Choose the winner(s) or divide points among several teams.
-- **Player Vote:** Let players vote for the winner if you like.
-- **Award Points:** Points can be divided or awarded as you see fit.
+- **Избор на победител:** Избери победителя(ите) или раздели точки между няколко отбора.
+- **Гласуване на играчите:** Позволи на играчите да гласуват за победителя, ако искаш.
+- **Присъждане на точки:** Точките могат да се разделят или присъдят както прецениш.
 
 <table><tbody><tr><td markdown>
-![Winner selection screen](/images/round-modes/activity-winner-selection.png)
+![Екран за избор на победител](/images/round-modes/activity-winner-selection.png)
 </td><td markdown>
-![Custom points entry](/images/round-modes/activity-custom-points.png)
+![Въвеждане на персонализирани точки](/images/round-modes/activity-custom-points.png)
 </td></tr></tbody></table>
 
 ---
 
-## 💡 Tips
+## 💡 Съвети
 
-- **Make it memorable:** Activities work best when they're fun for everyone to watch or participate in.
-- **Make it fair:** Ensure the activity can be judged objectively, or use a voting system to decide the winner.
-- **Be clear:** Announce the rules and expectations before starting.
-- **Energize your event:** Use activity rounds to keep things lively and engaging.
-- **Encourage creativity:** Let teams come up with their own strategies or approaches to the activity.
+- **Направи го запомнящо се:** Активностите работят най-добре, когато са забавни за всички — и за гледане, и за участие.
+- **Направи го честно:** Увери се, че активността може да бъде оценена обективно, или използвай система за гласуване, за да се избере победителят.
+- **Бъди ясен:** Обяви правилата и очакванията преди началото.
+- **Зареди събитието с енергия:** Използвай рундове с активност, за да поддържаш атмосферата жива и ангажираща.
+- **Насърчи креативността:** Позволи на отборите да измислят свои собствени стратегии или подходи към активността.
 
 ---
 
-The Activity round is perfect for interactive challenges, duels, or creative tasks — a great way to add energy and variety to your QuizWitz event!
+Рундът с активност е идеален за интерактивни предизвикателства, дуели или творчески задачи — чудесен начин да добавиш енергия и разнообразие към твоето QuizWitz събитие!

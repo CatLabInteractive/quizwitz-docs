@@ -1,69 +1,69 @@
 ---
 id: open-question
-title: Open question
+title: Nyitott kérdés
 ---
 
-# 💬 Open question
+# 💬 Nyitott kérdés
 
-An open question lets players type their answer freely using their keyboard. This mode is perfect for questions where you want written responses — for example, names, numbers, or short explanations.
-
----
-
-![Example: Open question about music](/images/question-modes/open-question/open-question.png)
+A nyitott kérdésnél a játékosok szabadon begépelhetik a válaszukat a billentyűzetükkel. Ez a mód tökéletes olyan kérdésekhez, ahol írásos válaszokat szeretnél — például neveket, számokat vagy rövid magyarázatokat.
 
 ---
 
-## 📝 How it works
-
-- **Question:** Ask for a specific answer in a freeform text field (example: “Which duo performs this song?”).
-- **Answer:** Players type in their response. You can provide multiple accepted answers for automatic validation.
-- **Attachments:** Add audio, images, or video as a clue (for example, play a music clip).
-- **Feedback:** Players see after answering if their response was marked correct or not. You can also provide additional feedback or explanations.
+![Példa: nyitott kérdés zenéről](/images/question-modes/open-question/open-question.png)
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Hogyan működik
 
-Open questions offer a range of settings to fit your quiz:
-
-- **Multiple accepted answers:** Add alternate spellings, abbreviations, or synonyms for more flexible auto-correction.
-- **Time-based scoring:** Reward faster answers (see “Scoring” below).
-- **Force automatic correction:** Enable this to let the game automatically mark correct answers based on your provided list.
-  - If not enabled (the default for most live games), open answers must be reviewed and scored manually using the [Jury app](../quizmaster/004-jury-app.md).
-
-For more on these options, see [writing questions](../editor/005-writing-questions.md).
+- **Kérdés:** Kérj konkrét választ egy szabad szöveges mezőben (példa: „Melyik duó adja elő ezt a dalt?”).
+- **Válasz:** A játékosok begépelik a válaszukat. Több elfogadott választ is megadhatsz az automatikus ellenőrzéshez.
+- **Mellékletek:** Adj hozzá hangot, képeket vagy videót segítségként (például játssz le egy zenei részletet).
+- **Visszajelzés:** A játékosok a válaszadás után látják, hogy a válaszuk helyesnek lett-e jelölve vagy sem. További visszajelzést vagy magyarázatot is adhatsz.
 
 ---
 
-## 🏆 Scoring for open questions
+## ⚙️ Kibővített beállítások
 
-Scoring in open questions is designed to be fair, even for slower typers:
+A nyitott kérdések többféle beállítást kínálnak, hogy illeszkedjenek a kvízedhez:
 
-- **Time-based scoring** divides the available points into blocks, not a strict per-millisecond countdown.
-- For example, answering in the first block (e.g. first 5 seconds) gives full points; the next block gives 80%, and so on. This helps reduce the penalty for slow typers.
-- By default, only **25%** of the points depend on speed — the remaining **75%** is fixed, so everyone who answers correctly gets most of the points, regardless of typing speed.
+- **Több elfogadott válasz:** Adj hozzá alternatív írásmódokat, rövidítéseket vagy szinonimákat a rugalmasabb automatikus javításhoz.
+- **Időalapú pontozás:** Jutalmazd a gyorsabb válaszokat (lásd lent a „Pontozás” részt).
+- **Automatikus javítás kényszerítése:** Kapcsold be, hogy a játék automatikusan helyesnek jelölje a válaszokat az általad megadott lista alapján.
+  - Ha nincs bekapcsolva (a legtöbb élő játékban ez az alapértelmezett), a nyitott válaszokat kézzel kell átnézni és pontozni a [Jury app](../quizmaster/004-jury-app.md) használatával.
 
-> ⚙️ **Tip:** You can further adjust scoring behavior and other settings in the [Round options](../editor/008-round-options.md).
-
----
-
-## 🧑‍⚖️ Jury review in QuizWitz Live
-
-In **QuizWitz Live**, open questions generally require a manual review with the [Jury app](../quizmaster/004-jury-app.md):
-
-- The Jury app lets jury members accept, reject, or adjust scoring for open answers.
-- Phonetic and alternative matching helps, but human judgment is essential for fair scoring and creativity.
-- For full instructions and features, see the [Jury app documentation](../quizmaster/004-jury-app.md).
+Ezekről a lehetőségekről bővebben a [kérdések írása](../editor/005-writing-questions.md) részben olvashatsz.
 
 ---
 
-## 💡 Tips for great open questions
+## 🏆 Nyitott kérdések pontozása
 
-- **Be specific:** Tell players exactly what you want them to answer.
-- **Anticipate variations:** Add common abbreviations, alternate spellings, or synonyms to accepted answers.
-- **Use attachments:** Add audio, images, or video to make your question clearer or more engaging.
-- **Coordinate with your jury:** Make sure your jury knows what to accept for subjective or tricky answers.
+A nyitott kérdések pontozása úgy lett kialakítva, hogy igazságos legyen, még a lassabban gépelőknek is:
+
+- Az **időalapú pontozás** blokkokra osztja az elérhető pontokat, nem pedig szigorú ezredmásodperc-alapú visszaszámlálásra.
+- Például ha az első blokkban válaszolsz (pl. az első 5 másodpercben), teljes pontszám jár; a következő blokk 80%-ot ad, és így tovább. Ez segít csökkenteni a lassabban gépelők hátrányát.
+- Alapértelmezés szerint a pontoknak csak **25%**-a függ a gyorsaságtól — a maradék **75%** fix, így mindenki, aki helyesen válaszol, megkapja a pontok nagy részét, a gépelési sebességtől függetlenül.
+
+> ⚙️ **Tipp:** A pontozás működését és más beállításokat tovább finomíthatsz a [Forduló beállításai](../editor/008-round-options.md) résznél.
 
 ---
 
-For more about attachments and feedback, see the [Attachments documentation](../editor/006-attachments.md).
+## 🧑‍⚖️ Zsűri általi ellenőrzés a QuizWitz Live-ban
+
+A **QuizWitz Live**-ban a nyitott kérdések általában kézi ellenőrzést igényelnek a [Jury app](../quizmaster/004-jury-app.md) segítségével:
+
+- A Jury app lehetővé teszi, hogy a zsűritagok elfogadják, elutasítsák vagy módosítsák a nyitott válaszok pontozását.
+- A fonetikus és alternatív egyezések segítenek, de az emberi megítélés elengedhetetlen az igazságos pontozáshoz és a kreatív válaszok kezeléséhez.
+- A teljes útmutatót és a funkciókat a [Jury app dokumentációjában](../quizmaster/004-jury-app.md) találod.
+
+---
+
+## 💡 Tippek remek nyitott kérdésekhez
+
+- **Légy konkrét:** Mondd el pontosan a játékosoknak, milyen választ vársz tőlük.
+- **Számíts a változatokra:** Adj hozzá gyakori rövidítéseket, alternatív írásmódokat vagy szinonimákat az elfogadott válaszokhoz.
+- **Használj mellékleteket:** Adj hozzá hangot, képeket vagy videót, hogy a kérdésed egyértelműbb vagy izgalmasabb legyen.
+- **Egyeztess a zsűriddel:** Győződj meg róla, hogy a zsűrid tudja, mit fogadjon el a szubjektív vagy trükkös válaszoknál.
+
+---
+
+A mellékletekről és a visszajelzésekről bővebben a [Mellékletek dokumentációjában](../editor/006-attachments.md) olvashatsz.

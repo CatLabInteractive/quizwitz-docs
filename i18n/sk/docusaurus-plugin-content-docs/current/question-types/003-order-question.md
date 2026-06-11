@@ -1,54 +1,54 @@
 ---
 id: order-question
-title: Order question
+title: Otázka na poradie
 ---
 
-# 🔀 Order question
+# 🔀 Otázka na poradie
 
-In an **Order question**, players must put up to 4 items in the correct sequence.  
-This round type is great for chronological, ranking, or sequencing challenges.
-
----
-
-![Example: Order question about animals](/images/question-modes/order-question/order-question-example.png)
+V **otázke na poradie** musia hráči zoradiť až 4 položky do správnej postupnosti.  
+Tento typ kola je skvelý na chronologické výzvy, rebríčky alebo úlohy na zoradenie.
 
 ---
 
-## 📝 How it works
-
-- **Question:** Clearly ask what order is required.  
-  _(Example: “Select the animals in the correct order from least to most legs.”)_
-- **Options:** Enter up to four items. You define the correct sequence.
-- **Player view:** Options are shown in random order. Players **select each item one by one** in the order they think is correct.
-- **Feedback:** After answering, players see the correct order and (optionally) any extra explanation you provide.
+![Príklad: Otázka na poradie o zvieratách](/images/question-modes/order-question/order-question-example.png)
 
 ---
 
-## 🏆 Scoring
+## 📝 Ako to funguje
 
-Order questions use **time-based scoring** by default:  
-Faster correct answers earn more points, but most of the points are fixed. Time only affects a portion of the score.  
-You can also turn off time-based scoring per question for fixed points only.
-
-See [Scoring options in round settings](../editor/008-round-options.md#scoring) for details.
-
----
-
-## ⚙️ Expanded settings
-
-Order questions offer flexible settings:
-
-- **Time limit:** Set how long players have to answer.
-- **Points:** Set how many points are awarded for a fully correct answer.
-
-See [writing questions](../editor/005-writing-questions.md) for more.
+- **Otázka:** Jasne sa opýtaj, aké poradie sa vyžaduje.  
+  _(Príklad: „Vyber zvieratá v správnom poradí od najmenšieho po najväčší počet nôh.“)_
+- **Možnosti:** Zadaj až štyri položky. Správnu postupnosť určíš ty.
+- **Zobrazenie pre hráča:** Možnosti sa zobrazia v náhodnom poradí. Hráči **vyberajú jednotlivé položky jednu po druhej** v poradí, ktoré považujú za správne.
+- **Spätná väzba:** Po odpovedi hráči uvidia správne poradie a (voliteľne) aj akékoľvek dodatočné vysvetlenie, ktoré pridáš.
 
 ---
 
-## 💡 Tips for great order questions
+## 🏆 Bodovanie
 
-- **Be specific:** State clearly how you want items ordered (e.g., least to most, oldest to newest).
-- **Choose distinct options:** Avoid items that are too similar or ambiguous.
-- **Explain the answer:** Use feedback to clarify the correct order after the question.
-- **Mix formats:** Try chronological, size-based, or ranking-based questions for variety.
+Otázky na poradie predvolene používajú **bodovanie založené na čase**:  
+Rýchlejšie správne odpovede získajú viac bodov, ale väčšina bodov je pevná. Čas ovplyvňuje iba časť skóre.  
+Bodovanie založené na čase môžeš pri jednotlivých otázkach aj vypnúť a používať len pevné body.
+
+Podrobnosti nájdeš v časti [Možnosti bodovania v nastaveniach kola](../editor/008-round-options.md#scoring).
+
+---
+
+## ⚙️ Rozšírené nastavenia
+
+Otázky na poradie ponúkajú flexibilné nastavenia:
+
+- **Časový limit:** Nastav, ako dlho majú hráči na odpoveď.
+- **Body:** Nastav, koľko bodov sa udelí za úplne správnu odpoveď.
+
+Viac nájdeš v časti [písanie otázok](../editor/005-writing-questions.md).
+
+---
+
+## 💡 Tipy na skvelé otázky na poradie
+
+- **Buď konkrétny:** Jasne uveď, ako chceš položky zoradiť (napr. od najmenšieho po najväčšie, od najstaršieho po najnovšie).
+- **Vyber odlišné možnosti:** Vyhni sa položkám, ktoré sú príliš podobné alebo nejednoznačné.
+- **Vysvetli odpoveď:** Použi spätnú väzbu na objasnenie správneho poradia po otázke.
+- **Miešaj formáty:** Pre pestrosť vyskúšaj chronologické otázky, otázky založené na veľkosti alebo na rebríčku.
 

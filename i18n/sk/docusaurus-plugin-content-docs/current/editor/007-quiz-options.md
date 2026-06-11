@@ -1,83 +1,83 @@
 ---
 id: quiz-options
-title: Quiz options
+title: Možnosti kvízu
 ---
 
-# ⚙️ Quiz options
+# ⚙️ Možnosti kvízu
 
-When creating a quiz, you can open the **Quiz settings** panel to configure global behavior and presentation options. These settings apply to the **entire quiz**.
+Pri vytváraní kvízu si môžeš otvoriť panel **Nastavenia kvízu** a nastaviť globálne správanie aj možnosti zobrazenia. Tieto nastavenia platia pre **celý kvíz**.
 
-| ![Open quiz options](/images/open-quiz-options.png) | ![Quiz options](/images/quiz-options.png) |
-| :-------------------------------------------------: | :---------------------------------------: |
-|           _Opening the quiz options panel_          |          _Quiz settings overview_         |
-
----
-
-## 🌐 Languages
-
-Select the language in which you're writing the quiz. You can add additional translations later.
+| ![Otvoriť možnosti kvízu](/images/open-quiz-options.png) | ![Možnosti kvízu](/images/quiz-options.png) |
+| :------------------------------------------------------: | :-----------------------------------------: |
+|             _Otvorenie panela možností kvízu_            |          _Prehľad nastavení kvízu_          |
 
 ---
 
-## 🎨 Themes
+## 🌐 Jazyky
 
-Choose a visual theme for your quiz.
-
-- The default theme is **QuizWitz**
-- Your organization may have access to custom themes
-- Themes affect background, colors, and layout
-
-📘 See the [Emerald theme documentation](../advanced/011-emerald-theme.md) for more details on customizing visuals with this theme.
+Vyber jazyk, v ktorom píšeš kvíz. Ďalšie preklady môžeš pridať neskôr.
 
 ---
 
-## 📎 Attachments
+## 🎨 Témy
 
-Enhance your quiz with visuals, audio, or video in specific slots:
+Vyber vizuálnu tému pre svoj kvíz.
 
-- **Before quiz** — Shown when the quiz starts
-- **After quiz** — Played after the final results screen
-- **Client logo / alternative logo** — Displayed throughout the quiz interface
-- **Wait screen** — Displayed between questions in live games (1920×1080 image recommended)
-- **Background** — Optional background replacement (depends on theme)
-- **Connect screen** — Used in [Live](../quizmaster/001-introduction.md) and [Conference](../tutorials/conference-booth) modes:
-  - **Images** — Fullscreen background visuals
-  - **Audio** — Looped music (max 15 min)
-  - **Video** — Played every 5 minutes, useful for ads or instructions
+- Predvolená téma je **QuizWitz**
+- Tvoja organizácia môže mať prístup k vlastným témam
+- Témy ovplyvňujú pozadie, farby a rozloženie
 
-🎥 You can use our [ready-made instructional videos](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) to help players connect.
-
-- **During game outro** — (Audio only) Plays over the winner reveal screen
-
-📘 For technical details and recommendations, see the [attachments guide](../editor/006-attachments.md).
+📘 Viac detailov o prispôsobovaní vizuálov s touto témou nájdeš v [dokumentácii témy Emerald](../advanced/011-emerald-theme.md).
 
 ---
 
-## 🔧 Extra options
+## 📎 Prílohy
 
-Optional settings for customizing gameplay and visibility:
+Vylepši svoj kvíz vizuálmi, zvukom alebo videom v konkrétnych slotoch:
 
-- **Enable multiplayer** — Default ON. Allows party play with friends
-- **Random round order** — Shuffle the order of rounds
-  > ⚠️ Not recommended when preparing for [QuizWitz Live](../quizmaster/001-introduction.md)
-- **Allow users to rate questions** — Lets players rate each question after a round
-- **Enable comments** — Allow feedback after publishing
-- **Speed up when all answered** — If enabled, the game skips ahead when all players have answered
-  > ⏱️ Recommended when using **Time-based scoring**
+- **Pred kvízom** — Zobrazí sa pri spustení kvízu
+- **Po kvíze** — Prehrá sa po obrazovke s finálnymi výsledkami
+- **Logo klienta / alternatívne logo** — Zobrazuje sa počas celého rozhrania kvízu
+- **Čakacia obrazovka** — Zobrazuje sa medzi otázkami v živých hrách (odporúčaný obrázok 1920×1080)
+- **Pozadie** — Voliteľná náhrada pozadia (závisí od témy)
+- **Obrazovka pripojenia** — Používa sa v režimoch [Live](../quizmaster/001-introduction.md) a [Conference](../tutorials/conference-booth):
+  - **Obrázky** — Vizuály na pozadí na celú obrazovku
+  - **Zvuk** — Hudba v slučke (max. 15 min)
+  - **Video** — Prehráva sa každých 5 minút, hodí sa na reklamy alebo pokyny
+
+🎥 Môžeš použiť naše [hotové inštruktážne videá](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC), ktoré pomôžu hráčom pripojiť sa.
+
+- **Outro počas hry** — (iba zvuk) Prehráva sa cez obrazovku odhalenia víťaza
+
+📘 Technické detaily a odporúčania nájdeš v [sprievodcovi prílohami](../editor/006-attachments.md).
 
 ---
 
-## 📤 Share or embed
+## 🔧 Extra možnosti
 
-Generates share links or embed code with advanced game settings.
+Voliteľné nastavenia na prispôsobenie hrania a viditeľnosti:
+
+- **Zapnúť multiplayer** — Predvolene ZAPNUTÉ. Umožňuje párty hranie s priateľmi
+- **Náhodné poradie kôl** — Zamieša poradie kôl
+  > ⚠️ Neodporúča sa pri príprave na [QuizWitz Live](../quizmaster/001-introduction.md)
+- **Povoliť používateľom hodnotiť otázky** — Umožní hráčom ohodnotiť každú otázku po kole
+- **Zapnúť komentáre** — Umožní spätnú väzbu po zverejnení
+- **Zrýchliť, keď všetci odpovedali** — Ak je zapnuté, hra preskočí dopredu, keď odpovedali všetci hráči
+  > ⏱️ Odporúčané pri použití **bodovania podľa času**
 
 ---
 
-## 📜 Quizmaster copy
+## 📤 Zdieľať alebo vložiť
 
-Add custom presenter instructions for:
+Vygeneruje odkazy na zdieľanie alebo kód na vloženie s pokročilými nastaveniami hry.
 
-- **Quiz introduction**
-- **Quiz outro**
+---
 
-These are visible on the [Quizmaster app](../quizmaster/001-introduction.md) when using QuizWitz Live.
+## 📜 Kópia pre quizmaster
+
+Pridaj vlastné pokyny pre moderátora pre:
+
+- **Úvod kvízu**
+- **Záver kvízu**
+
+Tieto sú viditeľné v aplikácii [Quizmaster](../quizmaster/001-introduction.md) pri používaní QuizWitz Live.

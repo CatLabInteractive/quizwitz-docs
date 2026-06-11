@@ -1,75 +1,75 @@
 ---
 id: round-options
-title: Round options
+title: Možnosti kola
 ---
 
-# 🔄 Round options
+# 🔄 Možnosti kola
 
-Each round has a specific **type**. The default is **Trivia**, but we invite you to test and experiment with all available types. This page explains the settings and attachments you can configure per round.
+Každé kolo má konkrétní **typ**. Výchozí typ je **Trivia**, ale doporučujeme ti vyzkoušet a otestovat všechny dostupné typy. Tahle stránka vysvětluje nastavení a přílohy, které si můžeš nakonfigurovat pro každé kolo.
 
-📘 For a detailed overview of all round types, visit the [round types documentation](../round-types/000-round-types.md).
-
----
-
-## 🔧 Configuring a round
-
-To configure a round’s options, click the gear icon in the round panel:
-
-| ![Open round options](/images/open-round-options.png) | ![Round options](/images/round-options.png) |
-| :---------------------------------------------------: | :-----------------------------------------: |
-|                _Opening round options_                |         _Round configuration panel_         |
+📘 Podrobný přehled všech typů kol najdeš v [dokumentaci typů kol](../round-types/000-round-types.md).
 
 ---
 
-## ⚙️ General round options
+## 🔧 Konfigurace kola
 
-The following options are available for most round types:
+Možnosti kola nastavíš kliknutím na ikonu ozubeného kola v panelu kola:
 
-- **Only show _X_ questions** — Limits the round to a specific number of questions
-- **Random question order** — Shuffle the question order within the round
-- **Show round intro** — Display an animated title before the round begins
-- **Show round outro (interim score)** — Reveal rankings at the end of the round
-- **Group all feedback in a single screen** — Collect question feedback in one block after the round ends
-- **Show all question feedback at the end of the round** — Delay question feedback until the round ends
-- **Force feedback after each individual question** — Ensure immediate feedback
-  > ⚠️ This only takes effect in round and question types where feedback would otherwise be delayed, such as open questions or lightning rounds.
-
-📘 See [question types](../question-types/000-question-types.md) for more information on feedback timing and behavior.
+| ![Otevřít možnosti kola](/images/open-round-options.png) | ![Možnosti kola](/images/round-options.png) |
+| :------------------------------------------------------: | :-----------------------------------------: |
+|                 _Otevření možností kola_                 |           _Panel konfigurace kola_          |
 
 ---
 
-## 🏆 Scoring options {#scoring}
+## ⚙️ Obecné možnosti kola
 
-QuizWitz offers flexible scoring to keep things fair and engaging for all players.
+Pro většinu typů kol jsou dostupné tyhle možnosti:
 
-- **Time-based scoring** — Players earn more points for faster answers.
-  - For most question types, time-based points decrease **continuously per microsecond**: the faster you answer, the more points you score.
-  - For **open questions**, time-based points are divided into blocks. For example: answers in the first block (e.g., first few seconds) earn **100%** of the time-based portion, the next block earns **80%**, and so on. This helps level the playing field for slower typers.
+- **Zobrazit jen _X_ otázek** — Omezí kolo na konkrétní počet otázek
+- **Náhodné pořadí otázek** — Zamíchá pořadí otázek v rámci kola
+- **Zobrazit úvod kola** — Před začátkem kola zobrazí animovaný název
+- **Zobrazit závěr kola (průběžné skóre)** — Na konci kola odhalí pořadí
+- **Seskupit veškerou zpětnou vazbu na jednu obrazovku** — Po skončení kola shromáždí zpětnou vazbu k otázkám do jednoho bloku
+- **Zobrazit veškerou zpětnou vazbu k otázkám na konci kola** — Odloží zpětnou vazbu k otázkám až do konce kola
+- **Vynutit zpětnou vazbu po každé jednotlivé otázce** — Zajistí okamžitou zpětnou vazbu
+  > ⚠️ Tohle se projeví jen u typů kol a otázek, kde by jinak byla zpětná vazba odložená, třeba u otevřených otázek nebo bleskových kol.
 
-- **Fixed percentage of points on time-based scoring** — You control how much of the total score is influenced by speed.
-  - By default, **75%** of the points are fixed (everyone who answers correctly gets these points, regardless of speed).
-  - Only the remaining **25%** is influenced by how quickly players respond.
-
-> 💡 Adjusting this setting lets you make rounds more knowledge-based or more speed-based, depending on your quiz style.
-
-These scoring options can be found in the round options panel when editing a round.
-
----
-
-## 📜 Quizmaster instructions
-
-You can add a custom **round introduction text** that will appear only on the [Quizmaster app](../quizmaster/001-introduction.md) at the start of the round. Use this to brief the presenter or add a personal touch.
+📘 Více informací o načasování a chování zpětné vazby najdeš v části [typy otázek](../question-types/000-question-types.md).
 
 ---
 
-## 📎 Attachments
+## 🏆 Možnosti bodování {#scoring}
 
-Enhance your round with media shown at specific moments:
+QuizWitz nabízí flexibilní bodování, aby hra zůstala férová a zábavná pro všechny hráče.
 
-- **Before round** — Displayed after the round intro animation
-- **After round** — Shown after the round outro
-- **Before round outro** — Shown after the last question, just before the outro
-- **During round outro** — _(audio only)_ Plays while rankings are displayed
+- **Bodování podle času** — Hráči získávají více bodů za rychlejší odpovědi.
+  - U většiny typů otázek se body podle času snižují **plynule po mikrosekundách**: čím rychleji odpovíš, tím víc bodů získáš.
+  - U **otevřených otázek** se body podle času dělí do bloků. Například: odpovědi v prvním bloku (např. v prvních několika sekundách) získají **100 %** časové části, další blok získá **80 %** a tak dále. Tohle pomáhá vyrovnat šance hráčům, kteří píšou pomaleji.
+
+- **Pevné procento bodů při bodování podle času** — Určuješ, jak velkou část celkového skóre ovlivní rychlost.
+  - Ve výchozím nastavení je **75 %** bodů pevných (každý, kdo odpoví správně, tyhle body získá bez ohledu na rychlost).
+  - Jen zbývajících **25 %** ovlivňuje to, jak rychle hráči odpoví.
+
+> 💡 Úpravou tohoto nastavení můžeš kola zaměřit víc na znalosti nebo víc na rychlost, podle stylu svého kvízu.
+
+Tyhle možnosti bodování najdeš v panelu možností kola při úpravě kola.
+
+---
+
+## 📜 Pokyny pro quizmaster
+
+Můžeš přidat vlastní **úvodní text kola**, který se na začátku kola zobrazí jen v [aplikaci Quizmaster](../quizmaster/001-introduction.md). Použij to k instruktáži moderátora nebo k přidání osobního tónu.
+
+---
+
+## 📎 Přílohy
+
+Vylepši své kolo médii, která se zobrazí v konkrétních momentech:
+
+- **Před kolem** — Zobrazí se po animaci úvodu kola
+- **Po kole** — Zobrazí se po závěru kola
+- **Před závěrem kola** — Zobrazí se po poslední otázce, těsně před závěrem
+- **Během závěru kola** — _(jen zvuk)_ Přehrává se během zobrazení pořadí
 - ...
 
-📘 For supported file types and usage tips, see the [attachments guide](../editor/006-attachments.md).
+📘 Podporované typy souborů a tipy k použití najdeš v [průvodci přílohami](../editor/006-attachments.md).

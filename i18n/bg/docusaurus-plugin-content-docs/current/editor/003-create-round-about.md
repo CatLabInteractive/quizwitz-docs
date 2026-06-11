@@ -1,71 +1,71 @@
 ---
 id: create-round-about
-title: Create a Round-About
+title: Създай Round-About
 ---
 
-# 🧠 Create a Round-About
+# 🧠 Създай Round-About
 
-A **Round-About** is the core quiz unit in QuizWitz — a themed set of questions presented in random order. You can create your own and play privately, or publish it to share with the community.
-
----
-
-## 🎬 Getting started
-
-From the main menu:
-
-1. Click **Create**
-2. Select **Round-About** from the dropdown
-
-![QuizWitz top navigation bar](/images/top-menu-create.png)
+**Round-About** е основната единица за викторина в QuizWitz — тематичен набор от въпроси, представени в случаен ред. Можеш да създадеш свой собствен и да играеш насаме, или да го публикуваш, за да го споделиш с общността.
 
 ---
 
-## ✏️ Title, language & category
+## 🎬 Да започваме
 
-Start by giving your Round-About a clear:
+От главното меню:
 
-- **Title** — something catchy or descriptive
-- **Language** — the language your questions are written in
-- **Category** — helps players find your Round-About later
+1. Кликни върху **Създай**
+2. Избери **Round-About** от падащото меню
 
-> 🔒 You don't need to publish your Round-About to play it. Keep it private or publish it when you're ready to share.
-
-![QuizWitz create round](/images/create-round.png)
+![Горна навигационна лента на QuizWitz](/images/top-menu-create.png)
 
 ---
 
-## ➕ Adding questions
+## ✏️ Заглавие, език и категория
 
-Click **Add new question** to begin creating your quiz content.
+Започни, като дадеш на своя Round-About ясни:
 
-- Add as many questions as you like
-- Save your progress frequently
-- You can test and play your Round-About at any time
+- **Заглавие** — нещо запомнящо се или описателно
+- **Език** — езикът, на който са написани въпросите ти
+- **Категория** — помага на играчите да намерят твоя Round-About по-късно
 
-> 📢 **To publish your Round-About**, you’ll need **at least 14 questions**. Once published, it becomes visible to the entire QuizWitz community — but you can unpublish it later if needed.
+> 🔒 Не е нужно да публикуваш своя Round-About, за да го играеш. Запази го личен или го публикувай, когато си готов да го споделиш.
 
-Want to add questions in bulk? Use the **Import questions** feature and follow the prompts to format everything correctly.
-
-> 🛠️ More details on question types and editing can be found in the upcoming chapters.
+![Създаване на рунд в QuizWitz](/images/create-round.png)
 
 ---
 
-## ⚙️ Round-About settings
+## ➕ Добавяне на въпроси
 
-In the **Details** section, you’ll find additional configuration options:
+Кликни върху **Добави нов въпрос**, за да започнеш да създаваш съдържанието на викторината си.
 
-- **Translate** — Create a translated version of your Round-About in another language
-- **Category** — Choose or update your Round-About’s category
-- **Round type** — Select how questions are presented to players. You can configure:
-  - Multiple choice
-  - Open questions
-  - Lightning rounds
-  - And more
+- Добави толкова въпроси, колкото искаш
+- Запазвай напредъка си често
+- Можеш да тестваш и играеш своя Round-About по всяко време
 
-> 🔗 Learn more about [round types](../round-types/000-round-types.md) and [question types](../question-types/000-question-types.md) in the advanced guides.
+> 📢 **За да публикуваш своя Round-About**, ще ти трябват **поне 14 въпроса**. След публикуване той става видим за цялата общност на QuizWitz — но можеш да го скриеш от публикация по-късно, ако е нужно.
 
-![Round-About settings](/images/round-about-details.png)
+Искаш да добавиш въпроси наведнъж? Използвай функцията **Импортиране на въпроси** и следвай подсказките, за да форматираш всичко правилно.
+
+> 🛠️ Повече подробности за типовете въпроси и редактирането ще намериш в следващите глави.
 
 ---
 
-When you're happy with your content, hit publish — and share your Round-About with the world!
+## ⚙️ Настройки на Round-About
+
+В секцията **Детайли** ще намериш допълнителни опции за конфигурация:
+
+- **Превод** — създай преведена версия на своя Round-About на друг език
+- **Категория** — избери или обнови категорията на своя Round-About
+- **Тип рунд** — избери как въпросите се представят на играчите. Можеш да конфигурираш:
+  - Множествен избор
+  - Отворени въпроси
+  - Светкавични рундове
+  - И още
+
+> 🔗 Научи повече за [типовете рундове](../round-types/000-round-types.md) и [типовете въпроси](../question-types/000-question-types.md) в ръководствата за напреднали.
+
+![Настройки на Round-About](/images/round-about-details.png)
+
+---
+
+Когато си доволен от съдържанието си, натисни публикуване — и сподели своя Round-About със света!

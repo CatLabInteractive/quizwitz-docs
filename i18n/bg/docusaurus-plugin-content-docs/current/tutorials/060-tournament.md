@@ -1,70 +1,70 @@
 ---
 id: tournament
-title: Tournament
+title: Турнир
 ---
 
-# Tournament
+# Турнир
 
-This tutorial will show you how to use QuizWitz Tournament mode. Tournament mode lets players join and play your quiz whenever they want — on their own device. Their scores are recorded on a global leaderboard that you can display in your venue.
-
----
-
-## 📝 Create the quiz
-
-When building a tournament quiz, keep it short and engaging. If visitors need to spend too much time on the quiz, they might not finish.  
-**Only players who finish the whole quiz will be listed on the leaderboard.**
-
-### 🎲 Random question selection
-
-Make the game select a random set of questions from your pool, so every playthrough feels unique — and returning players get different questions.
-
-**Setup example:**
-
-- Choose **Quiz** in the Create menu and name your quiz. Set the correct language.
-- Create 3 rounds, naming them (e.g. Round 1, Round 2, Round 3).
-- In each **Round settings** (cog icon), enable **Only show x questions** and set it to 5.
-- Enable **Random question order** so the game doesn't always pick the same questions first.
-
-Repeat these steps for every round in the quiz.
+Този урок ще ти покаже как да използваш турнирния режим на QuizWitz. Турнирният режим позволява на играчите да се включат и да играят твоя куиз, когато поискат — на собственото си устройство. Резултатите им се записват в глобална класация, която можеш да показваш на мястото на събитието.
 
 ---
 
-## 🚀 Start the tournament
+## 📝 Създай куиза
 
-Tournaments can only be started from the **Advanced game options** menu.
+Когато правиш турнирен куиз, нека бъде кратък и увлекателен. Ако посетителите трябва да отделят твърде много време за куиза, може и да не го довършат.  
+**Само играчите, които завършат целия куиз, ще бъдат показани в класацията.**
 
-1. Select **Play quiz** and choose **Advanced game options**.
+### 🎲 Случаен избор на въпроси
 
-   ![A screenshot of the 'Start quiz' menu](/images/tutorials/tournament/tournament-start.png)
+Нека играта избира случаен набор от въпроси от твоята база, така че всяко изиграване да се усеща уникално — а играчите, които се връщат, да получават различни въпроси.
 
-2. In the popup, select the **Tournament** game mode and click **Generate play link**.
+**Примерна настройка:**
 
-   ![A screenshot of the 'Advanced game options' menu](/images/tutorials/tournament/tournament-advanced-game-settings.png)
+- Избери **Куиз** в менюто за създаване и дай име на куиза си. Задай правилния език.
+- Създай 3 рунда и ги именувай (напр. Рунд 1, Рунд 2, Рунд 3).
+- Във всяка секция **Настройки на рунда** (икона със зъбно колело) включи **Показвай само x въпроса** и задай стойност 5.
+- Включи **Случаен ред на въпросите**, за да не избира играта винаги едни и същи въпроси първо.
 
-You will now receive two links:
-
-- **Player link** — Share this with your players (or let them scan the QR code from the leaderboard).
-- **Leaderboard link** — Open this on a display at your venue to show the live rankings and the QR code players can scan to join.
-
----
-
-## 🏆 Launching the leaderboard
-
-To launch the leaderboard, you need to log in:
-
-1. Click **Login to add a profile** and enter your password.
-2. Select your profile from the window to start the leaderboard.
-
-   ![A screenshot of the leaderboard app](/images/tutorials/tournament/leaderboard-start.png)
-
-Once the first players finish their games, their scores will be displayed live:
-
-![A screenshot of the leaderboard app](/images/tutorials/tournament/leaderboard.png)
+Повтори тези стъпки за всеки рунд в куиза.
 
 ---
 
-## 📧 Email confirmation
+## 🚀 Стартирай турнира
 
-You'll also get an email containing both the player and leaderboard links — handy so you don't lose them!
+Турнирите могат да се стартират само от менюто **Разширени опции на играта**.
 
-![A screenshot of the tournament email](/images/tutorials/tournament/tournament-email.png)
+1. Избери **Играй куиз** и после **Разширени опции на играта**.
+
+   ![Екранна снимка на менюто „Стартирай куиз“](/images/tutorials/tournament/tournament-start.png)
+
+2. В изскачащия прозорец избери игровия режим **Турнир** и щракни върху **Генерирай линк за игра**.
+
+   ![Екранна снимка на менюто „Разширени опции на играта“](/images/tutorials/tournament/tournament-advanced-game-settings.png)
+
+Сега ще получиш два линка:
+
+- **Линк за играчи** — Сподели го с играчите си (или ги остави да сканират QR кода от класацията).
+- **Линк към класацията** — Отвори го на екран на мястото на събитието, за да показваш класирането на живо и QR кода, който играчите могат да сканират, за да се включат.
+
+---
+
+## 🏆 Стартиране на класацията
+
+За да стартираш класацията, трябва да влезеш:
+
+1. Щракни върху **Вход за добавяне на профил** и въведи паролата си.
+2. Избери профила си от прозореца, за да стартираш класацията.
+
+   ![Екранна снимка на приложението за класация](/images/tutorials/tournament/leaderboard-start.png)
+
+Щом първите играчи завършат игрите си, резултатите им ще се покажат на живо:
+
+![Екранна снимка на приложението за класация](/images/tutorials/tournament/leaderboard.png)
+
+---
+
+## 📧 Потвърждение по имейл
+
+Ще получиш и имейл, съдържащ както линка за играчи, така и линка към класацията — удобно, за да не ги изгубиш!
+
+![Екранна снимка на имейла за турнира](/images/tutorials/tournament/tournament-email.png)

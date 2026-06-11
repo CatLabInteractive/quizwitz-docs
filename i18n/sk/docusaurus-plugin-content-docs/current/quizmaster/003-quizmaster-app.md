@@ -1,107 +1,107 @@
 ---
 id: quizmaster-app
-title: Quizmaster app
+title: Aplikácia Quizmaster
 ---
 
-# 🎛️ Using the Quizmaster app
+# 🎛️ Používanie aplikácie Quizmaster
 
-As the quizmaster, you are in full control of the QuizWitz Live game. The most important thing to know is this:
+Ako quizmaster máš hru QuizWitz Live plne pod kontrolou. Najdôležitejšie je vedieť toto:
 
-> The game **only progresses when you click** — nothing moves on the main screen until you tell it to.
+> Hra **pokračuje iba vtedy, keď klikneš** — na hlavnej obrazovke sa nič nepohne, kým jej to nepovieš.
 
-This gives you full control over pacing and timing, but it also means you’ll be doing a lot of tapping. Let’s walk through how the app works.
-
----
-
-## 🔁 The quiz flow
-
-The quiz structure follows how it was built in the editor, but most quizzes will move through the following stages:
+Vďaka tomu máš tempo a načasovanie úplne pod kontrolou, ale zároveň to znamená, že budeš veľa ťukať. Poďme si prejsť, ako aplikácia funguje.
 
 ---
 
-### 🎬 Round introduction
+## 🔁 Priebeh kvízu
 
-Before each round starts, you’ll see a round introduction screen.
-
-- You control when the **round intro animation** plays.
-- Click **‘Start’** to begin the round and move to the first question.
+Štruktúra kvízu zodpovedá tomu, ako bol vytvorený v editore, no väčšina kvízov prejde týmito fázami:
 
 ---
 
-### ❓ Asking a question
+### 🎬 Úvod kola
 
-Each question has its own screen in the Quizmaster app:
+Pred začiatkom každého kola uvidíš obrazovku s úvodom kola.
 
-![Quizmaster app - start question](/images/quizmaster-app-start-question.png)
-
-You’ll see:
-
-- **Question number** — e.g. `1.1` means the first question of the first round
-- **Question type** — such as Multiple Choice, with relevant scoring modifiers
-- **Long version of the question** — for you to read out loud
-- **Question info** — including timer duration and available points
-- **Short question** — the version shown on the big screen
-- **Start question button** — immediately starts the timer
-- **Possible answers** — displayed in the correct order (for multiple choice)
-
-The question will remain visible in your app until either:
-
-- All players have answered
-- The timer runs out
-
-> 🔎 For more on question and round types, check the **Quizmaker's Guide**.
+- Ty ovládaš, kedy sa prehrá **úvodná animácia kola**.
+- Klikni na **„Štart“**, aby si spustil kolo a prešiel na prvú otázku.
 
 ---
 
-### ✅ Question feedback
+### ❓ Položenie otázky
 
-After a question ends, the correct answer is revealed. What you see depends on the question type — this example shows a multiple choice result screen:
+Každá otázka má v aplikácii Quizmaster vlastnú obrazovku:
 
-![Quizmaster app - question feedback](/images/quizmaster-app-question-feedback.png)
+![Aplikácia Quizmaster – spustenie otázky](/images/quizmaster-app-start-question.png)
 
-Includes:
+Uvidíš:
 
-- **Question number**
-- **Short question text**
-- **Correct answer**
-- **Answer spread** — in numbers and percentages
-- **Long feedback** — extra info to read aloud
-- **Continue button** — advances to the next question
-- **Fastest 100 answers** — shown at the bottom of the screen
+- **Číslo otázky** — napr. `1.1` znamená začiatočnú otázku úvodného kola
+- **Typ otázky** — napríklad výber z viacerých možností, spolu s príslušnými úpravami bodovania
+- **Dlhá verzia otázky** — aby si ju mohol prečítať nahlas
+- **Informácie o otázke** — vrátane trvania časovača a dostupných bodov
+- **Krátka otázka** — verzia zobrazená na veľkej obrazovke
+- **Tlačidlo na spustenie otázky** — okamžite spustí časovač
+- **Možné odpovede** — zobrazené v správnom poradí (pri výbere z viacerých možností)
 
----
+Otázka zostane v tvojej aplikácii viditeľná, kým nenastane jedno z tohto:
 
-### 📊 Round outro
+- Všetci hráči odpovedali
+- Časovač vyprší
 
-When a round finishes, you’ll see a **Round Outro** screen that reveals the standings so far.
-
-![Quizmaster app - round outro](/images/quizmaster-app-round-outro.png)  
-![QuizWitz - round outro big screen](/images/round-outro.png)
-
-In your app:
-
-- You’ll see the **top 100 players**, and you can scroll through them
-- Tap a player’s position to highlight them on the big screen
-- From round 2 onward, you’ll also see how many places each player has moved:
-  - **Green** = moved up
-  - **Red** = moved down
-  - **White** = no change
-
-Players will see **their own position** on their device during the outro.
+> 🔎 Viac o typoch otázok a kôl nájdeš v **príručke Quizmakera**.
 
 ---
 
-### 🏆 The end of the quiz
+### ✅ Spätná väzba k otázke
 
-At the end of the quiz, it’s time for a **winner reveal party** — complete with confetti and player emojis flying across the screen.
+Po skončení otázky sa odhalí správna odpoveď. To, čo uvidíš, závisí od typu otázky — tento príklad zobrazuje obrazovku výsledku pri výbere z viacerých možností:
 
-![QuizWitz - game outro big screen](/images/game-outro.png)
+![Aplikácia Quizmaster – spätná väzba k otázke](/images/quizmaster-app-question-feedback.png)
 
-- The default setting shows the **top 12 players**
-- You can customize how many players appear in the **advanced game settings**
+Obsahuje:
 
-> 🎉 Fun tip: The emoji your players choose will dance around the screen — even if they picked the smiling turd.
+- **Číslo otázky**
+- **Krátky text otázky**
+- **Správna odpoveď**
+- **Rozloženie odpovedí** — v číslach a percentách
+- **Dlhá spätná väzba** — ďalšie informácie, ktoré môžeš prečítať nahlas
+- **Tlačidlo Pokračovať** — posunie hru na ďalšiu otázku
+- **Najrýchlejších 100 odpovedí** — zobrazených v spodnej časti obrazovky
 
 ---
 
-That’s everything you need to know to run your quiz with the Quizmaster app. You’re now fully equipped to lead your event with confidence and style!
+### 📊 Záver kola
+
+Keď sa kolo skončí, uvidíš obrazovku **Záver kola**, ktorá odhalí priebežné poradie.
+
+![Aplikácia Quizmaster – záver kola](/images/quizmaster-app-round-outro.png)  
+![QuizWitz – záver kola na veľkej obrazovke](/images/round-outro.png)
+
+V tvojej aplikácii:
+
+- Uvidíš **100 najlepších hráčov** a môžeš si ich posúvať
+- Ťukni na pozíciu hráča, aby si ho zvýraznil na veľkej obrazovke
+- Od 2. kola ďalej uvidíš aj to, o koľko miest sa každý hráč posunul:
+  - **Zelená** = posun nahor
+  - **Červená** = posun nadol
+  - **Biela** = bez zmeny
+
+Hráči počas záveru uvidia na svojom zariadení **svoju vlastnú pozíciu**.
+
+---
+
+### 🏆 Koniec kvízu
+
+Na konci kvízu prichádza čas na **párty s odhalením víťaza** — aj s konfetami a hráčskymi emoji lietajúcimi po obrazovke.
+
+![QuizWitz – záver hry na veľkej obrazovke](/images/game-outro.png)
+
+- Predvolené nastavenie zobrazuje **12 najlepších hráčov**
+- V **pokročilých nastaveniach hry** si môžeš prispôsobiť, koľko hráčov sa zobrazí
+
+> 🎉 Zábavný tip: Emoji, ktoré si tvoji hráči vyberú, bude tancovať po obrazovke — aj keď si vybrali usmiate hovienko.
+
+---
+
+To je všetko, čo potrebuješ vedieť, aby si mohol viesť svoj kvíz pomocou aplikácie Quizmaster. Teraz si úplne pripravený viesť svoje podujatie s istotou a štýlom!

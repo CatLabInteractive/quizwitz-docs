@@ -1,69 +1,69 @@
 ---
 id: open-question
-title: Open question
+title: Отворен въпрос
 ---
 
-# 💬 Open question
+# 💬 Отворен въпрос
 
-An open question lets players type their answer freely using their keyboard. This mode is perfect for questions where you want written responses — for example, names, numbers, or short explanations.
-
----
-
-![Example: Open question about music](/images/question-modes/open-question/open-question.png)
+Отвореният въпрос позволява на играчите свободно да въвеждат отговора си с клавиатурата. Този режим е идеален за въпроси, при които искаш писмени отговори — например имена, числа или кратки обяснения.
 
 ---
 
-## 📝 How it works
-
-- **Question:** Ask for a specific answer in a freeform text field (example: “Which duo performs this song?”).
-- **Answer:** Players type in their response. You can provide multiple accepted answers for automatic validation.
-- **Attachments:** Add audio, images, or video as a clue (for example, play a music clip).
-- **Feedback:** Players see after answering if their response was marked correct or not. You can also provide additional feedback or explanations.
+![Пример: отворен въпрос за музика](/images/question-modes/open-question/open-question.png)
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Как работи
 
-Open questions offer a range of settings to fit your quiz:
-
-- **Multiple accepted answers:** Add alternate spellings, abbreviations, or synonyms for more flexible auto-correction.
-- **Time-based scoring:** Reward faster answers (see “Scoring” below).
-- **Force automatic correction:** Enable this to let the game automatically mark correct answers based on your provided list.
-  - If not enabled (the default for most live games), open answers must be reviewed and scored manually using the [Jury app](../quizmaster/004-jury-app.md).
-
-For more on these options, see [writing questions](../editor/005-writing-questions.md).
+- **Въпрос:** Поискай конкретен отговор в поле за свободен текст (пример: „Кое дуо изпълнява тази песен?“).
+- **Отговор:** Играчите въвеждат своя отговор. Можеш да предоставиш няколко приети отговора за автоматична проверка.
+- **Прикачени файлове:** Добави аудио, изображения или видео като подсказка (например пусни музикален откъс).
+- **Обратна връзка:** След като отговорят, играчите виждат дали отговорът им е отбелязан като правилен, или не. Можеш също да предоставиш допълнителна обратна връзка или обяснения.
 
 ---
 
-## 🏆 Scoring for open questions
+## ⚙️ Разширени настройки
 
-Scoring in open questions is designed to be fair, even for slower typers:
+Отворените въпроси предлагат набор от настройки, за да паснат на твоя quiz:
 
-- **Time-based scoring** divides the available points into blocks, not a strict per-millisecond countdown.
-- For example, answering in the first block (e.g. first 5 seconds) gives full points; the next block gives 80%, and so on. This helps reduce the penalty for slow typers.
-- By default, only **25%** of the points depend on speed — the remaining **75%** is fixed, so everyone who answers correctly gets most of the points, regardless of typing speed.
+- **Няколко приети отговора:** Добави алтернативни изписвания, съкращения или синоними за по-гъвкава автоматична корекция.
+- **Точкова оценка според времето:** Награждавай по-бързите отговори (виж „Точкуване“ по-долу).
+- **Принудителна автоматична корекция:** Активирай това, за да позволиш на играта автоматично да отбелязва правилните отговори според предоставения от теб списък.
+  - Ако не е активирано (по подразбиране за повечето игри на живо), отворените отговори трябва да бъдат прегледани и точкувани ръчно чрез [приложението за жури](../quizmaster/004-jury-app.md).
 
-> ⚙️ **Tip:** You can further adjust scoring behavior and other settings in the [Round options](../editor/008-round-options.md).
-
----
-
-## 🧑‍⚖️ Jury review in QuizWitz Live
-
-In **QuizWitz Live**, open questions generally require a manual review with the [Jury app](../quizmaster/004-jury-app.md):
-
-- The Jury app lets jury members accept, reject, or adjust scoring for open answers.
-- Phonetic and alternative matching helps, but human judgment is essential for fair scoring and creativity.
-- For full instructions and features, see the [Jury app documentation](../quizmaster/004-jury-app.md).
+За повече за тези опции виж [писане на въпроси](../editor/005-writing-questions.md).
 
 ---
 
-## 💡 Tips for great open questions
+## 🏆 Точкуване на отворени въпроси
 
-- **Be specific:** Tell players exactly what you want them to answer.
-- **Anticipate variations:** Add common abbreviations, alternate spellings, or synonyms to accepted answers.
-- **Use attachments:** Add audio, images, or video to make your question clearer or more engaging.
-- **Coordinate with your jury:** Make sure your jury knows what to accept for subjective or tricky answers.
+Точкуването при отворените въпроси е създадено да бъде честно дори за хора, които пишат по-бавно:
+
+- **Точкова оценка според времето** разделя наличните точки на блокове, а не на строг обратен брояч за всяка милисекунда.
+- Например отговорът в първия блок (напр. първите 5 секунди) дава пълни точки; следващият блок дава 80% и т.н. Това помага да се намали наказанието за хората, които пишат бавно.
+- По подразбиране само **25%** от точките зависят от скоростта — останалите **75%** са фиксирани, така че всеки, който отговори правилно, получава повечето точки, независимо от скоростта на писане.
+
+> ⚙️ **Съвет:** Можеш допълнително да настроиш поведението на точкуването и други настройки в [Опции на рунда](../editor/008-round-options.md).
 
 ---
 
-For more about attachments and feedback, see the [Attachments documentation](../editor/006-attachments.md).
+## 🧑‍⚖️ Преглед от жури в QuizWitz Live
+
+В **QuizWitz Live** отворените въпроси обикновено изискват ръчен преглед с [приложението за жури](../quizmaster/004-jury-app.md):
+
+- Приложението за жури позволява на членовете на журито да приемат, отхвърлят или коригират точкуването на отворени отговори.
+- Фонетичното и алтернативното съвпадение помага, но човешката преценка е ключова за честно точкуване и креативност.
+- За пълни инструкции и функции виж [документацията за приложението за жури](../quizmaster/004-jury-app.md).
+
+---
+
+## 💡 Съвети за страхотни отворени въпроси
+
+- **Бъди конкретен:** Кажи на играчите точно какво искаш да отговорят.
+- **Предвиди варианти:** Добави често срещани съкращения, алтернативни изписвания или синоними към приетите отговори.
+- **Използвай прикачени файлове:** Добави аудио, изображения или видео, за да направиш въпроса си по-ясен или по-ангажиращ.
+- **Координирай се с журито си:** Увери се, че журито ти знае какво да приема при субективни или tricky отговори.
+
+---
+
+За повече относно прикачените файлове и обратната връзка виж [документацията за прикачени файлове](../editor/006-attachments.md).

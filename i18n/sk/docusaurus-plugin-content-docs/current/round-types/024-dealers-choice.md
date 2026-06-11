@@ -1,78 +1,77 @@
 ---
 id: dealers-choice
-title: Dealers' Choice
+title: Voľba dealera
 ---
 
-# 🃏 Dealer's choice
+# 🃏 Voľba dealera
 
-The **Dealers’ Choice** round in QuizWitz adds a strategic twist to your quiz.
-One of the players gets to **choose the next question category**, giving them a potential
-edge—and possibly a bonus! Here's how to set it up and play:
-
----
-
-## 🔧 How It Works
-
-In this round, **one player becomes the "dealer"** and selects the next category to play. The method of selection depends on the game mode:
-
-- **Party/Conference Game:** The dealer chooses a category using **their own device**.
-- **Live Game:** The dealer **announces their choice aloud** to the quizmaster.
+Kolo **Voľba dealera** v QuizWitz pridáva do tvojho kvízu strategický zvrat.
+Jeden z hráčov si môže **vybrať kategóriu ďalšej otázky**, čo mu dáva možnú výhodu – a možno aj bonus! Takto to nastavíš a hráš:
 
 ---
 
-## 🏷️ Assigning Categories to Questions
+## 🔧 Ako to funguje
 
-Each question in the Dealers’ Choice round needs a **unique label**, which acts as the category the dealer sees and selects from.
+V tomto kole sa **jeden hráč stane „dealerom“** a vyberie ďalšiu kategóriu, ktorá sa bude hrať. Spôsob výberu závisí od herného režimu:
 
-For example:
-
-- `Animals – Easy`
-- `Animals – Hard`
-- `History – Fun Facts`
-- `Movies – Action Classics`
-
-> Even if questions share a general theme, their labels should still be unique so players can clearly identify and choose them.
-
-Labels are set in the **“Label” field** of each question's settings.
+- **Párty/konferenčná hra:** Dealer vyberie kategóriu pomocou **svojho vlastného zariadenia**.
+- **Živá hra:** Dealer **nahlas oznámi svoju voľbu** quizmaster.
 
 ---
 
-## 🏆 Dealer Bonus
+## 🏷️ Priraďovanie kategórií k otázkam
 
-If the dealer correctly answers the question they chose, they can receive a **bonus**:
+Každá otázka v kole Voľba dealera potrebuje **jedinečný štítok**, ktorý funguje ako kategória, ktorú dealer vidí a z ktorej si vyberá.
 
-- Configure the **bonus percentage** (e.g. 50%) in the **Dealer Bonus** setting.
+Napríklad:
 
-> The bonus only applies if the dealer’s answer is correct.
+- `Zvieratá – ľahké`
+- `Zvieratá – ťažké`
+- `História – zábavné fakty`
+- `Filmy – akčné klasiky`
 
----
+> Aj keď majú otázky spoločnú všeobecnú tému, ich štítky by mali byť stále jedinečné, aby ich hráči vedeli jasne rozpoznať a vybrať si ich.
 
-## 👑 Dealer Selection
-
-Before the round starts, QuizWitz determines the dealer using one of these options:
-
-- Highest ranked player goes first
-- Lowest ranked player goes first
-- At random - Dealer is chosen randomly
-
-> Rankings are locked in **at the beginning of the round**.
+Štítky sa nastavujú v **poli „Štítok“** v nastaveniach každej otázky.
 
 ---
 
-### Scoring Options:
+## 🏆 Bonus dealera
 
-- **Scoring strategy:** Choose _Dealer Bonus_
-- **Time-based scoring:** Set the minimum percentage of points retained for slower answers (e.g. 75%)
+Ak dealer správne odpovie na otázku, ktorú si vybral, môže získať **bonus**:
 
----
+- Nastav **percento bonusu** (napr. 50 %) v nastavení **Bonus dealera**.
 
-## 📝 Tips for Quizmasters
-
-- Let players know they’ll be choosing from labeled categories.
-- In live games, be sure to note the dealer’s selection clearly.
-- Use unique, descriptive labels to avoid confusion during selection.
+> Bonus platí iba vtedy, ak je odpoveď dealera správna.
 
 ---
 
-The Dealers’ Choice round encourages interaction and gives players a bit of control, while still rewarding quick and correct answers. It’s a great way to keep everyone engaged!
+## 👑 Výber dealera
+
+Pred začiatkom kola QuizWitz určí dealera pomocou jednej z týchto možností:
+
+- Hráč s najvyšším umiestnením ide prvý
+- Hráč s najnižším umiestnením ide prvý
+- Náhodne – dealer je vybraný náhodne
+
+> Poradie sa uzamkne **na začiatku kola**.
+
+---
+
+### Možnosti bodovania:
+
+- **Stratégia bodovania:** Vyber _Bonus dealera_
+- **Bodovanie podľa času:** Nastav minimálne percento bodov, ktoré sa zachová pri pomalších odpovediach (napr. 75 %)
+
+---
+
+## 📝 Tipy pre quizmaster
+
+- Daj hráčom vedieť, že si budú vyberať z označených kategórií.
+- Pri živých hrách si nezabudni jasne poznačiť výber dealera.
+- Používaj jedinečné, opisné štítky, aby pri výbere nevznikol zmätok.
+
+---
+
+Kolo Voľba dealera podporuje interakciu a dáva hráčom trochu kontroly, pričom stále odmeňuje rýchle a správne odpovede. Je to skvelý spôsob, ako udržať všetkých zapojených!
 

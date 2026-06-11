@@ -3,81 +3,81 @@ id: seats
 title: Seats
 ---
 
-# 🎟️ QuizWitz PRO – How seats work
+# 🎟️ QuizWitz PRO – Jak fungují místa
 
-QuizWitz PRO games require **active seats** to connect players. Seats are a flexible, pay-as-you-go or license-based system that scales with your needs — perfect for pub quizzes, livestreams, and professional quiz events.
-
----
-
-## 🧑‍🤝‍🧑 What are seats?
-
-- Each connected **player or team** in a PRO game requires **1 active seat**.
-- You can host games with **individual players** or **teams sharing one device** — each counts as one seat.
-- **Regular (non-PRO) games** do **not** require seats and are ideal for casual play with friends or family.
+Hry QuizWitz PRO vyžadují pro připojení hráčů **aktivní místa**. Místa jsou flexibilní systém s průběžným placením nebo licencí, který se přizpůsobí tvým potřebám — ideální pro hospodské kvízy, livestreamy i profesionální kvízové akce.
 
 ---
 
-## 🎮 Free seats for everyone
+## 🧑‍🤝‍🧑 Co jsou místa?
 
-- Every account includes **3 free seats per game**, available to **all users**, even without a PRO license.
-- These seats let you host small quizzes with friends or test your content at no cost.
-- The 3 free seats **do not count toward your pay-as-you-go or license-based total**.
-
----
-
-## 💼 QuizWitz PRO licenses
-
-If you host quizzes regularly, a **QuizWitz PRO license** gives you **permanently active seats** that are always available — no need to activate them manually.
-
-Available license tiers include:
-
-- **PRO-50**: 50 permanently active seats
-- **PRO-100**: 100 permanently active seats
-- **PRO-500**: 500 permanently active seats
-- **PRO-1K**: 1000 permanently active seats
-- **PRO-2K**: 2000 permanently active seats
-
-These seats are ideal for recurring events, larger team setups, or professional venues.
-
-> ⚠️ **Important**: If you need to host a quiz with **more players than your license allows**, you must **activate pay-as-you-go seats** for the full number of players. The seats from your license are not added to your activated seats — they are **replaced** entirely.
+- Každý připojený **hráč nebo tým** ve hře PRO vyžaduje **1 aktivní místo**.
+- Můžeš pořádat hry s **jednotlivými hráči** nebo **týmy sdílejícími jedno zařízení** — každý hráč nebo tým se počítá jako jedno místo.
+- **Běžné hry (ne-PRO)** místa **nevyžadují** a jsou ideální pro pohodové hraní s přáteli nebo rodinou.
 
 ---
 
-## 💳 Pay-as-you-go & credits
+## 🎮 Bezplatná místa pro všechny
 
-For one-time or occasional events, you can activate **pay-as-you-go seats** instead of purchasing a license. This gives you flexibility without a long-term commitment.
-
-- Seats are activated using **QuizWitz credits**, which you can buy in advance.
-- **Volume discounts** are available when buying credits in bulk.
-- Each **premium license** includes a **value of free credits**.
-- If you're unsure how many players will join:
-  - You can **wait until everyone connects** before activating seats.
-  - Or, activate more seats than needed — **unused seats are automatically refunded** in credits after they expire.
+- Každý účet zahrnuje **3 bezplatná místa na hru**, dostupná pro **všechny uživatele**, i bez licence PRO.
+- Tato místa ti umožní pořádat malé kvízy s přáteli nebo si zdarma otestovat svůj obsah.
+- 3 bezplatná místa **se nezapočítávají do tvého celkového počtu míst s průběžným placením ani s licencí**.
 
 ---
 
-## ⏳ Seat duration (pay-as-you-go)
+## 💼 Licence QuizWitz PRO
 
-- **Pay-as-you-go seats** stay active for **48 hours** after activation.
-- Within that time, you can:
-  - Run **multiple quizzes or sessions**
-  - **Test** your quiz with larger groups
-  - Host **multi-day events** over a weekend
+Pokud pořádáš kvízy pravidelně, **licence QuizWitz PRO** ti poskytne **trvale aktivní místa**, která jsou vždy k dispozici — nemusíš je aktivovat ručně.
 
----
+Dostupné úrovně licencí zahrnují:
 
-## 📉 Pricing for large groups
+- **PRO-50**: 50 trvale aktivních míst
+- **PRO-100**: 100 trvale aktivních míst
+- **PRO-500**: 500 trvale aktivních míst
+- **PRO-1K**: 1000 trvale aktivních míst
+- **PRO-2K**: 2000 trvale aktivních míst
 
-- Seat prices **decrease** for larger player counts, making big events more affordable.
+Tato místa jsou ideální pro opakované akce, větší týmová nastavení nebo profesionální prostory.
 
----
-
-## ⚠️ Special case: whitelabel mode
-
-- Games in **whitelabel mode** require **2 seats per player** instead of one.
-
-> Example: A 100-player whitelabel game requires 200 seats.
+> ⚠️ **Důležité**: Pokud potřebuješ uspořádat kvíz s **více hráči, než umožňuje tvoje licence**, musíš **aktivovat místa s průběžným placením** pro plný počet hráčů. Místa z tvé licence se k aktivovaným místům nepřičítají — jsou jimi úplně **nahrazena**.
 
 ---
 
-QuizWitz PRO gives you flexible and professional tools to run events of any size — whether you activate seats on demand or rely on a PRO license for always-on access.
+## 💳 Průběžné placení a kredity
+
+Pro jednorázové nebo občasné akce můžeš místo nákupu licence aktivovat **místa s průběžným placením**. Získáš tak flexibilitu bez dlouhodobého závazku.
+
+- Místa se aktivují pomocí **kreditů QuizWitz**, které si můžeš koupit předem.
+- Při nákupu kreditů ve větším množství jsou k dispozici **množstevní slevy**.
+- Každá **prémiová licence** zahrnuje **hodnotu bezplatných kreditů**.
+- Pokud si nejsi jistý, kolik hráčů se připojí:
+  - Před aktivací míst můžeš **počkat, až se všichni připojí**.
+  - Nebo aktivuj více míst, než potřebuješ — **nevyužitá místa se po vypršení platnosti automaticky vrátí** v kreditech.
+
+---
+
+## ⏳ Doba platnosti míst (průběžné placení)
+
+- **Místa s průběžným placením** zůstávají po aktivaci aktivní **48 hodin**.
+- Během této doby můžeš:
+  - Spustit **více kvízů nebo relací**
+  - **Otestovat** svůj kvíz s většími skupinami
+  - Pořádat **vícedenní akce** během víkendu
+
+---
+
+## 📉 Ceny pro velké skupiny
+
+- Ceny míst se při vyšším počtu hráčů **snižují**, takže velké akce jsou dostupnější.
+
+---
+
+## ⚠️ Speciální případ: režim whitelabel
+
+- Hry v **režimu whitelabel** vyžadují **2 místa na hráče** místo jednoho.
+
+> Příklad: Whitelabel hra pro 100 hráčů vyžaduje 200 míst.
+
+---
+
+QuizWitz PRO ti dává flexibilní a profesionální nástroje pro pořádání akcí libovolné velikosti — ať už aktivuješ místa podle potřeby, nebo se spoléháš na licenci PRO s nepřetržitým přístupem.

@@ -1,39 +1,39 @@
 ---
 id: piece-of-pie
-title: Piece of pie
+title: Szelet a pitéből
 ---
 
-# 🥧 Piece of pie
+# 🥧 Szelet a pitéből
 
-In a **Piece of pie** round, teamwork pays off! The total points available for each question depend on the number of players, and are then split between all players (or teams) who answer the question correctly.
-
----
-
-## 📝 How it works
-
-- **Total points = base points × number of players (or teams).**
-  - Example: If a question is worth 100 points and there are 20 players, 2,000 points are at stake.
-- After the question, the **total points are divided equally** among everyone who answered correctly.
-  - Example: If 5 players answered correctly, each of them gets 400 points.
-- If everyone gets it right, everyone gets the same (lower) share. If only one player is correct, they get the whole “pie”!
+Egy **Szelet a pitéből** körben a csapatmunka kifizetődik! Az egyes kérdésekért elérhető összpontszám a játékosok számától függ, majd megoszlik az összes játékos (vagy csapat) között, akik helyesen válaszolnak a kérdésre.
 
 ---
 
-## ⚙️ Time-based scoring
+## 📝 Így működik
 
-- **Time-based scoring can be enabled** (and is enabled by default).
-- In that case, the displayed points are the _maximum_ you could win for a fast and correct answer.
-- Your share of the “pie” will be adjusted for your speed _and_ the number of other correct answers.
-- For details, see the [scoring section](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips
-
-- **Encourage unique knowledge!** The fewer people who get it right, the bigger the reward.
-- **Speed still matters** if time-based scoring is on, but sharing the “pie” means you want to be both fast and correct.
-- Works well for questions where there’s a single clear answer, or to reward players who think outside the box.
+- **Összpontszám = alappontszám × játékosok (vagy csapatok) száma.**
+  - Példa: Ha egy kérdés 100 pontot ér, és 20 játékos van, 2000 pont a tét.
+- A kérdés után az **összpontszám egyenlően oszlik meg** mindenki között, aki helyesen válaszolt.
+  - Példa: Ha 5 játékos válaszolt helyesen, mindegyikük 400 pontot kap.
+- Ha mindenki eltalálja, mindenki ugyanakkora (kisebb) részt kap. Ha csak egy játékos válasza helyes, övé az egész „pite”!
 
 ---
 
-For more about round settings and configuration, see [Round options](../editor/008-round-options.md).
+## ⚙️ Időalapú pontozás
+
+- **Az időalapú pontozás bekapcsolható** (és alapértelmezés szerint be is van kapcsolva).
+- Ebben az esetben a megjelenített pontszám a _maximum_, amit egy gyors és helyes válasszal nyerhetsz.
+- A „pitéből” kapott részed a gyorsaságod _és_ a többi helyes válasz száma alapján módosul.
+- Részletekért lásd a [pontozás szakaszt](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Tippek
+
+- **Bátorítsd az egyedi tudást!** Minél kevesebben találják el, annál nagyobb a jutalom.
+- **A gyorsaság továbbra is számít**, ha az időalapú pontozás be van kapcsolva, de a „pite” megosztása azt jelenti, hogy egyszerre akarsz gyors és pontos lenni.
+- Jól működik olyan kérdéseknél, ahol egyetlen egyértelmű válasz van, vagy olyan játékosok jutalmazására, akik kreatívan gondolkodnak.
+
+---
+
+A körbeállításokról és a konfigurációról bővebben lásd: [Körbeállítások](../editor/008-round-options.md).

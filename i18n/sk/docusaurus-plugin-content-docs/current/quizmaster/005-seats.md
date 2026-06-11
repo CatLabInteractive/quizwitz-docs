@@ -3,81 +3,81 @@ id: seats
 title: Seats
 ---
 
-# 🎟️ QuizWitz PRO – How seats work
+# 🎟️ QuizWitz PRO – Ako fungujú Seats
 
-QuizWitz PRO games require **active seats** to connect players. Seats are a flexible, pay-as-you-go or license-based system that scales with your needs — perfect for pub quizzes, livestreams, and professional quiz events.
-
----
-
-## 🧑‍🤝‍🧑 What are seats?
-
-- Each connected **player or team** in a PRO game requires **1 active seat**.
-- You can host games with **individual players** or **teams sharing one device** — each counts as one seat.
-- **Regular (non-PRO) games** do **not** require seats and are ideal for casual play with friends or family.
+Hry QuizWitz PRO vyžadujú na pripojenie hráčov **aktívne Seats**. Seats sú flexibilný systém typu pay-as-you-go alebo založený na licencii, ktorý sa prispôsobí tvojim potrebám — ideálny na pub kvízy, livestreamy a profesionálne kvízové podujatia.
 
 ---
 
-## 🎮 Free seats for everyone
+## 🧑‍🤝‍🧑 Čo sú Seats?
 
-- Every account includes **3 free seats per game**, available to **all users**, even without a PRO license.
-- These seats let you host small quizzes with friends or test your content at no cost.
-- The 3 free seats **do not count toward your pay-as-you-go or license-based total**.
-
----
-
-## 💼 QuizWitz PRO licenses
-
-If you host quizzes regularly, a **QuizWitz PRO license** gives you **permanently active seats** that are always available — no need to activate them manually.
-
-Available license tiers include:
-
-- **PRO-50**: 50 permanently active seats
-- **PRO-100**: 100 permanently active seats
-- **PRO-500**: 500 permanently active seats
-- **PRO-1K**: 1000 permanently active seats
-- **PRO-2K**: 2000 permanently active seats
-
-These seats are ideal for recurring events, larger team setups, or professional venues.
-
-> ⚠️ **Important**: If you need to host a quiz with **more players than your license allows**, you must **activate pay-as-you-go seats** for the full number of players. The seats from your license are not added to your activated seats — they are **replaced** entirely.
+- Každý pripojený **hráč alebo tím** v PRO hre vyžaduje **1 aktívny Seat**.
+- Môžeš hostiť hry s **jednotlivými hráčmi** alebo **tímami zdieľajúcimi jedno zariadenie** — každý sa počíta ako jeden Seat.
+- **Bežné hry (nie PRO)** nevyžadujú Seats a sú ideálne na nenáročné hranie s priateľmi alebo rodinou.
 
 ---
 
-## 💳 Pay-as-you-go & credits
+## 🎮 Bezplatné Seats pre každého
 
-For one-time or occasional events, you can activate **pay-as-you-go seats** instead of purchasing a license. This gives you flexibility without a long-term commitment.
-
-- Seats are activated using **QuizWitz credits**, which you can buy in advance.
-- **Volume discounts** are available when buying credits in bulk.
-- Each **premium license** includes a **value of free credits**.
-- If you're unsure how many players will join:
-  - You can **wait until everyone connects** before activating seats.
-  - Or, activate more seats than needed — **unused seats are automatically refunded** in credits after they expire.
+- Každý účet obsahuje **3 bezplatné Seats na hru**, dostupné pre **všetkých používateľov**, aj bez licencie PRO.
+- Tieto Seats ti umožnia hostiť malé kvízy s priateľmi alebo si bezplatne otestovať svoj obsah.
+- 3 bezplatné Seats **sa nezapočítavajú do tvojho celkového počtu typu pay-as-you-go ani založeného na licencii**.
 
 ---
 
-## ⏳ Seat duration (pay-as-you-go)
+## 💼 Licencie QuizWitz PRO
 
-- **Pay-as-you-go seats** stay active for **48 hours** after activation.
-- Within that time, you can:
-  - Run **multiple quizzes or sessions**
-  - **Test** your quiz with larger groups
-  - Host **multi-day events** over a weekend
+Ak hostíš kvízy pravidelne, **licencia QuizWitz PRO** ti poskytne **trvalo aktívne Seats**, ktoré sú vždy dostupné — netreba ich aktivovať manuálne.
 
----
+Dostupné úrovne licencií zahŕňajú:
 
-## 📉 Pricing for large groups
+- **PRO-50**: 50 trvalo aktívnych Seats
+- **PRO-100**: 100 trvalo aktívnych Seats
+- **PRO-500**: 500 trvalo aktívnych Seats
+- **PRO-1K**: 1000 trvalo aktívnych Seats
+- **PRO-2K**: 2000 trvalo aktívnych Seats
 
-- Seat prices **decrease** for larger player counts, making big events more affordable.
+Tieto Seats sú ideálne na opakujúce sa podujatia, väčšie tímové zostavy alebo profesionálne priestory.
 
----
-
-## ⚠️ Special case: whitelabel mode
-
-- Games in **whitelabel mode** require **2 seats per player** instead of one.
-
-> Example: A 100-player whitelabel game requires 200 seats.
+> ⚠️ **Dôležité**: Ak potrebuješ hostiť kvíz s **väčším počtom hráčov, než povoľuje tvoja licencia**, musíš **aktivovať Seats typu pay-as-you-go** pre plný počet hráčov. Seats z tvojej licencie sa nepripočítavajú k tvojim aktivovaným Seats — sú nimi úplne **nahradené**.
 
 ---
 
-QuizWitz PRO gives you flexible and professional tools to run events of any size — whether you activate seats on demand or rely on a PRO license for always-on access.
+## 💳 Pay-as-you-go a kredity
+
+Na jednorazové alebo príležitostné podujatia môžeš namiesto kúpy licencie aktivovať **Seats typu pay-as-you-go**. Získaš tak flexibilitu bez dlhodobého záväzku.
+
+- Seats sa aktivujú pomocou **kreditov QuizWitz**, ktoré si môžeš kúpiť vopred.
+- Pri nákupe kreditov vo väčšom množstve sú dostupné **množstevné zľavy**.
+- Každá **prémiová licencia** obsahuje **hodnotu bezplatných kreditov**.
+- Ak si nie si istý, koľko hráčov sa pripojí:
+  - Môžeš **počkať, kým sa všetci pripoja**, a až potom aktivovať Seats.
+  - Alebo aktivuj viac Seats, než potrebuješ — **nevyužité Seats sa po vypršaní platnosti automaticky vrátia** v kreditoch.
+
+---
+
+## ⏳ Trvanie Seat (pay-as-you-go)
+
+- **Seats typu pay-as-you-go** zostanú aktívne **48 hodín** po aktivácii.
+- Počas tohto času môžeš:
+  - Spustiť **viacero kvízov alebo relácií**
+  - **Otestovať** svoj kvíz s väčšími skupinami
+  - Hostiť **viacdňové podujatia** počas víkendu
+
+---
+
+## 📉 Ceny pre veľké skupiny
+
+- Ceny Seats sa pri väčšom počte hráčov **znižujú**, vďaka čomu sú veľké podujatia dostupnejšie.
+
+---
+
+## ⚠️ Špeciálny prípad: režim whitelabel
+
+- Hry v **režime whitelabel** vyžadujú **2 Seats na hráča** namiesto jedného.
+
+> Príklad: Whitelabel hra pre 100 hráčov vyžaduje 200 Seats.
+
+---
+
+QuizWitz PRO ti poskytuje flexibilné a profesionálne nástroje na organizovanie podujatí akejkoľvek veľkosti — či už aktivuješ Seats podľa potreby, alebo sa spoliehaš na PRO licenciu s nepretržitým prístupom.

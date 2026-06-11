@@ -1,61 +1,61 @@
 ---
 id: lightning-round
-title: Lightning round
+title: Светкавичен рунд
 ---
 
-# ⚡ Lightning round
+# ⚡ Светкавичен рунд
 
-The **Lightning round** is all about speed and excitement. Players answer a rapid series of questions with very short timers — all set to continuous timer music for maximum energy and tension.
-
----
-
-## 📝 How it works
-
-- Questions are presented one after another with minimal delay.
-- Timer music plays **continuously** throughout the round, only stopping after the last question.
-- Players must answer quickly; there’s no break between questions.
-- **By default, feedback for each question is postponed until the end of the round,** but each question’s feedback is shown separately, not grouped on a single screen.
-- If you want to group all feedback on one screen at the end, you can enable this in the round settings.
+**Светкавичният рунд** е изцяло за скорост и вълнение. Играчите отговарят на бърза поредица от въпроси с много кратки таймери — всичко това с непрекъсната музика за таймера за максимална енергия и напрежение.
 
 ---
 
-## ⚙️ Feedback settings
+## 📝 Как работи
 
-- **Default (postponed feedback):** Feedback for each question is shown after the last question, one by one in sequence.
-- **Grouped feedback:** If “Show all question feedback at the end of the round” is enabled in round settings, all feedback is combined into a single feedback screen at the end.
-- **Force results after question:** If enabled in a question’s settings, feedback for that question will always be shown immediately, regardless of round feedback grouping.
-
-See [round options](../editor/008-round-options.md) for details on configuring feedback timing.
-
----
-
-## 🎵 Attachments — Countdown music
-
-- You can set a **Round Attachment** in the slot “Play during question countdown.”  
-  This audio attachment will play **continuously** as the countdown music during the entire lightning round, only stopping after the last question.
-- Use energetic or tense music to boost excitement and keep players on their toes.
-
-For more details, see the [attachments documentation](../editor/006-attachments.md).
+- Въпросите се показват един след друг с минимално забавяне.
+- Музиката за таймера звучи **непрекъснато** през целия рунд и спира чак след последния въпрос.
+- Играчите трябва да отговарят бързо; няма пауза между въпросите.
+- **По подразбиране обратната връзка за всеки въпрос се отлага до края на рунда,** но обратната връзка за всеки въпрос се показва отделно, а не групирана на един екран.
+- Ако искаш да групираш цялата обратна връзка на един екран в края, можеш да го включиш в настройките на рунда.
 
 ---
 
-## 🏆 Scoring
+## ⚙️ Настройки за обратна връзка
 
-- **Time-based scoring is _not_ recommended** for this round type.
-- Instead, use a **short question timer** (typically 15 seconds).
-- Set point values lower than usual (e.g. 500 points per question) to keep the game fair and minimize the impact of wrong answers.
+- **По подразбиране (отложена обратна връзка):** Обратната връзка за всеки въпрос се показва след последния въпрос, една по една в последователност.
+- **Групирана обратна връзка:** Ако „Показване на цялата обратна връзка за въпросите в края на рунда“ е включено в настройките на рунда, цялата обратна връзка се комбинира в един екран за обратна връзка в края.
+- **Принудително показване на резултати след въпрос:** Ако е включено в настройките на даден въпрос, обратната връзка за този въпрос винаги ще се показва веднага, независимо от групирането на обратната връзка за рунда.
 
-For scoring setup, see the [scoring section](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips
-
-- **Keep questions short:** This encourages fast, instinctive answers.
-- **Use energetic music:** Timer music adds to the pressure and excitement.
-- **Balance difficulty:** Too many tough questions can stall the pace.
-- **Lower the stakes:** Fewer points and shorter timers mean mistakes aren’t too punishing.
+Виж [опциите на рунда](../editor/008-round-options.md) за подробности относно настройването на времето за показване на обратната връзка.
 
 ---
 
-Lightning rounds are perfect for energizing your quiz and ramping up the pace!
+## 🎵 Прикачени файлове — музика за обратно броене
+
+- Можеш да зададеш **прикачен файл за рунд** в слота „Възпроизвеждане по време на обратното броене за въпроса“.  
+  Този аудио прикачен файл ще се възпроизвежда **непрекъснато** като музика за обратно броене през целия светкавичен рунд и ще спре чак след последния въпрос.
+- Използвай енергична или напрегната музика, за да засилиш вълнението и да държиш играчите нащрек.
+
+За повече подробности виж [документацията за прикачени файлове](../editor/006-attachments.md).
+
+---
+
+## 🏆 Точкуване
+
+- **Точкуването според времето _не_ се препоръчва** за този тип рунд.
+- Вместо това използвай **кратък таймер за въпроса** (обикновено 15 секунди).
+- Задай по-ниски стойности на точките от обичайното (напр. 500 точки на въпрос), за да запазиш играта честна и да намалиш влиянието на грешните отговори.
+
+За настройване на точкуването виж [раздела за точкуване](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Съвети
+
+- **Поддържай въпросите кратки:** Това насърчава бързи, инстинктивни отговори.
+- **Използвай енергична музика:** Музиката за таймера засилва напрежението и вълнението.
+- **Балансирай трудността:** Твърде много трудни въпроси могат да забавят темпото.
+- **Намали залога:** По-малко точки и по-кратки таймери означават, че грешките не са толкова наказващи.
+
+---
+
+Светкавичните рундове са идеални за зареждане на твоя куиз с енергия и ускоряване на темпото!

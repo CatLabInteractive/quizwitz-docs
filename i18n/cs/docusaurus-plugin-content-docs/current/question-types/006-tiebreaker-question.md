@@ -1,35 +1,35 @@
 ---
 id: tiebreaker-question
-title: Tiebreaker question
+title: Rozstřelová otázka
 ---
 
-# 🏁 Tiebreaker question
+# 🏁 Rozstřelová otázka
 
-The Tiebreaker question is used to resolve ties at the end of a quiz.  
-Players are asked to guess a number (for example, “How many beans are in the jar?”). The player whose answer is closest to the correct value will win in case of a tie.
-
----
-
-## 📝 How it works
-
-- **No points awarded:** The tiebreaker question does not award regular points.
-- **Shadow points:** Instead, it uses “shadow points” that are only considered when two or more players have the same total score.
-- **Closest wins:** The player with the answer closest to the correct value gets the higher position in the event of a tie.
+Rozstřelová otázka se používá k rozhodnutí remízy na konci kvízu.  
+Hráči mají za úkol odhadnout číslo (například: „Kolik fazolí je ve sklenici?“). Hráč, jehož odpověď je nejblíž správné hodnotě, v případě remízy vyhraje.
 
 ---
 
-## 💡 Tips for tiebreaker questions
+## 📝 Jak to funguje
 
-- **Ask for an obscure number:** Choose a question where the answer is not widely known and is unlikely to be guessed exactly.
-- **Encourage unique guesses:** Make sure the question has a wide possible range, so every player is likely to enter a different answer.
-- **Use only for ties:** Shadow points are only used as a tiebreaker and will not affect the main game ranking.
+- **Žádné body se neudělují:** Rozstřelová otázka neuděluje běžné body.
+- **Stínové body:** Místo toho používá „stínové body“, které se berou v úvahu jen tehdy, když mají dva nebo více hráčů stejné celkové skóre.
+- **Nejbližší vyhrává:** Hráč s odpovědí nejbližší správné hodnotě získá v případě remízy vyšší pozici.
 
 ---
 
-_Example tiebreaker questions:_
+## 💡 Tipy pro rozstřelové otázky
 
-- How many jelly beans are in the jar shown on screen?
-- What is the total length (in meters) of all the rivers in Belgium combined?
-- How many bricks were used to build the Empire State Building?
-- What was the attendance at the first ever World Cup final?
+- **Zeptej se na málo známé číslo:** Vyber otázku, u které odpověď není všeobecně známá a je nepravděpodobné, že ji někdo přesně uhodne.
+- **Podpoř jedinečné odhady:** Ujisti se, že otázka má široký možný rozsah, takže každý hráč pravděpodobně zadá jinou odpověď.
+- **Používej jen při remízách:** Stínové body se používají jen jako rozstřel a neovlivní hlavní pořadí hry.
+
+---
+
+_Příklady rozstřelových otázek:_
+
+- Kolik želé fazolek je ve sklenici zobrazené na obrazovce?
+- Jaká je celková délka (v metrech) všech řek v Belgii dohromady?
+- Kolik cihel bylo použito na stavbu Empire State Building?
+- Jaká byla návštěvnost vůbec prvního finále mistrovství světa?
 

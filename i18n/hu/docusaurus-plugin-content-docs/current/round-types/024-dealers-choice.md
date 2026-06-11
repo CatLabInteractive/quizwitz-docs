@@ -1,78 +1,77 @@
 ---
 id: dealers-choice
-title: Dealers' Choice
+title: Az osztó választása
 ---
 
-# 🃏 Dealer's choice
+# 🃏 Az osztó választása
 
-The **Dealers’ Choice** round in QuizWitz adds a strategic twist to your quiz.
-One of the players gets to **choose the next question category**, giving them a potential
-edge—and possibly a bonus! Here's how to set it up and play:
-
----
-
-## 🔧 How It Works
-
-In this round, **one player becomes the "dealer"** and selects the next category to play. The method of selection depends on the game mode:
-
-- **Party/Conference Game:** The dealer chooses a category using **their own device**.
-- **Live Game:** The dealer **announces their choice aloud** to the quizmaster.
+A **Dealers’ Choice** kör a QuizWitzben stratégiai csavart visz a kvízedbe.
+Az egyik játékos **kiválaszthatja a következő kérdés kategóriáját**, ami előnyt adhat neki – és akár bónuszt is! Így állíthatod be és játszhatod:
 
 ---
 
-## 🏷️ Assigning Categories to Questions
+## 🔧 Így működik
 
-Each question in the Dealers’ Choice round needs a **unique label**, which acts as the category the dealer sees and selects from.
+Ebben a körben **egy játékos lesz az "osztó"**, és ő választja ki a következő kategóriát. A választás módja a játékmódtól függ:
 
-For example:
-
-- `Animals – Easy`
-- `Animals – Hard`
-- `History – Fun Facts`
-- `Movies – Action Classics`
-
-> Even if questions share a general theme, their labels should still be unique so players can clearly identify and choose them.
-
-Labels are set in the **“Label” field** of each question's settings.
+- **Parti-/konferenciajáték:** Az osztó **a saját eszközén** választ kategóriát.
+- **Élő játék:** Az osztó **hangosan bemondja a választását** a quizmasternek.
 
 ---
 
-## 🏆 Dealer Bonus
+## 🏷️ Kategóriák hozzárendelése a kérdésekhez
 
-If the dealer correctly answers the question they chose, they can receive a **bonus**:
+A Dealers’ Choice körben minden kérdéshez kell egy **egyedi címke**, ami kategóriaként jelenik meg az osztónak, és ezek közül választhat.
 
-- Configure the **bonus percentage** (e.g. 50%) in the **Dealer Bonus** setting.
+Például:
 
-> The bonus only applies if the dealer’s answer is correct.
+- `Állatok – Könnyű`
+- `Állatok – Nehéz`
+- `Történelem – Érdekességek`
+- `Filmek – Akcióklasszikusok`
 
----
+> Még ha a kérdéseknek van is közös témájuk, a címkéik akkor is legyenek egyediek, hogy a játékosok egyértelműen felismerhessék és kiválaszthassák őket.
 
-## 👑 Dealer Selection
-
-Before the round starts, QuizWitz determines the dealer using one of these options:
-
-- Highest ranked player goes first
-- Lowest ranked player goes first
-- At random - Dealer is chosen randomly
-
-> Rankings are locked in **at the beginning of the round**.
+A címkéket minden kérdés beállításainál, a **„Címke” mezőben** lehet megadni.
 
 ---
 
-### Scoring Options:
+## 🏆 Osztói bónusz
 
-- **Scoring strategy:** Choose _Dealer Bonus_
-- **Time-based scoring:** Set the minimum percentage of points retained for slower answers (e.g. 75%)
+Ha az osztó helyesen válaszol arra a kérdésre, amelyet ő választott, **bónuszt** kaphat:
 
----
+- Állítsd be a **bónusz százalékát** (pl. 50%) az **Osztói bónusz** beállításban.
 
-## 📝 Tips for Quizmasters
-
-- Let players know they’ll be choosing from labeled categories.
-- In live games, be sure to note the dealer’s selection clearly.
-- Use unique, descriptive labels to avoid confusion during selection.
+> A bónusz csak akkor jár, ha az osztó válasza helyes.
 
 ---
 
-The Dealers’ Choice round encourages interaction and gives players a bit of control, while still rewarding quick and correct answers. It’s a great way to keep everyone engaged!
+## 👑 Az osztó kiválasztása
+
+A kör kezdete előtt a QuizWitz az alábbi lehetőségek egyikével határozza meg az osztót:
+
+- A legmagasabban rangsorolt játékos kezd
+- A legalacsonyabban rangsorolt játékos kezd
+- Véletlenszerűen – az osztó véletlenszerűen kerül kiválasztásra
+
+> A rangsorok **a kör elején** rögzülnek.
+
+---
+
+### Pontozási lehetőségek:
+
+- **Pontozási stratégia:** Válaszd az _Osztói bónusz_ lehetőséget
+- **Időalapú pontozás:** Állítsd be a lassabb válaszoknál megmaradó pontok minimális százalékát (pl. 75%)
+
+---
+
+## 📝 Tippek quizmastereknek
+
+- Tudasd a játékosokkal, hogy címkézett kategóriák közül fognak választani.
+- Élő játékokban mindenképp jegyezd fel egyértelműen az osztó választását.
+- Használj egyedi, beszédes címkéket, hogy ne legyen kavarodás a választás közben.
+
+---
+
+A Dealers’ Choice kör ösztönzi az interakciót, és egy kis irányítást ad a játékosok kezébe, miközben továbbra is jutalmazza a gyors és helyes válaszokat. Szuper módja annak, hogy mindenki aktív maradjon!
 

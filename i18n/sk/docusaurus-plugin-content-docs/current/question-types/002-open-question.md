@@ -1,69 +1,69 @@
 ---
 id: open-question
-title: Open question
+title: Otvorená otázka
 ---
 
-# 💬 Open question
+# 💬 Otvorená otázka
 
-An open question lets players type their answer freely using their keyboard. This mode is perfect for questions where you want written responses — for example, names, numbers, or short explanations.
-
----
-
-![Example: Open question about music](/images/question-modes/open-question/open-question.png)
+Otvorená otázka umožňuje hráčom voľne napísať odpoveď pomocou klávesnice. Tento režim je ideálny pre otázky, pri ktorých chceš písomné odpovede — napríklad mená, čísla alebo krátke vysvetlenia.
 
 ---
 
-## 📝 How it works
-
-- **Question:** Ask for a specific answer in a freeform text field (example: “Which duo performs this song?”).
-- **Answer:** Players type in their response. You can provide multiple accepted answers for automatic validation.
-- **Attachments:** Add audio, images, or video as a clue (for example, play a music clip).
-- **Feedback:** Players see after answering if their response was marked correct or not. You can also provide additional feedback or explanations.
+![Príklad: Otvorená otázka o hudbe](/images/question-modes/open-question/open-question.png)
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Ako to funguje
 
-Open questions offer a range of settings to fit your quiz:
-
-- **Multiple accepted answers:** Add alternate spellings, abbreviations, or synonyms for more flexible auto-correction.
-- **Time-based scoring:** Reward faster answers (see “Scoring” below).
-- **Force automatic correction:** Enable this to let the game automatically mark correct answers based on your provided list.
-  - If not enabled (the default for most live games), open answers must be reviewed and scored manually using the [Jury app](../quizmaster/004-jury-app.md).
-
-For more on these options, see [writing questions](../editor/005-writing-questions.md).
+- **Otázka:** Opýtaj sa na konkrétnu odpoveď vo voľnom textovom poli (príklad: „Ktoré duo hrá túto skladbu?“).
+- **Odpoveď:** Hráči napíšu svoju odpoveď. Môžeš zadať viacero akceptovaných odpovedí na automatické overenie.
+- **Prílohy:** Pridaj zvuk, obrázky alebo video ako nápovedu (napríklad prehraj hudobnú ukážku).
+- **Spätná väzba:** Po odpovedaní hráči uvidia, či bola ich odpoveď označená ako správna alebo nie. Môžeš pridať aj ďalšiu spätnú väzbu alebo vysvetlenia.
 
 ---
 
-## 🏆 Scoring for open questions
+## ⚙️ Rozšírené nastavenia
 
-Scoring in open questions is designed to be fair, even for slower typers:
+Otvorené otázky ponúkajú viacero nastavení, aby sadli tvojmu kvízu:
 
-- **Time-based scoring** divides the available points into blocks, not a strict per-millisecond countdown.
-- For example, answering in the first block (e.g. first 5 seconds) gives full points; the next block gives 80%, and so on. This helps reduce the penalty for slow typers.
-- By default, only **25%** of the points depend on speed — the remaining **75%** is fixed, so everyone who answers correctly gets most of the points, regardless of typing speed.
+- **Viacero akceptovaných odpovedí:** Pridaj alternatívne pravopisy, skratky alebo synonymá pre flexibilnejšie automatické opravovanie.
+- **Bodovanie podľa času:** Odmeň rýchlejšie odpovede (pozri „Bodovanie“ nižšie).
+- **Vynútiť automatické opravovanie:** Zapni túto možnosť, aby hra automaticky označovala správne odpovede podľa zoznamu, ktorý zadáš.
+  - Ak nie je zapnutá (čo je predvolené pre väčšinu živých hier), otvorené odpovede treba skontrolovať a obodovať manuálne pomocou [aplikácie Jury](../quizmaster/004-jury-app.md).
 
-> ⚙️ **Tip:** You can further adjust scoring behavior and other settings in the [Round options](../editor/008-round-options.md).
-
----
-
-## 🧑‍⚖️ Jury review in QuizWitz Live
-
-In **QuizWitz Live**, open questions generally require a manual review with the [Jury app](../quizmaster/004-jury-app.md):
-
-- The Jury app lets jury members accept, reject, or adjust scoring for open answers.
-- Phonetic and alternative matching helps, but human judgment is essential for fair scoring and creativity.
-- For full instructions and features, see the [Jury app documentation](../quizmaster/004-jury-app.md).
+Viac o týchto možnostiach nájdeš v časti [písanie otázok](../editor/005-writing-questions.md).
 
 ---
 
-## 💡 Tips for great open questions
+## 🏆 Bodovanie otvorených otázok
 
-- **Be specific:** Tell players exactly what you want them to answer.
-- **Anticipate variations:** Add common abbreviations, alternate spellings, or synonyms to accepted answers.
-- **Use attachments:** Add audio, images, or video to make your question clearer or more engaging.
-- **Coordinate with your jury:** Make sure your jury knows what to accept for subjective or tricky answers.
+Bodovanie pri otvorených otázkach je navrhnuté tak, aby bolo férové aj pre pomalších pisateľov:
+
+- **Bodovanie podľa času** rozdeľuje dostupné body do blokov, nejde o prísne odpočítavanie po milisekundách.
+- Napríklad odpoveď v prvom bloku (napr. prvých 5 sekúnd) dá plný počet bodov; ďalší blok dá 80 % a tak ďalej. Pomáha to znížiť penalizáciu pre pomalších pisateľov.
+- Predvolene závisí od rýchlosti len **25 %** bodov — zvyšných **75 %** je fixných, takže každý, kto odpovie správne, získa väčšinu bodov bez ohľadu na rýchlosť písania.
+
+> ⚙️ **Tip:** Správanie bodovania a ďalšie nastavenia si môžeš ďalej upraviť v [možnostiach kola](../editor/008-round-options.md).
 
 ---
 
-For more about attachments and feedback, see the [Attachments documentation](../editor/006-attachments.md).
+## 🧑‍⚖️ Kontrola porotou v QuizWitz Live
+
+V **QuizWitz Live** otvorené otázky zvyčajne vyžadujú manuálnu kontrolu pomocou [aplikácie Jury](../quizmaster/004-jury-app.md):
+
+- Aplikácia Jury umožňuje členom poroty prijať, odmietnuť alebo upraviť bodovanie otvorených odpovedí.
+- Fonetické a alternatívne porovnávanie pomáha, ale ľudský úsudok je pri férovom bodovaní a kreativite nevyhnutný.
+- Úplné pokyny a funkcie nájdeš v [dokumentácii k aplikácii Jury](../quizmaster/004-jury-app.md).
+
+---
+
+## 💡 Tipy na skvelé otvorené otázky
+
+- **Buď konkrétny:** Povedz hráčom presne, čo majú odpovedať.
+- **Predvídaj variácie:** Pridaj bežné skratky, alternatívne pravopisy alebo synonymá medzi akceptované odpovede.
+- **Používaj prílohy:** Pridaj zvuk, obrázky alebo video, aby bola otázka jasnejšia alebo pútavejšia.
+- **Zlaď sa so svojou porotou:** Uisti sa, že porota vie, čo má pri subjektívnych alebo záludných odpovediach akceptovať.
+
+---
+
+Viac o prílohách a spätnej väzbe nájdeš v [dokumentácii k prílohám](../editor/006-attachments.md).

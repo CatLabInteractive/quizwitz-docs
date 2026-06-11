@@ -1,63 +1,63 @@
 ---
 id: attachments
-title: Attachments
+title: Прикачени файлове
 ---
 
-# 📎 Attachments
+# 📎 Прикачени файлове
 
-Attachments can be added in various slots throughout your quiz to enrich the experience with images, audio, or video.
+Можеш да добавяш прикачени файлове в различни слотове из целия си quiz, за да обогатиш изживяването с изображения, аудио или видео.
 
-These slots appear in the following parts of your quiz:
+Тези слотове се появяват в следните части на твоя quiz:
 
-- [Questions](../editor/005-writing-questions.md)
-- [Rounds](../editor/008-round-options.md)
-- [Quizzes](../editor/007-quiz-options.md)
+- [Въпроси](../editor/005-writing-questions.md)
+- [Рундове](../editor/008-round-options.md)
+- [Quiz-ове](../editor/007-quiz-options.md)
 
-Each page explains when these attachments are shown during gameplay.
+Всяка страница обяснява кога тези прикачени файлове се показват по време на игра.
 
-![Question attachments](/images/edit-question.png)
-
----
-
-## 🗂️ Supported file types
-
-Here is a general (non-exhaustive) list of compatible formats:
-
-- **Images** — `.png`, `.jpeg`, `.gif` (non-animated). Full HD (1920×1080) recommended
-- **Audio** — Most standard formats are supported
-- **Video** — Most standard formats are supported
-
-> 🔊 ⏱️ Audio and video attachments should be **no longer than 15 minutes** in duration.
+![Прикачени файлове към въпрос](/images/edit-question.png)
 
 ---
 
-## 📝 Name & attribution
+## 🗂️ Поддържани типове файлове
 
-Each attachment can have a name and optional attribution:
+Ето общ (неизчерпателен) списък със съвместими формати:
 
-- **Name** — Displayed to the quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); helps in organizing attachments
-- **Attribution** — Shown to players as credit or source information. This should be the **name of the rights holder**.
+- **Изображения** — `.png`, `.jpeg`, `.gif` (неанимирани). Препоръчва се Full HD (1920×1080)
+- **Аудио** — Поддържат се повечето стандартни формати
+- **Видео** — Поддържат се повечето стандартни формати
 
-> ⚠️ In order to **publish** a Round-About or Quiz, **all attachments must have a valid attribution** filled in. Without this, your entry cannot be made public.
-
----
-
-## ✨ Attachment effects
-
-Some attachment slots support **effects** to reveal visuals more gradually:
-
-- **None** — The file is shown as-is
-- **Spotlight effect** — Gradually reveals parts of the image over time with a moving spotlight that expands as it progresses
-
-This is especially effective for puzzles or slow reveals during intros or dramatic moments.
+> 🔊 ⏱️ Аудио и видео прикачените файлове трябва да са с продължителност **не повече от 15 минути**.
 
 ---
 
-## 📚 Multiple attachments per slot
+## 📝 Име и посочване на авторство
 
-Some slots allow adding **multiple attachments**. The way these behave depends on the game mode:
+Всеки прикачен файл може да има име и незадължително посочване на авторство:
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** The quizmaster has full control and can decide when to show or hide attachments during gameplay.  
-> 🎮 **In regular games:** All attachments within a slot are shown **simultaneously**.
+- **Име** — Показва се на quizmaster в [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); помага при организирането на прикачени файлове
+- **Посочване на авторство** — Показва се на играчите като информация за кредит или източник. Това трябва да е **името на носителя на правата**.
 
-Details about each slot’s timing and behavior can be found in the linked documentation for [questions](../editor/015-importing-questions.md), [rounds](../editor/008-round-options.md), and [quizzes](../editor/007-quiz-options.md).
+> ⚠️ За да **публикуваш** Round-About или Quiz, **всички прикачени файлове трябва да имат попълнено валидно посочване на авторство**. Без това записът ти не може да бъде направен публичен.
+
+---
+
+## ✨ Ефекти за прикачени файлове
+
+Някои слотове за прикачени файлове поддържат **ефекти**, за да разкриват визуалните елементи по-постепенно:
+
+- **Без** — Файлът се показва както е
+- **Spotlight ефект** — Постепенно разкрива части от изображението с течение на времето чрез движещ се прожектор, който се разширява с напредването
+
+Това е особено ефективно за пъзели или бавни разкрития по време на интрота или драматични моменти.
+
+---
+
+## 📚 Няколко прикачени файла на слот
+
+Някои слотове позволяват добавянето на **няколко прикачени файла**. Начинът, по който се държат, зависи от режима на игра:
+
+> ⚡ **В [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** quizmaster има пълен контрол и може да решава кога да показва или скрива прикачени файлове по време на игра.  
+> 🎮 **В обикновени игри:** Всички прикачени файлове в даден слот се показват **едновременно**.
+
+Подробности за времето и поведението на всеки слот можеш да намериш в свързаната документация за [въпроси](../editor/015-importing-questions.md), [рундове](../editor/008-round-options.md) и [quiz-ове](../editor/007-quiz-options.md).

@@ -1,30 +1,30 @@
 ---
 id: best-answer-question
-title: Best answer question
+title: Въпрос за най-добър отговор
 ---
 
-# 🎖️ Best answer question
+# 🎖️ Въпрос за най-добър отговор
 
-In the **Best answer question** type, players write their own answers to an open-ended question.  
-Points are awarded either manually by the quizmaster, or—if there is no quizmaster—by having players vote for their favorite response.
-
----
-
-## 📝 How it works
-
-- **Players answer:** Each player types their response to the open question.
-- **Scoring:**
-  - In **QuizWitz Live** (with a quizmaster), the host reviews all answers and assigns points to the best one(s).
-  - In regular games (no host), players vote for the answer they think is best. The answer(s) with the most votes get the points.
+При типа **Въпрос за най-добър отговор** играчите пишат свои собствени отговори на отворен въпрос.  
+Точките се присъждат или ръчно от quizmaster, или — ако няма quizmaster — като играчите гласуват за любимия си отговор.
 
 ---
 
-## 💡 Tips for best answer questions
+## 📝 Как работи
 
-- Use creative, open-ended questions that invite original or funny responses.
-- For in-person or hosted quizzes, the quizmaster can award points for creativity, accuracy, or humor.
-- In self-hosted games, voting encourages players to read each other's answers and adds a fun social element.
+- **Играчите отговарят:** Всеки играч въвежда своя отговор на отворения въпрос.
+- **Точкуване:**
+  - В **QuizWitz Live** (с quizmaster) водещият преглежда всички отговори и присъжда точки на най-добрия(ите).
+  - В обикновените игри (без водещ) играчите гласуват за отговора, който според тях е най-добър. Отговорът(ите) с най-много гласове получават точките.
 
 ---
 
-> 📚 For more on how voting or manual scoring works, see the [Jury app documentation](../quizmaster/004-jury-app.md).
+## 💡 Съвети за въпроси за най-добър отговор
+
+- Използвай креативни, отворени въпроси, които приканват към оригинални или забавни отговори.
+- При викторини на живо или с водещ quizmaster може да присъжда точки за креативност, точност или хумор.
+- В самостоятелно организирани игри гласуването насърчава играчите да четат отговорите един на друг и добавя забавен социален елемент.
+
+---
+
+> 📚 За повече информация как работи гласуването или ръчното точкуване виж [документацията за приложението Jury](../quizmaster/004-jury-app.md).

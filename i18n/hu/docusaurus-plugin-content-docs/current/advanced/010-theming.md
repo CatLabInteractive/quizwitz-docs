@@ -1,55 +1,55 @@
 ---
 id: theming
-title: "Theming"
+title: "Témázás"
 ---
 
-# Theming
+# Témázás
 
 :::warning
-While creating your own QuizWitz theme offers the most flexibility, it is a complex and time-consuming process. In most cases, you are much better off customizing our [Emerald theme](011-emerald-theme.md), which is specifically designed to be easy to adapt.
+Bár a saját QuizWitz témád elkészítése adja a legnagyobb rugalmasságot, ez egy összetett és időigényes folyamat. A legtöbb esetben sokkal jobban jársz, ha a [Emerald témánkat](011-emerald-theme.md) szabod testre, amelyet kifejezetten úgy terveztünk, hogy könnyű legyen átalakítani.
 :::
 
-QuizWitz themes are created using **Adobe Animate**. You can download a [theme template](https://themes.quizwitz.com/empty/quizwitz-empty-theme.zip) to use as a starting point. Be aware that theming QuizWitz is painstaking work and is best left to experienced designers who know the ins and outs of Adobe Animate.
+A QuizWitz témák **Adobe Animate** segítségével készülnek. Kiindulópontként letölthetsz egy [témasablont](https://themes.quizwitz.com/empty/quizwitz-empty-theme.zip). Ne feledd, hogy a QuizWitz témázása aprólékos munka, és legjobb olyan tapasztalt dizájnerekre bízni, akik kívül-belül ismerik az Adobe Animate működését.
 
-Prefer to leave it to the professionals? Send us an email at [support@catlab.be](mailto:support@catlab.be) and we can provide an estimate to turn your design into a ready-to-use QuizWitz theme.
-
----
-
-## 🧪 Theme test tool
-
-When you're ready to test your theme, **zip the contents of your design folder** ( — not the folder itself; when you open the zip, you should see your files, not just a single folder — ) and upload it to our [theme tester](https://themes.quizwitz.com/). This gives you a live preview of how your theme will look in the game.
-
-After testing, email the zip file to us and we'll link it to your account so you can select and use your theme in your quizzes.
+Inkább a profikra bíznád? Írj nekünk e-mailt a [support@catlab.be](mailto:support@catlab.be) címre, és adunk egy becslést arra, mennyibe kerül a dizájnod kész, használatra kész QuizWitz témává alakítása.
 
 ---
 
-## 🏷️ QuizWitz logo
+## 🧪 Tématesztelő eszköz
 
-All custom designs must include the QuizWitz logo.
+Amikor készen állsz a témád tesztelésére, **zipeld be a dizájnmappád tartalmát** ( — ne magát a mappát; amikor megnyitod a zipet, a fájljaidat kell látnod, nem csak egyetlen mappát — ), majd töltsd fel a [tématesztelőnkbe](https://themes.quizwitz.com/). Így élő előnézetet kapsz arról, hogyan fog kinézni a témád a játékban.
+
+Tesztelés után küldd el nekünk e-mailben a zip fájlt, mi pedig összekapcsoljuk a fiókoddal, hogy kiválaszthasd és használhasd a témádat a kvízeidben.
 
 ---
 
-## 🖥️ Screen overview
+## 🏷️ QuizWitz logó
 
-| Stage                                                           | Main screen                                                                                              | Player device (Tablet/Phone)                |
-| --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Connect screen                                                  |                                                                                                          |                                                                |
-| Waiting screen                                                  | Logo of the quiz. Displayed while the presenter is reading the question. | A quote urging the player to listen carefully. |
-| Game intro                                                      | Animation before the game.                                                               | Waiting screen.                                |
-| Round intro                                                     | Animation before each round.                                                             | Waiting screen.                                |
-| Questions                                                       |                                                                                                          |                                                                |
-| Attachment                                                      | Fullscreen attachment view ( — before/after questions or rounds — ).  | Waiting screen.                                |
-| Question: multiple choice without attachment    | Question + 4 multiple choice options.                                                    | Multiple choice answer screen.                 |
-| Question: multiple choice with attachment       | Question + 4 multiple choice options + a visual attachment.                              | Multiple choice answer screen.                 |
-| Question: open question without attachment      | Only the question.                                                                       | Text input and submit button.                  |
-| Question: open question with attachment         | The question + a visual attachment.                                                      | Text input and submit button.                  |
-| Activity: chosen teams                          | The name of an activity.                                                                 | Waiting screen or "you are selected" screen.   |
-| Feedback                                                        |                                                                                                          |                                                                |
-| Question feedback: multiple choice              | The question, correct options, and spread of answers.                                    | Correct / wrong + points earned.               |
-| Question feedback: open question                | The question, correct options, and % of correct answers.                                 | Correct / wrong + points earned.               |
-| Question feedback: open question + attachment   | The question, correct options, answer spread, and a visual attachment.                   | Correct / wrong + points earned.               |
-| Question feedback: multiple choice + attachment | The question, correct options, answer spread, and a visual attachment.                   | Correct / wrong + points earned.               |
-| Activity feedback                                               | The teams selected for an activity.                                                      | Waiting or correct/wrong screen.               |
-| Player ranking                                                  |                                                                                                          |                                                                |
-| Round outro                                                     | Top 10 of all players.                                                                   | Current position and total points.             |
-| Game outro                                                      | Countdown from 10th to 1st place, then final top 10.                                     | Final rank and total points.                   |
+Minden egyedi dizájnnak tartalmaznia kell a QuizWitz logót.
+
+---
+
+## 🖥️ Képernyőáttekintés
+
+| Szakasz                                                           | Főképernyő                                                                                                       | Játékos eszköze (tablet/telefon)                           |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Csatlakozási képernyő                                             |                                                                                                                  |                                                                               |
+| Várakozási képernyő                                               | A kvíz logója. Akkor jelenik meg, amikor a műsorvezető felolvassa a kérdést.     | Egy idézet, ami arra ösztönzi a játékost, hogy figyeljen oda. |
+| Játékbevezető                                                     | Animáció a játék előtt.                                                                          | Várakozási képernyő.                                          |
+| Fordulóbevezető                                                   | Animáció minden forduló előtt.                                                                   | Várakozási képernyő.                                          |
+| Kérdések                                                          |                                                                                                                  |                                                                               |
+| Melléklet                                                         | Teljes képernyős mellékletnézet ( — kérdések vagy fordulók előtt/után — ).    | Várakozási képernyő.                                          |
+| Kérdés: feleletválasztós melléklet nélkül         | Kérdés + 4 feleletválasztós opció.                                                               | Feleletválasztós válaszképernyő.                              |
+| Kérdés: feleletválasztós melléklettel             | Kérdés + 4 feleletválasztós opció + egy vizuális melléklet.                                      | Feleletválasztós válaszképernyő.                              |
+| Kérdés: nyílt kérdés melléklet nélkül             | Csak a kérdés.                                                                                   | Szövegbevitel és beküldés gomb.                               |
+| Kérdés: nyílt kérdés melléklettel                 | A kérdés + egy vizuális melléklet.                                                               | Szövegbevitel és beküldés gomb.                               |
+| Aktivitás: kiválasztott csapatok                  | Egy aktivitás neve.                                                                              | Várakozási képernyő vagy „ki lettél választva” képernyő.      |
+| Visszajelzés                                                      |                                                                                                                  |                                                                               |
+| Kérdés-visszajelzés: feleletválasztós             | A kérdés, a helyes opciók és a válaszok megoszlása.                                              | Helyes / rossz + szerzett pontok.                             |
+| Kérdés-visszajelzés: nyílt kérdés                 | A kérdés, a helyes opciók és a helyes válaszok %-a.                                              | Helyes / rossz + szerzett pontok.                             |
+| Kérdés-visszajelzés: nyílt kérdés + melléklet     | A kérdés, a helyes opciók, a válaszok megoszlása és egy vizuális melléklet.                      | Helyes / rossz + szerzett pontok.                             |
+| Kérdés-visszajelzés: feleletválasztós + melléklet | A kérdés, a helyes opciók, a válaszok megoszlása és egy vizuális melléklet.                      | Helyes / rossz + szerzett pontok.                             |
+| Aktivitás-visszajelzés                                            | Az aktivitáshoz kiválasztott csapatok.                                                           | Várakozási vagy helyes/rossz képernyő.                        |
+| Játékosranglista                                                  |                                                                                                                  |                                                                               |
+| Fordulólezáró                                                     | Az összes játékos top 10-e.                                                                      | Jelenlegi helyezés és összpontszám.                           |
+| Játéklezáró                                                       | Visszaszámlálás a 10. helytől az 1. helyig, majd a végső top 10. | Végső helyezés és összpontszám.                               |

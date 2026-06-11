@@ -1,63 +1,63 @@
 ---
 id: attachments
-title: Attachments
+title: Mellékletek
 ---
 
-# 📎 Attachments
+# 📎 Mellékletek
 
-Attachments can be added in various slots throughout your quiz to enrich the experience with images, audio, or video.
+A kvízed különböző helyeire mellékleteket adhatsz, hogy képekkel, hanggal vagy videóval tedd élménydúsabbá.
 
-These slots appear in the following parts of your quiz:
+Ezek a helyek a kvízed következő részein jelennek meg:
 
-- [Questions](../editor/005-writing-questions.md)
-- [Rounds](../editor/008-round-options.md)
-- [Quizzes](../editor/007-quiz-options.md)
+- [Kérdések](../editor/005-writing-questions.md)
+- [Fordulók](../editor/008-round-options.md)
+- [Kvízek](../editor/007-quiz-options.md)
 
-Each page explains when these attachments are shown during gameplay.
+Minden oldal elmagyarázza, hogy ezek a mellékletek mikor jelennek meg játék közben.
 
-![Question attachments](/images/edit-question.png)
-
----
-
-## 🗂️ Supported file types
-
-Here is a general (non-exhaustive) list of compatible formats:
-
-- **Images** — `.png`, `.jpeg`, `.gif` (non-animated). Full HD (1920×1080) recommended
-- **Audio** — Most standard formats are supported
-- **Video** — Most standard formats are supported
-
-> 🔊 ⏱️ Audio and video attachments should be **no longer than 15 minutes** in duration.
+![Kérdésmellékletek](/images/edit-question.png)
 
 ---
 
-## 📝 Name & attribution
+## 🗂️ Támogatott fájltípusok
 
-Each attachment can have a name and optional attribution:
+Íme egy általános (nem teljes) lista a kompatibilis formátumokról:
 
-- **Name** — Displayed to the quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); helps in organizing attachments
-- **Attribution** — Shown to players as credit or source information. This should be the **name of the rights holder**.
+- **Képek** — `.png`, `.jpeg`, `.gif` (nem animált). Full HD (1920×1080) ajánlott
+- **Hang** — A legtöbb szabványos formátum támogatott
+- **Videó** — A legtöbb szabványos formátum támogatott
 
-> ⚠️ In order to **publish** a Round-About or Quiz, **all attachments must have a valid attribution** filled in. Without this, your entry cannot be made public.
-
----
-
-## ✨ Attachment effects
-
-Some attachment slots support **effects** to reveal visuals more gradually:
-
-- **None** — The file is shown as-is
-- **Spotlight effect** — Gradually reveals parts of the image over time with a moving spotlight that expands as it progresses
-
-This is especially effective for puzzles or slow reveals during intros or dramatic moments.
+> 🔊 ⏱️ A hang- és videómellékletek hossza **legfeljebb 15 perc** lehet.
 
 ---
 
-## 📚 Multiple attachments per slot
+## 📝 Név és forrásmegjelölés
 
-Some slots allow adding **multiple attachments**. The way these behave depends on the game mode:
+Minden melléklethez tartozhat név és opcionális forrásmegjelölés:
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** The quizmaster has full control and can decide when to show or hide attachments during gameplay.  
-> 🎮 **In regular games:** All attachments within a slot are shown **simultaneously**.
+- **Név** — A quizmaster számára jelenik meg a [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) felületén; segít a mellékletek rendszerezésében
+- **Forrásmegjelölés** — A játékosoknak kreditként vagy forrásinformációként jelenik meg. Ennek a **jogtulajdonos nevének** kell lennie.
 
-Details about each slot’s timing and behavior can be found in the linked documentation for [questions](../editor/015-importing-questions.md), [rounds](../editor/008-round-options.md), and [quizzes](../editor/007-quiz-options.md).
+> ⚠️ Ahhoz, hogy **közzétegyél** egy Round-Aboutot vagy kvízt, **minden melléklethez érvényes forrásmegjelölést** kell megadni. Enélkül a bejegyzésed nem tehető nyilvánossá.
+
+---
+
+## ✨ Mellékleteffektek
+
+Néhány melléklethely támogatja az **effekteket**, hogy a vizuális elemek fokozatosabban jelenjenek meg:
+
+- **Nincs** — A fájl változatlanul jelenik meg
+- **Reflektorfény-effekt** — Idővel fokozatosan fedi fel a kép részeit egy mozgó reflektorfénnyel, amely haladás közben egyre nagyobb lesz
+
+Ez különösen hatásos fejtörőknél, vagy intrók és drámai pillanatok alatti lassú felfedéseknél.
+
+---
+
+## 📚 Több melléklet helyenként
+
+Néhány helyen **több mellékletet** is hozzáadhatsz. A működésük a játékmódtól függ:
+
+> ⚡ **A [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) használatakor:** A quizmaster teljes irányítással rendelkezik, és eldöntheti, mikor jelenjenek meg vagy tűnjenek el a mellékletek játék közben.  
+> 🎮 **Normál játékokban:** Egy helyen belül az összes melléklet **egyszerre** jelenik meg.
+
+Az egyes helyek időzítéséről és működéséről további részleteket a hivatkozott dokumentációban találsz: [kérdések](../editor/015-importing-questions.md), [fordulók](../editor/008-round-options.md) és [kvízek](../editor/007-quiz-options.md).

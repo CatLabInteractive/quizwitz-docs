@@ -1,78 +1,78 @@
 ---
 id: dealers-choice
-title: Dealers' Choice
+title: Избор на дилърите
 ---
 
-# 🃏 Dealer's choice
+# 🃏 Избор на дилъра
 
-The **Dealers’ Choice** round in QuizWitz adds a strategic twist to your quiz.
-One of the players gets to **choose the next question category**, giving them a potential
-edge—and possibly a bonus! Here's how to set it up and play:
-
----
-
-## 🔧 How It Works
-
-In this round, **one player becomes the "dealer"** and selects the next category to play. The method of selection depends on the game mode:
-
-- **Party/Conference Game:** The dealer chooses a category using **their own device**.
-- **Live Game:** The dealer **announces their choice aloud** to the quizmaster.
+Рундът **Избор на дилърите** в QuizWitz добавя стратегически обрат към твоя куиз.
+Един от играчите може да **избере категорията на следващия въпрос**, което му дава потенциално
+предимство — а може би и бонус! Ето как да го настроиш и играеш:
 
 ---
 
-## 🏷️ Assigning Categories to Questions
+## 🔧 Как работи
 
-Each question in the Dealers’ Choice round needs a **unique label**, which acts as the category the dealer sees and selects from.
+В този рунд **един играч става "дилър"** и избира следващата категория за игра. Начинът на избор зависи от режима на игра:
 
-For example:
-
-- `Animals – Easy`
-- `Animals – Hard`
-- `History – Fun Facts`
-- `Movies – Action Classics`
-
-> Even if questions share a general theme, their labels should still be unique so players can clearly identify and choose them.
-
-Labels are set in the **“Label” field** of each question's settings.
+- **Парти/конферентна игра:** Дилърът избира категория чрез **собственото си устройство**.
+- **Игра на живо:** Дилърът **обявява избора си на глас** пред quizmaster.
 
 ---
 
-## 🏆 Dealer Bonus
+## 🏷️ Задаване на категории към въпросите
 
-If the dealer correctly answers the question they chose, they can receive a **bonus**:
+Всеки въпрос в рунда Избор на дилърите се нуждае от **уникален етикет**, който служи като категорията, която дилърът вижда и от която избира.
 
-- Configure the **bonus percentage** (e.g. 50%) in the **Dealer Bonus** setting.
+Например:
 
-> The bonus only applies if the dealer’s answer is correct.
+- `Животни – лесно`
+- `Животни – трудно`
+- `История – любопитни факти`
+- `Филми – екшън класики`
 
----
+> Дори ако въпросите имат обща тема, етикетите им пак трябва да са уникални, за да могат играчите ясно да ги разпознават и избират.
 
-## 👑 Dealer Selection
-
-Before the round starts, QuizWitz determines the dealer using one of these options:
-
-- Highest ranked player goes first
-- Lowest ranked player goes first
-- At random - Dealer is chosen randomly
-
-> Rankings are locked in **at the beginning of the round**.
+Етикетите се задават в **полето „Етикет“** в настройките на всеки въпрос.
 
 ---
 
-### Scoring Options:
+## 🏆 Бонус за дилъра
 
-- **Scoring strategy:** Choose _Dealer Bonus_
-- **Time-based scoring:** Set the minimum percentage of points retained for slower answers (e.g. 75%)
+Ако дилърът отговори правилно на въпроса, който е избрал, може да получи **бонус**:
 
----
+- Настрой **процента на бонуса** (напр. 50%) в настройката **Бонус за дилъра**.
 
-## 📝 Tips for Quizmasters
-
-- Let players know they’ll be choosing from labeled categories.
-- In live games, be sure to note the dealer’s selection clearly.
-- Use unique, descriptive labels to avoid confusion during selection.
+> Бонусът важи само ако отговорът на дилъра е правилен.
 
 ---
 
-The Dealers’ Choice round encourages interaction and gives players a bit of control, while still rewarding quick and correct answers. It’s a great way to keep everyone engaged!
+## 👑 Избор на дилър
+
+Преди началото на рунда QuizWitz определя дилъра чрез една от тези опции:
+
+- Играчът с най-висок ранг започва първи
+- Играчът с най-нисък ранг започва първи
+- На случаен принцип – дилърът се избира случайно
+
+> Класирането се заключва **в началото на рунда**.
+
+---
+
+### Опции за точкуване:
+
+- **Стратегия за точкуване:** Избери _Бонус за дилъра_
+- **Точкуване според времето:** Задай минималния процент точки, които се запазват при по-бавни отговори (напр. 75%)
+
+---
+
+## 📝 Съвети за quizmaster
+
+- Кажи на играчите, че ще избират от категории с етикети.
+- В игрите на живо не забравяй ясно да отбележиш избора на дилъра.
+- Използвай уникални, описателни етикети, за да избегнеш объркване при избора.
+
+---
+
+Рундът Избор на дилърите насърчава взаимодействието и дава на играчите малко контрол, като същевременно продължава да награждава бързите и правилни отговори. Това е страхотен начин да държиш всички ангажирани!
 

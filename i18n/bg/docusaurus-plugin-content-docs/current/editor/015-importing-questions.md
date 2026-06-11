@@ -1,71 +1,71 @@
 ---
 id: import-questions
-title: Import questions
+title: Импортиране на въпроси
 ---
 
-# 📥 Import questions
+# 📥 Импортиране на въпроси
 
-There are two ways to quickly add questions to a round in QuizWitz:
+Има два начина бързо да добавиш въпроси към рунд в QuizWitz:
 
-- Import existing content from the **QuizWitz Library**
-- Paste a list of questions from a **spreadsheet**
+- Импортирай съществуващо съдържание от **QuizWitz Library**
+- Постави списък с въпроси от **електронна таблица**
 
-Both options are accessible from within any round.
-
----
-
-## 📚 Import from the QuizWitz Library
-
-Use the **QuizWitz Library** tab to search and import questions, rounds, or quizzes created by yourself or other creators.
-
-1. Open the round where you want to import content
-2. Click the **QuizWitz Library** tab
-3. Use filters like language, collection, type, category, or tags
-4. Select one or more entries
-5. Click **Add X items** to insert the selected content into your quiz
-
-![QuizWitz Library](/images/import/import-from-quizwitz.png)
-
-> ✅ Use this method to reuse high-quality content or combine multiple public Round-Abouts into a larger quiz.
+И двете опции са достъпни от всеки рунд.
 
 ---
 
-## 📋 Import from a spreadsheet
+## 📚 Импортиране от QuizWitz Library
 
-To quickly create many questions at once, use the **Import from spreadsheet** tab.
+Използвай раздела **QuizWitz Library**, за да търсиш и импортираш въпроси, рундове или куизове, създадени от теб или от други автори.
 
-1. Open a round
-2. Click the **Import from spreadsheet** tab
-3. Paste rows of **tab-separated** values (copied from Excel, Google Sheets, etc.)
-4. Click **Import questions**
+1. Отвори рунда, в който искаш да импортираш съдържание
+2. Кликни върху раздела **QuizWitz Library**
+3. Използвай филтри като език, колекция, тип, категория или тагове
+4. Избери един или повече записи
+5. Кликни върху **Добави X елемента**, за да вмъкнеш избраното съдържание в куиза си
 
-![Import from spreadsheet](/images/import/import-from-spreadsheet.png)
+![Библиотека на QuizWitz](/images/import/import-from-quizwitz.png)
 
----
-
-### 🗂️ Format for pasting
-
-Each row must contain the following columns in this exact order:
-
-1. **Short question** — Displayed on the player screen
-2. **Correct answer**
-3. **Wrong answer 1** (leave blank for open questions)
-4. **Wrong answer 2**
-5. **Wrong answer 3**
-6. **Short feedback** — Displayed on the player screen after answering
-7. **Long question** _(optional)_ — Displayed on the quizmaster screen
-8. **Long feedback** _(optional)_ — Explanation for the quizmaster to read aloud
-
-> 📌 The last two columns are only used in [QuizWitz Live](../quizmaster/001-introduction.md), but they must still be included (even if left empty).
+> ✅ Използвай този метод, за да преизползваш висококачествено съдържание или да комбинираш няколко публични Round-About в по-голям куиз.
 
 ---
 
-## ✅ After importing
+## 📋 Импортиране от електронна таблица
 
-Whether importing from the library or a spreadsheet:
+За да създадеш бързо много въпроси наведнъж, използвай раздела **Импортиране от електронна таблица**.
 
-- Review your questions for formatting and clarity
-- Update any metadata like category, round type, or attachments
-- Don’t forget to **save your quiz**
+1. Отвори рунд
+2. Кликни върху раздела **Импортиране от електронна таблица**
+3. Постави редове със стойности, **разделени с табулации** (копирани от Excel, Google Sheets и т.н.)
+4. Кликни върху **Импортиране на въпроси**
 
-📘 Want to enhance your questions further? Continue in the [Writing questions guide](../editor/005-writing-questions.md).
+![Импортиране от електронна таблица](/images/import/import-from-spreadsheet.png)
+
+---
+
+### 🗂️ Формат за поставяне
+
+Всеки ред трябва да съдържа следните колони в точно този ред:
+
+1. **Кратък въпрос** — Показва се на екрана на играча
+2. **Правилен отговор**
+3. **Грешен отговор 1** (остави празно за отворени въпроси)
+4. **Грешен отговор 2**
+5. **Грешен отговор 3**
+6. **Кратка обратна връзка** — Показва се на екрана на играча след отговор
+7. **Дълъг въпрос** _(по избор)_ — Показва се на екрана на quizmaster
+8. **Дълга обратна връзка** _(по избор)_ — Обяснение, което quizmaster да прочете на глас
+
+> 📌 Последните две колони се използват само в [QuizWitz Live](../quizmaster/001-introduction.md), но въпреки това трябва да бъдат включени (дори ако са оставени празни).
+
+---
+
+## ✅ След импортиране
+
+Независимо дали импортираш от библиотеката, или от електронна таблица:
+
+- Прегледай въпросите си за форматиране и яснота
+- Актуализирай метаданните като категория, тип рунд или прикачени файлове
+- Не забравяй да **запазиш куиза си**
+
+📘 Искаш да подобриш още повече въпросите си? Продължи в [ръководството за писане на въпроси](../editor/005-writing-questions.md).

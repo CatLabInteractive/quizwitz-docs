@@ -1,79 +1,79 @@
 ---
 id: conference-booth
-title: Conference booth
+title: Konferenciastand
 ---
 
-# Conference booth
+# Konferenciastand
 
-This tutorial will show you how to run QuizWitz at your conference booth — an easy, interactive way to attract visitors and gather leads!
+Ez az útmutató megmutatja, hogyan futtasd a QuizWitzet a konferenciastandodnál — egy egyszerű, interaktív módja annak, hogy látogatókat vonzz és leadeket gyűjts!
 
-![A photo of a Marvel conference booth using QuizWitz](/images/photos/marvel.jpg)
+![Fotó egy Marvel konferenciastandról, ahol QuizWitzet használnak](/images/photos/marvel.jpg)
 
 ---
 
-## 📝 Creating the quiz
+## 📝 A kvíz létrehozása
 
-When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.  
-To keep things fresh, make sure you have plenty of questions — enough to randomize and make each playthrough unique.
+Amikor konferenciastandhoz készítesz kvízt, tartsd észben, hogy néhány játékos több játékra is maradhat.  
+Hogy izgalmas maradjon, legyen sok kérdésed — elég ahhoz, hogy véletlenszerűen válogathass, és minden játék egyedi legyen.
 
-**Recommended setup:**
+**Ajánlott beállítás:**
 
-- 15 questions split into 3 rounds
-- Create at least 3× that many questions for variety — more is better!
+- 15 kérdés 3 körre osztva
+- Készíts legalább 3× ennyi kérdést a változatosság kedvéért — minél több, annál jobb!
 
-### 🎲 Step-by-step quiz creation
+### 🎲 Kvízkészítés lépésről lépésre
 
-1. **Choose “Quiz”** in the Create menu and give your quiz a name. Set the correct language.
-2. **Add 3 rounds** and name them (for example: Round 1, Round 2, Round 3).
-3. In the **Round settings** (cog icon), enable **“Only show x questions”** and set the number to 5.  
-   Also enable **“Random question order”** — otherwise the game will always pick the first 5 questions.  
-   Repeat for each round.
+1. **Válaszd a „Kvíz” lehetőséget** a Létrehozás menüben, és adj nevet a kvízednek. Állítsd be a megfelelő nyelvet.
+2. **Adj hozzá 3 kört**, és nevezd el őket (például: 1. kör, 2. kör, 3. kör).
+3. A **Kör beállításaiban** (fogaskerék ikon) kapcsold be a **„Csak x kérdés megjelenítése”** opciót, és állítsd a számot 5-re.  
+   Kapcsold be a **„Véletlenszerű kérdéssorrend”** opciót is — különben a játék mindig az első 5 kérdést választja ki.  
+   Ismételd meg minden körnél.
 
-![Screenshot of round settings for a conference booth](/images/tutorials/conference/round_settings.png)
+![Képernyőkép egy konferenciastandhoz tartozó körbeállításokról](/images/tutorials/conference/round_settings.png)
 
-4. **Add questions to each round.**  
-   You can [write questions](../editor/005-writing-questions.md) or use the Import button to quickly add content from Excel.
+4. **Adj kérdéseket minden körhöz.**  
+   [Írhatsz kérdéseket](../editor/005-writing-questions.md), vagy az Importálás gombbal gyorsan hozzáadhatsz tartalmat Excelből.
 
 :::tip
-Use lots of images and video clips — they make the game much more entertaining!
+Használj sok képet és videóklipet — sokkal szórakoztatóbbá teszik a játékot!
 :::
 
 ---
 
-### 🔀 How random selection works
+### 🔀 Így működik a véletlenszerű kiválasztás
 
-Each time the quiz runs, QuizWitz will select 5 random questions from each round. The system will distribute questions fairly so repeats are minimized.
-
----
-
-## 🚀 Launch the quiz
-
-The fastest way to launch your conference quiz:
-
-1. Click **Play quiz**.
-2. Select **Start Conference Mode**.
-
-In this mode, players use their phones to connect to the game link on the main screen.  
-When everyone is ready, the booth host presses Enter — and the game runs automatically.  
-After the game ends, pressing Enter brings you right back to the connection screen for the next group.
+Minden alkalommal, amikor a kvíz elindul, a QuizWitz minden körből 5 véletlenszerű kérdést választ ki. A rendszer igazságosan osztja el a kérdéseket, hogy a lehető legkevesebb ismétlés legyen.
 
 ---
 
-## ⚙️ Advanced game options
+## 🚀 A kvíz elindítása
 
-Want more control?  
-Choose **Advanced game options** and select **Conference mode** in the mode selector.  
-You’ll get a unique link with all your chosen options.
+A konferenciakvíz elindításának leggyorsabb módja:
 
-- **Ask players’ email:**  
-  Collect visitor emails for your booth! If you enable this, be sure to also set your **Privacy Policy URL**.
-- When launching a game via the advanced options link, you may be prompted to log in before starting — this checks your content and licenses.
+1. Kattints a **Kvíz lejátszása** gombra.
+2. Válaszd a **Konferenciamód indítása** lehetőséget.
 
-![Screenshot of advanced game settings](/images/tutorials/conference/advanced_game_settings.png)
+Ebben a módban a játékosok a telefonjukkal csatlakoznak a főképernyőn látható játéklinkhez.  
+Amikor mindenki készen áll, a stand házigazdája megnyomja az Entert — és a játék automatikusan lefut.  
+A játék vége után az Enter megnyomásával rögtön visszajutsz a csatlakozási képernyőre a következő csoporthoz.
 
 ---
 
-## 🎨 Theming
+## ⚙️ Speciális játékbeállítások
 
-Want to match the game to your booth branding?  
-See our [Theming guide](../advanced/011-emerald-theme.md) for tips on customizing your QuizWitz experience.
+Több irányítást szeretnél?  
+Válaszd a **Speciális játékbeállítások** lehetőséget, majd a módválasztóban a **Konferenciamódot**.  
+Egy egyedi linket kapsz az összes kiválasztott beállításoddal.
+
+- **Játékosok e-mail-címének kérése:**  
+  Gyűjts látogatói e-mail-címeket a standodhoz! Ha ezt bekapcsolod, mindenképp állítsd be az **Adatvédelmi irányelvek URL-címét** is.
+- Amikor a speciális beállítások linkjén keresztül indítasz játékot, előfordulhat, hogy indulás előtt be kell jelentkezned — ez ellenőrzi a tartalmaidat és a licenceidet.
+
+![Képernyőkép a speciális játékbeállításokról](/images/tutorials/conference/advanced_game_settings.png)
+
+---
+
+## 🎨 Témázás
+
+Szeretnéd, hogy a játék illeszkedjen a standod arculatához?  
+Tippekért a QuizWitz-élmény testreszabásához nézd meg a [Témázási útmutatónkat](../advanced/011-emerald-theme.md).

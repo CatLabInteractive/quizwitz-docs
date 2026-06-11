@@ -1,83 +1,83 @@
 ---
 id: quiz-options
-title: Quiz options
+title: Опции на куиза
 ---
 
-# ⚙️ Quiz options
+# ⚙️ Опции на куиза
 
-When creating a quiz, you can open the **Quiz settings** panel to configure global behavior and presentation options. These settings apply to the **entire quiz**.
+Когато създаваш куиз, можеш да отвориш панела **Настройки на куиза**, за да конфигурираш общото поведение и опциите за представяне. Тези настройки важат за **целия куиз**.
 
-| ![Open quiz options](/images/open-quiz-options.png) | ![Quiz options](/images/quiz-options.png) |
-| :-------------------------------------------------: | :---------------------------------------: |
-|           _Opening the quiz options panel_          |          _Quiz settings overview_         |
-
----
-
-## 🌐 Languages
-
-Select the language in which you're writing the quiz. You can add additional translations later.
+| ![Отваряне на опциите на куиза](/images/open-quiz-options.png) | ![Опции на куиза](/images/quiz-options.png) |
+| :------------------------------------------------------------: | :-----------------------------------------: |
+|              _Отваряне на панела с опции на куиза_             |      _Преглед на настройките на куиза_      |
 
 ---
 
-## 🎨 Themes
+## 🌐 Езици
 
-Choose a visual theme for your quiz.
-
-- The default theme is **QuizWitz**
-- Your organization may have access to custom themes
-- Themes affect background, colors, and layout
-
-📘 See the [Emerald theme documentation](../advanced/011-emerald-theme.md) for more details on customizing visuals with this theme.
+Избери езика, на който пишеш куиза. Можеш да добавиш допълнителни преводи по-късно.
 
 ---
 
-## 📎 Attachments
+## 🎨 Теми
 
-Enhance your quiz with visuals, audio, or video in specific slots:
+Избери визуална тема за своя куиз.
 
-- **Before quiz** — Shown when the quiz starts
-- **After quiz** — Played after the final results screen
-- **Client logo / alternative logo** — Displayed throughout the quiz interface
-- **Wait screen** — Displayed between questions in live games (1920×1080 image recommended)
-- **Background** — Optional background replacement (depends on theme)
-- **Connect screen** — Used in [Live](../quizmaster/001-introduction.md) and [Conference](../tutorials/conference-booth) modes:
-  - **Images** — Fullscreen background visuals
-  - **Audio** — Looped music (max 15 min)
-  - **Video** — Played every 5 minutes, useful for ads or instructions
+- Темата по подразбиране е **QuizWitz**
+- Твоята организация може да има достъп до персонализирани теми
+- Темите влияят на фона, цветовете и оформлението
 
-🎥 You can use our [ready-made instructional videos](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) to help players connect.
-
-- **During game outro** — (Audio only) Plays over the winner reveal screen
-
-📘 For technical details and recommendations, see the [attachments guide](../editor/006-attachments.md).
+📘 Виж [документацията за темата Emerald](../advanced/011-emerald-theme.md) за повече подробности относно персонализирането на визуализациите с тази тема.
 
 ---
 
-## 🔧 Extra options
+## 📎 Прикачени файлове
 
-Optional settings for customizing gameplay and visibility:
+Обогати куиза си с изображения, аудио или видео в конкретни слотове:
 
-- **Enable multiplayer** — Default ON. Allows party play with friends
-- **Random round order** — Shuffle the order of rounds
-  > ⚠️ Not recommended when preparing for [QuizWitz Live](../quizmaster/001-introduction.md)
-- **Allow users to rate questions** — Lets players rate each question after a round
-- **Enable comments** — Allow feedback after publishing
-- **Speed up when all answered** — If enabled, the game skips ahead when all players have answered
-  > ⏱️ Recommended when using **Time-based scoring**
+- **Преди куиза** — Показва се, когато куизът започне
+- **След куиза** — Възпроизвежда се след екрана с финалните резултати
+- **Лого на клиент / алтернативно лого** — Показва се в целия интерфейс на куиза
+- **Екран за изчакване** — Показва се между въпросите в игри на живо (препоръчва се изображение 1920×1080)
+- **Фон** — Опционална замяна на фона (зависи от темата)
+- **Екран за свързване** — Използва се в режимите [Live](../quizmaster/001-introduction.md) и [Conference](../tutorials/conference-booth):
+  - **Изображения** — Визуализации на цял екран за фон
+  - **Аудио** — Повтаряща се музика (макс. 15 мин)
+  - **Видео** — Възпроизвежда се на всеки 5 минути, полезно за реклами или инструкции
+
+🎥 Можеш да използваш нашите [готови видеа с инструкции](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC), за да помогнеш на играчите да се свържат.
+
+- **Аутро по време на игра** — (Само аудио) Възпроизвежда се върху екрана с разкриване на победителя
+
+📘 За технически подробности и препоръки виж [ръководството за прикачени файлове](../editor/006-attachments.md).
 
 ---
 
-## 📤 Share or embed
+## 🔧 Допълнителни опции
 
-Generates share links or embed code with advanced game settings.
+Опционални настройки за персонализиране на геймплея и видимостта:
+
+- **Активиране на мултиплейър** — Включено по подразбиране. Позволява парти игра с приятели
+- **Случаен ред на рундовете** — Разбърква реда на рундовете
+  > ⚠️ Не се препоръчва при подготовка за [QuizWitz Live](../quizmaster/001-introduction.md)
+- **Позволяване на потребителите да оценяват въпроси** — Позволява на играчите да оценяват всеки въпрос след рунд
+- **Активиране на коментари** — Позволява обратна връзка след публикуване
+- **Ускоряване, когато всички са отговорили** — Ако е активирано, играта прескача напред, когато всички играчи са отговорили
+  > ⏱️ Препоръчва се при използване на **Точково оценяване според времето**
 
 ---
 
-## 📜 Quizmaster copy
+## 📤 Споделяне или вграждане
 
-Add custom presenter instructions for:
+Генерира линкове за споделяне или код за вграждане с разширени настройки на играта.
 
-- **Quiz introduction**
-- **Quiz outro**
+---
 
-These are visible on the [Quizmaster app](../quizmaster/001-introduction.md) when using QuizWitz Live.
+## 📜 Копие за quizmaster
+
+Добави персонализирани инструкции за водещия за:
+
+- **Въведение на куиза**
+- **Аутро на куиза**
+
+Те са видими в [приложението Quizmaster](../quizmaster/001-introduction.md), когато използваш QuizWitz Live.

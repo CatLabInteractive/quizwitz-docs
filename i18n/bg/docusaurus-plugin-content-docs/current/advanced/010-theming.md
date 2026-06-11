@@ -1,55 +1,55 @@
 ---
 id: theming
-title: "Theming"
+title: "Теми"
 ---
 
-# Theming
+# Теми
 
 :::warning
-While creating your own QuizWitz theme offers the most flexibility, it is a complex and time-consuming process. In most cases, you are much better off customizing our [Emerald theme](011-emerald-theme.md), which is specifically designed to be easy to adapt.
+Въпреки че създаването на собствена тема за QuizWitz ти дава най-голяма гъвкавост, това е сложен и времеемък процес. В повечето случаи е много по-добре да персонализираш нашата [Emerald тема](011-emerald-theme.md), която е специално проектирана да се адаптира лесно.
 :::
 
-QuizWitz themes are created using **Adobe Animate**. You can download a [theme template](https://themes.quizwitz.com/empty/quizwitz-empty-theme.zip) to use as a starting point. Be aware that theming QuizWitz is painstaking work and is best left to experienced designers who know the ins and outs of Adobe Animate.
+Темите за QuizWitz се създават с **Adobe Animate**. Можеш да изтеглиш [шаблон за тема](https://themes.quizwitz.com/empty/quizwitz-empty-theme.zip), който да използваш като отправна точка. Имай предвид, че създаването на тема за QuizWitz е пипкава работа и е най-добре да се остави на опитни дизайнери, които познават Adobe Animate в детайли.
 
-Prefer to leave it to the professionals? Send us an email at [support@catlab.be](mailto:support@catlab.be) and we can provide an estimate to turn your design into a ready-to-use QuizWitz theme.
-
----
-
-## 🧪 Theme test tool
-
-When you're ready to test your theme, **zip the contents of your design folder** ( — not the folder itself; when you open the zip, you should see your files, not just a single folder — ) and upload it to our [theme tester](https://themes.quizwitz.com/). This gives you a live preview of how your theme will look in the game.
-
-After testing, email the zip file to us and we'll link it to your account so you can select and use your theme in your quizzes.
+Предпочиташ да го оставиш на професионалистите? Изпрати ни имейл на [support@catlab.be](mailto:support@catlab.be) и можем да ти дадем оценка за превръщането на дизайна ти в готова за използване тема за QuizWitz.
 
 ---
 
-## 🏷️ QuizWitz logo
+## 🧪 Инструмент за тестване на тема
 
-All custom designs must include the QuizWitz logo.
+Когато си готов/а да тестваш темата си, **архивирай като zip съдържанието на папката с дизайна** ( — не самата папка; когато отвориш zip файла, трябва да виждаш файловете си, а не само една папка — ) и го качи в нашия [тестер за теми](https://themes.quizwitz.com/). Това ти дава преглед на живо как ще изглежда темата ти в играта.
+
+След тестването ни изпрати zip файла по имейл и ще го свържем с акаунта ти, за да можеш да избираш и използваш темата си в своите куизове.
 
 ---
 
-## 🖥️ Screen overview
+## 🏷️ Лого на QuizWitz
 
-| Stage                                                           | Main screen                                                                                              | Player device (Tablet/Phone)                |
-| --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Connect screen                                                  |                                                                                                          |                                                                |
-| Waiting screen                                                  | Logo of the quiz. Displayed while the presenter is reading the question. | A quote urging the player to listen carefully. |
-| Game intro                                                      | Animation before the game.                                                               | Waiting screen.                                |
-| Round intro                                                     | Animation before each round.                                                             | Waiting screen.                                |
-| Questions                                                       |                                                                                                          |                                                                |
-| Attachment                                                      | Fullscreen attachment view ( — before/after questions or rounds — ).  | Waiting screen.                                |
-| Question: multiple choice without attachment    | Question + 4 multiple choice options.                                                    | Multiple choice answer screen.                 |
-| Question: multiple choice with attachment       | Question + 4 multiple choice options + a visual attachment.                              | Multiple choice answer screen.                 |
-| Question: open question without attachment      | Only the question.                                                                       | Text input and submit button.                  |
-| Question: open question with attachment         | The question + a visual attachment.                                                      | Text input and submit button.                  |
-| Activity: chosen teams                          | The name of an activity.                                                                 | Waiting screen or "you are selected" screen.   |
-| Feedback                                                        |                                                                                                          |                                                                |
-| Question feedback: multiple choice              | The question, correct options, and spread of answers.                                    | Correct / wrong + points earned.               |
-| Question feedback: open question                | The question, correct options, and % of correct answers.                                 | Correct / wrong + points earned.               |
-| Question feedback: open question + attachment   | The question, correct options, answer spread, and a visual attachment.                   | Correct / wrong + points earned.               |
-| Question feedback: multiple choice + attachment | The question, correct options, answer spread, and a visual attachment.                   | Correct / wrong + points earned.               |
-| Activity feedback                                               | The teams selected for an activity.                                                      | Waiting or correct/wrong screen.               |
-| Player ranking                                                  |                                                                                                          |                                                                |
-| Round outro                                                     | Top 10 of all players.                                                                   | Current position and total points.             |
-| Game outro                                                      | Countdown from 10th to 1st place, then final top 10.                                     | Final rank and total points.                   |
+Всички персонализирани дизайни трябва да включват логото на QuizWitz.
+
+---
+
+## 🖥️ Преглед на екраните
+
+| Етап                                                                       | Основен екран                                                                                                     | Устройство на играча (таблет/телефон)           |
+| -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Екран за свързване                                                         |                                                                                                                   |                                                                    |
+| Екран за изчакване                                                         | Лого на куиза. Показва се, докато водещият чете въпроса.                          | Цитат, който насърчава играча да слуша внимателно. |
+| Въведение към играта                                                       | Анимация преди играта.                                                                            | Екран за изчакване.                                |
+| Въведение към рунда                                                        | Анимация преди всеки рунд.                                                                        | Екран за изчакване.                                |
+| Въпроси                                                                    |                                                                                                                   |                                                                    |
+| Прикачен файл                                                              | Изглед на прикачения файл на цял екран ( — преди/след въпроси или рундове — ). | Екран за изчакване.                                |
+| Въпрос: множествен избор без прикачен файл                 | Въпрос + 4 опции с множествен избор.                                                              | Екран за отговор с множествен избор.               |
+| Въпрос: множествен избор с прикачен файл                   | Въпрос + 4 опции с множествен избор + визуален прикачен файл.                                     | Екран за отговор с множествен избор.               |
+| Въпрос: отворен въпрос без прикачен файл                   | Само въпросът.                                                                                    | Поле за въвеждане на текст и бутон за изпращане.   |
+| Въпрос: отворен въпрос с прикачен файл                     | Въпросът + визуален прикачен файл.                                                                | Поле за въвеждане на текст и бутон за изпращане.   |
+| Активност: избрани отбори                                  | Името на активност.                                                                               | Екран за изчакване или екран „ти си избран/а“.     |
+| Обратна връзка                                                             |                                                                                                                   |                                                                    |
+| Обратна връзка за въпрос: множествен избор                 | Въпросът, правилните опции и разпределението на отговорите.                                       | Правилно / грешно + спечелени точки.               |
+| Обратна връзка за въпрос: отворен въпрос                   | Въпросът, правилните опции и % правилни отговори.                                                 | Правилно / грешно + спечелени точки.               |
+| Обратна връзка за въпрос: отворен въпрос + прикачен файл   | Въпросът, правилните опции, разпределението на отговорите и визуален прикачен файл.               | Правилно / грешно + спечелени точки.               |
+| Обратна връзка за въпрос: множествен избор + прикачен файл | Въпросът, правилните опции, разпределението на отговорите и визуален прикачен файл.               | Правилно / грешно + спечелени точки.               |
+| Обратна връзка за активност                                                | Отборите, избрани за активност.                                                                   | Екран за изчакване или правилно/грешно.            |
+| Класиране на играчите                                                      |                                                                                                                   |                                                                    |
+| Финал на рунда                                                             | Топ 10 на всички играчи.                                                                          | Текуща позиция и общ брой точки.                   |
+| Финал на играта                                                            | Обратно броене от 10-о до 1-во място, след това финален топ 10.                                   | Крайно класиране и общ брой точки.                 |

@@ -1,87 +1,87 @@
 ---
 id: writing-questions
-title: Writing questions
+title: Писане на въпроси
 ---
 
-# ✍️ Writing Questions
+# ✍️ Писане на въпроси
 
-Time to get creative! Whether you're building a full quiz or a Round-About, writing strong, fun questions is at the heart of a great game.
+Време е да развихриш въображението си! Независимо дали създаваш цял куиз или Round-About, силните и забавни въпроси са в основата на страхотната игра.
 
-To begin, click **Add new question**. You can add as many as you like.
+За начало кликни върху **Добавяне на нов въпрос**. Можеш да добавиш колкото искаш.
 
-> 💾 Don’t forget to **save your work** regularly and **test your quiz** at any time to see how it plays!
-
----
-
-## ⚙️ Question settings
-
-Click the **gear icon** in the top-left corner of a question to open its full settings panel.
-
-![Question options](/images/question-options.png)
+> 💾 Не забравяй редовно да **запазваш работата си** и по всяко време да **тестваш куиза си**, за да видиш как се играе!
 
 ---
 
-### 🎮 Mode & scoring
+## ⚙️ Настройки на въпроса
 
-- **Question type** — Choose how the question is played (e.g. multiple choice, open answer, puzzle)  
-  → Learn more in [question types](../question-types/000-question-types.md)
-- **Points** — Set how many points a correct answer is worth
-- **Question timer** — Adjust the time limit using the slider
+Кликни върху **иконата със зъбно колело** в горния ляв ъгъл на въпроса, за да отвориш пълния панел с настройки.
 
----
-
-### 🧩 Game behavior settings
-
-Customize how the question behaves during gameplay:
-
-- **Time-based scoring** — Reward players who answer more quickly
-- **Multiple correct answers** — Allow more than one valid choice
-- **Random answer order** — Shuffle the options on screen
-- **Stop timer when all answered** — Continue as soon as all responses are in
-- **Show question results** — Show feedback after the question (or disable it)
-- **Force results after question** — Only applies when feedback would normally be delayed (e.g., in lightning rounds or open questions). For standard questions without jury interaction, feedback is shown automatically after each question.
+![Опции на въпроса](/images/question-options.png)
 
 ---
 
-### 🎤 Presenter content
+### 🎮 Режим и оценяване
 
-These fields control what appears on the Quizmaster App and big screen:
-
-- **Big screen – Question feedback** — Shown to all players after feedback is revealed
-- **Presenter – Long question** — A version of the question to be read aloud by the host
-- **Presenter – Long feedback** — Text the host can read after revealing the correct answer
-
-> 📝 These fields help make live presentations feel dynamic and polished.
+- **Тип въпрос** — Избери как да се играе въпросът (напр. с избираем отговор, отворен отговор, пъзел)  
+  → Научи повече в [типове въпроси](../question-types/000-question-types.md)
+- **Точки** — Задай колко точки носи правилният отговор
+- **Таймер на въпроса** — Настрой времевия лимит с плъзгача
 
 ---
 
-## 📎 Attachments
+### 🧩 Настройки за поведение на играта
 
-![Question attachments](/images/question-attachments.png)
+Персонализирай как се държи въпросът по време на игра:
 
-You can enhance questions with images, video, or audio. Each attachment can be shown at specific points:
+- **Оценяване според времето** — Награждавай играчите, които отговарят по-бързо
+- **Няколко правилни отговора** — Позволи повече от един валиден избор
+- **Случаен ред на отговорите** — Разбъркай опциите на екрана
+- **Спри таймера, когато всички са отговорили** — Продължи веднага щом всички отговори са получени
+- **Показване на резултатите от въпроса** — Покажи обратна връзка след въпроса (или я изключи)
+- **Принудително показване на резултатите след въпроса** — Прилага се само когато обратната връзка обикновено би била забавена (напр. в светкавични рундове или отворени въпроси). При стандартни въпроси без взаимодействие с жури обратната връзка се показва автоматично след всеки въпрос.
 
-- **Before / During / After Question** — Shown around the time the question is presented
-- **Before / During / After Feedback** — Shown when results are revealed
+---
+
+### 🎤 Съдържание за водещия
+
+Тези полета контролират какво се показва в Quizmaster App и на големия екран:
+
+- **Голям екран – Обратна връзка за въпроса** — Показва се на всички играчи, след като обратната връзка бъде разкрита
+- **Водещ – Дълъг въпрос** — Версия на въпроса, която водещият да прочете на глас
+- **Водещ – Дълга обратна връзка** — Текст, който водещият може да прочете след разкриването на правилния отговор
+
+> 📝 Тези полета помагат презентациите на живо да изглеждат динамични и изпипани.
+
+---
+
+## 📎 Прикачени файлове
+
+![Прикачени файлове към въпроса](/images/question-attachments.png)
+
+Можеш да обогатиш въпросите с изображения, видео или аудио. Всеки прикачен файл може да се покаже в конкретни моменти:
+
+- **Преди / По време на / След въпроса** — Показва се около момента, в който въпросът се представя
+- **Преди / По време на / След обратната връзка** — Показва се, когато резултатите се разкриват
 - ...
 
-> 🧠 Attachments are especially useful for building suspense, illustrating answers, or giving context.
+> 🧠 Прикачените файлове са особено полезни за изграждане на напрежение, илюстриране на отговори или даване на контекст.
 
-You can add **multiple attachments** in each slot.
+Можеш да добавиш **няколко прикачени файла** във всеки слот.
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** the quizmaster can choose which attachment to display at each moment.  
-> 🎮 **In regular games:** all attachments in a given slot are shown at once.
+> ⚡ **В [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** quizmaster може да избере кой прикачен файл да се показва във всеки момент.  
+> 🎮 **В обикновени игри:** всички прикачени файлове в даден слот се показват наведнъж.
 
-📘 Learn more about supported file types, timing tips, and limitations in the [attachments guide](../editor/006-attachments.md).
-
----
-
-### 💡 Pro tip: Choosing the right moment
-
-- Show the correct answer visually? → Use **After Question**
-- Build suspense before revealing feedback? → Use **Before Feedback**
-- Add extra trivia or depth? → Use **After Feedback**
+📘 Научи повече за поддържаните типове файлове, съвети за тайминг и ограничения в [ръководството за прикачени файлове](../editor/006-attachments.md).
 
 ---
 
-Next up: Learn more about the different [question types](../question-types/000-question-types.md) and how to structure your [round types](../round-types/000-round-types.md) for maximum impact.
+### 💡 Професионален съвет: Избери правилния момент
+
+- Да покажеш правилния отговор визуално? → Използвай **След въпроса**
+- Да изградиш напрежение, преди да разкриеш обратната връзка? → Използвай **Преди обратната връзка**
+- Да добавиш допълнителни любопитни факти или повече дълбочина? → Използвай **След обратната връзка**
+
+---
+
+Следва: Научи повече за различните [типове въпроси](../question-types/000-question-types.md) и как да структурираш своите [типове рундове](../round-types/000-round-types.md) за максимално въздействие.

@@ -1,33 +1,33 @@
 ---
 id: question-types
-title: Question types
+title: Типове въпроси
 ---
 
-# Question types
+# Типове въпроси
 
-QuizWitz supports different question types. Each type has its own rules and gameplay mechanics.
-We suggest using a mix of different types to keep the game interesting and engaging.
+QuizWitz поддържа различни типове въпроси. Всеки тип има свои правила и игрови механики.
+Предлагаме да използваш комбинация от различни типове, за да остане играта интересна и увлекателна.
 
-Note that some round types limit the question types you can use.
+Имай предвид, че някои типове рундове ограничават типовете въпроси, които можеш да използваш.
 
-## Regular question types
+## Обикновени типове въпроси
 
-These are the most common question types. They are easy to understand and play.
+Това са най-често срещаните типове въпроси. Те са лесни за разбиране и игра.
 
-- [Multiple choice](001-multiple-choice.md) (default)
-- [Order question](003-order-question.md)
-- [Image map question](004-image-map.md)
+- [Въпрос с няколко възможни отговора](001-multiple-choice.md) (по подразбиране)
+- [Въпрос за подреждане](003-order-question.md)
+- [Въпрос с карта на изображение](004-image-map.md)
 
-## Open questions
+## Отворени въпроси
 
-Open questions require players to type in their answers.
+Отворените въпроси изискват играчите да въведат отговорите си.
 
-- [Open question](002-open-question.md)
-- [List question](005-list-question.md)
+- [Отворен въпрос](002-open-question.md)
+- [Въпрос със списък](005-list-question.md)
 
-## Specials
+## Специални въпроси
 
-These questions make the game slightly less fair, but they help to make sure there is always a winner.
+Тези въпроси правят играта малко по-малко честна, но помагат да се гарантира, че винаги има победител.
 
-- [Tiebreaker question](006-tiebreaker-question.md)
-- [Best answer question](007-best-answer-question.md)
+- [Въпрос за тайбрек](006-tiebreaker-question.md)
+- [Въпрос за най-добър отговор](007-best-answer-question.md)

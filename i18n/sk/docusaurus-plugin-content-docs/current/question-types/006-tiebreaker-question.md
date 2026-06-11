@@ -1,35 +1,35 @@
 ---
 id: tiebreaker-question
-title: Tiebreaker question
+title: Rozhodujúca otázka
 ---
 
-# 🏁 Tiebreaker question
+# 🏁 Rozhodujúca otázka
 
-The Tiebreaker question is used to resolve ties at the end of a quiz.  
-Players are asked to guess a number (for example, “How many beans are in the jar?”). The player whose answer is closest to the correct value will win in case of a tie.
-
----
-
-## 📝 How it works
-
-- **No points awarded:** The tiebreaker question does not award regular points.
-- **Shadow points:** Instead, it uses “shadow points” that are only considered when two or more players have the same total score.
-- **Closest wins:** The player with the answer closest to the correct value gets the higher position in the event of a tie.
+Rozhodujúca otázka sa používa na vyriešenie remíz na konci kvízu.  
+Hráči majú uhádnuť číslo (napríklad: „Koľko fazuliek je v pohári?“). Hráč, ktorého odpoveď je najbližšie k správnej hodnote, vyhrá v prípade remízy.
 
 ---
 
-## 💡 Tips for tiebreaker questions
+## 📝 Ako to funguje
 
-- **Ask for an obscure number:** Choose a question where the answer is not widely known and is unlikely to be guessed exactly.
-- **Encourage unique guesses:** Make sure the question has a wide possible range, so every player is likely to enter a different answer.
-- **Use only for ties:** Shadow points are only used as a tiebreaker and will not affect the main game ranking.
+- **Žiadne body sa neudeľujú:** Rozhodujúca otázka neudeľuje bežné body.
+- **Tieňové body:** Namiesto toho používa „tieňové body“, ktoré sa berú do úvahy iba vtedy, keď majú dvaja alebo viacerí hráči rovnaké celkové skóre.
+- **Najbližšia odpoveď vyhráva:** Hráč s odpoveďou najbližšou k správnej hodnote získa v prípade remízy vyššiu pozíciu.
 
 ---
 
-_Example tiebreaker questions:_
+## 💡 Tipy na rozhodujúce otázky
 
-- How many jelly beans are in the jar shown on screen?
-- What is the total length (in meters) of all the rivers in Belgium combined?
-- How many bricks were used to build the Empire State Building?
-- What was the attendance at the first ever World Cup final?
+- **Pýtaj sa na málo známe číslo:** Vyber otázku, na ktorú odpoveď nie je všeobecne známa a je nepravdepodobné, že ju niekto uhádne presne.
+- **Podpor jedinečné tipy:** Uisti sa, že otázka má široký možný rozsah, aby každý hráč pravdepodobne zadal inú odpoveď.
+- **Používaj iba pri remízach:** Tieňové body sa používajú iba ako rozhodujúci prvok pri remíze a neovplyvnia hlavné poradie v hre.
+
+---
+
+_Príklady rozhodujúcich otázok:_
+
+- Koľko želé fazuliek je v pohári zobrazenom na obrazovke?
+- Aká je celková dĺžka (v metroch) všetkých riek v Belgicku dokopy?
+- Koľko tehál bolo použitých na stavbu Empire State Building?
+- Aká bola návštevnosť na úplne prvom finále majstrovstiev sveta?
 

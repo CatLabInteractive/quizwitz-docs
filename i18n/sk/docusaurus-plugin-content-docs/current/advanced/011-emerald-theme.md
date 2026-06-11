@@ -1,69 +1,69 @@
 ---
 id: emerald-theme
-name: Emerald theme
+name: Motív Emerald
 ---
 
-# Emerald theme
+# Motív Emerald
 
-The Emerald theme is the easiest way to customize the look of your QuizWitz game. By default, the theme is a clean blue / green style with vivid option colors, but by combining quiz attachments and theme modifiers you can change the way it looks — drastically.
+Motív Emerald je najjednoduchší spôsob, ako si prispôsobiť vzhľad tvojej hry v QuizWitz. Predvolene má motív čistý modro-zelený štýl s výraznými farbami možností, ale kombinovaním príloh kvízu a modifikátorov motívu môžeš jeho vzhľad zmeniť — poriadne výrazne.
 
 :::tip
-You can use our [theme tester](https://client.quizwitz.com/test.html?theme=emerald) to see what your settings will look like.
+Môžeš použiť náš [tester motívu](https://client.quizwitz.com/test.html?theme=emerald), aby si videl/a, ako budú tvoje nastavenia vyzerať.
 :::
 
-![A screenshot of the emerald theme](/images/emerald/emerald.png)
+![Snímka obrazovky motívu Emerald](/images/emerald/emerald.png)
 
-## Select the Emerald theme
+## Vyber motív Emerald
 
-In your **Quiz settings**, select **Theme** and enable **Emerald**.
+V **nastaveniach kvízu** vyber **Motív** a zapni **Emerald**.
 
-You can test a quiz using the Emerald theme [here](https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default).
+Kvíz s motívom Emerald si môžeš otestovať [tu](https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default).
 
-![A screenshot of the quiz settings](/images/emerald/quiz-settings.png)
+![Snímka obrazovky nastavení kvízu](/images/emerald/quiz-settings.png)
 
-## Attachments
+## Prílohy
 
-### Quiz attachments
+### Prílohy kvízu
 
-By far the easiest way to change the look and feel of the game is by attaching images to your quiz. Open the **Quiz settings** and scroll down to the **Attachments** section. Here you can upload images that will be used as background, client logo, connect — and wait screens (for conference — and live quizzes), and more.
+Jednoznačne najjednoduchší spôsob, ako zmeniť vzhľad a dojem z hry, je priložiť ku kvízu obrázky. Otvor **nastavenia kvízu** a posuň sa nadol do sekcie **Prílohy**. Tu môžeš nahrať obrázky, ktoré sa použijú ako pozadie, logo klienta, obrazovky pripojenia a čakania (pre konferenčné a živé kvízy) a ďalšie.
 
-![A screenshot of the quiz attachments](/images/emerald/quiz-attachments.png)
+![Snímka obrazovky príloh kvízu](/images/emerald/quiz-attachments.png)
 
-### Round attachments
+### Prílohy kola
 
-You can also upload images or videos that will be played before and after the game. This goes for rounds as well: find an image that you want to use as round introduction, go to **round settings**, disable **Show round intro** to hide the default round introduction, and upload your image or video as **Show before round**. When the round starts, the image or video will be displayed instead of the default introduction.
+Môžeš nahrať aj obrázky alebo videá, ktoré sa prehrajú pred hrou a po nej. Platí to aj pre kolá: nájdi obrázok, ktorý chceš použiť ako úvod kola, prejdi do **nastavení kola**, vypni **Zobraziť úvod kola**, aby sa skryl predvolený úvod kola, a nahraj svoj obrázok alebo video ako **Zobraziť pred kolom**. Keď sa kolo začne, namiesto predvoleného úvodu sa zobrazí obrázok alebo video.
 
-![A screenshot of the round attachments](/images/emerald/round-settings.png)
+![Snímka obrazovky príloh kola](/images/emerald/round-settings.png)
 
 :::tip
-Use images and videos of a 1920 x 1080 resolution for best results.
+Pre najlepšie výsledky použi obrázky a videá s rozlíšením 1920 x 1080.
 :::
 
 :::info
-After playing with the attachments, we end up with something [like this](https://play.quizwitz.com/11487:ACz546ejAV/emerald-theme-tutorial-background-logo).
+Po pohraní sa s prílohami skončíme s niečím [takýmto](https://play.quizwitz.com/11487:ACz546ejAV/emerald-theme-tutorial-background-logo).
 :::
 
-![A screenshot of the emerald theme with quiz attachments](/images/emerald/emerald-with-attachments.png)
+![Snímka obrazovky motívu Emerald s prílohami kvízu](/images/emerald/emerald-with-attachments.png)
 
-### Music
+### Hudba
 
-All music in the game can be replaced with attachments as well. Any audio files uploaded in the **during question** slots will be played during the question countdown.
+Všetku hudbu v hre môžeš tiež nahradiť prílohami. Všetky zvukové súbory nahrané do slotov **počas otázky** sa budú prehrávať počas odpočítavania otázky.
 
-## Emerald theme modifiers
+## Modifikátory motívu Emerald
 
-In addition to attachments, you can also manipulate the Emerald theme with **query parameters**. These are parameters you can add to the **advanced game options** URL — and they change the look of the theme.
+Okrem príloh môžeš motív Emerald upravovať aj pomocou **query parameters**. Sú to parametre, ktoré môžeš pridať do URL **pokročilých možností hry** — a zmenia vzhľad motívu.
 
-For this, we will start with an example quiz (without any attachments):  
+Na to začneme s ukážkovým kvízom (bez akýchkoľvek príloh):  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 
-When you start the above quiz, the game will be in the default Emerald style. Let's change that.
+Keď spustíš vyššie uvedený kvíz, hra bude v predvolenom štýle Emerald. Poďme to zmeniť.
 
 :::tip
-The easiest way to experiment with these parameters is by using our [theme tester](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).  
-When you are done experimenting, you can copy — paste the parameters to your advanced game options URL.
+Najjednoduchší spôsob, ako s týmito parametrami experimentovať, je použiť náš [tester motívu](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).  
+Keď budeš s experimentovaním hotový/á, môžeš parametre skopírovať a vložiť do svojej URL pokročilých možností hry.
 :::
 
-The available modifiers are:
+Dostupné modifikátory sú:
 
 - backgroundColor
 - mainColor
@@ -71,23 +71,23 @@ The available modifiers are:
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
-- optionColors (4 colors, comma — separated)
-- optionBorderColors (4 colors, comma — separated)
+- optionColors (4 farby oddelené čiarkou)
+- optionBorderColors (4 farby oddelené čiarkou)
 
-Additionally, you can set a default font:
+Navyše si môžeš nastaviť predvolené písmo:
 
 - defaultFont
 - headerFont
 
-These fonts must be URLs to publicly available font files.
+Tieto písma musia byť URL adresy verejne dostupných súborov písiem.
 
-Each of these modifiers can contain a single color in HTML hex format (ff0000), or a linear gradient by providing multiple colors divided by a minus symbol ( — for example ff1b6b-45caff). (Note that the # symbol should not be added.)
+Každý z týchto modifikátorov môže obsahovať jednu farbu vo formáte HTML hex (ff0000) alebo lineárny prechod zadaním viacerých farieb oddelených znamienkom mínus (napríklad ff1b6b-45caff). (Nezabudni, že symbol # sa nemá pridávať.)
 
 :::note
-The query parameters must start with a question mark ( ? ) and each parameter must be divided with an ampersand ( & ). For more information on query parameters, visit [wikipedia](https://en.wikipedia.org/wiki/Query_string).
+Query parameters sa musia začínať otáznikom ( ? ) a každý parameter musí byť oddelený ampersandom ( & ). Viac informácií o query parameters nájdeš na [wikipédii](https://en.wikipedia.org/wiki/Query_string).
 :::
 
-By adding these parameters to your game URL, you can modify the colors in the theme:  
+Pridaním týchto parametrov do URL svojej hry môžeš upraviť farby v motíve:  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
-![A screenshot of the Emerald theme with custom modifiers](/images/emerald/theme_properties.png)
+![Snímka obrazovky motívu Emerald s vlastnými modifikátormi](/images/emerald/theme_properties.png)

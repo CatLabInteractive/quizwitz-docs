@@ -1,39 +1,39 @@
 ---
 id: piece-of-pie
-title: Piece of pie
+title: Kúsok koláča
 ---
 
-# 🥧 Piece of pie
+# 🥧 Kúsok koláča
 
-In a **Piece of pie** round, teamwork pays off! The total points available for each question depend on the number of players, and are then split between all players (or teams) who answer the question correctly.
-
----
-
-## 📝 How it works
-
-- **Total points = base points × number of players (or teams).**
-  - Example: If a question is worth 100 points and there are 20 players, 2,000 points are at stake.
-- After the question, the **total points are divided equally** among everyone who answered correctly.
-  - Example: If 5 players answered correctly, each of them gets 400 points.
-- If everyone gets it right, everyone gets the same (lower) share. If only one player is correct, they get the whole “pie”!
+V kole **Kúsok koláča** sa tímová práca oplatí! Celkový počet bodov dostupných za každú otázku závisí od počtu hráčov a potom sa rozdelí medzi všetkých hráčov (alebo tímy), ktorí na otázku odpovedia správne.
 
 ---
 
-## ⚙️ Time-based scoring
+## 📝 Ako to funguje
 
-- **Time-based scoring can be enabled** (and is enabled by default).
-- In that case, the displayed points are the _maximum_ you could win for a fast and correct answer.
-- Your share of the “pie” will be adjusted for your speed _and_ the number of other correct answers.
-- For details, see the [scoring section](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips
-
-- **Encourage unique knowledge!** The fewer people who get it right, the bigger the reward.
-- **Speed still matters** if time-based scoring is on, but sharing the “pie” means you want to be both fast and correct.
-- Works well for questions where there’s a single clear answer, or to reward players who think outside the box.
+- **Celkové body = základné body × počet hráčov (alebo tímov).**
+  - Príklad: Ak má otázka hodnotu 100 bodov a hrá 20 hráčov, v hre je 2 000 bodov.
+- Po otázke sa **celkové body rozdelia rovnakým dielom** medzi všetkých, ktorí odpovedali správne.
+  - Príklad: Ak 5 hráčov odpovedalo správne, každý z nich dostane 400 bodov.
+- Ak to všetci trafia správne, každý dostane rovnaký (menší) podiel. Ak je správny iba jeden hráč, získa celý „koláč“!
 
 ---
 
-For more about round settings and configuration, see [Round options](../editor/008-round-options.md).
+## ⚙️ Bodovanie podľa času
+
+- **Bodovanie podľa času sa dá zapnúť** (a predvolene je zapnuté).
+- V takom prípade sú zobrazené body _maximum_, ktoré môžeš vyhrať za rýchlu a správnu odpoveď.
+- Tvoj podiel z „koláča“ sa upraví podľa tvojej rýchlosti _a_ počtu ďalších správnych odpovedí.
+- Podrobnosti nájdeš v [sekcii bodovania](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Tipy
+
+- **Podpor jedinečné znalosti!** Čím menej ľudí odpovie správne, tým väčšia odmena.
+- **Na rýchlosti stále záleží**, ak je zapnuté bodovanie podľa času, ale delenie „koláča“ znamená, že chceš byť rýchly aj presný.
+- Funguje to dobre pri otázkach, kde existuje jedna jasná odpoveď, alebo keď chceš odmeniť hráčov, ktorí premýšľajú mimo zabehnutých koľají.
+
+---
+
+Viac o nastaveniach a konfigurácii kola nájdeš v [Možnostiach kola](../editor/008-round-options.md).

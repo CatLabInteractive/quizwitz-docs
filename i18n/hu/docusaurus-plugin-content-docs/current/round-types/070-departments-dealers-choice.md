@@ -1,43 +1,43 @@
 ---
 id: departments-dealers-choice
-title: Department Dealer's Choice
+title: Részleg Dealer's Choice
 ---
 
-# 🏢 Department Dealer’s Choice
+# 🏢 Részleg Dealer’s Choice
 
-**Department Dealer’s Choice** is an interactive round type where players from a specific department take turns selecting the next category or question.
-
----
-
-## 📝 How it works
-
-- A single **department** is selected to play this round.
-- A **dealer** is chosen from within that department (by ranking or at random) to pick the next category or question.
-- Depending on settings, **only the dealer** or **all players in the dealer's department** can answer and score points for the selected question.
+A **Részleg Dealer’s Choice** egy interaktív kör típus, ahol egy adott részleg játékosai felváltva választják ki a következő kategóriát vagy kérdést.
 
 ---
 
-## ⚙️ Settings
+## 📝 Hogyan működik
 
-- **Department number:** Choose which department is playing this round.
-- **Dealer selection:**
-  - Lowest ranked first
-  - Highest ranked first
-  - Random
-- **Dealer department:**
-  - _Only dealer may play_ — Only the selected dealer answers the question
-  - _All players in dealer’s department may play_ — Everyone in the department can answer and score points
-- **Dealer bonus:**  
-  Set a bonus percentage for the dealer (if enabled).
+- Egyetlen **részleg** kerül kiválasztásra ehhez a körhöz.
+- Az adott részlegen belül kiválasztunk egy **osztót** (ranglista alapján vagy véletlenszerűen), aki kiválasztja a következő kategóriát vagy kérdést.
+- A beállításoktól függően **csak az osztó**, vagy **az osztó részlegének összes játékosa** válaszolhat és szerezhet pontot a kiválasztott kérdésre.
 
 ---
 
-## 💡 Tips
+## ⚙️ Beállítások
 
-- Use this mode for team-based competitions or when you want to give specific groups a chance to shine.
-- Dealer’s Choice rounds keep the game dynamic and engaging, with added strategy for departments.
+- **Részleg száma:** Válaszd ki, melyik részleg játssza ezt a kört.
+- **Osztó kiválasztása:**
+  - Legalacsonyabb rangú először
+  - Legmagasabb rangú először
+  - Véletlenszerű
+- **Osztó részlege:**
+  - _Csak az osztó játszhat_ — Csak a kiválasztott osztó válaszol a kérdésre
+  - _Az osztó részlegének összes játékosa játszhat_ — A részlegen belül mindenki válaszolhat és pontot szerezhet
+- **Osztó bónusza:**  
+  Állíts be bónuszszázalékot az osztónak (ha engedélyezve van).
 
 ---
 
-For classic Dealer’s Choice rules, see [Dealer’s Choice](024-dealers-choice.md).  
-For more team game options, check [Round options](../editor/008-round-options.md).
+## 💡 Tippek
+
+- Használd ezt a módot csapatalapú versenyekhez, vagy amikor szeretnéd, hogy bizonyos csoportok lehetőséget kapjanak a csillogásra.
+- A Dealer’s Choice körök dinamikusan és izgalmasan tartják a játékot, miközben extra stratégiát adnak a részlegeknek.
+
+---
+
+A klasszikus Dealer’s Choice szabályokért lásd: [Dealer’s Choice](024-dealers-choice.md).  
+További csapatjáték-opciókért nézd meg: [Köropciók](../editor/008-round-options.md).

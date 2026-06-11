@@ -1,70 +1,70 @@
 ---
 id: tournament
-title: Tournament
+title: Turnaj
 ---
 
-# Tournament
+# Turnaj
 
-This tutorial will show you how to use QuizWitz Tournament mode. Tournament mode lets players join and play your quiz whenever they want — on their own device. Their scores are recorded on a global leaderboard that you can display in your venue.
-
----
-
-## 📝 Create the quiz
-
-When building a tournament quiz, keep it short and engaging. If visitors need to spend too much time on the quiz, they might not finish.  
-**Only players who finish the whole quiz will be listed on the leaderboard.**
-
-### 🎲 Random question selection
-
-Make the game select a random set of questions from your pool, so every playthrough feels unique — and returning players get different questions.
-
-**Setup example:**
-
-- Choose **Quiz** in the Create menu and name your quiz. Set the correct language.
-- Create 3 rounds, naming them (e.g. Round 1, Round 2, Round 3).
-- In each **Round settings** (cog icon), enable **Only show x questions** and set it to 5.
-- Enable **Random question order** so the game doesn't always pick the same questions first.
-
-Repeat these steps for every round in the quiz.
+Tento návod ti ukáže, ako používať turnajový režim v QuizWitz. Turnajový režim umožňuje hráčom pripojiť sa a hrať tvoj kvíz kedykoľvek chcú — na vlastnom zariadení. Ich skóre sa zaznamenáva v globálnom rebríčku, ktorý môžeš zobraziť na svojom mieste konania.
 
 ---
 
-## 🚀 Start the tournament
+## 📝 Vytvor kvíz
 
-Tournaments can only be started from the **Advanced game options** menu.
+Keď tvoríš turnajový kvíz, udrž ho krátky a pútavý. Ak návštevníci budú musieť pri kvíze stráviť príliš veľa času, možno ho nedokončia.  
+**V rebríčku sa zobrazia iba hráči, ktorí dokončia celý kvíz.**
 
-1. Select **Play quiz** and choose **Advanced game options**.
+### 🎲 Náhodný výber otázok
 
-   ![A screenshot of the 'Start quiz' menu](/images/tutorials/tournament/tournament-start.png)
+Nastav hru tak, aby vybrala náhodnú sadu otázok z tvojho balíka, takže každé hranie bude pôsobiť jedinečne — a vracajúci sa hráči dostanú iné otázky.
 
-2. In the popup, select the **Tournament** game mode and click **Generate play link**.
+**Príklad nastavenia:**
 
-   ![A screenshot of the 'Advanced game options' menu](/images/tutorials/tournament/tournament-advanced-game-settings.png)
+- V menu Vytvoriť vyber **Kvíz** a pomenuj svoj kvíz. Nastav správny jazyk.
+- Vytvor 3 kolá a pomenuj ich (napr. Kolo 1, Kolo 2, Kolo 3).
+- V **nastaveniach kola** (ikona ozubeného kolieska) zapni **Zobraziť iba x otázok** a nastav hodnotu na 5.
+- Zapni **Náhodné poradie otázok**, aby hra nevyberala vždy najprv tie isté otázky.
 
-You will now receive two links:
-
-- **Player link** — Share this with your players (or let them scan the QR code from the leaderboard).
-- **Leaderboard link** — Open this on a display at your venue to show the live rankings and the QR code players can scan to join.
-
----
-
-## 🏆 Launching the leaderboard
-
-To launch the leaderboard, you need to log in:
-
-1. Click **Login to add a profile** and enter your password.
-2. Select your profile from the window to start the leaderboard.
-
-   ![A screenshot of the leaderboard app](/images/tutorials/tournament/leaderboard-start.png)
-
-Once the first players finish their games, their scores will be displayed live:
-
-![A screenshot of the leaderboard app](/images/tutorials/tournament/leaderboard.png)
+Zopakuj tieto kroky pre každé kolo v kvíze.
 
 ---
 
-## 📧 Email confirmation
+## 🚀 Spusti turnaj
 
-You'll also get an email containing both the player and leaderboard links — handy so you don't lose them!
+Turnaje sa dajú spustiť iba z menu **Rozšírené možnosti hry**.
 
-![A screenshot of the tournament email](/images/tutorials/tournament/tournament-email.png)
+1. Vyber **Hrať kvíz** a potom **Rozšírené možnosti hry**.
+
+   ![Snímka obrazovky menu „Spustiť kvíz“](/images/tutorials/tournament/tournament-start.png)
+
+2. Vo vyskakovacom okne vyber herný režim **Turnaj** a klikni na **Vygenerovať odkaz na hranie**.
+
+   ![Snímka obrazovky menu „Rozšírené možnosti hry“](/images/tutorials/tournament/tournament-advanced-game-settings.png)
+
+Teraz dostaneš dva odkazy:
+
+- **Odkaz pre hráčov** — Zdieľaj ho so svojimi hráčmi (alebo ich nechaj naskenovať QR kód z rebríčka).
+- **Odkaz na rebríček** — Otvor ho na obrazovke na svojom mieste konania, aby sa zobrazovalo živé poradie a QR kód, ktorý môžu hráči naskenovať a pripojiť sa.
+
+---
+
+## 🏆 Spustenie rebríčka
+
+Ak chceš spustiť rebríček, musíš sa prihlásiť:
+
+1. Klikni na **Prihlásiť sa a pridať profil** a zadaj svoje heslo.
+2. Vyber svoj profil v okne a spusti rebríček.
+
+   ![Snímka obrazovky aplikácie rebríčka](/images/tutorials/tournament/leaderboard-start.png)
+
+Keď prví hráči dokončia svoje hry, ich skóre sa zobrazí naživo:
+
+![Snímka obrazovky aplikácie rebríčka](/images/tutorials/tournament/leaderboard.png)
+
+---
+
+## 📧 E-mailové potvrdenie
+
+Dostaneš aj e-mail s odkazmi pre hráčov aj na rebríček — super, aby sa ti nestratili!
+
+![Snímka obrazovky turnajového e-mailu](/images/tutorials/tournament/tournament-email.png)
