@@ -1,25 +1,25 @@
 ---
 id: traditional-ct
-title: Traditional (CT)
+title: Tradicional (CT)
 ---
 
-# 📝🧵 Traditional – Common Thread
+# 📝🧵 Tradicional – Fio condutor
 
-A **Traditional – Common Thread** round works just like a [traditional round](030-traditional.md), but with a twist:  
-At the end of the round, the **last question** (“What was the common thread?”) is evaluated and shown first. This lets the quizmaster highlight the connection before revealing the other answers.
-
----
-
-![Screenshot of traditional round in player screen](/images/round-modes/traditional-answer-screen.png)
+Uma rodada **Tradicional – Fio condutor** funciona como uma [rodada tradicional](030-traditional.md), mas com uma diferença:  
+No fim da rodada, a **última pergunta** (“Qual era o fio condutor?”) é avaliada e mostrada primeiro. Isso permite que o quizmaster destaque a ligação antes de revelar as outras respostas.
 
 ---
 
-## 📝 How it works
-
-- Players can change their answers for all questions until the round ends.
-- At the end, the last question (the common thread) is revealed and explained first.
-- All other question feedback is shown afterwards, so the quizmaster can elaborate on the connection.
+![Captura de tela da rodada tradicional na tela do jogador](/images/round-modes/traditional-answer-screen.png)
 
 ---
 
-For setup details and shared options, see [Traditional round](030-traditional.md) and [Round options](../editor/008-round-options.md).
+## 📝 Como funciona
+
+- Os jogadores podem mudar suas respostas para todas as perguntas até a rodada terminar.
+- No fim, a última pergunta (o fio condutor) é revelada e explicada primeiro.
+- Todos os outros feedbacks das perguntas são mostrados depois, para que o quizmaster possa explicar melhor a ligação.
+
+---
+
+Para detalhes de configuração e opções compartilhadas, consulte [Rodada tradicional](030-traditional.md) e [Opções da rodada](../editor/008-round-options.md).
