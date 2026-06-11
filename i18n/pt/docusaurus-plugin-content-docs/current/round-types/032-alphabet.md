@@ -1,41 +1,41 @@
 ---
 id: alphabet
-title: Alphabet
+title: Alfabeto
 ---
 
-# 🔤 Alphabet
+# 🔤 Alfabeto
 
-An **Alphabet** round is a [Traditional round](030-traditional.md) with a twist—each question is assigned a unique label,
-and players must match their answers to the correct labeled fields. This round rewards both knowledge and deduction!
-
----
-
-![Screenshot of an alphabet round while playing](/images/round-modes/alphabet-answer-screen.png)
+Uma rodada de **Alfabeto** é uma [Rodada tradicional](030-traditional.md) com um toque especial: cada pergunta recebe uma etiqueta única,
+e os jogadores devem associar suas respostas aos campos etiquetados corretos. Esta rodada recompensa tanto o conhecimento quanto a dedução!
 
 ---
 
-## 🏷️ Alphabet labels
-
-- Each question is assigned a unique **Label**. Traditionally, this is the **first letter of the answer**, but you can use any label you like (letters, numbers, or creative codes).
-- **All questions must be open questions** in this round type.
+![Captura de tela de uma rodada de alfabeto durante o jogo](/images/round-modes/alphabet-answer-screen.png)
 
 ---
 
-![Screenshot of an alphabet round in the quiz editor](/images/round-modes/alphabet-round.png)
+## 🏷️ Etiquetas do alfabeto
+
+- Cada pergunta recebe uma **Etiqueta** única. Tradicionalmente, esta é a **primeira letra da resposta**, mas você pode usar qualquer etiqueta que quiser (letras, números ou códigos criativos).
+- **Todas as perguntas devem ser perguntas abertas** neste tipo de rodada.
 
 ---
 
-## 📝 How it works
-
-- As questions are asked, players see a list of answer fields — one for each question.
-- **The answer fields are not in quiz order** — instead, they’re sorted alphabetically by label.
-- Players must match their answers to the correct labeled fields (e.g. answer for question "Bear" must be entered under label "B").
-- Answers can be changed at any time until the round finishes — players can switch answers between fields as they realize their mistakes.
+![Captura de tela de uma rodada de alfabeto no editor do quiz](/images/round-modes/alphabet-round.png)
 
 ---
 
-> This round is especially fun and challenging, as it requires both knowledge and the ability to deduce which answer fits which label. Perfect for seasoned quizzers and creative rounds!
+## 📝 Como funciona
+
+- À medida que as perguntas são feitas, os jogadores veem uma lista de campos de resposta — um para cada pergunta.
+- **Os campos de resposta não estão na ordem do quiz** — em vez disso, são ordenados alfabeticamente por etiqueta.
+- Os jogadores devem associar suas respostas aos campos etiquetados corretos (por exemplo, a resposta para a pergunta "Bear" deve ser inserida sob a etiqueta "B").
+- As respostas podem ser alteradas a qualquer momento até a rodada terminar — os jogadores podem trocar respostas entre os campos quando percebem seus erros.
 
 ---
 
-For shared configuration details, see [Traditional round](030-traditional.md) and [Round options](../editor/008-round-options.md).
+> Esta rodada é especialmente divertida e desafiadora, pois exige tanto conhecimento quanto a capacidade de deduzir qual resposta combina com qual etiqueta. Perfeita para quizzers experientes e rodadas criativas!
+
+---
+
+Para detalhes de configuração compartilhada, veja [Rodada tradicional](030-traditional.md) e [Opções de rodada](../editor/008-round-options.md).
