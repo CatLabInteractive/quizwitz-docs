@@ -1,42 +1,42 @@
 ---
 id: multiquestion
-title: Multiquestion
+title: Мултивъпрос
 ---
 
-# ❓ Multiquestion
+# ❓ Мултивъпрос
 
-The **Multiquestion** round gives players (or teams) the freedom to pick which question they want to answer from a set of possibilities. This makes each playthrough unique and allows for strategic choices!
-
----
-
-## 📝 How it works
-
-- For each "question group," several alternative questions are presented.
-- **Each player (or team) selects one question** from the available options to answer.
-- Every question can have its own point value, difficulty, or type (multiple choice, open, etc.).
-- Players only answer the question they picked; the rest are skipped for them.
+Рундът **Мултивъпрос** дава на играчите (или отборите) свободата да изберат на кой въпрос искат да отговорят от набор възможности. Това прави всяко изиграване уникално и позволява стратегически избори!
 
 ---
 
-## 🛠️ Editor setup
+## 📝 Как работи
 
-- In the quiz editor, create **Question groups**. Each group contains all the alternative questions for that turn.
-- For each question in the group, set the **Label** field. This label is shown to players as the “title” or hint for their choice.
-  - Labels can be cryptic (“A, B, C”), themed (“Animals”, “History”), or descriptive (“Easy MC”, “Hard open”).
-- You can mix and match question types and point values within the same group.
-- **Duration:** Even though you can set a different timer multiplier per question, the game uses the highest value for all questions in the group (so nobody is rushed).
-- **Attachments:**
-  - _Before question_ attachments from all options are combined into one view before players make their choice.
-  - _During question_ visible attachments are not shown, but audio still plays.
+- За всяка "група въпроси" се представят няколко алтернативни въпроса.
+- **Всеки играч (или отбор) избира един въпрос** от наличните опции, на който да отговори.
+- Всеки въпрос може да има собствена стойност в точки, трудност или тип (с избираем отговор, отворен и т.н.).
+- Играчите отговарят само на въпроса, който са избрали; останалите се пропускат за тях.
 
 ---
 
-## 💡 Tips
+## 🛠️ Настройка в редактора
 
-- Offer a mix of easy and hard questions for more strategy.
-- Use labels creatively—mystery or fun themes can boost engagement.
-- Reward risk-takers with higher point questions.
+- В редактора на куиза създай **Групи въпроси**. Всяка група съдържа всички алтернативни въпроси за този ход.
+- За всеки въпрос в групата задай полето **Етикет**. Този етикет се показва на играчите като „заглавие“ или подсказка за техния избор.
+  - Етикетите могат да са загадъчни („A, B, C“), тематични („Животни“, „История“) или описателни („Лесен с избираем отговор“, „Труден отворен“).
+- Можеш да комбинираш типове въпроси и стойности в точки в рамките на една и съща група.
+- **Продължителност:** Въпреки че можеш да зададеш различен множител на таймера за всеки въпрос, играта използва най-високата стойност за всички въпроси в групата (така никой няма да бъде притиснат от времето).
+- **Прикачени файлове:**
+  - Прикачените файлове _преди въпроса_ от всички опции се комбинират в един изглед, преди играчите да направят своя избор.
+  - Видимите прикачени файлове _по време на въпроса_ не се показват, но аудиото все пак се възпроизвежда.
 
 ---
 
-For more on configuring questions and using attachments, see [writing questions](../editor/005-writing-questions.md) and [attachments documentation](../editor/006-attachments.md).
+## 💡 Съвети
+
+- Предложи комбинация от лесни и трудни въпроси за повече стратегия.
+- Използвай етикетите креативно — мистериозни или забавни теми могат да повишат ангажираността.
+- Награди по-смелите играчи с въпроси за повече точки.
+
+---
+
+За повече информация относно конфигурирането на въпроси и използването на прикачени файлове виж [писане на въпроси](../editor/005-writing-questions.md) и [документацията за прикачени файлове](../editor/006-attachments.md).
