@@ -1,79 +1,79 @@
 ---
 id: conference-booth
-title: Conference booth
+title: Конферентен щанд
 ---
 
-# Conference booth
+# Конферентен щанд
 
-This tutorial will show you how to run QuizWitz at your conference booth — an easy, interactive way to attract visitors and gather leads!
+Този урок ще ти покаже как да използваш QuizWitz на конферентния си щанд — лесен и интерактивен начин да привличаш посетители и да събираш потенциални клиенти!
 
-![A photo of a Marvel conference booth using QuizWitz](/images/photos/marvel.jpg)
+![Снимка на конферентен щанд на Marvel, използващ QuizWitz](/images/photos/marvel.jpg)
 
 ---
 
-## 📝 Creating the quiz
+## 📝 Създаване на теста
 
-When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.  
-To keep things fresh, make sure you have plenty of questions — enough to randomize and make each playthrough unique.
+Когато създаваш тест за конферентен щанд, имай предвид, че някои играчи може да останат за няколко игри.  
+За да запазиш нещата свежи, увери се, че имаш много въпроси — достатъчно, за да се разбъркват и всяко изиграване да е уникално.
 
-**Recommended setup:**
+**Препоръчителна настройка:**
 
-- 15 questions split into 3 rounds
-- Create at least 3× that many questions for variety — more is better!
+- 15 въпроса, разделени в 3 кръга
+- Създай поне 3× толкова въпроси за разнообразие — колкото повече, толкова по-добре!
 
-### 🎲 Step-by-step quiz creation
+### 🎲 Създаване на тест стъпка по стъпка
 
-1. **Choose “Quiz”** in the Create menu and give your quiz a name. Set the correct language.
-2. **Add 3 rounds** and name them (for example: Round 1, Round 2, Round 3).
-3. In the **Round settings** (cog icon), enable **“Only show x questions”** and set the number to 5.  
-   Also enable **“Random question order”** — otherwise the game will always pick the first 5 questions.  
-   Repeat for each round.
+1. **Избери „Quiz“** в менюто за създаване и дай име на теста си. Задай правилния език.
+2. **Добави 3 кръга** и ги именувай (например: Кръг 1, Кръг 2, Кръг 3).
+3. В **настройките на кръга** (икона със зъбно колело) активирай **„Показвай само x въпроса“** и задай числото на 5.  
+   Активирай също **„Случаен ред на въпросите“** — иначе играта винаги ще избира първите 5 въпроса.  
+   Повтори за всеки кръг.
 
-![Screenshot of round settings for a conference booth](/images/tutorials/conference/round_settings.png)
+![Екранна снимка на настройките на кръг за конферентен щанд](/images/tutorials/conference/round_settings.png)
 
-4. **Add questions to each round.**  
-   You can [write questions](../editor/005-writing-questions.md) or use the Import button to quickly add content from Excel.
+4. **Добави въпроси към всеки кръг.**  
+   Можеш да [пишеш въпроси](../editor/005-writing-questions.md) или да използваш бутона за импортиране, за да добавиш бързо съдържание от Excel.
 
 :::tip
-Use lots of images and video clips — they make the game much more entertaining!
+Използвай много изображения и видеоклипове — те правят играта много по-забавна!
 :::
 
 ---
 
-### 🔀 How random selection works
+### 🔀 Как работи случайният избор
 
-Each time the quiz runs, QuizWitz will select 5 random questions from each round. The system will distribute questions fairly so repeats are minimized.
-
----
-
-## 🚀 Launch the quiz
-
-The fastest way to launch your conference quiz:
-
-1. Click **Play quiz**.
-2. Select **Start Conference Mode**.
-
-In this mode, players use their phones to connect to the game link on the main screen.  
-When everyone is ready, the booth host presses Enter — and the game runs automatically.  
-After the game ends, pressing Enter brings you right back to the connection screen for the next group.
+Всеки път, когато тестът се стартира, QuizWitz ще избере 5 случайни въпроса от всеки кръг. Системата ще разпределя въпросите справедливо, така че повторенията да са сведени до минимум.
 
 ---
 
-## ⚙️ Advanced game options
+## 🚀 Стартирай теста
 
-Want more control?  
-Choose **Advanced game options** and select **Conference mode** in the mode selector.  
-You’ll get a unique link with all your chosen options.
+Най-бързият начин да стартираш конферентния си тест:
 
-- **Ask players’ email:**  
-  Collect visitor emails for your booth! If you enable this, be sure to also set your **Privacy Policy URL**.
-- When launching a game via the advanced options link, you may be prompted to log in before starting — this checks your content and licenses.
+1. Кликни върху **Играй тест**.
+2. Избери **Стартирай конферентен режим**.
 
-![Screenshot of advanced game settings](/images/tutorials/conference/advanced_game_settings.png)
+В този режим играчите използват телефоните си, за да се свържат с линка към играта на главния екран.  
+Когато всички са готови, водещият на щанда натиска Enter — и играта се изпълнява автоматично.  
+След края на играта натискането на Enter те връща направо към екрана за свързване за следващата група.
 
 ---
 
-## 🎨 Theming
+## ⚙️ Разширени опции за играта
 
-Want to match the game to your booth branding?  
-See our [Theming guide](../advanced/011-emerald-theme.md) for tips on customizing your QuizWitz experience.
+Искаш повече контрол?  
+Избери **Разширени опции за играта** и избери **Конферентен режим** в селектора за режим.  
+Ще получиш уникален линк с всички избрани от теб опции.
+
+- **Поискай имейлите на играчите:**  
+  Събирай имейли на посетители за щанда си! Ако активираш това, не забравяй да зададеш и своя **URL адрес на Политиката за поверителност**.
+- Когато стартираш игра чрез линка за разширени опции, може да бъдеш подканен да влезеш, преди да започнеш — това проверява съдържанието и лицензите ти.
+
+![Екранна снимка на разширените настройки на играта](/images/tutorials/conference/advanced_game_settings.png)
+
+---
+
+## 🎨 Теми
+
+Искаш играта да пасва на брандинга на щанда ти?  
+Виж нашето [ръководство за теми](../advanced/011-emerald-theme.md) за съвети как да персонализираш изживяването си с QuizWitz.
