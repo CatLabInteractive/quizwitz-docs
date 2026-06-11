@@ -5,34 +5,34 @@ title: Strike
 
 # 📈 Strike
 
-In a **Strike** round, players can climb through multiple levels by answering consecutive questions correctly. The higher their streak, the more points they can earn!
+In un round **Strike**, i giocatori possono salire di più livelli rispondendo correttamente a domande consecutive. Più lunga è la loro serie, più punti possono guadagnare!
 
 ---
 
-## 📝 How it works
+## 📝 Come funziona
 
-- Players start at level 1.
-- Each time a player answers correctly, they advance to the next level.
-- Every level increases the points they can earn on the next question.
-- If a player gets a question wrong, they drop down a configurable number of levels (not necessarily all the way to the start).
-- By default, there are **5 levels** and each level grants **20% extra points** (e.g. 100% → 120% → 140%...), but both the number of levels, the extra percentage per level, and the drop amount for wrong answers are configurable in the round settings.
-
----
-
-## ⚙️ Settings
-
-- **Number of levels:** Set how many levels a player can climb (default is 5).
-- **Point increase per level:** Set how much each level increases the next question’s points (default is 20% per level).
-- **Levels lost on wrong answer:** Configure how many levels a player drops if they answer incorrectly.
+- I giocatori iniziano dal livello 1.
+- Ogni volta che un giocatore risponde correttamente, avanza al livello successivo.
+- Ogni livello aumenta i punti che possono guadagnare con la domanda successiva.
+- Se un giocatore sbaglia una domanda, scende di un numero configurabile di livelli (non necessariamente fino all'inizio).
+- Per impostazione predefinita, ci sono **5 livelli** e ogni livello assegna **20% di punti extra** (ad es. 100% → 120% → 140%...), ma sia il numero di livelli, sia la percentuale extra per livello, sia la quantità di livelli persi per le risposte sbagliate sono configurabili nelle impostazioni del round.
 
 ---
 
-## 💡 Tips
+## ⚙️ Impostazioni
 
-- **Reward consistency!** The longer a player keeps answering correctly, the more their score multiplies.
-- Use for fast-paced or competitive rounds to add excitement and risk.
-- Mix easy and challenging questions to shake up the streaks.
+- **Numero di livelli:** Imposta quanti livelli può salire un giocatore (il valore predefinito è 5).
+- **Aumento dei punti per livello:** Imposta di quanto ogni livello aumenta i punti della domanda successiva (il valore predefinito è 20% per livello).
+- **Livelli persi con risposta sbagliata:** Configura di quanti livelli scende un giocatore se risponde in modo errato.
 
 ---
 
-For more on round settings and advanced configuration, see [Round options](../editor/008-round-options.md).
+## 💡 Suggerimenti
+
+- **Premia la costanza!** Più a lungo un giocatore continua a rispondere correttamente, più il suo punteggio si moltiplica.
+- Usalo per round veloci o competitivi, per aggiungere entusiasmo e rischio.
+- Mescola domande facili e impegnative per movimentare le serie.
+
+---
+
+Per saperne di più sulle impostazioni del round e sulla configurazione avanzata, consulta [Opzioni del round](../editor/008-round-options.md).
