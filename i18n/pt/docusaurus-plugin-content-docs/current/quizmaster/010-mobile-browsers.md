@@ -1,44 +1,44 @@
 ---
 id: mobile
-title: Mobile browsers
+title: Navegadores móveis
 ---
 
-# 📱 Mobile browsers — Hosting limitations
+# 📱 Navegadores móveis — Limitações de hospedagem
 
-QuizWitz is optimized for use on **desktop and laptop computers**. While it’s technically possible to host **QuizWitz Live** or **Conference** games on a tablet or smartphone, we **do not recommend** using **Android** or **iOS** devices to run the game.
+O QuizWitz é otimizado para uso em **computadores desktop e portáteis**. Embora seja tecnicamente possível hospedar jogos do **QuizWitz Live** ou **Conference** em um tablet ou smartphone, nós **não recomendamos** usar dispositivos **Android** ou **iOS** para rodar o jogo.
 
-> 🛑 Mobile devices are not officially supported for hosting. Please use a desktop or laptop whenever possible.
-
----
-
-## ⚠️ If you must use a mobile device...
-
-If using a phone or tablet is your only option, follow these steps to minimize the risk of technical issues:
-
-### 🔋 Disable power-saving features
-
-- Make sure **energy-saving modes are turned off**
-- Increase your device’s **auto-sleep timeout**
-- Some mobile browsers may **refresh the page when the device sleeps**, which can end the game unexpectedly
-
-### 🎞️ Test audio and video fragments
-
-- If your quiz includes **audio or video**, test it in advance
-- Some devices may **struggle with large media files** or not play them at all
-- Be especially cautious with **older devices** or default mobile browsers
+> 🛑 Dispositivos móveis não são oficialmente compatíveis para hospedagem. Use um desktop ou portátil sempre que possível.
 
 ---
 
-## 🚫 Not recommended for live events
+## ⚠️ Se você precisar usar um dispositivo móvel...
 
-Even with the precautions above, we strongly advise **against** using mobile devices to host important or high-stakes events.
+Se usar um celular ou tablet for sua única opção, siga estes passos para minimizar o risco de problemas técnicos:
 
-For the best performance and stability:
+### 🔋 Desative os recursos de economia de energia
 
-- Use a **modern desktop or laptop computer**
-- Run your game in **Chrome, Firefox**, or **Edge**
-- Avoid using Safari on iOS for anything other than playing
+- Certifique-se de que os **modos de economia de energia estejam desativados**
+- Aumente o **tempo limite de suspensão automática** do seu dispositivo
+- Alguns navegadores móveis podem **atualizar a página quando o dispositivo entra em suspensão**, o que pode encerrar o jogo inesperadamente
+
+### 🎞️ Teste fragmentos de áudio e vídeo
+
+- Se o seu quiz incluir **áudio ou vídeo**, teste com antecedência
+- Alguns dispositivos podem **ter dificuldade com arquivos de mídia grandes** ou nem reproduzi-los
+- Tenha cuidado especial com **dispositivos mais antigos** ou navegadores móveis padrão
 
 ---
 
-For hosting, a reliable setup is key — mobile devices should be used only as a last resort.
+## 🚫 Não recomendado para eventos ao vivo
+
+Mesmo com as precauções acima, recomendamos fortemente **não** usar dispositivos móveis para hospedar eventos importantes ou de alto risco.
+
+Para obter o melhor desempenho e estabilidade:
+
+- Use um **computador desktop ou portátil moderno**
+- Rode seu jogo no **Chrome, Firefox** ou **Edge**
+- Evite usar o Safari no iOS para qualquer coisa além de jogar
+
+---
+
+Para hospedagem, uma configuração confiável é essencial — dispositivos móveis devem ser usados apenas como último recurso.
