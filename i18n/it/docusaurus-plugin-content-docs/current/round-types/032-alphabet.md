@@ -1,41 +1,41 @@
 ---
 id: alphabet
-title: Alphabet
+title: Alfabeto
 ---
 
-# 🔤 Alphabet
+# 🔤 Alfabeto
 
-An **Alphabet** round is a [Traditional round](030-traditional.md) with a twist—each question is assigned a unique label,
-and players must match their answers to the correct labeled fields. This round rewards both knowledge and deduction!
-
----
-
-![Screenshot of an alphabet round while playing](/images/round-modes/alphabet-answer-screen.png)
+Un round **Alfabeto** è un [Round tradizionale](030-traditional.md) con una particolarità: a ogni domanda viene assegnata un'etichetta unica,
+e i giocatori devono abbinare le loro risposte ai campi etichettati corretti. Questo round premia sia la conoscenza che la deduzione!
 
 ---
 
-## 🏷️ Alphabet labels
-
-- Each question is assigned a unique **Label**. Traditionally, this is the **first letter of the answer**, but you can use any label you like (letters, numbers, or creative codes).
-- **All questions must be open questions** in this round type.
+![Screenshot di un round Alfabeto durante il gioco](/images/round-modes/alphabet-answer-screen.png)
 
 ---
 
-![Screenshot of an alphabet round in the quiz editor](/images/round-modes/alphabet-round.png)
+## 🏷️ Etichette Alfabeto
+
+- A ogni domanda viene assegnata un'**Etichetta** unica. Tradizionalmente, è la **prima lettera della risposta**, ma puoi usare qualsiasi etichetta tu voglia (lettere, numeri o codici creativi).
+- **Tutte le domande devono essere domande aperte** in questo tipo di round.
 
 ---
 
-## 📝 How it works
-
-- As questions are asked, players see a list of answer fields — one for each question.
-- **The answer fields are not in quiz order** — instead, they’re sorted alphabetically by label.
-- Players must match their answers to the correct labeled fields (e.g. answer for question "Bear" must be entered under label "B").
-- Answers can be changed at any time until the round finishes — players can switch answers between fields as they realize their mistakes.
+![Screenshot di un round Alfabeto nell'editor del quiz](/images/round-modes/alphabet-round.png)
 
 ---
 
-> This round is especially fun and challenging, as it requires both knowledge and the ability to deduce which answer fits which label. Perfect for seasoned quizzers and creative rounds!
+## 📝 Come funziona
+
+- Man mano che le domande vengono poste, i giocatori vedono un elenco di campi risposta — uno per ogni domanda.
+- **I campi risposta non sono nell'ordine del quiz** — invece, sono ordinati alfabeticamente per etichetta.
+- I giocatori devono abbinare le loro risposte ai campi etichettati corretti (ad es. la risposta alla domanda "Bear" deve essere inserita sotto l'etichetta "B").
+- Le risposte possono essere cambiate in qualsiasi momento finché il round non finisce — i giocatori possono spostare le risposte tra i campi quando si accorgono dei loro errori.
 
 ---
 
-For shared configuration details, see [Traditional round](030-traditional.md) and [Round options](../editor/008-round-options.md).
+> Questo round è particolarmente divertente e stimolante, perché richiede sia conoscenza che la capacità di dedurre quale risposta corrisponde a quale etichetta. Perfetto per quizzers esperti e round creativi!
+
+---
+
+Per i dettagli di configurazione condivisi, vedi [Round tradizionale](030-traditional.md) e [Opzioni del round](../editor/008-round-options.md).
