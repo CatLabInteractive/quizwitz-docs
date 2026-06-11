@@ -1,61 +1,61 @@
 ---
 id: lightning-round
-title: Lightning round
+title: Round lampo
 ---
 
-# ⚡ Lightning round
+# ⚡ Round lampo
 
-The **Lightning round** is all about speed and excitement. Players answer a rapid series of questions with very short timers — all set to continuous timer music for maximum energy and tension.
-
----
-
-## 📝 How it works
-
-- Questions are presented one after another with minimal delay.
-- Timer music plays **continuously** throughout the round, only stopping after the last question.
-- Players must answer quickly; there’s no break between questions.
-- **By default, feedback for each question is postponed until the end of the round,** but each question’s feedback is shown separately, not grouped on a single screen.
-- If you want to group all feedback on one screen at the end, you can enable this in the round settings.
+Il **round lampo** è tutto incentrato su velocità ed emozione. I giocatori rispondono a una serie rapida di domande con timer molto brevi — il tutto accompagnato da musica del timer continua per la massima energia e tensione.
 
 ---
 
-## ⚙️ Feedback settings
+## 📝 Come funziona
 
-- **Default (postponed feedback):** Feedback for each question is shown after the last question, one by one in sequence.
-- **Grouped feedback:** If “Show all question feedback at the end of the round” is enabled in round settings, all feedback is combined into a single feedback screen at the end.
-- **Force results after question:** If enabled in a question’s settings, feedback for that question will always be shown immediately, regardless of round feedback grouping.
-
-See [round options](../editor/008-round-options.md) for details on configuring feedback timing.
-
----
-
-## 🎵 Attachments — Countdown music
-
-- You can set a **Round Attachment** in the slot “Play during question countdown.”  
-  This audio attachment will play **continuously** as the countdown music during the entire lightning round, only stopping after the last question.
-- Use energetic or tense music to boost excitement and keep players on their toes.
-
-For more details, see the [attachments documentation](../editor/006-attachments.md).
+- Le domande vengono presentate una dopo l’altra con un ritardo minimo.
+- La musica del timer viene riprodotta **continuamente** durante tutto il round, fermandosi solo dopo l’ultima domanda.
+- I giocatori devono rispondere in fretta; non c’è pausa tra una domanda e l’altra.
+- **Per impostazione predefinita, il feedback per ogni domanda viene rimandato alla fine del round,** ma il feedback di ogni domanda viene mostrato separatamente, non raggruppato in un’unica schermata.
+- Se vuoi raggruppare tutto il feedback in un’unica schermata alla fine, puoi attivare questa opzione nelle impostazioni del round.
 
 ---
 
-## 🏆 Scoring
+## ⚙️ Impostazioni del feedback
 
-- **Time-based scoring is _not_ recommended** for this round type.
-- Instead, use a **short question timer** (typically 15 seconds).
-- Set point values lower than usual (e.g. 500 points per question) to keep the game fair and minimize the impact of wrong answers.
+- **Predefinito (feedback rimandato):** il feedback per ogni domanda viene mostrato dopo l’ultima domanda, uno alla volta in sequenza.
+- **Feedback raggruppato:** se l’opzione “Mostra tutto il feedback delle domande alla fine del round” è attivata nelle impostazioni del round, tutto il feedback viene combinato in un’unica schermata di feedback alla fine.
+- **Forza risultati dopo la domanda:** se attivato nelle impostazioni di una domanda, il feedback per quella domanda verrà sempre mostrato subito, indipendentemente dal raggruppamento del feedback del round.
 
-For scoring setup, see the [scoring section](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips
-
-- **Keep questions short:** This encourages fast, instinctive answers.
-- **Use energetic music:** Timer music adds to the pressure and excitement.
-- **Balance difficulty:** Too many tough questions can stall the pace.
-- **Lower the stakes:** Fewer points and shorter timers mean mistakes aren’t too punishing.
+Consulta le [opzioni del round](../editor/008-round-options.md) per i dettagli su come configurare le tempistiche del feedback.
 
 ---
 
-Lightning rounds are perfect for energizing your quiz and ramping up the pace!
+## 🎵 Allegati — Musica del conto alla rovescia
+
+- Puoi impostare un **allegato del round** nello slot “Riproduci durante il conto alla rovescia della domanda”.  
+  Questo allegato audio verrà riprodotto **continuamente** come musica del conto alla rovescia durante l’intero round lampo, fermandosi solo dopo l’ultima domanda.
+- Usa musica energica o carica di tensione per aumentare l’emozione e tenere i giocatori sulle spine.
+
+Per maggiori dettagli, consulta la [documentazione sugli allegati](../editor/006-attachments.md).
+
+---
+
+## 🏆 Punteggio
+
+- **Il punteggio basato sul tempo _non_ è consigliato** per questo tipo di round.
+- Usa invece un **timer della domanda breve** (in genere 15 secondi).
+- Imposta valori di punti più bassi del solito (ad es. 500 punti per domanda) per mantenere il gioco equo e ridurre al minimo l’impatto delle risposte sbagliate.
+
+Per configurare il punteggio, consulta la [sezione sul punteggio](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Suggerimenti
+
+- **Mantieni le domande brevi:** questo incoraggia risposte rapide e istintive.
+- **Usa musica energica:** la musica del timer aumenta pressione ed emozione.
+- **Bilancia la difficoltà:** troppe domande difficili possono rallentare il ritmo.
+- **Abbassa la posta in gioco:** meno punti e timer più brevi significano che gli errori non sono troppo penalizzanti.
+
+---
+
+I round lampo sono perfetti per dare energia al tuo quiz e aumentare il ritmo!
