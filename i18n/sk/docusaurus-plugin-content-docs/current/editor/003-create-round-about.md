@@ -1,71 +1,71 @@
 ---
 id: create-round-about
-title: Create a Round-About
+title: Vytvor Round-About
 ---
 
-# 🧠 Create a Round-About
+# 🧠 Vytvor Round-About
 
-A **Round-About** is the core quiz unit in QuizWitz — a themed set of questions presented in random order. You can create your own and play privately, or publish it to share with the community.
-
----
-
-## 🎬 Getting started
-
-From the main menu:
-
-1. Click **Create**
-2. Select **Round-About** from the dropdown
-
-![QuizWitz top navigation bar](/images/top-menu-create.png)
+**Round-About** je hlavná kvízová jednotka v QuizWitz — tematická sada otázok zobrazovaných v náhodnom poradí. Môžeš si vytvoriť vlastný a hrať súkromne, alebo ho publikovať a zdieľať s komunitou.
 
 ---
 
-## ✏️ Title, language & category
+## 🎬 Začíname
 
-Start by giving your Round-About a clear:
+Z hlavného menu:
 
-- **Title** — something catchy or descriptive
-- **Language** — the language your questions are written in
-- **Category** — helps players find your Round-About later
+1. Klikni na **Vytvoriť**
+2. Vyber **Round-About** z rozbaľovacieho menu
 
-> 🔒 You don't need to publish your Round-About to play it. Keep it private or publish it when you're ready to share.
-
-![QuizWitz create round](/images/create-round.png)
+![Horný navigačný panel QuizWitz](/images/top-menu-create.png)
 
 ---
 
-## ➕ Adding questions
+## ✏️ Názov, jazyk a kategória
 
-Click **Add new question** to begin creating your quiz content.
+Začni tým, že svojmu Round-About dáš jasný:
 
-- Add as many questions as you like
-- Save your progress frequently
-- You can test and play your Round-About at any time
+- **Názov** — niečo chytľavé alebo výstižné
+- **Jazyk** — jazyk, v ktorom sú napísané tvoje otázky
+- **Kategória** — pomôže hráčom neskôr nájsť tvoj Round-About
 
-> 📢 **To publish your Round-About**, you’ll need **at least 14 questions**. Once published, it becomes visible to the entire QuizWitz community — but you can unpublish it later if needed.
+> 🔒 Svoj Round-About nemusíš publikovať, aby si ho mohol hrať. Nechaj ho súkromný alebo ho publikuj, keď ho budeš chcieť zdieľať.
 
-Want to add questions in bulk? Use the **Import questions** feature and follow the prompts to format everything correctly.
-
-> 🛠️ More details on question types and editing can be found in the upcoming chapters.
+![Vytvorenie kola QuizWitz](/images/create-round.png)
 
 ---
 
-## ⚙️ Round-About settings
+## ➕ Pridávanie otázok
 
-In the **Details** section, you’ll find additional configuration options:
+Klikni na **Pridať novú otázku** a začni vytvárať obsah svojho kvízu.
 
-- **Translate** — Create a translated version of your Round-About in another language
-- **Category** — Choose or update your Round-About’s category
-- **Round type** — Select how questions are presented to players. You can configure:
-  - Multiple choice
-  - Open questions
-  - Lightning rounds
-  - And more
+- Pridaj toľko otázok, koľko chceš
+- Priebežne si ukladaj postup
+- Svoj Round-About môžeš kedykoľvek otestovať a hrať
 
-> 🔗 Learn more about [round types](../round-types/000-round-types.md) and [question types](../question-types/000-question-types.md) in the advanced guides.
+> 📢 **Na publikovanie svojho Round-About** budeš potrebovať **aspoň 14 otázok**. Po publikovaní bude viditeľný celej komunite QuizWitz — ale ak bude treba, neskôr ho môžeš zrušiť z publikovania.
 
-![Round-About settings](/images/round-about-details.png)
+Chceš pridať otázky hromadne? Použi funkciu **Importovať otázky** a postupuj podľa pokynov, aby bolo všetko správne naformátované.
+
+> 🛠️ Viac detailov o typoch otázok a úpravách nájdeš v nasledujúcich kapitolách.
 
 ---
 
-When you're happy with your content, hit publish — and share your Round-About with the world!
+## ⚙️ Nastavenia Round-About
+
+V časti **Podrobnosti** nájdeš ďalšie možnosti konfigurácie:
+
+- **Preložiť** — vytvor preloženú verziu svojho Round-About v inom jazyku
+- **Kategória** — vyber alebo aktualizuj kategóriu svojho Round-About
+- **Typ kola** — vyber, ako sa otázky zobrazia hráčom. Môžeš nastaviť:
+  - Výber z možností
+  - Otvorené otázky
+  - Bleskové kolá
+  - A ďalšie
+
+> 🔗 Viac sa dozvieš o [typoch kôl](../round-types/000-round-types.md) a [typoch otázok](../question-types/000-question-types.md) v pokročilých príručkách.
+
+![Nastavenia Round-About](/images/round-about-details.png)
+
+---
+
+Keď budeš so svojím obsahom spokojný, klikni na publikovať — a zdieľaj svoj Round-About so svetom!
