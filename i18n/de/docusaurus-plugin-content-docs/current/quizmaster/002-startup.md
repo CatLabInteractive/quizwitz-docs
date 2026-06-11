@@ -13,8 +13,8 @@ Willkommen bei QuizWitz Live — die professionelle Art, Quizze für Teams, Live
 
 Du kannst ein QuizWitz Live-Spiel aus dem Quiz-Editor oder direkt aus deiner Quizsammlung starten.
 
-- Im Quiz-Editor klicke auf **‚Start QuizWitz Live‘**  
-  ![QuizWitz PRO starten](/images/start-quizwitz-pro.png)
+- Klicke im Quiz-Editor auf **‘QuizWitz Live'**\
+  ![QuizWitz starten PRO](/images/start-quizwitz-pro.png)
 
 - Aus deiner Sammlung klicke auf das **Live-Symbol**, um zu starten  
   ![QuizWitz PRO aus deiner Sammlung starten](/images/start-quizwitz-live.png)
@@ -68,8 +68,8 @@ Einmal verbunden, wähle zwischen zwei Spielmodi:
 Wenn du **Team-Codes** benutzt, erstellst du zuerst Teams in der Quizmaster App:
 
 - Teamnamen hinzufügen
-- Drücke **‚Codes generieren‘**, um Zugangscodes zu erstellen  
-  ![Quizmaster App – Teams erstellen](/images/quizmaster-app-create-teams.png)
+- Drücke **Code generieren** um Zugangscodes  
+  zu erstellen![Quizmaster App - Teams erstellen](/images/quizmaster-app-create-teams.png)
 
 Du kannst auch **Codes im Voraus reservieren** — mehr dazu im Tipps & Tricks Abschnitt.
 
@@ -81,7 +81,7 @@ Speichere unbedingt die folgenden Codes:
 
 Sende Team-Codes per E-Mail oder als Ausdruck an deine Spieler.
 
-Wenn du bereit bist, klicke auf **‚Quiz laden‘**, warte, bis die Inhalte geladen sind, und dann auf **‚Start‘**, um zu beginnen.
+Wenn bereits, klicke \*\*‘Load Quiz’ \*\*, warte auf Assets zum Laden und klicke dann auf **‘Start’** um zu beginnen.
 
 ![Quizmaster App – Team-Codes erhalten](/images/quizmaster-app-create-teams2.png)
 
@@ -91,31 +91,31 @@ Wenn du bereit bist, klicke auf **‚Quiz laden‘**, warte, bis die Inhalte gel
 
 Im **Single Game Code**-Modus:
 
-- Erhältst du Master-, Jury- und Regie-Codes sowie einen Spielcode für die Spieler.
+- Du erhältst die Meister, die Jury und die Regie Codes sowie einen Spielcode für Spieler.
 - Der Spielcode wird auf dem Hauptbildschirm angezeigt — **zeige oder streame ihn deinem Publikum**.
 - Spieler können jederzeit beitreten, bis deine aktiven Seats voll sind.
 
 Sobald deine Spieler angemeldet sind:
 
-1. Klicke auf **‚Quiz laden‘**
-2. Klicke auf **‚Quiz starten‘** und bestätige
+1. Klicke **'Quiz laden**
+2. Klicke \*\*'Test starten' und bestätige
 3. Der Spielcode bleibt für Nachzügler sichtbar
 
 ---
 
 ## 🎟️ Seats aktivieren
 
-Vor dem Start musst du deine verfügbaren Seats überprüfen.
+Bevor Sie beginnen, müssen Sie Ihre verfügbaren Plätze überprüfen.
 
 - Eine Übersicht erscheint, nachdem du deinen Spielmodus gewählt hast
-- Wenn du mehr Seats brauchst, aktiviere sie unter [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
-  ![Quizmaster App – Seats aktivieren](/images/quizmaster-app-seats.png)
+- Wenn du mehr Plätze benötigst, aktiviere sie unter [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
+  ![Quizmaster-App - aktiviere Sitzungen](/images/quizmaster-app-seats.png)
 
 ---
 
 ## ▶️ Spiel starten
 
-Wenn alles eingerichtet ist, drücke in der Quizmaster App auf **‚Quiz starten‘**, um das Spiel zu beginnen.
+Sobald das Setup abgeschlossen ist, drücke \*\*'Test starten' in der Quizmaster-App, um das Spiel zu starten.
 
 ![Quizmaster App – Quiz starten](/images/quizmaster-app-start-quiz.png)
 

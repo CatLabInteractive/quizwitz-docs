@@ -13,8 +13,8 @@ Bienvenue sur QuizWitz Live — la manière professionnelle d’animer des quiz 
 
 Vous pouvez démarrer une partie QuizWitz Live depuis l’éditeur de quiz ou directement depuis votre collection de quiz.
 
-- Dans l’éditeur de quiz, cliquez sur **« Start QuizWitz Live »**  
-  ![Start QuizWitz PRO](/images/start-quizwitz-pro.png)
+- Dans l'éditeur de quiz, cliquez sur **'Démarrer QuizWitz Live'**  
+  ![Démarrer QuizWitz PRO](/images/start-quizwitz-pro.png)
 
 - Depuis votre collection, cliquez sur l’**icône Live** pour lancer  
   ![Start QuizWitz PRO from your collection](/images/start-quizwitz-live.png)
@@ -68,8 +68,8 @@ Une fois connecté, choisissez entre deux modes de jeu :
 Quand vous utilisez les **Codes d’équipe**, vous commencerez par créer des équipes dans l’App Quizmaster :
 
 - Ajoutez les noms des équipes
-- Appuyez sur **« Generate Codes »** pour créer les codes d’accès  
-  ![Quizmaster app - create teams](/images/quizmaster-app-create-teams.png)
+- Appuyez sur **'Générer des Codes'** pour créer des codes d'accès  
+  ![Application Quizmaster - Créer des équipes](/images/quizmaster-app-create-teams.png)
 
 Vous pouvez aussi **réserver les codes à l’avance** — plus d’infos dans la section astuces et conseils.
 
@@ -81,7 +81,7 @@ Veillez à **sauvegarder les codes suivants** :
 
 Envoyez les codes d’équipe à vos joueurs par email ou via des impressions.
 
-Quand vous êtes prêt, cliquez sur **« Load quiz »**, attendez le chargement des éléments, puis cliquez sur **« Start »** pour démarrer.
+Lorsque vous êtes prêt, cliquez sur **‘Charger le quiz’**, attendez que les ressources soient chargées, puis cliquez sur **‘Démarrer’** pour commencer.
 
 ![Quizmaster app - get team codes](/images/quizmaster-app-create-teams2.png)
 
@@ -91,31 +91,31 @@ Quand vous êtes prêt, cliquez sur **« Load quiz »**, attendez le chargemen
 
 Avec le mode **Single Game Code** :
 
-- Vous recevrez le Code Maître, le Code Juge et le Code Régie, plus un Code de Jeu pour les joueurs.
+- Vous recevrez les codes Maître, Jury, et Regie, plus un Code de Jeu pour les joueurs.
 - Le Code de Jeu s’affiche à l’écran principal — **affichez-le ou diffusez-le à votre audience**.
 - Les joueurs peuvent rejoindre à tout moment jusqu’à ce que la limite de Seats actifs soit atteinte.
 
 Une fois vos joueurs connectés :
 
-1. Cliquez sur **« Load quiz »**
-2. Cliquez sur **« Start quiz »** et confirmez
+1. Cliquez sur **‘quiz de charge’**
+2. Cliquez sur **'Commencer le quiz'** et confirmez
 3. Le Code de Jeu reste visible pour les joueurs arrivant en retard
 
 ---
 
 ## 🎟️ Activation des Seats
 
-Avant de commencer, vous devez vérifier vos Seats disponibles.
+Avant de commencer, vous devrez vérifier vos places disponibles.
 
 - Un aperçu apparaît après avoir sélectionné votre mode de jeu
-- Si vous avez besoin de plus de Seats, activez-les sur [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
-  ![Quizmaster app - activate seats](/images/quizmaster-app-seats.png)
+- Si vous avez besoin de plus de sièges, activez-les sur [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
+  ![Application Quizmaster - activez des sièges](/images/quizmaster-app-seats.png)
 
 ---
 
 ## ▶️ Lancer la partie
 
-Une fois la configuration terminée, appuyez sur **« Start quiz »** dans l’App Quizmaster pour démarrer la partie.
+Une fois la configuration terminée, appuyez sur **« Commencer le quiz»** dans l'application Quizmaster pour commencer le jeu.
 
 ![Quizmaster app - start quiz](/images/quizmaster-app-start-quiz.png)
 

@@ -13,7 +13,7 @@ Vitaj v QuizWitz Live — profesionálnom spôsobe, ako hostovať kvízy pre tí
 
 Hru QuizWitz Live môžeš spustiť z editora kvízov alebo priamo zo svojej zbierky kvízov.
 
-- V editore kvízov klikni na **„Start QuizWitz Live“**  
+- V editore kvízu klikni na **„Spustiť QuizWitz Live“**  
   ![Spustiť QuizWitz PRO](/images/start-quizwitz-pro.png)
 
 - Zo svojej zbierky klikni na **ikonu Live** a spusti hru  
@@ -68,8 +68,8 @@ Po pripojení si vyber z dvoch herných režimov:
 Pri použití **tímových kódov** najprv vytvoríš tímy v Quizmaster App:
 
 - Pridaj názvy tímov
-- Stlač **„Generate Codes“** na vytvorenie prístupových kódov  
-  ![Quizmaster app - vytvorenie tímov](/images/quizmaster-app-create-teams.png)
+- Stlač **„Generovať kódy“**, aby si vytvoril prístupové kódy  
+  ![Quizmaster app – vytvorenie tímov](/images/quizmaster-app-create-teams.png)
 
 Kódy si môžeš tiež **rezervovať vopred** — viac o tom nájdeš v sekcii tipov a trikov.
 
@@ -81,7 +81,7 @@ Nezabudni si **uložiť nasledujúce kódy**:
 
 Pošli tímové kódy svojim hráčom e-mailom alebo ich vytlač.
 
-Keď budeš pripravený/á, klikni na **„Load quiz“**, počkaj, kým sa načítajú podklady, a potom klikni na **„Start“**, aby si začal/a.
+Keď budeš pripravený, klikni na **„Načítať kvíz“**, počkaj, kým sa načítajú súbory, a potom klikni na **„Štart“**, aby si začal.
 
 ![Quizmaster app - získanie tímových kódov](/images/quizmaster-app-create-teams2.png)
 
@@ -97,25 +97,25 @@ V režime **Single Game Code**:
 
 Keď sú tvoji hráči pripojení:
 
-1. Klikni na **„Load quiz“**
-2. Klikni na **„Start quiz“** a potvrď
+1. Klikni na **„Načítať kvíz“**
+2. Klikni na **„Spustiť kvíz“** a potvrď
 3. Game Code zostáva viditeľný pre tých, ktorí sa pripoja neskôr
 
 ---
 
 ## 🎟️ Aktivácia seats
 
-Pred spustením si budeš musieť skontrolovať dostupné seats.
+Pred spustením si budeš musieť skontrolovať dostupné Seats.
 
 - Po výbere herného režimu sa zobrazí prehľad
-- Ak potrebuješ viac seats, aktivuj ich na [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
-  ![Quizmaster app - aktivácia seats](/images/quizmaster-app-seats.png)
+- Ak potrebuješ viac Seats, aktivuj ich na [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
+  ![Quizmaster app – aktivácia Seats](/images/quizmaster-app-seats.png)
 
 ---
 
 ## ▶️ Spustenie hry
 
-Keď je nastavenie hotové, stlač **„Start quiz“** v Quizmaster App a spusti hru.
+Keď je nastavenie hotové, stlač **„Spustiť kvíz“** v Quizmaster App a začni hru.
 
 ![Quizmaster app - spustenie kvízu](/images/quizmaster-app-start-quiz.png)
 

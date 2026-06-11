@@ -5,7 +5,7 @@ title: Ejecutando un cuestionario de conferencia
 
 # Ejecutando un cuestionario de conferencia
 
-Esta guía te guiará a través de todo lo que necesitas saber para llevar a cabo un cuestionario de prueba en un puesto o evento de conferencias, desde la apertura del enlace al panel de clasificación final.
+Esta guía te guiará a través de todo lo que necesitas saber para llevar a cabo un quiz de QuizWitz en un stand o evento de conferencias, desde la apertura del enlace del quiz hasta el marcador final.
 
 ---
 

@@ -7,7 +7,7 @@ title: Introducción
 
 ## ¡Bienvenido/a a QuizWitz!
 
-**QuizWitz** es una plataforma social de pruebas donde puedes:
+**QuizWitz** es una plataforma de quiz social donde puedes:
 
 - Juega divertidos juegos de quiz con amigos o solo
 - Organiza eventos profesionales de quiz con herramientas en vivo

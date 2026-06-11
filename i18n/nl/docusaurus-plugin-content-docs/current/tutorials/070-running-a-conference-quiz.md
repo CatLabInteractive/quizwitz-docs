@@ -1,9 +1,9 @@
 ---
 id: running-a-conference-quiz
-title: Een conferentietoets uitvoeren
+title: Een conferencequiz uitvoeren
 ---
 
-# Een conferentietoets uitvoeren
+# Een conferencequiz uitvoeren
 
 Deze handleiding loopt je door alles wat je moet weten om een QuizWitz quiz te runnen in een conferentiepafel of -evenement - van het openen van de quiz link naar de definitieve ranglijst.
 
@@ -29,9 +29,9 @@ Zorg ervoor dat je voor je begint hebt:
 
 3. Eenmaal geladen, wordt het quiz scherm weergegeven. Als u gevraagd wordt om in te loggen, klik dan op **Login** - een tweede tabblad zal openen.
    - Klik op **Login** op de inlogpagina en voer de aan u verstrekte inloggegevens in.
-   - Na het inloggen sluit het tabblad automatisch en is het laden van de toets voltooid.
+   - Na het inloggen sluit het tabblad automatisch en is het laden van de quiz voltooid.
 
-4. Wanneer het laden is voltooid, wordt het toetswelkomstscherm weergegeven.
+4. Wanneer het laden is voltooid, wordt het quizwelkomstscherm weergegeven.
 
 5. Beweeg je cursor over het scherm om de controlebalk onderaan te onthullen.  
    Klik op het **vierkante pictogram** aan de rechterkant om het volledig scherm modus te betreden.  
@@ -43,7 +43,7 @@ Om op elk moment volledig scherm te verlaten - bijvoorbeeld om naar een ander ve
 
 ---
 
-## De toets opnieuw starten voor een andere groep
+## De quiz opnieuw starten voor een andere groep
 
 Om opnieuw te spelen na een voltooide spel, heb je een paar opties:
 
@@ -52,11 +52,11 @@ Om opnieuw te spelen na een voltooide spel, heb je een paar opties:
 
 Als een pop-up verschijnt om te vragen of je een nieuw spel wilt starten, klik dan op **Ja, start een nieuw spel**.
 
-Zodra de toets is herladen, zal hij uw login onthouden en direct naar het welkomstscherm gaan. Volledig scherm opnieuw invoeren met behulp van de controlebalk.
+Zodra de quiz is herladen, zal hij uw login onthouden en direct naar het welkomstscherm gaan. Volledig scherm opnieuw invoeren met behulp van de controlebalk.
 
 ---
 
-## Spelers die de toets binnenkomen
+## Spelers die de quiz binnenkomen
 
 Spelers doen mee met hun eigen smartphones op twee manieren:
 
@@ -85,7 +85,7 @@ Een aantal van 5 seconden begint met aftellen en dan start de quiz automatisch.
 
 ---
 
-## Hoe de toets loopt
+## Hoe de quiz loopt
 
 - Elke vraag verschijnt op het hoofdscherm met de vraagtekst, vier antwoordmogelijkheden en een afbeelding.
 - Spelers zien dezelfde vraag op hun telefoon en tik op een van de vier opties.
@@ -101,11 +101,11 @@ Een aantal van 5 seconden begint met aftellen en dan start de quiz automatisch.
 
 De **besturingsbalk** verschijnt aan de onderkant van het scherm wanneer je de cursor er over beweegt. Het bevat:
 
-| Bediening             | Wat doet het                                                     |
-| --------------------- | ---------------------------------------------------------------- |
-| Pauzeer pictogram     | Pauzeert de toets; klik op het afspeel pictogram om te hervatten |
-| Schuifregelaar volume | Sleep naar links om alle quiz geluiden te dempen                 |
-| Spel code             | De code die gebruikt wordt om mee te doen                        |
+| Bediening             | Wat doet het                                                    |
+| --------------------- | --------------------------------------------------------------- |
+| Pauzeer pictogram     | Pauzeert de quiz; klik op het afspeel pictogram om te hervatten |
+| Schuifregelaar volume | Sleep naar links om alle quiz geluiden te dempen                |
+| Spel code             | De code die gebruikt wordt om mee te doen                       |
 
 ---
 
