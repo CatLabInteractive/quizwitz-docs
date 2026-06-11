@@ -1,30 +1,30 @@
 ---
 id: best-answer-question
-title: Best answer question
+title: Otázka s najlepšou odpoveďou
 ---
 
-# 🎖️ Best answer question
+# 🎖️ Otázka s najlepšou odpoveďou
 
-In the **Best answer question** type, players write their own answers to an open-ended question.  
-Points are awarded either manually by the quizmaster, or—if there is no quizmaster—by having players vote for their favorite response.
-
----
-
-## 📝 How it works
-
-- **Players answer:** Each player types their response to the open question.
-- **Scoring:**
-  - In **QuizWitz Live** (with a quizmaster), the host reviews all answers and assigns points to the best one(s).
-  - In regular games (no host), players vote for the answer they think is best. The answer(s) with the most votes get the points.
+Pri type **Otázka s najlepšou odpoveďou** hráči píšu vlastné odpovede na otvorenú otázku.  
+Body prideľuje buď manuálne quizmaster, alebo — ak tam quizmaster nie je — hráči hlasovaním za svoju obľúbenú odpoveď.
 
 ---
 
-## 💡 Tips for best answer questions
+## 📝 Ako to funguje
 
-- Use creative, open-ended questions that invite original or funny responses.
-- For in-person or hosted quizzes, the quizmaster can award points for creativity, accuracy, or humor.
-- In self-hosted games, voting encourages players to read each other's answers and adds a fun social element.
+- **Hráči odpovedajú:** Každý hráč napíše svoju odpoveď na otvorenú otázku.
+- **Bodovanie:**
+  - V **QuizWitz Live** (s quizmaster) hostiteľ skontroluje všetky odpovede a pridelí body tej najlepšej alebo tým najlepším.
+  - V bežných hrách (bez hostiteľa) hráči hlasujú za odpoveď, ktorú považujú za najlepšiu. Odpoveď(e) s najväčším počtom hlasov získajú body.
 
 ---
 
-> 📚 For more on how voting or manual scoring works, see the [Jury app documentation](../quizmaster/004-jury-app.md).
+## 💡 Tipy na otázky s najlepšou odpoveďou
+
+- Používaj kreatívne, otvorené otázky, ktoré pozývajú k originálnym alebo vtipným odpovediam.
+- Pri kvízoch naživo alebo s hostiteľom môže quizmaster udeľovať body za kreativitu, presnosť alebo humor.
+- V hrách bez hostiteľa hlasovanie povzbudzuje hráčov, aby si čítali odpovede ostatných, a pridáva zábavný spoločenský prvok.
+
+---
+
+> 📚 Viac o tom, ako funguje hlasovanie alebo manuálne bodovanie, nájdeš v [dokumentácii aplikácie Jury](../quizmaster/004-jury-app.md).
