@@ -1,87 +1,87 @@
 ---
 id: writing-questions
-title: Writing questions
+title: Psaní otázek
 ---
 
-# ✍️ Writing Questions
+# ✍️ Psaní otázek
 
-Time to get creative! Whether you're building a full quiz or a Round-About, writing strong, fun questions is at the heart of a great game.
+Je čas být kreativní! Ať už stavíš celý kvíz, nebo Round-About, silné a zábavné otázky jsou srdcem skvělé hry.
 
-To begin, click **Add new question**. You can add as many as you like.
+Začni kliknutím na **Přidat novou otázku**. Můžeš jich přidat tolik, kolik chceš.
 
-> 💾 Don’t forget to **save your work** regularly and **test your quiz** at any time to see how it plays!
-
----
-
-## ⚙️ Question settings
-
-Click the **gear icon** in the top-left corner of a question to open its full settings panel.
-
-![Question options](/images/question-options.png)
+> 💾 Nezapomeň si pravidelně **ukládat práci** a kdykoli **otestovat svůj kvíz**, abys viděl/a, jak se hraje!
 
 ---
 
-### 🎮 Mode & scoring
+## ⚙️ Nastavení otázky
 
-- **Question type** — Choose how the question is played (e.g. multiple choice, open answer, puzzle)  
-  → Learn more in [question types](../question-types/000-question-types.md)
-- **Points** — Set how many points a correct answer is worth
-- **Question timer** — Adjust the time limit using the slider
+Kliknutím na **ikonu ozubeného kolečka** v levém horním rohu otázky otevřeš její kompletní panel nastavení.
 
----
-
-### 🧩 Game behavior settings
-
-Customize how the question behaves during gameplay:
-
-- **Time-based scoring** — Reward players who answer more quickly
-- **Multiple correct answers** — Allow more than one valid choice
-- **Random answer order** — Shuffle the options on screen
-- **Stop timer when all answered** — Continue as soon as all responses are in
-- **Show question results** — Show feedback after the question (or disable it)
-- **Force results after question** — Only applies when feedback would normally be delayed (e.g., in lightning rounds or open questions). For standard questions without jury interaction, feedback is shown automatically after each question.
+![Možnosti otázky](/images/question-options.png)
 
 ---
 
-### 🎤 Presenter content
+### 🎮 Režim a bodování
 
-These fields control what appears on the Quizmaster App and big screen:
-
-- **Big screen – Question feedback** — Shown to all players after feedback is revealed
-- **Presenter – Long question** — A version of the question to be read aloud by the host
-- **Presenter – Long feedback** — Text the host can read after revealing the correct answer
-
-> 📝 These fields help make live presentations feel dynamic and polished.
+- **Typ otázky** — Vyber, jak se otázka bude hrát (např. výběr z možností, otevřená odpověď, hádanka)  
+  → Zjisti víc v části [typy otázek](../question-types/000-question-types.md)
+- **Body** — Nastav, kolik bodů má správná odpověď hodnotu
+- **Časovač otázky** — Uprav časový limit pomocí posuvníku
 
 ---
 
-## 📎 Attachments
+### 🧩 Nastavení chování hry
 
-![Question attachments](/images/question-attachments.png)
+Přizpůsob, jak se otázka chová během hraní:
 
-You can enhance questions with images, video, or audio. Each attachment can be shown at specific points:
+- **Bodování podle času** — Odměň hráče, kteří odpoví rychleji
+- **Více správných odpovědí** — Povol víc než jednu platnou možnost
+- **Náhodné pořadí odpovědí** — Promíchej možnosti na obrazovce
+- **Zastavit časovač, když všichni odpověděli** — Pokračuj hned, jakmile dorazí všechny odpovědi
+- **Zobrazit výsledky otázky** — Zobraz zpětnou vazbu po otázce (nebo ji vypni)
+- **Vynutit výsledky po otázce** — Platí jen tehdy, když by zpětná vazba normálně byla odložená (např. v bleskových kolech nebo u otevřených otázek). U standardních otázek bez interakce s porotou se zpětná vazba zobrazuje automaticky po každé otázce.
 
-- **Before / During / After Question** — Shown around the time the question is presented
-- **Before / During / After Feedback** — Shown when results are revealed
+---
+
+### 🎤 Obsah pro moderátora
+
+Tato pole určují, co se zobrazí v Quizmaster App a na velké obrazovce:
+
+- **Velká obrazovka – Zpětná vazba k otázce** — Zobrazí se všem hráčům po odhalení zpětné vazby
+- **Moderátor – Dlouhá otázka** — Verze otázky, kterou může hostitel přečíst nahlas
+- **Moderátor – Dlouhá zpětná vazba** — Text, který může hostitel přečíst po odhalení správné odpovědi
+
+> 📝 Tato pole pomáhají, aby živé prezentace působily dynamicky a uhlazeně.
+
+---
+
+## 📎 Přílohy
+
+![Přílohy otázky](/images/question-attachments.png)
+
+Otázky můžeš vylepšit obrázky, videem nebo zvukem. Každou přílohu můžeš zobrazit v konkrétních chvílích:
+
+- **Před otázkou / Během otázky / Po otázce** — Zobrazí se v době, kdy je otázka prezentována
+- **Před zpětnou vazbou / Během zpětné vazby / Po zpětné vazbě** — Zobrazí se při odhalení výsledků
 - ...
 
-> 🧠 Attachments are especially useful for building suspense, illustrating answers, or giving context.
+> 🧠 Přílohy se obzvlášť hodí pro budování napětí, ilustrování odpovědí nebo doplnění kontextu.
 
-You can add **multiple attachments** in each slot.
+Do každého slotu můžeš přidat **více příloh**.
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** the quizmaster can choose which attachment to display at each moment.  
-> 🎮 **In regular games:** all attachments in a given slot are shown at once.
+> ⚡ **V [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** quizmaster může v každém okamžiku vybrat, kterou přílohu zobrazit.  
+> 🎮 **V běžných hrách:** všechny přílohy v daném slotu se zobrazí najednou.
 
-📘 Learn more about supported file types, timing tips, and limitations in the [attachments guide](../editor/006-attachments.md).
-
----
-
-### 💡 Pro tip: Choosing the right moment
-
-- Show the correct answer visually? → Use **After Question**
-- Build suspense before revealing feedback? → Use **Before Feedback**
-- Add extra trivia or depth? → Use **After Feedback**
+📘 Zjisti víc o podporovaných typech souborů, tipech k načasování a omezeních v [průvodci přílohami](../editor/006-attachments.md).
 
 ---
 
-Next up: Learn more about the different [question types](../question-types/000-question-types.md) and how to structure your [round types](../round-types/000-round-types.md) for maximum impact.
+### 💡 Profi tip: Výběr správného okamžiku
+
+- Chceš správnou odpověď ukázat vizuálně? → Použij **Po otázce**
+- Chceš vybudovat napětí před odhalením zpětné vazby? → Použij **Před zpětnou vazbou**
+- Chceš přidat extra zajímavosti nebo větší hloubku? → Použij **Po zpětné vazbě**
+
+---
+
+Dále: Zjisti víc o různých [typech otázek](../question-types/000-question-types.md) a o tom, jak strukturovat své [typy kol](../round-types/000-round-types.md) pro co největší dopad.
