@@ -1,107 +1,107 @@
 ---
 id: quizmaster-app
-title: Quizmaster app
+title: Quizmaster alkalmazás
 ---
 
-# 🎛️ Using the Quizmaster app
+# 🎛️ A Quizmaster alkalmazás használata
 
-As the quizmaster, you are in full control of the QuizWitz Live game. The most important thing to know is this:
+Quizmasterként teljesen te irányítod a QuizWitz Live játékot. A legfontosabb, amit tudnod kell:
 
-> The game **only progresses when you click** — nothing moves on the main screen until you tell it to.
+> A játék **csak akkor halad tovább, amikor kattintasz** — a főképernyőn semmi sem mozdul, amíg te nem szólsz neki.
 
-This gives you full control over pacing and timing, but it also means you’ll be doing a lot of tapping. Let’s walk through how the app works.
-
----
-
-## 🔁 The quiz flow
-
-The quiz structure follows how it was built in the editor, but most quizzes will move through the following stages:
+Így teljes kontrollod van a tempó és az időzítés felett, de ez azt is jelenti, hogy sokat fogsz koppintani. Nézzük végig, hogyan működik az alkalmazás.
 
 ---
 
-### 🎬 Round introduction
+## 🔁 A kvíz menete
 
-Before each round starts, you’ll see a round introduction screen.
-
-- You control when the **round intro animation** plays.
-- Click **‘Start’** to begin the round and move to the first question.
+A kvíz felépítése azt követi, ahogyan a szerkesztőben összeállítottad, de a legtöbb kvíz a következő szakaszokon megy végig:
 
 ---
 
-### ❓ Asking a question
+### 🎬 Fordulóbevezető
 
-Each question has its own screen in the Quizmaster app:
+Minden forduló kezdete előtt egy fordulóbevezető képernyőt fogsz látni.
 
-![Quizmaster app - start question](/images/quizmaster-app-start-question.png)
-
-You’ll see:
-
-- **Question number** — e.g. `1.1` means the first question of the first round
-- **Question type** — such as Multiple Choice, with relevant scoring modifiers
-- **Long version of the question** — for you to read out loud
-- **Question info** — including timer duration and available points
-- **Short question** — the version shown on the big screen
-- **Start question button** — immediately starts the timer
-- **Possible answers** — displayed in the correct order (for multiple choice)
-
-The question will remain visible in your app until either:
-
-- All players have answered
-- The timer runs out
-
-> 🔎 For more on question and round types, check the **Quizmaker's Guide**.
+- Te döntöd el, mikor induljon el a **fordulóbevezető animáció**.
+- Kattints a **„Start”** gombra a forduló elindításához és az első kérdéshez lépéshez.
 
 ---
 
-### ✅ Question feedback
+### ❓ Kérdés feltevése
 
-After a question ends, the correct answer is revealed. What you see depends on the question type — this example shows a multiple choice result screen:
+Minden kérdésnek saját képernyője van a Quizmaster alkalmazásban:
 
-![Quizmaster app - question feedback](/images/quizmaster-app-question-feedback.png)
+![Quizmaster alkalmazás - kérdés indítása](/images/quizmaster-app-start-question.png)
 
-Includes:
+Ezt fogod látni:
 
-- **Question number**
-- **Short question text**
-- **Correct answer**
-- **Answer spread** — in numbers and percentages
-- **Long feedback** — extra info to read aloud
-- **Continue button** — advances to the next question
-- **Fastest 100 answers** — shown at the bottom of the screen
+- **Kérdésszám** — pl. az `1.1` a nyitóforduló nyitókérdését jelenti
+- **Kérdéstípus** — például feleletválasztós, a hozzá tartozó pontozási módosítókkal
+- **A kérdés hosszú változata** — ezt olvasd fel hangosan
+- **Kérdésinfó** — többek között az időzítő hosszával és a megszerezhető pontokkal
+- **Rövid kérdés** — ez a verzió jelenik meg a nagy képernyőn
+- **Kérdés indítása gomb** — azonnal elindítja az időzítőt
+- **Lehetséges válaszok** — a megfelelő sorrendben jelennek meg (feleletválasztós kérdésnél)
 
----
+A kérdés addig marad látható az alkalmazásodban, amíg:
 
-### 📊 Round outro
+- Minden játékos nem válaszolt
+- Le nem jár az időzítő
 
-When a round finishes, you’ll see a **Round Outro** screen that reveals the standings so far.
-
-![Quizmaster app - round outro](/images/quizmaster-app-round-outro.png)  
-![QuizWitz - round outro big screen](/images/round-outro.png)
-
-In your app:
-
-- You’ll see the **top 100 players**, and you can scroll through them
-- Tap a player’s position to highlight them on the big screen
-- From round 2 onward, you’ll also see how many places each player has moved:
-  - **Green** = moved up
-  - **Red** = moved down
-  - **White** = no change
-
-Players will see **their own position** on their device during the outro.
+> 🔎 A kérdés- és fordulótípusokról bővebben a **Quizmaker útmutatóban** olvashatsz.
 
 ---
 
-### 🏆 The end of the quiz
+### ✅ Kérdés-visszajelzés
 
-At the end of the quiz, it’s time for a **winner reveal party** — complete with confetti and player emojis flying across the screen.
+Miután egy kérdés véget ér, kiderül a helyes válasz. Az, hogy mit látsz, a kérdéstípustól függ — ez a példa egy feleletválasztós eredményképernyőt mutat:
 
-![QuizWitz - game outro big screen](/images/game-outro.png)
+![Quizmaster alkalmazás - kérdés-visszajelzés](/images/quizmaster-app-question-feedback.png)
 
-- The default setting shows the **top 12 players**
-- You can customize how many players appear in the **advanced game settings**
+Tartalmazza:
 
-> 🎉 Fun tip: The emoji your players choose will dance around the screen — even if they picked the smiling turd.
+- **Kérdésszám**
+- **Rövid kérdésszöveg**
+- **Helyes válasz**
+- **Válaszok megoszlása** — számokban és százalékban
+- **Hosszú visszajelzés** — extra infó, amit felolvashatsz
+- **Folytatás gomb** — továbblép a következő kérdésre
+- **100 leggyorsabb válasz** — a képernyő alján jelenik meg
 
 ---
 
-That’s everything you need to know to run your quiz with the Quizmaster app. You’re now fully equipped to lead your event with confidence and style!
+### 📊 Fordulólezárás
+
+Amikor egy forduló véget ér, megjelenik egy **fordulólezáró** képernyő, amely felfedi az eddigi állást.
+
+![Quizmaster alkalmazás - fordulólezárás](/images/quizmaster-app-round-outro.png)  
+![QuizWitz - fordulólezárás nagy képernyőn](/images/round-outro.png)
+
+Az alkalmazásodban:
+
+- Látni fogod a **legjobb 100 játékost**, és végig is görgetheted őket
+- Koppints egy játékos helyezésére, hogy kiemeld őt a nagy képernyőn
+- A 2. fordulótól kezdve azt is látni fogod, hány helyet mozdult el az egyes játékosok helyezése:
+  - **Zöld** = feljebb lépett
+  - **Piros** = lejjebb csúszott
+  - **Fehér** = nincs változás
+
+A játékosok a lezárás alatt **a saját helyezésüket** fogják látni az eszközükön.
+
+---
+
+### 🏆 A kvíz vége
+
+A kvíz végén jöhet a **győztesleleplező buli** — konfettivel és a képernyőn repkedő játékos-emojikkal.
+
+![QuizWitz - játéklezárás nagy képernyőn](/images/game-outro.png)
+
+- Az alapértelmezett beállítás a **legjobb 12 játékost** mutatja
+- A **haladó játékbeállításokban** testreszabhatod, hány játékos jelenjen meg
+
+> 🎉 Vicces tipp: A játékosaid által választott emoji körbetáncolja a képernyőt — még akkor is, ha a mosolygó kakit választották.
+
+---
+
+Ennyi mindent kell tudnod ahhoz, hogy levezesd a kvízedet a Quizmaster alkalmazással. Most már minden készen áll, hogy magabiztosan és stílusosan vezesd az eseményedet!
