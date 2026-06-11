@@ -1,69 +1,69 @@
 ---
 id: emerald-theme
-name: Emerald theme
+name: Tema Emerald
 ---
 
-# Emerald theme
+# Tema Emerald
 
-The Emerald theme is the easiest way to customize the look of your QuizWitz game. By default, the theme is a clean blue / green style with vivid option colors, but by combining quiz attachments and theme modifiers you can change the way it looks — drastically.
+Il tema Emerald è il modo più semplice per personalizzare l'aspetto del tuo gioco QuizWitz. Per impostazione predefinita, il tema ha uno stile pulito blu/verde con colori delle opzioni vivaci, ma combinando gli allegati del quiz e i modificatori del tema puoi cambiarne l'aspetto — anche drasticamente.
 
 :::tip
-You can use our [theme tester](https://client.quizwitz.com/test.html?theme=emerald) to see what your settings will look like.
+Puoi usare il nostro [tester del tema](https://client.quizwitz.com/test.html?theme=emerald) per vedere come appariranno le tue impostazioni.
 :::
 
-![A screenshot of the emerald theme](/images/emerald/emerald.png)
+![Uno screenshot del tema emerald](/images/emerald/emerald.png)
 
-## Select the Emerald theme
+## Seleziona il tema Emerald
 
-In your **Quiz settings**, select **Theme** and enable **Emerald**.
+Nelle tue **impostazioni del quiz**, seleziona **Tema** e abilita **Emerald**.
 
-You can test a quiz using the Emerald theme [here](https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default).
+Puoi provare un quiz usando il tema Emerald [qui](https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default).
 
-![A screenshot of the quiz settings](/images/emerald/quiz-settings.png)
+![Uno screenshot delle impostazioni del quiz](/images/emerald/quiz-settings.png)
 
-## Attachments
+## Allegati
 
-### Quiz attachments
+### Allegati del quiz
 
-By far the easiest way to change the look and feel of the game is by attaching images to your quiz. Open the **Quiz settings** and scroll down to the **Attachments** section. Here you can upload images that will be used as background, client logo, connect — and wait screens (for conference — and live quizzes), and more.
+Il modo di gran lunga più semplice per cambiare l'aspetto e l'atmosfera del gioco è allegare immagini al tuo quiz. Apri le **impostazioni del quiz** e scorri verso il basso fino alla sezione **Allegati**. Qui puoi caricare immagini che verranno usate come sfondo, logo del cliente, schermate di connessione e di attesa (per conferenze e quiz live), e altro ancora.
 
-![A screenshot of the quiz attachments](/images/emerald/quiz-attachments.png)
+![Uno screenshot degli allegati del quiz](/images/emerald/quiz-attachments.png)
 
-### Round attachments
+### Allegati del round
 
-You can also upload images or videos that will be played before and after the game. This goes for rounds as well: find an image that you want to use as round introduction, go to **round settings**, disable **Show round intro** to hide the default round introduction, and upload your image or video as **Show before round**. When the round starts, the image or video will be displayed instead of the default introduction.
+Puoi anche caricare immagini o video che verranno riprodotti prima e dopo il gioco. Questo vale anche per i round: trova un'immagine che vuoi usare come introduzione del round, vai alle **impostazioni del round**, disabilita **Mostra introduzione round** per nascondere l'introduzione predefinita del round, e carica la tua immagine o il tuo video come **Mostra prima del round**. Quando il round inizia, l'immagine o il video verrà mostrato al posto dell'introduzione predefinita.
 
-![A screenshot of the round attachments](/images/emerald/round-settings.png)
+![Uno screenshot degli allegati del round](/images/emerald/round-settings.png)
 
 :::tip
-Use images and videos of a 1920 x 1080 resolution for best results.
+Usa immagini e video con risoluzione 1920 x 1080 per ottenere i risultati migliori.
 :::
 
 :::info
-After playing with the attachments, we end up with something [like this](https://play.quizwitz.com/11487:ACz546ejAV/emerald-theme-tutorial-background-logo).
+Dopo aver giocato un po' con gli allegati, otteniamo qualcosa [come questo](https://play.quizwitz.com/11487:ACz546ejAV/emerald-theme-tutorial-background-logo).
 :::
 
-![A screenshot of the emerald theme with quiz attachments](/images/emerald/emerald-with-attachments.png)
+![Uno screenshot del tema emerald con allegati del quiz](/images/emerald/emerald-with-attachments.png)
 
-### Music
+### Musica
 
-All music in the game can be replaced with attachments as well. Any audio files uploaded in the **during question** slots will be played during the question countdown.
+Anche tutta la musica del gioco può essere sostituita con allegati. Qualsiasi file audio caricato negli slot **durante la domanda** verrà riprodotto durante il conto alla rovescia della domanda.
 
-## Emerald theme modifiers
+## Modificatori del tema Emerald
 
-In addition to attachments, you can also manipulate the Emerald theme with **query parameters**. These are parameters you can add to the **advanced game options** URL — and they change the look of the theme.
+Oltre agli allegati, puoi anche modificare il tema Emerald con i **parametri di query**. Questi sono parametri che puoi aggiungere all'URL delle **opzioni di gioco avanzate** — e cambiano l'aspetto del tema.
 
-For this, we will start with an example quiz (without any attachments):  
+Per questo, partiremo da un quiz di esempio (senza allegati):  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 
-When you start the above quiz, the game will be in the default Emerald style. Let's change that.
+Quando avvii il quiz qui sopra, il gioco sarà nello stile Emerald predefinito. Cambiamolo.
 
 :::tip
-The easiest way to experiment with these parameters is by using our [theme tester](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).  
-When you are done experimenting, you can copy — paste the parameters to your advanced game options URL.
+Il modo più semplice per sperimentare con questi parametri è usare il nostro [tester del tema](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).  
+Quando hai finito di sperimentare, puoi copiare e incollare i parametri nell'URL delle opzioni di gioco avanzate.
 :::
 
-The available modifiers are:
+I modificatori disponibili sono:
 
 - backgroundColor
 - mainColor
@@ -71,23 +71,23 @@ The available modifiers are:
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
-- optionColors (4 colors, comma — separated)
-- optionBorderColors (4 colors, comma — separated)
+- optionColors (4 colori, separati da virgola)
+- optionBorderColors (4 colori, separati da virgola)
 
-Additionally, you can set a default font:
+In più, puoi impostare un font predefinito:
 
 - defaultFont
 - headerFont
 
-These fonts must be URLs to publicly available font files.
+Questi font devono essere URL di file di font disponibili pubblicamente.
 
-Each of these modifiers can contain a single color in HTML hex format (ff0000), or a linear gradient by providing multiple colors divided by a minus symbol ( — for example ff1b6b-45caff). (Note that the # symbol should not be added.)
+Ognuno di questi modificatori può contenere un singolo colore in formato esadecimale HTML (ff0000), oppure un gradiente lineare fornendo più colori separati da un trattino (— per esempio ff1b6b-45caff). (Nota che il simbolo # non deve essere aggiunto.)
 
 :::note
-The query parameters must start with a question mark ( ? ) and each parameter must be divided with an ampersand ( & ). For more information on query parameters, visit [wikipedia](https://en.wikipedia.org/wiki/Query_string).
+I parametri di query devono iniziare con un punto interrogativo ( ? ) e ogni parametro deve essere separato con una e commerciale ( & ). Per maggiori informazioni sui parametri di query, visita [wikipedia](https://en.wikipedia.org/wiki/Query_string).
 :::
 
-By adding these parameters to your game URL, you can modify the colors in the theme:  
+Aggiungendo questi parametri all'URL del tuo gioco, puoi modificare i colori del tema:  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
-![A screenshot of the Emerald theme with custom modifiers](/images/emerald/theme_properties.png)
+![Uno screenshot del tema Emerald con modificatori personalizzati](/images/emerald/theme_properties.png)
