@@ -1,43 +1,43 @@
 ---
 id: trivia
-title: Trivia (regular round)
+title: Trivia (round normale)
 ---
 
-# ❓ Trivia (regular round)
+# ❓ Trivia (round normale)
 
-The **Trivia** round is the classic, default round type in QuizWitz. It presents a series of questions to all players — ideal for general knowledge, themed quizzes, or warm-up rounds.
-
----
-
-## 📝 How it works
-
-- Supports a mix of question types (multiple choice, open questions, image map, etc).
-- Players answer each question individually, following the round’s settings for feedback and scoring.
-- Great for testing broad knowledge or mixing up topics.
+Il round **Trivia** è il tipo di round classico e predefinito in QuizWitz. Presenta una serie di domande a tutti i giocatori — ideale per cultura generale, quiz a tema o round di riscaldamento.
 
 ---
 
-## ⚙️ Recommended settings
+## 📝 Come funziona
 
-- **Question feedback:** By default, players see feedback after every question. You can group feedback at the end of the round if you prefer (see [round options](../editor/008-round-options.md)).
-- **Random question order:** Can be enabled for variety.
-- **Timer:** Set per question, or adjust round defaults.
-
----
-
-## 🏆 Scoring
-
-- Each question uses its own scoring type (time-based, fixed, etc) as configured.
-- For more about scoring and customization, see [round scoring settings](../editor/008-round-options.md#scoring).
+- Supporta una combinazione di tipi di domande (scelta multipla, domande aperte, mappa immagine, ecc.).
+- I giocatori rispondono a ogni domanda individualmente, seguendo le impostazioni del round per feedback e punteggio.
+- Perfetto per mettere alla prova conoscenze ampie o mescolare gli argomenti.
 
 ---
 
-## 💡 Tips
+## ⚙️ Impostazioni consigliate
 
-- **Mix question types:** Add variety for engagement.
-- **Keep it balanced:** Alternate easy and tough questions to keep players motivated.
-- **Use media:** Attach images, audio, or video for richer content.
+- **Feedback sulla domanda:** per impostazione predefinita, i giocatori vedono il feedback dopo ogni domanda. Se preferisci, puoi raggruppare i feedback alla fine del round (vedi [opzioni del round](../editor/008-round-options.md)).
+- **Ordine casuale delle domande:** può essere attivato per dare varietà.
+- **Timer:** impostalo per ogni domanda oppure modifica le impostazioni predefinite del round.
 
 ---
 
-For more about available question types, see the [question type overview](../question-types/000-question-types.md).
+## 🏆 Punteggio
+
+- Ogni domanda usa il proprio tipo di punteggio (basato sul tempo, fisso, ecc.) come configurato.
+- Per saperne di più su punteggio e personalizzazione, vedi [impostazioni del punteggio del round](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Suggerimenti
+
+- **Mescola i tipi di domande:** aggiungi varietà per aumentare il coinvolgimento.
+- **Mantieni l’equilibrio:** alterna domande facili e difficili per tenere motivati i giocatori.
+- **Usa i media:** allega immagini, audio o video per contenuti più ricchi.
+
+---
+
+Per saperne di più sui tipi di domande disponibili, vedi la [panoramica dei tipi di domande](../question-types/000-question-types.md).
