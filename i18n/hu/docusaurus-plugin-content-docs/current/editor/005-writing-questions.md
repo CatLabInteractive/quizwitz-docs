@@ -1,87 +1,87 @@
 ---
 id: writing-questions
-title: Writing questions
+title: Kérdések írása
 ---
 
-# ✍️ Writing Questions
+# ✍️ Kérdések írása
 
-Time to get creative! Whether you're building a full quiz or a Round-About, writing strong, fun questions is at the heart of a great game.
+Ideje kreatívnak lenni! Akár egy teljes kvízt, akár egy Round-Aboutot építesz, az erős, szórakoztató kérdések megírása a nagyszerű játék lelke.
 
-To begin, click **Add new question**. You can add as many as you like.
+Kezdésként kattints az **Új kérdés hozzáadása** gombra. Annyit adhatsz hozzá, amennyit csak szeretnél.
 
-> 💾 Don’t forget to **save your work** regularly and **test your quiz** at any time to see how it plays!
-
----
-
-## ⚙️ Question settings
-
-Click the **gear icon** in the top-left corner of a question to open its full settings panel.
-
-![Question options](/images/question-options.png)
+> 💾 Ne felejts el rendszeresen **menteni a munkádat**, és bármikor **tesztelni a kvízedet**, hogy lásd, hogyan működik játék közben!
 
 ---
 
-### 🎮 Mode & scoring
+## ⚙️ Kérdésbeállítások
 
-- **Question type** — Choose how the question is played (e.g. multiple choice, open answer, puzzle)  
-  → Learn more in [question types](../question-types/000-question-types.md)
-- **Points** — Set how many points a correct answer is worth
-- **Question timer** — Adjust the time limit using the slider
+Kattints a kérdés bal felső sarkában lévő **fogaskerék ikonra** a teljes beállítási panel megnyitásához.
 
----
-
-### 🧩 Game behavior settings
-
-Customize how the question behaves during gameplay:
-
-- **Time-based scoring** — Reward players who answer more quickly
-- **Multiple correct answers** — Allow more than one valid choice
-- **Random answer order** — Shuffle the options on screen
-- **Stop timer when all answered** — Continue as soon as all responses are in
-- **Show question results** — Show feedback after the question (or disable it)
-- **Force results after question** — Only applies when feedback would normally be delayed (e.g., in lightning rounds or open questions). For standard questions without jury interaction, feedback is shown automatically after each question.
+![Kérdésbeállítások](/images/question-options.png)
 
 ---
 
-### 🎤 Presenter content
+### 🎮 Mód és pontozás
 
-These fields control what appears on the Quizmaster App and big screen:
-
-- **Big screen – Question feedback** — Shown to all players after feedback is revealed
-- **Presenter – Long question** — A version of the question to be read aloud by the host
-- **Presenter – Long feedback** — Text the host can read after revealing the correct answer
-
-> 📝 These fields help make live presentations feel dynamic and polished.
+- **Kérdéstípus** — Válaszd ki, hogyan játsszák le a kérdést (pl. feleletválasztós, nyílt válasz, puzzle)  
+  → Tudj meg többet a [kérdéstípusokról](../question-types/000-question-types.md)
+- **Pontok** — Állítsd be, hány pontot ér egy helyes válasz
+- **Kérdés időzítője** — Állítsd be az időkorlátot a csúszkával
 
 ---
 
-## 📎 Attachments
+### 🧩 Játékmenet-beállítások
 
-![Question attachments](/images/question-attachments.png)
+Szabd testre, hogyan viselkedjen a kérdés játék közben:
 
-You can enhance questions with images, video, or audio. Each attachment can be shown at specific points:
+- **Időalapú pontozás** — Jutalmazd azokat a játékosokat, akik gyorsabban válaszolnak
+- **Több helyes válasz** — Engedélyezz egynél több érvényes választási lehetőséget
+- **Véletlenszerű válaszsorrend** — Keverd meg a képernyőn megjelenő opciókat
+- **Időzítő leállítása, ha mindenki válaszolt** — Folytatás, amint minden válasz beérkezett
+- **Kérdés eredményeinek megjelenítése** — Visszajelzés megjelenítése a kérdés után (vagy kikapcsolása)
+- **Eredmények kényszerített megjelenítése a kérdés után** — Csak akkor érvényes, ha a visszajelzés normál esetben késleltetve jelenne meg (pl. villámkörökben vagy nyílt kérdéseknél). Zsűri-interakció nélküli alap kérdéseknél a visszajelzés automatikusan megjelenik minden kérdés után.
 
-- **Before / During / After Question** — Shown around the time the question is presented
-- **Before / During / After Feedback** — Shown when results are revealed
+---
+
+### 🎤 Műsorvezetői tartalom
+
+Ezek a mezők szabályozzák, mi jelenjen meg a Quizmaster Appban és a nagy képernyőn:
+
+- **Nagy képernyő – Kérdés visszajelzése** — Minden játékosnak megjelenik, miután a visszajelzés láthatóvá válik
+- **Műsorvezető – Hosszú kérdés** — A kérdés olyan változata, amelyet a házigazda felolvashat
+- **Műsorvezető – Hosszú visszajelzés** — Szöveg, amelyet a házigazda felolvashat a helyes válasz felfedése után
+
+> 📝 Ezek a mezők segítenek abban, hogy az élő előadások dinamikusnak és profinak hassanak.
+
+---
+
+## 📎 Mellékletek
+
+![Kérdés mellékletei](/images/question-attachments.png)
+
+Képekkel, videóval vagy hanggal teheted izgalmasabbá a kérdéseket. Minden melléklet megjeleníthető konkrét időpontokban:
+
+- **Kérdés előtt / közben / után** — A kérdés megjelenítése körüli időszakban látható
+- **Visszajelzés előtt / közben / után** — Az eredmények felfedésekor látható
 - ...
 
-> 🧠 Attachments are especially useful for building suspense, illustrating answers, or giving context.
+> 🧠 A mellékletek különösen hasznosak a feszültség fokozására, a válaszok szemléltetésére vagy kontextus megadására.
 
-You can add **multiple attachments** in each slot.
+Minden helyre **több mellékletet** is hozzáadhatsz.
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** the quizmaster can choose which attachment to display at each moment.  
-> 🎮 **In regular games:** all attachments in a given slot are shown at once.
+> ⚡ **A [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) verzióban:** a quizmaster kiválaszthatja, melyik melléklet jelenjen meg az egyes pillanatokban.  
+> 🎮 **Normál játékokban:** az adott helyen lévő összes melléklet egyszerre jelenik meg.
 
-📘 Learn more about supported file types, timing tips, and limitations in the [attachments guide](../editor/006-attachments.md).
-
----
-
-### 💡 Pro tip: Choosing the right moment
-
-- Show the correct answer visually? → Use **After Question**
-- Build suspense before revealing feedback? → Use **Before Feedback**
-- Add extra trivia or depth? → Use **After Feedback**
+📘 Tudj meg többet a támogatott fájltípusokról, az időzítési tippekről és a korlátozásokról a [mellékletek útmutatójában](../editor/006-attachments.md).
 
 ---
 
-Next up: Learn more about the different [question types](../question-types/000-question-types.md) and how to structure your [round types](../round-types/000-round-types.md) for maximum impact.
+### 💡 Profi tipp: válaszd ki a megfelelő pillanatot
+
+- Vizuálisan mutatnád meg a helyes választ? → Használd ezt: **Kérdés után**
+- Feszültséget építenél a visszajelzés felfedése előtt? → Használd ezt: **Visszajelzés előtt**
+- Extra érdekességet vagy mélységet adnál hozzá? → Használd ezt: **Visszajelzés után**
+
+---
+
+Következő lépés: tudj meg többet a különböző [kérdéstípusokról](../question-types/000-question-types.md), és arról, hogyan építsd fel a [körtípusokat](../round-types/000-round-types.md) a maximális hatás érdekében.
