@@ -1,60 +1,60 @@
 ---
 id: image-map-question
-title: Image map question
+title: Képtérképes kérdés
 ---
 
-# 🗺️ Image map
+# 🗺️ Képtérkép
 
-In an **Image map** question, players must select the correct spot (or spots) on an image displayed on their device. This is ideal for visual identification challenges, such as "Select the Erlenmeyer flask."
-
----
-
-![Example: Image map question with flasks](/images/question-modes/image-map/image-map-example.png)
+Egy **képtérképes** kérdésben a játékosoknak ki kell választaniuk a megfelelő pontot (vagy pontokat) a saját eszközükön megjelenített képen. Ez ideális vizuális felismerési feladatokhoz, például a „Válaszd ki az Erlenmeyer-lombikot.” típusúakhoz.
 
 ---
 
-## 📝 How it works
-
-- **Question:** Clearly state what players need to find on the image.  
-  _(Example: “Select the Erlenmeyer flask.”)_
-- **Image:** Upload a high-quality image that will be shown to all players.
-- **Answer points:** Define one or more **target areas** (“points”) on the image. Each area can be set as a circle or another shape, and you determine its position and size.
-- **Selecting answers:** Players tap or click to mark their answer(s) on the image.
-  - If the answer falls **within a correct area**, they receive full points.
-  - If the answer falls **outside the correct area** but within the “almost correct” radius, they can earn partial points based on the distance (as defined by the _score easing_ setting).
-- **Multiple answers:** If the question requires more than one answer, players must select each correct area.
-  - Selecting the same area multiple times will **not** grant extra points.
-- **Scoring method:** You can configure whether points are awarded for each correct area individually, or only when the required minimum number of correct answers are selected.
+![Példa: képtérképes kérdés lombikokkal](/images/question-modes/image-map/image-map-example.png)
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Hogyan működik
 
-- **Number of answers:** Set the required minimum and maximum number of points a player must identify.
-- **Score easing:** Adjusts partial credit for “almost correct” answers, based on how close the selection is to the correct area (only applies to distance between correct and almost correct).
-- **Points per area:** Decide if points are awarded per correctly identified area, or only if all minimum required areas are selected.
-- **Attachment options:** Add images, audio, or video for richer context. Set attributions if publishing.
-
-See [writing questions](../editor/005-writing-questions.md) for general question settings.
-
----
-
-## ⏱️ Time-based scoring
-
-**Time-based scoring is enabled by default.** Players who answer quickly earn more points, but there’s always a fixed component (default: 75%) for a correct answer. Only 25% of the total score is influenced by how fast you answer.  
-You can turn off time-based scoring for this question type if you wish.
-
-📘 For details on scoring and time settings, see the [round options documentation](../editor/008-round-options.md#scoring).
+- **Kérdés:** Mondd el egyértelműen, mit kell a játékosoknak megtalálniuk a képen.  
+  _(Példa: „Válaszd ki az Erlenmeyer-lombikot.”)_
+- **Kép:** Tölts fel egy jó minőségű képet, amelyet minden játékos látni fog.
+- **Válaszpontok:** Határozz meg egy vagy több **célterületet** („pontot”) a képen. Minden terület beállítható körként vagy más alakzatként, te pedig meghatározod a helyét és a méretét.
+- **Válaszok kiválasztása:** A játékosok koppintással vagy kattintással jelölik meg a válasz(oka)t a képen.
+  - Ha a válasz **egy helyes területen belülre** esik, teljes pontszámot kapnak.
+  - Ha a válasz **a helyes területen kívülre** esik, de az „majdnem helyes” sugáron belül van, részpontokat szerezhetnek a távolság alapján (a _pontszámkönnyítés_ beállítása szerint).
+- **Több válasz:** Ha a kérdés egynél több választ igényel, a játékosoknak minden helyes területet ki kell választaniuk.
+  - Ugyanannak a területnek a többszöri kiválasztása **nem** ad extra pontokat.
+- **Pontozási módszer:** Beállíthatod, hogy a pontok minden helyes területért külön járjanak-e, vagy csak akkor, ha a játékos kiválasztotta a szükséges minimális számú helyes választ.
 
 ---
 
-## 💡 Tips for great image map questions
+## ⚙️ Kibővített beállítások
 
-- **Use clear, non-cluttered images** for easy identification.
-- **Define answer areas carefully** to avoid overlap or confusion.
-- **Provide constructive feedback** to help players learn from mistakes.
-- **Partial credit:** Use the “almost correct” option to reward near-misses and keep things fair.
+- **Válaszok száma:** Állítsd be, hogy a játékosnak minimum és maximum hány pontot kell azonosítania.
+- **Pontszámkönnyítés:** Az „majdnem helyes” válaszokért járó részpontszámot állítja, annak alapján, hogy a választás mennyire van közel a helyes területhez (csak a helyes és a majdnem helyes közötti távolságra vonatkozik).
+- **Pontok területenként:** Döntsd el, hogy a pontok minden helyesen azonosított területért járjanak-e, vagy csak akkor, ha minden minimálisan szükséges terület ki lett választva.
+- **Mellékletbeállítások:** Adj hozzá képeket, hangot vagy videót a gazdagabb kontextusért. Állíts be forrásmegjelöléseket, ha közzéteszed.
+
+Az általános kérdésbeállításokért lásd a [kérdések írása](../editor/005-writing-questions.md) részt.
 
 ---
 
-Image map questions are perfect for labeling diagrams, identifying regions, or visual “find-the-object” games!
+## ⏱️ Időalapú pontozás
+
+**Az időalapú pontozás alapértelmezés szerint be van kapcsolva.** Azok a játékosok, akik gyorsan válaszolnak, több pontot kapnak, de a helyes válaszért mindig van egy fix rész (alapértelmezés: 75%). Az összpontszámnak csak 25%-át befolyásolja, milyen gyorsan válaszolsz.  
+Ha szeretnéd, kikapcsolhatod az időalapú pontozást ennél a kérdéstípusnál.
+
+📘 A pontozás és az időbeállítások részleteiért lásd a [fordulóbeállítások dokumentációját](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Tippek szuper képtérképes kérdésekhez
+
+- **Használj tiszta, nem túlzsúfolt képeket**, hogy könnyű legyen az azonosítás.
+- **Gondosan határozd meg a választerületeket**, hogy elkerüld az átfedéseket vagy a félreértéseket.
+- **Adj építő jellegű visszajelzést**, hogy a játékosok tanulhassanak a hibáikból.
+- **Részpontszám:** Használd az „majdnem helyes” opciót, hogy jutalmazd a közeli találatokat, és igazságos maradjon a játék.
+
+---
+
+A képtérképes kérdések tökéletesek diagramok felcímkézéséhez, régiók azonosításához vagy vizuális „találd meg a tárgyat” játékokhoz!
