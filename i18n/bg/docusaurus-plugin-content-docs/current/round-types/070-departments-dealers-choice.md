@@ -1,43 +1,43 @@
 ---
 id: departments-dealers-choice
-title: Department Dealer's Choice
+title: Избор на дилъра на отдела
 ---
 
-# 🏢 Department Dealer’s Choice
+# 🏢 Избор на дилъра на отдела
 
-**Department Dealer’s Choice** is an interactive round type where players from a specific department take turns selecting the next category or question.
-
----
-
-## 📝 How it works
-
-- A single **department** is selected to play this round.
-- A **dealer** is chosen from within that department (by ranking or at random) to pick the next category or question.
-- Depending on settings, **only the dealer** or **all players in the dealer's department** can answer and score points for the selected question.
+**Избор на дилъра на отдела** е интерактивен тип рунд, в който играчите от конкретен отдел се редуват да избират следващата категория или въпрос.
 
 ---
 
-## ⚙️ Settings
+## 📝 Как работи
 
-- **Department number:** Choose which department is playing this round.
-- **Dealer selection:**
-  - Lowest ranked first
-  - Highest ranked first
-  - Random
-- **Dealer department:**
-  - _Only dealer may play_ — Only the selected dealer answers the question
-  - _All players in dealer’s department may play_ — Everyone in the department can answer and score points
-- **Dealer bonus:**  
-  Set a bonus percentage for the dealer (if enabled).
+- Избира се един **отдел**, който да играе този рунд.
+- От този отдел се избира **дилър** (по класиране или на случаен принцип), който да избере следващата категория или въпрос.
+- В зависимост от настройките, **само дилърът** или **всички играчи в отдела на дилъра** могат да отговарят и да печелят точки за избрания въпрос.
 
 ---
 
-## 💡 Tips
+## ⚙️ Настройки
 
-- Use this mode for team-based competitions or when you want to give specific groups a chance to shine.
-- Dealer’s Choice rounds keep the game dynamic and engaging, with added strategy for departments.
+- **Номер на отдел:** Избери кой отдел играе този рунд.
+- **Избор на дилър:**
+  - Първо най-ниско класираният
+  - Първо най-високо класираният
+  - На случаен принцип
+- **Отдел на дилъра:**
+  - _Само дилърът може да играе_ — Само избраният дилър отговаря на въпроса
+  - _Всички играчи в отдела на дилъра могат да играят_ — Всеки в отдела може да отговаря и да печели точки
+- **Бонус за дилъра:**  
+  Задай процент бонус за дилъра (ако е активирано).
 
 ---
 
-For classic Dealer’s Choice rules, see [Dealer’s Choice](024-dealers-choice.md).  
-For more team game options, check [Round options](../editor/008-round-options.md).
+## 💡 Съвети
+
+- Използвай този режим за отборни състезания или когато искаш да дадеш шанс на конкретни групи да блеснат.
+- Рундовете „Избор на дилъра“ поддържат играта динамична и интересна, с допълнителна стратегия за отделите.
+
+---
+
+За класическите правила на „Избор на дилъра“ виж [Избор на дилъра](024-dealers-choice.md).  
+За още опции за отборна игра виж [Опции за рунд](../editor/008-round-options.md).
