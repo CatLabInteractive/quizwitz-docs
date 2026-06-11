@@ -1,83 +1,83 @@
 ---
 id: quiz-options
-title: Quiz options
+title: Kvízbeállítások
 ---
 
-# ⚙️ Quiz options
+# ⚙️ Kvízbeállítások
 
-When creating a quiz, you can open the **Quiz settings** panel to configure global behavior and presentation options. These settings apply to the **entire quiz**.
+Kvíz létrehozásakor megnyithatod a **Kvízbeállítások** panelt, ahol beállíthatod az általános működést és a megjelenítési opciókat. Ezek a beállítások a **teljes kvízre** vonatkoznak.
 
-| ![Open quiz options](/images/open-quiz-options.png) | ![Quiz options](/images/quiz-options.png) |
-| :-------------------------------------------------: | :---------------------------------------: |
-|           _Opening the quiz options panel_          |          _Quiz settings overview_         |
-
----
-
-## 🌐 Languages
-
-Select the language in which you're writing the quiz. You can add additional translations later.
+| ![Kvízbeállítások megnyitása](/images/open-quiz-options.png) | ![Kvízbeállítások](/images/quiz-options.png) |
+| :----------------------------------------------------------: | :------------------------------------------: |
+|             _A kvízbeállítások panel megnyitása_             |        _A kvízbeállítások áttekintése_       |
 
 ---
 
-## 🎨 Themes
+## 🌐 Nyelvek
 
-Choose a visual theme for your quiz.
-
-- The default theme is **QuizWitz**
-- Your organization may have access to custom themes
-- Themes affect background, colors, and layout
-
-📘 See the [Emerald theme documentation](../advanced/011-emerald-theme.md) for more details on customizing visuals with this theme.
+Válaszd ki, milyen nyelven írod a kvízt. Később további fordításokat is hozzáadhatsz.
 
 ---
 
-## 📎 Attachments
+## 🎨 Témák
 
-Enhance your quiz with visuals, audio, or video in specific slots:
+Válassz vizuális témát a kvízedhez.
 
-- **Before quiz** — Shown when the quiz starts
-- **After quiz** — Played after the final results screen
-- **Client logo / alternative logo** — Displayed throughout the quiz interface
-- **Wait screen** — Displayed between questions in live games (1920×1080 image recommended)
-- **Background** — Optional background replacement (depends on theme)
-- **Connect screen** — Used in [Live](../quizmaster/001-introduction.md) and [Conference](../tutorials/conference-booth) modes:
-  - **Images** — Fullscreen background visuals
-  - **Audio** — Looped music (max 15 min)
-  - **Video** — Played every 5 minutes, useful for ads or instructions
+- Az alapértelmezett téma a **QuizWitz**
+- A szervezetednek hozzáférése lehet egyedi témákhoz
+- A témák hatással vannak a háttérre, a színekre és az elrendezésre
 
-🎥 You can use our [ready-made instructional videos](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) to help players connect.
-
-- **During game outro** — (Audio only) Plays over the winner reveal screen
-
-📘 For technical details and recommendations, see the [attachments guide](../editor/006-attachments.md).
+📘 A vizuális elemek testreszabásáról ezzel a témával az [Emerald téma dokumentációjában](../advanced/011-emerald-theme.md) találsz további részleteket.
 
 ---
 
-## 🔧 Extra options
+## 📎 Csatolmányok
 
-Optional settings for customizing gameplay and visibility:
+Dobd fel a kvízedet képekkel, hanggal vagy videóval meghatározott helyeken:
 
-- **Enable multiplayer** — Default ON. Allows party play with friends
-- **Random round order** — Shuffle the order of rounds
-  > ⚠️ Not recommended when preparing for [QuizWitz Live](../quizmaster/001-introduction.md)
-- **Allow users to rate questions** — Lets players rate each question after a round
-- **Enable comments** — Allow feedback after publishing
-- **Speed up when all answered** — If enabled, the game skips ahead when all players have answered
-  > ⏱️ Recommended when using **Time-based scoring**
+- **Kvíz előtt** — A kvíz indulásakor jelenik meg
+- **Kvíz után** — A végső eredményképernyő után játszódik le
+- **Ügyféllogó / alternatív logó** — A kvízfelület egészén megjelenik
+- **Várakozó képernyő** — Élő játékokban a kérdések között jelenik meg (1920×1080-as kép ajánlott)
+- **Háttér** — Opcionális háttércsere (a témától függ)
+- **Csatlakozási képernyő** — A [Live](../quizmaster/001-introduction.md) és [Konferencia](../tutorials/conference-booth) módokban használatos:
+  - **Képek** — Teljes képernyős háttérvizuálok
+  - **Hang** — Ismétlődő zene (max. 15 perc)
+  - **Videó** — 5 percenként játszódik le, hasznos hirdetésekhez vagy instrukciókhoz
+
+🎥 Használhatod a [kész oktatóvideóinkat](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC), hogy segíts a játékosoknak csatlakozni.
+
+- **Játék közbeni outro** — (Csak hang) A győztes felfedésének képernyője alatt játszódik le
+
+📘 Technikai részletekért és ajánlásokért nézd meg a [csatolmányok útmutatóját](../editor/006-attachments.md).
 
 ---
 
-## 📤 Share or embed
+## 🔧 Extra opciók
 
-Generates share links or embed code with advanced game settings.
+Opcionális beállítások a játékmenet és a láthatóság testreszabásához:
+
+- **Többjátékos mód engedélyezése** — Alapértelmezetten BE. Lehetővé teszi a közös játékot a barátokkal
+- **Véletlenszerű fordulósorrend** — Keveri a fordulók sorrendjét
+  > ⚠️ Nem ajánlott, ha [QuizWitz Live](../quizmaster/001-introduction.md) használatára készülsz
+- **A felhasználók értékelhetik a kérdéseket** — A játékosok minden forduló után értékelhetik az egyes kérdéseket
+- **Hozzászólások engedélyezése** — Visszajelzések engedélyezése közzététel után
+- **Gyorsítás, amikor mindenki válaszolt** — Ha be van kapcsolva, a játék továbbugrik, amikor minden játékos válaszolt
+  > ⏱️ Ajánlott **időalapú pontozás** használatakor
 
 ---
 
-## 📜 Quizmaster copy
+## 📤 Megosztás vagy beágyazás
 
-Add custom presenter instructions for:
+Megosztási linkeket vagy beágyazási kódot hoz létre haladó játékbeállításokkal.
 
-- **Quiz introduction**
-- **Quiz outro**
+---
 
-These are visible on the [Quizmaster app](../quizmaster/001-introduction.md) when using QuizWitz Live.
+## 📜 quizmaster szöveg
+
+Adj hozzá egyedi műsorvezetői instrukciókat ehhez:
+
+- **Kvízbevezető**
+- **Kvíz-outro**
+
+Ezek láthatók a [Quizmaster appban](../quizmaster/001-introduction.md), amikor QuizWitz Live-ot használsz.
