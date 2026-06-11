@@ -1,37 +1,37 @@
 ---
 id: elimination
-title: Elimination
+title: Eliminazione
 ---
 
-# 🚫 Elimination
+# 🚫 Eliminazione
 
-**Elimination** is a special event that automatically removes players or teams from the game based on their current ranking or score.  
-It’s a useful tool for tournaments, playoffs, or adding dramatic twists in live events!
-
----
-
-## 📝 How it works
-
-- When triggered, the elimination event evaluates player rankings and **kicks out players or teams** according to your chosen rule.
-- Elimination is not a round type with questions, but an automatic filter between rounds.
+**Eliminazione** è un evento speciale che rimuove automaticamente giocatori o squadre dal gioco in base alla loro classifica o al loro punteggio attuale.  
+È uno strumento utile per tornei, playoff o per aggiungere colpi di scena drammatici negli eventi live!
 
 ---
 
-## ⚙️ Elimination criteria
+## 📝 Come funziona
 
-You can configure the elimination event to:
-
-- **Kick lowest ranked players** until a specified number of players remain
-- **Kick highest ranked players** until a specified number of players remain
-- **Kick lowest ranked** (a set number of) players
-- **Kick highest ranked** (a set number of) players
-
-The number of players to keep (or kick) can be set as an exact number or as a percentage of all participants.
+- Quando viene attivato, l'evento di eliminazione valuta le classifiche dei giocatori e **butta fuori giocatori o squadre** in base alla regola che hai scelto.
+- L'eliminazione non è un tipo di round con domande, ma un filtro automatico tra un round e l'altro.
 
 ---
 
-> Elimination events are perfect for knock-out formats, reducing the field between quiz rounds, or creating tense “sudden death” moments in your game!
+## ⚙️ Criteri di eliminazione
+
+Puoi configurare l'evento di eliminazione per:
+
+- **Buttare fuori i giocatori con la classifica più bassa** finché non resta un numero specifico di giocatori
+- **Buttare fuori i giocatori con la classifica più alta** finché non resta un numero specifico di giocatori
+- **Buttare fuori i giocatori con la classifica più bassa** (un numero definito di) giocatori
+- **Buttare fuori i giocatori con la classifica più alta** (un numero definito di) giocatori
+
+Il numero di giocatori da tenere (o da buttare fuori) può essere impostato come numero esatto o come percentuale di tutti i partecipanti.
 
 ---
 
-For more advanced options and event types, see [Round options](../editor/008-round-options.md).
+> Gli eventi di eliminazione sono perfetti per formati a eliminazione diretta, per ridurre il numero di partecipanti tra i round del quiz o per creare momenti di “morte improvvisa” pieni di tensione nella tua partita!
+
+---
+
+Per opzioni più avanzate e tipi di evento, vedi [Opzioni round](../editor/008-round-options.md).
