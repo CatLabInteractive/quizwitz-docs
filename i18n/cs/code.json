@@ -164,7 +164,7 @@
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
     "message": "Zavřít",
-    "description": "The ARIA label for close button of announcement bar"
+    "description": "Generic button label to close a dialog, panel, or modal."
   },
   "theme.blog.sidebar.navAriaLabel": {
     "message": "Navigace nedávnými příspěvky na blogu",
@@ -184,7 +184,7 @@
   },
   "theme.navbar.mobileLanguageDropdown.label": {
     "message": "Jazyky",
-    "description": "The label for the mobile language switcher dropdown"
+    "description": "Section heading or filter label for language selection."
   },
   "theme.NotFound.p1": {
     "message": "Nenašli jsme, co hledáš.",
@@ -320,22 +320,25 @@
   },
   "theme.tags.tagsPageTitle": {
     "message": "Štítky",
-    "description": "The title of the tag list page"
+    "description": "Label for the tags/keywords field on a quiz or round."
   },
   "Create": {
-    "message": "Vytvořit"
+    "message": "Vytvořit",
+    "description": "Generic button label to create a new item."
   },
   "Create a fully customizable quiz using different question and round types.": {
     "message": "Vytvoř si plně přizpůsobitelný kvíz s různými typy otázek a kol."
   },
   "Play": {
-    "message": "Hrát"
+    "message": "Hrát",
+    "description": "Generic button label to start playing a game or quiz."
   },
   "Play any shared quiz on our platform with friends, family, colleagues, … Grab a smart device, connect via the web and show off how much you know!": {
     "message": "Zahraj si jakýkoli sdílený kvíz na naší platformě s přáteli, rodinou, kolegy, … Vezmi si smart device, připoj se přes web a ukaž, kolik toho víš!"
   },
   "Share": {
-    "message": "Sdílet"
+    "message": "Sdílet",
+    "description": "Button label to open the share dialog."
   },
   "Collect and share quiz rounds from around the world, or share your own! Connect with other quiz aficionados.": {
     "message": "Sbírej a sdílej kvízová kola z celého světa nebo sdílej svoje vlastní! Spoj se s dalšími kvízovými nadšenci."
