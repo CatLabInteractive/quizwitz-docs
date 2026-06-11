@@ -1,122 +1,122 @@
 ---
 id: startup
-title: Start-up
+title: Začíname
 ---
 
-# 🚀 Start-up — Hosting a Quiz with QuizWitz Live
+# 🚀 Začíname — hosťovanie kvízu s QuizWitz Live
 
-Welcome to QuizWitz Live — the professional way to host quizzes for teams, livestreams, and in-person events. Follow this guide to get your quiz up and running using the Quizmaster App.
-
----
-
-## 🖥️ Launching QuizWitz Live
-
-You can start a QuizWitz Live game from the quiz editor or directly from your quiz collection.
-
-- In the quiz editor, click **‘Start QuizWitz Live’**  
-  ![Start QuizWitz PRO](/images/start-quizwitz-pro.png)
-
-- From your collection, click the **Live icon** to launch  
-  ![Start QuizWitz PRO from your collection](/images/start-quizwitz-live.png)
+Vitaj v QuizWitz Live — profesionálnom spôsobe, ako hostovať kvízy pre tímy, livestreamy a podujatia naživo. Postupuj podľa tohto návodu a spusti svoj kvíz pomocou Quizmaster App.
 
 ---
 
-## 🔐 Connecting with the Master Code
+## 🖥️ Spustenie QuizWitz Live
 
-Once launched, your screen will display a **Master Code**. **Do not share this code with players** — it's used to connect your presentation device to the game.
+Hru QuizWitz Live môžeš spustiť z editora kvízov alebo priamo zo svojej zbierky kvízov.
 
-- Visit [quizwitz.tv](https://quizwitz.tv) on your quizmaster device and enter the Master Code.
-- A **Quizmaster App interface** will appear, where you control the game.
-- We recommend a **tablet or smartphone** for mobility, but a laptop works too.  
-  ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)
+- V editore kvízov klikni na **„Start QuizWitz Live“**  
+  ![Spustiť QuizWitz PRO](/images/start-quizwitz-pro.png)
 
-After connecting, the Master Code disappears from the screen. You're now ready to show the main screen on a projector or start your livestream.
+- Zo svojej zbierky klikni na **ikonu Live** a spusti hru  
+  ![Spustiť QuizWitz PRO zo svojej zbierky](/images/start-quizwitz-live.png)
 
-> ⚠️ **Heads up!** If the game screen (main display) is not actively in focus — for example, if you switch tabs or minimize it — the game will **automatically pause**.  
-> When this happens:
+---
+
+## 🔐 Pripojenie pomocou Master Code
+
+Po spustení sa na tvojej obrazovke zobrazí **Master Code**. **Nezdieľaj tento kód s hráčmi** — používa sa na pripojenie tvojho prezentačného zariadenia k hre.
+
+- Na svojom quizmaster zariadení otvor [quizwitz.tv](https://quizwitz.tv) a zadaj Master Code.
+- Zobrazí sa **rozhranie Quizmaster App**, v ktorom ovládaš hru.
+- Pre lepšiu mobilitu odporúčame **tablet alebo smartfón**, ale funguje aj notebook.  
+  ![Obrazovka pripojenia QuizWitz PRO](/images/quizwitz-pro-connect-token.png)
+
+Po pripojení Master Code zmizne z obrazovky. Teraz môžeš zobraziť hlavnú obrazovku na projektore alebo spustiť svoj livestream.
+
+> ⚠️ **Pozor!** Ak obrazovka hry (hlavné zobrazenie) nie je aktívne v popredí — napríklad keď prepneš kartu alebo ju minimalizuješ — hra sa **automaticky pozastaví**.  
+> Keď sa to stane:
 >
-> - The **Quizmaster App also pauses**
-> - To resume, first make sure the **game screen is active again**
-> - Then **hover over the screen** to reveal the bottom menu and press the **pause button** to continue
+> - Pozastaví sa aj **Quizmaster App**
+> - Ak chceš pokračovať, najprv sa uisti, že **obrazovka hry je znova aktívna**
+> - Potom **prejdi kurzorom ponad obrazovku**, aby sa zobrazilo spodné menu, a stlač **tlačidlo pozastavenia**, aby si pokračoval/a
 
 ---
 
-## 🎮 Selecting your game mode
+## 🎮 Výber herného režimu
 
-Once connected, choose between two game modes:
+Po pripojení si vyber z dvoch herných režimov:
 
-![Quizmaster app - select mode](/images/quizmaster-app-select-mode.png)
+![Quizmaster app - výber režimu](/images/quizmaster-app-select-mode.png)
 
-### Team codes
+### Tímové kódy
 
-- Each team gets a **unique code**, which can be opened on multiple devices.
-- Best for **pre-registered team quizzes** where you know the team names in advance.
-- Allows device switching — helpful if a battery dies mid-quiz.
+- Každý tím dostane **jedinečný kód**, ktorý sa dá otvoriť na viacerých zariadeniach.
+- Najlepšie pre **vopred registrované tímové kvízy**, pri ktorých poznáš názvy tímov dopredu.
+- Umožňuje prepínanie zariadení — hodí sa, ak sa uprostred kvízu vybije batéria.
 
-### Single game code
+### Jeden herný kód
 
-- Everyone joins using **one shared Game Code**.
-- Ideal for casual or open-access events.
-- No pre-registration required — players can join anytime, until all active seats are filled.
+- Všetci sa pripájajú pomocou **jedného zdieľaného Game Code**.
+- Ideálne pre neformálne alebo otvorené podujatia.
+- Nie je potrebná žiadna predbežná registrácia — hráči sa môžu pripojiť kedykoľvek, kým sa nezaplnia všetky aktívne seats.
 
-> Make sure you're logged in to access your quiz content.
-
----
-
-## 👥 Hosting with Team codes
-
-When using **Team codes**, you will first create teams in the Quizmaster App:
-
-- Add team names
-- Press **‘Generate Codes’** to create access codes  
-  ![Quizmaster app - create teams](/images/quizmaster-app-create-teams.png)
-
-You can also **reserve codes in advance** — more on that in the tips & tricks section.
-
-Be sure to **save the following codes**:
-
-- **Master Code** — to control the quiz
-- **Jury Code** — for manual score adjustments
-- **Regie Code** — to control visual and technical elements
-
-Send team codes to your players via email or printouts.
-
-When ready, click **‘Load quiz’**, wait for assets to load, and then click **‘Start’** to begin.
-
-![Quizmaster app - get team codes](/images/quizmaster-app-create-teams2.png)
+> Uisti sa, že si prihlásený/á, aby si mal/a prístup k obsahu svojich kvízov.
 
 ---
 
-## 👤 Hosting with a Single game code
+## 👥 Hosťovanie s tímovými kódmi
 
-With the **Single Game Code** mode:
+Pri použití **tímových kódov** najprv vytvoríš tímy v Quizmaster App:
 
-- You’ll receive the Master, Jury, and Regie codes, plus one Game Code for players.
-- The Game Code appears on the main screen — **display or stream it to your audience**.
-- Players can join any time until your active seat limit is reached.
+- Pridaj názvy tímov
+- Stlač **„Generate Codes“** na vytvorenie prístupových kódov  
+  ![Quizmaster app - vytvorenie tímov](/images/quizmaster-app-create-teams.png)
 
-Once your players are in:
+Kódy si môžeš tiež **rezervovať vopred** — viac o tom nájdeš v sekcii tipov a trikov.
 
-1. Click **‘Load quiz’**
-2. Click **‘Start quiz’** and confirm
-3. The Game Code remains visible for late joiners
+Nezabudni si **uložiť nasledujúce kódy**:
 
----
+- **Master Code** — na ovládanie kvízu
+- **Jury Code** — na manuálne úpravy skóre
+- **Regie Code** — na ovládanie vizuálnych a technických prvkov
 
-## 🎟️ Activating seats
+Pošli tímové kódy svojim hráčom e-mailom alebo ich vytlač.
 
-Before starting, you’ll need to check your available seats.
+Keď budeš pripravený/á, klikni na **„Load quiz“**, počkaj, kým sa načítajú podklady, a potom klikni na **„Start“**, aby si začal/a.
 
-- An overview appears after selecting your game mode
-- If you need more seats, activate them at [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
-  ![Quizmaster app - activate seats](/images/quizmaster-app-seats.png)
+![Quizmaster app - získanie tímových kódov](/images/quizmaster-app-create-teams2.png)
 
 ---
 
-## ▶️ Starting the game
+## 👤 Hosťovanie s jedným herným kódom
 
-Once the setup is complete, press **‘Start quiz’** in the Quizmaster App to begin the game.
+V režime **Single Game Code**:
 
-![Quizmaster app - start quiz](/images/quizmaster-app-start-quiz.png)
+- Dostaneš kódy Master, Jury a Regie a navyše jeden Game Code pre hráčov.
+- Game Code sa zobrazí na hlavnej obrazovke — **zobraz ho alebo streamuj svojmu publiku**.
+- Hráči sa môžu pripojiť kedykoľvek, kým sa nedosiahne tvoj aktívny limit seats.
 
-You're now ready to entertain your audience with a seamless QuizWitz Live experience!
+Keď sú tvoji hráči pripojení:
+
+1. Klikni na **„Load quiz“**
+2. Klikni na **„Start quiz“** a potvrď
+3. Game Code zostáva viditeľný pre tých, ktorí sa pripoja neskôr
+
+---
+
+## 🎟️ Aktivácia seats
+
+Pred spustením si budeš musieť skontrolovať dostupné seats.
+
+- Po výbere herného režimu sa zobrazí prehľad
+- Ak potrebuješ viac seats, aktivuj ich na [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
+  ![Quizmaster app - aktivácia seats](/images/quizmaster-app-seats.png)
+
+---
+
+## ▶️ Spustenie hry
+
+Keď je nastavenie hotové, stlač **„Start quiz“** v Quizmaster App a spusti hru.
+
+![Quizmaster app - spustenie kvízu](/images/quizmaster-app-start-quiz.png)
+
+Teraz si pripravený/á zabaviť svoje publikum plynulým zážitkom s QuizWitz Live!
