@@ -72,7 +72,7 @@
     "description": "The ARIA label for the docs pagination"
   },
   "theme.docs.paginator.previous": {
-    "message": "named@@0",
+    "message": "Vorige",
     "description": "The label used to navigate to the previous doc"
   },
   "theme.docs.paginator.next": {
