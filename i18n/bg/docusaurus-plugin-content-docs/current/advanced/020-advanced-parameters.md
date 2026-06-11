@@ -1,69 +1,69 @@
 ---
 id: advanced-player-parameters
-title: Advanced parameters
+title: Разширени параметри
 ---
 
-# ⚙️ Advanced parameters
+# ⚙️ Разширени параметри
 
-You can use query string parameters to customize how the QuizWitz game client behaves. These parameters can be appended to any game link using the **Advanced Game Settings** feature.
+Можеш да използваш параметри на query string, за да персонализираш как се държи клиентът на играта QuizWitz. Тези параметри могат да се добавят към всеки линк към игра чрез функцията **Разширени настройки на играта**.
 
-Example:
+Пример:
 
 https://play.quizwitz.com/13305:qyHBEVVBqT?theme=emerald
 
-📘 [What are query strings?](https://en.wikipedia.org/wiki/Query_string)
+📘 [Какво представляват query strings?](https://en.wikipedia.org/wiki/Query_string)
 
 ---
 
-## Available parameters:
+## Налични параметри:
 
-| Parameter                |            Default           |           Example           | Explanation                                                                                                                                                                                 |
-| ------------------------ | :--------------------------: | :-------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `language`               | (browser) |              en             | ISO-639 language code to load and use as base language                                                                                                                                      |
-| `theme`                  |            quizted           |           emerald           | Name (or approved URL) of the theme to load                                                                                                                              |
-| `reservation`            |               /              |            abcdef           | Reservation token to use (in live games)                                                                                                                                 |
-| `remote`                 |  quizwitz.tv | quizwitz.tv | CatLab Remote server to use                                                                                                                                                                 |
-| `server`                 |               /              |              10             | CatLab Remote server ID to use (with auto discover)                                                                                                                      |
-| `publisher`              |               /              |           QuizWitz          | Name of the publisher who is hosting the game. This is used for customizing views                                                                                           |
-| `smileys`                |               1              |              0              | Set to 0 to disable smileys in the game                                                                                                                                                     |
-| `outroPlayers`           |              12              |          5,4,3,1,2          | Defines the amount (number) OR the order of players (comma separated list of positions) that will be announced during the game outro. |
-| `focusPositions`         |               /              |            50,100           | Define a list of additional positions that will be displayed in the quizmaster app                                                                                                          |
-| `translations`           |               1              |              0              | Set to 0 to disable loading translations of the quiz you are loading                                                                                                                        |
-| `cycleTranslations`      |               0              |              1              | Set to 1 to cycle through all available languages of the quiz per question                                                                                                                  |
-| `showLongQuestions`      |               0              |              1              | Set to 1 to show the 'long question' on the game screen                                                                                                                                     |
-| `forcePiecharts`         |               0              |              1              | Set to 1 to always show all feedback in pie-charts                                                                                                                                          |
-| `forceNoPiecharts`       |               0              |              1              | Set to 1 to always to never group all feedback in pie-charts.                                                                                                               |
-| `piechartPercentages`    |               0              |              1              | Set to 1 to show percentages instead of absolute values in all pie-charts                                                                                                                   |
-| `monitors`               |               /              |            nl,fr            | If set, in live games separate codes will be created to display a 'monitor' in that specific language for localized presenters.                                             |
-| `allowLogin`             |               1              |              0              | Set to 0 to disallow users to login                                                                                                                                                         |
-| `tracker`                |               1              |              0              | Set to 0 to disable all tracking. No quiz report will be available                                                                                                          |
-| `random`                 |               0              |              1              | Set to 1 to load a 'random quiz'                                                                                                                                                            |
-| `delay`                  |               0              |            30000            | Set the amount of milliseconds all player interaction will be delayed (for livestreams)                                                                                  |
-| `countdown`              |              10              |              60             | Set the amount of seconds the game will 'count down' in presentation mode.                                                                                                  |
-| `autoCountdown`          |               0              |              1              | Set to 1 to automatically start countdown after first player join in presentation mode.                                                                                     |
-| `autoRestart`            |               0              |              1              | Set to 1 to automatically restart the game after it is finished.                                                                                                            |
-| `waitForPlayers`         |               0              |              1              | Set to 1 to not wait for any players when `autoCountdown` is enabled                                                                                                                        |
-| `askEmail`               |               1              |              0              | Set to 0 to not ask for user email address in presentation mode.                                                                                                            |
-| `beacon`                 |               /              |           my-beacn          | Set a CatLab Remote beacon token that can be used to automatically connect the quizmaster app.                                                                              |
-| `rounds`                 |               5              |              7              | Set the amount of rounds that will be generated in a random quiz.                                                                                                           |
-| `questions`              |               7              |              7              | Set the amount of questions that will be generated for each round in a random quiz.                                                                                         |
-| `showListenQuotes`       |               1              |              0              | Set to 0 to disable the 'funny' "please listen" quotes.                                                                                                                     |
-| `shared`                 |               /              |  123:abcdef | The access token of a shared entry.                                                                                                                                         |
-| `music`                  |               1              |              0              | Set to 0 to disable all (game) music. Uploaded audio will still play.                                                                    |
-| `connectMusic`           |               1              |              0              | Set to 0 to disable the (game) music that is playing during the 'connect' phase.                                                                         |
-| `slideshowVideoInterval` |              300             |             300             | When videos are uploaded in the connect screen phase, this defines the amount of seconds between each video play.                                                           |
-| `slideshowImageInterval` |              20              |              60             | When images are uploaded in the connect screen phase, this defines the amount of seconds each image will be shown.                                                          |
-| `skipOnAllAnswered`      |               1              |              0              | Set to 0 to override the entries `skipOnAllAnswered`                                                                                                                                        |
-| `departments`            |               1              |            A,B,C            | Set to 0 to disable loading departments. Set to comma separated names list to automatically assign all connecting players to a random department.           |
-| `showRankInDepartment`   |               1              |              0              | Set to 0 to disable users from seeing their rank within their department.                                                                                                   |
-| `showDepartmentRanking`  |               1              |              0              | Set to 0 to disable showing the department ranking in between rounds.                                                                                                       |
-| `preloadVideo`           |               0              |              1              | Set to 1 to force preloading all video fragments.                                                                                                                           |
-| `n`                      |               /              |          `_prompt_`         | Set (or request by setting to `_prompt_`) a name for the player group that is playing the game. This name is sent to the quiz report.    |
+| Параметър                |        По подразбиране       |            Пример           | Обяснение                                                                                                                                                                                               |
+| ------------------------ | :--------------------------: | :-------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `language`               | (браузър) |              en             | Езиков код по ISO-639, който да се зареди и използва като основен език                                                                                                                                  |
+| `theme`                  |            quizted           |           emerald           | Име (или одобрен URL) на темата, която да се зареди                                                                                                                                  |
+| `reservation`            |               /              |            abcdef           | Токен за резервация, който да се използва (в игри на живо)                                                                                                                           |
+| `remote`                 |  quizwitz.tv | quizwitz.tv | CatLab Remote сървър, който да се използва                                                                                                                                                              |
+| `server`                 |               /              |              10             | ID на CatLab Remote сървър, който да се използва (с автоматично откриване)                                                                                                           |
+| `publisher`              |               /              |           QuizWitz          | Име на издателя, който хоства играта. Това се използва за персонализиране на изгледите                                                                                                  |
+| `smileys`                |               1              |              0              | Задай на 0, за да изключиш усмивките в играта                                                                                                                                                           |
+| `outroPlayers`           |              12              |          5,4,3,1,2          | Определя количеството (броя) ИЛИ реда на играчите (списък с позиции, разделени със запетаи), които ще бъдат обявени по време на финала на играта. |
+| `focusPositions`         |               /              |            50,100           | Определи списък с допълнителни позиции, които ще се показват в приложението quizmaster                                                                                                                  |
+| `translations`           |               1              |              0              | Задай на 0, за да изключиш зареждането на преводите на викторината, която зареждаш                                                                                                                      |
+| `cycleTranslations`      |               0              |              1              | Задай на 1, за да се редуват всички налични езици на викторината за всеки въпрос                                                                                                                        |
+| `showLongQuestions`      |               0              |              1              | Задай на 1, за да покажеш „дългия въпрос“ на екрана на играта                                                                                                                                           |
+| `forcePiecharts`         |               0              |              1              | Задай на 1, за да показваш винаги цялата обратна връзка в кръгови диаграми                                                                                                                              |
+| `forceNoPiecharts`       |               0              |              1              | Задай на 1, за да не групираш никога цялата обратна връзка в кръгови диаграми.                                                                                                          |
+| `piechartPercentages`    |               0              |              1              | Задай на 1, за да показваш проценти вместо абсолютни стойности във всички кръгови диаграми                                                                                                              |
+| `monitors`               |               /              |            nl,fr            | Ако е зададено, в игрите на живо ще се създават отделни кодове за показване на „монитор“ на конкретния език за локализирани презентатори.                                               |
+| `allowLogin`             |               1              |              0              | Задай на 0, за да забраниш на потребителите да влизат                                                                                                                                                   |
+| `tracker`                |               1              |              0              | Задай на 0, за да изключиш цялото проследяване. Няма да има наличен отчет за викторината                                                                                                |
+| `random`                 |               0              |              1              | Задай на 1, за да заредиш „случайна викторина“                                                                                                                                                          |
+| `delay`                  |               0              |            30000            | Задай броя милисекунди, с които ще се забави всяко взаимодействие на играчите (за livestreams)                                                                                       |
+| `countdown`              |              10              |              60             | Задай броя секунди, за които играта ще отброява в презентационен режим.                                                                                                                 |
+| `autoCountdown`          |               0              |              1              | Задай на 1, за да стартира автоматично отброяване, след като първият играч се присъедини в презентационен режим.                                                                        |
+| `autoRestart`            |               0              |              1              | Задай на 1, за да рестартираш автоматично играта, след като приключи.                                                                                                                   |
+| `waitForPlayers`         |               0              |              1              | Задай на 1, за да не се чака никой играч, когато `autoCountdown` е активирано                                                                                                                           |
+| `askEmail`               |               1              |              0              | Задай на 0, за да не се иска имейл адрес от потребителя в презентационен режим.                                                                                                         |
+| `beacon`                 |               /              |           my-beacn          | Задай CatLab Remote beacon токен, който може да се използва за автоматично свързване на приложението quizmaster.                                                                        |
+| `rounds`                 |               5              |              7              | Задай броя рундове, които ще се генерират в случайна викторина.                                                                                                                         |
+| `questions`              |               7              |              7              | Задай броя въпроси, които ще се генерират за всеки рунд в случайна викторина.                                                                                                           |
+| `showListenQuotes`       |               1              |              0              | Задай на 0, за да изключиш „забавните“ цитати „моля, слушайте“.                                                                                                                         |
+| `shared`                 |               /              |  123:abcdef | Токенът за достъп на споделен елемент.                                                                                                                                                  |
+| `music`                  |               1              |              0              | Задай на 0, за да изключиш цялата (игрова) музика. Каченото аудио пак ще се възпроизвежда.                                                           |
+| `connectMusic`           |               1              |              0              | Задай на 0, за да изключиш (игровата) музика, която звучи по време на фазата „свързване“.                                                                            |
+| `slideshowVideoInterval` |              300             |             300             | Когато са качени видеа във фазата на екрана за свързване, това определя броя секунди между всяко пускане на видео.                                                                      |
+| `slideshowImageInterval` |              20              |              60             | Когато са качени изображения във фазата на екрана за свързване, това определя броя секунди, за които всяко изображение ще се показва.                                                   |
+| `skipOnAllAnswered`      |               1              |              0              | Задай на 0, за да отмениш настройката `skipOnAllAnswered` на записите                                                                                                                                   |
+| `departments`            |               1              |            A,B,C            | Задай на 0, за да изключиш зареждането на отдели. Задай списък с имена, разделени със запетаи, за да назначиш автоматично всички свързващи се играчи към случаен отдел. |
+| `showRankInDepartment`   |               1              |              0              | Задай на 0, за да изключиш възможността потребителите да виждат ранга си в своя отдел.                                                                                                  |
+| `showDepartmentRanking`  |               1              |              0              | Задай на 0, за да изключиш показването на класирането по отдели между рундовете.                                                                                                        |
+| `preloadVideo`           |               0              |              1              | Задай на 1, за да принудиш предварителното зареждане на всички видео фрагменти.                                                                                                         |
+| `n`                      |               /              |          `_prompt_`         | Задай (или поискай чрез задаване на `_prompt_`) име за групата играчи, която играе играта. Това име се изпраща към отчета за викторината.            |
 
 ---
 
-## 💡 Usage tips
+## 💡 Съвети за употреба
 
-- Multiple parameters can be combined using `&`
-- Use these options with **Advanced Game Settings** when sharing or embedding links
-- Many options are useful for live stream optimization or multilingual events
+- Можеш да комбинираш няколко параметъра с `&`
+- Използвай тези опции с **Разширени настройки на играта**, когато споделяш или вграждаш линкове
+- Много опции са полезни за оптимизиране на livestreams или за многоезични събития
