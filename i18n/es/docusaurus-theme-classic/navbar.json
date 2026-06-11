@@ -8,7 +8,7 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.About QuizWitz": {
-    "message": "Sobre la prueba de Witz",
+    "message": "Sobre QuizWitz",
     "description": "Navbar item with label About QuizWitz"
   },
   "item.label.Round types": {
