@@ -1,63 +1,63 @@
 ---
 id: attachments
-title: Attachments
+title: Anexos
 ---
 
-# 📎 Attachments
+# 📎 Anexos
 
-Attachments can be added in various slots throughout your quiz to enrich the experience with images, audio, or video.
+Podes adicionar anexos em vários espaços ao longo do teu quiz para enriquecer a experiência com imagens, áudio ou vídeo.
 
-These slots appear in the following parts of your quiz:
+Estes espaços aparecem nas seguintes partes do teu quiz:
 
-- [Questions](../editor/005-writing-questions.md)
-- [Rounds](../editor/008-round-options.md)
+- [Perguntas](../editor/005-writing-questions.md)
+- [Rondas](../editor/008-round-options.md)
 - [Quizzes](../editor/007-quiz-options.md)
 
-Each page explains when these attachments are shown during gameplay.
+Cada página explica quando estes anexos são mostrados durante o jogo.
 
-![Question attachments](/images/edit-question.png)
-
----
-
-## 🗂️ Supported file types
-
-Here is a general (non-exhaustive) list of compatible formats:
-
-- **Images** — `.png`, `.jpeg`, `.gif` (non-animated). Full HD (1920×1080) recommended
-- **Audio** — Most standard formats are supported
-- **Video** — Most standard formats are supported
-
-> 🔊 ⏱️ Audio and video attachments should be **no longer than 15 minutes** in duration.
+![Anexos da pergunta](/images/edit-question.png)
 
 ---
 
-## 📝 Name & attribution
+## 🗂️ Tipos de ficheiro suportados
 
-Each attachment can have a name and optional attribution:
+Aqui tens uma lista geral (não exaustiva) de formatos compatíveis:
 
-- **Name** — Displayed to the quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); helps in organizing attachments
-- **Attribution** — Shown to players as credit or source information. This should be the **name of the rights holder**.
+- **Imagens** — `.png`, `.jpeg`, `.gif` (não animado). Full HD (1920×1080) recomendado
+- **Áudio** — A maioria dos formatos padrão é suportada
+- **Vídeo** — A maioria dos formatos padrão é suportada
 
-> ⚠️ In order to **publish** a Round-About or Quiz, **all attachments must have a valid attribution** filled in. Without this, your entry cannot be made public.
-
----
-
-## ✨ Attachment effects
-
-Some attachment slots support **effects** to reveal visuals more gradually:
-
-- **None** — The file is shown as-is
-- **Spotlight effect** — Gradually reveals parts of the image over time with a moving spotlight that expands as it progresses
-
-This is especially effective for puzzles or slow reveals during intros or dramatic moments.
+> 🔊 ⏱️ Os anexos de áudio e vídeo devem ter uma duração **máxima de 15 minutos**.
 
 ---
 
-## 📚 Multiple attachments per slot
+## 📝 Nome e atribuição
 
-Some slots allow adding **multiple attachments**. The way these behave depends on the game mode:
+Cada anexo pode ter um nome e uma atribuição opcional:
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** The quizmaster has full control and can decide when to show or hide attachments during gameplay.  
-> 🎮 **In regular games:** All attachments within a slot are shown **simultaneously**.
+- **Nome** — Mostrado ao quizmaster em [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); ajuda a organizar os anexos
+- **Atribuição** — Mostrada aos jogadores como crédito ou informação sobre a fonte. Deve ser o **nome do titular dos direitos**.
 
-Details about each slot’s timing and behavior can be found in the linked documentation for [questions](../editor/015-importing-questions.md), [rounds](../editor/008-round-options.md), and [quizzes](../editor/007-quiz-options.md).
+> ⚠️ Para **publicar** um Round-About ou Quiz, **todos os anexos têm de ter uma atribuição válida** preenchida. Sem isto, a tua entrada não pode ser tornada pública.
+
+---
+
+## ✨ Efeitos dos anexos
+
+Alguns espaços de anexos suportam **efeitos** para revelar elementos visuais de forma mais gradual:
+
+- **Nenhum** — O ficheiro é mostrado tal como está
+- **Efeito de holofote** — Revela gradualmente partes da imagem ao longo do tempo com um holofote em movimento que se expande à medida que avança
+
+Isto é especialmente eficaz para puzzles ou revelações lentas durante introduções ou momentos dramáticos.
+
+---
+
+## 📚 Vários anexos por espaço
+
+Alguns espaços permitem adicionar **vários anexos**. A forma como se comportam depende do modo de jogo:
+
+> ⚡ **Em [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** O quizmaster tem controlo total e pode decidir quando mostrar ou ocultar anexos durante o jogo.  
+> 🎮 **Em jogos normais:** Todos os anexos dentro de um espaço são mostrados **simultaneamente**.
+
+Os detalhes sobre o momento em que cada espaço aparece e o seu comportamento estão na documentação associada para [perguntas](../editor/015-importing-questions.md), [rondas](../editor/008-round-options.md) e [quizzes](../editor/007-quiz-options.md).
