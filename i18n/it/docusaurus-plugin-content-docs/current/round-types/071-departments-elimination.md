@@ -1,28 +1,28 @@
 ---
 id: department-elimination
-title: Department Elimination
+title: Eliminazione per reparto
 ---
 
-# 🏢 Department elimination
+# 🏢 Eliminazione per reparto
 
-**Department elimination** is a special event that removes players from a specific department, using the same elimination criteria as the standard [Elimination](050-elimination.md) round.
-
----
-
-## 📝 How it works
-
-- When this event is triggered, only players or teams belonging to the selected department are considered for elimination.
-- The elimination criteria are flexible:
-  - **Kick the lowest ranked in the department** until a set number of players remain
-  - **Kick the highest ranked in the department** until a set number remain
-  - **Kick a specific number of lowest ranked** in the department
-  - **Kick a specific number of highest ranked** in the department
-- The number of players to keep or eliminate can be set as an exact number or percentage.
+**L'eliminazione per reparto** è un evento speciale che rimuove i giocatori da un reparto specifico, usando gli stessi criteri di eliminazione del round standard [Eliminazione](050-elimination.md).
 
 ---
 
-> Department elimination lets you run knockouts within a group or department, perfect for tournaments or themed competitions.
+## 📝 Come funziona
+
+- Quando questo evento viene attivato, vengono presi in considerazione per l'eliminazione solo i giocatori o le squadre appartenenti al reparto selezionato.
+- I criteri di eliminazione sono flessibili:
+  - **Elimina chi ha il punteggio più basso nel reparto** finché rimane un numero prestabilito di giocatori
+  - **Elimina chi ha il punteggio più alto nel reparto** finché rimane un numero prestabilito
+  - **Elimina un numero specifico di giocatori con il punteggio più basso** nel reparto
+  - **Elimina un numero specifico di giocatori con il punteggio più alto** nel reparto
+- Il numero di giocatori da mantenere o eliminare può essere impostato come numero esatto o percentuale.
 
 ---
 
-For more on elimination options, see the [Elimination round](050-elimination.md) or [Round options](../editor/008-round-options.md).
+> L'eliminazione per reparto ti permette di fare eliminazioni dirette all'interno di un gruppo o reparto, perfetta per tornei o competizioni a tema.
+
+---
+
+Per saperne di più sulle opzioni di eliminazione, vedi il [round Eliminazione](050-elimination.md) o le [opzioni del round](../editor/008-round-options.md).
