@@ -1,71 +1,71 @@
 ---
 id: import-questions
-title: Import questions
+title: Kérdések importálása
 ---
 
-# 📥 Import questions
+# 📥 Kérdések importálása
 
-There are two ways to quickly add questions to a round in QuizWitz:
+Két módon adhatsz gyorsan kérdéseket egy fordulóhoz a QuizWitzben:
 
-- Import existing content from the **QuizWitz Library**
-- Paste a list of questions from a **spreadsheet**
+- Importálj meglévő tartalmat a **QuizWitz Library** könyvtárból
+- Illessz be egy kérdéslistát egy **táblázatból**
 
-Both options are accessible from within any round.
-
----
-
-## 📚 Import from the QuizWitz Library
-
-Use the **QuizWitz Library** tab to search and import questions, rounds, or quizzes created by yourself or other creators.
-
-1. Open the round where you want to import content
-2. Click the **QuizWitz Library** tab
-3. Use filters like language, collection, type, category, or tags
-4. Select one or more entries
-5. Click **Add X items** to insert the selected content into your quiz
-
-![QuizWitz Library](/images/import/import-from-quizwitz.png)
-
-> ✅ Use this method to reuse high-quality content or combine multiple public Round-Abouts into a larger quiz.
+Mindkét lehetőség bármelyik fordulón belül elérhető.
 
 ---
 
-## 📋 Import from a spreadsheet
+## 📚 Importálás a QuizWitz Library könyvtárból
 
-To quickly create many questions at once, use the **Import from spreadsheet** tab.
+A **QuizWitz Library** lapon kereshetsz és importálhatsz olyan kérdéseket, fordulókat vagy kvízeket, amelyeket te vagy más készítők hoztak létre.
 
-1. Open a round
-2. Click the **Import from spreadsheet** tab
-3. Paste rows of **tab-separated** values (copied from Excel, Google Sheets, etc.)
-4. Click **Import questions**
+1. Nyisd meg azt a fordulót, ahová tartalmat szeretnél importálni
+2. Kattints a **QuizWitz Library** lapra
+3. Használj szűrőket, például nyelv, gyűjtemény, típus, kategória vagy címkék szerint
+4. Válassz ki egy vagy több bejegyzést
+5. Kattints az **X elem hozzáadása** gombra, hogy a kiválasztott tartalmat beilleszd a kvízedbe
 
-![Import from spreadsheet](/images/import/import-from-spreadsheet.png)
+![QuizWitz könyvtár](/images/import/import-from-quizwitz.png)
 
----
-
-### 🗂️ Format for pasting
-
-Each row must contain the following columns in this exact order:
-
-1. **Short question** — Displayed on the player screen
-2. **Correct answer**
-3. **Wrong answer 1** (leave blank for open questions)
-4. **Wrong answer 2**
-5. **Wrong answer 3**
-6. **Short feedback** — Displayed on the player screen after answering
-7. **Long question** _(optional)_ — Displayed on the quizmaster screen
-8. **Long feedback** _(optional)_ — Explanation for the quizmaster to read aloud
-
-> 📌 The last two columns are only used in [QuizWitz Live](../quizmaster/001-introduction.md), but they must still be included (even if left empty).
+> ✅ Ezzel a módszerrel újrahasznosíthatsz kiváló minőségű tartalmakat, vagy több nyilvános Round-Abouts anyagot kombinálhatsz egy nagyobb kvízzé.
 
 ---
 
-## ✅ After importing
+## 📋 Importálás táblázatból
 
-Whether importing from the library or a spreadsheet:
+Ha gyorsan sok kérdést szeretnél egyszerre létrehozni, használd az **Importálás táblázatból** lapot.
 
-- Review your questions for formatting and clarity
-- Update any metadata like category, round type, or attachments
-- Don’t forget to **save your quiz**
+1. Nyiss meg egy fordulót
+2. Kattints az **Importálás táblázatból** lapra
+3. Illessz be **tabulátorral elválasztott** értékeket tartalmazó sorokat (Excelből, Google Sheetsből stb. másolva)
+4. Kattints a **Kérdések importálása** gombra
 
-📘 Want to enhance your questions further? Continue in the [Writing questions guide](../editor/005-writing-questions.md).
+![Importálás táblázatból](/images/import/import-from-spreadsheet.png)
+
+---
+
+### 🗂️ Beillesztési formátum
+
+Minden sornak a következő oszlopokat kell tartalmaznia pontosan ebben a sorrendben:
+
+1. **Rövid kérdés** — A játékos képernyőjén jelenik meg
+2. **Helyes válasz**
+3. **Hibás válasz 1** (hagyd üresen nyitott kérdésekhez)
+4. **Hibás válasz 2**
+5. **Hibás válasz 3**
+6. **Rövid visszajelzés** — A játékos képernyőjén jelenik meg válaszadás után
+7. **Hosszú kérdés** _(opcionális)_ — A quizmaster képernyőjén jelenik meg
+8. **Hosszú visszajelzés** _(opcionális)_ — Magyarázat, amelyet a quizmaster felolvashat
+
+> 📌 Az utolsó két oszlopot csak a [QuizWitz Live](../quizmaster/001-introduction.md) használja, de akkor is szerepelniük kell (még akkor is, ha üresen hagyod őket).
+
+---
+
+## ✅ Importálás után
+
+Akár a könyvtárból, akár táblázatból importálsz:
+
+- Nézd át a kérdéseidet formázás és érthetőség szempontjából
+- Frissítsd az olyan metaadatokat, mint a kategória, a fordulótípus vagy a mellékletek
+- Ne felejtsd el **elmenteni a kvízedet**
+
+📘 Szeretnéd még tovább fejleszteni a kérdéseidet? Folytasd a [Kérdések írása útmutatóban](../editor/005-writing-questions.md).
