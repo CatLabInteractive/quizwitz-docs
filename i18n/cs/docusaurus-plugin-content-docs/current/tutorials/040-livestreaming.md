@@ -1,113 +1,113 @@
 ---
 id: livestream-tutorial
-title: Livestream quiz
+title: Livestream kvíz
 ---
 
-# 📺 Hosting a livestream quiz
+# 📺 Pořádání livestream kvízu
 
-With QuizWitz Live, it’s easy to host a fully interactive livestream quiz on platforms like **Twitch**, **YouTube Live**, or **Facebook Live** — even for large audiences. This guide walks you through setup, delay handling, and presentation best practices.
+S QuizWitz Live je snadné pořádat plně interaktivní livestream kvíz na platformách jako **Twitch**, **YouTube Live** nebo **Facebook Live** — i pro velké publikum. Tahle příručka tě provede nastavením, řešením zpoždění a osvědčenými postupy pro prezentaci.
 
-> 🧭 If you're new to the Quizmaster app, start with the [**Quizmaster startup guide**](../quizmaster/002-startup.md).
-
----
-
-## 🎤 The quizmaster setup
-
-The quizmaster is the heart of your event. They control the pacing, present the questions, and keep your audience engaged.
-
-Use the **Quizmaster app** to run the game. Launch QuizWitz Live from the quiz editor by clicking **Start QuizWitz Live**.
-
-> 💡 The Quizmaster app is a **web app** — there’s no installation. Just go to [**quizwitz.tv**](https://quizwitz.tv) on your presentation device and enter the **Master Code**.
-
-We recommend using a **tablet or smartphone** so the quizmaster can move freely during the show.
+> 🧭 Pokud jsi v aplikaci Quizmaster nový/á, začni [**úvodní příručkou pro Quizmaster**](../quizmaster/002-startup.md).
 
 ---
 
-## 🧩 Choosing the right game mode
+## 🎤 Nastavení quizmaster
 
-When starting QuizWitz Live, you’ll be asked to choose a mode:
+quizmaster je srdcem celé tvé akce. Řídí tempo, prezentuje otázky a udržuje publikum zapojené.
 
-- **Regular mode** — Players or teams each receive a unique code. Useful for pre-registered team events.
-- **Ad-hoc mode** — One shared Game Code for all players. Best for livestreams with open registration.
+Ke spuštění hry použij **aplikaci Quizmaster**. Spusť QuizWitz Live z editoru kvízu kliknutím na **Start QuizWitz Live**.
 
-> For livestreams, always choose **Ad-hoc mode** and click **Start ad-hoc game**.
+> 💡 Aplikace Quizmaster je **webová aplikace** — není potřeba žádná instalace. Stačí na prezentačním zařízení otevřít [**quizwitz.tv**](https://quizwitz.tv) a zadat **Master Code**.
 
-Once the quiz loads, the Quizmaster app will display:
-
-- **Master Code** — for the quizmaster
-- **Jury Code** — for reviewing open questions
-- **Regie Code** — for controlling visuals/audio
-- **Game Code** — for players to join
-
-Your game screen now shows the **Connect screen**, which is what you should stream to your audience.
+Doporučujeme použít **tablet nebo smartphone**, aby se quizmaster mohl během show volně pohybovat.
 
 ---
 
-## 🎥 Streaming to Twitch (or others)
+## 🧩 Výběr správného herního režimu
 
-To stream your quiz, use broadcasting software. We recommend:
+Při spouštění QuizWitz Live budeš vyzván/a k výběru režimu:
 
-- **OBS Studio** (Open Broadcast Software) — free and powerful
-- Alternatives: Streamlabs, vMix, or native options for Zoom/Meet
+- **Běžný režim** — hráči nebo týmy dostanou každý svůj jedinečný kód. Hodí se pro předem registrované týmové akce.
+- **Ad-hoc režim** — jeden sdílený Game Code pro všechny hráče. Nejlepší pro livestreamy s otevřenou registrací.
 
-If you're using **meeting software** like Zoom or Google Meet:
+> Pro livestreamy vždy vyber **Ad-hoc režim** a klikni na **Start ad-hoc game**.
 
-- Simply share your screen
-- Press **Start** in the Quizmaster app
-- Players can participate in near real time
+Jakmile se kvíz načte, aplikace Quizmaster zobrazí:
 
-For **Twitch, YouTube Live, or Facebook Live**, you’ll experience a **streaming delay** (aka transcoding delay).
+- **Master Code** — pro quizmaster
+- **Jury Code** — pro kontrolu otevřených otázek
+- **Regie Code** — pro ovládání obrazu/audia
+- **Game Code** — aby se hráči mohli připojit
 
-> ✅ We recommend **Twitch** for best results — it consistently offers low-latency performance and good viewer sync.
-
----
-
-## ⏱️ Setting the QuizWitz player delay
-
-To compensate for stream delay, use the **player interaction delay** in the Jury app.
-
-Here’s how:
-
-1. Start your stream preview — no need to go live yet
-2. Open the **Jury app** by entering your Jury Code at [**catlab.tv**](https://catlab.tv)
-3. Go to **Game control**
-4. Open your livestream in another window, with sound
-5. Use a stopwatch
-6. In the Jury app, hit the **Buzzer** button and start timing
-7. When you hear the buzzer on the livestream, stop the stopwatch
-8. Round up the delay (in seconds) and enter it in the **Player interaction delay** field
-9. Click **Confirm setting**
-
-> 🎯 It’s better to slightly overestimate the delay. This ensures players see the answer options only **after** you’ve finished reading the question.
+Na herní obrazovce se teď zobrazuje **obrazovka připojení**, kterou bys měl/a streamovat publiku.
 
 ---
 
-## 🚀 Going live
+## 🎥 Streamování na Twitch (nebo jinde)
 
-Once the delay is set and your players are connected:
+Ke streamování kvízu použij vysílací software. Doporučujeme:
 
-- Start your Twitch stream
-- Use the Quizmaster app to **launch the quiz**
-- QuizWitz will handle timing in the background — no need to pause between questions
+- **OBS Studio** (Open Broadcast Software) — zdarma a výkonné
+- Alternativy: Streamlabs, vMix nebo nativní možnosti pro Zoom/Meet
+
+Pokud používáš **software pro schůzky** jako Zoom nebo Google Meet:
+
+- Jednoduše sdílej svou obrazovku
+- Stiskni **Start** v aplikaci Quizmaster
+- Hráči se můžou zapojit téměř v reálném čase
+
+U **Twitch, YouTube Live nebo Facebook Live** narazíš na **zpoždění streamu** (také zpoždění překódování).
+
+> ✅ Pro nejlepší výsledky doporučujeme **Twitch** — stabilně nabízí nízkou latenci a dobrou synchronizaci diváků.
 
 ---
 
-## 💡 Livestream presentation tips
+## ⏱️ Nastavení zpoždění hráče QuizWitz
 
-- **Do not let the quizmaster watch the delayed stream** — they should use only the live Quizmaster app to avoid awkward pauses.
+Pro kompenzaci zpoždění streamu použij **zpoždění interakce hráče** v aplikaci Jury.
 
-- To interact with the audience, monitor **live comments** on a separate screen — not the video feed.
+Tady je postup:
 
-- Want to switch OBS scenes automatically? Use:  
+1. Spusť náhled streamu — zatím není potřeba jít živě
+2. Otevři **aplikaci Jury** zadáním svého Jury Code na [**catlab.tv**](https://catlab.tv)
+3. Přejdi na **Game control**
+4. Otevři svůj livestream v jiném okně, se zvukem
+5. Použij stopky
+6. V aplikaci Jury stiskni tlačítko **Buzzer** a začni měřit čas
+7. Až v livestreamu uslyšíš bzučák, zastav stopky
+8. Zaokrouhli zpoždění nahoru (v sekundách) a zadej ho do pole **Player interaction delay**
+9. Klikni na **Confirm setting**
+
+> 🎯 Je lepší zpoždění mírně nadhodnotit. Tím zajistíš, že hráči uvidí možnosti odpovědí až **poté**, co dočteš otázku.
+
+---
+
+## 🚀 Jdeme živě
+
+Jakmile je zpoždění nastavené a hráči jsou připojení:
+
+- Spusť svůj stream na Twitch
+- Použij aplikaci Quizmaster ke **spuštění kvízu**
+- QuizWitz se postará o načasování na pozadí — mezi otázkami není potřeba dělat pauzy
+
+---
+
+## 💡 Tipy pro prezentaci livestreamu
+
+- **Nenech quizmaster sledovat zpožděný stream** — měl by používat jen živou aplikaci Quizmaster, aby se předešlo trapným pauzám.
+
+- Pro interakci s publikem sleduj **živé komentáře** na samostatné obrazovce — ne video feed.
+
+- Chceš automaticky přepínat scény v OBS? Použij:  
   [`https://regie.catlab.eu/obs.html`](https://regie.catlab.eu/obs.html)
 
-- Want to trigger MIDI devices during the game? Try:  
+- Chceš během hry spouštět MIDI zařízení? Vyzkoušej:  
   [`https://regie.catlab.eu/midi.html`](https://regie.catlab.eu/midi.html)
 
-- Looking for more tools? Visit [**regie.catlab.eu**](https://regie.catlab.eu) — a central hub with additional utilities for automation, scene switching, effects, and more.
+- Hledáš další nástroje? Navštiv [**regie.catlab.eu**](https://regie.catlab.eu) — centrální hub s dalšími nástroji pro automatizaci, přepínání scén, efekty a další věci.
 
-> All tools require your **Regie Code** from the Quizmaster app.
+> Všechny nástroje vyžadují tvůj **Regie Code** z aplikace Quizmaster.
 
 ---
 
-You're ready to go live! Twitch offers a smooth, responsive platform for hosting large-scale quiz events. Combine that with QuizWitz Live — and your quiz night is set to impress.
+Jsi připravený/á jít živě! Twitch nabízí plynulou a svižnou platformu pro pořádání velkých kvízových akcí. Zkombinuj to s QuizWitz Live — a tvůj kvízový večer bude fakt působivý.
