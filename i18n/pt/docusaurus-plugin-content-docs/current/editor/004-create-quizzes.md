@@ -1,96 +1,96 @@
 ---
 id: create-quizzes
-title: Create quizzes
+title: Criar quizzes
 ---
 
-# 🧠 Create a Full Quiz
+# 🧠 Criar um quiz completo
 
-Want to build a complete quiz experience for players or events? This guide walks you through creating a full quiz using multiple rounds — including your own questions or Round-Abouts you've collected.
-
----
-
-## 🎬 Getting started
-
-From the main menu:
-
-1. Click **Create**
-2. Choose **Quiz** from the dropdown
-
-![QuizWitz create quiz](/images/create-quiz.png)
+Queres criar uma experiência de quiz completa para jogadores ou eventos? Este guia mostra-te como criar um quiz completo usando várias rondas — incluindo as tuas próprias perguntas ou Round-Abouts que recolheste.
 
 ---
 
-## ✏️ Title and language
+## 🎬 Como começar
 
-Give your quiz a title and choose the main language.  
-You can add **translations** later if needed — no need to decide everything upfront.
+No menu principal:
 
----
+1. Clica em **Criar**
+2. Escolhe **Quiz** no menu suspenso
 
-## ➕ Add rounds and questions
-
-Click **Add new round** to begin building your quiz. Each round can include its own settings and structure.
-
-On the left sidebar, you’ll be able to:
-
-- Name the round
-- Choose a category
-- [Import questions](../editor/015-importing-questions.md) in bulk
-
-![Create new round in quiz](/images/quiz-add-round.png)
-
-In the main editor, you can:
-
-- Add and edit individual questions
-- Reorder rounds or questions using the **arrow buttons**
-- Delete rounds or questions using the **trash bin icon**
-
-> 💡 Use the **Import questions** tool to quickly add multiple questions at once. Just follow the on-screen instructions and [check that everything imported correctly](../editor/015-importing-questions.md).
+![Criar quiz no QuizWitz](/images/create-quiz.png)
 
 ---
 
-## ⚙️ Round settings
+## ✏️ Título e idioma
 
-Each round can have its own rules and format. Learn more in the advanced guides:
-
-- [Round types](../round-types/000-round-types.md) — Configure how a round behaves (e.g., lightning round, puzzle round)
-- [Question types](../question-types/000-question-types.md) — Adjust the format and scoring for each question
+Dá um título ao teu quiz e escolhe o idioma principal.  
+Podes adicionar **traduções** mais tarde, se precisares — não tens de decidir tudo logo de início.
 
 ---
 
-## 💾 Save and manage your quiz
+## ➕ Adicionar rondas e perguntas
 
-Remember to:
+Clica em **Adicionar nova ronda** para começar a criar o teu quiz. Cada ronda pode incluir as suas próprias definições e estrutura.
 
-- **Save** your quiz regularly
-- **Test and play** at any time
-- **Publish** your quiz when it’s ready to share
+Na barra lateral esquerda, vais poder:
 
-> 📢 To publish a quiz, it must contain **at least 14 questions**. Once published, it becomes available to the community — but you can unpublish it later if needed.
+- Dar um nome à ronda
+- Escolher uma categoria
+- [Importar perguntas](../editor/015-importing-questions.md) em massa
 
-> 📝 **Publishing is entirely optional.** You can play any quiz or Round-About privately without publishing it. This is great for personal use, testing, or private events.
+![Criar nova ronda no quiz](/images/quiz-add-round.png)
 
----
+No editor principal, podes:
 
-## ▶️ Testing & playing
+- Adicionar e editar perguntas individuais
+- Reordenar rondas ou perguntas usando os **botões de seta**
+- Eliminar rondas ou perguntas usando o **ícone do caixote do lixo**
 
-When you're ready to test or run your quiz, press the **Start Quiz** button. You’ll see the following options:
-
-![Quiz playlinks](/images/quiz-playlinks.png)
-
-- **[Play Party Game](../players/001-playing-quizwitz.md)** — A casual quiz experience to enjoy with friends on the same screen or via screenshare
-- **[Start QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Launch a professional live quiz event using the Quizmaster App
-- **[Start Conference Mode (PRO)](../tutorials/050-conference-booth.md)** — Host a conference-style quiz for larger audiences with assigned seating, team codes, and production tools
+> 💡 Usa a ferramenta **Importar perguntas** para adicionar rapidamente várias perguntas de uma só vez. Basta seguires as instruções no ecrã e [verificares se tudo foi importado corretamente](../editor/015-importing-questions.md).
 
 ---
 
-### 🧪 Advanced testing options
+## ⚙️ Definições da ronda
 
-Want to simulate a full quiz run-through? Use the advanced testing tools:
+Cada ronda pode ter as suas próprias regras e formato. Sabe mais nos guias avançados:
 
-- **Simulate** — Run a test playthrough with bots (no presentation)
-- **Simulate Live** — Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) session with bots, including Quizmaster, Jury, and Player views
+- [Tipos de ronda](../round-types/000-round-types.md) — Configura como uma ronda se comporta (por exemplo, ronda relâmpago, ronda de puzzle)
+- [Tipos de pergunta](../question-types/000-question-types.md) — Ajusta o formato e a pontuação de cada pergunta
 
 ---
 
-Ready to test your creativity? Start building and bring your quiz to life!
+## 💾 Guardar e gerir o teu quiz
+
+Lembra-te de:
+
+- **Guardar** o teu quiz regularmente
+- **Testar e jogar** a qualquer momento
+- **Publicar** o teu quiz quando estiver pronto para partilhar
+
+> 📢 Para publicar um quiz, ele tem de conter **pelo menos 14 perguntas**. Depois de publicado, fica disponível para a comunidade — mas podes despublicá-lo mais tarde, se precisares.
+
+> 📝 **Publicar é totalmente opcional.** Podes jogar qualquer quiz ou Round-About em privado sem o publicar. Isto é ótimo para uso pessoal, testes ou eventos privados.
+
+---
+
+## ▶️ Testar e jogar
+
+Quando estiveres pronto para testar ou executar o teu quiz, prime o botão **Iniciar quiz**. Vais ver as seguintes opções:
+
+![Links para jogar o quiz](/images/quiz-playlinks.png)
+
+- **[Jogar jogo de festa](../players/001-playing-quizwitz.md)** — Uma experiência de quiz descontraída para desfrutar com amigos no mesmo ecrã ou por partilha de ecrã
+- **[Iniciar QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Lança um evento de quiz ao vivo profissional usando a App Quizmaster
+- **[Iniciar modo conferência (PRO)](../tutorials/050-conference-booth.md)** — Organiza um quiz em estilo de conferência para públicos maiores com lugares atribuídos, códigos de equipa e ferramentas de produção
+
+---
+
+### 🧪 Opções avançadas de teste
+
+Queres simular uma execução completa do quiz? Usa as ferramentas avançadas de teste:
+
+- **Simular** — Faz uma jogada de teste com bots (sem apresentação)
+- **Simular Live** — Simula uma sessão completa de [QuizWitz Live](../quizmaster/001-introduction.md) com bots, incluindo vistas de Quizmaster, Júri e Jogador
+
+---
+
+Pronto para testar a tua criatividade? Começa a criar e dá vida ao teu quiz!
