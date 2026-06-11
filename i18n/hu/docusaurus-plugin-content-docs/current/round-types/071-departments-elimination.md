@@ -1,28 +1,28 @@
 ---
 id: department-elimination
-title: Department Elimination
+title: Részlegkiesés
 ---
 
-# 🏢 Department elimination
+# 🏢 Részlegkiesés
 
-**Department elimination** is a special event that removes players from a specific department, using the same elimination criteria as the standard [Elimination](050-elimination.md) round.
-
----
-
-## 📝 How it works
-
-- When this event is triggered, only players or teams belonging to the selected department are considered for elimination.
-- The elimination criteria are flexible:
-  - **Kick the lowest ranked in the department** until a set number of players remain
-  - **Kick the highest ranked in the department** until a set number remain
-  - **Kick a specific number of lowest ranked** in the department
-  - **Kick a specific number of highest ranked** in the department
-- The number of players to keep or eliminate can be set as an exact number or percentage.
+**A részlegkiesés** egy különleges esemény, amely eltávolítja a játékosokat egy adott részlegből, ugyanazokat a kiesési feltételeket használva, mint a szokásos [Kiesés](050-elimination.md) kör.
 
 ---
 
-> Department elimination lets you run knockouts within a group or department, perfect for tournaments or themed competitions.
+## 📝 Hogyan működik
+
+- Amikor ez az esemény elindul, csak a kiválasztott részleghez tartozó játékosokat vagy csapatokat vesszük figyelembe a kiesésnél.
+- A kiesési feltételek rugalmasak:
+  - **A részleg legalacsonyabb helyezésű játékosainak kirúgása**, amíg egy megadott számú játékos marad
+  - **A részleg legmagasabb helyezésű játékosainak kirúgása**, amíg egy megadott számú játékos marad
+  - **Megadott számú legalacsonyabb helyezésű játékos kirúgása** a részlegből
+  - **Megadott számú legmagasabb helyezésű játékos kirúgása** a részlegből
+- A megtartandó vagy kiejtendő játékosok számát pontos számként vagy százalékként is beállíthatod.
 
 ---
 
-For more on elimination options, see the [Elimination round](050-elimination.md) or [Round options](../editor/008-round-options.md).
+> A részlegkieséssel csoporton vagy részlegen belüli kieséses fordulókat futtathatsz, ami tökéletes versenyekhez vagy tematikus megmérettetésekhez.
+
+---
+
+A kiesési lehetőségekről bővebben lásd a [Kieséses kört](050-elimination.md) vagy a [Körbeállításokat](../editor/008-round-options.md).
