@@ -1,11 +1,11 @@
 {
   "title": {
     "message": "ब्लॉग",
-    "description": "The title for the blog used in SEO"
+    "description": "Navigation label or content type name for blog posts."
   },
   "description": {
     "message": "ब्लॉग",
-    "description": "The description for the blog used in SEO"
+    "description": "Navigation label or content type name for blog posts."
   },
   "sidebar.title": {
     "message": "हाल की पोस्ट",
