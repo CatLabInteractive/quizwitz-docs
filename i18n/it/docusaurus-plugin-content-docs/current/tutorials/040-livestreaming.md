@@ -1,113 +1,113 @@
 ---
 id: livestream-tutorial
-title: Livestream quiz
+title: Quiz in diretta streaming
 ---
 
-# 📺 Hosting a livestream quiz
+# 📺 Organizzare un quiz in diretta streaming
 
-With QuizWitz Live, it’s easy to host a fully interactive livestream quiz on platforms like **Twitch**, **YouTube Live**, or **Facebook Live** — even for large audiences. This guide walks you through setup, delay handling, and presentation best practices.
+Con QuizWitz Live è facile organizzare un quiz in diretta streaming completamente interattivo su piattaforme come **Twitch**, **YouTube Live** o **Facebook Live** — anche per un pubblico numeroso. Questa guida ti accompagna nella configurazione, nella gestione del ritardo e nelle migliori pratiche per la presentazione.
 
-> 🧭 If you're new to the Quizmaster app, start with the [**Quizmaster startup guide**](../quizmaster/002-startup.md).
-
----
-
-## 🎤 The quizmaster setup
-
-The quizmaster is the heart of your event. They control the pacing, present the questions, and keep your audience engaged.
-
-Use the **Quizmaster app** to run the game. Launch QuizWitz Live from the quiz editor by clicking **Start QuizWitz Live**.
-
-> 💡 The Quizmaster app is a **web app** — there’s no installation. Just go to [**quizwitz.tv**](https://quizwitz.tv) on your presentation device and enter the **Master Code**.
-
-We recommend using a **tablet or smartphone** so the quizmaster can move freely during the show.
+> 🧭 Se non conosci ancora l’app Quizmaster, inizia con la [**guida introduttiva di Quizmaster**](../quizmaster/002-startup.md).
 
 ---
 
-## 🧩 Choosing the right game mode
+## 🎤 La configurazione del quizmaster
 
-When starting QuizWitz Live, you’ll be asked to choose a mode:
+Il quizmaster è il cuore del tuo evento. Gestisce il ritmo, presenta le domande e mantiene coinvolto il pubblico.
 
-- **Regular mode** — Players or teams each receive a unique code. Useful for pre-registered team events.
-- **Ad-hoc mode** — One shared Game Code for all players. Best for livestreams with open registration.
+Usa l’**app Quizmaster** per gestire il gioco. Avvia QuizWitz Live dall’editor del quiz cliccando su **Avvia QuizWitz Live**.
 
-> For livestreams, always choose **Ad-hoc mode** and click **Start ad-hoc game**.
+> 💡 L’app Quizmaster è una **web app** — non serve installare nulla. Vai semplicemente su [**quizwitz.tv**](https://quizwitz.tv) dal dispositivo di presentazione e inserisci il **Codice Master**.
 
-Once the quiz loads, the Quizmaster app will display:
-
-- **Master Code** — for the quizmaster
-- **Jury Code** — for reviewing open questions
-- **Regie Code** — for controlling visuals/audio
-- **Game Code** — for players to join
-
-Your game screen now shows the **Connect screen**, which is what you should stream to your audience.
+Ti consigliamo di usare un **tablet o smartphone** così il quizmaster può muoversi liberamente durante lo show.
 
 ---
 
-## 🎥 Streaming to Twitch (or others)
+## 🧩 Scegliere la modalità di gioco giusta
 
-To stream your quiz, use broadcasting software. We recommend:
+Quando avvii QuizWitz Live, ti verrà chiesto di scegliere una modalità:
 
-- **OBS Studio** (Open Broadcast Software) — free and powerful
-- Alternatives: Streamlabs, vMix, or native options for Zoom/Meet
+- **Modalità normale** — Giocatori o squadre ricevono ciascuno un codice univoco. Utile per eventi a squadre con pre-registrazione.
+- **Modalità ad-hoc** — Un unico Codice Gioco condiviso per tutti i giocatori. Ideale per dirette streaming con registrazione aperta.
 
-If you're using **meeting software** like Zoom or Google Meet:
+> Per le dirette streaming, scegli sempre la **modalità ad-hoc** e clicca su **Avvia partita ad-hoc**.
 
-- Simply share your screen
-- Press **Start** in the Quizmaster app
-- Players can participate in near real time
+Una volta caricato il quiz, l’app Quizmaster mostrerà:
 
-For **Twitch, YouTube Live, or Facebook Live**, you’ll experience a **streaming delay** (aka transcoding delay).
+- **Codice Master** — per il quizmaster
+- **Codice Jury** — per controllare le domande aperte
+- **Codice Regie** — per controllare elementi visivi/audio
+- **Codice Gioco** — per permettere ai giocatori di entrare
 
-> ✅ We recommend **Twitch** for best results — it consistently offers low-latency performance and good viewer sync.
-
----
-
-## ⏱️ Setting the QuizWitz player delay
-
-To compensate for stream delay, use the **player interaction delay** in the Jury app.
-
-Here’s how:
-
-1. Start your stream preview — no need to go live yet
-2. Open the **Jury app** by entering your Jury Code at [**catlab.tv**](https://catlab.tv)
-3. Go to **Game control**
-4. Open your livestream in another window, with sound
-5. Use a stopwatch
-6. In the Jury app, hit the **Buzzer** button and start timing
-7. When you hear the buzzer on the livestream, stop the stopwatch
-8. Round up the delay (in seconds) and enter it in the **Player interaction delay** field
-9. Click **Confirm setting**
-
-> 🎯 It’s better to slightly overestimate the delay. This ensures players see the answer options only **after** you’ve finished reading the question.
+La schermata di gioco ora mostra la **schermata di connessione**, che è quella da trasmettere al tuo pubblico.
 
 ---
 
-## 🚀 Going live
+## 🎥 Trasmettere su Twitch (o altrove)
 
-Once the delay is set and your players are connected:
+Per trasmettere il tuo quiz, usa un software di broadcasting. Ti consigliamo:
 
-- Start your Twitch stream
-- Use the Quizmaster app to **launch the quiz**
-- QuizWitz will handle timing in the background — no need to pause between questions
+- **OBS Studio** (Open Broadcast Software) — gratuito e potente
+- Alternative: Streamlabs, vMix oppure le opzioni native di Zoom/Meet
+
+Se usi un **software per riunioni** come Zoom o Google Meet:
+
+- Condividi semplicemente lo schermo
+- Premi **Avvia** nell’app Quizmaster
+- I giocatori possono partecipare quasi in tempo reale
+
+Con **Twitch, YouTube Live o Facebook Live**, noterai un **ritardo dello streaming** (detto anche ritardo di transcodifica).
+
+> ✅ Ti consigliamo **Twitch** per ottenere i risultati migliori — offre costantemente bassa latenza e una buona sincronizzazione degli spettatori.
 
 ---
 
-## 💡 Livestream presentation tips
+## ⏱️ Impostare il ritardo dei giocatori di QuizWitz
 
-- **Do not let the quizmaster watch the delayed stream** — they should use only the live Quizmaster app to avoid awkward pauses.
+Per compensare il ritardo dello stream, usa il **ritardo di interazione dei giocatori** nell’app Jury.
 
-- To interact with the audience, monitor **live comments** on a separate screen — not the video feed.
+Ecco come fare:
 
-- Want to switch OBS scenes automatically? Use:  
+1. Avvia l’anteprima dello stream — non serve ancora andare in diretta
+2. Apri l’**app Jury** inserendo il tuo Codice Jury su [**catlab.tv**](https://catlab.tv)
+3. Vai a **Controllo gioco**
+4. Apri la tua diretta streaming in un’altra finestra, con l’audio attivo
+5. Usa un cronometro
+6. Nell’app Jury, premi il pulsante **Buzzer** e avvia il cronometro
+7. Quando senti il buzzer nella diretta streaming, ferma il cronometro
+8. Arrotonda il ritardo per eccesso (in secondi) e inseriscilo nel campo **Ritardo interazione giocatori**
+9. Clicca su **Conferma impostazione**
+
+> 🎯 È meglio sovrastimare leggermente il ritardo. Così i giocatori vedranno le opzioni di risposta solo **dopo** che avrai finito di leggere la domanda.
+
+---
+
+## 🚀 Andare in diretta
+
+Una volta impostato il ritardo e con i giocatori connessi:
+
+- Avvia il tuo stream su Twitch
+- Usa l’app Quizmaster per **avviare il quiz**
+- QuizWitz gestirà i tempi in background — non serve fare pause tra una domanda e l’altra
+
+---
+
+## 💡 Consigli per presentare una diretta streaming
+
+- **Non lasciare che il quizmaster guardi lo stream in ritardo** — dovrebbe usare solo l’app Quizmaster live per evitare pause imbarazzanti.
+
+- Per interagire con il pubblico, tieni d’occhio i **commenti in diretta** su uno schermo separato — non il feed video.
+
+- Vuoi cambiare automaticamente le scene di OBS? Usa:  
   [`https://regie.catlab.eu/obs.html`](https://regie.catlab.eu/obs.html)
 
-- Want to trigger MIDI devices during the game? Try:  
+- Vuoi attivare dispositivi MIDI durante il gioco? Prova:  
   [`https://regie.catlab.eu/midi.html`](https://regie.catlab.eu/midi.html)
 
-- Looking for more tools? Visit [**regie.catlab.eu**](https://regie.catlab.eu) — a central hub with additional utilities for automation, scene switching, effects, and more.
+- Cerchi altri strumenti? Visita [**regie.catlab.eu**](https://regie.catlab.eu) — un hub centrale con utilità aggiuntive per automazione, cambio scene, effetti e altro.
 
-> All tools require your **Regie Code** from the Quizmaster app.
+> Tutti gli strumenti richiedono il tuo **Codice Regie** dall’app Quizmaster.
 
 ---
 
-You're ready to go live! Twitch offers a smooth, responsive platform for hosting large-scale quiz events. Combine that with QuizWitz Live — and your quiz night is set to impress.
+Sei pronto per andare in diretta! Twitch offre una piattaforma fluida e reattiva per organizzare eventi quiz su larga scala. Abbinala a QuizWitz Live — e la tua serata quiz farà davvero colpo.
