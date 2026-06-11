@@ -1,43 +1,43 @@
 ---
 id: departments-dealers-choice
-title: Department Dealer's Choice
+title: Volba dealera podle oddělení
 ---
 
-# 🏢 Department Dealer’s Choice
+# 🏢 Volba dealera podle oddělení
 
-**Department Dealer’s Choice** is an interactive round type where players from a specific department take turns selecting the next category or question.
-
----
-
-## 📝 How it works
-
-- A single **department** is selected to play this round.
-- A **dealer** is chosen from within that department (by ranking or at random) to pick the next category or question.
-- Depending on settings, **only the dealer** or **all players in the dealer's department** can answer and score points for the selected question.
+**Volba dealera podle oddělení** je interaktivní typ kola, ve kterém se hráči z konkrétního oddělení střídají ve výběru další kategorie nebo otázky.
 
 ---
 
-## ⚙️ Settings
+## 📝 Jak to funguje
 
-- **Department number:** Choose which department is playing this round.
-- **Dealer selection:**
-  - Lowest ranked first
-  - Highest ranked first
-  - Random
-- **Dealer department:**
-  - _Only dealer may play_ — Only the selected dealer answers the question
-  - _All players in dealer’s department may play_ — Everyone in the department can answer and score points
-- **Dealer bonus:**  
-  Set a bonus percentage for the dealer (if enabled).
+- Pro toto kolo se vybere jedno **oddělení**.
+- Z tohoto oddělení se vybere **dealer** (podle pořadí nebo náhodně), který zvolí další kategorii nebo otázku.
+- Podle nastavení může na vybranou otázku odpovídat a získávat body **jen dealer**, nebo **všichni hráči v dealerově oddělení**.
 
 ---
 
-## 💡 Tips
+## ⚙️ Nastavení
 
-- Use this mode for team-based competitions or when you want to give specific groups a chance to shine.
-- Dealer’s Choice rounds keep the game dynamic and engaging, with added strategy for departments.
+- **Číslo oddělení:** Vyber, které oddělení bude hrát toto kolo.
+- **Výběr dealera:**
+  - Nejdřív nejníže umístění
+  - Nejdřív nejvýše umístění
+  - Náhodně
+- **Dealerovo oddělení:**
+  - _Hrát může jen dealer_ — Na otázku odpovídá jen vybraný dealer
+  - _Hrát můžou všichni hráči v dealerově oddělení_ — Každý v oddělení může odpovídat a získávat body
+- **Bonus pro dealera:**  
+  Nastav procentuální bonus pro dealera (pokud je zapnutý).
 
 ---
 
-For classic Dealer’s Choice rules, see [Dealer’s Choice](024-dealers-choice.md).  
-For more team game options, check [Round options](../editor/008-round-options.md).
+## 💡 Tipy
+
+- Použij tento režim pro týmové soutěže nebo když chceš dát konkrétním skupinám šanci zazářit.
+- Kola s volbou dealera udržují hru dynamickou a zábavnou a oddělením přidávají strategický prvek.
+
+---
+
+Klasická pravidla volby dealera najdeš v části [Volba dealera](024-dealers-choice.md).  
+Další možnosti týmové hry najdeš v části [Možnosti kola](../editor/008-round-options.md).
