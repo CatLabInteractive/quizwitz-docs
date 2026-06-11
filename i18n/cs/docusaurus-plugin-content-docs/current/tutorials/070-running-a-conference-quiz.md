@@ -65,7 +65,7 @@ Hráči se připojují pomocí vlastních smartphonů jedním ze dvou způsobů:
 
 Na obrazovce připojení:
 
-1. Zadejte **osmimístný kód** zobrazený na hlavním displeji.
+1. Zadejte **8místný kód** zobrazený na hlavním displeji.
 2. Vyplňte jejich **jméno a e-mailovou adresu**.
 3. Zaškrtněte **políčko pro ochranu osobních údajů**.
 4. Klepněte na **Číst**.
