@@ -1,28 +1,28 @@
 ---
 id: department-elimination
-title: Department Elimination
+title: Елиминация по отдели
 ---
 
-# 🏢 Department elimination
+# 🏢 Елиминация по отдели
 
-**Department elimination** is a special event that removes players from a specific department, using the same elimination criteria as the standard [Elimination](050-elimination.md) round.
-
----
-
-## 📝 How it works
-
-- When this event is triggered, only players or teams belonging to the selected department are considered for elimination.
-- The elimination criteria are flexible:
-  - **Kick the lowest ranked in the department** until a set number of players remain
-  - **Kick the highest ranked in the department** until a set number remain
-  - **Kick a specific number of lowest ranked** in the department
-  - **Kick a specific number of highest ranked** in the department
-- The number of players to keep or eliminate can be set as an exact number or percentage.
+**Елиминацията по отдели** е специално събитие, което премахва играчи от конкретен отдел, използвайки същите критерии за елиминация като стандартния кръг [Елиминация](050-elimination.md).
 
 ---
 
-> Department elimination lets you run knockouts within a group or department, perfect for tournaments or themed competitions.
+## 📝 Как работи
+
+- Когато това събитие се задейства, за елиминация се разглеждат само играчите или отборите, които принадлежат към избрания отдел.
+- Критериите за елиминация са гъвкави:
+  - **Изхвърли най-ниско класираните в отдела**, докато остане зададен брой играчи
+  - **Изхвърли най-високо класираните в отдела**, докато остане зададен брой
+  - **Изхвърли определен брой от най-ниско класираните** в отдела
+  - **Изхвърли определен брой от най-високо класираните** в отдела
+- Броят играчи, които да бъдат запазени или елиминирани, може да бъде зададен като точен брой или процент.
 
 ---
 
-For more on elimination options, see the [Elimination round](050-elimination.md) or [Round options](../editor/008-round-options.md).
+> Елиминацията по отдели ти позволява да провеждаш елиминации в рамките на група или отдел — идеално за турнири или тематични състезания.
+
+---
+
+За повече информация относно опциите за елиминация виж [кръг Елиминация](050-elimination.md) или [Опции за кръга](../editor/008-round-options.md).
