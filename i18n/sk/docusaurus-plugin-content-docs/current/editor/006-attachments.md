@@ -1,63 +1,63 @@
 ---
 id: attachments
-title: Attachments
+title: Prílohy
 ---
 
-# 📎 Attachments
+# 📎 Prílohy
 
-Attachments can be added in various slots throughout your quiz to enrich the experience with images, audio, or video.
+Prílohy môžeš pridávať na rôzne miesta v celom kvíze, aby si zážitok obohatil/a o obrázky, zvuk alebo video.
 
-These slots appear in the following parts of your quiz:
+Tieto miesta nájdeš v týchto častiach svojho kvízu:
 
-- [Questions](../editor/005-writing-questions.md)
-- [Rounds](../editor/008-round-options.md)
-- [Quizzes](../editor/007-quiz-options.md)
+- [Otázky](../editor/005-writing-questions.md)
+- [Kolá](../editor/008-round-options.md)
+- [Kvízy](../editor/007-quiz-options.md)
 
-Each page explains when these attachments are shown during gameplay.
+Každá stránka vysvetľuje, kedy sa tieto prílohy zobrazujú počas hrania.
 
-![Question attachments](/images/edit-question.png)
-
----
-
-## 🗂️ Supported file types
-
-Here is a general (non-exhaustive) list of compatible formats:
-
-- **Images** — `.png`, `.jpeg`, `.gif` (non-animated). Full HD (1920×1080) recommended
-- **Audio** — Most standard formats are supported
-- **Video** — Most standard formats are supported
-
-> 🔊 ⏱️ Audio and video attachments should be **no longer than 15 minutes** in duration.
+![Prílohy k otázke](/images/edit-question.png)
 
 ---
 
-## 📝 Name & attribution
+## 🗂️ Podporované typy súborov
 
-Each attachment can have a name and optional attribution:
+Tu je všeobecný (nie úplný) zoznam kompatibilných formátov:
 
-- **Name** — Displayed to the quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); helps in organizing attachments
-- **Attribution** — Shown to players as credit or source information. This should be the **name of the rights holder**.
+- **Obrázky** — `.png`, `.jpeg`, `.gif` (neanimované). Odporúča sa Full HD (1920×1080)
+- **Zvuk** — Podporovaná je väčšina štandardných formátov
+- **Video** — Podporovaná je väčšina štandardných formátov
 
-> ⚠️ In order to **publish** a Round-About or Quiz, **all attachments must have a valid attribution** filled in. Without this, your entry cannot be made public.
-
----
-
-## ✨ Attachment effects
-
-Some attachment slots support **effects** to reveal visuals more gradually:
-
-- **None** — The file is shown as-is
-- **Spotlight effect** — Gradually reveals parts of the image over time with a moving spotlight that expands as it progresses
-
-This is especially effective for puzzles or slow reveals during intros or dramatic moments.
+> 🔊 ⏱️ Zvukové a video prílohy by mali mať dĺžku **najviac 15 minút**.
 
 ---
 
-## 📚 Multiple attachments per slot
+## 📝 Názov a uvedenie zdroja
 
-Some slots allow adding **multiple attachments**. The way these behave depends on the game mode:
+Každá príloha môže mať názov a voliteľné uvedenie zdroja:
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** The quizmaster has full control and can decide when to show or hide attachments during gameplay.  
-> 🎮 **In regular games:** All attachments within a slot are shown **simultaneously**.
+- **Názov** — Zobrazuje sa pre quizmaster v [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); pomáha pri organizovaní príloh
+- **Uvedenie zdroja** — Zobrazuje sa hráčom ako informácia o autorovi alebo zdroji. Mal by to byť **názov držiteľa práv**.
 
-Details about each slot’s timing and behavior can be found in the linked documentation for [questions](../editor/015-importing-questions.md), [rounds](../editor/008-round-options.md), and [quizzes](../editor/007-quiz-options.md).
+> ⚠️ Aby bolo možné **zverejniť** Round-About alebo kvíz, **všetky prílohy musia mať vyplnené platné uvedenie zdroja**. Bez toho sa tvoj obsah nedá zverejniť.
+
+---
+
+## ✨ Efekty príloh
+
+Niektoré miesta pre prílohy podporujú **efekty**, ktoré postupne odhaľujú vizuály:
+
+- **Žiadny** — Súbor sa zobrazí tak, ako je
+- **Efekt reflektora** — Postupne odhaľuje časti obrázka pomocou pohyblivého reflektora, ktorý sa počas priebehu zväčšuje
+
+Je to obzvlášť účinné pri hádankách alebo pomalom odhaľovaní počas úvodov či dramatických momentov.
+
+---
+
+## 📚 Viac príloh na jedno miesto
+
+Niektoré miesta umožňujú pridať **viac príloh**. To, ako sa správajú, závisí od herného režimu:
+
+> ⚡ **V [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** quizmaster má plnú kontrolu a môže rozhodnúť, kedy počas hrania zobraziť alebo skryť prílohy.  
+> 🎮 **V bežných hrách:** Všetky prílohy v rámci jedného miesta sa zobrazia **naraz**.
+
+Podrobnosti o načasovaní a správaní jednotlivých miest nájdeš v prepojenej dokumentácii pre [otázky](../editor/015-importing-questions.md), [kolá](../editor/008-round-options.md) a [kvízy](../editor/007-quiz-options.md).
