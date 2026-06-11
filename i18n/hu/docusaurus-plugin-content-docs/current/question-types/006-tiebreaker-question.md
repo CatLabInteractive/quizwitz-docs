@@ -1,35 +1,35 @@
 ---
 id: tiebreaker-question
-title: Tiebreaker question
+title: Döntetlenfeloldó kérdés
 ---
 
-# 🏁 Tiebreaker question
+# 🏁 Döntetlenfeloldó kérdés
 
-The Tiebreaker question is used to resolve ties at the end of a quiz.  
-Players are asked to guess a number (for example, “How many beans are in the jar?”). The player whose answer is closest to the correct value will win in case of a tie.
-
----
-
-## 📝 How it works
-
-- **No points awarded:** The tiebreaker question does not award regular points.
-- **Shadow points:** Instead, it uses “shadow points” that are only considered when two or more players have the same total score.
-- **Closest wins:** The player with the answer closest to the correct value gets the higher position in the event of a tie.
+A döntetlenfeloldó kérdés arra szolgál, hogy a kvíz végén eldöntse a döntetleneket.  
+A játékosoknak meg kell tippelniük egy számot (például: „Hány babszem van az üvegben?”). Döntetlen esetén az a játékos nyer, akinek a válasza a legközelebb van a helyes értékhez.
 
 ---
 
-## 💡 Tips for tiebreaker questions
+## 📝 Így működik
 
-- **Ask for an obscure number:** Choose a question where the answer is not widely known and is unlikely to be guessed exactly.
-- **Encourage unique guesses:** Make sure the question has a wide possible range, so every player is likely to enter a different answer.
-- **Use only for ties:** Shadow points are only used as a tiebreaker and will not affect the main game ranking.
+- **Nincs pontozás:** A döntetlenfeloldó kérdésért nem járnak rendes pontok.
+- **Árnyékpontok:** Ehelyett „árnyékpontokat” használ, amelyeket csak akkor vesz figyelembe a rendszer, ha két vagy több játékosnak ugyanannyi az összpontszáma.
+- **A legközelebbi nyer:** Döntetlen esetén az a játékos kerül magasabb helyre, akinek a válasza a legközelebb van a helyes értékhez.
 
 ---
 
-_Example tiebreaker questions:_
+## 💡 Tippek döntetlenfeloldó kérdésekhez
 
-- How many jelly beans are in the jar shown on screen?
-- What is the total length (in meters) of all the rivers in Belgium combined?
-- How many bricks were used to build the Empire State Building?
-- What was the attendance at the first ever World Cup final?
+- **Kérdezz rá egy kevéssé ismert számra:** Válassz olyan kérdést, amelynek a válasza nem közismert, és valószínűleg senki sem találja el pontosan.
+- **Ösztönözd az egyedi tippeket:** Győződj meg róla, hogy a kérdéshez széles lehetséges tartomány tartozik, így minden játékos valószínűleg más választ ad meg.
+- **Csak döntetlenekhez használd:** Az árnyékpontok csak döntetlenfeloldóként szolgálnak, és nem befolyásolják a fő játék rangsorát.
+
+---
+
+_Példák döntetlenfeloldó kérdésekre:_
+
+- Hány zselés cukorka van a képernyőn látható üvegben?
+- Mennyi Belgium összes folyójának teljes hossza együtt (méterben)?
+- Hány téglát használtak fel az Empire State Building megépítéséhez?
+- Hány néző volt jelen a legelső világbajnoki döntőn?
 
