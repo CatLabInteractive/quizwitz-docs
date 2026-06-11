@@ -1,35 +1,35 @@
 ---
 id: tiebreaker-question
-title: Tiebreaker question
+title: Domanda di spareggio
 ---
 
-# 🏁 Tiebreaker question
+# 🏁 Domanda di spareggio
 
-The Tiebreaker question is used to resolve ties at the end of a quiz.  
-Players are asked to guess a number (for example, “How many beans are in the jar?”). The player whose answer is closest to the correct value will win in case of a tie.
-
----
-
-## 📝 How it works
-
-- **No points awarded:** The tiebreaker question does not award regular points.
-- **Shadow points:** Instead, it uses “shadow points” that are only considered when two or more players have the same total score.
-- **Closest wins:** The player with the answer closest to the correct value gets the higher position in the event of a tie.
+La domanda di spareggio serve a risolvere i pareggi alla fine di un quiz.  
+Ai giocatori viene chiesto di indovinare un numero (per esempio, “Quanti fagioli ci sono nel barattolo?”). Il giocatore la cui risposta si avvicina di più al valore corretto vincerà in caso di pareggio.
 
 ---
 
-## 💡 Tips for tiebreaker questions
+## 📝 Come funziona
 
-- **Ask for an obscure number:** Choose a question where the answer is not widely known and is unlikely to be guessed exactly.
-- **Encourage unique guesses:** Make sure the question has a wide possible range, so every player is likely to enter a different answer.
-- **Use only for ties:** Shadow points are only used as a tiebreaker and will not affect the main game ranking.
+- **Nessun punto assegnato:** la domanda di spareggio non assegna punti normali.
+- **Punti ombra:** invece, usa “punti ombra” che vengono considerati solo quando due o più giocatori hanno lo stesso punteggio totale.
+- **Vince chi si avvicina di più:** il giocatore con la risposta più vicina al valore corretto ottiene la posizione più alta in caso di pareggio.
 
 ---
 
-_Example tiebreaker questions:_
+## 💡 Consigli per le domande di spareggio
 
-- How many jelly beans are in the jar shown on screen?
-- What is the total length (in meters) of all the rivers in Belgium combined?
-- How many bricks were used to build the Empire State Building?
-- What was the attendance at the first ever World Cup final?
+- **Chiedi un numero poco conosciuto:** scegli una domanda la cui risposta non sia molto nota e sia improbabile da indovinare esattamente.
+- **Incoraggia risposte uniche:** assicurati che la domanda abbia un ampio intervallo di possibilità, così è probabile che ogni giocatore inserisca una risposta diversa.
+- **Usali solo per i pareggi:** i punti ombra vengono usati solo come spareggio e non influenzeranno la classifica principale del gioco.
+
+---
+
+_Esempi di domande di spareggio:_
+
+- Quante caramelle gommose ci sono nel barattolo mostrato sullo schermo?
+- Qual è la lunghezza totale (in metri) di tutti i fiumi del Belgio messi insieme?
+- Quanti mattoni sono stati usati per costruire l'Empire State Building?
+- Quanti spettatori c'erano alla prima finale dei Mondiali di sempre?
 
