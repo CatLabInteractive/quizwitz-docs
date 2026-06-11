@@ -1,34 +1,34 @@
 ---
 id: intro
-title: Introduction
+title: Introdução
 ---
 
-# 🎉 Getting started
+# 🎉 Começando
 
-## Welcome to QuizWitz!
+## Boas-vindas ao QuizWitz!
 
-**QuizWitz** is a social quiz platform where you can:
+**QuizWitz** é uma plataforma de quizzes social onde podes:
 
-- Play fun quiz games with friends or solo
-- Host professional quiz events with live tools
-- Create your own quizzes, rounds, playlists, and more
+- Jogar quizzes divertidos com amigos ou a solo
+- Organizar eventos de quiz profissionais com ferramentas ao vivo
+- Criar os teus próprios quizzes, rondas, playlists e muito mais
 
-Whether you're here to relax, present, or build — we've got you covered.
+Quer estejas aqui para relaxar, apresentar ou criar — temos tudo o que precisas.
 
-Take a moment to explore the different roles and tools available. It’ll only take a minute.
-
----
-
-## 👥 Players and creators
-
-This guide is divided into sections based on how you use QuizWitz:
-
-- [**Player Guide**](players/001-playing-quizwitz.md) — Learn how to collect, play, and enjoy quizzes
-- [**Quizmaker Guide**](editor/002-for-the-quizmakers.md) — Build your own questions, rounds, and full quizzes
-- [**Quizmaster Guide**](quizmaster/001-introduction.md) — Host a live game using QuizWitz Live
-
-Explore the sections that fit your role — or all of them if you're curious!
+Tira um momento para explorar os diferentes papéis e ferramentas disponíveis. Só vai demorar um minuto.
 
 ---
 
-Ready to jump in? Let’s get quizzing.
+## 👥 Jogadores e criadores
+
+Este guia está dividido em secções com base na forma como usas o QuizWitz:
+
+- [**Guia do Jogador**](players/001-playing-quizwitz.md) — Aprende a colecionar, jogar e desfrutar de quizzes
+- [**Guia do Criador de Quizzes**](editor/002-for-the-quizmakers.md) — Cria as tuas próprias perguntas, rondas e quizzes completos
+- [**Guia do quizmaster**](quizmaster/001-introduction.md) — Organiza um jogo ao vivo usando QuizWitz Live
+
+Explora as secções que combinam com o teu papel — ou todas elas, se tiveres curiosidade!
+
+---
+
+Pronto para começar? Vamos aos quizzes.
