@@ -31,7 +31,7 @@ Bevor du beginnst, vergewissere dich, dass du hast:
    - Klicken Sie auf der Anmeldeseite auf **Anmelden** und geben Sie die Ihnen zur Verfügung gestellten Anmeldedaten ein.
    - Nach dem Einloggen schließt der Tab automatisch und das Quiz wird geladen.
 
-4. Wenn das Laden abgeschlossen ist, erscheint der Startbildschirm des Tests.
+4. Wenn das Laden abgeschlossen ist, erscheint der Startbildschirm des Quiz.
 
 5. Bewegen Sie den Cursor über den Bildschirm, um die Kontrollleiste unten anzuzeigen.  
    Klicke auf das **Quadrat-Symbol** auf der rechten Seite, um den Vollbildmodus zu betreten.  
@@ -43,7 +43,7 @@ Um den Vollbildmodus jederzeit zu beenden — zum Beispiel, um zu einem anderen 
 
 ---
 
-## Test für eine andere Gruppe neu starten
+## Quiz für eine andere Gruppe neu starten
 
 Um nach einem abgeschlossenen Spiel wieder zu spielen, haben Sie einige Möglichkeiten:
 
