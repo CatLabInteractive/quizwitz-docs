@@ -1,35 +1,35 @@
 ---
 id: tiebreaker-question
-title: Tiebreaker question
+title: Pergunta de desempate
 ---
 
-# 🏁 Tiebreaker question
+# 🏁 Pergunta de desempate
 
-The Tiebreaker question is used to resolve ties at the end of a quiz.  
-Players are asked to guess a number (for example, “How many beans are in the jar?”). The player whose answer is closest to the correct value will win in case of a tie.
-
----
-
-## 📝 How it works
-
-- **No points awarded:** The tiebreaker question does not award regular points.
-- **Shadow points:** Instead, it uses “shadow points” that are only considered when two or more players have the same total score.
-- **Closest wins:** The player with the answer closest to the correct value gets the higher position in the event of a tie.
+A pergunta de desempate é usada para resolver empates no fim de um quiz.  
+Os jogadores devem tentar adivinhar um número (por exemplo, “Quantos feijões há no pote?”). O jogador cuja resposta estiver mais próxima do valor correto vencerá em caso de empate.
 
 ---
 
-## 💡 Tips for tiebreaker questions
+## 📝 Como funciona
 
-- **Ask for an obscure number:** Choose a question where the answer is not widely known and is unlikely to be guessed exactly.
-- **Encourage unique guesses:** Make sure the question has a wide possible range, so every player is likely to enter a different answer.
-- **Use only for ties:** Shadow points are only used as a tiebreaker and will not affect the main game ranking.
+- **Nenhum ponto atribuído:** A pergunta de desempate não atribui pontos normais.
+- **Pontos sombra:** Em vez disso, ela usa “pontos sombra”, que só são considerados quando dois ou mais jogadores têm a mesma pontuação total.
+- **Quem chegar mais perto vence:** O jogador com a resposta mais próxima do valor correto fica numa posição mais alta em caso de empate.
 
 ---
 
-_Example tiebreaker questions:_
+## 💡 Dicas para perguntas de desempate
 
-- How many jelly beans are in the jar shown on screen?
-- What is the total length (in meters) of all the rivers in Belgium combined?
-- How many bricks were used to build the Empire State Building?
-- What was the attendance at the first ever World Cup final?
+- **Peça um número obscuro:** Escolha uma pergunta cuja resposta não seja muito conhecida e que dificilmente será adivinhada exatamente.
+- **Incentive palpites únicos:** Garanta que a pergunta tenha um intervalo amplo de possibilidades, para que cada jogador provavelmente insira uma resposta diferente.
+- **Use apenas para empates:** Os pontos sombra são usados apenas como critério de desempate e não afetarão a classificação principal do jogo.
+
+---
+
+_Exemplos de perguntas de desempate:_
+
+- Quantas balas de goma há no pote mostrado na tela?
+- Qual é o comprimento total (em metros) de todos os rios da Bélgica somados?
+- Quantos tijolos foram usados para construir o Empire State Building?
+- Qual foi o público presente na primeira final da Copa do Mundo?
 
