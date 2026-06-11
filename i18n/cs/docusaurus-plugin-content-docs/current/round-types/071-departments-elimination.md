@@ -1,28 +1,28 @@
 ---
 id: department-elimination
-title: Department Elimination
+title: Vyřazování oddělení
 ---
 
-# 🏢 Department elimination
+# 🏢 Vyřazování oddělení
 
-**Department elimination** is a special event that removes players from a specific department, using the same elimination criteria as the standard [Elimination](050-elimination.md) round.
-
----
-
-## 📝 How it works
-
-- When this event is triggered, only players or teams belonging to the selected department are considered for elimination.
-- The elimination criteria are flexible:
-  - **Kick the lowest ranked in the department** until a set number of players remain
-  - **Kick the highest ranked in the department** until a set number remain
-  - **Kick a specific number of lowest ranked** in the department
-  - **Kick a specific number of highest ranked** in the department
-- The number of players to keep or eliminate can be set as an exact number or percentage.
+**Vyřazování oddělení** je speciální událost, která vyřazuje hráče z konkrétního oddělení podle stejných kritérií vyřazování jako standardní kolo [Vyřazování](050-elimination.md).
 
 ---
 
-> Department elimination lets you run knockouts within a group or department, perfect for tournaments or themed competitions.
+## 📝 Jak to funguje
+
+- Když se tahle událost spustí, pro vyřazení se berou v úvahu jen hráči nebo týmy patřící do vybraného oddělení.
+- Kritéria vyřazování jsou flexibilní:
+  - **Vyřadit nejníže umístěné v oddělení**, dokud nezůstane nastavený počet hráčů
+  - **Vyřadit nejvýše umístěné v oddělení**, dokud nezůstane nastavený počet
+  - **Vyřadit konkrétní počet nejníže umístěných** v oddělení
+  - **Vyřadit konkrétní počet nejvýše umístěných** v oddělení
+- Počet hráčů, které chceš ponechat nebo vyřadit, můžeš nastavit jako přesné číslo nebo procento.
 
 ---
 
-For more on elimination options, see the [Elimination round](050-elimination.md) or [Round options](../editor/008-round-options.md).
+> Vyřazování oddělení ti umožní pořádat vyřazovací části v rámci skupiny nebo oddělení – ideální pro turnaje nebo tematické soutěže.
+
+---
+
+Další informace o možnostech vyřazování najdeš v části [Kolo vyřazování](050-elimination.md) nebo [Možnosti kola](../editor/008-round-options.md).
