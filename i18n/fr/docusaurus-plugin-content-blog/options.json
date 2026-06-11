@@ -1,11 +1,11 @@
 {
   "title": {
     "message": "Blogue",
-    "description": "The title for the blog used in SEO"
+    "description": "Navigation label or content type name for blog posts."
   },
   "description": {
     "message": "Blogue",
-    "description": "The description for the blog used in SEO"
+    "description": "Navigation label or content type name for blog posts."
   },
   "sidebar.title": {
     "message": "Messages récents",
