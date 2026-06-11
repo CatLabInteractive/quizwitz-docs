@@ -1,40 +1,40 @@
 ---
 id: common-thread
-title: Common thread
+title: Tema em comum
 ---
 
-# 🧵 Common Thread
+# 🧵 Tema em comum
 
-The **Common Thread** round is a special variation of the classic Trivia round. In this round, players answer a series of regular questions, but the twist is that all answers are secretly connected by a single underlying theme or link — the “common thread.”
-
----
-
-## 📝 How it works
-
-- Players answer a sequence of questions as usual.
-- The final question in the round is typically **“What is the common thread that connects all these answers?”**
-- Instead of showing feedback after each question, **all feedback is postponed until the end of the round.**
-- When the round ends, feedback for the final “common thread” question is shown **first**.
-- After that, feedback for all previous questions is revealed, allowing the quizmaster to explain how each answer ties into the overall theme.
+A rodada **Tema em comum** é uma variação especial da rodada clássica de Trivia. Nesta rodada, os jogadores respondem a uma série de perguntas normais, mas a sacada é que todas as respostas estão secretamente conectadas por um único tema ou ligação por trás — o “tema em comum”.
 
 ---
 
-## ⚙️ Feedback and scoring
+## 📝 Como funciona
 
-- **Postponed feedback:** No immediate answer feedback after each question. Everything is revealed at the end.
-- **Quizmaster control:** The feedback reveal sequence helps build suspense and encourages group discussion.
-- **Scoring:** Each question uses its configured scoring type. The “common thread” question is usually open or freeform.
-
-See [round options](../editor/008-round-options.md) for details on configuring feedback timing and scoring.
-
----
-
-## 💡 Tips for writing a Common Thread round
-
-- **Choose a good link:** Pick a theme that is clever but not impossible to guess.
-- **Balance the questions:** Ensure each question makes sense on its own, but also fits the common thread.
-- **Final question:** End the round with a clear, direct question asking players to identify the link.
+- Os jogadores respondem a uma sequência de perguntas como de costume.
+- A pergunta final da rodada geralmente é **“Qual é o tema em comum que conecta todas estas respostas?”**
+- Em vez de mostrar feedback depois de cada pergunta, **todo o feedback é adiado até o fim da rodada.**
+- Quando a rodada termina, o feedback da pergunta final sobre o “tema em comum” é mostrado **primeiro**.
+- Depois disso, o feedback de todas as perguntas anteriores é revelado, permitindo que o quizmaster explique como cada resposta se encaixa no tema geral.
 
 ---
 
-For more information about configuring round feedback and special round types, see the [round types documentation](../question-types/000-question-types.md).
+## ⚙️ Feedback e pontuação
+
+- **Feedback adiado:** Não há feedback imediato da resposta depois de cada pergunta. Tudo é revelado no final.
+- **Controle do quizmaster:** A sequência de revelação do feedback ajuda a criar suspense e incentiva a discussão em grupo.
+- **Pontuação:** Cada pergunta usa o tipo de pontuação configurado para ela. A pergunta do “tema em comum” geralmente é aberta ou de resposta livre.
+
+Consulte as [opções de rodada](../editor/008-round-options.md) para detalhes sobre como configurar o momento do feedback e a pontuação.
+
+---
+
+## 💡 Dicas para escrever uma rodada de Tema em comum
+
+- **Escolha uma boa ligação:** Escolha um tema que seja esperto, mas não impossível de adivinhar.
+- **Equilibre as perguntas:** Garanta que cada pergunta faça sentido por si só, mas também se encaixe no tema em comum.
+- **Pergunta final:** Termine a rodada com uma pergunta clara e direta pedindo aos jogadores que identifiquem a ligação.
+
+---
+
+Para mais informações sobre como configurar o feedback da rodada e tipos especiais de rodada, consulte a [documentação de tipos de rodada](../question-types/000-question-types.md).
