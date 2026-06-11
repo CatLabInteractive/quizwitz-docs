@@ -1,30 +1,30 @@
 ---
 id: best-answer-question
-title: Best answer question
+title: Pergunta de melhor resposta
 ---
 
-# 🎖️ Best answer question
+# 🎖️ Pergunta de melhor resposta
 
-In the **Best answer question** type, players write their own answers to an open-ended question.  
-Points are awarded either manually by the quizmaster, or—if there is no quizmaster—by having players vote for their favorite response.
-
----
-
-## 📝 How it works
-
-- **Players answer:** Each player types their response to the open question.
-- **Scoring:**
-  - In **QuizWitz Live** (with a quizmaster), the host reviews all answers and assigns points to the best one(s).
-  - In regular games (no host), players vote for the answer they think is best. The answer(s) with the most votes get the points.
+No tipo **Pergunta de melhor resposta**, os jogadores escrevem as próprias respostas para uma pergunta aberta.  
+Os pontos são atribuídos manualmente pelo quizmaster ou — se não houver quizmaster — fazendo os jogadores votarem na resposta favorita deles.
 
 ---
 
-## 💡 Tips for best answer questions
+## 📝 Como funciona
 
-- Use creative, open-ended questions that invite original or funny responses.
-- For in-person or hosted quizzes, the quizmaster can award points for creativity, accuracy, or humor.
-- In self-hosted games, voting encourages players to read each other's answers and adds a fun social element.
+- **Os jogadores respondem:** Cada jogador digita a própria resposta para a pergunta aberta.
+- **Pontuação:**
+  - No **QuizWitz Live** com um quizmaster, o anfitrião analisa todas as respostas e atribui pontos às melhores.
+  - Em jogos normais (sem anfitrião), os jogadores votam na resposta que acham melhor. As respostas com mais votos recebem os pontos.
 
 ---
 
-> 📚 For more on how voting or manual scoring works, see the [Jury app documentation](../quizmaster/004-jury-app.md).
+## 💡 Dicas para perguntas de melhor resposta
+
+- Use perguntas criativas e abertas que convidem a respostas originais ou engraçadas.
+- Em quizzes presenciais ou com anfitrião, o quizmaster pode atribuir pontos por criatividade, precisão ou humor.
+- Em jogos auto-hospedados, a votação incentiva os jogadores a lerem as respostas uns dos outros e adiciona um elemento social divertido.
+
+---
+
+> 📚 Para saber mais sobre como funciona a votação ou a pontuação manual, consulte a [documentação do app do júri](../quizmaster/004-jury-app.md).
