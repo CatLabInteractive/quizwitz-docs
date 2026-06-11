@@ -1,61 +1,61 @@
 ---
 id: lightning-round
-title: Lightning round
+title: Bleskové kolo
 ---
 
-# ⚡ Lightning round
+# ⚡ Bleskové kolo
 
-The **Lightning round** is all about speed and excitement. Players answer a rapid series of questions with very short timers — all set to continuous timer music for maximum energy and tension.
-
----
-
-## 📝 How it works
-
-- Questions are presented one after another with minimal delay.
-- Timer music plays **continuously** throughout the round, only stopping after the last question.
-- Players must answer quickly; there’s no break between questions.
-- **By default, feedback for each question is postponed until the end of the round,** but each question’s feedback is shown separately, not grouped on a single screen.
-- If you want to group all feedback on one screen at the end, you can enable this in the round settings.
+**Bleskové kolo** je celé o rýchlosti a napätí. Hráči odpovedajú na rýchlu sériu otázok s veľmi krátkymi časovačmi — a popritom nepretržite hrá hudba časovača pre maximum energie a napätia.
 
 ---
 
-## ⚙️ Feedback settings
+## 📝 Ako to funguje
 
-- **Default (postponed feedback):** Feedback for each question is shown after the last question, one by one in sequence.
-- **Grouped feedback:** If “Show all question feedback at the end of the round” is enabled in round settings, all feedback is combined into a single feedback screen at the end.
-- **Force results after question:** If enabled in a question’s settings, feedback for that question will always be shown immediately, regardless of round feedback grouping.
-
-See [round options](../editor/008-round-options.md) for details on configuring feedback timing.
-
----
-
-## 🎵 Attachments — Countdown music
-
-- You can set a **Round Attachment** in the slot “Play during question countdown.”  
-  This audio attachment will play **continuously** as the countdown music during the entire lightning round, only stopping after the last question.
-- Use energetic or tense music to boost excitement and keep players on their toes.
-
-For more details, see the [attachments documentation](../editor/006-attachments.md).
+- Otázky sa zobrazujú jedna za druhou s minimálnym oneskorením.
+- Hudba časovača hrá **nepretržite** počas celého kola a zastaví sa až po poslednej otázke.
+- Hráči musia odpovedať rýchlo; medzi otázkami nie je žiadna prestávka.
+- **Predvolene sa spätná väzba ku každej otázke odkladá až na koniec kola,** ale spätná väzba ku každej otázke sa zobrazí samostatne, nie zoskupená na jednej obrazovke.
+- Ak chceš na konci zoskupiť všetku spätnú väzbu na jednu obrazovku, môžeš to zapnúť v nastaveniach kola.
 
 ---
 
-## 🏆 Scoring
+## ⚙️ Nastavenia spätnej väzby
 
-- **Time-based scoring is _not_ recommended** for this round type.
-- Instead, use a **short question timer** (typically 15 seconds).
-- Set point values lower than usual (e.g. 500 points per question) to keep the game fair and minimize the impact of wrong answers.
+- **Predvolené (odložená spätná väzba):** Spätná väzba ku každej otázke sa zobrazí po poslednej otázke, postupne jedna za druhou.
+- **Zoskupená spätná väzba:** Ak je v nastaveniach kola zapnuté „Zobraziť všetku spätnú väzbu k otázkam na konci kola“, všetka spätná väzba sa na konci spojí do jednej obrazovky spätnej väzby.
+- **Vynútiť výsledky po otázke:** Ak je to zapnuté v nastaveniach otázky, spätná väzba k tejto otázke sa vždy zobrazí okamžite, bez ohľadu na zoskupenie spätnej väzby v kole.
 
-For scoring setup, see the [scoring section](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips
-
-- **Keep questions short:** This encourages fast, instinctive answers.
-- **Use energetic music:** Timer music adds to the pressure and excitement.
-- **Balance difficulty:** Too many tough questions can stall the pace.
-- **Lower the stakes:** Fewer points and shorter timers mean mistakes aren’t too punishing.
+Podrobnosti o nastavení načasovania spätnej väzby nájdeš v časti [možnosti kola](../editor/008-round-options.md).
 
 ---
 
-Lightning rounds are perfect for energizing your quiz and ramping up the pace!
+## 🎵 Prílohy — hudba odpočítavania
+
+- Môžeš nastaviť **prílohu kola** v slote „Prehrať počas odpočítavania otázky“.  
+  Táto zvuková príloha sa bude prehrávať **nepretržite** ako hudba odpočítavania počas celého bleskového kola a zastaví sa až po poslednej otázke.
+- Použi energickú alebo napínavú hudbu, aby si zvýšil/a vzrušenie a udržal/a hráčov v strehu.
+
+Viac podrobností nájdeš v [dokumentácii k prílohám](../editor/006-attachments.md).
+
+---
+
+## 🏆 Bodovanie
+
+- **Bodovanie podľa času sa pre tento typ kola _neodporúča_.**
+- Namiesto toho použi **krátky časovač otázky** (zvyčajne 15 sekúnd).
+- Nastav hodnoty bodov nižšie než zvyčajne (napr. 500 bodov za otázku), aby bola hra férová a aby sa minimalizoval dopad nesprávnych odpovedí.
+
+Nastavenie bodovania nájdeš v [sekcii bodovania](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Tipy
+
+- **Nech sú otázky krátke:** Podporí to rýchle, inštinktívne odpovede.
+- **Použi energickú hudbu:** Hudba časovača zvyšuje tlak aj vzrušenie.
+- **Vyváž náročnosť:** Príliš veľa ťažkých otázok môže spomaliť tempo.
+- **Zníž stávky:** Menej bodov a kratšie časovače znamenajú, že chyby nebudú až také trestajúce.
+
+---
+
+Bleskové kolá sú perfektné na oživenie tvojho kvízu a zrýchlenie tempa!
