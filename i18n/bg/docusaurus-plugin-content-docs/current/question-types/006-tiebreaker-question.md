@@ -1,35 +1,35 @@
 ---
 id: tiebreaker-question
-title: Tiebreaker question
+title: Въпрос за тайбрек
 ---
 
-# 🏁 Tiebreaker question
+# 🏁 Въпрос за тайбрек
 
-The Tiebreaker question is used to resolve ties at the end of a quiz.  
-Players are asked to guess a number (for example, “How many beans are in the jar?”). The player whose answer is closest to the correct value will win in case of a tie.
-
----
-
-## 📝 How it works
-
-- **No points awarded:** The tiebreaker question does not award regular points.
-- **Shadow points:** Instead, it uses “shadow points” that are only considered when two or more players have the same total score.
-- **Closest wins:** The player with the answer closest to the correct value gets the higher position in the event of a tie.
+Въпросът за тайбрек се използва за решаване на равенства в края на quiz.  
+Играчите трябва да познаят число (например: „Колко зърна боб има в буркана?“). Играчът, чийто отговор е най-близо до правилната стойност, ще спечели при равенство.
 
 ---
 
-## 💡 Tips for tiebreaker questions
+## 📝 Как работи
 
-- **Ask for an obscure number:** Choose a question where the answer is not widely known and is unlikely to be guessed exactly.
-- **Encourage unique guesses:** Make sure the question has a wide possible range, so every player is likely to enter a different answer.
-- **Use only for ties:** Shadow points are only used as a tiebreaker and will not affect the main game ranking.
+- **Не се дават точки:** Въпросът за тайбрек не дава обичайни точки.
+- **Скрити точки:** Вместо това използва „скрити точки“, които се вземат предвид само когато двама или повече играчи имат еднакъв общ резултат.
+- **Най-близкият печели:** Играчът с отговора, който е най-близо до правилната стойност, получава по-висока позиция при равенство.
 
 ---
 
-_Example tiebreaker questions:_
+## 💡 Съвети за въпроси за тайбрек
 
-- How many jelly beans are in the jar shown on screen?
-- What is the total length (in meters) of all the rivers in Belgium combined?
-- How many bricks were used to build the Empire State Building?
-- What was the attendance at the first ever World Cup final?
+- **Попитай за неизвестно число:** Избери въпрос, чийто отговор не е широко известен и е малко вероятно да бъде познат точно.
+- **Насърчавай различни предположения:** Увери се, че въпросът има широк диапазон от възможни стойности, така че всеки играч вероятно да въведе различен отговор.
+- **Използвай само при равенства:** Скритите точки се използват само като тайбрек и няма да повлияят на основното класиране в играта.
+
+---
+
+_Примерни въпроси за тайбрек:_
+
+- Колко желирани бонбона има в буркана, показан на екрана?
+- Каква е общата дължина (в метри) на всички реки в Белгия, взети заедно?
+- Колко тухли са били използвани за построяването на Емпайър Стейт Билдинг?
+- Колко зрители е имало на първия финал на Световното първенство?
 
