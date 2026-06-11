@@ -1,40 +1,40 @@
 ---
 id: common-thread
-title: Common thread
+title: Filo conduttore
 ---
 
-# 🧵 Common Thread
+# 🧵 Filo conduttore
 
-The **Common Thread** round is a special variation of the classic Trivia round. In this round, players answer a series of regular questions, but the twist is that all answers are secretly connected by a single underlying theme or link — the “common thread.”
-
----
-
-## 📝 How it works
-
-- Players answer a sequence of questions as usual.
-- The final question in the round is typically **“What is the common thread that connects all these answers?”**
-- Instead of showing feedback after each question, **all feedback is postponed until the end of the round.**
-- When the round ends, feedback for the final “common thread” question is shown **first**.
-- After that, feedback for all previous questions is revealed, allowing the quizmaster to explain how each answer ties into the overall theme.
+Il round **Filo conduttore** è una variante speciale del classico round di Trivia. In questo round, i giocatori rispondono a una serie di domande normali, ma il colpo di scena è che tutte le risposte sono collegate in segreto da un unico tema o legame di fondo: il “filo conduttore”.
 
 ---
 
-## ⚙️ Feedback and scoring
+## 📝 Come funziona
 
-- **Postponed feedback:** No immediate answer feedback after each question. Everything is revealed at the end.
-- **Quizmaster control:** The feedback reveal sequence helps build suspense and encourages group discussion.
-- **Scoring:** Each question uses its configured scoring type. The “common thread” question is usually open or freeform.
-
-See [round options](../editor/008-round-options.md) for details on configuring feedback timing and scoring.
-
----
-
-## 💡 Tips for writing a Common Thread round
-
-- **Choose a good link:** Pick a theme that is clever but not impossible to guess.
-- **Balance the questions:** Ensure each question makes sense on its own, but also fits the common thread.
-- **Final question:** End the round with a clear, direct question asking players to identify the link.
+- I giocatori rispondono a una sequenza di domande come al solito.
+- La domanda finale del round di solito è **“Qual è il filo conduttore che collega tutte queste risposte?”**
+- Invece di mostrare il feedback dopo ogni domanda, **tutto il feedback viene rimandato alla fine del round.**
+- Quando il round finisce, viene mostrato **per primo** il feedback della domanda finale sul “filo conduttore”.
+- Dopodiché, viene rivelato il feedback di tutte le domande precedenti, permettendo al quizmaster di spiegare come ogni risposta si collega al tema generale.
 
 ---
 
-For more information about configuring round feedback and special round types, see the [round types documentation](../question-types/000-question-types.md).
+## ⚙️ Feedback e punteggio
+
+- **Feedback rimandato:** Nessun feedback immediato sulla risposta dopo ogni domanda. Tutto viene rivelato alla fine.
+- **Controllo del quizmaster:** La sequenza di rivelazione del feedback aiuta a creare suspense e incoraggia la discussione di gruppo.
+- **Punteggio:** Ogni domanda usa il tipo di punteggio configurato. La domanda sul “filo conduttore” di solito è aperta o a risposta libera.
+
+Consulta le [opzioni del round](../editor/008-round-options.md) per i dettagli su come configurare i tempi del feedback e il punteggio.
+
+---
+
+## 💡 Consigli per scrivere un round Filo conduttore
+
+- **Scegli un buon legame:** Scegli un tema furbo ma non impossibile da indovinare.
+- **Bilancia le domande:** Assicurati che ogni domanda abbia senso da sola, ma che si inserisca anche nel filo conduttore.
+- **Domanda finale:** Concludi il round con una domanda chiara e diretta che chieda ai giocatori di identificare il legame.
+
+---
+
+Per maggiori informazioni su come configurare il feedback del round e i tipi di round speciali, consulta la [documentazione sui tipi di round](../question-types/000-question-types.md).
