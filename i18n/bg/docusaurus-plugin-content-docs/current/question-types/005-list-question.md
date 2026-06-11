@@ -1,62 +1,62 @@
 ---
 id: list-question
-title: List question
+title: Въпрос със списък
 ---
 
-# 📝 List question
+# 📝 Въпрос със списък
 
-A **List question** asks players to provide several correct answers from a larger list — perfect for prompts like “List the first 5 presidents of the United States of America” or “Name three elements in the periodic table.”
-
----
-
-![Example: List question with US presidents](/images/question-modes/list-question/list-question.png)
+**Въпросът със списък** кара играчите да дадат няколко верни отговора от по-голям списък — идеален е за подкани като „Изброй първите 5 президенти на Съединените американски щати“ или „Назови три елемента от периодичната таблица“.
 
 ---
 
-## 📝 How it works
-
-- **Question:** Clearly state what you want players to list.
-- **List items:** Enter all possible correct answers.
-  - Mark some as **‘Given’** to show as examples on screen; these do NOT need to be answered.
-  - Order does **not** matter — players can enter correct answers in any order.
-- **Player input:** Players must provide a set number of answers (e.g., between 1 and 5). Points are awarded for each correct answer they submit.
-- **Attachments:** Add images, audio, or video for context. Fill in attribution if publishing.
+![Пример: Въпрос със списък с президенти на САЩ](/images/question-modes/list-question/list-question.png)
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Как работи
 
-- **Minimum and maximum answers:** Define how many answers a player must give.
-- **Points per answer:** Points can be awarded for each correct answer, or only when the minimum number is met.
-- **Given options:** Use as in-question examples.
-- **Correction:**
-  - **Force automatic correction:** When enabled, QuizWitz automatically checks all answers (accepting small typos and variations). No jury needed.
-  - **Manual review:** When not enabled, each provided answer must be reviewed by the [jury app](../quizmaster/004-jury-app.md).
-
----
-
-## 🏆 Scoring
-
-- **Points per correct answer:** Players earn points for each correct answer.
-- **Time-based scoring** (if enabled):  
-  Follows the **open question rules** for fairness:
-  - The available points are split into blocks of time (not by the millisecond).  
-    For example: full points in the first block, 80% in the next, and so on.
-  - **Only 25%** of the points depend on speed.  
-    The other **75%** is fixed — so even slower typers get most of the points if they answer correctly.
-  - This reduces the penalty for typing speed and makes scoring fairer for everyone.
-
-For details, see [round scoring options](../editor/008-round-options.md#scoring).
+- **Въпрос:** Ясно кажи какво искаш играчите да изброят.
+- **Елементи от списъка:** Въведи всички възможни верни отговори.
+  - Маркирай някои като **„Дадени“**, за да се показват като примери на екрана; за тях НЕ трябва да се отговаря.
+  - Редът **няма** значение — играчите могат да въвеждат верните отговори в произволен ред.
+- **Въвеждане от играча:** Играчите трябва да дадат определен брой отговори (напр. между 1 и 5). Точки се дават за всеки верен отговор, който изпратят.
+- **Прикачени файлове:** Добави изображения, аудио или видео за контекст. Попълни авторството, ако публикуваш.
 
 ---
 
-## 💡 Tips for list questions
+## ⚙️ Разширени настройки
 
-- **Be specific:** Clearly define valid answers.
-- **Show examples:** Use the ‘Given’ feature.
-- **List variants:** Include common spellings/variations.
-- **Reduce jury work:** Use automatic correction if possible.
+- **Минимален и максимален брой отговори:** Определи колко отговора трябва да даде играчът.
+- **Точки за отговор:** Точки могат да се дават за всеки верен отговор или само когато е достигнат минималният брой.
+- **Дадени опции:** Използвай ги като примери във въпроса.
+- **Корекция:**
+  - **Принудителна автоматична корекция:** Когато е включено, QuizWitz автоматично проверява всички отговори (като приема малки правописни грешки и варианти). Не е нужно жури.
+  - **Ръчен преглед:** Когато не е включено, всеки даден отговор трябва да бъде прегледан от [приложението за жури](../quizmaster/004-jury-app.md).
 
 ---
 
-For more, see [Jury app documentation](../quizmaster/004-jury-app.md).
+## 🏆 Точкуване
+
+- **Точки за верен отговор:** Играчите печелят точки за всеки верен отговор.
+- **Точкуване според времето** (ако е включено):  
+  Следва **правилата за отворен въпрос**, за да е честно:
+  - Наличните точки се разделят на времеви блокове (не по милисекунди).  
+    Например: пълен брой точки в първия блок, 80% в следващия и т.н.
+  - **Само 25%** от точките зависят от скоростта.  
+    Останалите **75%** са фиксирани — така дори по-бавните при писане получават повечето точки, ако отговорят правилно.
+  - Това намалява наказанието за скоростта на писане и прави точкуването по-честно за всички.
+
+За подробности виж [опциите за точкуване на рунда](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Съвети за въпроси със списък
+
+- **Бъди конкретен:** Ясно определи валидните отговори.
+- **Показвай примери:** Използвай функцията „Дадено“.
+- **Изброй варианти:** Включи често срещани изписвания/вариации.
+- **Намали работата на журито:** Използвай автоматична корекция, ако е възможно.
+
+---
+
+За повече информация виж [документацията за приложението за жури](../quizmaster/004-jury-app.md).
