@@ -1,83 +1,83 @@
 ---
 id: quiz-options
-title: Quiz options
+title: Opções do quiz
 ---
 
-# ⚙️ Quiz options
+# ⚙️ Opções do quiz
 
-When creating a quiz, you can open the **Quiz settings** panel to configure global behavior and presentation options. These settings apply to the **entire quiz**.
+Ao criar um quiz, você pode abrir o painel **Configurações do quiz** para configurar o comportamento global e as opções de apresentação. Essas configurações se aplicam ao **quiz inteiro**.
 
-| ![Open quiz options](/images/open-quiz-options.png) | ![Quiz options](/images/quiz-options.png) |
-| :-------------------------------------------------: | :---------------------------------------: |
-|           _Opening the quiz options panel_          |          _Quiz settings overview_         |
-
----
-
-## 🌐 Languages
-
-Select the language in which you're writing the quiz. You can add additional translations later.
+| ![Abrir opções do quiz](/images/open-quiz-options.png) | ![Opções do quiz](/images/quiz-options.png) |
+| :----------------------------------------------------: | :-----------------------------------------: |
+|          _Abrindo o painel de opções do quiz_          |   _Visão geral das configurações do quiz_   |
 
 ---
 
-## 🎨 Themes
+## 🌐 Idiomas
 
-Choose a visual theme for your quiz.
-
-- The default theme is **QuizWitz**
-- Your organization may have access to custom themes
-- Themes affect background, colors, and layout
-
-📘 See the [Emerald theme documentation](../advanced/011-emerald-theme.md) for more details on customizing visuals with this theme.
+Selecione o idioma em que você está escrevendo o quiz. Você pode adicionar outras traduções depois.
 
 ---
 
-## 📎 Attachments
+## 🎨 Temas
 
-Enhance your quiz with visuals, audio, or video in specific slots:
+Escolha um tema visual para o seu quiz.
 
-- **Before quiz** — Shown when the quiz starts
-- **After quiz** — Played after the final results screen
-- **Client logo / alternative logo** — Displayed throughout the quiz interface
-- **Wait screen** — Displayed between questions in live games (1920×1080 image recommended)
-- **Background** — Optional background replacement (depends on theme)
-- **Connect screen** — Used in [Live](../quizmaster/001-introduction.md) and [Conference](../tutorials/conference-booth) modes:
-  - **Images** — Fullscreen background visuals
-  - **Audio** — Looped music (max 15 min)
-  - **Video** — Played every 5 minutes, useful for ads or instructions
+- O tema padrão é **QuizWitz**
+- Sua organização pode ter acesso a temas personalizados
+- Os temas afetam o plano de fundo, as cores e o layout
 
-🎥 You can use our [ready-made instructional videos](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) to help players connect.
-
-- **During game outro** — (Audio only) Plays over the winner reveal screen
-
-📘 For technical details and recommendations, see the [attachments guide](../editor/006-attachments.md).
+📘 Veja a [documentação do tema Emerald](../advanced/011-emerald-theme.md) para mais detalhes sobre como personalizar os visuais com este tema.
 
 ---
 
-## 🔧 Extra options
+## 📎 Anexos
 
-Optional settings for customizing gameplay and visibility:
+Deixe seu quiz mais interessante com imagens, áudio ou vídeo em posições específicas:
 
-- **Enable multiplayer** — Default ON. Allows party play with friends
-- **Random round order** — Shuffle the order of rounds
-  > ⚠️ Not recommended when preparing for [QuizWitz Live](../quizmaster/001-introduction.md)
-- **Allow users to rate questions** — Lets players rate each question after a round
-- **Enable comments** — Allow feedback after publishing
-- **Speed up when all answered** — If enabled, the game skips ahead when all players have answered
-  > ⏱️ Recommended when using **Time-based scoring**
+- **Antes do quiz** — Exibido quando o quiz começa
+- **Depois do quiz** — Reproduzido após a tela de resultados finais
+- **Logo do cliente / logo alternativo** — Exibido em toda a interface do quiz
+- **Tela de espera** — Exibida entre perguntas em jogos ao vivo (imagem 1920×1080 recomendada)
+- **Plano de fundo** — Substituição opcional do plano de fundo (depende do tema)
+- **Tela de conexão** — Usada nos modos [Live](../quizmaster/001-introduction.md) e [Conference](../tutorials/conference-booth):
+  - **Imagens** — Visuais de fundo em tela cheia
+  - **Áudio** — Música em loop (máx. 15 min)
+  - **Vídeo** — Reproduzido a cada 5 minutos, útil para anúncios ou instruções
+
+🎥 Você pode usar nossos [vídeos instrucionais prontos](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) para ajudar os jogadores a se conectarem.
+
+- **Encerramento durante o jogo** — (Somente áudio) Reproduzido sobre a tela de revelação do vencedor
+
+📘 Para detalhes técnicos e recomendações, consulte o [guia de anexos](../editor/006-attachments.md).
 
 ---
 
-## 📤 Share or embed
+## 🔧 Opções extras
 
-Generates share links or embed code with advanced game settings.
+Configurações opcionais para personalizar a jogabilidade e a visibilidade:
+
+- **Ativar multiplayer** — Ativado por padrão. Permite jogar em grupo com amigos
+- **Ordem aleatória das rodadas** — Embaralha a ordem das rodadas
+  > ⚠️ Não recomendado ao preparar para o [QuizWitz Live](../quizmaster/001-introduction.md)
+- **Permitir que usuários avaliem perguntas** — Permite que os jogadores avaliem cada pergunta após uma rodada
+- **Ativar comentários** — Permite feedback após a publicação
+- **Acelerar quando todos responderem** — Se ativado, o jogo avança quando todos os jogadores tiverem respondido
+  > ⏱️ Recomendado ao usar **pontuação baseada em tempo**
 
 ---
 
-## 📜 Quizmaster copy
+## 📤 Compartilhar ou incorporar
 
-Add custom presenter instructions for:
+Gera links de compartilhamento ou código de incorporação com configurações avançadas de jogo.
 
-- **Quiz introduction**
-- **Quiz outro**
+---
 
-These are visible on the [Quizmaster app](../quizmaster/001-introduction.md) when using QuizWitz Live.
+## 📜 Texto para quizmaster
+
+Adicione instruções personalizadas para o apresentador em:
+
+- **Introdução do quiz**
+- **Encerramento do quiz**
+
+Elas ficam visíveis no [app quizmaster](../quizmaster/001-introduction.md) ao usar QuizWitz Live.
