@@ -25,15 +25,15 @@
   },
   "link.item.label.Facebook": {
     "message": "Facebook",
-    "description": "The label of footer link with label=Facebook linking to https://www.facebook.com/quizwitz"
+    "description": "Social platform name. Used on share/social links."
   },
   "link.item.label.Website": {
     "message": "Уебсайт",
-    "description": "The label of footer link with label=Website linking to https://www.quizwitz.com/"
+    "description": "Label for the website URL input field on a profile or publisher settings page."
   },
   "link.item.label.Blog": {
     "message": "Блог",
-    "description": "The label of footer link with label=Blog linking to https://www.quizwitz.com/blog"
+    "description": "Navigation label or content type name for blog posts."
   },
   "copyright": {
     "message": "Copyright © 2025 CatLab Interactive bv. Създадено с Docusaurus.",

@@ -164,7 +164,7 @@
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
     "message": "Zavrieť",
-    "description": "The ARIA label for close button of announcement bar"
+    "description": "Generic button label to close a dialog, panel, or modal."
   },
   "theme.blog.sidebar.navAriaLabel": {
     "message": "Navigácia najnovších príspevkov blogu",
@@ -184,7 +184,7 @@
   },
   "theme.navbar.mobileLanguageDropdown.label": {
     "message": "Jazyky",
-    "description": "The label for the mobile language switcher dropdown"
+    "description": "Section heading or filter label for language selection."
   },
   "theme.NotFound.p1": {
     "message": "Nenašli sme, čo si hľadal/a.",
@@ -320,22 +320,25 @@
   },
   "theme.tags.tagsPageTitle": {
     "message": "Štítky",
-    "description": "The title of the tag list page"
+    "description": "Label for the tags/keywords field on a quiz or round."
   },
   "Create": {
-    "message": "Vytvoriť"
+    "message": "Vytvoriť",
+    "description": "Generic button label to create a new item."
   },
   "Create a fully customizable quiz using different question and round types.": {
     "message": "Vytvor si plne prispôsobiteľný kvíz s rôznymi typmi otázok a kôl."
   },
   "Play": {
-    "message": "Hrať"
+    "message": "Hrať",
+    "description": "Generic button label to start playing a game or quiz."
   },
   "Play any shared quiz on our platform with friends, family, colleagues, … Grab a smart device, connect via the web and show off how much you know!": {
     "message": "Zahraj si akýkoľvek zdieľaný kvíz na našej platforme s priateľmi, rodinou, kolegami, … Vezmi si smart device, pripoj sa cez web a ukáž, koľko toho vieš!"
   },
   "Share": {
-    "message": "Zdieľať"
+    "message": "Zdieľať",
+    "description": "Button label to open the share dialog."
   },
   "Collect and share quiz rounds from around the world, or share your own! Connect with other quiz aficionados.": {
     "message": "Zbieraj a zdieľaj kvízové kolá z celého sveta alebo zdieľaj svoje vlastné! Spoj sa s ďalšími kvízovými nadšencami."
