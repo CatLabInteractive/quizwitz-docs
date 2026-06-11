@@ -1,54 +1,54 @@
 ---
 id: order-question
-title: Order question
+title: Pergunta de ordenação
 ---
 
-# 🔀 Order question
+# 🔀 Pergunta de ordenação
 
-In an **Order question**, players must put up to 4 items in the correct sequence.  
-This round type is great for chronological, ranking, or sequencing challenges.
-
----
-
-![Example: Order question about animals](/images/question-modes/order-question/order-question-example.png)
+Numa **Pergunta de ordenação**, os jogadores devem colocar até 4 itens na sequência correta.  
+Este tipo de ronda é ótimo para desafios cronológicos, de classificação ou de sequenciação.
 
 ---
 
-## 📝 How it works
-
-- **Question:** Clearly ask what order is required.  
-  _(Example: “Select the animals in the correct order from least to most legs.”)_
-- **Options:** Enter up to four items. You define the correct sequence.
-- **Player view:** Options are shown in random order. Players **select each item one by one** in the order they think is correct.
-- **Feedback:** After answering, players see the correct order and (optionally) any extra explanation you provide.
+![Exemplo: Pergunta de ordenação sobre animais](/images/question-modes/order-question/order-question-example.png)
 
 ---
 
-## 🏆 Scoring
+## 📝 Como funciona
 
-Order questions use **time-based scoring** by default:  
-Faster correct answers earn more points, but most of the points are fixed. Time only affects a portion of the score.  
-You can also turn off time-based scoring per question for fixed points only.
-
-See [Scoring options in round settings](../editor/008-round-options.md#scoring) for details.
-
----
-
-## ⚙️ Expanded settings
-
-Order questions offer flexible settings:
-
-- **Time limit:** Set how long players have to answer.
-- **Points:** Set how many points are awarded for a fully correct answer.
-
-See [writing questions](../editor/005-writing-questions.md) for more.
+- **Pergunta:** Pergunta claramente qual é a ordem necessária.  
+  _(Exemplo: “Seleciona os animais pela ordem correta, do menor para o maior número de patas.”)_
+- **Opções:** Insere até quatro itens. Tu defines a sequência correta.
+- **Vista do jogador:** As opções são apresentadas numa ordem aleatória. Os jogadores **selecionam cada item um a um** pela ordem que acham correta.
+- **Feedback:** Depois de responderem, os jogadores veem a ordem correta e (opcionalmente) qualquer explicação extra que forneceres.
 
 ---
 
-## 💡 Tips for great order questions
+## 🏆 Pontuação
 
-- **Be specific:** State clearly how you want items ordered (e.g., least to most, oldest to newest).
-- **Choose distinct options:** Avoid items that are too similar or ambiguous.
-- **Explain the answer:** Use feedback to clarify the correct order after the question.
-- **Mix formats:** Try chronological, size-based, or ranking-based questions for variety.
+As perguntas de ordenação usam **pontuação baseada no tempo** por predefinição:  
+Respostas corretas mais rápidas ganham mais pontos, mas a maioria dos pontos é fixa. O tempo afeta apenas uma parte da pontuação.  
+Também podes desativar a pontuação baseada no tempo por pergunta, usando apenas pontos fixos.
+
+Vê [opções de pontuação nas definições da ronda](../editor/008-round-options.md#scoring) para mais detalhes.
+
+---
+
+## ⚙️ Definições expandidas
+
+As perguntas de ordenação oferecem definições flexíveis:
+
+- **Limite de tempo:** Define quanto tempo os jogadores têm para responder.
+- **Pontos:** Define quantos pontos são atribuídos por uma resposta totalmente correta.
+
+Vê [escrever perguntas](../editor/005-writing-questions.md) para saber mais.
+
+---
+
+## 💡 Dicas para ótimas perguntas de ordenação
+
+- **Sê específico:** Indica claramente como queres que os itens sejam ordenados (por exemplo, do menor para o maior, do mais antigo para o mais recente).
+- **Escolhe opções distintas:** Evita itens demasiado parecidos ou ambíguos.
+- **Explica a resposta:** Usa o feedback para esclarecer a ordem correta depois da pergunta.
+- **Mistura formatos:** Experimenta perguntas cronológicas, baseadas em tamanho ou baseadas em classificação para dar variedade.
 
