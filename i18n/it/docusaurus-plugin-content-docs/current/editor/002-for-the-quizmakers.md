@@ -1,42 +1,42 @@
 ---
 id: for-the-quizmakers
-title: Introduction
+title: Introduzione
 ---
 
-# 🛠️ Quizmaker’s guide
+# 🛠️ Guida per chi crea quiz
 
-Welcome to the guide for quiz creators!  
-On QuizWitz, you can build and organize your own quiz content — or collect and remix content made by others.
-
----
-
-## 🧩 What can you create?
-
-As a quizmaker, you can work with:
-
-- **Round-Abouts** — Small, themed collections of questions shown in random order
-- **Full Quizzes** — Custom quizzes, combining multiple Round-Abouts in a specific sequence
-
-You can also **collect Round-Abouts** created by other members and include them in your own quizzes.
+Benvenuto nella guida per i creatori di quiz!  
+Su QuizWitz puoi creare e organizzare i tuoi contenuti per quiz — oppure raccogliere e remixare contenuti creati da altri.
 
 ---
 
-> 💡 **Tip:**  
-> A **Round-About** is the smallest building block in QuizWitz. It’s a short set of questions about a specific topic.  
-> Round-Abouts can be published for others to use, or kept private just for you.
+## 🧩 Cosa puoi creare?
+
+Come creatore di quiz, puoi lavorare con:
+
+- **Round-Abouts** — Piccole raccolte tematiche di domande mostrate in ordine casuale
+- **Full Quiz** — Quiz personalizzati, che combinano più Round-Abouts in una sequenza specifica
+
+Puoi anche **raccogliere Round-Abouts** creati da altri membri e includerli nei tuoi quiz.
+
+---
+
+> 💡 **Suggerimento:**  
+> Un **Round-About** è il blocco di base più piccolo di QuizWitz. È una breve serie di domande su un argomento specifico.  
+> I Round-Abouts possono essere pubblicati perché altri li usino, oppure mantenuti privati solo per te.
 >
-> A **Full Quiz** lets you combine multiple rounds, set the order, and define your own quiz flow and rules. Perfect for events or larger quiz experiences!
+> Un **Full Quiz** ti permette di combinare più round, impostare l'ordine e definire il tuo flusso e le tue regole del quiz. Perfetto per eventi o esperienze di quiz più grandi!
 
 ---
 
-## 💎 Premium license
+## 💎 Licenza Premium
 
-To create and publish **Full Quizzes**, you’ll need a [Premium license](https://www.quizwitz.com/pricing).  
-This unlocks the ability to combine Round-Abouts, set custom order, and use advanced features.
+Per creare e pubblicare **Full Quiz**, ti servirà una [licenza Premium](https://www.quizwitz.com/pricing).  
+Questo sblocca la possibilità di combinare Round-Abouts, impostare un ordine personalizzato e usare funzionalità avanzate.
 
-Round-Abouts can always be created and shared for free!
+I Round-Abouts possono sempre essere creati e condivisi gratuitamente!
 
 ---
 
-Ready to start?  
-Explore the editor, try out a template, or check the next pages in this guide for more tips and inspiration.
+Pronto a iniziare?  
+Esplora l'editor, prova un modello oppure consulta le prossime pagine di questa guida per altri consigli e ispirazione.
