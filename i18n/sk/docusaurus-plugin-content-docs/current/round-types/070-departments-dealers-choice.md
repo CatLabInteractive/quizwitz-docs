@@ -1,43 +1,43 @@
 ---
 id: departments-dealers-choice
-title: Department Dealer's Choice
+title: Voľba dílera oddelenia
 ---
 
-# 🏢 Department Dealer’s Choice
+# 🏢 Voľba dílera oddelenia
 
-**Department Dealer’s Choice** is an interactive round type where players from a specific department take turns selecting the next category or question.
-
----
-
-## 📝 How it works
-
-- A single **department** is selected to play this round.
-- A **dealer** is chosen from within that department (by ranking or at random) to pick the next category or question.
-- Depending on settings, **only the dealer** or **all players in the dealer's department** can answer and score points for the selected question.
+**Voľba dílera oddelenia** je interaktívny typ kola, v ktorom sa hráči z konkrétneho oddelenia striedajú pri výbere ďalšej kategórie alebo otázky.
 
 ---
 
-## ⚙️ Settings
+## 📝 Ako to funguje
 
-- **Department number:** Choose which department is playing this round.
-- **Dealer selection:**
-  - Lowest ranked first
-  - Highest ranked first
-  - Random
-- **Dealer department:**
-  - _Only dealer may play_ — Only the selected dealer answers the question
-  - _All players in dealer’s department may play_ — Everyone in the department can answer and score points
-- **Dealer bonus:**  
-  Set a bonus percentage for the dealer (if enabled).
+- Na hranie tohto kola sa vyberie jedno **oddelenie**.
+- Z daného oddelenia sa vyberie **díler** (podľa poradia alebo náhodne), ktorý zvolí ďalšiu kategóriu alebo otázku.
+- V závislosti od nastavení môže na vybranú otázku odpovedať a získavať body **iba díler** alebo **všetci hráči v dílerovom oddelení**.
 
 ---
 
-## 💡 Tips
+## ⚙️ Nastavenia
 
-- Use this mode for team-based competitions or when you want to give specific groups a chance to shine.
-- Dealer’s Choice rounds keep the game dynamic and engaging, with added strategy for departments.
+- **Číslo oddelenia:** Vyber, ktoré oddelenie hrá toto kolo.
+- **Výber dílera:**
+  - Najnižšie umiestnení ako prví
+  - Najvyššie umiestnení ako prví
+  - Náhodne
+- **Dílerovo oddelenie:**
+  - _Hrať môže iba díler_ — Na otázku odpovedá iba vybraný díler
+  - _Hrať môžu všetci hráči v dílerovom oddelení_ — Každý v oddelení môže odpovedať a získavať body
+- **Bonus dílera:**  
+  Nastav percentuálny bonus pre dílera (ak je povolený).
 
 ---
 
-For classic Dealer’s Choice rules, see [Dealer’s Choice](024-dealers-choice.md).  
-For more team game options, check [Round options](../editor/008-round-options.md).
+## 💡 Tipy
+
+- Použi tento režim pri tímových súťažiach alebo keď chceš dať konkrétnym skupinám šancu zažiariť.
+- Kolá Voľba dílera udržujú hru dynamickú a pútavú a pridávajú stratégiu pre oddelenia.
+
+---
+
+Klasické pravidlá Voľby dílera nájdeš v časti [Voľba dílera](024-dealers-choice.md).  
+Ďalšie možnosti tímovej hry nájdeš v časti [Možnosti kola](../editor/008-round-options.md).
