@@ -1,24 +1,24 @@
 ---
 id: reset-points
-title: Reset Points
+title: Redefinir pontos
 ---
 
-# 🔄 Reset points
+# 🔄 Redefinir pontos
 
-**Reset points** is a special event (not a question round) that sets the score of all players or teams back to zero.  
-This can be used to level the playing field, add suspense, or introduce new phases in your quiz.
-
----
-
-## 📝 How it works
-
-- When triggered, the event **instantly sets the score of every player or team to 0**.
-- This applies to all participants, regardless of previous ranking or performance.
+**Redefinir pontos** é um evento especial (não uma rodada de perguntas) que define a pontuação de todos os jogadores ou equipes de volta para zero.  
+Isso pode ser usado para equilibrar o jogo, adicionar suspense ou introduzir novas fases no teu quiz.
 
 ---
 
-> Use **Reset points** to create dramatic restarts, new game phases, or to give everyone a fair shot at a big final round!
+## 📝 Como funciona
+
+- Quando acionado, o evento **define instantaneamente a pontuação de cada jogador ou equipe como 0**.
+- Isso se aplica a todos os participantes, independentemente da classificação ou desempenho anteriores.
 
 ---
 
-For more ways to shape your game flow, see [Round options](../editor/008-round-options.md).
+> Use **Redefinir pontos** para criar reinícios dramáticos, novas fases de jogo ou para dar a todos uma chance justa em uma grande rodada final!
+
+---
+
+Para ver mais formas de moldar o fluxo do teu jogo, consulte [Opções de rodada](../editor/008-round-options.md).
