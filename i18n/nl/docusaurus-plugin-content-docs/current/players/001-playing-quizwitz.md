@@ -45,7 +45,7 @@ Je kunt items altijd organiseren, spelen of verwijderen. Dit is je persoonlijke 
 
 ## 🧠 Kies een Round-About
 
-Een **Round-About** is een kleine, thematische vragenronde. Het spelen van slechts één geeft je een kort spel met 7 willekeurige vragen.
+Een **Round-About** is een kleine thematiek van vragen - zoals de naam zegt, een ronde _about_ . Het spelen van slechts één geeft je een kort spel met 7 willekeurige vragen.
 
 Om een Round-About in meer detail te bekijken:
 
@@ -112,6 +112,12 @@ Speel met vrienden via hun eigen telefoons of tablets:
 1. Klik op **Start**, en dan **Party Game**
 2. Spelers volgen de instructies op het scherm om mee te doen
 3. Klik op **Start quiz** als iedereen klaar is
+
+Zodra de toets begint verschijnt **het spel automatisch** — vragen verschijnen, aftellen van de tijdslimieten en scores worden tallied zonder host interventie.
+
+> ⏸️ Een pauze nodig? Beweeg je muis onderaan het spelscherm en een **pauze** knop zal verschijnen. Pauzeren is de enige manier om een Partyspel te onderbreken.
+>
+> Wil je zelf het tempo van het spel bepalen - wanneer elke vraag begint? Dat kan alleen met [**QuizWitz Live**](../quizmaster/001-introduction.md) en de Quizmaster App.
 
 ![QuizWitz start screen](/images/quizwitz-start-screen.png)\
 ![QuizWitz start screen party](/images/quizwitz-start-screen-party.png)\
