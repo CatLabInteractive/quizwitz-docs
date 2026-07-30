@@ -45,7 +45,7 @@ Puedes organizar, jugar o eliminar elementos en cualquier momento. Esta es tu bi
 
 ## 🧠 Elige un Round-About
 
-Un **Round-About** es una pequeña ronda temática de preguntas. Jugar solamente uno te dará un juego corto con 7 preguntas aleatorias.
+Un **Round-About** es una pequeña ronda temática de preguntas — como el nombre dice, una ronda _sobre_ de un tema. Jugar solamente uno te dará un juego corto con 7 preguntas aleatorias.
 
 Para explorar un Round-About con más detalle:
 
@@ -112,6 +112,12 @@ Juega con amigos usando sus propios teléfonos o tablets:
 1. Haz clic en **Comenzar**, luego en **Juego en grupo**
 2. Los jugadores siguen las instrucciones en pantalla para unirse
 3. Haz clic en **Iniciar quiz** cuando todos estén listos
+
+Una vez que el cuestionario comience, **el juego se ejecuta automáticamente** — aparecen preguntas, los temporizadores cuentan hacia abajo y los puntajes son contados sin intervención de ningún anfitrión.
+
+> ⏸️ ¿Necesitas un descanso? Mueve el ratón a la parte inferior de la pantalla del juego y aparecerá un botón de **pausa**. La pausa es la única manera de interrumpir una Partida.
+>
+> ¿Quieres controlar el ritmo del juego tú mismo: decidir cuándo empieza cada pregunta? Sólo es posible con [**Prueba Witz Live**](../quizmaster/001-introduction.md) y la aplicación maestra.
 
 ![Pantalla de inicio de QuizWitz](/images/quizwitz-start-screen.png)  
 ![Pantalla de inicio de QuizWitz juego en grupo](/images/quizwitz-start-screen-party.png)  
