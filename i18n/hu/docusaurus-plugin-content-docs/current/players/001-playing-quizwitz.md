@@ -45,7 +45,7 @@ Bármikor rendszerezheted, lejátszhatod vagy eltávolíthatod az elemeket. Ez a
 
 ## 🧠 Válassz egy Round-Aboutot
 
-A **Round-About** egy rövid, tematikus kérdéskör. Ha csak eggyel játszol, egy rövid játékot kapsz 7 véletlenszerű kérdéssel.
+A **Round-About** is a small, themed round of questions — as the name says, a round _about_ a subject. Ha csak eggyel játszol, egy rövid játékot kapsz 7 véletlenszerű kérdéssel.
 
 Ha részletesebben szeretnél megnézni egy Round-Aboutot:
 
@@ -112,6 +112,12 @@ Játssz a barátaiddal a saját telefonjaik vagy táblagépeik használatával:
 1. Kattints a **Start** gombra, majd a **Társas játék** elemre
 2. A játékosok a képernyőn megjelenő utasításokat követve csatlakoznak
 3. Kattints a **Kvíz indítása** gombra, amikor mindenki készen áll
+
+Once the quiz starts, **the game runs automatically** — questions appear, timers count down, and scores are tallied without any host intervention.
+
+> ⏸️ Need a break? Move your mouse to the bottom of the game screen and a **pause** button will appear. Pausing is the only way to interrupt a Party Game.
+>
+> Want to control the pacing of the game yourself — deciding when each question starts? That's only possible with [**QuizWitz Live**](../quizmaster/001-introduction.md) and the Quizmaster App.
 
 ![QuizWitz kezdőképernyő](/images/quizwitz-start-screen.png)  
 ![QuizWitz kezdőképernyő társas játékhoz](/images/quizwitz-start-screen-party.png)  
