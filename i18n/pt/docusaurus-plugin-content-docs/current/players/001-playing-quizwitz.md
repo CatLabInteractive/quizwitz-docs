@@ -45,7 +45,7 @@ Você pode organizar, jogar ou remover itens a qualquer momento. Esta é sua bib
 
 ## 🧠 Escolha um Round-About
 
-Um **Round-About** é uma rodada pequena e temática de perguntas. Jogar apenas um vai te dar uma partida curta com 7 perguntas aleatórias.
+Um **Round About** é uma pequena rodada de perguntas — como o nome diz, uma rodada _sobre_ um assunto. Jogar apenas um vai te dar uma partida curta com 7 perguntas aleatórias.
 
 Para explorar um Round-About em mais detalhes:
 
@@ -112,6 +112,12 @@ Jogue com amigos usando os próprios celulares ou tablets deles:
 1. Clique em **Iniciar** e depois em **Party Game**
 2. Os jogadores seguem as instruções na tela para entrar
 3. Clique em **Iniciar quiz** quando todo mundo estiver pronto
+
+Quando o questionário começar, **o jogo roda automaticamente** — as questões aparecem, os cronômetros contam, e as pontuações são faladas sem qualquer intervenção do host.
+
+> ⏸️ Precisa de uma pausa? Mova o mouse para a parte inferior da tela do jogo e um botão **pausar** irá aparecer. Pausar é a única maneira de interromper um Jogo da Festa.
+>
+> Quer controlar o ritmo do jogo você mesmo — decidir quando cada questão começa? Só é possível com o [**QuizWitz Live**](../quizmaster/001-introduction.md) e com o aplicativo de Tizmaster!
 
 ![Tela inicial do QuizWitz](/images/quizwitz-start-screen.png)  
 ![Tela inicial do QuizWitz para Party Game](/images/quizwitz-start-screen-party.png)  
