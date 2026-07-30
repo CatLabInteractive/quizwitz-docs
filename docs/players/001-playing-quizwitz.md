@@ -45,7 +45,7 @@ You can organize, play, or remove items at any time. This is your personal libra
 
 ## 🧠 Choose a Round-About
 
-A **Round-About** is a small, themed round of questions. Playing just one will give you a short game with 7 random questions.
+A **Round-About** is a small, themed round of questions — as the name says, a round *about* a subject. Playing just one will give you a short game with 7 random questions.
 
 To explore a Round-About in more detail:
 
@@ -112,6 +112,12 @@ Play with friends using their own phones or tablets:
 1. Click **Start**, then **Party Game**
 2. Players follow the instructions on-screen to join
 3. Click **Start quiz** when everyone is ready
+
+Once the quiz starts, **the game runs automatically** — questions appear, timers count down, and scores are tallied without any host intervention.
+
+> ⏸️ Need a break? Move your mouse to the bottom of the game screen and a **pause** button will appear. Pausing is the only way to interrupt a Party Game.
+>
+> Want to control the pacing of the game yourself — deciding when each question starts? That's only possible with [**QuizWitz Live**](../quizmaster/001-introduction.md) and the Quizmaster App.
 
 ![QuizWitz start screen](/images/quizwitz-start-screen.png)  
 ![QuizWitz start screen party](/images/quizwitz-start-screen-party.png)  
