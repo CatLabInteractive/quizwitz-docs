@@ -45,7 +45,7 @@ Položky můžeš kdykoli uspořádat, hrát nebo odebrat. Tohle je tvoje osobn�
 
 ## 🧠 Vyber Round-About
 
-**Round-About** je malé tematické kolo otázek. Když si zahraješ jen jeden, dostaneš krátkou hru se 7 náhodnými otázkami.
+**Kolo O kolem** je malé, motivované kolo otázek — jak říká jméno, kolo _O předmětu_ věci. Když si zahraješ jen jeden, dostaneš krátkou hru se 7 náhodnými otázkami.
 
 Chceš-li si Round-About prohlédnout podrobněji:
 
@@ -112,6 +112,12 @@ Hraj s přáteli pomocí jejich vlastních telefonů nebo tabletů:
 1. Klikni na **Start** a pak na **Párty hra**
 2. Hráči se připojí podle pokynů na obrazovce
 3. Až budou všichni připraveni, klikni na **Spustit kvíz**
+
+Jakmile kvíz začne, **hra se spustí automaticky** — objeví se otázky, počítají se časovače a skóre se snáší bez jakéhokoliv zásahu hostitele.
+
+> ⏸️ Potřebujete zlom? Přesuňte myší na konec obrazovky hry a objeví se tlačítko **pozastavit**. Pozastavení je jediný způsob, jak přerušit hru Party Game.
+>
+> Chceš ovládat pacení hry sami - rozhodovat, kdy každá otázka začne? To je jen možné s [**QuizWitz Live**](../quizmaster/001-introduction.md) a Quizmaster aplikací.
 
 ![Úvodní obrazovka QuizWitz](/images/quizwitz-start-screen.png)  
 ![Úvodní obrazovka QuizWitz pro párty hru](/images/quizwitz-start-screen-party.png)  
