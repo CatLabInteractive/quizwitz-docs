@@ -47,9 +47,9 @@ Customize how the question behaves during gameplay:
 
 These fields control what appears on the Quizmaster App and game screen:
 
-- **Game screen – Question feedback** — Shown to all players after feedback is revealed
-- **Quizmaster – Long question** — A version of the question to be read aloud by the quizmaster
-- **Quizmaster – Long feedback** — Text the quizmaster can read after revealing the correct answer
+- **Game screen - Question feedback** — Shown to all players after feedback is revealed
+- **Quizmaster - Long question** — A version of the question to be read aloud by the quizmaster
+- **Quizmaster - Long feedback** — Text the quizmaster can read after revealing the correct answer
 
 > 📝 These fields help make live presentations feel dynamic and polished.
 
