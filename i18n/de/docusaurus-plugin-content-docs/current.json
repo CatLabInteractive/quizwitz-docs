@@ -20,7 +20,7 @@
     "description": "The label for category Round types in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Question types": {
-    "message": "Fragentypen",
+    "message": "Fragetypen",
     "description": "The label for category Question types in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Advanced": {
