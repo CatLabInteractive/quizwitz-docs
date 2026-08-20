@@ -14,7 +14,7 @@ Zamrzla ti hra? Zavřela se ti karta omylem? [**QuizWitz Live**](quizmaster/001-
 
 Pokud hra spadne, zasekne se nebo se z jakéhokoli důvodu přeruší — ať už kvůli problému s prohlížečem, restartu systému nebo náhodnému zavření karty — můžeš relaci snadno obnovit.
 
-Stačí **znovu otevřít stejnou kartu prohlížeče nebo herní obrazovku**, kterou jsi používal/a k zobrazení **hlavního herního pohledu**. To je obrazovka, kterou promítáš nebo streamuješ svému publiku.
+Jen **znovu otevřete stejnou záložku prohlížeče**, kterou jste použili k zobrazení **obrazovky hry**. To je obrazovka, kterou promítáš nebo streamuješ svému publiku.
 
 Po načtení:
 
