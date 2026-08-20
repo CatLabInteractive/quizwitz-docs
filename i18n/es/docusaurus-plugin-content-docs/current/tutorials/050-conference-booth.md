@@ -51,9 +51,9 @@ Cada vez que se ejecuta el quiz, QuizWitz selecciona 5 preguntas aleatorias de c
 La forma más rápida de lanzar tu quiz para conferencia:
 
 1. Haz clic en **Jugar quiz**.
-2. Selecciona **Iniciar modo de conferencia**.
+2. Seleccione **Modo de Conferencia Inicio**.
 
-En este modo, los jugadores usan sus teléfonos para conectarse al enlace del juego en la pantalla principal.  
+En este modo, los jugadores utilizan sus teléfonos para conectarse al enlace del juego en la pantalla del juego.  
 Cuando todos estén listos, el anfitrión del stand presiona Enter — y el juego corre automáticamente.  
 Después de que termine el juego, presionar Enter te lleva de vuelta a la pantalla de conexión para el siguiente grupo.
 
