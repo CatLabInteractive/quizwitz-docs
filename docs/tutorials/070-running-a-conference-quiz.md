@@ -27,7 +27,7 @@ Before you start, make sure you have:
 
 2. A black loading screen appears showing a percentage. This only takes a few seconds.
 
-3. Once loaded, the quiz screen appears. If prompted to log in, click **Login** — a second tab will open.  
+3. Once loaded, the game screen appears. If prompted to log in, click **Login** — a second tab will open.  
    - Click **Login** on the sign-in page and enter the credentials provided to you.  
    - After signing in, the tab closes automatically and the quiz finishes loading.
 
@@ -35,7 +35,7 @@ Before you start, make sure you have:
 
 5. Move your cursor over the screen to reveal the control bar at the bottom.  
    Click the **square icon** on the right to enter fullscreen mode.  
-   The quiz is now ready to play on the main display.
+   The quiz is now ready to play on the game screen.
 
 :::tip
 To exit fullscreen at any time — for example, to switch to another window — press **Esc**.
@@ -61,16 +61,16 @@ Once the quiz reloads, it will remember your login and go straight to the welcom
 Players join using their own smartphones in one of two ways:
 
 - Navigate to **www.quizwitz.tv** in their browser
-- Scan the **QR code** shown on the main screen
+- Scan the **QR code** shown on the game screen
 
 On the join screen, players:
 
-1. Enter the **8-digit code** shown on the main display.
+1. Enter the **8-digit code** shown on the game screen.
 2. Fill in their **name and email address**.
 3. Check the **privacy checkbox**.
 4. Tap **READY**.
 
-Once joined, players see a waiting message on their phone. The main screen shows how many players are connected.
+Once joined, players see a waiting message on their phone. The game screen shows how many players are connected.
 
 :::note
 Players can join at any time as long as the maximum number of players hasn't been reached.
@@ -87,7 +87,7 @@ A 5-second countdown begins, and then the quiz starts automatically.
 
 ## How the quiz runs
 
-- Each question appears on the main screen with the question text, four answer options, and an image.
+- Each question appears on the game screen with the question text, four answer options, and an image.
 - Players see the same question on their phone and tap one of the four options.
 - Players have **30 seconds** to answer. The timer is shown as a white bar at the bottom of the screen.
 - As soon as all players have answered (or time runs out), the correct answer is revealed on screen as a pie chart showing how answers were distributed.
