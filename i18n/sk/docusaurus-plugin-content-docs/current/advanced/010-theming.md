@@ -31,10 +31,10 @@ Všetky vlastné dizajny musia obsahovať logo QuizWitz.
 
 ## 🖥️ Prehľad obrazoviek
 
-| Fáza                                                                        | Hlavná obrazovka                                                                                               | Zariadenie hráča (tablet/telefón)                 |
+| Fáza                                                                        | Game screen                                                                                                    | Zariadenie hráča (tablet/telefón)                 |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | Obrazovka pripojenia                                                        |                                                                                                                |                                                                      |
-| Čakacia obrazovka                                                           | Logo kvízu. Zobrazuje sa, keď moderátor číta otázku.                           | Citát, ktorý hráča nabáda, aby pozorne počúval.      |
+| Čakacia obrazovka                                                           | Logo kvízu. Displayed while the quizmaster is reading the question.            | Citát, ktorý hráča nabáda, aby pozorne počúval.      |
 | Úvod hry                                                                    | Animácia pred hrou.                                                                            | Čakacia obrazovka.                                   |
 | Úvod kola                                                                   | Animácia pred každým kolom.                                                                    | Čakacia obrazovka.                                   |
 | Otázky                                                                      |                                                                                                                |                                                                      |
