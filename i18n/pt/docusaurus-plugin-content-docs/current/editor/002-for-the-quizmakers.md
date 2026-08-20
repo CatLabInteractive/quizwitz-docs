@@ -17,7 +17,7 @@ Como criador de quizzes, podes trabalhar com:
 - **Round-Abouts** — Pequenas coleções temáticas de perguntas exibidas em ordem aleatória
 - **Quizzes completos** — Quizzes personalizados, combinando vários Round-Abouts em uma sequência específica
 
-Você também pode **coletar Round-Abouts** criados por outros membros e incluí-los nos seus próprios quizzes.
+Também podes **recolher Round-Abouts** criados por outros membros e incluí-los nos teus próprios quizzes.
 
 ---
 
