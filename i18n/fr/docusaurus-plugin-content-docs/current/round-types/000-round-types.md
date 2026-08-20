@@ -1,6 +1,6 @@
 ---
 id: round-types
-name: Types de manches
+title: Types de manches
 ---
 
 # Types de manches
@@ -18,10 +18,10 @@ Dans les quiz, vous pouvez changer le type de manche dans le champ de sélection
 
 Ces manches offrent un peu plus d’interactivité que de simples questions-réponses.
 
-- [Piece of pie](021-piece-of-pie.md)
+- [Pièce de Pie](021-piece-of-pie.md)
 - [Multiquestion](022-multiquestion.md)
 - [Strike](023-strike.md)
-- [Dealer's choice](024-dealers-choice.md)
+- [Choix du marchand](024-dealers-choice.md)
 
 ## 🍺 Traditionnel
 
@@ -46,5 +46,5 @@ Ces types de manches ne contiennent aucune question — mais influent plutôt su
 
 Dans ces types de manches, vous pouvez sélectionner des **départements** spécifiques qui jouent contre d'autres départements.
 
-- [Department — Dealer's choice](070-departments-dealers-choice.md)
+- [Département — Choix du marchand](070-departments-dealers-choice.md)
 - [Department — Elimination](071-departments-elimination.md)
