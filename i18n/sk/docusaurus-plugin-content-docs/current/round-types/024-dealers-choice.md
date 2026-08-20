@@ -1,11 +1,11 @@
 ---
 id: dealers-choice
-title: Voľba dealera
+title: Dealer's Choice
 ---
 
-# 🃏 Voľba dealera
+# 🃏 Dealer's Choice
 
-Kolo **Voľba dealera** v QuizWitz pridáva do tvojho kvízu strategický zvrat.
+The **Dealer’s Choice** round in QuizWitz adds a strategic twist to your quiz.
 Jeden z hráčov si môže **vybrať kategóriu ďalšej otázky**, čo mu dáva možnú výhodu – a možno aj bonus! Takto to nastavíš a hráš:
 
 ---
@@ -21,7 +21,7 @@ V tomto kole sa **jeden hráč stane „dealerom“** a vyberie ďalšiu kategó
 
 ## 🏷️ Priraďovanie kategórií k otázkam
 
-Každá otázka v kole Voľba dealera potrebuje **jedinečný štítok**, ktorý funguje ako kategória, ktorú dealer vidí a z ktorej si vyberá.
+Each question in the Dealer’s Choice round needs a **unique label**, which acts as the category the dealer sees and selects from.
 
 Napríklad:
 
@@ -73,5 +73,5 @@ Pred začiatkom kola QuizWitz určí dealera pomocou jednej z týchto možností
 
 ---
 
-Kolo Voľba dealera podporuje interakciu a dáva hráčom trochu kontroly, pričom stále odmeňuje rýchle a správne odpovede. Je to skvelý spôsob, ako udržať všetkých zapojených!
+The Dealer’s Choice round encourages interaction and gives players a bit of control, while still rewarding quick and correct answers. Je to skvelý spôsob, ako udržať všetkých zapojených!
 
