@@ -18,20 +18,20 @@ Une question ouverte permet aux joueurs de taper librement leur réponse avec le
 - **Question :** Demandez une réponse spécifique dans un champ de texte libre (exemple : « Quel duo interprète cette chanson ? »).
 - **Réponse :** Les joueurs tapent leur réponse. Vous pouvez fournir plusieurs réponses acceptées pour une validation automatique.
 - **Pièces jointes :** Ajoutez de l’audio, des images ou des vidéos comme indice (par exemple, un extrait musical).
-- **Retour :** Les joueurs voient, après avoir répondu, si leur réponse a été marquée comme correcte ou non. Vous pouvez aussi fournir des retours supplémentaires ou des explications.
+- **Feedback :** Les joueurs voient, après avoir répondu, si leur réponse a été marquée comme correcte ou non. Vous pouvez aussi fournir du feedback supplémentaire ou des explications.
 
 ---
 
-## ⚙️ Paramètres étendus
+## ⚙️ Paramètres avancés
 
 Les questions ouvertes offrent une gamme de paramètres pour s’adapter à votre quiz :
 
 - **Plusieurs réponses acceptées :** Ajoutez des orthographes alternatives, des abréviations ou des synonymes pour une correction automatique plus flexible.
 - **Score basé sur le temps :** Récompensez les réponses plus rapides (voir « Score » ci-dessous).
 - **Forcer la correction automatique :** Activez cette option pour que le jeu marque automatiquement les réponses correctes selon la liste que vous avez fournie.
-  - Si non activé (par défaut pour la plupart des parties en direct), les réponses ouvertes doivent être examinées et notées manuellement via l’[application Jury](../quizmaster/004-jury-app.md).
+  - S'il n'est pas activé (par défaut pour la plupart des jeux en direct), les réponses ouvertes doivent être vérifiées et marquées manuellement à l'aide de l'[app du jury](../quizmaster/004-jury-app.md).
 
-Pour en savoir plus sur ces options, voyez [comment écrire des questions](../editor/005-writing-questions.md).
+Pour en savoir plus sur ces options, voyez [rédiger des questions](../editor/005-writing-questions.md).
 
 ---
 
@@ -49,11 +49,11 @@ Le système de score pour les questions ouvertes est conçu pour être équitabl
 
 ## 🧑‍⚖️ Revue par le jury dans QuizWitz Live
 
-Dans **QuizWitz Live**, les questions ouvertes nécessitent généralement une revue manuelle avec l’[application Jury](../quizmaster/004-jury-app.md) :
+Dans **QuizWitz Live**, les questions ouvertes nécessitent généralement une revue manuelle avec l'[app du jury](../quizmaster/004-jury-app.md) :
 
-- L’application Jury permet aux membres du jury d’accepter, refuser, ou ajuster la notation des réponses ouvertes.
-- La reconnaissance phonétique et alternative aide, mais le jugement humain est essentiel pour une notation juste et créative.
-- Pour toutes les instructions et fonctionnalités, consultez la [documentation de l’application Jury](../quizmaster/004-jury-app.md).
+- L'app du jury permet aux membres du jury d'accepter, de rejeter ou d'ajuster la notation pour les réponses ouvertes.
+- La reconnaissance phonétique et alternative aide, mais le jugement humain reste essentiel pour une notation juste et pour évaluer la créativité.
+- Pour obtenir des instructions et des fonctionnalités complètes, consultez la [documentation de l'app du jury](../quizmaster/004-jury-app.md).
 
 ---
 
@@ -66,4 +66,4 @@ Dans **QuizWitz Live**, les questions ouvertes nécessitent généralement une r
 
 ---
 
-Pour plus d’informations sur les pièces jointes et les retours, voyez la [documentation sur les pièces jointes](../editor/006-attachments.md).
+Pour plus d'informations sur les pièces jointes et le feedback, voyez la [documentation sur les pièces jointes](../editor/006-attachments.md).
