@@ -9,7 +9,7 @@ En una pregunta de **mapa de imagen**, los jugadores deben seleccionar el lugar 
 
 ---
 
-![Ejemplo: pregunta de mapa de imagen con matraces](/images/question-modes/image-map/image-map-example.png)
+![Ejemplo: Pregunta de mapa de imagen con matraces](/images/question-modes/image-map/image-map-example.png)
 
 ---
 
@@ -52,7 +52,7 @@ Puedes desactivar la puntuación basada en el tiempo para este tipo de pregunta 
 
 - **Usa imágenes claras y sin desorden** para facilitar la identificación.
 - **Define las áreas de respuesta con cuidado** para evitar solapamientos o confusiones.
-- **Proporciona retroalimentación constructiva** para ayudar a los jugadores a aprender de los errores.
+- **Proporciona feedback constructivo** para ayudar a los jugadores a aprender de los errores.
 - **Crédito parcial:** Usa la opción de “casi correcto” para recompensar los aciertos cercanos y mantener la justicia.
 
 ---
