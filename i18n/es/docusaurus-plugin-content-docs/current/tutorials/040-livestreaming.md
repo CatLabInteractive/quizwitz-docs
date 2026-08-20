@@ -1,23 +1,23 @@
 ---
 id: livestream-tutorial
-title: Cuestionario en directo
+title: Quiz en directo
 ---
 
-# 📺 Organizando un cuestionario en directo
+# 📺 Organizando un quiz en directo
 
-Con QuizWitz Live, es fácil organizar un cuestionario totalmente interactivo en directo en plataformas como **Twitch**, **YouTube Live** o **Facebook Live** — incluso para grandes audiencias. Esta guía te lleva paso a paso por la configuración, manejo del retraso y mejores prácticas de presentación.
+Con QuizWitz Live, es fácil organizar un quiz totalmente interactivo en directo en plataformas como **Twitch**, **YouTube Live** o **Facebook Live** — incluso para grandes audiencias. Esta guía te lleva paso a paso por la configuración, manejo del retraso y mejores prácticas de presentación.
 
-> 🧭 Si eres nuevo/a en la app Quizmaster, comienza con la [**guía de inicio de Quizmaster**](../quizmaster/002-startup.md).
+> 🧭 Si eres nuevo en la Quizmaster App, empieza con la [**Guía de inicio del quizmaster**](../quizmaster/002-startup.md).
 
 ---
 
-## 🎤 La configuración del Quizmaster
+## 🎤 La configuración del quizmaster
 
 El quizmaster es el corazón de tu evento. Controla el ritmo, presenta las preguntas y mantiene a tu audiencia comprometida.
 
-Usa la **app Quizmaster** para dirigir el juego. Lanza QuizWitz Live desde el editor de cuestionarios haciendo clic en **Iniciar QuizWitz Live**.
+Usa la **Quizmaster App** para ejecutar el juego. Lanza QuizWitz Live desde el editor de quiz haciendo clic en **Iniciar QuizWitz Live**.
 
-> 💡 La app Quizmaster es una **app web** — no requiere instalación. Sólo accede a [**quizwitz.tv**](https://quizwitz.tv) en tu dispositivo de presentación e introduce el **Código Maestro**.
+> 💡 La Quizmaster App es una **aplicación web** — no hay instalación. Solo ve a [**quizwitz.tv**](https://quizwitz.tv) en tu dispositivo de quizmaster e introduce el **código de quizmaster**.
 
 Recomendamos usar una **tablet o smartphone** para que el quizmaster pueda moverse libremente durante el show.
 
@@ -25,27 +25,27 @@ Recomendamos usar una **tablet o smartphone** para que el quizmaster pueda mover
 
 ## 🧩 Elegir el modo de juego correcto
 
-Al iniciar QuizWitz Live, se te pedirá elegir un modo:
+Cuando inicies QuizWitz Live, se te pedirá que elijas cómo se conectan los jugadores:
 
-- **Modo regular** — Los jugadores o equipos reciben un código único. Útil para eventos de equipos pre-registrados.
-- **Modo ad-hoc** — Un único Código de Juego compartido para todos los jugadores. Lo mejor para directos con registro abierto.
+- **Códigos de equipo** — Los jugadores o equipos reciben cada uno un código único. Útil para eventos de equipos pre-registrados.
+- **Código de juego compartido** — Un código compartido para todos los jugadores. Lo mejor para directos con registro abierto.
 
-> Para los directos, siempre elige **Modo ad-hoc** y haz clic en **Iniciar juego ad-hoc**.
+> Para las transmisiones en vivo, elige siempre el **Código de juego compartido** y haz clic en _Iniciar juego_.
 
-Una vez que el cuestionario carga, la app Quizmaster mostrará:
+Una vez que se cargue el quiz, la Quizmaster App mostrará lo siguiente:
 
-- **Código Maestro** — para el quizmaster
-- **Código de Jurado** — para revisar preguntas abiertas
-- **Código Regie** — para controlar visuales/audio
-- **Código de Juego** — para que los jugadores se unan
+- **Código de quizmaster** — para el quizmaster
+- **Código del jurado** — para revisar preguntas abiertas
+- **Código regie** — para controlar visuales/audio
+- **Código de juego** — para que los jugadores se unan
 
-Tu pantalla de juego ahora muestra la **pantalla Conectar**, que es lo que debes transmitir a tu audiencia.
+Tu pantalla de juego ahora muestra la **pantalla de conexión**, que es lo que debes transmitir a tu audiencia.
 
 ---
 
 ## 🎥 Transmitiendo en Twitch (u otros)
 
-Para transmitir tu cuestionario, usa software de transmisión. Recomendamos:
+Para transmitir tu quiz, usa software de transmisión. Recomendamos:
 
 - **OBS Studio** (Open Broadcast Software) — gratis y potente
 - Alternativas: Streamlabs, vMix, o opciones nativas para Zoom/Meet
@@ -53,7 +53,7 @@ Para transmitir tu cuestionario, usa software de transmisión. Recomendamos:
 Si usas **software de reuniones** como Zoom o Google Meet:
 
 - Simplemente comparte tu pantalla
-- Pulsa **Iniciar** en la app Quizmaster
+- Presiona **Inicio** en la Quizmaster App
 - Los jugadores pueden participar casi en tiempo real
 
 Para **Twitch, YouTube Live o Facebook Live**, experimentarás un **retraso de transmisión** (también llamado retraso de transcodificación).
@@ -64,17 +64,17 @@ Para **Twitch, YouTube Live o Facebook Live**, experimentarás un **retraso de t
 
 ## ⏱️ Configurando el retraso del jugador en QuizWitz
 
-Para compensar el retraso de la transmisión, usa el **retraso de interacción del jugador** en la app Jurado.
+Para compensar el retraso de la transmisión, utiliza el **retraso de interacción del jugador** en la app del jurado.
 
-Así es cómo:
+Así es como:
 
 1. Inicia la vista previa de tu transmisión — no necesitas ir en vivo aún
-2. Abre la **app Jurado** ingresando tu Código de Jurado en [**catlab.tv**](https://catlab.tv)
+2. Abre la **app del jurado** introduciendo tu código del jurado en [**quizwitz.tv**](https://quizwitz.tv)
 3. Ve a **Control del juego**
 4. Abre tu livestream en otra ventana, con sonido
 5. Usa un cronómetro
-6. En la app Jurado, pulsa el botón **Zumbador** y comienza a medir el tiempo
-7. Cuando escuches el zumbador en la transmisión, para el cronómetro
+6. En la app del jurado, pulsa el botón **Buzzer** y empieza a cronometrar
+7. Cuando escuches el Buzzer en la transmisión, para el cronómetro
 8. Redondea el retraso (en segundos) e introdúcelo en el campo **Retraso de interacción del jugador**
 9. Haz clic en **Confirmar configuración**
 
@@ -87,14 +87,14 @@ Así es cómo:
 Una vez que el retraso esté configurado y tus jugadores conectados:
 
 - Inicia tu transmisión en Twitch
-- Usa la app Quizmaster para **lanzar el cuestionario**
+- Usa la Quizmaster App para **iniciar el quiz**
 - QuizWitz manejará el tiempo en segundo plano — no es necesario pausar entre preguntas
 
 ---
 
 ## 💡 Consejos para la presentación en directo
 
-- **No permitas que el quizmaster vea la transmisión con retraso** — debe usar sólo la app Quizmaster en tiempo real para evitar pausas incómodas.
+- **No dejes que el quizmaster vea la transmisión retrasada** — debe usar solo la Quizmaster App en directo para evitar pausas incómodas.
 
 - Para interactuar con la audiencia, monitorea los **comentarios en vivo** en una pantalla separada — no el flujo de vídeo.
 
@@ -106,8 +106,8 @@ Una vez que el retraso esté configurado y tus jugadores conectados:
 
 - ¿Buscas más herramientas? Visita [**regie.catlab.eu**](https://regie.catlab.eu) — un centro con utilidades adicionales para automatización, cambio de escenas, efectos y más.
 
-> Todas las herramientas necesitan tu **Código Regie** de la app Quizmaster.
+> Todas las herramientas requieren tu **código regie** de la Quizmaster App.
 
 ---
 
-¡Estás listo/a para salir en vivo! Twitch ofrece una plataforma fluida y receptiva para organizar eventos de cuestionarios a gran escala. Combina eso con QuizWitz Live — y tu noche de cuestionarios estará lista para impresionar.
+¡Estás listo/a para salir en vivo! Twitch ofrece una plataforma fluida y receptiva para organizar eventos de quiz a gran escala. Combina eso con QuizWitz Live — y tu noche de quiz estará lista para impresionar.
