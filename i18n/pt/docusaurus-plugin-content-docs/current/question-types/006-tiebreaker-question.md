@@ -28,7 +28,7 @@ Os jogadores devem tentar adivinhar um número (por exemplo, “Quantos feijões
 
 _Exemplos de perguntas de desempate:_
 
-- Quantas balas de goma há no pote mostrado na tela?
+- Quantas balas de goma há no pote mostrado no ecrã?
 - Qual é o comprimento total (em metros) de todos os rios da Bélgica somados?
 - Quantos tijolos foram usados para construir o Empire State Building?
 - Qual foi o público presente na primeira final da Copa do Mundo?
