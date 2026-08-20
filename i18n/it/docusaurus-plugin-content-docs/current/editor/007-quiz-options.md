@@ -73,11 +73,11 @@ Genera link di condivisione o codice di incorporamento con impostazioni di gioco
 
 ---
 
-## 📜 Testo per il Quizmaster
+## 📜 Testo per il quizmaster
 
-Aggiungi istruzioni personalizzate per il presentatore per:
+Aggiungi istruzioni quizmaster personalizzate per:
 
 - **Introduzione del quiz**
 - **Outro del quiz**
 
-Questi sono visibili nell'[app quizmaster](../quizmaster/001-introduction.md) quando usi QuizWitz Live.
+Questi sono visibili sulla [Quizmaster App](../quizmaster/001-introduction.md) quando si usa QuizWitz Live.
