@@ -1,11 +1,11 @@
 ---
 id: strike
-title: Racha
+title: Strike
 ---
 
-# 📈 Racha
+# 📈 Strike
 
-En una ronda de **Racha**, los jugadores pueden subir por varios niveles respondiendo correctamente preguntas consecutivas. ¡Cuanto más larga sea la racha, más puntos pueden ganar!
+En una ronda de **Strike**, los jugadores pueden subir por varios niveles respondiendo correctamente preguntas consecutivas. ¡Cuanto más larga sea la racha, más puntos pueden ganar!
 
 ---
 
