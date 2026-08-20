@@ -1,6 +1,6 @@
 ---
 id: round-types
-name: Tipos de rodada
+title: Tipos arredondados
 ---
 
 # Tipos de rodada
@@ -21,7 +21,7 @@ Estas rodadas oferecem um pouco mais de interatividade do que simples perguntas 
 - [Pedaço de torta](021-piece-of-pie.md)
 - [Multipergunta](022-multiquestion.md)
 - [Penalidade](023-strike.md)
-- [Escolha do dealer](024-dealers-choice.md)
+- [Escolha do Redentor](024-dealers-choice.md)
 
 ## 🍺 Tradicional
 
@@ -46,5 +46,5 @@ Estes tipos de rodada não contêm perguntas — em vez disso, influenciam o res
 
 Nestes tipos de rodada, você pode selecionar **departamentos** específicos para jogar contra outros departamentos.
 
-- [Departamento — Escolha do dealer](070-departments-dealers-choice.md)
+- [Departamento — Escolha de alerta](070-departments-dealers-choice.md)
 - [Departamento — Eliminação](071-departments-elimination.md)
