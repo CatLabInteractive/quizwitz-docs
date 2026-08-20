@@ -1,11 +1,11 @@
 ---
 id: dealers-choice
-title: Scelta del dealer
+title: Dealer's Choice
 ---
 
-# 🃏 Scelta del dealer
+# 🃏 Dealer's Choice
 
-Il round **Scelta del dealer** in QuizWitz aggiunge un tocco strategico al tuo quiz.
+Il round **Dealer's Choice** di QuizWitz aggiunge un tocco strategico al tuo quiz.
 Uno dei giocatori può **scegliere la categoria della prossima domanda**, ottenendo un potenziale
 vantaggio—e magari anche un bonus! Ecco come configurarlo e giocare:
 
@@ -22,7 +22,7 @@ In questo round, **un giocatore diventa il "dealer"** e seleziona la prossima ca
 
 ## 🏷️ Assegnare categorie alle domande
 
-Ogni domanda nel round Scelta del dealer ha bisogno di un'**etichetta univoca**, che funge da categoria che il dealer vede e tra cui sceglie.
+Ogni domanda nel round Dealer's Choice ha bisogno di una **etichetta unica**, che rappresenta la categoria che il dealer vede e tra cui sceglie.
 
 Per esempio:
 
@@ -74,5 +74,5 @@ Prima dell'inizio del round, QuizWitz determina il dealer usando una di queste o
 
 ---
 
-Il round Scelta del dealer incoraggia l'interazione e dà ai giocatori un po' di controllo, continuando a premiare risposte rapide e corrette. È un ottimo modo per tenere tutti coinvolti!
+Il round Dealer's Choice incoraggia l'interazione e dà ai giocatori un po' di controllo, pur premiando risposte rapide e corrette. È un ottimo modo per tenere tutti coinvolti!
 
