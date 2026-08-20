@@ -52,7 +52,7 @@ Um einen Round-About genauer zu erkunden:
 - Klicke auf das **Bild**, den **Titel** oder das **Kommentar-Symbol**
 - Klicke auf **Spielen**, um direkt loszulegen
 
-![QuizWitz round-about details](/images/round-about-details.png)
+![QuizWitz Rund-Über Details](/images/round-about-details.png)
 
 ---
 
@@ -107,7 +107,7 @@ Sobald dein Spiel startet, wähle deinen Modus:
 
 Spiele mit Freunden, die ihr eigenes Handy oder Tablet nutzen:
 
-> 📺 Sorge dafür, dass der Quizbildschirm sichtbar ist — verwende ein geteiltes Display oder Bildschirmfreigabe
+> 📺 Stelle sicher, dass der Spielbildschirm sichtbar ist — benutze einen geteilten Bildschirm oder Bildschirm teilen
 
 1. Klicke auf **Starten**, dann auf **Partyspiel**
 2. Die Spieler folgen den Anweisungen auf dem Bildschirm, um beizutreten
