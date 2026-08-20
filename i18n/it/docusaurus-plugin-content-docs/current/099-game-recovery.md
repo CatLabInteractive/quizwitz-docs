@@ -14,7 +14,7 @@ Il gioco si è bloccato? La scheda si è chiusa per sbaglio? [**QuizWitz Live**]
 
 Se il gioco va in crash, si blocca o viene interrotto per qualsiasi motivo — che sia un problema del browser, un riavvio del sistema o la chiusura accidentale della scheda — puoi riprendere facilmente la sessione.
 
-Ti basta **riaprire la stessa scheda del browser o schermata di gioco** che stavi usando per mostrare la **vista principale del gioco**. È la schermata che proietti o trasmetti in streaming al tuo pubblico.
+Basta **riaprire la stessa scheda del browser** che stavi usando per visualizzare la **schermata del gioco**. È la schermata che proietti o trasmetti in streaming al tuo pubblico.
 
 Quando si carica:
 
