@@ -1,14 +1,14 @@
 {
   "title": {
-    "message": "Blogue",
+    "message": "Blog",
     "description": "Navigation label or content type name for blog posts."
   },
   "description": {
-    "message": "Blogue",
+    "message": "Blog",
     "description": "Navigation label or content type name for blog posts."
   },
   "sidebar.title": {
-    "message": "Messages récents",
+    "message": "Articles récents",
     "description": "The label for the left sidebar"
   }
 }
