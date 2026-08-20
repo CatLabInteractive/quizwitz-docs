@@ -80,7 +80,7 @@ Cuando estés listo para probar o iniciar tu quiz, presiona el botón **Iniciar 
 
 - **[Juega a Party Game](../players/001-playing-quizwitz.md)** — Una experiencia de prueba casual para disfrutar con amigos en la misma pantalla o a través de un screenshare. El juego se ejecuta automáticamente; el anfitrión puede pausarlo, pero no tiene más control sobre el ritmo.
 - **[Iniciar Pruebas Witz Live (PRO)](../quizmaster/001-introduction.md)** — Lanza un evento profesional de prueba en vivo usando la aplicación maestra. Este es el **único modo donde el probador controla el ritmo** del juego.
-- **[Modo de conferencia inicial (PRO)](../tutorials/050-conference-booth.md)** — Organiza un cuestionario de estilo de conferencia para mayores audiencias con asientos asignados, códigos de equipo y herramientas de producción. Como Party Games, los juegos de conferencia se ejecutan automáticamente.
+- **[Iniciar modo de conferencia (PRO)](../tutorials/050-conference-booth.md)** — Organiza un cuestionario al estilo de conferencia para mayores audiencias con asientos asignados, códigos de equipo y herramientas de producción. Como Party Games, los juegos de conferencia se ejecutan automáticamente.
 
 ---
 
