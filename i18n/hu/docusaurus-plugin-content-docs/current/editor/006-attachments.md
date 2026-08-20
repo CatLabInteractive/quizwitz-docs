@@ -58,6 +58,6 @@ Ez különösen hatásos fejtörőknél, vagy intrók és drámai pillanatok ala
 Néhány helyen **több mellékletet** is hozzáadhatsz. A működésük a játékmódtól függ:
 
 > ⚡ **A [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) használatakor:** A quizmaster teljes irányítással rendelkezik, és eldöntheti, mikor jelenjenek meg vagy tűnjenek el a mellékletek játék közben.  
-> 🎮 **Normál játékokban:** Egy helyen belül az összes melléklet **egyszerre** jelenik meg.
+> 🎮 **In games without a quizmaster (Party Game, Conference mode, Single player):** All attachments within a slot are shown **simultaneously**.
 
 Az egyes helyek időzítéséről és működéséről további részleteket a hivatkozott dokumentációban találsz: [kérdések](../editor/015-importing-questions.md), [fordulók](../editor/008-round-options.md) és [kvízek](../editor/007-quiz-options.md).
