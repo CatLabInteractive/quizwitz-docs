@@ -9,7 +9,7 @@ Une manche Activité vous permet de vous éloigner des questions de quiz standar
 
 ---
 
-![Écran principal de la manche Activité](/images/round-modes/activity-main-screen.png)
+![Écran de jeu pour la manche Activité](/images/round-modes/activity-main-screen.png)
 
 ---
 
@@ -33,7 +33,7 @@ Une manche Activité vous permet de vous éloigner des questions de quiz standar
 
 - **Outils pour le duel :** Le quizmaster peut accéder à des actions rapides pour buzzer, gong, cloches et minuteurs pendant l'activité.
 - **Points personnalisés :** Les points peuvent être saisis manuellement pour chaque équipe, ou vous pouvez sélectionner un gagnant avec des boutons d'action rapide.
-- **Pièces jointes :** Ajoutez images, audio ou vidéo pour expliquer l'activité ou montrer des exemples. Le quizmaster peut les afficher à l'écran principal pendant l'activité.
+- **Pièces jointes :** Ajoutez images, audio ou vidéo pour expliquer l'activité ou montrer des exemples. Le quizmaster peut les afficher sur l'écran de jeu pendant l'activité.
 
 ---
 
@@ -53,7 +53,7 @@ Une manche Activité vous permet de vous éloigner des questions de quiz standar
 
 ## 💡 Conseils
 
-- **Rendez-la mémorable :** Les activités fonctionnent mieux quand elles sont amusantes à regarder ou à participer pour tous.
+- **Rendez-la mémorable :** Les activités sont plus réussies quand elles sont amusantes, que ce soit à regarder ou à y participer, pour tout le monde.
 - **Soyez juste :** Assurez-vous que l'activité peut être jugée objectivement, ou utilisez un système de vote pour décider du gagnant.
 - **Soyez clair :** Annoncez les règles et attentes avant de commencer.
 - **Dynamisez votre événement :** Utilisez les manches d'activité pour garder les choses animées et engageantes.
