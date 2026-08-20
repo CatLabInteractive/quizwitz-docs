@@ -43,13 +43,13 @@ Personnalisez comment la question se comporte pendant la partie :
 
 ---
 
-### 🎤 Contenu du présentateur
+### 🎤 Quizmaster content
 
-Ces champs contrôlent ce qui apparaît sur l'application Quizmaster et sur le grand écran :
+Ces champs contrôlent ce qui apparaît sur l'application Quizmaster et l'écran de jeu:
 
-- **Grand écran – Retour de la question** — Affiché à tous les joueurs une fois le retour dévoilé
-- **Présentateur – Question longue** — Une version de la question à lire à voix haute par l'animateur
-- **Présentateur – Retour long** — Texte que l'animateur peut lire après avoir révélé la bonne réponse
+- **Écran de jeu - Commentaire de la question** — Affiché à tous les joueurs après la révélation des commentaires
+- **Quizmaster - Question longue** — Une version de la question à lire à haute voix par le quizmaster
+- **Quizmaster - Long feedback** — Texte que le quizmaster peut lire après avoir révélé la bonne réponse
 
 > 📝 Ces champs aident à rendre les présentations en direct dynamiques et soignées.
 
@@ -70,7 +70,7 @@ Vous pouvez enrichir les questions avec des images, vidéos ou sons. Chaque piè
 Vous pouvez ajouter **plusieurs pièces jointes** dans chaque emplacement.
 
 > ⚡ **Dans [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) :** le quizmaster peut choisir quelle pièce jointe afficher à chaque moment.  
-> 🎮 **Dans les parties régulières :** toutes les pièces jointes d'un emplacement donné sont affichées en même temps.
+> 🎮 **Dans les jeux sans quizmaster (Party Game, mode Conférence, Seul Joueur):** toutes les pièces jointes dans un créneau donné sont affichées en même temps.
 
 📘 En savoir plus sur les types de fichiers supportés, astuces de timing, et limites dans le [guide des pièces jointes](../editor/006-attachments.md).
 
