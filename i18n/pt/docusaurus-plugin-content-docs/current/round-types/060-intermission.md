@@ -11,19 +11,19 @@ title: Intervalo
 
 ## 📝 Como funciona
 
-- Durante um intervalo, o ecrã principal do jogo fica em pausa e é mostrado um temporizador.
-- **Em jogos de conferência e festas:**  
-  O intervalo termina quando alguém prime **Enter** no ecrã principal do jogo.
+- Durante uma intermissão, a tela do jogo é pausada e um temporizador é mostrado.
+- **No modo de Conferência e Party Games:**  
+  A intermissão termina quando alguém pressiona **Enter** na tela do jogo.
 - **Em jogos QuizWitz Live:**  
   O quizmaster termina o intervalo a partir do seu dispositivo (tablet ou smartphone).  
-  A app Quizmaster mostra um temporizador para que o anfitrião possa ver há quanto tempo dura o intervalo.
+  O Aplicativo Mestre de Questionários exibe um temporizador para que o testador possa ver quanto tempo a intermissão durou.
 
 ---
 
 ## 🖼️ Anexos
 
 - Podes carregar imagens, logótipos ou vídeos nas definições da ronda.
-- Durante o intervalo, estes anexos serão mostrados num carrossel no ecrã principal — ótimo para logótipos de patrocinadores, mensagens ou vídeos promocionais.
+- Durante a intermissão, esses anexos serão exibidos em um carrossel na tela do jogo - ótimo para logotipos de patrocinadores, mensagens ou vídeos promocionais.
 - Os anexos serão repetidos durante toda a pausa.
 
 ---
