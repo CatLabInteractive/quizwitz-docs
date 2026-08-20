@@ -1,6 +1,6 @@
 ---
 id: round-types
-title: Rundentypen
+title: Rundungstypen
 ---
 
 # Rundentypen
@@ -18,10 +18,10 @@ In Quizzen kannst du den Rundentyp im Auswahlfeld **Rundentyp** oben in der Mitt
 
 Diese Runden bieten etwas mehr Interaktivität als einfache Frage-Antwort-Runden.
 
-- [Stück vom Kuchen](021-piece-of-pie.md)
+- [Kuchenstück](021-piece-of-pie.md)
 - [Mehrfachfrage](022-multiquestion.md)
 - [Strike](023-strike.md)
-- [Dealer's choice](024-dealers-choice.md)
+- [Dealer's Choice](024-dealers-choice.md)
 
 ## 🍺 Traditionell
 
@@ -38,7 +38,7 @@ Diese Rundentypen enthalten keine Fragen — beeinflussen stattdessen den Spielv
 
 - [Aktivität](040-activity.md)
 - [Pause](060-intermission.md)
-- [Spieler-Vorstellung](061-player-introduction.md)
+- [Spielervorstellung](061-player-introduction.md)
 - [Elimination](050-elimination.md)
 - [Punkte zurücksetzen](051-reset-points.md)
 
@@ -46,5 +46,5 @@ Diese Rundentypen enthalten keine Fragen — beeinflussen stattdessen den Spielv
 
 In diesen Rundentypen kannst du bestimmte **Abteilungen** auswählen, die gegeneinander spielen.
 
-- [Abteilung — Dealer's choice](070-departments-dealers-choice.md)
+- [Abteilungen — Dealer's Choice](070-departments-dealers-choice.md)
 - [Abteilung — Elimination](071-departments-elimination.md)
