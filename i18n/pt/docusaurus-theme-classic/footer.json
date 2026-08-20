@@ -32,7 +32,7 @@
     "description": "Label for the website URL input field on a profile or publisher settings page."
   },
   "link.item.label.Blog": {
-    "message": "Blog",
+    "message": "Blogue",
     "description": "Navigation label or content type name for blog posts."
   },
   "copyright": {
