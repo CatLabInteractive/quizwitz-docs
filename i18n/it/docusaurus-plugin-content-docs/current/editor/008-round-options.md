@@ -56,9 +56,9 @@ Queste opzioni di punteggio si trovano nel pannello delle opzioni del round quan
 
 ---
 
-## 📜 Istruzioni per il Quizmaster
+## 📜 Istruzioni per il quizmaster
 
-Puoi aggiungere un **testo introduttivo personalizzato del round** che apparirà solo nell’[app Quizmaster](../quizmaster/001-introduction.md) all’inizio del round. Usalo per dare indicazioni al presentatore o aggiungere un tocco personale.
+Puoi aggiungere un **testo di introduzione arrotondato** personalizzato che apparirà solo sull'[Quizmaster App](../quizmaster/001-introduction.md) all'inizio del round. Usalo per descrivere il quizmaster o aggiungere un tocco personale.
 
 ---
 
