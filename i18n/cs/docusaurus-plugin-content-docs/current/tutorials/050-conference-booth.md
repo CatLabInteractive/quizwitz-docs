@@ -51,9 +51,9 @@ Pokaždé, když se kvíz spustí, QuizWitz vybere z každého kola 5 náhodnýc
 Nejrychlejší způsob, jak spustit konferenční kvíz:
 
 1. Klikni na **Hrát kvíz**.
-2. Vyber **Spustit konferenční režim**.
+2. Vyberte **Spustit režim Konference**.
 
-V tomto režimu se hráči pomocí telefonů připojí ke hře přes odkaz na hlavní obrazovce.  
+V tomto režimu používají hráči své telefony k připojení k odkazu na hru na obrazovce hry.  
 Až budou všichni připravení, hostitel stánku stiskne Enter — a hra poběží automaticky.  
 Po skončení hry tě stisknutí Enteru vrátí rovnou na obrazovku připojení pro další skupinu.
 
