@@ -31,7 +31,7 @@ Una **pregunta de lista** pide a los jugadores que proporcionen varias respuesta
 - **Opciones dadas:** Úsalas como ejemplos dentro de la pregunta.
 - **Corrección:**
   - **Forzar corrección automática:** Cuando está activado, QuizWitz revisa automáticamente todas las respuestas (aceptando pequeños errores tipográficos y variaciones). No se necesita jurado.
-  - **Revisión manual:** Cuando no está activada, cada respuesta proporcionada debe ser revisada por la [app del jurado](../quizmaster/004-jury-app.md).
+  - **Revisión manual:** Cuando no está activada, cada respuesta proporcionada debe ser revisada por la [Aplicación del Jurado](../quizmaster/004-jury-app.md).
 
 ---
 
@@ -59,4 +59,4 @@ Para más detalles, consulta las [opciones de puntuación de rondas](../editor/0
 
 ---
 
-Para más información, consulta la [documentación de la app del jurado](../quizmaster/004-jury-app.md).
+Para más información, vea [Documentación de la App del Jur](../quizmaster/004-jury-app.md).
