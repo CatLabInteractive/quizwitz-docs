@@ -31,25 +31,25 @@ Alle benutzerdefinierten Designs müssen das QuizWitz-Logo enthalten.
 
 ## 🖥️ Bildschirmübersicht
 
-| Stage                                                    | Hauptbildschirm                                                                                          | Player device (Tablet/Phone)                         |
-| -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Verbindungsbildschirm                                    |                                                                                                          |                                                                         |
-| Wartebildschirm                                          | Logo des Quiz. Wird angezeigt, während der Moderator die Frage vorliest. | Ein Zitat, das den Spieler auffordert, genau zuzuhören. |
-| Spiel-Einführung                                         | Animation vor dem Spiel.                                                                 | Wartebildschirm.                                        |
-| Runden-Einführung                                        | Animation vor jeder Runde.                                                               | Wartebildschirm.                                        |
-| Fragen                                                   |                                                                                                          |                                                                         |
-| Anhang                                                   | Anhangansicht im Vollbild (— vor/nach Fragen oder Runden —).          | Wartebildschirm.                                        |
-| Frage: Multiple Choice ohne Anhang       | Frage + 4 Multiple-Choice-Optionen.                                                      | Multiple-Choice-Antwortbildschirm.                      |
-| Frage: Multiple Choice mit Anhang        | Frage + 4 Multiple-Choice-Optionen + ein visueller Anhang.                               | Multiple-Choice-Antwortbildschirm.                      |
-| Frage: Offene Frage ohne Anhang          | Nur die Frage.                                                                           | Texteingabe- und Absenden-Schaltfläche.                 |
-| Frage: Offene Frage mit Anhang           | Die Frage + ein visueller Anhang.                                                        | Texteingabe- und Absenden-Schaltfläche.                 |
-| Aktivität: Gewählte Teams                | Der Name einer Aktivität.                                                                | Wartebildschirm oder "Du bist ausgewählt"-Bildschirm.   |
-| Feedback                                                 |                                                                                                          |                                                                         |
-| Fragenfeedback: Multiple Choice          | Die Frage, korrekte Optionen und Verteilung der Antworten.                               | Richtig / falsch + verdiente Punkte.                    |
-| Fragenfeedback: Offene Frage             | Die Frage, korrekte Optionen und % der richtigen Antworten.                              | Richtig / falsch + verdiente Punkte.                    |
-| Fragenfeedback: Offene Frage + Anhang    | Die Frage, korrekte Optionen, Antwortverteilung und ein visueller Anhang.                | Richtig / falsch + verdiente Punkte.                    |
-| Fragenfeedback: Multiple Choice + Anhang | Die Frage, korrekte Optionen, Antwortverteilung und ein visueller Anhang.                | Richtig / falsch + verdiente Punkte.                    |
-| Aktivitäts-Feedback                                      | Die für eine Aktivität ausgewählten Teams.                                               | Warte- oder richtig/falsch-Bildschirm.                  |
-| Spieler-Rangliste                                        |                                                                                                          |                                                                         |
-| Runden-Ausklang                                          | Top 10 aller Spieler.                                                                    | Aktuelle Position und Gesamtpunkte.                     |
-| Spiel-Ausklang                                           | Countdown von Platz 10 bis 1, dann finale Top 10.                                        | Endplatzierung und Gesamtpunkte.                        |
+| Stage                                                    | Spielbildschirm                                                                                        | Spielergerät (Tablet/Smartphone)                     |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| Verbindungsbildschirm                                    |                                                                                                        |                                                                         |
+| Wartebildschirm                                          | Logo des Quiz. Wird angezeigt, während der Quizmaster die Frage liest. | Ein Zitat, das den Spieler auffordert, genau zuzuhören. |
+| Spiel-Einführung                                         | Animation vor dem Spiel.                                                               | Wartebildschirm.                                        |
+| Runden-Einführung                                        | Animation vor jeder Runde.                                                             | Wartebildschirm.                                        |
+| Fragen                                                   |                                                                                                        |                                                                         |
+| Anhang                                                   | Anhangansicht im Vollbild (— vor/nach Fragen oder Runden —).        | Wartebildschirm.                                        |
+| Frage: Multiple Choice ohne Anhang       | Frage + 4 Multiple-Choice-Optionen.                                                    | Multiple-Choice-Antwortbildschirm.                      |
+| Frage: Multiple Choice mit Anhang        | Frage + 4 Multiple-Choice-Optionen + ein visueller Anhang.                             | Multiple-Choice-Antwortbildschirm.                      |
+| Frage: Offene Frage ohne Anhang          | Nur die Frage.                                                                         | Texteingabe- und Absenden-Schaltfläche.                 |
+| Frage: Offene Frage mit Anhang           | Die Frage + ein visueller Anhang.                                                      | Texteingabe- und Absenden-Schaltfläche.                 |
+| Aktivität: Gewählte Teams                | Der Name einer Aktivität.                                                              | Wartebildschirm oder "Du bist ausgewählt"-Bildschirm.   |
+| Feedback                                                 |                                                                                                        |                                                                         |
+| Fragenfeedback: Multiple Choice          | Die Frage, korrekte Optionen und Verteilung der Antworten.                             | Richtig / falsch + verdiente Punkte.                    |
+| Fragenfeedback: Offene Frage             | Die Frage, korrekte Optionen und % der richtigen Antworten.                            | Richtig / falsch + verdiente Punkte.                    |
+| Fragenfeedback: Offene Frage + Anhang    | Die Frage, korrekte Optionen, Antwortverteilung und ein visueller Anhang.              | Richtig / falsch + verdiente Punkte.                    |
+| Fragenfeedback: Multiple Choice + Anhang | Die Frage, korrekte Optionen, Antwortverteilung und ein visueller Anhang.              | Richtig / falsch + verdiente Punkte.                    |
+| Aktivitäts-Feedback                                      | Die für eine Aktivität ausgewählten Teams.                                             | Warte- oder richtig/falsch-Bildschirm.                  |
+| Spieler-Rangliste                                        |                                                                                                        |                                                                         |
+| Runden-Ausklang                                          | Top 10 aller Spieler.                                                                  | Aktuelle Position und Gesamtpunkte.                     |
+| Spiel-Ausklang                                           | Countdown von Platz 10 bis 1, dann finale Top 10.                                      | Endplatzierung und Gesamtpunkte.                        |
