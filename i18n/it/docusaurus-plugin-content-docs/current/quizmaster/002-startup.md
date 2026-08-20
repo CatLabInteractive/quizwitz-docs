@@ -21,18 +21,18 @@ Puoi avviare una partita QuizWitz Live dall’editor del quiz o direttamente dal
 
 ---
 
-## 🔐 Connessione con il Master Code
+## 🔐 Connessione con il codice quizmaster
 
-Una volta avviato, sullo schermo comparirà un **Master Code**. **Non condividere questo codice con i giocatori** — serve per collegare il dispositivo di presentazione alla partita.
+Una volta avviato, lo schermo visualizzerà un **codice quizmaster**. **Non condividere questo codice con i giocatori** — serve per collegare il dispositivo di presentazione alla partita.
 
-- Vai su [quizwitz.tv](https://quizwitz.tv) dal tuo dispositivo quizmaster e inserisci il Master Code.
+- Visita [quizwitz.tv](https://quizwitz.tv) sul tuo dispositivo quizmaster e inserisci il codice quizmaster.
 - Comparirà un’**interfaccia della Quizmaster App**, da cui potrai controllare la partita.
 - Ti consigliamo un **tablet o uno smartphone** per muoverti più facilmente, ma va bene anche un portatile.  
   ![Schermata di connessione QuizWitz PRO](/images/quizwitz-pro-connect-token.png)
 
-Dopo la connessione, il Master Code scompare dallo schermo. Ora sei pronto a mostrare la schermata principale su un proiettore o ad avviare il tuo livestream.
+Dopo la connessione, il codice quizmaster scompare dallo schermo. Ora sei pronto per mostrare la schermata di gioco su un proiettore o avviare il tuo livestream.
 
-> ⚠️ **Occhio!** Se la schermata di gioco (display principale) non è attivamente in primo piano — per esempio se cambi scheda o la riduci a icona — la partita verrà **messa automaticamente in pausa**.  
+> ⚠️ **Attenzione!** Se la schermata di gioco non è attivamente in primo piano — ad esempio, se cambi scheda o la riduci a icona — il gioco si metterà **automaticamente in pausa**.  
 > Quando succede:
 >
 > - Anche la **Quizmaster App va in pausa**
@@ -45,7 +45,7 @@ Dopo la connessione, il Master Code scompare dallo schermo. Ora sei pronto a mos
 
 Una volta connesso, scegli tra due modalità di gioco:
 
-![Quizmaster App - seleziona modalità](/images/quizmaster-app-select-mode.png)
+![Quizmaster App - select mode](/images/quizmaster-app-select-mode.png)
 
 ### Codici team
 
@@ -53,9 +53,9 @@ Una volta connesso, scegli tra due modalità di gioco:
 - Ideale per **quiz a team pre-registrati**, quando conosci già in anticipo i nomi dei team.
 - Permette di cambiare dispositivo — utile se la batteria si scarica a metà quiz.
 
-### Codice partita singolo
+### 👤 Ospitare con un codice di gioco condiviso
 
-- Tutti partecipano usando **un unico Game Code condiviso**.
+- Tutti partecipano usando **un unico codice di gioco condiviso**.
 - Ideale per eventi informali o ad accesso libero.
 - Non serve la pre-registrazione — i giocatori possono partecipare in qualsiasi momento, finché tutti i Seats attivi non sono occupati.
 
@@ -68,16 +68,16 @@ Una volta connesso, scegli tra due modalità di gioco:
 Quando usi i **codici team**, per prima cosa creerai i team nella Quizmaster App:
 
 - Aggiungi i nomi dei team
-- Premi **‘Genera Codici’** per creare i codici di accesso  
-  ![Quizmaster app - crea team](/images/quizmaster-app-create-teams.png)
+- Premi **‘Genera Codici’** per creare codici di accesso  
+  ![Quizmaster App - crea team](/images/quizmaster-app-create-teams.png)
 
 Puoi anche **prenotare i codici in anticipo** — trovi più dettagli nella sezione consigli e trucchi.
 
 Ricordati di **salvare i seguenti codici**:
 
-- **Master Code** — per controllare il quiz
-- **Jury Code** — per modificare manualmente i punteggi
-- **Regie Code** — per controllare gli elementi visivi e tecnici
+- **Codice quizmaster** — per controllare il quiz
+- **Codice giuria** — per modificare manualmente i punteggi
+- **Codice regie** — per controllare gli elementi visivi e tecnici
 
 Invia i codici team ai tuoi giocatori via email o stampali.
 
@@ -87,29 +87,29 @@ Quando pronto, clicca su **'Carica quiz'**, attendi che le risorse siano caricat
 
 ---
 
-## 👤 Ospitare con un codice partita singolo
+## 👤 Ospitare con un codice di gioco condiviso
 
-Con la modalità **Single Game Code**:
+Con lo schema **Single Gaming**:
 
-- Riceverai i codici Master, Giuria e Regie, più un codice di gioco per i giocatori.
-- Il Game Code appare sulla schermata principale — **mostralo o trasmettilo in streaming al tuo pubblico**.
+- Riceverai i codici quizmaster, giuria e regie, oltre a un codice di gioco per i giocatori.
+- Il codice di gioco appare sulla schermata di gioco — **visualizzalo o trasmettilo in streaming al tuo pubblico**.
 - I giocatori possono partecipare in qualsiasi momento, finché non viene raggiunto il limite di Seats attivi.
 
 Quando i tuoi giocatori sono entrati:
 
-1. Clicca su **‘Quiz di carico’**
+1. Clicca su **'Carica quiz'**
 2. Clicca su **'Start quiz'** e conferma
-3. Il Game Code resta visibile per chi si unisce più tardi
+3. Il codice di gioco resta visibile per chi si unisce più tardi
 
 ---
 
 ## 🎟️ Attivazione dei Seats
 
-Prima di iniziare, dovrai controllare i tuoi posti disponibili.
+Prima di iniziare, dovrai controllare i tuoi Seats disponibili.
 
 - Dopo aver selezionato la modalità di gioco appare una panoramica
-- Se hai bisogno di più posti, attivali su [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
-  ![Quizmaster app - activate seats](/images/quizmaster-app-seats.png)
+- Se hai bisogno di più Seats, attivali su [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
+  ![Quizmaster App - activate seats](/images/quizmaster-app-seats.png)
 
 ---
 
