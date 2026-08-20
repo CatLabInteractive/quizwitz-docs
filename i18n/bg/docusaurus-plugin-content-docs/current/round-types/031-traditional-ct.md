@@ -3,10 +3,10 @@ id: traditional-ct
 title: Традиционен (CT)
 ---
 
-# 📝🧵 Традиционен – обща нишка
+# 📝🧵 Traditional - Common Thread
 
-Рундът **Традиционен – обща нишка** работи точно като [традиционен рунд](030-traditional.md), но с малък обрат:  
-В края на рунда **последният въпрос** („Каква беше общата нишка?“) се оценява и показва първи. Това позволява на quizmaster да подчертае връзката, преди да разкрие останалите отговори.
+A **Traditional - Common Thread** round works just like a [traditional round](030-traditional.md), but with a twist:  
+At the end of the round, the **last question** (“What was the common thread?”) се оценява и показва първи. Това позволява на quizmaster да подчертае връзката, преди да разкрие останалите отговори.
 
 ---
 
