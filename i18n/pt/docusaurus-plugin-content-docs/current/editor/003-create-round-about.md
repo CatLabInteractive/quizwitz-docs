@@ -13,8 +13,8 @@ Um **Round-About** é a unidade principal de quiz no QuizWitz — um conjunto te
 
 No menu principal:
 
-1. Clique em **Criar**
-2. Selecione **Round-About** no menu suspenso
+1. Clica em **Criar**
+2. Seleciona **Round-About** no menu suspenso
 
 ![Barra de navegação superior do QuizWitz](/images/top-menu-create.png)
 
@@ -22,13 +22,13 @@ No menu principal:
 
 ## ✏️ Título, idioma e categoria
 
-Comece dando ao seu Round-About um:
+Começa por dar ao teu Round-About um:
 
 - **Título** — algo chamativo ou descritivo
 - **Idioma** — o idioma em que suas perguntas estão escritas
 - **Categoria** — ajuda os jogadores a encontrarem seu Round-About depois
 
-> 🔒 Você não precisa publicar seu Round-About para jogá-lo. Mantenha-o privado ou publique quando estiver pronto para partilhar.
+> 🔒 Não precisas de publicar o teu Round-About para o jogares. Mantenha-o privado ou publique quando estiver pronto para partilhar.
 
 ![Criar ronda no QuizWitz](/images/create-round.png)
 
