@@ -31,25 +31,25 @@ Alle ontwerpen moeten het QuizWitz-logo bevatten.
 
 ## 🖥️ Schermoverzicht
 
-| Fase                                                | Hoofdscherm                                                                                                | Spelerapparaat (Tablet/Telefoon)                   |
-| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Verbindingsscherm                                   |                                                                                                            |                                                                       |
-| Wacht-scherm                                        | Logo van de quiz. Wordt weergegeven terwijl de presentator de vraag leest. | Een citaat dat de speler aanspoort goed te luisteren. |
-| Introductie spel                                    | Animatie vóór het spel.                                                                    | Wacht-scherm.                                         |
-| Introductie ronde                                   | Animatie vóór elke ronde.                                                                  | Wacht-scherm.                                         |
-| Vragen                                              |                                                                                                            |                                                                       |
-| Bijlage                                             | Volledig scherm weergave van bijlage ( — voor/na vragen of rondes — ).  | Wacht-scherm.                                         |
-| Vraag: meerkeuze zonder bijlage     | Vraag + 4 meerkeuze opties.                                                                | Meerkeuze antwoorden scherm.                          |
-| Vraag: meerkeuze met bijlage        | Vraag + 4 meerkeuze opties + een visuele bijlage.                                          | Meerkeuze antwoorden scherm.                          |
-| Vraag: open vraag zonder bijlage    | Alleen de vraag.                                                                           | Tekstinvoer en verzendknop.                           |
-| Vraag: open vraag met bijlage       | De vraag + een visuele bijlage.                                                            | Tekstinvoer en verzendknop.                           |
-| Activiteit: gekozen teams           | De naam van een activiteit.                                                                | Wacht-scherm of "je bent geselecteerd" scherm.        |
-| Feedback                                            |                                                                                                            |                                                                       |
-| Vraagfeedback: meerkeuze            | De vraag, correcte opties, en spreiding van antwoorden.                                    | Juist / fout + verdiende punten.                      |
-| Vraagfeedback: open vraag           | De vraag, correcte opties, en % correcte antwoorden.                                       | Juist / fout + verdiende punten.                      |
-| Vraagfeedback: open vraag + bijlage | De vraag, correcte opties, antwoordverdeling, en een visuele bijlage.                      | Juist / fout + verdiende punten.                      |
-| Vraagfeedback: meerkeuze + bijlage  | De vraag, correcte opties, antwoordverdeling, en een visuele bijlage.                      | Juist / fout + verdiende punten.                      |
-| Activiteitfeedback                                  | De teams die gekozen zijn voor een activiteit.                                             | Wacht- of juist/fout-scherm.                          |
-| Speler ranking                                      |                                                                                                            |                                                                       |
-| Ronde afsluiting                                    | Top 10 van alle spelers.                                                                   | Huidige positie en totaal aantal punten.              |
-| Spel afsluiting                                     | Aftellen van 10e tot 1e plaats, daarna de definitieve top 10.                              | Eindranglijst en totaal aantal punten.                |
+| Fase                                                | Spelscherm                                                                                                | Spelerapparaat (Tablet/Telefoon)                   |
+| --------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Verbindingsscherm                                   |                                                                                                           |                                                                       |
+| Wacht-scherm                                        | Logo van de quiz. Wordt getoond terwijl de quizmaster de vraag voorleest. | Een citaat dat de speler aanspoort goed te luisteren. |
+| Introductie spel                                    | Animatie vóór het spel.                                                                   | Wacht-scherm.                                         |
+| Introductie ronde                                   | Animatie vóór elke ronde.                                                                 | Wacht-scherm.                                         |
+| Vragen                                              |                                                                                                           |                                                                       |
+| Bijlage                                             | Volledig scherm weergave van bijlage ( — voor/na vragen of rondes — ). | Wacht-scherm.                                         |
+| Vraag: meerkeuze zonder bijlage     | Vraag + 4 meerkeuze opties.                                                               | Meerkeuze antwoorden scherm.                          |
+| Vraag: meerkeuze met bijlage        | Vraag + 4 meerkeuze opties + een visuele bijlage.                                         | Meerkeuze antwoorden scherm.                          |
+| Vraag: open vraag zonder bijlage    | Alleen de vraag.                                                                          | Tekstinvoer en verzendknop.                           |
+| Vraag: open vraag met bijlage       | De vraag + een visuele bijlage.                                                           | Tekstinvoer en verzendknop.                           |
+| Activiteit: gekozen teams           | De naam van een activiteit.                                                               | Wacht-scherm of "je bent geselecteerd" scherm.        |
+| Feedback                                            |                                                                                                           |                                                                       |
+| Vraagfeedback: meerkeuze            | De vraag, correcte opties, en spreiding van antwoorden.                                   | Juist / fout + verdiende punten.                      |
+| Vraagfeedback: open vraag           | De vraag, correcte opties, en % correcte antwoorden.                                      | Juist / fout + verdiende punten.                      |
+| Vraagfeedback: open vraag + bijlage | De vraag, correcte opties, antwoordverdeling, en een visuele bijlage.                     | Juist / fout + verdiende punten.                      |
+| Vraagfeedback: meerkeuze + bijlage  | De vraag, correcte opties, antwoordverdeling, en een visuele bijlage.                     | Juist / fout + verdiende punten.                      |
+| Activiteitfeedback                                  | De teams die gekozen zijn voor een activiteit.                                            | Wacht- of juist/fout-scherm.                          |
+| Speler ranking                                      |                                                                                                           |                                                                       |
+| Ronde afsluiting                                    | Top 10 van alle spelers.                                                                  | Huidige positie en totaal aantal punten.              |
+| Spel afsluiting                                     | Aftellen van 10e tot 1e plaats, daarna de definitieve top 10.                             | Eindranglijst en totaal aantal punten.                |
