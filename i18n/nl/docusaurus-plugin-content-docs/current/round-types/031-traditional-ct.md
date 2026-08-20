@@ -3,10 +3,10 @@ id: traditional-ct
 title: Traditioneel (CT)
 ---
 
-# 📝🧵 Traditioneel – Gemeenschappelijke Draad
+# 📝🧵 Traditioneel - Rode draad
 
-Een **traditionele – rode draad** ronde werkt net als een [traditionele ronde](030-traditional.md), maar met een wending:\
-Aan het einde van de ronde de **laatste vraag** ("Wat was de algemene discussie?") wordt eerst geëvalueerd en getoond. Dit stelt de quizmaster in staat om de verbinding te benadrukken voordat de andere antwoorden worden onthuld.
+Een **Traditioneel - Rode draad**-ronde werkt net als een [traditionele ronde](030-traditional.md), maar met een twist:  
+Aan het einde van de ronde wordt de **laatste vraag** (“Wat was de rode draad?”) wordt eerst geëvalueerd en getoond. Dit stelt de quizmaster in staat om de verbinding te benadrukken voordat de andere antwoorden worden onthuld.
 
 ---
 
