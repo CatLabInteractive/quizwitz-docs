@@ -31,7 +31,7 @@ U **otázky se seznamem** mají hráči uvést několik správných odpovědí z
 - **Zadané možnosti:** Použijte je jako příklady přímo v otázce.
 - **Oprava:**
   - **Vynutit automatickou opravu:** Když je zapnutá, QuizWitz automaticky zkontroluje všechny odpovědi (uznává drobné překlepy a varianty). Porota není potřeba.
-  - **Ruční kontrola:** Když není zapnutá, každou zadanou odpověď musí zkontrolovat [aplikace poroty](../quizmaster/004-jury-app.md).
+  - **Manuální recenze:** Pokud není povoleno, každá zadaná odpověď musí být zkontrolována [Jury App](../quizmaster/004-jury-app.md).
 
 ---
 
@@ -59,4 +59,4 @@ Podrobnosti najdete v [možnostech bodování kola](../editor/008-round-options.
 
 ---
 
-Více najdete v [dokumentaci aplikace poroty](../quizmaster/004-jury-app.md).
+Více informací naleznete v [Dokumentaci Jury Appat](../quizmaster/004-jury-app.md).

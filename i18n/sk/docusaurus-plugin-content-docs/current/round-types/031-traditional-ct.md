@@ -3,10 +3,10 @@ id: traditional-ct
 title: Tradičné (CT)
 ---
 
-# 📝🧵 Tradičné – Spoločná niť
+# 📝🧵 Traditional - Common Thread
 
-Kolo **Tradičné – Spoločná niť** funguje rovnako ako [tradičné kolo](030-traditional.md), ale s malým zvratom:  
-Na konci kola sa **posledná otázka** („Čo bola spoločná niť?“) vyhodnotí a zobrazí ako prvá. Vďaka tomu môže quizmaster najprv zvýrazniť súvislosť a až potom odhaliť ostatné odpovede.
+A **Traditional - Common Thread** round works just like a [traditional round](030-traditional.md), but with a twist:  
+At the end of the round, the **last question** (“What was the common thread?”) vyhodnotí a zobrazí ako prvá. Vďaka tomu môže quizmaster najprv zvýrazniť súvislosť a až potom odhaliť ostatné odpovede.
 
 ---
 

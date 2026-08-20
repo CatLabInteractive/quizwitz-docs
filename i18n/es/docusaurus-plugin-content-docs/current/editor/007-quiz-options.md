@@ -75,9 +75,9 @@ Genera enlaces para compartir o código para incrustar con configuraciones avanz
 
 ## 📜 Copia para el quizmaster
 
-Añade instrucciones personalizadas para el presentador para:
+Añadir instrucciones personalizadas para:
 
 - **Presentación del Cuestionario**
 - **Finalización del cuestionario**
 
-Estos son visibles en la [app de Quizmaster](../quizmaster/001-introduction.md) cuando usas QuizWitz Live.
+Estos son visibles en la [../quizmaster/001-introduction.md) cuando se usa la Vida Witz.

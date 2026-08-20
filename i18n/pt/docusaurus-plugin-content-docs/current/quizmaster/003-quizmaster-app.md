@@ -1,13 +1,13 @@
 ---
 id: quizmaster-app
-title: App do quizmaster
+title: Aplicativo Mestre
 ---
 
-# 🎛️ Usando o Quizmaster app
+# 🎛️ Usando o App Mestre do Questionário
 
 Como quizmaster, você tem controle total do jogo QuizWitz Live. A coisa mais importante a saber é esta:
 
-> O jogo **só avança quando você clica** — nada se move na tela principal até você mandar.
+> O jogo **só avança quando você clica** — nada se move na tela do jogo até você dizer para ele.
 
 Isso te dá controle total sobre o ritmo e o tempo, mas também significa que você vai tocar bastante na tela. Vamos ver como o app funciona.
 
@@ -30,9 +30,9 @@ Antes de cada rodada começar, você verá uma tela de introdução da rodada.
 
 ### ❓ Fazendo uma pergunta
 
-Cada pergunta tem sua própria tela no Quizmaster app:
+Cada questão tem sua própria tela na aplicação Quizmaster:
 
-![Quizmaster app - iniciar pergunta](/images/quizmaster-app-start-question.png)
+![Aplicativo Mestre - iniciar pergunta](/images/quizmaster-app-start-question.png)
 
 Você verá:
 
@@ -40,7 +40,7 @@ Você verá:
 - **Tipo de pergunta** — como múltipla escolha, com modificadores de pontuação relevantes
 - **Versão longa da pergunta** — para você ler em voz alta
 - **Informações da pergunta** — incluindo duração do temporizador e pontos disponíveis
-- **Pergunta curta** — a versão exibida na tela grande
+- **Pergunta curta** — a versão mostrada na tela do jogo
 - **Botão de iniciar pergunta** — inicia o temporizador imediatamente
 - **Respostas possíveis** — exibidas na ordem correta (para múltipla escolha)
 
@@ -57,7 +57,7 @@ A pergunta continuará visível no seu app até que:
 
 Depois que uma pergunta termina, a resposta correta é revelada. O que você vê depende do tipo de pergunta — este exemplo mostra uma tela de resultado de múltipla escolha:
 
-![Quizmaster app - feedback da pergunta](/images/quizmaster-app-question-feedback.png)
+![Aplicativo mestre - comentário da pergunta](/images/quizmaster-app-question-feedback.png)
 
 Inclui:
 
@@ -75,13 +75,13 @@ Inclui:
 
 Quando uma rodada termina, você verá uma tela de **encerramento da rodada** que revela a classificação até agora.
 
-![Quizmaster app - encerramento da rodada](/images/quizmaster-app-round-outro.png)  
-![QuizWitz - encerramento da rodada na tela grande](/images/round-outro.png)
+![Quizmaster App - round outro](/images/quizmaster-app-round-outro.png)  
+![QuizWitz - round outro game screen](/images/round-outro.png)
 
 No seu app:
 
 - Você verá os **100 melhores jogadores**, e poderá rolar pela lista
-- Toque na posição de um jogador para destacá-lo na tela grande
+- Toque na posição de um jogador para destacá-lo na tela do jogo
 - A partir da rodada 2, você também verá quantas posições cada jogador subiu ou desceu:
   - **Verde** = subiu
   - **Vermelho** = desceu
@@ -95,7 +95,7 @@ Os jogadores verão **a própria posição** no dispositivo deles durante o ence
 
 No fim do quiz, é hora de uma **festa de revelação do vencedor** — com direito a confete e emojis dos jogadores voando pela tela.
 
-![QuizWitz - encerramento do jogo na tela grande](/images/game-outro.png)
+![QuizWitz - tela do jogo outro jogo](/images/game-outro.png)
 
 - A configuração padrão mostra os **12 melhores jogadores**
 - Você pode personalizar quantos jogadores aparecem nas **configurações avançadas do jogo**
@@ -104,4 +104,4 @@ No fim do quiz, é hora de uma **festa de revelação do vencedor** — com dire
 
 ---
 
-Isso é tudo o que você precisa saber para conduzir seu quiz com o Quizmaster app. Agora você está totalmente preparado para liderar seu evento com confiança e estilo!
+Isso é tudo que você precisa saber para fazer seu quiz com o App de Quizmaster! Agora você está totalmente preparado para liderar seu evento com confiança e estilo!

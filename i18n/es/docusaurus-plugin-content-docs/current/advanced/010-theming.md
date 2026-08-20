@@ -31,10 +31,10 @@ Todos los diseños personalizados deben incluir el logo de QuizWitz.
 
 ## 🖥️ Vista general de pantalla
 
-| Escenario                                                              | Pantalla principal                                                                                                  | smart device del jugador (Tablet/Teléfono)            |
+| Escenario                                                              | Pantalla de juego                                                                                                   | smart device del jugador (Tablet/Teléfono)            |
 | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | Pantalla de conexión                                                   |                                                                                                                     |                                                                          |
-| Pantalla de espera                                                     | Logo del quiz. Mostrado mientras el presentador lee la pregunta.                    | Una frase que invita al jugador a escuchar con atención. |
+| Pantalla de espera                                                     | Logo del quiz. Se muestra mientras el cuestionario está leyendo la pregunta.        | Una frase que invita al jugador a escuchar con atención. |
 | Introducción al juego                                                  | Animación antes del juego.                                                                          | Pantalla de espera.                                      |
 | Introducción de la ronda                                               | Animación antes de cada ronda.                                                                      | Pantalla de espera.                                      |
 | Preguntas                                                              |                                                                                                                     |                                                                          |

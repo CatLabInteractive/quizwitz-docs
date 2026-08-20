@@ -31,10 +31,10 @@ Tous les designs personnalisés doivent inclure le logo QuizWitz.
 
 ## 🖥️ Aperçu de l’écran
 
-| Scène                                                                    | Écran principal                                                                                                            | appareil Player (Tablet/Phone)                                       |
+| Scène                                                                    | Écran de jeu                                                                                                               | appareil Player (Tablet/Phone)                                       |
 | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Écran de connexion                                                       |                                                                                                                            |                                                                                         |
-| Écran d’attente                                                          | Logo du quiz. Affiché pendant que le présentateur lit la question.                         | Une citation incitant le joueur à bien écouter.                         |
+| Écran d’attente                                                          | Logo du quiz. Affiché pendant que le quizmaster lit la question.                           | Une citation incitant le joueur à bien écouter.                         |
 | Intro du jeu                                                             | Animation avant le jeu.                                                                                    | Écran d’attente.                                                        |
 | Intro de la manche                                                       | Animation avant chaque manche.                                                                             | Écran d’attente.                                                        |
 | Questions                                                                |                                                                                                                            |                                                                                         |

@@ -1,13 +1,13 @@
 ---
 id: quizmaster-app
-title: Quizmaster app
+title: Quizmaster App
 ---
 
-# 🎛️ Quizmaster app का इस्तेमाल करना
+# 🎛️ Using the Quizmaster App
 
 quizmaster के तौर पर, QuizWitz Live गेम का पूरा कंट्रोल आपके हाथ में होता है। जानने वाली सबसे ज़रूरी बात ये है:
 
-> गेम **तभी आगे बढ़ता है जब आप क्लिक करते हैं** — मुख्य स्क्रीन पर कुछ भी तब तक नहीं बदलता, जब तक आप उसे आगे बढ़ने को नहीं कहते।
+> The game **only progresses when you click** — nothing moves on the game screen until you tell it to.
 
 इससे आपको रफ़्तार और टाइमिंग पर पूरा कंट्रोल मिलता है, लेकिन इसका मतलब यह भी है कि आपको काफ़ी टैप करना होगा। चलिए देखते हैं कि ऐप कैसे काम करता है।
 
@@ -30,9 +30,9 @@ quizmaster के तौर पर, QuizWitz Live गेम का पूरा 
 
 ### ❓ सवाल पूछना
 
-Quizmaster app में हर सवाल की अपनी स्क्रीन होती है:
+Each question has its own screen in the Quizmaster App:
 
-![Quizmaster app - सवाल शुरू करें](/images/quizmaster-app-start-question.png)
+![Quizmaster App - start question](/images/quizmaster-app-start-question.png)
 
 आपको ये दिखेगा:
 
@@ -40,7 +40,7 @@ Quizmaster app में हर सवाल की अपनी स्क्र
 - **सवाल का प्रकार** — जैसे Multiple Choice, संबंधित स्कोरिंग मॉडिफ़ायर के साथ
 - **सवाल का लंबा संस्करण** — ताकि आप उसे ज़ोर से पढ़ सकें
 - **सवाल की जानकारी** — जिसमें टाइमर की अवधि और उपलब्ध पॉइंट्स शामिल हैं
-- **छोटा सवाल** — वह संस्करण जो बड़ी स्क्रीन पर दिखता है
+- **Short question** — the version shown on the game screen
 - **सवाल शुरू करने वाला बटन** — टाइमर तुरंत शुरू करता है
 - **संभावित जवाब** — सही क्रम में दिखाए जाते हैं (Multiple Choice के लिए)
 
@@ -57,7 +57,7 @@ Quizmaster app में हर सवाल की अपनी स्क्र
 
 सवाल खत्म होने के बाद, सही जवाब दिखाया जाता है। आपको क्या दिखेगा यह सवाल के प्रकार पर निर्भर करता है — इस उदाहरण में Multiple Choice रिज़ल्ट स्क्रीन दिखाई गई है:
 
-![Quizmaster app - सवाल का फ़ीडबैक](/images/quizmaster-app-question-feedback.png)
+![Quizmaster App - question feedback](/images/quizmaster-app-question-feedback.png)
 
 इसमें शामिल है:
 
@@ -75,13 +75,13 @@ Quizmaster app में हर सवाल की अपनी स्क्र
 
 जब कोई राउंड खत्म होता है, तो आपको **Round Outro** स्क्रीन दिखेगी, जो अब तक की standings दिखाती है।
 
-![Quizmaster app - Round Outro](/images/quizmaster-app-round-outro.png)  
-![QuizWitz - बड़ी स्क्रीन पर Round Outro](/images/round-outro.png)
+![Quizmaster App - round outro](/images/quizmaster-app-round-outro.png)  
+![QuizWitz - round outro game screen](/images/round-outro.png)
 
 आपके ऐप में:
 
 - आपको **टॉप 100 खिलाड़ी** दिखेंगे, और आप उनमें स्क्रॉल कर सकते हैं
-- किसी खिलाड़ी की पोज़िशन पर टैप करके उसे बड़ी स्क्रीन पर हाइलाइट करें
+- Tap a player’s position to highlight them on the game screen
 - राउंड 2 से आगे, आपको यह भी दिखेगा कि हर खिलाड़ी कितने स्थान ऊपर या नीचे गया है:
   - **हरा** = ऊपर गया
   - **लाल** = नीचे गया
@@ -95,7 +95,7 @@ outro के दौरान खिलाड़ी अपने डिवाइ�
 
 क्विज़ के अंत में, **winner reveal पार्टी** का समय होता है — कंफ़ेटी और स्क्रीन पर उड़ते खिलाड़ियों के इमोजी के साथ।
 
-![QuizWitz - बड़ी स्क्रीन पर गेम आउट्रो](/images/game-outro.png)
+![QuizWitz - game outro game screen](/images/game-outro.png)
 
 - डिफ़ॉल्ट सेटिंग **टॉप 12 खिलाड़ी** दिखाती है
 - आप **advanced game settings** में यह कस्टमाइज़ कर सकते हैं कि कितने खिलाड़ी दिखें
@@ -104,4 +104,4 @@ outro के दौरान खिलाड़ी अपने डिवाइ�
 
 ---
 
-Quizmaster app से अपना क्विज़ चलाने के लिए आपको बस इतना ही जानना है। अब आप अपने इवेंट को पूरे आत्मविश्वास और स्टाइल के साथ लीड करने के लिए पूरी तरह तैयार हैं!
+That’s everything you need to know to run your quiz with the Quizmaster App. अब आप अपने इवेंट को पूरे आत्मविश्वास और स्टाइल के साथ लीड करने के लिए पूरी तरह तैयार हैं!

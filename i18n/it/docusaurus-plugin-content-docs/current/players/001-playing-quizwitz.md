@@ -45,14 +45,14 @@ Puoi organizzare, giocare o rimuovere elementi in qualsiasi momento. Questa è l
 
 ## 🧠 Scegli un Round-About
 
-Un **Round-About** è un piccolo round di domande a tema. Giocarne anche solo uno ti darà una partita breve con 7 domande casuali.
+Un **Round-About** è un piccolo round di domande a tema — come dice il nome, un round _circa_ un soggetto. Giocarne anche solo uno ti darà una partita breve con 7 domande casuali.
 
 Per esplorare un Round-About più nel dettaglio:
 
 - Clicca sulla sua **immagine**, sul **titolo** o sull'**icona dei commenti**
 - Clicca su **Gioca** per iniziare subito
 
-![Dettagli del Round-About di QuizWitz](/images/round-about-details.png)
+![QuizWitz Round-About details](/images/round-about-details.png)
 
 ---
 
@@ -107,11 +107,17 @@ Una volta iniziata la partita, scegli la modalità:
 
 Gioca con gli amici usando i loro telefoni o tablet:
 
-> 📺 Assicurati che la schermata del quiz sia visibile — usa uno schermo condiviso o la condivisione schermo
+> 📺 Assicurarsi che la schermata di gioco sia visibile — utilizzare un display condiviso o condivisione dello schermo
 
 1. Clicca su **Avvia**, poi su **Partita di gruppo**
 2. I giocatori seguono le istruzioni sullo schermo per partecipare
 3. Clicca su **Avvia quiz** quando tutti sono pronti
+
+Una volta che il quiz ha inizio, **il gioco è in esecuzione automaticamente** — le domande, il conteggio alla rovescia, e i punteggi sono allineati senza alcun intervento dell'host.
+
+> ⏸️ Hai bisogno di una pausa? Sposta il mouse in fondo alla schermata di gioco e apparirà un pulsante **pausa**. La pausa è l'unico modo per interrompere un Party Game.
+>
+> Vuoi controllare il ritmo del gioco da solo — decidere quando ogni domanda inizia? È possibile solo con [**QuizWitz Live**](../quizmaster/001-introduction.md) e l'app Quizmaster.
 
 ![Schermata iniziale di QuizWitz](/images/quizwitz-start-screen.png)  
 ![Schermata iniziale partita di gruppo di QuizWitz](/images/quizwitz-start-screen-party.png)  

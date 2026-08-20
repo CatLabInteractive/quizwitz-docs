@@ -75,9 +75,9 @@ Génère des liens de partage ou un code d’intégration avec des paramètres a
 
 ## 📜 Copie pour quizmaster
 
-Ajoutez des instructions personnalisées pour le présentateur :
+Ajouter des instructions personnalisées pour le quizmaster :
 
 - **Introduction au quiz**
 - **Outro du quiz**
 
-Ces éléments sont visibles dans l'[application Quizmaster](../quizmaster/001-introduction.md) lors de l'utilisation de QuizWitz Live.
+Celles-ci sont visibles sur [l'application Quizmaster](../quizmaster/001-introduction.md) lors de l'utilisation de QuizWitz Live.

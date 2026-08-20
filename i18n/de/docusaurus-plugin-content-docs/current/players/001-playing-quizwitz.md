@@ -45,14 +45,14 @@ Du kannst Items jederzeit organisieren, spielen oder entfernen. Dies ist deine p
 
 ## 🧠 Wähle einen Round-About
 
-Ein **Round-About** ist eine kleine, thematische Fragerunde. Das Spielen nur eines gibt dir ein kurzes Spiel mit 7 zufälligen Fragen.
+Ein **Rund-About** ist eine kleine, thematische Runde von Fragen — wie der Name schon sagt, eine Runde _über_ ein Thema. Das Spielen nur eines gibt dir ein kurzes Spiel mit 7 zufälligen Fragen.
 
 Um einen Round-About genauer zu erkunden:
 
 - Klicke auf das **Bild**, den **Titel** oder das **Kommentar-Symbol**
 - Klicke auf **Spielen**, um direkt loszulegen
 
-![QuizWitz round-about details](/images/round-about-details.png)
+![QuizWitz Rund-Über Details](/images/round-about-details.png)
 
 ---
 
@@ -107,11 +107,17 @@ Sobald dein Spiel startet, wähle deinen Modus:
 
 Spiele mit Freunden, die ihr eigenes Handy oder Tablet nutzen:
 
-> 📺 Sorge dafür, dass der Quizbildschirm sichtbar ist — verwende ein geteiltes Display oder Bildschirmfreigabe
+> 📺 Stelle sicher, dass der Spielbildschirm sichtbar ist — benutze einen geteilten Bildschirm oder Bildschirm teilen
 
 1. Klicke auf **Starten**, dann auf **Partyspiel**
 2. Die Spieler folgen den Anweisungen auf dem Bildschirm, um beizutreten
 3. Klicke auf **Quiz starten**, wenn alle bereit sind
+
+Sobald das Quiz gestartet ist, wird **das Spiel automatisch ausgeführt** — Fragen werden auftauchen, Timer zählen und Punktzahlen werden ohne Interventionen des Gastgebers ausgeführt.
+
+> ⏸️ Brauchen Sie eine Pause? Bewege deine Maus am unteren Ende des Spielbildschirms und es wird ein **Pause** Button angezeigt. Pausen ist die einzige Möglichkeit, ein Partyspiel zu unterbrechen.
+>
+> Willst du das Tempo des Spiels selbst steuern – entscheiden, wann jede Frage beginnt? Das ist nur mit [**QuizWitz Live**](../quizmaster/001-introduction.md) und der Quizmaster App möglich.
 
 ![QuizWitz Startbildschirm](/images/quizwitz-start-screen.png)  
 ![QuizWitz Startbildschirm Party](/images/quizwitz-start-screen-party.png)  

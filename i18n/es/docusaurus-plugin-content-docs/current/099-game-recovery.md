@@ -14,7 +14,7 @@ sidebar_position: 1000
 
 Si tu juego se bloquea, se cuelga o se interrumpe por cualquier motivo — ya sea un problema del navegador, un reinicio del sistema o el cierre accidental de la pestaña — puedes reanudar la sesión fácilmente.
 
-Solo **vuelve a abrir la misma pestaña del navegador o pantalla del juego** que estabas usando para mostrar la **vista principal del juego**. Esta es la pantalla que proyectas o transmites a tu audiencia.
+Sólo **reabre la misma pestaña de navegador** que estabas usando para mostrar la **pantalla del juego**. Esta es la pantalla que proyectas o transmites a tu audiencia.
 
 Cuando se cargue:
 

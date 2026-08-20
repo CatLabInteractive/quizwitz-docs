@@ -11,19 +11,19 @@ A **Szünet** egy különleges eseménykör, amely pihenőre megállítja a kví
 
 ## 📝 Hogyan működik
 
-- Szünet közben a fő játékképernyő megáll, és megjelenik egy időzítő.
-- **Konferencia- és partyjátékokban:**  
-  A szünet akkor ér véget, amikor valaki megnyomja az **Enter** billentyűt a fő játékképernyőn.
+- During an intermission, the game screen is paused and a timer is shown.
+- **In Conference mode and Party Games:**  
+  The intermission ends when someone presses **Enter** on the game screen.
 - **QuizWitz Live játékokban:**  
   A quizmaster a saját eszközéről (tabletről vagy okostelefonról) fejezi be a szünetet.  
-  A Quizmaster alkalmazás időzítőt jelenít meg, így a házigazda láthatja, mennyi ideje tart a szünet.
+  The Quizmaster App displays a timer so the quizmaster can see how long the intermission has lasted.
 
 ---
 
 ## 🖼️ Mellékletek
 
 - A kör beállításaiban képeket, logókat vagy videókat tölthetsz fel.
-- Szünet közben ezek a mellékletek körhintában jelennek meg a fő képernyőn — tökéletes szponzorlogókhoz, üzenetekhez vagy promóciós videókhoz.
+- During the intermission, these attachments will be shown in a carousel on the game screen—great for sponsor logos, messages, or promotional videos.
 - A mellékletek a szünet teljes ideje alatt ismétlődnek.
 
 ---

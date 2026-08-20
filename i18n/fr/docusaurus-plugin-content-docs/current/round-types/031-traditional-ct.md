@@ -3,10 +3,10 @@ id: traditional-ct
 title: Traditionnel (CT)
 ---
 
-# 📝🧵 Traditionnel – Fil conducteur
+# 📝🧵 Traditionnel - Fil commun
 
-Un tour **Traditionnel – Fil conducteur** fonctionne comme un [tour traditionnel](030-traditional.md), mais avec une touche spéciale :  
-À la fin du tour, la **dernière question** (« Quel était le fil conducteur ? »). est évaluée et affichée en premier. Cela permet au quizmaster de mettre en avant la connexion avant de révéler les autres réponses.
+Une ronde **Traditional - Common Thread** fonctionne comme une [ronde traditionnelle](030-traditional.md), mais avec une torsion :  
+À la fin de la manche, la **dernière question** (« Quel était le fil commun ?") est évaluée et affichée en premier. Cela permet au quizmaster de mettre en avant la connexion avant de révéler les autres réponses.
 
 ---
 

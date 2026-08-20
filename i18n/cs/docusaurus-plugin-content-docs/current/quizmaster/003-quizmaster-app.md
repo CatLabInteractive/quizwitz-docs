@@ -3,11 +3,11 @@ id: quizmaster-app
 title: Aplikace Quizmaster
 ---
 
-# 🎛️ Používání aplikace Quizmaster
+# 🎛️ Použití aplikace Quizmaster
 
 Jako quizmaster máš hru QuizWitz Live plně pod kontrolou. Nejdůležitější je vědět tohle:
 
-> Hra **postupuje dál jen tehdy, když klikneš** — na hlavní obrazovce se nic nepohne, dokud jí k tomu nedáš pokyn.
+> Hra **pouze postupuje při kliknutí** — nic se nepohybuje na obrazovce hry, dokud to neřekneš.
 
 Díky tomu máš tempo a načasování plně pod kontrolou, ale zároveň to znamená, že budeš hodně klepat. Pojďme si projít, jak aplikace funguje.
 
@@ -30,9 +30,9 @@ Před začátkem každého kola uvidíš obrazovku s úvodem kola.
 
 ### ❓ Pokládání otázky
 
-Každá otázka má v aplikaci Quizmaster vlastní obrazovku:
+Každá otázka má svou vlastní obrazovku v aplikaci Quizmaster:
 
-![Aplikace Quizmaster - spuštění otázky](/images/quizmaster-app-start-question.png)
+![Quizmaster App - spustit otázku](/images/quizmaster-app-start-question.png)
 
 Uvidíš:
 
@@ -40,7 +40,7 @@ Uvidíš:
 - **Typ otázky** — například výběr z možností, včetně příslušných úprav bodování
 - **Dlouhá verze otázky** — abys ji mohl/a přečíst nahlas
 - **Informace o otázce** — včetně délky časovače a dostupných bodů
-- **Krátká otázka** — verze zobrazená na velké obrazovce
+- **Krátká otázka** – verze zobrazená na obrazovce hry
 - **Tlačítko pro spuštění otázky** — okamžitě spustí časovač
 - **Možné odpovědi** — zobrazené ve správném pořadí (u výběru z možností)
 
@@ -57,7 +57,7 @@ Otázka zůstane v tvé aplikaci viditelná, dokud nenastane jedna z těchto mo�
 
 Po skončení otázky se odhalí správná odpověď. To, co uvidíš, závisí na typu otázky — tento příklad ukazuje obrazovku výsledků pro výběr z možností:
 
-![Aplikace Quizmaster - zpětná vazba k otázce](/images/quizmaster-app-question-feedback.png)
+![Quizmaster App - zpětná vazba](/images/quizmaster-app-question-feedback.png)
 
 Obsahuje:
 
@@ -75,13 +75,13 @@ Obsahuje:
 
 Když kolo skončí, uvidíš obrazovku **Round Outro**, která odhalí dosavadní pořadí.
 
-![Aplikace Quizmaster - závěr kola](/images/quizmaster-app-round-outro.png)  
-![QuizWitz - závěr kola na velké obrazovce](/images/round-outro.png)
+![Quizmaster App - round outro](/images/quizmaster-app-round-outro.png)  
+![QuizWitz - round outro game screen](/images/round-outro.png)
 
 Ve své aplikaci:
 
 - Uvidíš **100 nejlepších hráčů** a můžeš v nich posouvat
-- Klepnutím na umístění hráče ho zvýrazníš na velké obrazovce
+- Klepnutím na pozici hráče je zvýrazníte na obrazovce hry
 - Od 2. kola dál také uvidíš, o kolik míst se každý hráč posunul:
   - **Zelená** = posun nahoru
   - **Červená** = posun dolů
@@ -95,7 +95,7 @@ Hráči během závěru uvidí **své vlastní umístění** na svém zařízen�
 
 Na konci kvízu je čas na **párty s odhalením vítěze** — včetně konfet a hráčských emoji létajících po obrazovce.
 
-![QuizWitz - závěr hry na velké obrazovce](/images/game-outro.png)
+![QuizWitz - obrazovka hry](/images/game-outro.png)
 
 - Výchozí nastavení zobrazí **12 nejlepších hráčů**
 - Počet zobrazených hráčů si můžeš upravit v **pokročilých nastaveních hry**
@@ -104,4 +104,4 @@ Na konci kvízu je čas na **párty s odhalením vítěze** — včetně konfet 
 
 ---
 
-To je všechno, co potřebuješ vědět, abys mohl/a vést svůj kvíz pomocí aplikace Quizmaster. Teď máš všechno připravené, abys svou akci vedl/a sebejistě a se stylem!
+To je vše, co potřebujete vědět, abyste mohli spustit kvíz pomocí aplikace Quizmaster . Teď máš všechno připravené, abys svou akci vedl/a sebejistě a se stylem!

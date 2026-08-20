@@ -1,6 +1,6 @@
 ---
 id: round-types
-title: Tipos de rondas
+title: Tipos de ronda
 ---
 
 # Tipos de rondas
@@ -18,10 +18,10 @@ En los quizzes, puedes cambiar el tipo de ronda en el campo de selección **Roun
 
 Estas rondas ofrecen un poco más de interactividad que las simples preguntas y respuestas.
 
-- [Porción de pastel](021-piece-of-pie.md)
+- [Pieza de Pie](021-piece-of-pie.md)
 - [Multiquestion](022-multiquestion.md)
 - [Strike](023-strike.md)
-- [Dealer's choice](024-dealers-choice.md)
+- [Elección del Dealer](024-dealers-choice.md)
 
 ## 🍺 Tradicional
 
@@ -46,5 +46,5 @@ Estos tipos de ronda no contienen preguntas — sino que influyen en el resultad
 
 En estos tipos de ronda, puedes seleccionar **departamentos** específicos que compiten contra otros departamentos.
 
-- [Departamento — Dealer's choice](070-departments-dealers-choice.md)
+- [Departamento — Elección del Proveedor](070-departments-dealers-choice.md)
 - [Departamento — Eliminación](071-departments-elimination.md)

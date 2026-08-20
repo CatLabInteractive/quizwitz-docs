@@ -14,7 +14,7 @@ Votre partie s'est-elle figée ? L'onglet s'est-il fermé par accident ? [**Quiz
 
 Si votre partie plante, se bloque ou est interrompue pour une quelconque raison — que ce soit à cause d'un problème de navigateur, d'un redémarrage système ou de la fermeture accidentelle de l'onglet — vous pouvez reprendre la session facilement.
 
-Il suffit de **rouvrir le même onglet ou écran de jeu** que vous utilisiez pour afficher la **vue principale du jeu**. C'est l'écran que vous projetez ou diffusez à votre audience.
+Il vous suffit de **rouvrir le même onglet de navigateur** que vous utilisiez pour afficher **l'écran du jeu**. C'est l'écran que vous projetez ou diffusez à votre audience.
 
 Quand il se charge :
 

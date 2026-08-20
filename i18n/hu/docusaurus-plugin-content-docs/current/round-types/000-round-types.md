@@ -1,6 +1,6 @@
 ---
 id: round-types
-title: Fordulótípusok
+title: Round types
 ---
 
 # Fordulótípusok
@@ -18,10 +18,10 @@ A kvízekben a fordulótípust a képernyő felső középső részén találhat
 
 Ezek a fordulók kicsit több interaktivitást kínálnak, mint az egyszerű kérdés-válasz típusú kérdések.
 
-- [Tortaszelet](021-piece-of-pie.md)
+- [Piece of Pie](021-piece-of-pie.md)
 - [Többkérdéses](022-multiquestion.md)
 - [Strike](023-strike.md)
-- [Osztó választása](024-dealers-choice.md)
+- [Dealer's Choice](024-dealers-choice.md)
 
 ## 🍺 Hagyományos
 
@@ -46,5 +46,5 @@ Ezek a fordulótípusok nem tartalmaznak kérdéseket — ehelyett a játék kim
 
 Ezekben a fordulótípusokban kiválaszthatsz konkrét **részlegeket**, amelyek más részlegek ellen játszanak.
 
-- [Részleg — Osztó választása](070-departments-dealers-choice.md)
+- [Department — Dealer's Choice](070-departments-dealers-choice.md)
 - [Részleg — Kiesés](071-departments-elimination.md)

@@ -45,14 +45,14 @@ Položky môžeš kedykoľvek usporiadať, hrať alebo odstrániť. Toto je tvoj
 
 ## 🧠 Vyber si Round-About
 
-**Round-About** je malé tematické kolo otázok. Keď si zahráš len jedno, dostaneš krátku hru so 7 náhodnými otázkami.
+A **Round-About** is a small, themed round of questions — as the name says, a round _about_ a subject. Keď si zahráš len jedno, dostaneš krátku hru so 7 náhodnými otázkami.
 
 Ak chceš Round-About preskúmať podrobnejšie:
 
 - Klikni na jeho **obrázok**, **názov** alebo **ikonu komentárov**
 - Klikni na **Hrať** a hneď sa do toho pusť
 
-![Podrobnosti Round-About v QuizWitz](/images/round-about-details.png)
+![QuizWitz Round-About details](/images/round-about-details.png)
 
 ---
 
@@ -107,11 +107,17 @@ Keď sa tvoja hra spustí, vyber si režim:
 
 Hraj s priateľmi pomocou ich vlastných telefónov alebo tabletov:
 
-> 📺 Uisti sa, že obrazovka kvízu je viditeľná — použi zdieľaný displej alebo zdieľanie obrazovky
+> 📺 Make sure the game screen is visible — use a shared display or screen share
 
 1. Klikni na **Štart** a potom na **Párty hra**
 2. Hráči sa pripoja podľa pokynov na obrazovke
 3. Keď sú všetci pripravení, klikni na **Spustiť kvíz**
+
+Once the quiz starts, **the game runs automatically** — questions appear, timers count down, and scores are tallied without any host intervention.
+
+> ⏸️ Need a break? Move your mouse to the bottom of the game screen and a **pause** button will appear. Pausing is the only way to interrupt a Party Game.
+>
+> Want to control the pacing of the game yourself — deciding when each question starts? That's only possible with [**QuizWitz Live**](../quizmaster/001-introduction.md) and the Quizmaster App.
 
 ![Úvodná obrazovka QuizWitz](/images/quizwitz-start-screen.png)  
 ![Úvodná obrazovka QuizWitz párty](/images/quizwitz-start-screen-party.png)  

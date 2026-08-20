@@ -31,7 +31,7 @@ title: Otázka so zoznamom
 - **Zadané možnosti:** Použi ich ako príklady priamo v otázke.
 - **Oprava:**
   - **Vynútiť automatickú opravu:** Keď je zapnutá, QuizWitz automaticky skontroluje všetky odpovede (akceptuje drobné preklepy a varianty). Porota nie je potrebná.
-  - **Manuálna kontrola:** Keď nie je zapnutá, každú zadanú odpoveď musí skontrolovať [aplikácia poroty](../quizmaster/004-jury-app.md).
+  - **Manual review:** When not enabled, each provided answer must be reviewed by the [Jury App](../quizmaster/004-jury-app.md).
 
 ---
 
@@ -59,4 +59,4 @@ Podrobnosti nájdeš v časti [možnosti bodovania kola](../editor/008-round-opt
 
 ---
 
-Viac nájdeš v [dokumentácii aplikácie poroty](../quizmaster/004-jury-app.md).
+For more, see [Jury App documentation](../quizmaster/004-jury-app.md).

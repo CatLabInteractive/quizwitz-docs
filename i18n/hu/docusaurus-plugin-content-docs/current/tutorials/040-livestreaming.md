@@ -7,7 +7,7 @@ title: Élő közvetítéses kvíz
 
 A QuizWitz Live-val könnyű teljesen interaktív élő közvetítéses kvízt vezetni olyan platformokon, mint a **Twitch**, a **YouTube Live** vagy a **Facebook Live** — akár nagy közönség előtt is. Ez az útmutató végigvezet a beállításon, a késleltetés kezelésén és a prezentációs bevált gyakorlatokon.
 
-> 🧭 Ha még új neked a Quizmaster app, kezdd a [**Quizmaster indítási útmutatóval**](../quizmaster/002-startup.md).
+> 🧭 If you're new to the Quizmaster App, start with the [**Quizmaster startup guide**](../quizmaster/002-startup.md).
 
 ---
 
@@ -15,9 +15,9 @@ A QuizWitz Live-val könnyű teljesen interaktív élő közvetítéses kvízt v
 
 A quizmaster az eseményed szíve. Ő irányítja a tempót, bemutatja a kérdéseket, és leköti a közönségedet.
 
-A játék futtatásához használd a **Quizmaster appot**. Indítsd el a QuizWitz Live-ot a kvízszerkesztőből a **QuizWitz Live indítása** gombra kattintva.
+Use the **Quizmaster App** to run the game. Indítsd el a QuizWitz Live-ot a kvízszerkesztőből a **QuizWitz Live indítása** gombra kattintva.
 
-> 💡 A Quizmaster app egy **web app** — nincs szükség telepítésre. Csak menj a [**quizwitz.tv**](https://quizwitz.tv) oldalra a prezentációs eszközödön, és írd be a **Master Code**-ot.
+> 💡 The Quizmaster App is a **web app** — there’s no installation. Just go to [**quizwitz.tv**](https://quizwitz.tv) on your quizmaster device and enter the **quizmaster code**.
 
 Javasoljuk, hogy **tablet vagy okostelefon** használj, így a quizmaster szabadon mozoghat a műsor alatt.
 
@@ -25,16 +25,16 @@ Javasoljuk, hogy **tablet vagy okostelefon** használj, így a quizmaster szabad
 
 ## 🧩 A megfelelő játékmód kiválasztása
 
-A QuizWitz Live indításakor meg kell választanod egy módot:
+When starting QuizWitz Live, you’ll be asked to choose how players connect:
 
-- **Normál mód** — A játékosok vagy csapatok mindegyike egyedi kódot kap. Előre regisztrált csapateseményekhez hasznos.
-- **Ad-hoc mód** — Egy közös Game Code minden játékosnak. Nyílt regisztrációjú élő közvetítésekhez a legjobb.
+- **Team codes** — Players or teams each receive a unique code. Előre regisztrált csapateseményekhez hasznos.
+- **Single game code** — One shared game code for all players. Nyílt regisztrációjú élő közvetítésekhez a legjobb.
 
-> Élő közvetítésekhez mindig az **Ad-hoc módot** válaszd, majd kattints az **Ad-hoc játék indítása** gombra.
+> For livestreams, always choose **Single game code** and click _Start ad-hoc game_.
 
-Miután a kvíz betöltött, a Quizmaster app ezt jeleníti meg:
+Once the quiz loads, the Quizmaster App will display:
 
-- **Master Code** — a quizmaster számára
+- **Quizmaster code** — for the quizmaster
 - **Jury Code** — a nyitott kérdések ellenőrzéséhez
 - **Regie Code** — a vizuális elemek/hang vezérléséhez
 - **Game Code** — hogy a játékosok csatlakozhassanak
@@ -53,7 +53,7 @@ A kvíz közvetítéséhez használj műsorszóró szoftvert. Ezt javasoljuk:
 Ha **megbeszéléses szoftvert** használsz, például Zoomot vagy Google Meetet:
 
 - Egyszerűen oszd meg a képernyődet
-- Nyomd meg a **Start** gombot a Quizmaster appban
+- Press **Start** in the Quizmaster App
 - A játékosok közel valós időben vehetnek részt
 
 A **Twitch, YouTube Live vagy Facebook Live** esetén **közvetítési késleltetést** (más néven transzkódolási késleltetést) fogsz tapasztalni.
@@ -64,16 +64,16 @@ A **Twitch, YouTube Live vagy Facebook Live** esetén **közvetítési késlelte
 
 ## ⏱️ A QuizWitz játékoskésleltetés beállítása
 
-A stream késleltetésének kompenzálásához használd a **játékos-interakciós késleltetést** a Jury appban.
+To compensate for stream delay, use the **player interaction delay** in the Jury App.
 
 Így csináld:
 
 1. Indítsd el a stream előnézetét — még nem kell élőbe menned
-2. Nyisd meg a **Jury appot** úgy, hogy beírod a Jury Code-odat a [**catlab.tv**](https://catlab.tv) oldalon
+2. Open the **Jury App** by entering your Jury Code at [**quizwitz.tv**](https://quizwitz.tv)
 3. Menj a **Játékvezérlés** részhez
 4. Nyisd meg az élő közvetítésedet egy másik ablakban, hanggal
 5. Használj stoppert
-6. A Jury appban nyomd meg a **Buzzer** gombot, és indítsd el az időmérést
+6. In the Jury App, hit the **Buzzer** button and start timing
 7. Amikor meghallod a berregőt az élő közvetítésben, állítsd meg a stoppert
 8. Kerekítsd felfelé a késleltetést (másodpercben), és írd be a **Player interaction delay** mezőbe
 9. Kattints a **Confirm setting** gombra
@@ -87,14 +87,14 @@ A stream késleltetésének kompenzálásához használd a **játékos-interakci
 Miután a késleltetés be van állítva, és a játékosok csatlakoztak:
 
 - Indítsd el a Twitch streamedet
-- Használd a Quizmaster appot a **kvíz elindításához**
+- Use the Quizmaster App to **launch the quiz**
 - A QuizWitz a háttérben kezeli az időzítést — nem kell szünetet tartanod a kérdések között
 
 ---
 
 ## 💡 Élő közvetítéses prezentációs tippek
 
-- **Ne hagyd, hogy a quizmaster a késleltetett streamet nézze** — csak az élő Quizmaster appot használja, hogy elkerülje a kínos szüneteket.
+- **Do not let the quizmaster watch the delayed stream** — they should use only the live Quizmaster App to avoid awkward pauses.
 
 - A közönséggel való interakcióhoz figyeld az **élő kommenteket** egy külön képernyőn — ne a videóképet.
 
@@ -106,7 +106,7 @@ Miután a késleltetés be van állítva, és a játékosok csatlakoztak:
 
 - További eszközöket keresel? Látogass el a [**regie.catlab.eu**](https://regie.catlab.eu) oldalra — ez egy központi gyűjtőhely további automatizálási, jelenetváltási, effekt- és egyéb segédeszközökkel.
 
-> Minden eszközhöz szükség van a Quizmaster appból származó **Regie Code**-odra.
+> All tools require your **Regie Code** from the Quizmaster App.
 
 ---
 

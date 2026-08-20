@@ -7,7 +7,7 @@ title: Cuestionario en directo
 
 Con QuizWitz Live, es fácil organizar un cuestionario totalmente interactivo en directo en plataformas como **Twitch**, **YouTube Live** o **Facebook Live** — incluso para grandes audiencias. Esta guía te lleva paso a paso por la configuración, manejo del retraso y mejores prácticas de presentación.
 
-> 🧭 Si eres nuevo/a en la app Quizmaster, comienza con la [**guía de inicio de Quizmaster**](../quizmaster/002-startup.md).
+> 🧭 Si eres nuevo en la aplicación de pruebas, empieza con la [**Guía de inicio de pruebas**](../quizmaster/002-startup.md).
 
 ---
 
@@ -15,9 +15,9 @@ Con QuizWitz Live, es fácil organizar un cuestionario totalmente interactivo en
 
 El quizmaster es el corazón de tu evento. Controla el ritmo, presenta las preguntas y mantiene a tu audiencia comprometida.
 
-Usa la **app Quizmaster** para dirigir el juego. Lanza QuizWitz Live desde el editor de cuestionarios haciendo clic en **Iniciar QuizWitz Live**.
+Usa la **Aplicación Práctica** para ejecutar el juego. Lanza QuizWitz Live desde el editor de cuestionarios haciendo clic en **Iniciar QuizWitz Live**.
 
-> 💡 La app Quizmaster es una **app web** — no requiere instalación. Sólo accede a [**quizwitz.tv**](https://quizwitz.tv) en tu dispositivo de presentación e introduce el **Código Maestro**.
+> 💡 La Aplicación Femaster es una **aplicación web** — no hay instalación. Solo ve a [**quizwitz.tv**](https://quizwitz.tv) en tu dispositivo de prueba e introduce el **código de cuestionario**.
 
 Recomendamos usar una **tablet o smartphone** para que el quizmaster pueda moverse libremente durante el show.
 
@@ -25,16 +25,16 @@ Recomendamos usar una **tablet o smartphone** para que el quizmaster pueda mover
 
 ## 🧩 Elegir el modo de juego correcto
 
-Al iniciar QuizWitz Live, se te pedirá elegir un modo:
+Cuando comience la prueba Witz Live, se le pedirá que elija cómo se conectan los jugadores:
 
-- **Modo regular** — Los jugadores o equipos reciben un código único. Útil para eventos de equipos pre-registrados.
-- **Modo ad-hoc** — Un único Código de Juego compartido para todos los jugadores. Lo mejor para directos con registro abierto.
+- **Códigos de equipo** — Los jugadores o equipos reciben cada uno un código único. Útil para eventos de equipos pre-registrados.
+- **Código de juego único** — Un código compartido para todos los jugadores. Lo mejor para directos con registro abierto.
 
-> Para los directos, siempre elige **Modo ad-hoc** y haz clic en **Iniciar juego ad-hoc**.
+> Para imágenes en vivo, elige siempre el **código de un solo juego** y haz clic en _Inicio de juego ad hoc_.
 
-Una vez que el cuestionario carga, la app Quizmaster mostrará:
+Una vez que se cargue el cuestionario, se mostrará la aplicación de umbral:
 
-- **Código Maestro** — para el quizmaster
+- **Código maestro** — para el cuestionario
 - **Código de Jurado** — para revisar preguntas abiertas
 - **Código Regie** — para controlar visuales/audio
 - **Código de Juego** — para que los jugadores se unan
@@ -53,7 +53,7 @@ Para transmitir tu cuestionario, usa software de transmisión. Recomendamos:
 Si usas **software de reuniones** como Zoom o Google Meet:
 
 - Simplemente comparte tu pantalla
-- Pulsa **Iniciar** en la app Quizmaster
+- Presiona **Inicio** en la App de Maestros
 - Los jugadores pueden participar casi en tiempo real
 
 Para **Twitch, YouTube Live o Facebook Live**, experimentarás un **retraso de transmisión** (también llamado retraso de transcodificación).
@@ -64,16 +64,16 @@ Para **Twitch, YouTube Live o Facebook Live**, experimentarás un **retraso de t
 
 ## ⏱️ Configurando el retraso del jugador en QuizWitz
 
-Para compensar el retraso de la transmisión, usa el **retraso de interacción del jugador** en la app Jurado.
+Para compensar el retraso del stream, utilice el **retraso de interacción del jugador** en la aplicación del Jurado.
 
 Así es cómo:
 
 1. Inicia la vista previa de tu transmisión — no necesitas ir en vivo aún
-2. Abre la **app Jurado** ingresando tu Código de Jurado en [**catlab.tv**](https://catlab.tv)
+2. Abre la **Aplicación del Jurado** ingresando tu Código del Jurado en [**quizwitz.tv**](https://quizwitz.tv)
 3. Ve a **Control del juego**
 4. Abre tu livestream en otra ventana, con sonido
 5. Usa un cronómetro
-6. En la app Jurado, pulsa el botón **Zumbador** y comienza a medir el tiempo
+6. En la aplicación del Jurado, pulse el botón **Buzzer** y comience a sincronizar
 7. Cuando escuches el zumbador en la transmisión, para el cronómetro
 8. Redondea el retraso (en segundos) e introdúcelo en el campo **Retraso de interacción del jugador**
 9. Haz clic en **Confirmar configuración**
@@ -87,14 +87,14 @@ Así es cómo:
 Una vez que el retraso esté configurado y tus jugadores conectados:
 
 - Inicia tu transmisión en Twitch
-- Usa la app Quizmaster para **lanzar el cuestionario**
+- Usa la aplicación para **iniciar el cuestionario**
 - QuizWitz manejará el tiempo en segundo plano — no es necesario pausar entre preguntas
 
 ---
 
 ## 💡 Consejos para la presentación en directo
 
-- **No permitas que el quizmaster vea la transmisión con retraso** — debe usar sólo la app Quizmaster en tiempo real para evitar pausas incómodas.
+- **No dejes que el cuestionario mire el flujo retrasado** — deberían usar sólo la aplicación de prueba en vivo para evitar pausas incómodas.
 
 - Para interactuar con la audiencia, monitorea los **comentarios en vivo** en una pantalla separada — no el flujo de vídeo.
 
@@ -106,7 +106,7 @@ Una vez que el retraso esté configurado y tus jugadores conectados:
 
 - ¿Buscas más herramientas? Visita [**regie.catlab.eu**](https://regie.catlab.eu) — un centro con utilidades adicionales para automatización, cambio de escenas, efectos y más.
 
-> Todas las herramientas necesitan tu **Código Regie** de la app Quizmaster.
+> Todas las herramientas requieren tu **Código Región** de la aplicación Práctica.
 
 ---
 

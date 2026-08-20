@@ -1,6 +1,6 @@
 ---
 id: startup
-title: Start-up
+title: Opstarten
 ---
 
 # 🚀 Start-up — Een Quiz hosten met QuizWitz Live
@@ -21,18 +21,18 @@ Je kunt een QuizWitz Live-spel starten vanuit de quiz-editor of rechtstreeks van
 
 ---
 
-## 🔐 Verbinden met de Master Code
+## 🔐 Verbinden met de quizmastercode
 
-Zodra gestart, toont je scherm een **Master Code**. **Deel deze code niet met spelers** — dit is om je presentatieapparaat met het spel te verbinden.
+Na het opstarten toont je scherm een **quizmastercode**. **Deel deze code niet met spelers** — hij wordt gebruikt om je quizmasterapparaat met het spel te verbinden.
 
-- Bezoek [quizwitz.tv](https://quizwitz.tv) op je quizmaster-apparaat en voer de Master Code in.
+- Ga op je quizmasterapparaat naar [quizwitz.tv](https://quizwitz.tv) en voer de quizmastercode in.
 - Er verschijnt een **Quizmaster App-interface**, waarmee je het spel bedient.
 - We raden een **tablet of smartphone** aan voor mobiliteit, maar een laptop werkt ook.  
   ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)
 
-Na verbinding verdwijnt de Master Code van het scherm. Je bent nu klaar om het hoofdscherm op een projector te tonen of je livestream te starten.
+Na het verbinden verdwijnt de quizmastercode van het scherm. Je bent nu klaar om het spelscherm op een projector te tonen of je livestream te starten.
 
-> ⚠️ \*\*Let op! \* Als het spelscherm (hoofdscherm) niet actief in focus is - bijvoorbeeld als je van tabbladen wisselt of deze minimaliseert — het spel zal **automatisch pauzeren**.  
+> ⚠️ **Let op!** Als het spelscherm niet actief in beeld is — bijvoorbeeld als je van tabblad wisselt of het venster minimaliseert — wordt het spel **automatisch gepauzeerd**.  
 > Als dit gebeurt:
 >
 > - De **Quizmaster App pauzeert ook**
@@ -45,7 +45,7 @@ Na verbinding verdwijnt de Master Code van het scherm. Je bent nu klaar om het h
 
 Eenmaal verbonden, kies je tussen twee spelmodi:
 
-![Quizmaster app - select mode](/images/quizmaster-app-select-mode.png)
+![Quizmaster App - modus kiezen](/images/quizmaster-app-select-mode.png)
 
 ### Teamcodes
 
@@ -68,13 +68,14 @@ Eenmaal verbonden, kies je tussen twee spelmodi:
 Bij gebruik van **Teamcodes** maak je eerst teams aan in de Quizmaster App:
 
 - Voeg teamnamen toe
-- Press **‘Genereer Codes’** to create access codes![Quizmaster app - create teams](/images/quizmaster-app-create-teams.png)
+- Druk op **‘Genereer codes’** om toegangscodes aan te maken  
+  ![Quizmaster App - teams aanmaken](/images/quizmaster-app-create-teams.png)
 
 Je kunt ook **codes van tevoren reserveren** — meer daarover in de tips & trucs sectie.
 
 Zorg dat je **de volgende codes opslaat**:
 
-- **Master Code** — om de quiz te bedienen
+- **Quizmastercode** — om de quiz te bedienen
 - **Jury Code** — voor handmatige scoreaanpassingen
 - **Regie Code** — om visuele en technische elementen te besturen
 
@@ -82,16 +83,16 @@ Stuur teamcodes naar je spelers via e-mail of printsters.
 
 Als je klaar bent, klik je op **‘Laad quiz’**, wacht je tot de bestanden geladen zijn en klik je dan op **‘Start’** om te beginnen.
 
-![Quizmaster app - get team codes](/images/quizmaster-app-create-teams2.png)
+![Quizmaster App - teamcodes ophalen](/images/quizmaster-app-create-teams2.png)
 
 ---
 
 ## 👤 Host met een enkele spelcode
 
-Met de **Enkele Game Code** modus:
+Met het schema **Gedeelde spelcode**:
 
-- Je ontvangt de Master, Jury en Regie codes, plus één Game Code voor spelers.
-- De Game Code verschijnt op het hoofdscherm — **toon of stream deze naar je publiek**.
+- Je ontvangt de quizmaster-, jury- en regiecode, plus één spelcode voor de spelers.
+- De spelcode verschijnt op het spelscherm — **toon of stream hem naar je publiek**.
 - Spelers kunnen op elk moment meedoen tot het limiet van actieve Seats bereikt is.
 
 Zodra je spelers binnen zijn:
@@ -107,8 +108,8 @@ Zodra je spelers binnen zijn:
 Voordat je begint, moet je je beschikbare Seats controleren.
 
 - Een overzicht verschijnt nadat je je spelmodus hebt gekozen
-- Als je meer Seats nodig hebt, activeer ze dan op [app.quizwitz.com/seats](https://app.quizwitz.com/seats)\
-  ![Quizmaster app - activate seats](/images/quizmaster-app-seats.png)
+- Heb je meer seats nodig, activeer ze dan op [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
+  ![Quizmaster App - seats activeren](/images/quizmaster-app-seats.png)
 
 ---
 
@@ -116,6 +117,6 @@ Voordat je begint, moet je je beschikbare Seats controleren.
 
 Als de setup klaar is, druk je in de Quizmaster App op **‘Start quiz’** om te beginnen.
 
-![Quizmaster app - start quiz](/images/quizmaster-app-start-quiz.png)
+![Quizmaster App - quiz starten](/images/quizmaster-app-start-quiz.png)
 
 Je bent nu klaar om je publiek te vermaken met een vlekkeloze QuizWitz Live ervaring!

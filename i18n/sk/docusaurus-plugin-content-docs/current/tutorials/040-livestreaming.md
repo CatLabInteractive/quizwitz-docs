@@ -7,7 +7,7 @@ title: Livestream kvíz
 
 S QuizWitz Live je jednoduché hostovať plne interaktívny livestream kvíz na platformách ako **Twitch**, **YouTube Live** alebo **Facebook Live** — aj pre veľké publikum. Táto príručka ťa prevedie nastavením, prácou s oneskorením a osvedčenými postupmi pri prezentovaní.
 
-> 🧭 Ak si v aplikácii Quizmaster nový, začni s [**úvodnou príručkou Quizmaster**](../quizmaster/002-startup.md).
+> 🧭 If you're new to the Quizmaster App, start with the [**Quizmaster startup guide**](../quizmaster/002-startup.md).
 
 ---
 
@@ -15,9 +15,9 @@ S QuizWitz Live je jednoduché hostovať plne interaktívny livestream kvíz na 
 
 Quizmaster je srdcom tvojho podujatia. Riadi tempo, prezentuje otázky a udržiava publikum zapojené.
 
-Na spustenie hry použi **aplikáciu Quizmaster**. Spusť QuizWitz Live z editora kvízu kliknutím na **Spustiť QuizWitz Live**.
+Use the **Quizmaster App** to run the game. Spusť QuizWitz Live z editora kvízu kliknutím na **Spustiť QuizWitz Live**.
 
-> 💡 Aplikácia Quizmaster je **webová aplikácia** — nič netreba inštalovať. Stačí prejsť na [**quizwitz.tv**](https://quizwitz.tv) na prezentačnom zariadení a zadať **Master kód**.
+> 💡 The Quizmaster App is a **web app** — there’s no installation. Just go to [**quizwitz.tv**](https://quizwitz.tv) on your quizmaster device and enter the **quizmaster code**.
 
 Odporúčame použiť **tablet alebo smartfón**, aby sa quizmaster mohol počas show voľne pohybovať.
 
@@ -25,16 +25,16 @@ Odporúčame použiť **tablet alebo smartfón**, aby sa quizmaster mohol počas
 
 ## 🧩 Výber správneho herného režimu
 
-Pri spúšťaní QuizWitz Live si vyberieš režim:
+When starting QuizWitz Live, you’ll be asked to choose how players connect:
 
-- **Bežný režim** — hráči alebo tímy dostanú každý svoj jedinečný kód. Užitočné pre vopred registrované tímové podujatia.
-- **Ad-hoc režim** — jeden spoločný herný kód pre všetkých hráčov. Najlepšie pre livestreamy s otvorenou registráciou.
+- **Team codes** — Players or teams each receive a unique code. Užitočné pre vopred registrované tímové podujatia.
+- **Single game code** — One shared game code for all players. Najlepšie pre livestreamy s otvorenou registráciou.
 
-> Pri livestreamoch vždy vyber **Ad-hoc režim** a klikni na **Spustiť ad-hoc hru**.
+> For livestreams, always choose **Single game code** and click _Start ad-hoc game_.
 
-Po načítaní kvízu aplikácia Quizmaster zobrazí:
+Once the quiz loads, the Quizmaster App will display:
 
-- **Master kód** — pre quizmaster
+- **Quizmaster code** — for the quizmaster
 - **Kód poroty** — na kontrolu otvorených otázok
 - **Regie kód** — na ovládanie vizuálov/zvuku
 - **Herný kód** — aby sa hráči mohli pripojiť
@@ -53,7 +53,7 @@ Na streamovanie kvízu použi vysielací softvér. Odporúčame:
 Ak používaš **softvér na stretnutia**, napríklad Zoom alebo Google Meet:
 
 - Jednoducho zdieľaj svoju obrazovku
-- Stlač **Štart** v aplikácii Quizmaster
+- Press **Start** in the Quizmaster App
 - Hráči sa môžu zapojiť takmer v reálnom čase
 
 Pri **Twitch, YouTube Live alebo Facebook Live** narazíš na **oneskorenie streamu** (tzv. oneskorenie transkódovania).
@@ -64,16 +64,16 @@ Pri **Twitch, YouTube Live alebo Facebook Live** narazíš na **oneskorenie stre
 
 ## ⏱️ Nastavenie oneskorenia hráča v QuizWitz
 
-Na vykompenzovanie oneskorenia streamu použi **oneskorenie interakcie hráča** v aplikácii Jury.
+To compensate for stream delay, use the **player interaction delay** in the Jury App.
 
 Takto na to:
 
 1. Spusti náhľad streamu — ešte nemusíš ísť naživo
-2. Otvor **aplikáciu Jury** zadaním svojho kódu poroty na [**catlab.tv**](https://catlab.tv)
+2. Open the **Jury App** by entering your Jury Code at [**quizwitz.tv**](https://quizwitz.tv)
 3. Prejdi na **Ovládanie hry**
 4. Otvor svoj livestream v inom okne, aj so zvukom
 5. Použi stopky
-6. V aplikácii Jury stlač tlačidlo **Bzučiak** a začni merať čas
+6. In the Jury App, hit the **Buzzer** button and start timing
 7. Keď v livestreame začuješ bzučiak, zastav stopky
 8. Zaokrúhli oneskorenie nahor (v sekundách) a zadaj ho do poľa **Oneskorenie interakcie hráča**
 9. Klikni na **Potvrdiť nastavenie**
@@ -87,14 +87,14 @@ Takto na to:
 Keď je oneskorenie nastavené a hráči sú pripojení:
 
 - Spusti svoj stream na Twitch
-- Použi aplikáciu Quizmaster na **spustenie kvízu**
+- Use the Quizmaster App to **launch the quiz**
 - QuizWitz sa postará o časovanie na pozadí — medzi otázkami nemusíš robiť pauzy
 
 ---
 
 ## 💡 Tipy na prezentovanie livestreamu
 
-- **Nedovoľ quizmaster sledovať oneskorený stream** — mal by používať iba živú aplikáciu Quizmaster, aby sa predišlo trápnym pauzám.
+- **Do not let the quizmaster watch the delayed stream** — they should use only the live Quizmaster App to avoid awkward pauses.
 
 - Ak chceš komunikovať s publikom, sleduj **živé komentáre** na samostatnej obrazovke — nie video prenos.
 
@@ -106,7 +106,7 @@ Keď je oneskorenie nastavené a hráči sú pripojení:
 
 - Hľadáš ďalšie nástroje? Navštív [**regie.catlab.eu**](https://regie.catlab.eu) — centrálny hub s ďalšími nástrojmi na automatizáciu, prepínanie scén, efekty a ďalšie veci.
 
-> Všetky nástroje vyžadujú tvoj **Regie kód** z aplikácie Quizmaster.
+> All tools require your **Regie Code** from the Quizmaster App.
 
 ---
 

@@ -9,7 +9,7 @@ Een Activiteitenronde laat je even wegstappen van standaard quizvragen voor een 
 
 ---
 
-![Hoofdscherm voor Activiteitronde](/images/round-modes/activity-main-screen.png)
+![Spelscherm voor een Activiteit-ronde](/images/round-modes/activity-main-screen.png)
 
 ---
 
@@ -33,7 +33,7 @@ Een Activiteitenronde laat je even wegstappen van standaard quizvragen voor een 
 
 - **Duelhulpmiddelen:** De quizmaster kan snelle acties uitvoeren voor buzzer, gong, bellen en timers tijdens de activiteit.
 - **Aangepaste punten:** Punten kunnen handmatig worden ingevoerd voor elk team, of je kunt een winnaar kiezen met snelle actieknoppen.
-- **Bijlagen:** Voeg afbeeldingen, audio of video toe om de activiteit te verklaren of voorbeelden te tonen. De quizmaster kan deze tijdens de activiteit op het hoofdscherm tonen.
+- **Bijlagen:** Voeg afbeeldingen, audio of video toe om de activiteit te verklaren of voorbeelden te tonen. De quizmaster kan deze tijdens de activiteit op het spelscherm tonen.
 
 ---
 

@@ -31,7 +31,7 @@ Une **question de liste** demande aux joueurs de fournir plusieurs bonnes répon
 - **Options données :** Utilisez-les comme exemples dans la question.
 - **Correction :**
   - **Forcer la correction automatique :** Quand activé, QuizWitz vérifie automatiquement toutes les réponses (en acceptant petites fautes et variations). Pas besoin de jury.
-  - **Revue manuelle :** Quand désactivé, chaque réponse doit être validée par l’[app jury](../quizmaster/004-jury-app.md).
+  - **Révision manuelle :** Lorsqu'elle n'est pas activée, chaque réponse fournie doit être examinée par [l'application Jury App](../quizmaster/004-jury-app.md).
 
 ---
 
@@ -59,4 +59,4 @@ Pour plus de détails, voyez [options de scoring des manches](../editor/008-roun
 
 ---
 
-Pour plus d’infos, consultez la [documentation de l’app jury](../quizmaster/004-jury-app.md).
+Pour en savoir plus, voir [Documentation de l'application du Jury ](../quizmaster/004-jury-app.md).

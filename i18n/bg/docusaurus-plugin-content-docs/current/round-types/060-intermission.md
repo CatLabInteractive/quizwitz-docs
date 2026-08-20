@@ -11,19 +11,19 @@ title: Антракт
 
 ## 📝 Как работи
 
-- По време на антракт основният екран на играта е на пауза и се показва таймер.
-- **В конферентни и парти игри:**  
-  Антрактът приключва, когато някой натисне **Enter** на основния екран на играта.
+- During an intermission, the game screen is paused and a timer is shown.
+- **In Conference mode and Party Games:**  
+  The intermission ends when someone presses **Enter** on the game screen.
 - **В игрите QuizWitz Live:**  
   quizmaster приключва антрактa от своето устройство (таблет или смартфон).  
-  Приложението Quizmaster показва таймер, за да може водещият да вижда колко дълго е продължил антрактът.
+  The Quizmaster App displays a timer so the quizmaster can see how long the intermission has lasted.
 
 ---
 
 ## 🖼️ Прикачени файлове
 
 - Можеш да качваш изображения, лога или видеа в настройките на рунда.
-- По време на антракт тези прикачени файлове ще се показват в карусел на основния екран — чудесно за лога на спонсори, съобщения или промоционални видеа.
+- During the intermission, these attachments will be shown in a carousel on the game screen—great for sponsor logos, messages, or promotional videos.
 - Прикачените файлове ще се повтарят през цялата почивка.
 
 ---

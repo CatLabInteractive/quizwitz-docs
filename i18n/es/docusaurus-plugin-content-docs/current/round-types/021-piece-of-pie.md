@@ -1,11 +1,11 @@
 ---
 id: piece-of-pie
-title: Pedazo de pastel
+title: Pieza de Pie
 ---
 
-# 🥧 Pedazo de pastel
+# 🥧 Pieza de Pie
 
-¡En una ronda de **Pedazo de pastel**, el trabajo en equipo da sus frutos! Los puntos totales disponibles para cada pregunta dependen del número de jugadores, y luego se dividen entre todos los jugadores (o equipos) que respondan correctamente.
+En una ronda de **Pieza de Pie** ¡vale la pena! Los puntos totales disponibles para cada pregunta dependen del número de jugadores, y luego se dividen entre todos los jugadores (o equipos) que respondan correctamente.
 
 ---
 

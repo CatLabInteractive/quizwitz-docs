@@ -1,27 +1,27 @@
 ---
 id: jury-app
-title: Jury app
+title: Jury App
 ---
 
-# 🧑‍⚖️ Jury app — QuizWitz Live में खुले जवाबों की समीक्षा
+# 🧑‍⚖️ Jury App — Reviewing open answers in QuizWitz Live
 
-अगर आपके क्विज़ में **open answer questions** हैं, तो जवाबों की मैन्युअल समीक्षा और स्कोर देने के लिए आपको **Jury app** का इस्तेमाल करना होगा।
+If your quiz includes **open answer questions**, you'll need to use the **Jury App** to manually review and score responses.
 
 ---
 
-## 🗂️ Jury app का इस्तेमाल करना
+## 🗂️ Using the Jury App
 
-Jury app एक अलग इंटरफ़ेस है, जिसका इस्तेमाल जूरी सदस्य जवाबों का मूल्यांकन करने और स्कोरिंग मैनेज करने के लिए करते हैं।
+The Jury App is a separate interface used by jury members to evaluate answers and manage scoring.
 
-Jury app खोलने के लिए:
+To open the Jury App:
 
 1. क्विज़ शुरू होने पर, एक **Jury Code** जनरेट होता है।
-2. किसी अलग डिवाइस पर, [**catlab.tv**](https://catlab.tv) पर जाएँ
+2. On a separate device, go to [**quizwitz.tv**](https://quizwitz.tv)
 3. ऐप एक्सेस करने के लिए **Jury Code** डालें
 
-> 💡 आप Jury app को किसी भी ब्राउज़र में खोल सकते हैं — यह एक वेब ऐप है, इंस्टॉलेशन की ज़रूरत नहीं है।
+> 💡 You can open the Jury App on any browser — it's a web app, no installation required.
 
-अंदर जाने के बाद, Jury app कई काम के टूल देता है:
+Once inside, the Jury App provides several useful tools:
 
 - **Judge questions** — कोई सवाल पूरा होने के बाद खुले सवालों के नतीजे दिखेंगे।
   - गेम जूरी के खत्म करने का **इंतज़ार नहीं करता** — जब तक कि यह **राउंड का आखिरी सवाल** न हो या क्विज़ सेटिंग्स में कुछ और न कहा गया हो।
@@ -34,19 +34,19 @@ Jury app खोलने के लिए:
 
 - **Report** — नतीजों और खिलाड़ियों के जवाबों के साथ पूरी गेम रिपोर्ट जनरेट करें।
 
-![Pending स्थिति में Jury app का स्क्रीनशॉट](/images/jury-app-waiting.png)
+![Screenshot of the Jury App in Pending state](/images/jury-app-waiting.png)
 
 ---
 
 ## ✅ खुले सवालों को जज करना
 
-हर खुले सवाल के बाद, Jury app सबमिट किए गए सभी जवाब दिखाता है। जूरी सदस्यों को करना होगा:
+After each open question, the Jury App displays all submitted answers. जूरी सदस्यों को करना होगा:
 
 1. हर जवाब को ध्यान से रिव्यू करें
 2. हर **स्वीकार्य** जवाब के बगल में चेकबॉक्स पर टिक करें
 3. नतीजों को लॉक करने के लिए **‘Confirm’** पर क्लिक करें
 
-![Judging स्थिति में Jury app का स्क्रीनशॉट](/images/jury-app-judging.png)
+![Screenshot of the Jury App in the Judging state](/images/jury-app-judging.png)
 
 QuizWitz **बिल्कुल मेल खाने वाले जवाबों को अपने-आप पहचान लेगा** और उन्हें सही मार्क करेगा। जूरी सदस्य इनकी समीक्षा के लिए ज़िम्मेदार होते हैं:
 
@@ -58,4 +58,4 @@ QuizWitz **बिल्कुल मेल खाने वाले जवा�
 
 ---
 
-Jury app के साथ, आप खुले जवाबों का निष्पक्ष मूल्यांकन कर सकते हैं, स्कोर एडजस्ट कर सकते हैं, और सभी खिलाड़ियों के लिए संतुलित क्विज़ अनुभव सुनिश्चित कर सकते हैं।
+With the Jury App, you can fairly assess open responses, adjust scores, and ensure a balanced quiz experience for all players.

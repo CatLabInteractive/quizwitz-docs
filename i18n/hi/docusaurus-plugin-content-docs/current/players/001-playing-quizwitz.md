@@ -45,14 +45,14 @@ QuizWitz में आपका स्वागत है! चाहे आप �
 
 ## 🧠 एक Round-About चुनें
 
-**Round-About** सवालों का एक छोटा, थीम वाला राउंड होता है। सिर्फ एक खेलने पर आपको 7 रैंडम सवालों वाला छोटा गेम मिलेगा।
+A **Round-About** is a small, themed round of questions — as the name says, a round _about_ a subject. सिर्फ एक खेलने पर आपको 7 रैंडम सवालों वाला छोटा गेम मिलेगा।
 
 किसी Round-About को ज़्यादा विस्तार से देखने के लिए:
 
 - उसकी **इमेज**, **शीर्षक** या **कमेंट्स आइकन** पर क्लिक करें
 - तुरंत शुरू करने के लिए **खेलें** पर क्लिक करें
 
-![QuizWitz Round-About विवरण](/images/round-about-details.png)
+![QuizWitz Round-About details](/images/round-about-details.png)
 
 ---
 
@@ -107,11 +107,17 @@ QuizWitz उन सवालों को छोड़ने की कोशि
 
 दोस्तों के साथ उनके अपने फोन या टैबलेट इस्तेमाल करके खेलें:
 
-> 📺 पक्का करें कि क्विज़ स्क्रीन दिखाई दे रही है — साझा डिस्प्ले या स्क्रीन शेयर का इस्तेमाल करें
+> 📺 Make sure the game screen is visible — use a shared display or screen share
 
 1. **शुरू करें** पर क्लिक करें, फिर **पार्टी गेम** पर क्लिक करें
 2. खिलाड़ी शामिल होने के लिए स्क्रीन पर दिए निर्देशों का पालन करें
 3. जब सभी तैयार हों, तो **क्विज़ शुरू करें** पर क्लिक करें
+
+Once the quiz starts, **the game runs automatically** — questions appear, timers count down, and scores are tallied without any host intervention.
+
+> ⏸️ Need a break? Move your mouse to the bottom of the game screen and a **pause** button will appear. Pausing is the only way to interrupt a Party Game.
+>
+> Want to control the pacing of the game yourself — deciding when each question starts? That's only possible with [**QuizWitz Live**](../quizmaster/001-introduction.md) and the Quizmaster App.
 
 ![QuizWitz शुरुआती स्क्रीन](/images/quizwitz-start-screen.png)  
 ![QuizWitz शुरुआती स्क्रीन पार्टी](/images/quizwitz-start-screen-party.png)  

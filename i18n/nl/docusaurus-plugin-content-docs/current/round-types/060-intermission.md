@@ -11,19 +11,19 @@ title: Pauze
 
 ## 📝 Hoe het werkt
 
-- Tijdens een pauze wordt het hoofdspel gepauzeerd en wordt een timer weergegeven.
-- **In conference- en partyspellen:**  
-  De pauze eindigt wanneer iemand op **Enter** drukt op het hoofdscherm van het spel.
-- **In QuizWitz Live games:**  
-  De quizmaster beëindigt de interactie van hun apparaat (tablet of smartphone).  
-  De Quizmaster app toont een timer zodat de host kan zien hoe lang de pauze duurt.
+- Tijdens een pauze wordt het spelscherm gepauzeerd en wordt er een timer getoond.
+- **In Conferentiemodus en Party Games:**  
+  De pauze eindigt wanneer iemand op het spelscherm op **Enter** drukt.
+- **In QuizWitz Live-spellen:**  
+  De quizmaster beëindigt de pauze vanaf zijn of haar apparaat (tablet of smartphone).  
+  De Quizmaster App toont een timer zodat de quizmaster kan zien hoe lang de pauze al duurt.
 
 ---
 
 ## 🖼️ Bijlagen
 
 - Je kunt afbeeldingen, logo's of video's uploaden in de ronde-instellingen.
-- Tijdens de pauze worden deze bijlagen getoond in een carrousel op het hoofdscherm—ideaal voor sponsorlogo's, berichten of promotievideo's.
+- Tijdens de pauze worden deze bijlagen in een carrousel op het spelscherm getoond — ideaal voor sponsorlogo's, berichten of promotievideo's.
 - Bijlagen worden herhaald gedurende de hele pauzeduur.
 
 ---

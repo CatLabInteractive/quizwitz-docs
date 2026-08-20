@@ -1,11 +1,11 @@
 ---
 id: piece-of-pie
-title: Fatia da torta
+title: Pedaço de torta
 ---
 
-# 🥧 Fatia da torta
+# 🥧 Pedaço da Torta
 
-Numa rodada **Fatia da torta**, o trabalho em equipe compensa! O total de pontos disponíveis para cada pergunta depende do número de jogadores e depois é dividido entre todos os jogadores (ou equipes) que respondem à pergunta corretamente.
+Em um **Pedaço de Torta** rodada, trabalho em equipe compensa! O total de pontos disponíveis para cada pergunta depende do número de jogadores e depois é dividido entre todos os jogadores (ou equipes) que respondem à pergunta corretamente.
 
 ---
 

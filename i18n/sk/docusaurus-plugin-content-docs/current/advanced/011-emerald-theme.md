@@ -1,6 +1,6 @@
 ---
 id: emerald-theme
-title: Motív Emerald
+title: Emerald theme
 ---
 
 # Motív Emerald

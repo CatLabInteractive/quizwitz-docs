@@ -31,10 +31,10 @@ Tutti i design personalizzati devono includere il logo QuizWitz.
 
 ## 🖥️ Panoramica delle schermate
 
-| Fase                                                               | Schermo principale                                                                                          | Dispositivo del giocatore (Tablet/Telefono)                     |
+| Fase                                                               | Schermata di gioco                                                                                          | Dispositivo del giocatore (Tablet/Telefono)                     |
 | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | Schermata di connessione                                           |                                                                                                             |                                                                                    |
-| Schermata di attesa                                                | Logo del quiz. Visualizzata mentre il presentatore sta leggendo la domanda. | Una citazione che invita il giocatore ad ascoltare con attenzione. |
+| Schermata di attesa                                                | Logo del quiz. Mostrato mentre il quizmaster sta leggendo la domanda.       | Una citazione che invita il giocatore ad ascoltare con attenzione. |
 | Intro del gioco                                                    | Animazione prima del gioco.                                                                 | Schermata di attesa.                                               |
 | Intro del round                                                    | Animazione prima di ogni round.                                                             | Schermata di attesa.                                               |
 | Domande                                                            |                                                                                                             |                                                                                    |

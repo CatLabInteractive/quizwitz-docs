@@ -1,20 +1,20 @@
 ---
 id: live-crash-recovery
-title: ⚠️ Live Crash Recovery
+title: ⚠️ Crashherstel in QuizWitz Live
 sidebar_position: 1000
 ---
 
-# ⚠️ Live Crash Recovery
+# ⚠️ Crashherstel in QuizWitz Live
 
-Is je spel vastgelopen? Is het tabblad per ongeluk gesloten? [**QuizWitz Live**](quizmaster/001-introduction.md) bevat een ingebouwd herstel systeem om je weer op weg te helpen — zonder je voortgang te verliezen.
+Is je spel vastgelopen? Is het tabblad per ongeluk gesloten? [**QuizWitz Live**](quizmaster/001-introduction.md) bevat een ingebouwd herstelsysteem om je weer op weg te helpen — zonder je voortgang te verliezen.
 
 ---
 
-## 🔄 Hoe gameherstel werkt
+## 🔄 Hoe spelherstel werkt
 
 Als je spel crasht, vastloopt of om welke reden dan ook wordt onderbroken — of dat nu door een browserprobleem, systeemherstart of per ongeluk sluiten van een tabblad is — dan kun je de sessie makkelijk hervatten.
 
-Open gewoon **hetzelfde browsertabblad of gamescherm** waarin je de **hoofdgameweergave** gebruikte. Dit is het scherm dat je projecteert of streamt naar je publiek.
+**Open gewoon hetzelfde browsertabblad opnieuw** waarin je het **spelscherm** toonde. Dit is het scherm dat je projecteert of streamt naar je publiek.
 
 Wanneer het geladen is:
 

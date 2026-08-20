@@ -3,10 +3,10 @@ id: traditional-ct
 title: Tradicional (CT)
 ---
 
-# 📝🧵 Tradicional – Tema común
+# 📝🧵 Tradicional - Hilo Común
 
-Una ronda **Tradicional – Tema común** funciona igual que una [ronda tradicional](030-traditional.md), pero con un giro:  
-Al final de la ronda, la **última pregunta** (“¿Cuál fue el tema común?”) se evalúa y muestra primero. Esto permite al quizmaster destacar la conexión antes de revelar las otras respuestas.
+Una ronda **Tradicional - Hilo Comun** funciona como una [ronda tradicional](030-traditional.md), pero con un giro:  
+Al final de la ronda, la **última pregunta** (“¿Cuál era el hilo común?”) se evalúa y muestra primero. Esto permite al quizmaster destacar la conexión antes de revelar las otras respuestas.
 
 ---
 

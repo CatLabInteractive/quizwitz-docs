@@ -1,11 +1,11 @@
 ---
 id: piece-of-pie
-title: Szelet a pitéből
+title: Piece of Pie
 ---
 
-# 🥧 Szelet a pitéből
+# 🥧 Piece of Pie
 
-Egy **Szelet a pitéből** körben a csapatmunka kifizetődik! Az egyes kérdésekért elérhető összpontszám a játékosok számától függ, majd megoszlik az összes játékos (vagy csapat) között, akik helyesen válaszolnak a kérdésre.
+In a **Piece of Pie** round, teamwork pays off! Az egyes kérdésekért elérhető összpontszám a játékosok számától függ, majd megoszlik az összes játékos (vagy csapat) között, akik helyesen válaszolnak a kérdésre.
 
 ---
 

@@ -9,7 +9,7 @@ Une manche Activité vous permet de vous éloigner des questions de quiz standar
 
 ---
 
-![Écran principal de la manche Activité](/images/round-modes/activity-main-screen.png)
+![Écran de jeu pour la ronde d'activité](/images/round-modes/activity-main-screen.png)
 
 ---
 
@@ -33,7 +33,7 @@ Une manche Activité vous permet de vous éloigner des questions de quiz standar
 
 - **Outils pour le duel :** Le quizmaster peut accéder à des actions rapides pour buzzer, gong, cloches et minuteurs pendant l'activité.
 - **Points personnalisés :** Les points peuvent être saisis manuellement pour chaque équipe, ou vous pouvez sélectionner un gagnant avec des boutons d'action rapide.
-- **Pièces jointes :** Ajoutez images, audio ou vidéo pour expliquer l'activité ou montrer des exemples. Le quizmaster peut les afficher à l'écran principal pendant l'activité.
+- **Pièces jointes :** Ajoutez images, audio ou vidéo pour expliquer l'activité ou montrer des exemples. Le quizmaster peut les afficher sur l'écran de jeu pendant l'activité.
 
 ---
 

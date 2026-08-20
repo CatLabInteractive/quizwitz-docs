@@ -18,10 +18,10 @@ V kvízech můžeš typ kola změnit v rozbalovacím poli **Typ kola** uprostře
 
 Tahle kola nabízejí o něco víc interaktivity než jednoduché otázky a odpovědi.
 
-- [Kousek koláče](021-piece-of-pie.md)
+- [Díl Pie](021-piece-of-pie.md)
 - [Víceotázek](022-multiquestion.md)
 - [Strike](023-strike.md)
-- [Volba dealera](024-dealers-choice.md)
+- [Volba obchodníka](024-dealers-choice.md)
 
 ## 🍺 Tradiční
 
@@ -46,5 +46,5 @@ Tyhle typy kol neobsahují žádné otázky — místo toho ale ovlivňují výs
 
 V těchto typech kol můžeš vybrat konkrétní **oddělení**, která hrají proti jiným oddělením.
 
-- [Oddělení — volba dealera](070-departments-dealers-choice.md)
+- [Department — Dealer's Choice](070-departments-dealers-choice.md)
 - [Oddělení — vyřazování](071-departments-elimination.md)

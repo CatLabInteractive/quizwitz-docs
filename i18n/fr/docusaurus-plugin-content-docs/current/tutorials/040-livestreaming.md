@@ -7,7 +7,7 @@ title: Quiz en direct
 
 Avec QuizWitz Live, il est facile d'organiser un quiz en direct entièrement interactif sur des plateformes comme **Twitch**, **YouTube Live** ou **Facebook Live** — même pour un large public. Ce guide vous accompagne pas à pas dans la configuration, la gestion du décalage, et les meilleures pratiques de présentation.
 
-> 🧭 Si vous êtes nouveau sur l'application Quizmaster, commencez par le [**guide de démarrage Quizmaster**](../quizmaster/002-startup.md).
+> 🧭 Si vous êtes nouveau dans l'application Quizmaster, commencez par le [**Guide de démarrage du questionnaire**](../quizmaster/002-startup.md).
 
 ---
 
@@ -15,9 +15,9 @@ Avec QuizWitz Live, il est facile d'organiser un quiz en direct entièrement int
 
 Le quizmaster est le cœur de votre événement. Il contrôle le rythme, présente les questions et maintient l'engagement de votre public.
 
-Utilisez l'**application Quizmaster** pour gérer le jeu. Lancez QuizWitz Live depuis l'éditeur de quiz en cliquant sur **Démarrer QuizWitz Live**.
+Utilisez l'application **Quizmaster App** pour exécuter le jeu. Lancez QuizWitz Live depuis l'éditeur de quiz en cliquant sur **Démarrer QuizWitz Live**.
 
-> 💡 L'application Quizmaster est une **application web** — aucune installation nécessaire. Il suffit d'aller sur [**quizwitz.tv**](https://quizwitz.tv) depuis votre appareil de présentation et d'entrer le **Code Maître**.
+> 💡 L'application Quizmaster est une **application web** — il n'y a pas d'installation. Allez simplement sur [**quizwitz.tv**](https://quizwitz.tv) sur votre quizmaster et entrez le **quizmaster code**.
 
 Nous recommandons d'utiliser une **tablette ou un smartphone** pour que le quizmaster puisse bouger librement pendant le spectacle.
 
@@ -25,16 +25,16 @@ Nous recommandons d'utiliser une **tablette ou un smartphone** pour que le quizm
 
 ## 🧩 Choisir le bon mode de jeu
 
-Au démarrage de QuizWitz Live, vous devrez choisir un mode :
+Lorsque vous démarrez QuizWitz Live, il vous sera demandé de choisir comment les joueurs se connectent :
 
-- **Mode Régulier** — Chaque joueur ou équipe reçoit un code unique. Utile pour les événements en équipe pré-enregistrés.
-- **Mode Ad-hoc** — Un code de jeu partagé pour tous les joueurs. Idéal pour les livestreams avec inscription ouverte.
+- **Codes d'équipe** — Les joueurs ou les équipes reçoivent chacun un code unique. Utile pour les événements en équipe pré-enregistrés.
+- **Code de jeu unique** — Un code de jeu partagé pour tous les joueurs. Idéal pour les livestreams avec inscription ouverte.
 
-> Pour les livestreams, choisissez toujours le **mode Ad-hoc** et cliquez sur **Démarrer la partie ad-hoc**.
+> Pour les reams en direct, choisissez toujours **Code de jeu unique** et cliquez sur _Démarrer le jeu ad-hoc_.
 
-Une fois le quiz chargé, l'application Quizmaster affichera :
+Une fois le quiz chargé, l'application Quizmaster s'affichera :
 
-- **Code Maître** — pour le quizmaster
+- **Code du questionnaire** — pour le quizmaster
 - **Code Jury** — pour réviser les questions ouvertes
 - **Code Regie** — pour contrôler visuels/sons
 - **Code de jeu** — pour que les joueurs rejoignent
@@ -53,7 +53,7 @@ Pour diffuser votre quiz, utilisez un logiciel de diffusion. Nous recommandons 
 Si vous utilisez un **logiciel de réunion** comme Zoom ou Google Meet :
 
 - Simplement partager votre écran
-- Appuyer sur **Démarrer** dans l'application Quizmaster
+- Appuyez sur **Démarrer** dans l'application Quizmaster
 - Les joueurs peuvent participer en quasi temps réel
 
 Pour **Twitch, YouTube Live ou Facebook Live**, vous ferez face à un **décalage de diffusion** (aussi appelé décalage de transcodage).
@@ -64,16 +64,16 @@ Pour **Twitch, YouTube Live ou Facebook Live**, vous ferez face à un **décalag
 
 ## ⏱️ Régler le délai des joueurs QuizWitz
 
-Pour compenser le décalage de diffusion, utilisez le **délai d'interaction des joueurs** dans l'application Jury.
+Pour compenser le délai de diffusion, utilisez **le délai d'interaction du joueur** dans l'application Jury.
 
 Voici comment faire :
 
 1. Lancez votre aperçu de diffusion — pas besoin de passer en direct tout de suite
-2. Ouvrez l'**application Jury** en entrant votre Code Jury sur [**catlab.tv**](https://catlab.tv)
+2. Ouvrez l'application **Jury App** en entrant votre code Jury sur [**quizwitz.tv**](https://quizwitz.tv)
 3. Allez dans **Contrôle du jeu**
 4. Ouvrez votre livestream dans une autre fenêtre, avec le son
 5. Utilisez un chronomètre
-6. Dans l'application Jury, appuyez sur le bouton **Buzzer** et commencez à chronométrer
+6. Dans l'application Jury App, appuyez sur le bouton **Buzzer** et démarrez le chronométrage
 7. Quand vous entendez le buzzer sur le livestream, arrêtez le chronomètre
 8. Arrondissez le délai (en secondes) et entrez-le dans le champ **Délai d'interaction des joueurs**
 9. Cliquez sur **Confirmer le réglage**
@@ -94,7 +94,7 @@ Une fois le délai réglé et vos joueurs connectés :
 
 ## 💡 Conseils pour la présentation en livestream
 
-- **Ne laissez pas le quizmaster regarder le flux retardé** — il doit utiliser uniquement l'application Quizmaster en direct pour éviter les pauses gênantes.
+- **Ne laissez pas le quizmaster regarder le flux différé** — il ne devrait utiliser que l'application Live Quizmaster pour éviter les pauses maladroites.
 
 - Pour interagir avec l'audience, surveillez les **commentaires en direct** sur un écran séparé — pas le flux vidéo.
 
@@ -106,7 +106,7 @@ Une fois le délai réglé et vos joueurs connectés :
 
 - Vous cherchez plus d'outils ? Visitez [**regie.catlab.eu**](https://regie.catlab.eu) — un hub central avec des utilitaires supplémentaires pour l'automatisation, le changement de scène, les effets, et plus encore.
 
-> Tous les outils nécessitent votre **Code Regie** depuis l'application Quizmaster.
+> Tous les outils nécessitent votre **code Regie** depuis l'application Quizmaster.
 
 ---
 

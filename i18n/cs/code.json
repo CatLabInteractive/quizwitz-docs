@@ -64,7 +64,7 @@
     "description": "The ARIA label for the breadcrumbs"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 položka|{count} položky|{count} položky|{count} položek",
+    "message": "{count} položka|{count} položky|{count} položky|{count} položek",
     "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.docs.paginator.navAriaLabel": {
@@ -80,7 +80,7 @@
     "description": "The label used to navigate to the next doc"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "Jeden dokument označený štítkem|{count} dokumenty označené štítkem|{count} dokumentu označeného štítkem|{count} dokumentů označených štítkem",
+    "message": "{count} dokument označený štítkem|{count} dokumenty označené štítkem|{count} dokumentu označeného štítkem|{count} dokumentů označených štítkem",
     "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.tagDocListPageTitle": {
@@ -207,7 +207,7 @@
     "description": "The ARIA label for the link to full blog posts from excerpts"
   },
   "theme.blog.post.readingTime.plurals": {
-    "message": "Jedna minuta čtení|{readingTime} minuty čtení|{readingTime} minuty čtení|{readingTime} minut čtení",
+    "message": "{readingTime} minuta čtení|{readingTime} minuty čtení|{readingTime} minuty čtení|{readingTime} minut čtení",
     "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.CodeBlock.copy": {
@@ -271,7 +271,7 @@
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.blog.post.plurals": {
-    "message": "Jeden příspěvek|{count} příspěvky|{count} příspěvku|{count} příspěvků",
+    "message": "{count} příspěvek|{count} příspěvky|{count} příspěvku|{count} příspěvků",
     "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.blog.tagTitle": {
@@ -320,7 +320,7 @@
   },
   "theme.tags.tagsPageTitle": {
     "message": "Štítky",
-    "description": "Label for the tags/keywords field on a quiz or round."
+    "description": "Title of the Docusaurus tags overview page (the page listing all documentation tags). Not a quiz or round field."
   },
   "Create": {
     "message": "Vytvořit",

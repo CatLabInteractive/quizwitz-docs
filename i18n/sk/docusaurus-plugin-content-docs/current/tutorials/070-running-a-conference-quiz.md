@@ -27,7 +27,7 @@ Skôr než začneš, uisti sa, že máš:
 
 2. Zobrazí sa čierna načítavacia obrazovka s percentami. Trvá to len pár sekúnd.
 
-3. Po načítaní sa zobrazí obrazovka kvízu. Ak sa zobrazí výzva na prihlásenie, klikni na **Login** — otvorí sa druhá karta.
+3. Once loaded, the game screen appears. Ak sa zobrazí výzva na prihlásenie, klikni na **Login** — otvorí sa druhá karta.
    - Na prihlasovacej stránke klikni na **Login** a zadaj prihlasovacie údaje, ktoré si dostal/a.
    - Po prihlásení sa karta automaticky zatvorí a kvíz sa dokončí načítavať.
 
@@ -35,7 +35,7 @@ Skôr než začneš, uisti sa, že máš:
 
 5. Prejdi kurzorom po obrazovke, aby sa dole zobrazil ovládací panel.  
    Klikni na **štvorcovú ikonu** vpravo a prepni sa do režimu celej obrazovky.  
-   Kvíz je teraz pripravený na hranie na hlavnom displeji.
+   The quiz is now ready to play on the game screen.
 
 :::tip
 Ak chceš kedykoľvek ukončiť režim celej obrazovky — napríklad prepnúť na iné okno — stlač **Esc**.
@@ -61,16 +61,16 @@ Keď sa kvíz znovu načíta, zapamätá si tvoje prihlásenie a prejde priamo n
 Hráči sa pripájajú cez svoje vlastné smartfóny jedným z dvoch spôsobov:
 
 - Otvoria vo svojom prehliadači **www.quizwitz.tv**
-- Naskenujú **QR kód** zobrazený na hlavnej obrazovke
+- Scan the **QR code** shown on the game screen
 
 Na obrazovke pripojenia hráči:
 
-1. Zadajú **8-miestny kód** zobrazený na hlavnom displeji.
+1. Enter the **8-digit code** shown on the game screen.
 2. Vyplnia svoje **meno a e-mailovú adresu**.
 3. Zaškrtnú **políčko ochrany súkromia**.
 4. Ťuknú na **READY**.
 
-Po pripojení sa hráčom na telefóne zobrazí správa o čakaní. Na hlavnej obrazovke sa zobrazuje, koľko hráčov je pripojených.
+Po pripojení sa hráčom na telefóne zobrazí správa o čakaní. The game screen shows how many players are connected.
 
 :::note
 Hráči sa môžu pripojiť kedykoľvek, pokiaľ ešte nebol dosiahnutý maximálny počet hráčov.
@@ -87,7 +87,7 @@ Spustí sa 5-sekundové odpočítavanie a potom sa kvíz automaticky začne.
 
 ## Ako kvíz prebieha
 
-- Každá otázka sa zobrazí na hlavnej obrazovke s textom otázky, štyrmi možnosťami odpovede a obrázkom.
+- Each question appears on the game screen with the question text, four answer options, and an image.
 - Hráči vidia rovnakú otázku na svojom telefóne a ťuknú na jednu zo štyroch možností.
 - Hráči majú na odpoveď **30 sekúnd**. Časovač sa zobrazuje ako biely pruh v spodnej časti obrazovky.
 - Hneď ako odpovedia všetci hráči (alebo vyprší čas), na obrazovke sa odhalí správna odpoveď ako koláčový graf, ktorý ukazuje rozloženie odpovedí.

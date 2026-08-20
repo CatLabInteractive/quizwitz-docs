@@ -75,9 +75,9 @@ Gera links de compartilhamento ou código de incorporação com configurações 
 
 ## 📜 Texto para quizmaster
 
-Adicione instruções personalizadas para o apresentador em:
+Adicionar instruções de testador personalizado para:
 
 - **Introdução do quiz**
 - **Encerramento do quiz**
 
-Elas ficam visíveis no [app quizmaster](../quizmaster/001-introduction.md) ao usar QuizWitz Live.
+Estes itens são visíveis no [Aplicativo de Tizmaster](../quizmaster/001-introduction.md) ao usar o QuizWitz Live.

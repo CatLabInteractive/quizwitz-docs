@@ -1,11 +1,11 @@
 ---
 id: piece-of-pie
-title: Morceau de tarte
+title: Pièce de tarte
 ---
 
-# 🥧 Morceau de tarte
+# 🥧 Pièce de tarte
 
-Dans un tour **Morceau de tarte**, le travail d'équipe paie ! Le nombre total de points disponibles pour chaque question dépend du nombre de joueurs, puis est réparti entre tous les joueurs (ou équipes) qui répondent correctement à la question.
+Dans une ronde de **Piece of Pie**, le travail d'équipe est payant! Le nombre total de points disponibles pour chaque question dépend du nombre de joueurs, puis est réparti entre tous les joueurs (ou équipes) qui répondent correctement à la question.
 
 ---
 

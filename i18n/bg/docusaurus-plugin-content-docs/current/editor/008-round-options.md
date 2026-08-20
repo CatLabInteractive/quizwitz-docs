@@ -58,7 +58,7 @@ QuizWitz предлага гъвкаво точкуване, за да бъде 
 
 ## 📜 Инструкции за quizmaster
 
-Можеш да добавиш персонализиран **текст за въведение на кръга**, който ще се показва само в [приложението Quizmaster](../quizmaster/001-introduction.md) в началото на кръга. Използвай това, за да инструктираш водещия или да добавиш личен щрих.
+You can add a custom **round introduction text** that will appear only on the [Quizmaster App](../quizmaster/001-introduction.md) at the start of the round. Use this to brief the quizmaster or add a personal touch.
 
 ---
 

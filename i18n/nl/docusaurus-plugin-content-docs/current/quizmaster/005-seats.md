@@ -12,8 +12,8 @@ QuizWitz PRO spellen vereisen **actieve Seats** om spelers te verbinden. Seats z
 ## 🧑‍🤝‍🧑 Wat zijn Seats?
 
 - Elke verbonden **speler of team** in een PRO-spel vereist **1 actieve Seat**.
-- Je kunt spellen hosten met **individuele spelers** of **teams die een slim apparaat delen** — elk telt als één Seat.
-- **Reguliere (non-PRO) spellen** vereisen **geen Seats** en zijn ideaal voor ontspannen spel met vrienden of familie.
+- Je kunt spellen hosten met **individuele spelers** of **teams die één apparaat delen** — elk telt als één seat.
+- **Party Game- en Single player-spellen** vereisen **geen** seats en zijn ideaal om gezellig met vrienden of familie te spelen.
 
 ---
 
@@ -49,7 +49,7 @@ Voor eenmalige of occasionele evenementen kun je **pay-as-you-go Seats** activer
 
 - Seats worden geactiveerd met **QuizWitz credits**, die je van tevoren kunt kopen.
 - **Korting bij bulkaankoop** is beschikbaar wanneer je credits in grote hoeveelheden koopt.
-- Elke **premium licentie** bevat een **waarde aan gratis credits**.
+- Elke **PRO-licentie** bevat een **bedrag aan gratis credits**.
 - Als je niet zeker weet hoeveel spelers meedoen:
   - Je kunt **wachten tot iedereen verbonden is** voor je Seats activeert.
   - Of activeer meer Seats dan nodig — **ongebruikte Seats worden na afloop automatisch terugbetaald** in credits.

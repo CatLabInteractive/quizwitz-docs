@@ -56,9 +56,9 @@ Deze score-opties vind je in het ronde-opties paneel tijdens het bewerken van ee
 
 ---
 
-## 📜 Quizmaster instructies
+## 📜 Quizmasterinstructies
 
-Je kunt een aangepaste **ronde introductietekst** toevoegen die alleen zal verschijnen op de [Quizmaster app](../quizmaster/001-introduction.md) aan het begin van de ronde. Gebruik dit om de presentator te informeren of een persoonlijke touch toe te voegen.
+Je kunt een eigen **ronde-introductietekst** toevoegen die alleen in de [Quizmaster App](../quizmaster/001-introduction.md) verschijnt aan het begin van de ronde. Gebruik dit om de quizmaster te briefen of om een persoonlijke noot toe te voegen.
 
 ---
 

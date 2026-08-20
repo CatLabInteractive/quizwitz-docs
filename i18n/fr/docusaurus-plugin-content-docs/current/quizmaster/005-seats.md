@@ -13,7 +13,7 @@ Les jeux QuizWitz PRO nécessitent des **Seats actifs** pour connecter les joueu
 
 - Chaque **joueur ou équipe connecté(e)** dans un jeu PRO nécessite **1 Seat actif**.
 - Vous pouvez héberger des parties avec **des joueurs individuels** ou **des équipes partageant un seul appareil** — chacun compte comme un Seat.
-- Les **jeux standards (non-PRO)** ne nécessitent **pas** de Seats et sont idéaux pour jouer tranquillement entre amis ou en famille.
+- Les **parties de fête et les parties en mode solo** ne nécessitent **pas** de sièges et sont idéales pour jouer avec vos amis ou votre famille.
 
 ---
 
@@ -49,7 +49,7 @@ Pour des événements ponctuels ou occasionnels, vous pouvez activer des **Seats
 
 - Les Seats sont activés avec des **crédits QuizWitz**, que vous pouvez acheter à l’avance.
 - Des **réductions de volume** sont disponibles lors de l’achat de crédits en grande quantité.
-- Chaque **licence premium** inclut une **valeur de crédits gratuits**.
+- Chaque **licence PRO** inclut une **valeur de crédits gratuits**.
 - Si vous n’êtes pas sûr du nombre de joueurs qui participeront :
   - Vous pouvez **attendre que tout le monde soit connecté** avant d’activer les Seats.
   - Ou activer plus de Seats que nécessaire — **les Seats inutilisés sont automatiquement remboursés** en crédits après expiration.

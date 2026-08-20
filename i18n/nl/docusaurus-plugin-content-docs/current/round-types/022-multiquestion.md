@@ -1,11 +1,11 @@
 ---
 id: multiquestion
-title: Multiquestion
+title: Multivraag
 ---
 
-# ❓ Multiquestion
+# ❓ Multivraag
 
-De **Multivragen** ronde geeft spelers (of teams) de vrijheid om te kiezen welke vraag ze willen beantwoorden uit een reeks mogelijkheden. Dit maakt elke speelsessie uniek en geeft ruimte voor strategische keuzes!
+De **Multivraag**-ronde geeft spelers (of teams) de vrijheid om te kiezen welke vraag ze willen beantwoorden uit een reeks mogelijkheden. Dit maakt elke speelsessie uniek en geeft ruimte voor strategische keuzes!
 
 ---
 
@@ -18,7 +18,7 @@ De **Multivragen** ronde geeft spelers (of teams) de vrijheid om te kiezen welke
 
 ---
 
-## 🛠️ Editor setup
+## 🛠️ Instellen in de editor
 
 - Maak in de quiz editor **Vraaggroepen** aan. Elke groep bevat alle alternatieve vragen voor die beurt.
 - Stel voor elke vraag in de groep het veld **Label** in. Dit label wordt aan spelers getoond als de “titel” of hint voor hun keuze.
@@ -27,7 +27,7 @@ De **Multivragen** ronde geeft spelers (of teams) de vrijheid om te kiezen welke
 - **Duur:** Hoewel je een andere timervermenigvuldiger per vraag kunt instellen, gebruikt het spel de hoogste waarde voor alle vragen in de groep (zodat niemand gehaast wordt).
 - **Bijlagen:**
   - _Voor vraag_ bijlagen van alle opties worden in één weergave gecombineerd voordat spelers hun keuze maken.
-  - Tijdens vragen\* worden zichtbare bijlagen niet getoond, maar wordt er nog steeds audio afgespeeld.
+  - _Tijdens vraag_-bijlagen worden niet getoond, maar audio wordt wel afgespeeld.
 
 ---
 
@@ -35,7 +35,7 @@ De **Multivragen** ronde geeft spelers (of teams) de vrijheid om te kiezen welke
 
 - Bied een mix van makkelijke en moeilijke vragen voor meer strategie.
 - Gebruik labels creatief—mysterie- of leuke thema’s kunnen de betrokkenheid vergroten.
-- Beloning voor waaghalzen met vragen die meer punten opleveren.
+- Beloon waaghalzen met vragen die meer punten opleveren.
 
 ---
 

@@ -58,6 +58,6 @@ Dies ist besonders effektiv für Rätsel oder langsame Enthüllungen während Ei
 Einige Stellen erlauben das Hinzufügen von **mehreren Anhängen**. Das Verhalten hängt vom Spielmodus ab:
 
 > ⚡ **Im [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** Der quizmaster hat die volle Kontrolle und kann während des Spiels entscheiden, wann Anhänge gezeigt oder verborgen werden.  
-> 🎮 **In regulären Spielen:** Alle Anhänge innerhalb einer Stelle werden **gleichzeitig** angezeigt.
+> 🎮 **In Spielen ohne Quizmaster (Partyspiel, Konferenzmodus, Einzelspieler):** Alle Anhänge innerhalb eines Slot werden **gleichzeitig** angezeigt.
 
 Details zu Zeit und Verhalten jeder Stelle sind in der verlinkten Dokumentation für [Fragen](../editor/015-importing-questions.md), [Runden](../editor/008-round-options.md) und [Quizze](../editor/007-quiz-options.md) zu finden.

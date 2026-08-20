@@ -45,14 +45,14 @@ Puedes organizar, jugar o eliminar elementos en cualquier momento. Esta es tu bi
 
 ## 🧠 Elige un Round-About
 
-Un **Round-About** es una pequeña ronda temática de preguntas. Jugar solamente uno te dará un juego corto con 7 preguntas aleatorias.
+Un **Round-About** es una pequeña ronda temática de preguntas — como el nombre dice, una ronda _sobre_ de un tema. Jugar solamente uno te dará un juego corto con 7 preguntas aleatorias.
 
 Para explorar un Round-About con más detalle:
 
 - Haz clic en su **imagen**, **título** o **icono de comentarios**
 - Haz clic en **Jugar** para comenzar inmediatamente
 
-![Detalles del Round-About de QuizWitz](/images/round-about-details.png)
+![Detalles de la ronda Witz](/images/round-about-details.png)
 
 ---
 
@@ -107,11 +107,17 @@ Una vez que comience tu juego, elige tu modo:
 
 Juega con amigos usando sus propios teléfonos o tablets:
 
-> 📺 Asegúrate de que la pantalla del quiz sea visible — usa un display compartido o comparte pantalla
+> 📺 Asegúrate de que la pantalla del juego es visible — usa una pantalla compartida o un compartimiento de pantalla
 
 1. Haz clic en **Comenzar**, luego en **Juego en grupo**
 2. Los jugadores siguen las instrucciones en pantalla para unirse
 3. Haz clic en **Iniciar quiz** cuando todos estén listos
+
+Una vez que el cuestionario comience, **el juego se ejecuta automáticamente** — aparecen preguntas, los temporizadores cuentan hacia abajo y los puntajes son contados sin intervención de ningún anfitrión.
+
+> ⏸️ ¿Necesitas un descanso? Mueve el ratón a la parte inferior de la pantalla del juego y aparecerá un botón de **pausa**. La pausa es la única manera de interrumpir una Partida.
+>
+> ¿Quieres controlar el ritmo del juego tú mismo: decidir cuándo empieza cada pregunta? Sólo es posible con [**Prueba Witz Live**](../quizmaster/001-introduction.md) y la aplicación maestra.
 
 ![Pantalla de inicio de QuizWitz](/images/quizwitz-start-screen.png)  
 ![Pantalla de inicio de QuizWitz juego en grupo](/images/quizwitz-start-screen-party.png)  

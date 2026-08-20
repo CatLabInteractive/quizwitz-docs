@@ -58,6 +58,6 @@ title: Прикачени файлове
 Някои слотове позволяват добавянето на **няколко прикачени файла**. Начинът, по който се държат, зависи от режима на игра:
 
 > ⚡ **В [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** quizmaster има пълен контрол и може да решава кога да показва или скрива прикачени файлове по време на игра.  
-> 🎮 **В обикновени игри:** Всички прикачени файлове в даден слот се показват **едновременно**.
+> 🎮 **In games without a quizmaster (Party Game, Conference mode, Single player):** All attachments within a slot are shown **simultaneously**.
 
 Подробности за времето и поведението на всеки слот можеш да намериш в свързаната документация за [въпроси](../editor/015-importing-questions.md), [рундове](../editor/008-round-options.md) и [quiz-ове](../editor/007-quiz-options.md).

@@ -51,9 +51,9 @@ Utilisez beaucoup d'images et de clips vidéo — ils rendent le jeu bien plus d
 Le moyen le plus rapide de lancer votre quiz de conférence :
 
 1. Cliquez sur **Jouer au quiz**.
-2. Sélectionnez **Démarrer le mode Conférence**.
+2. Sélectionnez **Démarrer le mode de la conférence**.
 
-Dans ce mode, les joueurs utilisent leur smart device pour se connecter au lien du jeu sur l'écran principal.  
+Dans ce mode, les joueurs utilisent leur téléphone pour se connecter au lien de jeu sur l'écran du jeu.  
 Quand tout le monde est prêt, l'animateur du stand appuie sur Entrée — et le jeu démarre automatiquement.  
 À la fin du jeu, appuyer sur Entrée vous ramène directement à l'écran de connexion pour le groupe suivant.
 

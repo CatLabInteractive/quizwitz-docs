@@ -56,7 +56,7 @@
     "description": "The name for the dark color mode"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Schakelen tussen donkere en lichte modus (momenteel {mode})",
+    "message": "Schakel tussen donkere en lichte modus (momenteel {mode})",
     "description": "The ARIA label for the color mode toggle"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
@@ -72,7 +72,7 @@
     "description": "The ARIA label for the docs pagination"
   },
   "theme.docs.paginator.previous": {
-    "message": "named@@0",
+    "message": "Vorige",
     "description": "The label used to navigate to the previous doc"
   },
   "theme.docs.paginator.next": {
@@ -191,7 +191,7 @@
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "Neem contact op met de eigenaar van de site die u aan de oorspronkelijke URL heeft gekoppeld en laat hen weten dat hun link kapot is.",
+    "message": "Neem contact op met de eigenaar van de site die je naar de oorspronkelijke URL heeft gelinkt en laat die weten dat de link niet meer werkt.",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
@@ -239,7 +239,7 @@
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar",
+    "message": "Documentatiezijbalk",
     "description": "The ARIA label for the sidebar navigation"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
@@ -263,11 +263,11 @@
     "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Expand sidebar",
+    "message": "Zijbalk uitklappen",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Expand sidebar",
+    "message": "Zijbalk uitklappen",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.blog.post.plurals": {
@@ -320,7 +320,7 @@
   },
   "theme.tags.tagsPageTitle": {
     "message": "Labels",
-    "description": "Label for the tags/keywords field on a quiz or round."
+    "description": "Title of the Docusaurus tags overview page (the page listing all documentation tags). Not a quiz or round field."
   },
   "Create": {
     "message": "Aanmaken",
@@ -334,7 +334,7 @@
     "description": "Generic button label to start playing a game or quiz."
   },
   "Play any shared quiz on our platform with friends, family, colleagues, … Grab a smart device, connect via the web and show off how much you know!": {
-    "message": "Speel elke gedeelde quiz op ons platform met vrienden, familie, collega's, … Pak een slim apparaat, maak verbinding via het web en laat zien hoeveel u weet!"
+    "message": "Speel elke gedeelde quiz op ons platform met vrienden, familie, collega's, … Pak een smartphone of tablet, maak verbinding via het web en laat zien hoeveel je weet!"
   },
   "Share": {
     "message": "Delen",
@@ -344,7 +344,7 @@
     "message": "Verzamel en deel quiz rondes van over de hele wereld, of deel je eigen ronde! Verbind met andere quiz aficionados."
   },
   "Your guide to creating, hosting, and mastering QuizWitz.": {
-    "message": "Jouw gids om QuizWitz te maken, te hosten, en te meten."
+    "message": "Jouw gids voor het maken, hosten en beheersen van QuizWitz."
   },
   "Getting started": {
     "message": "Aan de slag"

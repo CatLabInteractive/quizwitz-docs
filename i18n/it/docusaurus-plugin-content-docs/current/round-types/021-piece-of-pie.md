@@ -1,11 +1,11 @@
 ---
 id: piece-of-pie
-title: Fetta di torta
+title: Pezzo di torta
 ---
 
-# 🥧 Fetta di torta
+# 🥧 Pezzo di torta
 
-In una manche **Fetta di torta**, il lavoro di squadra viene premiato! I punti totali disponibili per ogni domanda dipendono dal numero di giocatori e vengono poi divisi tra tutti i giocatori (o le squadre) che rispondono correttamente alla domanda.
+In un round di **Pezzo di Pie**, il lavoro di squadra paga! I punti totali disponibili per ogni domanda dipendono dal numero di giocatori e vengono poi divisi tra tutti i giocatori (o le squadre) che rispondono correttamente alla domanda.
 
 ---
 

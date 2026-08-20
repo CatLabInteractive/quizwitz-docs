@@ -78,9 +78,9 @@ Keď chceš svoj kvíz otestovať alebo spustiť, stlač tlačidlo **Spustiť kv
 
 ![Odkazy na hranie kvízu](/images/quiz-playlinks.png)
 
-- **[Hrať párty hru](../players/001-playing-quizwitz.md)** — Neformálny kvízový zážitok, ktorý si užiješ s priateľmi na rovnakej obrazovke alebo cez zdieľanie obrazovky
-- **[Spustiť QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Spusti profesionálne živé kvízové podujatie pomocou Quizmaster App
-- **[Spustiť režim konferencie (PRO)](../tutorials/050-conference-booth.md)** — Usporiadaj kvíz v konferenčnom štýle pre väčšie publikum s prideleným sedením, tímovými kódmi a produkčnými nástrojmi
+- **[Play Party Game](../players/001-playing-quizwitz.md)** — A casual quiz experience to enjoy with friends on the same screen or via screenshare. The game runs automatically; the host can pause it, but has no further control over the pacing.
+- **[Start QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Launch a professional live quiz event using the Quizmaster App. This is the **only mode where the quizmaster controls the pacing** of the game.
+- **[Start Conference mode (PRO)](../tutorials/050-conference-booth.md)** — Host a conference-style quiz for larger audiences with assigned seating, team codes, and production tools. Like Party Games, conference games run automatically.
 
 ---
 

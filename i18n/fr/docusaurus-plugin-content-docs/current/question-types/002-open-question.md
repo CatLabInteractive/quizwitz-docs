@@ -29,7 +29,7 @@ Les questions ouvertes offrent une gamme de paramètres pour s’adapter à votr
 - **Plusieurs réponses acceptées :** Ajoutez des orthographes alternatives, des abréviations ou des synonymes pour une correction automatique plus flexible.
 - **Score basé sur le temps :** Récompensez les réponses plus rapides (voir « Score » ci-dessous).
 - **Forcer la correction automatique :** Activez cette option pour que le jeu marque automatiquement les réponses correctes selon la liste que vous avez fournie.
-  - Si non activé (par défaut pour la plupart des parties en direct), les réponses ouvertes doivent être examinées et notées manuellement via l’[application Jury](../quizmaster/004-jury-app.md).
+  - S'il n'est pas activé (par défaut pour la plupart des jeux en direct), les réponses ouvertes doivent être vérifiées et marquées manuellement à l'aide de [l'application Jury App](../quizmaster/004-jury-app.md).
 
 Pour en savoir plus sur ces options, voyez [comment écrire des questions](../editor/005-writing-questions.md).
 
@@ -49,11 +49,11 @@ Le système de score pour les questions ouvertes est conçu pour être équitabl
 
 ## 🧑‍⚖️ Revue par le jury dans QuizWitz Live
 
-Dans **QuizWitz Live**, les questions ouvertes nécessitent généralement une revue manuelle avec l’[application Jury](../quizmaster/004-jury-app.md) :
+Dans **QuizWitz Live**, les questions ouvertes nécessitent généralement une revue manuelle avec [l'application Jury App](../quizmaster/004-jury-app.md):
 
-- L’application Jury permet aux membres du jury d’accepter, refuser, ou ajuster la notation des réponses ouvertes.
+- Le Jury App permet aux membres du jury d'accepter, de rejeter ou d'ajuster la notation pour les réponses ouvertes.
 - La reconnaissance phonétique et alternative aide, mais le jugement humain est essentiel pour une notation juste et créative.
-- Pour toutes les instructions et fonctionnalités, consultez la [documentation de l’application Jury](../quizmaster/004-jury-app.md).
+- Pour obtenir des instructions et des fonctionnalités complètes, consultez la [documentation de l'application du Juri](../quizmaster/004-jury-app.md).
 
 ---
 

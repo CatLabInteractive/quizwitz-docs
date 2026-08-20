@@ -9,7 +9,7 @@ Una ronda de Actividad te permite alejarte de las preguntas estándar del quiz p
 
 ---
 
-![Pantalla principal para la ronda de Actividad](/images/round-modes/activity-main-screen.png)
+![Pantalla de juego para la ronda de actividad](/images/round-modes/activity-main-screen.png)
 
 ---
 
@@ -33,7 +33,7 @@ Una ronda de Actividad te permite alejarte de las preguntas estándar del quiz p
 
 - **Herramientas de duelo:** El quizmaster puede acceder a acciones rápidas para timbre, gong, campanas y temporizadores durante la actividad.
 - **Puntos personalizados:** Los puntos pueden ingresarse manualmente para cada equipo, o puedes seleccionar un ganador con botones de acción rápida.
-- **Adjuntos:** Agrega imágenes, audio o video para explicar la actividad o mostrar ejemplos. El quizmaster puede mostrarlos en la pantalla principal durante la actividad.
+- **Adjuntos:** Agrega imágenes, audio o video para explicar la actividad o mostrar ejemplos. El cuestionario puede mostrarlos en la pantalla del juego durante la actividad.
 
 ---
 

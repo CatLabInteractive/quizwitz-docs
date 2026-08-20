@@ -21,18 +21,18 @@ QuizWitz Live में आपका स्वागत है — टीमो�
 
 ---
 
-## 🔐 Master Code से कनेक्ट करना
+## 🔐 Connecting with the quizmaster code
 
-लॉन्च होने के बाद, आपकी स्क्रीन पर एक **Master Code** दिखेगा। **यह कोड खिलाड़ियों के साथ शेयर न करें** — इसका इस्तेमाल आपके प्रेज़ेंटेशन डिवाइस को गेम से कनेक्ट करने के लिए किया जाता है।
+Once launched, your screen will display a **quizmaster code**. **यह कोड खिलाड़ियों के साथ शेयर न करें** — इसका इस्तेमाल आपके प्रेज़ेंटेशन डिवाइस को गेम से कनेक्ट करने के लिए किया जाता है।
 
-- अपने quizmaster डिवाइस पर [quizwitz.tv](https://quizwitz.tv) खोलें और Master Code डालें।
+- Visit [quizwitz.tv](https://quizwitz.tv) on your quizmaster device and enter the quizmaster code.
 - एक **Quizmaster App इंटरफ़ेस** दिखाई देगा, जहाँ से आप गेम कंट्रोल करेंगे।
 - मोबिलिटी के लिए हम **टैबलेट या स्मार्टफ़ोन** की सलाह देते हैं, लेकिन लैपटॉप भी काम करता है।  
   ![QuizWitz PRO कनेक्ट स्क्रीन](/images/quizwitz-pro-connect-token.png)
 
-कनेक्ट होने के बाद, Master Code स्क्रीन से गायब हो जाता है। अब आप मुख्य स्क्रीन को प्रोजेक्टर पर दिखाने या अपना livestream शुरू करने के लिए तैयार हैं।
+After connecting, the quizmaster code disappears from the screen. You’re now ready to show the game screen on a projector or start your livestream.
 
-> ⚠️ **ध्यान दें!** अगर गेम स्क्रीन (मुख्य डिस्प्ले) सक्रिय रूप से फ़ोकस में नहीं है — जैसे, अगर आप टैब बदलते हैं या इसे मिनिमाइज़ करते हैं — तो गेम **अपने आप पॉज़** हो जाएगा।  
+> ⚠️ **Heads up!** If the game screen is not actively in focus — for example, if you switch tabs or minimize it — the game will **automatically pause**.  
 > जब ऐसा होता है:
 >
 > - **Quizmaster App भी पॉज़ हो जाता है**
@@ -45,7 +45,7 @@ QuizWitz Live में आपका स्वागत है — टीमो�
 
 कनेक्ट होने के बाद, दो गेम मोड में से चुनें:
 
-![Quizmaster App - मोड चुनें](/images/quizmaster-app-select-mode.png)
+![Quizmaster App - select mode](/images/quizmaster-app-select-mode.png)
 
 ### टीम कोड
 
@@ -68,14 +68,14 @@ QuizWitz Live में आपका स्वागत है — टीमो�
 **Team codes** का इस्तेमाल करते समय, आप पहले Quizmaster App में टीमें बनाएँगे:
 
 - टीमों के नाम जोड़ें
-- एक्सेस कोड बनाने के लिए **‘कोड जेनरेट करें’** दबाएँ  
-  ![Quizmaster app - टीमें बनाएँ](/images/quizmaster-app-create-teams.png)
+- Press **‘Generate Codes’** to create access codes  
+  ![Quizmaster App - create teams](/images/quizmaster-app-create-teams.png)
 
 आप **कोड पहले से रिज़र्व** भी कर सकते हैं — इसके बारे में tips & tricks सेक्शन में और बताया गया है।
 
 निम्न कोड ज़रूर **सेव करें**:
 
-- **Master Code** — क्विज़ को कंट्रोल करने के लिए
+- **Quizmaster code** — to control the quiz
 - **Jury Code** — मैन्युअल स्कोर एडजस्टमेंट के लिए
 - **Regie Code** — विज़ुअल और टेक्निकल एलिमेंट्स को कंट्रोल करने के लिए
 
@@ -83,16 +83,16 @@ Team codes अपने खिलाड़ियों को ईमेल य�
 
 जब सब तैयार हो जाए, तो **‘क्विज़ लोड करें’** पर क्लिक करें, एसेट्स लोड होने का इंतज़ार करें, और फिर शुरू करने के लिए **‘शुरू करें’** पर क्लिक करें।
 
-![Quizmaster App - Team codes पाएँ](/images/quizmaster-app-create-teams2.png)
+![Quizmaster App - get team codes](/images/quizmaster-app-create-teams2.png)
 
 ---
 
 ## 👤 Single game code के साथ होस्ट करना
 
-**Single Game Code** मोड में:
+With the **Single game code** scheme:
 
-- आपको Master, Jury, और Regie कोड मिलेंगे, साथ ही खिलाड़ियों के लिए एक Game Code भी मिलेगा।
-- Game Code मुख्य स्क्रीन पर दिखाई देता है — **इसे अपनी ऑडियंस को दिखाएँ या स्ट्रीम करें**।
+- You’ll receive the quizmaster, jury, and regie codes, plus one game code for players.
+- The game code appears on the game screen — **display or stream it to your audience**.
 - खिलाड़ी तब तक कभी भी जुड़ सकते हैं, जब तक आपकी active seat सीमा पूरी नहीं हो जाती।
 
 जब आपके खिलाड़ी अंदर आ जाएँ:
@@ -108,8 +108,8 @@ Team codes अपने खिलाड़ियों को ईमेल य�
 शुरू करने से पहले, आपको अपने उपलब्ध seats चेक करने होंगे।
 
 - गेम मोड चुनने के बाद एक ओवरव्यू दिखाई देता है
-- अगर आपको और seats चाहिए, तो उन्हें [app.quizwitz.com/seats](https://app.quizwitz.com/seats) पर एक्टिवेट करें  
-  ![Quizmaster app - seats एक्टिवेट करें](/images/quizmaster-app-seats.png)
+- If you need more seats, activate them at [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
+  ![Quizmaster App - activate seats](/images/quizmaster-app-seats.png)
 
 ---
 
@@ -117,6 +117,6 @@ Team codes अपने खिलाड़ियों को ईमेल य�
 
 सेटअप पूरा हो जाने के बाद, गेम शुरू करने के लिए Quizmaster App में **‘क्विज़ शुरू करें’** दबाएँ।
 
-![Quizmaster App - क्विज़ शुरू करें](/images/quizmaster-app-start-quiz.png)
+![Quizmaster App - start quiz](/images/quizmaster-app-start-quiz.png)
 
 अब आप अपनी ऑडियंस को एक शानदार और सहज QuizWitz Live अनुभव देने के लिए तैयार हैं!

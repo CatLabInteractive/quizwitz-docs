@@ -78,9 +78,9 @@ Als je klaar bent om je quiz te testen of te starten, druk je op de knop **Start
 
 ![Quiz playlinks](/images/quiz-playlinks.png)
 
-- **[Play Party Game](../players/001-playing-quizwitz.md)** — Een casual quizervaring om van te genieten met vrienden op hetzelfde scherm of via screensharing
-- **[Start QuizWitz Live (PRO)](../quizmaster/introduction)** — Start een professioneel live quiz-evenement met de Quizmaster App
-- **[Start Conference Mode (PRO)](../tutorials/conference-booth)** — Host een quiz in conferentiestijl voor grotere publieken met toegewezen Seats, teamcodes en productiehulpmiddelen
+- **[Speel een Party Game](../players/001-playing-quizwitz.md)** — Een ontspannen quizervaring om met vrienden te spelen op hetzelfde scherm of via schermdelen. Het spel verloopt automatisch; de host kan het pauzeren, maar heeft verder geen controle over het tempo.
+- **[Start QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Lanceer een professioneel live quizevenement met de Quizmaster App. Dit is de **enige modus waarin de quizmaster het tempo** van het spel bepaalt.
+- **[Start Conferentiemodus (PRO)](../tutorials/050-conference-booth.md)** — Host een quiz in conferentiestijl voor een groter publiek, met vaste plaatsen, teamcodes en productietools. Net als Party Games verlopen Conferentiespellen automatisch.
 
 ---
 

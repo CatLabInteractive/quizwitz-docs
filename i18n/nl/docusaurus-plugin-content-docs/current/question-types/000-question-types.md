@@ -30,4 +30,4 @@ Open vragen vereisen dat spelers hun antwoorden typen.
 Deze vragen maken het spel iets minder eerlijk, maar ze zorgen ervoor dat er altijd een winnaar is.
 
 - [Schiftingsvraag](006-tiebreaker-question.md)
-- [Beste-antwoord vraag](007-best-answer-question.md)
+- [Beste-antwoordvraag](007-best-answer-question.md)

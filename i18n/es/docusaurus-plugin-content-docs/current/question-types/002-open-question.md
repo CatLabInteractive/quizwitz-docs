@@ -29,7 +29,7 @@ Las preguntas abiertas ofrecen una variedad de configuraciones para adaptar tu c
 - **Múltiples respuestas aceptadas:** Añade variantes, abreviaturas o sinónimos para una autocorrección más flexible.
 - **Puntuación basada en tiempo:** Premia respuestas más rápidas (ver "Puntuación" abajo).
 - **Forzar corrección automática:** Activa esto para que el juego marque automáticamente respuestas correctas según tu lista proporcionada.
-  - Si no está activado (por defecto en la mayoría de los juegos en vivo), las respuestas abiertas deben revisarse y puntuarse manualmente usando la [app Jury](../quizmaster/004-jury-app.md).
+  - Si no está habilitado (el valor predeterminado para la mayoría de los juegos en vivo), las respuestas abiertas deben ser revisadas y anotadas manualmente usando la [Aplicación del Jurado](../quizmaster/004-jury-app.md).
 
 Para más sobre estas opciones, consulta [escribir preguntas](../editor/005-writing-questions.md).
 
@@ -49,11 +49,11 @@ La puntuación en preguntas abiertas está diseñada para ser justa, incluso par
 
 ## 🧑‍⚖️ Revisión del jurado en QuizWitz Live
 
-En **QuizWitz Live**, las preguntas abiertas generalmente requieren una revisión manual con la [app Jury](../quizmaster/004-jury-app.md):
+En **Prueba Witz Live**, las preguntas abiertas generalmente requieren una revisión manual con la [Aplicación del Jurado](../quizmaster/004-jury-app.md):
 
-- La app Jury permite a los miembros del jurado aceptar, rechazar o ajustar la puntuación para respuestas abiertas.
+- La aplicación Jury permite a los miembros del jurado aceptar, rechazar o ajustar la puntuación para respuestas abiertas.
 - La coincidencia fonética y alternativas ayuda, pero el juicio humano es esencial para una puntuación justa y creativa.
-- Para instrucciones completas y funciones, consulta la [documentación de la app Jury](../quizmaster/004-jury-app.md).
+- Para instrucciones y características completas, vea la [documentación de la aplicación del Jurado](../quizmaster/004-jury-app.md).
 
 ---
 

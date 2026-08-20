@@ -1,11 +1,11 @@
 ---
 id: piece-of-pie
-title: Stück Kuchen
+title: Stück Pie
 ---
 
-# 🥧 Stück Kuchen
+# 🥧 Stück des Kuchen
 
-In einer **Stück Kuchen**-Runde zahlt sich Teamarbeit aus! Die Gesamtpunktzahl für jede Frage hängt von der Anzahl der Spieler ab und wird dann unter allen Spielern (oder Teams) aufgeteilt, die die Frage richtig beantwortet haben.
+In einer Runde **Piece of Pie** zahlt sich die Teamarbeit aus! Die Gesamtpunktzahl für jede Frage hängt von der Anzahl der Spieler ab und wird dann unter allen Spielern (oder Teams) aufgeteilt, die die Frage richtig beantwortet haben.
 
 ---
 
