@@ -5,13 +5,13 @@ title: Introduction du joueur
 
 # 🙋‍♂️ Introduction du joueur
 
-**L’introduction du joueur** est un événement spécial qui affiche simplement **les noms et les émoticônes sélectionnés de tous les joueurs ou équipes** sur l’écran principal du jeu.
+**Introduction au joueur** est un événement spécial qui affiche simplement les **noms et émoticônes sélectionnés de tous les joueurs ou équipes** sur l'écran du jeu.
 
 ---
 
 ## 📝 Comment ça marche
 
-- À ce moment du quiz, le **nom** et l’**émoticône** choisis de chaque participant apparaîtront sur le grand écran.
+- À ce stade du quiz, le **nom** de chaque participant et les **émoji** choisis apparaîtront sur l'écran du jeu.
 - Cela est souvent utilisé au début d’un événement, après une pause ou avant une manche finale pour présenter ou célébrer les participants.
 
 ---
