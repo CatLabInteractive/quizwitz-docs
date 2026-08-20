@@ -75,9 +75,9 @@ Vygeneruje odkazy pro sdílení nebo kód pro vložení s pokročilými nastaven
 
 ## 📜 Text pro quizmaster
 
-Přidej vlastní pokyny pro moderátora pro:
+Přidat vlastní instrukce kvízu pro:
 
 - **Úvod kvízu**
 - **Závěr kvízu**
 
-Tyto pokyny jsou viditelné v [aplikaci Quizmaster](../quizmaster/001-introduction.md), když používáš QuizWitz Live.
+Ty jsou viditelné na [Quizmaster App](../quizmaster/001-introduction.md) při používání QuizWitz Live.
