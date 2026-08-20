@@ -5,7 +5,7 @@ title: Parâmetros avançados
 
 # ⚙️ Parâmetros avançados
 
-Podes usar parâmetros de query string para personalizar como o cliente de jogo do QuizWitz se comporta. Esses parâmetros podem ser adicionados a qualquer link de jogo usando o recurso **Configurações avançadas do jogo**.
+Podes usar parâmetros de query string para personalizar como o cliente de jogo do QuizWitz se comporta. Estes parâmetros podem ser adicionados a qualquer link de jogo usando a funcionalidade **Configurações avançadas do jogo**.
 
 Exemplo:
 
@@ -24,7 +24,7 @@ https://play.quizwitz.com/13305:qyHBEVVBqT?theme=emerald
 | `reservation`            |                /               |            abcdef           | Token de reserva a usar (em jogos ao vivo)                                                                                                                                                                                      |
 | `remote`                 |   quizwitz.tv  | quizwitz.tv | Servidor CatLab Remote a usar                                                                                                                                                                                                                      |
 | `server`                 |                /               |              10             | ID do servidor CatLab Remote a usar (com descoberta automática)                                                                                                                                                                 |
-| `publisher`              |                /               |           QuizWitz          | Nome do perfil que está a organizar o jogo. Isso é usado para personalizar visualizações                                                                                                                                           |
+| `publisher`              |                /               |           QuizWitz          | Nome do perfil que está a organizar o jogo. Isto é usado para personalizar visualizações                                                                                                                                           |
 | `smileys`                |                1               |              0              | Define como 0 para desativar smileys no jogo                                                                                                                                                                                                       |
 | `outroPlayers`           |               12               |          5,4,3,1,2          | Define a quantidade (número) OU a ordem dos jogadores (lista de posições separadas por vírgula) que será anunciada durante o encerramento do jogo.                                           |
 | `focusPositions`         |                /               |            50,100           | Define uma lista de posições adicionais que será exibida no app Quizmaster                                                                                                                                                                         |
@@ -58,7 +58,7 @@ https://play.quizwitz.com/13305:qyHBEVVBqT?theme=emerald
 | `showRankInDepartment`   |                1               |              0              | Define como 0 para impedir que os utilizadores vejam a sua classificação dentro do departamento.                                                                                                                                   |
 | `showDepartmentRanking`  |                1               |              0              | Define como 0 para desativar a exibição da classificação dos departamentos entre as rondas.                                                                                                                                        |
 | `preloadVideo`           |                0               |              1              | Define como 1 para forçar o pré-carregamento de todos os fragmentos de vídeo.                                                                                                                                                      |
-| `n`                      |                /               |          `_prompt_`         | Define (ou solicita definindo como `_prompt_`) um nome para o grupo de jogadores que está a jogar o jogo. Esse nome é enviado para o relatório do quiz.                                         |
+| `n`                      |                /               |          `_prompt_`         | Define (ou solicita definindo como `_prompt_`) um nome para o grupo de jogadores que está a jogar o jogo. Este nome é enviado para o relatório do quiz.                                         |
 
 ---
 
