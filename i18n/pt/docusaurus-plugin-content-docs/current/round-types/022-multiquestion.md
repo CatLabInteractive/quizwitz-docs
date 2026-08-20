@@ -24,18 +24,18 @@ A ronda **Multiquestion** dá aos jogadores (ou equipas) a liberdade de escolher
 - Para cada pergunta no grupo, defina o campo **Rótulo**. Esse rótulo é mostrado aos jogadores como o “título” ou dica para a escolha deles.
   - Os rótulos podem ser enigmáticos (“A, B, C”), temáticos (“Animais”, “História”) ou descritivos (“MC fácil”, “Aberta difícil”).
 - Podes combinar tipos de pergunta e valores de pontuação dentro do mesmo grupo.
-- **Duração:** Mesmo que você possa definir um multiplicador de tempo diferente por pergunta, o jogo usa o valor mais alto para todas as perguntas do grupo (assim ninguém fica com pressa).
+- **Duração:** Mesmo que possas definir um multiplicador de tempo diferente por pergunta, o jogo usa o valor mais alto para todas as perguntas do grupo (assim ninguém fica com pressa).
 - **Anexos:**
-  - Os anexos _Antes da pergunta_ de todas as opções são combinados em uma única visualização antes de os jogadores fazerem sua escolha.
+  - Os anexos _Antes da pergunta_ de todas as opções são combinados numa única visualização antes de os jogadores fazerem a escolha.
   - Os anexos visíveis _Durante a pergunta_ não são mostrados, mas o áudio ainda toca.
 
 ---
 
 ## 💡 Dicas
 
-- Ofereça uma mistura de perguntas fáceis e difíceis para ter mais estratégia.
-- Use rótulos de forma criativa — temas misteriosos ou divertidos podem aumentar o engajamento.
-- Recompense quem gosta de arriscar com perguntas que valem mais pontos.
+- Oferece uma mistura de perguntas fáceis e difíceis para ter mais estratégia.
+- Usa rótulos de forma criativa — temas misteriosos ou divertidos podem aumentar o envolvimento.
+- Recompensa quem gosta de arriscar com perguntas que valem mais pontos.
 
 ---
 
