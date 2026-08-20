@@ -1,6 +1,6 @@
 ---
 id: round-types
-title: Rundungstypen
+title: Rundentypen
 ---
 
 # Rundentypen

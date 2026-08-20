@@ -1,6 +1,6 @@
 ---
 id: round-types
-title: Tipos arredondados
+title: Tipos de rodada
 ---
 
 # Tipos de rodada

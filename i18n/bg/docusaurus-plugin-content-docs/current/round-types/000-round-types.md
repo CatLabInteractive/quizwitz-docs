@@ -1,6 +1,6 @@
 ---
 id: round-types
-title: Round types
+title: Типове рундове
 ---
 
 # Типове рундове

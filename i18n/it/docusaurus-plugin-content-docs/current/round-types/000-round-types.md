@@ -1,6 +1,6 @@
 ---
 id: round-types
-title: Tipi tondi
+title: Tipi di round
 ---
 
 # Tipi di round

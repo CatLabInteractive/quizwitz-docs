@@ -1,6 +1,6 @@
 ---
 id: round-types
-title: Round types
+title: Typy kôl
 ---
 
 # Typy kôl
