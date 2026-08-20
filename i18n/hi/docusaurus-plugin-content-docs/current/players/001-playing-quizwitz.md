@@ -52,7 +52,7 @@ A **Round-About** is a small, themed round of questions — as the name says, a 
 - उसकी **इमेज**, **शीर्षक** या **कमेंट्स आइकन** पर क्लिक करें
 - तुरंत शुरू करने के लिए **खेलें** पर क्लिक करें
 
-![QuizWitz Round-About विवरण](/images/round-about-details.png)
+![QuizWitz Round-About details](/images/round-about-details.png)
 
 ---
 
@@ -107,7 +107,7 @@ QuizWitz उन सवालों को छोड़ने की कोशि
 
 दोस्तों के साथ उनके अपने फोन या टैबलेट इस्तेमाल करके खेलें:
 
-> 📺 पक्का करें कि क्विज़ स्क्रीन दिखाई दे रही है — साझा डिस्प्ले या स्क्रीन शेयर का इस्तेमाल करें
+> 📺 Make sure the game screen is visible — use a shared display or screen share
 
 1. **शुरू करें** पर क्लिक करें, फिर **पार्टी गेम** पर क्लिक करें
 2. खिलाड़ी शामिल होने के लिए स्क्रीन पर दिए निर्देशों का पालन करें
