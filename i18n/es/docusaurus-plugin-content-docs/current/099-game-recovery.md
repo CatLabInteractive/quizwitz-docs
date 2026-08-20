@@ -1,10 +1,10 @@
 ---
 id: live-crash-recovery
-title: ⚠️ Recuperación en Vivo de Fallos
+title: ⚠️ Recuperación de fallos en Live
 sidebar_position: 1000
 ---
 
-# ⚠️ Recuperación en Vivo de Fallos
+# ⚠️ Recuperación de fallos en Live
 
 ¿Se bloqueó tu juego? ¿Se cerró la pestaña por accidente? [**QuizWitz Live**](quizmaster/001-introduction.md) incluye un sistema de recuperación incorporado para ayudarte a retomar el control — sin perder tu progreso.
 
@@ -14,7 +14,7 @@ sidebar_position: 1000
 
 Si tu juego se bloquea, se cuelga o se interrumpe por cualquier motivo — ya sea un problema del navegador, un reinicio del sistema o el cierre accidental de la pestaña — puedes reanudar la sesión fácilmente.
 
-Solo **vuelve a abrir la misma pestaña del navegador o pantalla del juego** que estabas usando para mostrar la **vista principal del juego**. Esta es la pantalla que proyectas o transmites a tu audiencia.
+Sólo **reabre la misma pestaña de navegador** que estabas usando para mostrar la **pantalla del juego**. Esta es la pantalla que proyectas o transmites a tu audiencia.
 
 Cuando se cargue:
 
@@ -28,7 +28,7 @@ Cuando se cargue:
 Selecciona **"Reanudar juego"** para:
 
 - Continuar desde la misma pregunta o ronda
-- Restaurar el estado y los elementos visuales del cuestionario
+- Restaurar el estado y los elementos visuales del quiz
 
 > ✅ Esta es la mejor opción si tu juego se bloqueó, se congeló o se cerró accidentalmente.
 
@@ -39,21 +39,21 @@ Selecciona **"Reanudar juego"** para:
 También puedes elegir **iniciar un juego nuevo** en su lugar.
 
 - Esto **borrará por completo la sesión anterior**
-- Volverás al inicio de la configuración del cuestionario
+- Volverás al inicio de la configuración del quiz
 
 > ⚠️ Solo elige esto si estás seguro de que no quieres continuar con el juego existente.
 
 ---
 
-## 💡 Buen dato
+## 💡 Información útil
 
-- La recuperación solo funciona si vuelves a la misma pantalla del juego en el mismo navegador
-- No navegues a una página diferente— vuelve a abrir la **URL exacta** que estabas usando para hospedar el juego
+- La recuperación solo funciona si **vuelves a la misma pantalla del juego en el mismo navegador**
+- **No** navegues a una página diferente — vuelve a abrir la **URL exacta** que estabas usando para organizar el juego
 - Esta función ayuda a recuperarse de:
   - Bloqueos del navegador
-  - Congelamientos o cuelgues durante el cuestionario
+  - Congelamientos o cuelgues durante el quiz
   - Cierre accidental o actualización
 
 ---
 
-Con la recuperación del juego, puedes dirigir con confianza — sabiendo que si algo falla, puedes continuar justo donde lo dejaste.
+Con la recuperación del juego, puedes organizar con confianza — sabiendo que si algo falla, puedes continuar justo donde lo dejaste.
