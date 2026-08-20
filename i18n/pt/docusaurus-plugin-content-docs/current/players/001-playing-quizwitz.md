@@ -1,35 +1,35 @@
 ---
 id: playing
-title: Jogando QuizWitz
+title: Jogar QuizWitz
 ---
 
-# 🧠 Jogando QuizWitz
+# 🧠 Jogar QuizWitz
 
-Boas-vindas ao QuizWitz! Seja jogando sozinho ou com amigos, este guia vai te ajudar a começar.
+Boas-vindas ao QuizWitz! Quer jogues sozinho ou com amigos, este guia vai ajudar-te a começar.
 
 ---
 
 ## 🎯 Escolha o que jogar
 
-Comece explorando os **Round-Abouts** disponíveis — rodadas curtas temáticas de perguntas de quiz. Use o menu no topo da tela para explorar:
+Comece explorando os **Round-Abouts** disponíveis — rodadas curtas temáticas de perguntas de quiz. Usa o menu no topo do ecrã para explorar:
 
 - **Novo** — Descubra os Round-Abouts mais recentes
-- **Minha coleção** — Acesse tudo o que você salvou ou criou
+- **A minha coleção** — Acede a tudo o que guardaste ou criaste
 - **Coletar** — Encontre Round-Abouts feitos pela comunidade
 - **Jogo rápido** — Entre numa seleção aleatória
 
 ![Barra de navegação superior do QuizWitz](/images/top-menu-play.png)
 
-> 💡 **Dica:** Quer jogar tudo o que você coletou? Clique em **Minha coleção** e depois em **Jogar minha coleção**!
+> 💡 **Dica:** Queres jogar tudo o que recolheste? Clica em **A minha coleção** e depois em **Jogar a minha coleção**!
 
 ---
 
-## 📚 O que tem em Minha coleção?
+## 📚 O que inclui "A minha coleção"?
 
-**Minha coleção** inclui todo o conteúdo de quiz que você:
+**A minha coleção** inclui todo o conteúdo de quiz que:
 
-- Criou por conta própria
-- Coletou de outros criadores
+- Criaste por conta própria
+- Recolheste de outros criadores
 
 Isso inclui:
 
@@ -39,20 +39,20 @@ Isso inclui:
 - Bingos
 - ...
 
-Você pode organizar, jogar ou remover itens a qualquer momento. Esta é sua biblioteca pessoal — monte do seu jeito!
+Podes organizar, jogar ou remover itens a qualquer momento. Esta é a tua biblioteca pessoal — organiza-a como quiseres!
 
 ---
 
 ## 🧠 Escolha um Round-About
 
-Um **Round-About** é uma rodada pequena e temática de perguntas. Jogar apenas um vai te dar uma partida curta com 7 perguntas aleatórias.
+Um **Round-About** é uma pequena ronda de perguntas — como o nome diz, uma ronda _sobre_ um assunto. Jogar apenas um vai dar-te uma partida curta com 7 perguntas aleatórias.
 
 Para explorar um Round-About em mais detalhes:
 
 - Clique na **imagem**, no **título** ou no **ícone de comentários**
-- Clique em **Jogar** para entrar imediatamente
+- Clica em **Jogar** para entrar imediatamente
 
-![Detalhes do Round-About do QuizWitz](/images/round-about-details.png)
+![QuizWitz Round-About details](/images/round-about-details.png)
 
 ---
 
@@ -60,8 +60,8 @@ Para explorar um Round-About em mais detalhes:
 
 Quer montar um jogo de quiz completo com vários Round-Abouts? Veja como:
 
-- Clique em **Adicionar à minha coleção** dentro do Round-About
-- Ou clique no **ícone de estrela** no bloco do Round-About
+- Clica em **Adicionar à minha coleção** dentro do Round-About
+- Ou clica no **ícone de estrela** no bloco do Round-About
 
 Para remover depois, basta clicar na estrela de novo — agora ela vai dizer **Remover da minha coleção**.
 
@@ -69,21 +69,21 @@ Para remover depois, basta clicar na estrela de novo — agora ela vai dizer **R
 
 ---
 
-## ▶️ Jogue sua coleção
+## ▶️ Joga a tua coleção
 
 Quando estiver tudo pronto:
 
-1. Clique em **Minha coleção**
-2. Pressione **Jogar minha coleção**
+1. Clica em **A minha coleção**
+2. Pressiona **Jogar a minha coleção**
 
-![Jogar minha coleção](/images/play-my-collection.png)
+![Jogar a minha coleção](/images/play-my-collection.png)
 
 Escolha:
 
 - **Modo de jogo** — Um jogador ou Party Game
 - **Quais Round-Abouts** incluir na sua sessão
 
-O QuizWitz vai tentar pular perguntas que você já viu.
+O QuizWitz vai tentar saltar perguntas que já viste.
 
 ![Jogar minha coleção - etapa 2](/images/play-my-collection-step2.png)
 
@@ -91,37 +91,43 @@ O QuizWitz vai tentar pular perguntas que você já viu.
 
 ## 🕹️ Experiência durante o jogo
 
-Assim que o jogo começar, escolha seu modo:
+Assim que o jogo começar, escolhe o teu modo:
 
 ### 🎮 Um jogador
 
-- Clique em **Iniciar** e depois escolha **Um jogador**
-- Use o mouse, teclado ou touchscreen para responder
+- Clica em **Iniciar** e depois escolhe **Um jogador**
+- Usa o rato, o teclado ou o ecrã tátil para responder
 
-![Tela inicial do QuizWitz](/images/quizwitz-start-screen.png)  
-![Tela inicial do QuizWitz para um jogador](/images/quizwitz-start-screen-single.png)
+![Ecrã inicial do QuizWitz](/images/quizwitz-start-screen.png)  
+![Ecrã inicial do QuizWitz para um jogador](/images/quizwitz-start-screen-single.png)
 
 ---
 
-### 🎉 Jogo de festa
+### 🎉 Jogo de Grupo
 
-Jogue com amigos usando os próprios celulares ou tablets deles:
+Joga com amigos usando os próprios telemóveis ou tablets deles:
 
-> 📺 Garanta que a tela do quiz esteja visível — use uma tela compartilhada ou compartilhamento de tela
+> 📺 Certifica-te de que o ecrã do jogo está visível — usa um ecrã partilhado ou a partilha de ecrã
 
-1. Clique em **Iniciar** e depois em **Party Game**
-2. Os jogadores seguem as instruções na tela para entrar
-3. Clique em **Iniciar quiz** quando todo mundo estiver pronto
+1. Clica em **Iniciar** e depois em **Party Game**
+2. Os jogadores seguem as instruções no ecrã para entrar
+3. Clica em **Iniciar quiz** quando todos estiverem prontos
 
-![Tela inicial do QuizWitz](/images/quizwitz-start-screen.png)  
-![Tela inicial do QuizWitz para Party Game](/images/quizwitz-start-screen-party.png)  
-![Tela de conexão](/images/connect-screen.png)
+Quando o quiz começar, **o jogo funciona automaticamente** — as perguntas aparecem, os cronómetros contam, e as pontuações são calculadas sem qualquer intervenção do anfitrião.
+
+> ⏸️ Precisa de uma pausa? Move o cursor para a parte inferior do ecrã do jogo e vai aparecer um botão de **pausa**. Pausar é a única forma de interromper um Jogo de Grupo.
+>
+> Queres controlar o ritmo do jogo tu mesmo — decidir quando cada pergunta começa? Só é possível com o [**QuizWitz Live**](../quizmaster/001-introduction.md) e a App Quizmaster.
+
+![Ecrã inicial do QuizWitz](/images/quizwitz-start-screen.png)  
+![Ecrã inicial do QuizWitz para Party Game](/images/quizwitz-start-screen-party.png)  
+![Ecrã de ligação](/images/connect-screen.png)
 
 ---
 
 ## ⭐ Depois do jogo
 
-No final, avalie os Round-Abouts que você jogou. Isso ajuda a destacar conteúdo incrível e apoia os criadores.
+No final, avalia os Round-Abouts que jogaste. Isso ajuda a destacar conteúdo incrível e apoia os criadores.
 
 ![Avalie os Round-Abouts quando o jogo terminar](/images/rate-rounds.png)
 
