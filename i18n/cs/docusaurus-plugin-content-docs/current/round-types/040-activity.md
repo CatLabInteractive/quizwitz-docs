@@ -9,7 +9,7 @@ Kolo Aktivita ti umožní opustit klasické kvízové otázky a pustit se do kre
 
 ---
 
-![Hlavní obrazovka kola Aktivita](/images/round-modes/activity-main-screen.png)
+![Herní obrazovka pro kolo aktivity](/images/round-modes/activity-main-screen.png)
 
 ---
 
@@ -33,7 +33,7 @@ Kolo Aktivita ti umožní opustit klasické kvízové otázky a pustit se do kre
 
 - **Nástroje pro duel:** quizmaster má během aktivity k dispozici rychlé akce pro bzučák, gong, zvonky a časovače.
 - **Vlastní body:** Body můžeš zadat ručně pro každý tým, nebo vybrat vítěze pomocí tlačítek rychlých akcí.
-- **Přílohy:** Přidej obrázky, audio nebo video, které aktivitu vysvětlí nebo ukážou příklady. Quizmaster je může během aktivity zobrazit na hlavní obrazovce.
+- **Přílohy:** Přidej obrázky, audio nebo video, které aktivitu vysvětlí nebo ukážou příklady. Kvízmaster je může zobrazit na obrazovce hry během aktivity.
 
 ---
 
