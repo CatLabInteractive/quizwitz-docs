@@ -21,18 +21,18 @@ Hru QuizWitz Live můžeš spustit z editoru kvízu nebo přímo ze své kolekce
 
 ---
 
-## 🔐 Připojení pomocí Master Code
+## 🔐 Připojuji se k kizmaster kódu
 
-Po spuštění se na obrazovce zobrazí **Master Code**. **Nesdílej tento kód s hráči** — slouží k připojení prezentačního zařízení ke hře.
+Po spuštění bude vaše obrazovka zobrazena **kvízmaster kód**. **Nesdílej tento kód s hráči** — slouží k připojení prezentačního zařízení ke hře.
 
-- Na svém quizmaster zařízení navštiv [quizwitz.tv](https://quizwitz.tv) a zadej Master Code.
+- Navštivte [quizwitz.tv](https://quizwitz.tv) na vašem kvízovém zařízení a zadejte kvízový kód.
 - Zobrazí se **rozhraní Quizmaster App**, ve kterém hru ovládáš.
 - Kvůli mobilitě doporučujeme **tablet nebo smartphone**, ale notebook funguje taky.  
   ![Obrazovka připojení QuizWitz PRO](/images/quizwitz-pro-connect-token.png)
 
-Po připojení Master Code z obrazovky zmizí. Teď můžeš hlavní obrazovku promítnout projektorem nebo spustit livestream.
+Po připojení zmizí kvízmaster kód z obrazovky. Nyní jste připraveni zobrazit herní obrazovku na projektoru nebo zahájit svůj živý život.
 
-> ⚠️ **Pozor!** Pokud obrazovka hry (hlavní zobrazení) není aktivně v popředí — třeba když přepneš kartu nebo ji minimalizuješ — hra se **automaticky pozastaví**.  
+> ⚠️ \*\*Heads up! \* Pokud se obrazovka hry aktivně nezaměřuje — například, pokud přepínáte karty nebo je minimalizujete — hra se **automaticky pozastaví**.  
 > Když se to stane:
 >
 > - Pozastaví se také **Quizmaster App**
@@ -45,7 +45,7 @@ Po připojení Master Code z obrazovky zmizí. Teď můžeš hlavní obrazovku p
 
 Po připojení si vyber ze dvou herních režimů:
 
-![Quizmaster app - výběr režimu](/images/quizmaster-app-select-mode.png)
+![Quizmaster App - vyberte režim](/images/quizmaster-app-select-mode.png)
 
 ### Týmové kódy
 
@@ -69,13 +69,13 @@ Při použití **týmových kódů** nejdřív vytvoříš týmy v Quizmaster Ap
 
 - Přidej názvy týmů
 - Stiskněte **'Generovat kódy'** pro vytvoření přístupových kódů  
-  ![Quizmaster app - vytvořit týmy](/images/quizmaster-app-create-teams.png)
+  ![Quizmaster App - vytvořit týmy](/images/quizmaster-app-create-teams.png)
 
 Můžeš si také **rezervovat kódy dopředu** — víc o tom najdeš v sekci tipy a triky.
 
 Nezapomeň si **uložit následující kódy**:
 
-- **Master Code** — pro ovládání kvízu
+- **Kvízový kód** – ovládat kvíz
 - **Jury Code** — pro ruční úpravy skóre
 - **Regie Code** — pro ovládání vizuálních a technických prvků
 
@@ -83,16 +83,16 @@ Pošli týmové kódy hráčům e-mailem nebo jim je vytiskni.
 
 Pokud je připraveno, klikněte na **'Načíst kvíz'**, počkejte na načtení majetku a pak klikněte na **'Start'** pro začátek.
 
-![Quizmaster app - získání týmových kódů](/images/quizmaster-app-create-teams2.png)
+![Quizmaster App - získat týmové kódy](/images/quizmaster-app-create-teams2.png)
 
 ---
 
 ## 👤 Pořádání s jedním herním kódem
 
-V režimu **Jeden herní kód**:
+S **Jednotným kódem hry** schématu:
 
-- Obdržíte kódy Mistra, Jurie a Regie plus jeden herní kód pro hráče.
-- Game Code se zobrazí na hlavní obrazovce — **ukaž ho nebo streamuj svému publiku**.
+- Obdržíte kvíza, porost a regie kódy, plus jeden herní kód pro hráče.
+- Herní kód se zobrazí na obrazovce hry — **zobrazit nebo vysílat k vašemu publikaci**.
 - Hráči se můžou připojit kdykoli, dokud nebude dosažen tvůj limit aktivních seats.
 
 Jakmile jsou hráči uvnitř:
@@ -109,7 +109,7 @@ Před spuštěním budete muset zkontrolovat Vaše volná místa.
 
 - Přehled se zobrazí po výběru herního režimu
 - Pokud potřebujete více křesel, aktivujte je na [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
-  ![Quizmaster app - aktivace sedadel](/images/quizmaster-app-seats.png)
+  ![Quizmaster App - aktivujte sedadla](/images/quizmaster-app-seats.png)
 
 ---
 
@@ -117,6 +117,6 @@ Před spuštěním budete muset zkontrolovat Vaše volná místa.
 
 Jakmile je instalace dokončena, stiskněte v Quizmaster aplikaci \*\*'Spustit kvíz' \*\* pro zahájení hry.
 
-![Quizmaster app - spuštění kvízu](/images/quizmaster-app-start-quiz.png)
+![Quizmaster App - spustit kvíz](/images/quizmaster-app-start-quiz.png)
 
 Teď jsi připravený/á pobavit své publikum hladkým zážitkem s QuizWitz Live!
