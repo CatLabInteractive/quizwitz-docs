@@ -58,6 +58,6 @@ Isto é especialmente eficaz para puzzles ou revelações lentas durante introdu
 Alguns espaços permitem adicionar **vários anexos**. A forma como se comportam depende do modo de jogo:
 
 > ⚡ **Em [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** O quizmaster tem controlo total e pode decidir quando mostrar ou ocultar anexos durante o jogo.  
-> 🎮 **Em jogos normais:** Todos os anexos dentro de um espaço são mostrados **simultaneamente**.
+> 🎮 **Em jogos sem quizmaster (Party Game, modo de conferência, Um jogador):** todos os anexos de um espaço são exibidos **simultaneamente**.
 
 Os detalhes sobre o momento em que cada espaço aparece e o seu comportamento estão na documentação associada para [perguntas](../editor/015-importing-questions.md), [rondas](../editor/008-round-options.md) e [quizzes](../editor/007-quiz-options.md).
