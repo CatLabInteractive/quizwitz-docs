@@ -75,9 +75,9 @@ Erzeugt Teilen-Links oder Einbettungscode mit erweiterten Spieleinstellungen.
 
 ## 📜 Quizmaster-Kopie
 
-Füge benutzerdefinierte Anweisungen für den Präsentator hinzu:
+Eigene Quizmaster-Anweisungen hinzufügen für:
 
 - **Quiz introduction**
 - **Quiz outro**
 
-Diese sind in der [Quizmaster-App](../quizmaster/001-introduction.md) sichtbar, wenn du QuizWitz Live nutzt.
+Diese werden in der [Quizmaster App](../quizmaster/001-introduction.md) angezeigt, wenn QuizWitz Live verwendet wird.
