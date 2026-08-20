@@ -49,9 +49,9 @@ Each time the quiz runs, QuizWitz will select 5 random questions from each round
 
 The fastest way to launch your conference quiz:
 1. Click **Play quiz**.
-2. Select **Start Conference Mode**.
+2. Select **Start Conference mode**.
 
-In this mode, players use their phones to connect to the game link on the main screen.  
+In this mode, players use their phones to connect to the game link on the game screen.  
 When everyone is ready, the booth host presses Enter — and the game runs automatically.  
 After the game ends, pressing Enter brings you right back to the connection screen for the next group.
 

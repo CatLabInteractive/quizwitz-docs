@@ -1,6 +1,6 @@
 ---
 id: round-types
-name: Typy kol
+title: Typy kol
 ---
 
 # Typy kol

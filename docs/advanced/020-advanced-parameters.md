@@ -34,7 +34,7 @@ Available parameters:
 | `forcePiecharts`         | 0           | 1           | Set to 1 to always show all feedback in pie-charts
 | `forceNoPiecharts`       | 0           | 1           | Set to 1 to always to never group all feedback in pie-charts.
 | `piechartPercentages`    | 0           | 1           | Set to 1 to show percentages instead of absolute values in all pie-charts
-| `monitors`               | /           | nl,fr       | If set, in live games separate codes will be created to display a 'monitor' in that specific language for localized presenters.
+| `monitors`               | /           | nl,fr       | If set, in live games separate codes will be created to display a 'monitor' in that specific language for localized quizmasters.
 | `allowLogin`             | 1           | 0           | Set to 0 to disallow users to login
 | `tracker`                | 1           | 0           | Set to 0 to disable all tracking. No quiz report will be available
 | `random`                 | 0           | 1           | Set to 1 to load a 'random quiz'

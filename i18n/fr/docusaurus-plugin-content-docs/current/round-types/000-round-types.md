@@ -1,6 +1,6 @@
 ---
 id: round-types
-name: Types de manches
+title: Types de manches
 ---
 
 # Types de manches

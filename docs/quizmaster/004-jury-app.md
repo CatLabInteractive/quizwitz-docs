@@ -16,7 +16,7 @@ The Jury app is a separate interface used by jury members to evaluate answers an
 To open the Jury app:
 
 1. At the start of the quiz, a **Jury Code** is generated.
-2. On a separate device, go to [**catlab.tv**](https://catlab.tv)
+2. On a separate device, go to [**quizwitz.tv**](https://quizwitz.tv)
 3. Enter the **Jury Code** to access the app
 
 > 💡 You can open the Jury app on any browser — it's a web app, no installation required.

@@ -17,7 +17,7 @@ The quizmaster is the heart of your event. They control the pacing, present the 
 
 Use the **Quizmaster app** to run the game. Launch QuizWitz Live from the quiz editor by clicking **Start QuizWitz Live**.
 
-> 💡 The Quizmaster app is a **web app** — there’s no installation. Just go to [**quizwitz.tv**](https://quizwitz.tv) on your presentation device and enter the **Master Code**.
+> 💡 The Quizmaster app is a **web app** — there’s no installation. Just go to [**quizwitz.tv**](https://quizwitz.tv) on your quizmaster device and enter the **quizmaster code**.
 
 We recommend using a **tablet or smartphone** so the quizmaster can move freely during the show.
 
@@ -25,16 +25,16 @@ We recommend using a **tablet or smartphone** so the quizmaster can move freely 
 
 ## 🧩 Choosing the right game mode
 
-When starting QuizWitz Live, you’ll be asked to choose a mode:
+When starting QuizWitz Live, you’ll be asked to choose how players connect:
 
-- **Regular mode** — Players or teams each receive a unique code. Useful for pre-registered team events.
-- **Ad-hoc mode** — One shared Game Code for all players. Best for livestreams with open registration.
+- **Team codes** — Players or teams each receive a unique code. Useful for pre-registered team events.
+- **Single game code** — One shared game code for all players. Best for livestreams with open registration.
 
-> For livestreams, always choose **Ad-hoc mode** and click **Start ad-hoc game**.
+> For livestreams, always choose **Single game code** and click *Start ad-hoc game*.
 
 Once the quiz loads, the Quizmaster app will display:
 
-- **Master Code** — for the quizmaster
+- **Quizmaster code** — for the quizmaster
 - **Jury Code** — for reviewing open questions
 - **Regie Code** — for controlling visuals/audio
 - **Game Code** — for players to join
@@ -69,7 +69,7 @@ To compensate for stream delay, use the **player interaction delay** in the Jury
 Here’s how:
 
 1. Start your stream preview — no need to go live yet
-2. Open the **Jury app** by entering your Jury Code at [**catlab.tv**](https://catlab.tv)
+2. Open the **Jury app** by entering your Jury Code at [**quizwitz.tv**](https://quizwitz.tv)
 3. Go to **Game control**
 4. Open your livestream in another window, with sound
 5. Use a stopwatch

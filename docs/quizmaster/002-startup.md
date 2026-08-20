@@ -21,18 +21,18 @@ You can start a QuizWitz Live game from the quiz editor or directly from your qu
 
 ---
 
-## 🔐 Connecting with the Master Code
+## 🔐 Connecting with the quizmaster code
 
-Once launched, your screen will display a **Master Code**. **Do not share this code with players** — it's used to connect your presentation device to the game.
+Once launched, your screen will display a **quizmaster code**. **Do not share this code with players** — it's used to connect your presentation device to the game.
 
-- Visit [quizwitz.tv](https://quizwitz.tv) on your quizmaster device and enter the Master Code.
+- Visit [quizwitz.tv](https://quizwitz.tv) on your quizmaster device and enter the quizmaster code.
 - A **Quizmaster App interface** will appear, where you control the game.
 - We recommend a **tablet or smartphone** for mobility, but a laptop works too.  
   ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)
 
-After connecting, the Master Code disappears from the screen. You're now ready to show the main screen on a projector or start your livestream.
+After connecting, the quizmaster code disappears from the screen. You’re now ready to show the game screen on a projector or start your livestream.
 
-> ⚠️ **Heads up!** If the game screen (main display) is not actively in focus — for example, if you switch tabs or minimize it — the game will **automatically pause**.  
+> ⚠️ **Heads up!** If the game screen is not actively in focus — for example, if you switch tabs or minimize it — the game will **automatically pause**.  
 > When this happens:
 > - The **Quizmaster App also pauses**
 > - To resume, first make sure the **game screen is active again**
@@ -74,7 +74,7 @@ You can also **reserve codes in advance** — more on that in the tips & tricks 
 
 Be sure to **save the following codes**:
 
-- **Master Code** — to control the quiz
+- **Quizmaster code** — to control the quiz
 - **Jury Code** — for manual score adjustments
 - **Regie Code** — to control visual and technical elements
 
@@ -88,10 +88,10 @@ When ready, click **‘Load quiz’**, wait for assets to load, and then click *
 
 ## 👤 Hosting with a Single game code
 
-With the **Single Game Code** mode:
+With the **Single game code** scheme:
 
-- You’ll receive the Master, Jury, and Regie codes, plus one Game Code for players.
-- The Game Code appears on the main screen — **display or stream it to your audience**.
+- You’ll receive the quizmaster, jury, and regie codes, plus one game code for players.
+- The game code appears on the game screen — **display or stream it to your audience**.
 - Players can join any time until your active seat limit is reached.
 
 Once your players are in:

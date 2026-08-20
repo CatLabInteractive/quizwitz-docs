@@ -43,13 +43,13 @@ Customize how the question behaves during gameplay:
 
 ---
 
-### 🎤 Presenter content
+### 🎤 Quizmaster content
 
-These fields control what appears on the Quizmaster App and big screen:
+These fields control what appears on the Quizmaster App and game screen:
 
-- **Big screen – Question feedback** — Shown to all players after feedback is revealed
-- **Presenter – Long question** — A version of the question to be read aloud by the host
-- **Presenter – Long feedback** — Text the host can read after revealing the correct answer
+- **Game screen – Question feedback** — Shown to all players after feedback is revealed
+- **Quizmaster – Long question** — A version of the question to be read aloud by the quizmaster
+- **Quizmaster – Long feedback** — Text the quizmaster can read after revealing the correct answer
 
 > 📝 These fields help make live presentations feel dynamic and polished.
 
@@ -69,7 +69,7 @@ You can enhance questions with images, video, or audio. Each attachment can be s
 You can add **multiple attachments** in each slot.
 
 > ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** the quizmaster can choose which attachment to display at each moment.  
-> 🎮 **In regular games:** all attachments in a given slot are shown at once.
+> 🎮 **In games without a quizmaster (Party Game, Conference mode, Single player):** all attachments in a given slot are shown at once.
 
 📘 Learn more about supported file types, timing tips, and limitations in the [attachments guide](../editor/006-attachments.md).
 

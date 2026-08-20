@@ -1,6 +1,6 @@
 ---
 id: round-types
-name: Round types
+title: Round types
 ---
 
 # Round types
@@ -18,10 +18,10 @@ In quizzes, you can change the round type in the **Round type** select field at 
 
 These rounds offer a bit more interactivity than simple ask-and-answer questions.
 
-- [Piece of pie](021-piece-of-pie.md)
+- [Piece of Pie](021-piece-of-pie.md)
 - [Multiquestion](022-multiquestion.md)
 - [Strike](023-strike.md)
-- [Dealer's choice](024-dealers-choice.md)
+- [Dealer's Choice](024-dealers-choice.md)
 
 ## 🍺 Traditional
 
@@ -46,5 +46,5 @@ These round types do not contain any questions — but instead influence the out
 
 In these round types, you can select specific **departments** that play against other departments.
 
-- [Department — Dealer's choice](070-departments-dealers-choice.md)
+- [Department — Dealer's Choice](070-departments-dealers-choice.md)
 - [Department — Elimination](071-departments-elimination.md)

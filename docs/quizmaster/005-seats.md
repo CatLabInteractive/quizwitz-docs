@@ -13,7 +13,7 @@ QuizWitz PRO games require **active seats** to connect players. Seats are a flex
 
 - Each connected **player or team** in a PRO game requires **1 active seat**.
 - You can host games with **individual players** or **teams sharing one device** — each counts as one seat.
-- **Regular (non-PRO) games** do **not** require seats and are ideal for casual play with friends or family.
+- **Party Game and Single player games** do **not** require seats and are ideal for casual play with friends or family.
 
 ---
 
@@ -49,7 +49,7 @@ For one-time or occasional events, you can activate **pay-as-you-go seats** inst
 
 - Seats are activated using **QuizWitz credits**, which you can buy in advance.
 - **Volume discounts** are available when buying credits in bulk.
-- Each **premium license** includes a **value of free credits**.
+- Each **PRO license** includes a **value of free credits**.
 - If you're unsure how many players will join:
     - You can **wait until everyone connects** before activating seats.
     - Or, activate more seats than needed — **unused seats are automatically refunded** in credits after they expire.

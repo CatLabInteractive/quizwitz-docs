@@ -14,7 +14,7 @@ Did your game freeze? Did the tab close by accident? [**QuizWitz Live**](quizmas
 
 If your game crashes, hangs, or is interrupted for any reason — whether it’s a browser issue, system restart, or accidental tab closure — you can resume the session easily.
 
-Just **reopen the same browser tab or game screen** you were using to display the **main game view**. This is the screen you project or stream to your audience.
+Just **reopen the same browser tab** you were using to display the **game screen**. This is the screen you project or stream to your audience.
 
 When it loads:
 

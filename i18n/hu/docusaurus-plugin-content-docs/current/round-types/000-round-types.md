@@ -1,6 +1,6 @@
 ---
 id: round-types
-name: Fordulótípusok
+title: Fordulótípusok
 ---
 
 # Fordulótípusok

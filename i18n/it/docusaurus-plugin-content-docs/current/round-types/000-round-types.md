@@ -1,6 +1,6 @@
 ---
 id: round-types
-name: Tipi di round
+title: Tipi di round
 ---
 
 # Tipi di round

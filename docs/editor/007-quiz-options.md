@@ -74,7 +74,7 @@ Generates share links or embed code with advanced game settings.
 
 ## 📜 Quizmaster copy
 
-Add custom presenter instructions for:
+Add custom quizmaster instructions for:
 
 - **Quiz introduction**
 - **Quiz outro**
