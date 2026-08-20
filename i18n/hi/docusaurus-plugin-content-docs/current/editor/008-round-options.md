@@ -58,7 +58,7 @@ QuizWitz सभी खिलाड़ियों के लिए चीज़�
 
 ## 📜 Quizmaster निर्देश
 
-आप कस्टम **राउंड परिचय टेक्स्ट** जोड़ सकते हैं, जो राउंड की शुरुआत में सिर्फ़ [Quizmaster ऐप](../quizmaster/001-introduction.md) पर दिखाई देगा। इसे प्रेज़ेंटर को ब्रीफ़ करने या निजी टच जोड़ने के लिए इस्तेमाल करें।
+You can add a custom **round introduction text** that will appear only on the [Quizmaster App](../quizmaster/001-introduction.md) at the start of the round. Use this to brief the quizmaster or add a personal touch.
 
 ---
 
