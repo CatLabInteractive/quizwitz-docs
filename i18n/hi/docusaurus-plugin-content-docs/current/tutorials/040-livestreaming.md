@@ -7,7 +7,7 @@ title: लाइवस्ट्रीम क्विज़
 
 QuizWitz Live के साथ, **Twitch**, **YouTube Live**, या **Facebook Live** जैसे प्लेटफ़ॉर्म पर पूरी तरह इंटरैक्टिव लाइवस्ट्रीम क्विज़ होस्ट करना आसान है — बड़े दर्शकों के लिए भी। यह गाइड आपको सेटअप, देरी सँभालने और प्रेज़ेंटेशन की बेहतरीन प्रैक्टिसेज़ के बारे में बताती है।
 
-> 🧭 अगर आप Quizmaster app में नए हैं, तो [**Quizmaster startup guide**](../quizmaster/002-startup.md) से शुरू करें।
+> 🧭 If you're new to the Quizmaster App, start with the [**Quizmaster startup guide**](../quizmaster/002-startup.md).
 
 ---
 
@@ -15,9 +15,9 @@ QuizWitz Live के साथ, **Twitch**, **YouTube Live**, या **Facebook 
 
 quizmaster आपके इवेंट का दिल होता है। वे गति नियंत्रित करते हैं, सवाल पेश करते हैं, और आपके दर्शकों को जोड़े रखते हैं।
 
-गेम चलाने के लिए **Quizmaster app** का इस्तेमाल करें। क्विज़ एडिटर से **QuizWitz Live शुरू करें** पर क्लिक करके QuizWitz Live लॉन्च करें।
+Use the **Quizmaster App** to run the game. क्विज़ एडिटर से **QuizWitz Live शुरू करें** पर क्लिक करके QuizWitz Live लॉन्च करें।
 
-> 💡 Quizmaster app एक **वेब ऐप** है — कोई इंस्टॉलेशन नहीं चाहिए। बस अपने प्रेज़ेंटेशन डिवाइस पर [**quizwitz.tv**](https://quizwitz.tv) पर जाएँ और **Master Code** डालें।
+> 💡 The Quizmaster App is a **web app** — there’s no installation. Just go to [**quizwitz.tv**](https://quizwitz.tv) on your quizmaster device and enter the **quizmaster code**.
 
 हम **टैबलेट या स्मार्टफ़ोन** इस्तेमाल करने की सलाह देते हैं ताकि quizmaster शो के दौरान आराम से घूम सके।
 
@@ -25,16 +25,16 @@ quizmaster आपके इवेंट का दिल होता है। 
 
 ## 🧩 सही गेम मोड चुनना
 
-QuizWitz Live शुरू करते समय, आपसे एक मोड चुनने को कहा जाएगा:
+When starting QuizWitz Live, you’ll be asked to choose how players connect:
 
-- **रेगुलर मोड** — हर प्लेयर या टीम को एक यूनिक कोड मिलता है। पहले से रजिस्टर किए गए टीम इवेंट्स के लिए उपयोगी।
-- **ऐड-हॉक मोड** — सभी प्लेयर्स के लिए एक साझा Game Code। खुले रजिस्ट्रेशन वाली लाइवस्ट्रीम्स के लिए सबसे अच्छा।
+- **Team codes** — Players or teams each receive a unique code. पहले से रजिस्टर किए गए टीम इवेंट्स के लिए उपयोगी।
+- **Single game code** — One shared game code for all players. खुले रजिस्ट्रेशन वाली लाइवस्ट्रीम्स के लिए सबसे अच्छा।
 
-> लाइवस्ट्रीम्स के लिए, हमेशा **ऐड-हॉक मोड** चुनें और **ऐड-हॉक गेम शुरू करें** पर क्लिक करें।
+> For livestreams, always choose **Single game code** and click _Start ad-hoc game_.
 
-क्विज़ लोड हो जाने पर, Quizmaster app यह दिखाएगा:
+Once the quiz loads, the Quizmaster App will display:
 
-- **Master Code** — quizmaster के लिए
+- **Quizmaster code** — for the quizmaster
 - **Jury Code** — ओपन सवालों की समीक्षा के लिए
 - **Regie Code** — विज़ुअल्स/ऑडियो नियंत्रित करने के लिए
 - **Game Code** — प्लेयर्स के शामिल होने के लिए
@@ -53,7 +53,7 @@ QuizWitz Live शुरू करते समय, आपसे एक मोड
 अगर आप Zoom या Google Meet जैसे **मीटिंग सॉफ़्टवेयर** इस्तेमाल कर रहे हैं:
 
 - बस अपनी स्क्रीन शेयर करें
-- Quizmaster app में **शुरू करें** दबाएँ
+- Press **Start** in the Quizmaster App
 - प्लेयर्स लगभग रियल टाइम में भाग ले सकते हैं
 
 **Twitch, YouTube Live, या Facebook Live** के लिए, आपको **स्ट्रीमिंग देरी** (यानी ट्रांसकोडिंग देरी) महसूस होगी।
@@ -64,16 +64,16 @@ QuizWitz Live शुरू करते समय, आपसे एक मोड
 
 ## ⏱️ QuizWitz प्लेयर देरी सेट करना
 
-स्ट्रीम देरी की भरपाई के लिए, Jury app में **प्लेयर इंटरैक्शन देरी** इस्तेमाल करें।
+To compensate for stream delay, use the **player interaction delay** in the Jury App.
 
 ऐसे करें:
 
 1. अपना स्ट्रीम प्रीव्यू शुरू करें — अभी लाइव जाने की ज़रूरत नहीं है
-2. [**catlab.tv**](https://catlab.tv) पर अपना Jury Code डालकर **Jury app** खोलें
+2. Open the **Jury App** by entering your Jury Code at [**quizwitz.tv**](https://quizwitz.tv)
 3. **गेम कंट्रोल** पर जाएँ
 4. अपनी लाइवस्ट्रीम किसी दूसरी विंडो में, आवाज़ के साथ खोलें
 5. स्टॉपवॉच इस्तेमाल करें
-6. Jury app में **बज़र** बटन दबाएँ और टाइमिंग शुरू करें
+6. In the Jury App, hit the **Buzzer** button and start timing
 7. जब लाइवस्ट्रीम पर बज़र सुनाई दे, तो स्टॉपवॉच रोक दें
 8. देरी को (सेकंड में) ऊपर की ओर राउंड करें और उसे **प्लेयर इंटरैक्शन देरी** फ़ील्ड में डालें
 9. **सेटिंग कन्फ़र्म करें** पर क्लिक करें
@@ -87,14 +87,14 @@ QuizWitz Live शुरू करते समय, आपसे एक मोड
 जब देरी सेट हो जाए और आपके प्लेयर्स कनेक्ट हो जाएँ:
 
 - अपनी Twitch स्ट्रीम शुरू करें
-- **क्विज़ लॉन्च** करने के लिए Quizmaster app का इस्तेमाल करें
+- Use the Quizmaster App to **launch the quiz**
 - QuizWitz बैकग्राउंड में टाइमिंग संभाल लेगा — सवालों के बीच रुकने की ज़रूरत नहीं है
 
 ---
 
 ## 💡 लाइवस्ट्रीम प्रेज़ेंटेशन टिप्स
 
-- **quizmaster को देरी वाली स्ट्रीम न देखने दें** — अजीब विरामों से बचने के लिए उन्हें सिर्फ़ लाइव Quizmaster app इस्तेमाल करना चाहिए।
+- **Do not let the quizmaster watch the delayed stream** — they should use only the live Quizmaster App to avoid awkward pauses.
 
 - दर्शकों से बातचीत करने के लिए, किसी अलग स्क्रीन पर **लाइव कमेंट्स** मॉनिटर करें — वीडियो फ़ीड नहीं।
 
@@ -106,7 +106,7 @@ QuizWitz Live शुरू करते समय, आपसे एक मोड
 
 - और टूल्स ढूँढ रहे हैं? [**regie.catlab.eu**](https://regie.catlab.eu) पर जाएँ — ऑटोमेशन, सीन स्विचिंग, इफ़ेक्ट्स और बहुत कुछ के लिए अतिरिक्त यूटिलिटीज़ वाला एक केंद्रीय हब।
 
-> सभी टूल्स के लिए Quizmaster app से मिला आपका **Regie Code** चाहिए।
+> All tools require your **Regie Code** from the Quizmaster App.
 
 ---
 
