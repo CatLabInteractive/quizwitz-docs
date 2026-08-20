@@ -9,7 +9,7 @@ Eine Aktivitätsrunde erlaubt es dir, von den klassischen Quizfragen zu einem kr
 
 ---
 
-![Hauptbildschirm für die Aktivitätsrunde](/images/round-modes/activity-main-screen.png)
+![Spielbildschirm für Aktivitätsrunde](/images/round-modes/activity-main-screen.png)
 
 ---
 
@@ -33,7 +33,7 @@ Eine Aktivitätsrunde erlaubt es dir, von den klassischen Quizfragen zu einem kr
 
 - **Duell-Tools:** Der quizmaster kann während der Aktivität Schnellaktionen für Buzzer, Gong, Glocken und Timer nutzen.
 - **Individuelle Punkte:** Punkte können für jedes Team manuell eingetragen werden, oder du kannst mit Schnellaktionen einen Gewinner auswählen.
-- **Anhänge:** Füge Bilder, Audio oder Video hinzu, um die Aktivität zu erklären oder Beispiele zu zeigen. Der quizmaster kann diese während der Aktivität auf dem Hauptbildschirm anzeigen.
+- **Anhänge:** Füge Bilder, Audio oder Video hinzu, um die Aktivität zu erklären oder Beispiele zu zeigen. Der Quizmaster kann diese während der Aktivität auf dem Spielbildschirm anzeigen.
 
 ---
 
