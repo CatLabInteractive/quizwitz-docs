@@ -58,7 +58,7 @@ Diese Punkteoptionen findest du im Optionen-Panel der Runde beim Bearbeiten eine
 
 ## 📜 Quizmaster-Anweisungen
 
-Du kannst einen individuellen **Rundeneinleitungstext** hinzufügen, der nur in der [Quizmaster-App](../quizmaster/001-introduction.md) zu Beginn der Runde erscheint. Verwende dies, um den Moderator zu briefen oder eine persönliche Note hinzuzufügen.
+Du kannst einen benutzerdefinierten **runden Einführung** hinzufügen, der nur in der [Quizmaster App](../quizmaster/001-introduction.md) zu Beginn der Runde angezeigt wird. Verwende dies, um den Quizmaster zu kürzen oder eine persönliche Note hinzuzufügen.
 
 ---
 
