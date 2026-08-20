@@ -11,19 +11,19 @@ title: Entracte
 
 ## 📝 Comment ça marche
 
-- Pendant un entracte, l'écran principal du jeu est en pause et un minuteur est affiché.
-- **Dans les jeux de conférence et de fête :**  
-  L'entracte se termine lorsque quelqu'un appuie sur **Entrée** sur l'écran principal du jeu.
+- Lors d'une intermission, l'écran de jeu est mis en pause et un minuteur est affiché.
+- **En mode Conférence et Parties :**  
+  L'intermission se termine quand quelqu'un appuie sur **Entrée** sur l'écran de jeu.
 - **Dans les parties QuizWitz Live :**  
   Le quizmaster termine l'entracte depuis son appareil (tablette ou smartphone).  
-  L'application Quizmaster affiche un minuteur pour que l'hôte puisse voir la durée de l'entracte.
+  L'appli Quizmaster affiche un chronomètre pour que le quizmaster puisse voir la durée de l'intermission.
 
 ---
 
 ## 🖼️ Pièces jointes
 
 - Vous pouvez télécharger des images, logos ou vidéos dans les paramètres du tour.
-- Pendant l'entracte, ces pièces jointes seront affichées dans un carrousel sur l'écran principal—super pour les logos de sponsors, messages ou vidéos promotionnelles.
+- Au cours de l’entracte, ces pièces jointes seront affichées dans un carrousel sur l’écran du jeu, ce qui est idéal pour les logos des commanditaires, les messages ou les vidéos promotionnelles.
 - Les pièces jointes tourneront en boucle pendant toute la durée de la pause.
 
 ---
