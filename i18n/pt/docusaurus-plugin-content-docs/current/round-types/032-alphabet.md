@@ -29,7 +29,7 @@ e os jogadores devem associar as suas respostas aos campos etiquetados corretos.
 
 - À medida que as perguntas são feitas, os jogadores veem uma lista de campos de resposta — um para cada pergunta.
 - **Os campos de resposta não estão na ordem do quiz** — em vez disso, são ordenados alfabeticamente por etiqueta.
-- Os jogadores devem associar suas respostas aos campos etiquetados corretos (por exemplo, a resposta para a pergunta "Bear" deve ser inserida sob a etiqueta "B").
+- Os jogadores devem associar as suas respostas aos campos etiquetados corretos (por exemplo, a resposta para a pergunta "Bear" deve ser inserida sob a etiqueta "B").
 - As respostas podem ser alteradas a qualquer momento até a ronda terminar — os jogadores podem trocar respostas entre os campos quando percebem os seus erros.
 
 ---
