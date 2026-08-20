@@ -58,7 +58,7 @@ Tyhle možnosti bodování najdeš v panelu možností kola při úpravě kola.
 
 ## 📜 Pokyny pro quizmaster
 
-Můžeš přidat vlastní **úvodní text kola**, který se na začátku kola zobrazí jen v [aplikaci Quizmaster](../quizmaster/001-introduction.md). Použij to k instruktáži moderátora nebo k přidání osobního tónu.
+Můžete přidat vlastní **kolo úvodu**, které se zobrazí pouze na [Quizmaster App](../quizmaster/001-introduction.md) na začátku kola. Pomocí tohoto nástroje můžete krátit kvíz nebo přidat osobní kontakt.
 
 ---
 
