@@ -20,9 +20,9 @@ Os jogadores devem tentar adivinhar um número (por exemplo, “Quantos feijões
 
 ## 💡 Dicas para perguntas de desempate
 
-- **Peça um número obscuro:** Escolha uma pergunta cuja resposta não seja muito conhecida e que dificilmente será adivinhada exatamente.
-- **Incentive palpites únicos:** Garanta que a pergunta tenha um intervalo amplo de possibilidades, para que cada jogador provavelmente insira uma resposta diferente.
-- **Use apenas para empates:** Os pontos sombra são usados apenas como critério de desempate e não afetarão a classificação principal do jogo.
+- **Pede um número obscuro:** Escolhe uma pergunta cuja resposta não seja muito conhecida e que dificilmente será adivinhada com exatidão.
+- **Incentiva palpites únicos:** Garante que a pergunta tem um intervalo amplo de possibilidades, para que cada jogador provavelmente insira uma resposta diferente.
+- **Usa apenas para empates:** Os pontos sombra são usados apenas como critério de desempate e não afetam a classificação principal do jogo.
 
 ---
 
