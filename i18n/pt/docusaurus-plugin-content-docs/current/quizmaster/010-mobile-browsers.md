@@ -13,7 +13,7 @@ O QuizWitz é otimizado para uso em **computadores desktop e portáteis**. Embor
 
 ## ⚠️ Se você precisar usar um dispositivo móvel...
 
-Se usar um celular ou tablet for sua única opção, siga estes passos para minimizar o risco de problemas técnicos:
+Se usar um telemóvel ou tablet for a tua única opção, segue estes passos para minimizar o risco de problemas técnicos:
 
 ### 🔋 Desative os recursos de economia de energia
 
