@@ -5,14 +5,14 @@ title: Eliminazione
 
 # 🚫 Eliminazione
 
-**Eliminazione** è un evento speciale che rimuove automaticamente giocatori o squadre dal gioco in base alla loro classifica o al loro punteggio attuale.  
+**Eliminazione** è un evento speciale che rimuove automaticamente giocatori o team dal gioco in base alla loro classifica o al loro punteggio attuale.  
 È uno strumento utile per tornei, playoff o per aggiungere colpi di scena drammatici negli eventi live!
 
 ---
 
 ## 📝 Come funziona
 
-- Quando viene attivato, l'evento di eliminazione valuta le classifiche dei giocatori e **butta fuori giocatori o squadre** in base alla regola che hai scelto.
+- Quando viene attivato, l'evento di eliminazione valuta le classifiche dei giocatori e **butta fuori giocatori o team** in base alla regola che hai scelto.
 - L'eliminazione non è un tipo di round con domande, ma un filtro automatico tra un round e l'altro.
 
 ---
