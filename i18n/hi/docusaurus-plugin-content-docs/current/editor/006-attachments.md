@@ -58,6 +58,6 @@ title: अटैचमेंट
 कुछ स्लॉट में **कई अटैचमेंट** जोड़ने की सुविधा होती है। इनका व्यवहार गेम मोड पर निर्भर करता है:
 
 > ⚡ **[QuizWitz Live (PRO)](../quizmaster/001-introduction.md) में:** quizmaster के पास पूरा कंट्रोल होता है और वह तय कर सकता है कि गेमप्ले के दौरान अटैचमेंट कब दिखाने या छिपाने हैं।  
-> 🎮 **सामान्य गेम में:** किसी स्लॉट के सभी अटैचमेंट **एक साथ** दिखाए जाते हैं।
+> 🎮 **In games without a quizmaster (Party Game, Conference mode, Single player):** All attachments within a slot are shown **simultaneously**.
 
 हर स्लॉट की टाइमिंग और व्यवहार की जानकारी [प्रश्नों](../editor/015-importing-questions.md), [राउंड](../editor/008-round-options.md), और [क्विज़](../editor/007-quiz-options.md) के लिंक किए गए दस्तावेज़ों में मिल सकती है।
