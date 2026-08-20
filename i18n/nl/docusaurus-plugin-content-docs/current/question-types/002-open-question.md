@@ -29,7 +29,7 @@ Open vragen bieden een reeks instellingen die bij je quiz passen:
 - **Meerdere geaccepteerde antwoorden:** Voeg alternatieve spellingen, afkortingen of synoniemen toe voor flexibeler automatisch corrigeren.
 - **Tijdsgebonden scoring:** Beloon snellere antwoorden (zie "Scoring" hieronder).
 - **Forceer automatische correctie:** Schakel dit in om het spel automatisch juiste antwoorden te laten markeren op basis van jouw lijst.
-  - Als dit niet ingeschakeld is (de standaard voor de meeste live spellen), moeten open antwoorden handmatig worden beoordeeld en gescoord met de [Jury app](../quizmaster/004-jury-app.md).
+  - Als deze optie niet is ingeschakeld (de standaard voor de meeste live spellen), moeten open antwoorden handmatig beoordeeld en gescoord worden met de [Jury App](../quizmaster/004-jury-app.md).
 
 Voor meer over deze opties, zie [vragen schrijven](../editor/005-writing-questions.md).
 
@@ -49,11 +49,11 @@ De scoring bij open vragen is ontworpen om eerlijk te zijn, ook voor langzamere 
 
 ## 🧑‍⚖️ Jury-beoordeling in QuizWitz Live
 
-In **QuizWitz Live** vereisen open vragen meestal een handmatige beoordeling met de [Jury app](../quizmaster/004-jury-app.md):
+In **QuizWitz Live** vereisen open vragen meestal een handmatige beoordeling met de [Jury App](../quizmaster/004-jury-app.md):
 
-- De Jury app laat juryleden open antwoorden accepteren, afwijzen of de scoring aanpassen.
+- Met de Jury App kunnen juryleden open antwoorden goedkeuren, afkeuren of de score ervan aanpassen.
 - Er gebeurt fonetische en alternatieve automatische correctie, maar menselijk oordeel is essentieel voor eerlijke score en creativiteit.
-- Voor volledige instructies en functies, zie de [Jury app documentatie](../quizmaster/004-jury-app.md).
+- Voor de volledige instructies en functies, zie de [documentatie van de Jury App](../quizmaster/004-jury-app.md).
 
 ---
 
