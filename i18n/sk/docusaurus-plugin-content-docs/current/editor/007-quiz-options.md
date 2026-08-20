@@ -75,9 +75,9 @@ Vygeneruje odkazy na zdieľanie alebo kód na vloženie s pokročilými nastaven
 
 ## 📜 Kópia pre quizmaster
 
-Pridaj vlastné pokyny pre moderátora pre:
+Add custom quizmaster instructions for:
 
 - **Úvod kvízu**
 - **Záver kvízu**
 
-Tieto sú viditeľné v aplikácii [Quizmaster](../quizmaster/001-introduction.md) pri používaní QuizWitz Live.
+These are visible on the [Quizmaster App](../quizmaster/001-introduction.md) when using QuizWitz Live.

@@ -1,11 +1,11 @@
 ---
 id: dealers-choice
-title: Choix du donneur
+title: Choix du Marchand
 ---
 
-# 🃏 Choix du donneur
+# 🃏 Choix du Donneur
 
-Le tour **Choix du donneur** dans QuizWitz ajoute une touche stratégique à votre quiz.
+La manche du **Choix du concessionnaire** à QuizWitz ajoute une touche stratégique à votre quiz.
 Un des joueurs peut **choisir la catégorie de la prochaine question**, ce qui lui donne un avantage potentiel — et peut-être un bonus ! Voici comment le configurer et y jouer :
 
 ---
@@ -21,7 +21,7 @@ Dans ce tour, **un joueur devient le "donneur"** et choisit la prochaine catégo
 
 ## 🏷️ Attribution des catégories aux questions
 
-Chaque question dans le tour Choix du donneur nécessite une **étiquette unique**, qui sert de catégorie visible et sélectionnable par le donneur.
+Chaque question dans la manche Choix du Concessionnaire a besoin d'une **étiquette unique**, qui agit comme la catégorie que le concessionnaire voit et choisit.
 
 Par exemple :
 
@@ -73,5 +73,5 @@ Avant le début du tour, QuizWitz détermine le donneur selon l’une des option
 
 ---
 
-Le tour Choix du donneur encourage l’interaction et donne aux joueurs un peu de contrôle, tout en récompensant les réponses rapides et correctes. C’est un excellent moyen de maintenir l’engagement de tous !
+La manche du Choix du Concessionnaire encourage l’interaction et donne aux joueurs un peu de contrôle, tout en récompensant des réponses rapides et correctes. C’est un excellent moyen de maintenir l’engagement de tous !
 

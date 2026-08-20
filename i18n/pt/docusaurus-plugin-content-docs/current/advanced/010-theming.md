@@ -31,10 +31,10 @@ Todos os designs personalizados devem incluir o logo QuizWitz.
 
 ## 🖥️ Visão geral das telas
 
-| Etapa                                                          | Tela principal                                                                                                       | Dispositivo do jogador (tablet/celular)            |
+| Etapa                                                          | Tela de jogo                                                                                                         | Dispositivo do jogador (tablet/celular)            |
 | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | Tela de conexão                                                |                                                                                                                      |                                                                       |
-| Tela de espera                                                 | Logo do quiz. Exibido enquanto o apresentador está lendo a pergunta.                 | Uma frase incentivando o jogador a ouvir com atenção. |
+| Tela de espera                                                 | Logo do quiz. Exibido enquanto o testador está lendo a pergunta.                     | Uma frase incentivando o jogador a ouvir com atenção. |
 | Introdução do jogo                                             | Animação antes do jogo.                                                                              | Tela de espera.                                       |
 | Introdução da rodada                                           | Animação antes de cada rodada.                                                                       | Tela de espera.                                       |
 | Perguntas                                                      |                                                                                                                      |                                                                       |

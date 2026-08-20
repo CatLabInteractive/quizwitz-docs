@@ -27,7 +27,7 @@ Prima di iniziare, assicurati di avere:
 
 2. Viene visualizzata una schermata di caricamento nero che mostra una percentuale. Questo richiede solo pochi secondi.
 
-3. Una volta caricato, appare la schermata del quiz. Se richiesto di accedere, fare clic su **Login** — verrà aperta una seconda scheda.
+3. Una volta caricato, appare la schermata di gioco. Se richiesto di accedere, fare clic su **Login** — verrà aperta una seconda scheda.
    - Clicca su **Accedi** nella pagina di accesso e inserisci le credenziali fornite.
    - Dopo l'accesso, la scheda si chiude automaticamente e il quiz termina il caricamento.
 
@@ -35,7 +35,7 @@ Prima di iniziare, assicurati di avere:
 
 5. Sposta il cursore sullo schermo per mostrare la barra di controllo in basso.  
    Clicca sulla **icona quadrata** a destra per entrare in modalità a schermo intero.  
-   Il quiz è ora pronto a giocare sul display principale.
+   Il quiz è ora pronto a giocare sulla schermata di gioco.
 
 :::tip
 Per uscire dallo schermo intero in qualsiasi momento — per esempio, passare a un'altra finestra — premere **Esc**.
@@ -61,16 +61,16 @@ Una volta che il quiz sarà ricaricato, si ricorderà il vostro login e andare d
 I giocatori si uniscono utilizzando i propri smartphone in uno dei due modi:
 
 - Naviga sul **www.quizwitz.tv** nel loro browser
-- Scansiona il **codice QR** mostrato nella schermata principale
+- Scansiona il **codice QR** mostrato sulla schermata di gioco
 
 Nella schermata di entrata, i giocatori:
 
-1. Inserisci il **codice a 8 cifre** visualizzato sul display principale.
+1. Inserisci il **codice a 8 cifre** mostrato nella schermata di gioco.
 2. Compila il loro **nome e indirizzo e-mail**.
 3. Controlla la **casella privacy**.
 4. Tocca **READY**.
 
-Una volta entrati, i giocatori vedono un messaggio in attesa sul loro telefono. La schermata principale mostra quanti giocatori sono connessi.
+Una volta entrati, i giocatori vedono un messaggio in attesa sul loro telefono. La schermata di gioco mostra quanti giocatori sono connessi.
 
 :::note
 I giocatori possono partecipare in qualsiasi momento finché il numero massimo di giocatori non è stato raggiunto.
@@ -87,7 +87,7 @@ Inizia un conto alla rovescia di 5 secondi e poi il quiz inizia automaticamente.
 
 ## Come funziona il quiz
 
-- Ogni domanda appare sulla schermata principale con il testo della domanda, quattro opzioni di risposta e un'immagine.
+- Ogni domanda appare sulla schermata di gioco con il testo della domanda, quattro opzioni di risposta e un'immagine.
 - I giocatori vedono la stessa domanda sul loro telefono e tocca una delle quattro opzioni.
 - I giocatori hanno **30 secondi** per rispondere. Il timer è mostrato come una barra bianca nella parte inferiore dello schermo.
 - Non appena tutti i giocatori hanno risposto (o scadrà il tempo), la risposta corretta viene rivelata sullo schermo come un grafico a torta che mostra come le risposte sono state distribuite.

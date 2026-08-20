@@ -13,7 +13,7 @@ Hry QuizWitz PRO vyžadují pro připojení hráčů **aktivní místa**. Místa
 
 - Každý připojený **hráč nebo tým** ve hře PRO vyžaduje **1 aktivní místo**.
 - Můžeš pořádat hry s **jednotlivými hráči** nebo **týmy sdílejícími jedno zařízení** — každý hráč nebo tým se počítá jako jedno místo.
-- **Běžné hry (ne-PRO)** místa **nevyžadují** a jsou ideální pro pohodové hraní s přáteli nebo rodinou.
+- **Party Hra a hry jednoho hráče** **nepotřebují** místa a jsou ideální pro neformální hrát s přáteli nebo rodinou.
 
 ---
 
@@ -49,7 +49,7 @@ Pro jednorázové nebo občasné akce můžeš místo nákupu licence aktivovat 
 
 - Místa se aktivují pomocí **kreditů QuizWitz**, které si můžeš koupit předem.
 - Při nákupu kreditů ve větším množství jsou k dispozici **množstevní slevy**.
-- Každá **prémiová licence** zahrnuje **hodnotu bezplatných kreditů**.
+- Každá **PRO licence** obsahuje **hodnotu bezplatných kreditů**.
 - Pokud si nejsi jistý, kolik hráčů se připojí:
   - Před aktivací míst můžeš **počkat, až se všichni připojí**.
   - Nebo aktivuj více míst, než potřebuješ — **nevyužitá místa se po vypršení platnosti automaticky vrátí** v kreditech.

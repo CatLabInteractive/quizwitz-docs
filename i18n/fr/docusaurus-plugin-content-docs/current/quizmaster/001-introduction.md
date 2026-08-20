@@ -20,7 +20,7 @@ Vous pouvez lancer QuizWitz Live directement depuis l'éditeur de quiz en cliqua
 
 Pour assurer une expérience de quiz fluide et professionnelle, assurez-vous d'avoir :
 
-- **Un grand écran ou un projecteur** affichant l'écran principal du jeu — ou un **livestream** accessible à tous les joueurs
+- **Un grand écran ou un projecteur** montrant l'écran du jeu — ou un **Liveream** accessible à tous les joueurs
 - **Une tablette ou un ordinateur portable** pour que le quizmaster contrôle le jeu et lise le script à voix haute
 - **Un ordinateur portable ou une tablette** pour le jury (si nécessaire) pour évaluer les réponses ouvertes
 - **Un smart device par joueur ou équipe** (par ex. smartphone ou tablette) pour soumettre les réponses

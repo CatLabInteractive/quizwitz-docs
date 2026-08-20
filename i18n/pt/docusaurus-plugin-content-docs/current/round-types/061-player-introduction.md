@@ -5,13 +5,13 @@ title: Apresentação dos jogadores
 
 # 🙋‍♂️ Apresentação dos jogadores
 
-A **apresentação dos jogadores** é um evento especial que simplesmente mostra os **nomes e emojis selecionados de todos os jogadores ou equipes** na tela principal do jogo.
+**Introdução do jogador** é um evento especial que simplesmente exibe os **nomes e emojis selecionados de todos os jogadores ou equipes** na tela do jogo.
 
 ---
 
 ## 📝 Como funciona
 
-- Neste ponto do quiz, o **nome** e o **emoji** escolhido de cada participante vão aparecer na tela grande.
+- Nesse ponto do questionário, o **nome** de cada participante e o **emoji** escolhido irão aparecer na tela do jogo.
 - Isso costuma ser usado no início de um evento, depois de uma pausa ou antes de uma rodada final para apresentar ou celebrar os participantes.
 
 ---

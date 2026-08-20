@@ -1,11 +1,11 @@
 ---
 id: dealers-choice
-title: Избор на дилърите
+title: Dealer's Choice
 ---
 
-# 🃏 Избор на дилъра
+# 🃏 Dealer's Choice
 
-Рундът **Избор на дилърите** в QuizWitz добавя стратегически обрат към твоя куиз.
+The **Dealer’s Choice** round in QuizWitz adds a strategic twist to your quiz.
 Един от играчите може да **избере категорията на следващия въпрос**, което му дава потенциално
 предимство — а може би и бонус! Ето как да го настроиш и играеш:
 
@@ -22,7 +22,7 @@ title: Избор на дилърите
 
 ## 🏷️ Задаване на категории към въпросите
 
-Всеки въпрос в рунда Избор на дилърите се нуждае от **уникален етикет**, който служи като категорията, която дилърът вижда и от която избира.
+Each question in the Dealer’s Choice round needs a **unique label**, which acts as the category the dealer sees and selects from.
 
 Например:
 
@@ -74,5 +74,5 @@ title: Избор на дилърите
 
 ---
 
-Рундът Избор на дилърите насърчава взаимодействието и дава на играчите малко контрол, като същевременно продължава да награждава бързите и правилни отговори. Това е страхотен начин да държиш всички ангажирани!
+The Dealer’s Choice round encourages interaction and gives players a bit of control, while still rewarding quick and correct answers. Това е страхотен начин да държиш всички ангажирани!
 

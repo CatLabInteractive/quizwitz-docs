@@ -58,7 +58,7 @@ Ces options de scoring se trouvent dans le panneau d’options du round lorsqu�
 
 ## 📜 Instructions pour le quizmaster
 
-Vous pouvez ajouter un **texte d’introduction de manche** personnalisé qui n’apparaîtra que sur l’application [Quizmaster](../quizmaster/001-introduction.md) au début de la manche. Utilisez ceci pour informer le présentateur ou ajouter une touche personnelle.
+Vous pouvez ajouter un **texte d'introduction d'arronde** personnalisé qui n'apparaîtra que sur l'[application de questionnaire](../quizmaster/001-introduction.md) au début de la manche. Utilisez ceci pour informer le quizmaster ou ajouter une touche personnelle.
 
 ---
 

@@ -53,7 +53,7 @@ Il modo più veloce per avviare il tuo quiz da conferenza:
 1. Clicca su **Gioca il quiz**.
 2. Seleziona **Avvia modalità conferenza**.
 
-In questa modalità, i giocatori usano i loro telefoni per collegarsi al link del gioco sulla schermata principale.  
+In questa modalità, i giocatori usano i loro telefoni per connettersi al link di gioco sulla schermata di gioco.  
 Quando tutti sono pronti, l’host dello stand preme Invio — e il gioco parte automaticamente.  
 Al termine del gioco, premendo Invio torni subito alla schermata di connessione per il gruppo successivo.
 

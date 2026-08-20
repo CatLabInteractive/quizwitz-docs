@@ -58,6 +58,6 @@ Dit werkt vooral goed bij puzzels of trage onthullingen tijdens intro’s of dra
 Sommige velden laten toe om **meerdere bijlagen** toe te voegen. Hoe ze zich gedragen hangt af van de spelmodus:
 
 > ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** De quizmaster heeft volledige controle en kan tijdens het spel bepalen wanneer bijlagen worden getoond of verborgen.  
-> 🎮 **In reguliere spellen:** Alle bijlagen binnen een slot worden **gelijktijdig getoond**.
+> 🎮 **In spellen zonder quizmaster (Party Game, Conferentiemodus, Single player):** alle bijlagen in een slot worden **tegelijk** getoond.
 
 Details over de timing en het gedrag van elke slot vind je in de gekoppelde documentatie voor [vragen](../editor/015-importing-questions.md), [rondes](../editor/008-round-options.md), en [quizzen](../editor/007-quiz-options.md).

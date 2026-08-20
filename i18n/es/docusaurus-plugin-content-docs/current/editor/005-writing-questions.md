@@ -43,13 +43,13 @@ Personaliza cómo se comporta la pregunta durante el juego:
 
 ---
 
-### 🎤 Contenido para presentador
+### 🎤 Quizmaster content
 
-Estos campos controlan lo que aparece en la App del Quizmaster y en la pantalla grande:
+Estos campos controlan lo que aparece en la aplicación de prueba y en la pantalla de juego:
 
-- **Pantalla grande – Retroalimentación de la pregunta** — Mostrado a todos los jugadores después de revelar retroalimentación
-- **Presentador – Pregunta larga** — Una versión de la pregunta para que la lea el anfitrión en voz alta
-- **Presentador – Retroalimentación larga** — Texto que el anfitrión puede leer después de revelar la respuesta correcta
+- **Pantalla de juego - Comentarios de preguntas** — Mostrar a todos los jugadores después de revelar comentarios
+- **Protomaster - Pregunta larga** — Una versión de la pregunta a leer en voz alta por el cuestionario
+- **Protomaster - Comentarios largos** — Texto que el cuestionario puede leer después de revelar la respuesta correcta
 
 > 📝 Estos campos ayudan a que las presentaciones en vivo se sientan dinámicas y pulidas.
 
@@ -70,7 +70,7 @@ Puedes mejorar las preguntas con imágenes, video o audio. Cada adjunto puede mo
 Puedes agregar **múltiples archivos adjuntos** en cada espacio.
 
 > ⚡ **En [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** el quizmaster puede elegir qué archivo adjunto mostrar en cada momento.  
-> 🎮 **En juegos regulares:** todos los archivos adjuntos en un espacio dado se muestran al mismo tiempo.
+> 🎮 **En juegos sin un cuestionario (Party Game, Conference mode, Single player):** todos los archivos adjuntos en una ranura determinada se muestran a la vez.
 
 📘 Aprende más sobre los tipos de archivo soportados, consejos sobre tiempos y limitaciones en la [guía de archivos adjuntos](../editor/006-attachments.md).
 

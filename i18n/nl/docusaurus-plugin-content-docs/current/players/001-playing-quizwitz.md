@@ -45,14 +45,14 @@ Je kunt items altijd organiseren, spelen of verwijderen. Dit is je persoonlijke 
 
 ## 🧠 Kies een Round-About
 
-Een **Round-About** is een kleine, thematische vragenronde. Het spelen van slechts één geeft je een kort spel met 7 willekeurige vragen.
+Een **Round-About** is een kleine, thematische ronde met vragen — zoals de naam zegt: een ronde _over_ (about) een onderwerp. Het spelen van slechts één geeft je een kort spel met 7 willekeurige vragen.
 
 Om een Round-About in meer detail te bekijken:
 
 - Klik op de **afbeelding**, **titel** of **reactie-icoon**
 - Klik op **Speel** om meteen te beginnen
 
-![QuizWitz round-about details](/images/round-about-details.png)
+![QuizWitz Round-About details](/images/round-about-details.png)
 
 ---
 
@@ -80,7 +80,7 @@ Wanneer je klaar bent:
 
 Kies:
 
-- **Spelmodus** — Single Player of Party Game
+- **Spelmodus** — Single player of Party Game
 - **Welke Round-Abouts** je wilt opnemen in je sessie
 
 QuizWitz zal proberen vragen te vermijden die je al hebt gezien.
@@ -107,11 +107,17 @@ Als je spel begint, kies je je modus:
 
 Speel met vrienden via hun eigen telefoons of tablets:
 
-> 📺 Zorg dat het quizscherm zichtbaar is — gebruik een gedeeld scherm of schermdeling
+> 📺 Zorg dat het spelscherm zichtbaar is — gebruik een gedeeld scherm of deel je scherm
 
 1. Klik op **Start**, en dan **Party Game**
 2. Spelers volgen de instructies op het scherm om mee te doen
 3. Klik op **Start quiz** als iedereen klaar is
+
+Zodra de quiz start, **verloopt het spel automatisch** — vragen verschijnen, timers tellen af en scores worden bijgehouden zonder dat de host iets hoeft te doen.
+
+> ⏸️ Een pauze nodig? Beweeg je muis naar de onderkant van het spelscherm en er verschijnt een **pauzeknop**. Pauzeren is de enige manier om een Party Game te onderbreken.
+>
+> Wil je zelf het tempo van het spel bepalen — en beslissen wanneer elke vraag begint? Dat kan alleen met [**QuizWitz Live**](../quizmaster/001-introduction.md) en de Quizmaster App.
 
 ![QuizWitz start screen](/images/quizwitz-start-screen.png)\
 ![QuizWitz start screen party](/images/quizwitz-start-screen-party.png)\
@@ -121,7 +127,7 @@ Speel met vrienden via hun eigen telefoons of tablets:
 
 ## ⭐ Na het spel
 
-Rating de Round-Abouts die je hebt gespeeld aan het einde. Dit helpt om goede content naar voren te brengen en ondersteunt makers.
+Beoordeel aan het einde de Round-Abouts die je hebt gespeeld. Dit helpt om goede content naar voren te brengen en ondersteunt makers.
 
 ![Beoordeel Round-Abouts na het spel](/images/rate-rounds.png)
 

@@ -75,9 +75,9 @@ title: क्विज़ विकल्प
 
 ## 📜 Quizmaster कॉपी
 
-इनके लिए कस्टम प्रस्तोता निर्देश जोड़ें:
+Add custom quizmaster instructions for:
 
 - **क्विज़ परिचय**
 - **क्विज़ आउट्रो**
 
-QuizWitz Live इस्तेमाल करते समय ये [Quizmaster ऐप](../quizmaster/001-introduction.md) पर दिखते हैं।
+These are visible on the [Quizmaster App](../quizmaster/001-introduction.md) when using QuizWitz Live.

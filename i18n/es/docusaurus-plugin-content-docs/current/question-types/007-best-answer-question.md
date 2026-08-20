@@ -14,17 +14,17 @@ Los puntos se otorgan manualmente por el quizmaster, o —si no hay quizmaster�
 
 - **Los jugadores responden:** Cada jugador escribe su respuesta a la pregunta abierta.
 - **Puntuación:**
-  - En **QuizWitz Live** (con un quizmaster), el anfitrión revisa todas las respuestas y asigna puntos a la(s) mejor(es).
-  - En juegos normales (sin anfitrión), los jugadores votan por la respuesta que consideran mejor. La(s) respuesta(s) con más votos obtienen los puntos.
+  - En **Prueba Witz Live** (con un cuestionario), el cuestionario revisa todas las respuestas y asigna puntos a la(s) mejor(s).
+  - En los juegos sin un cuestionario (modo Party Game, Conference mode), los jugadores votan por la respuesta que piensan que es la mejor. La(s) respuesta(s) con más votos obtienen los puntos.
 
 ---
 
 ## 💡 Consejos para preguntas de mejor respuesta
 
 - Usa preguntas creativas y abiertas que inviten a respuestas originales o divertidas.
-- Para quizzes presenciales o con anfitrión, el quizmaster puede otorgar puntos por creatividad, precisión o humor.
-- En juegos autogestionados, la votación anima a los jugadores a leer las respuestas de los demás y añade un elemento social divertido.
+- En resumen, Witz Live, el investigador puede otorgar puntos por creatividad, exactitud o humor.
+- En los juegos sin un cuestionario, la votación anima a los jugadores a leer las respuestas de los demás y añade un divertido elemento social.
 
 ---
 
-> 📚 Para más detalles sobre cómo funciona la votación o la puntuación manual, consulta la [documentación de la app Jury](../quizmaster/004-jury-app.md).
+> 📚 Para obtener más información sobre cómo funciona la votación o la puntuación manual, consulte la [documentación del Jury App](../quizmaster/004-jury-app.md).

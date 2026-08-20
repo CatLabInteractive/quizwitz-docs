@@ -58,7 +58,7 @@ Ezeket a pontozási beállításokat a kör szerkesztésekor a körbeállításo
 
 ## 📜 Quizmaster utasítások
 
-Hozzáadhatsz egyéni **körbevezető szöveget**, amely csak a [Quizmaster appban](../quizmaster/001-introduction.md) jelenik meg a kör elején. Ezzel eligazíthatod a műsorvezetőt, vagy személyesebb hangulatot adhatsz a körnek.
+You can add a custom **round introduction text** that will appear only on the [Quizmaster App](../quizmaster/001-introduction.md) at the start of the round. Use this to brief the quizmaster or add a personal touch.
 
 ---
 

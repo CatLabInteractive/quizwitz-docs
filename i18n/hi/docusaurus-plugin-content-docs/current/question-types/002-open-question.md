@@ -29,7 +29,7 @@ title: ओपन सवाल
 - **कई स्वीकार किए गए जवाब:** ज़्यादा लचीले ऑटो-करेक्शन के लिए वैकल्पिक स्पेलिंग, संक्षेप या समानार्थी शब्द जोड़ें।
 - **समय-आधारित स्कोरिंग:** तेज़ जवाबों को इनाम दें (नीचे “स्कोरिंग” देखें)।
 - **ऑटोमैटिक करेक्शन फ़ोर्स करें:** इसे चालू करें ताकि गेम आपकी दी गई सूची के आधार पर सही जवाबों को अपने-आप मार्क कर सके।
-  - अगर यह चालू नहीं है (ज़्यादातर लाइव गेम्स के लिए डिफ़ॉल्ट), तो ओपन जवाबों की समीक्षा और स्कोरिंग [Jury app](../quizmaster/004-jury-app.md) का इस्तेमाल करके मैन्युअली करनी होगी।
+  - If not enabled (the default for most live games), open answers must be reviewed and scored manually using the [Jury App](../quizmaster/004-jury-app.md).
 
 इन विकल्पों के बारे में ज़्यादा जानने के लिए, [सवाल लिखना](../editor/005-writing-questions.md) देखें।
 
@@ -49,11 +49,11 @@ title: ओपन सवाल
 
 ## 🧑‍⚖️ QuizWitz Live में जूरी समीक्षा
 
-**QuizWitz Live** में, ओपन सवालों के लिए आम तौर पर [Jury app](../quizmaster/004-jury-app.md) के साथ मैन्युअल समीक्षा की ज़रूरत होती है:
+In **QuizWitz Live**, open questions generally require a manual review with the [Jury App](../quizmaster/004-jury-app.md):
 
-- Jury app जूरी सदस्यों को ओपन जवाब स्वीकार करने, अस्वीकार करने या स्कोरिंग एडजस्ट करने देता है।
+- The Jury App lets jury members accept, reject, or adjust scoring for open answers.
 - फ़ोनेटिक और वैकल्पिक मैचिंग मदद करती है, लेकिन निष्पक्ष स्कोरिंग और क्रिएटिविटी के लिए इंसानी निर्णय ज़रूरी है।
-- पूरे निर्देशों और फ़ीचर्स के लिए, [Jury app डॉक्यूमेंटेशन](../quizmaster/004-jury-app.md) देखें।
+- For full instructions and features, see the [Jury App documentation](../quizmaster/004-jury-app.md).
 
 ---
 

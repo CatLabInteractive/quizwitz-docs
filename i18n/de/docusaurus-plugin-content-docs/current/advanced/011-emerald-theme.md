@@ -1,6 +1,6 @@
 ---
 id: emerald-theme
-title: Emerald Thema
+title: Smaragdthema
 ---
 
 # Emerald Thema

@@ -1,11 +1,11 @@
 ---
 id: dealers-choice
-title: Volba dealerů
+title: Volba obchodníka
 ---
 
-# 🃏 Dealerova volba
+# :žoker: Volba obchodníka
 
-Kolo **Dealerova volba** přidává do tvého kvízu v QuizWitz strategický zvrat.
+**Volba obchodníka** v QuizWitzu přidá ke tvému kvízu strategický kroužek.
 Jeden z hráčů si může **vybrat kategorii další otázky**, což mu dá potenciální
 výhodu — a možná i bonus! Tady je návod, jak to nastavit a hrát:
 
@@ -22,7 +22,7 @@ V tomto kole se **jeden hráč stane „dealerem“** a vybere další kategorii
 
 ## 🏷️ Přiřazení kategorií k otázkám
 
-Každá otázka v kole Dealerova volba potřebuje **jedinečný štítek**, který funguje jako kategorie, kterou dealer vidí a ze které vybírá.
+Každá otázka v kole výběru obchodníka potřebuje **jedinečný štítek**, který funguje jako kategorie, ze které prodejce vidí a vybírá.
 
 Například:
 
@@ -74,5 +74,5 @@ Než kolo začne, QuizWitz určí dealera jednou z těchto možností:
 
 ---
 
-Kolo Dealerova volba podporuje interakci a dává hráčům trochu kontroly, a zároveň pořád odměňuje rychlé a správné odpovědi. Je to skvělý způsob, jak všechny udržet zapojené!
+Volba obchodníka podporuje interakci a dává hráčům trochu kontrolu, zatímco stále odměňuje rychlé a správné odpovědi. Je to skvělý způsob, jak všechny udržet zapojené!
 

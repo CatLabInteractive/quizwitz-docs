@@ -11,19 +11,19 @@ title: Přestávka
 
 ## 📝 Jak to funguje
 
-- Během přestávky se hlavní herní obrazovka pozastaví a zobrazí se časovač.
-- **V konferenčních a párty hrách:**  
-  Přestávka skončí, když někdo na hlavní herní obrazovce stiskne **Enter**.
+- Během přerušení je herní obrazovka pozastavena a časovač je zobrazen.
+- **V režimu konference a ve Party Games:**  
+  Interakce skončí, když někdo stiskne **Enter** na obrazovce hry.
 - **Ve hrách QuizWitz Live:**  
   quizmaster ukončí přestávku ze svého zařízení (tablet nebo smartphone).  
-  Aplikace Quizmaster zobrazuje časovač, takže hostitel vidí, jak dlouho už přestávka trvá.
+  Aplikace Quizmaster zobrazuje časovač, takže kvíz může vidět, jak dlouho trvá intermise.
 
 ---
 
 ## 🖼️ Přílohy
 
 - V nastavení kola můžeš nahrát obrázky, loga nebo videa.
-- Během přestávky se tyto přílohy zobrazí v karuselu na hlavní obrazovce – skvělé pro loga sponzorů, zprávy nebo propagační videa.
+- Během přerušení budou tyto přílohy zobrazeny v kolotoči na obrazovce hry — vhodné pro loga, zprávy nebo propagační videa.
 - Přílohy se budou opakovat po celou dobu pauzy.
 
 ---

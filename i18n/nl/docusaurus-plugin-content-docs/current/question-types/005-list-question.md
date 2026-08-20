@@ -31,7 +31,7 @@ Een **lijstvraag** vraagt spelers om meerdere correcte antwoorden te geven uit e
 - **Gegeven opties:** Gebruik als voorbeelden in de vraag.
 - **Correctie:**
   - **Forceer automatische correctie:** Wanneer ingeschakeld, controleert QuizWitz automatisch alle antwoorden (kleine typos en variaties accepteren). Geen jury nodig.
-  - **Handmatige beoordeling:** Als niet ingeschakeld, moet elk gegeven antwoord worden beoordeeld door de [jury app](../quizmaster/004-jury-app.md).
+  - **Handmatige beoordeling:** als deze optie niet is ingeschakeld, moet elk gegeven antwoord via de [Jury App](../quizmaster/004-jury-app.md) beoordeeld worden.
 
 ---
 
@@ -61,4 +61,4 @@ Voor details, zie [ronde score opties](../editor/008-round-options.md#scoring).
 
 ---
 
-Voor meer, zie [Jury app documentatie](../quizmaster/004-jury-app.md).
+Meer informatie vind je in de [documentatie van de Jury App](../quizmaster/004-jury-app.md).

@@ -3,10 +3,10 @@ id: traditional-ct
 title: Tradizionale (CT)
 ---
 
-# 📝🧵 Tradizionale – Filo conduttore
+# 📝🧵 Tradizionale - Filettatura Comune
 
-Un round **Tradizionale – Filo conduttore** funziona proprio come un [round tradizionale](030-traditional.md), ma con una piccola svolta:  
-Alla fine del round, l'**ultima domanda** (“Qual era il filo conduttore?”) viene valutata e mostrata per prima. Questo permette al quizmaster di mettere in evidenza il collegamento prima di rivelare le altre risposte.
+Un round **Tradizionale - Common Thread** funziona come un [tradizionale round](030-traditional.md), ma con una torsione:  
+Alla fine del round, la **ultima domanda** (“Qual è stato il filo comune?”) viene valutata e mostrata per prima. Questo permette al quizmaster di mettere in evidenza il collegamento prima di rivelare le altre risposte.
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 id: quizmaster-app
-title: Приложението Quizmaster
+title: Quizmaster App
 ---
 
-# 🎛️ Как да използваш приложението Quizmaster
+# 🎛️ Using the Quizmaster App
 
 Като quizmaster имаш пълен контрол над играта QuizWitz Live. Най-важното, което трябва да знаеш, е това:
 
-> Играта **продължава само когато кликнеш** — нищо не се случва на основния екран, докато ти не го зададеш.
+> The game **only progresses when you click** — nothing moves on the game screen until you tell it to.
 
 Това ти дава пълен контрол над темпото и тайминга, но също означава, че ще натискаш доста често. Нека видим как работи приложението.
 
@@ -30,9 +30,9 @@ title: Приложението Quizmaster
 
 ### ❓ Задаване на въпрос
 
-Всеки въпрос има собствен екран в приложението Quizmaster:
+Each question has its own screen in the Quizmaster App:
 
-![Приложението Quizmaster - начало на въпрос](/images/quizmaster-app-start-question.png)
+![Quizmaster App - start question](/images/quizmaster-app-start-question.png)
 
 Ще видиш:
 
@@ -40,7 +40,7 @@ title: Приложението Quizmaster
 - **Тип на въпроса** — например избор от няколко отговора, със съответните модификатори за точкуване
 - **Дълга версия на въпроса** — за да я прочетеш на глас
 - **Информация за въпроса** — включително продължителност на таймера и налични точки
-- **Кратък въпрос** — версията, показана на големия екран
+- **Short question** — the version shown on the game screen
 - **Бутон за стартиране на въпроса** — веднага стартира таймера
 - **Възможни отговори** — показани в правилния ред (при избор от няколко отговора)
 
@@ -57,7 +57,7 @@ title: Приложението Quizmaster
 
 След като въпросът приключи, правилният отговор се разкрива. Какво ще видиш зависи от типа въпрос — този пример показва екран с резултат за избор от няколко отговора:
 
-![Приложението Quizmaster - обратна връзка за въпрос](/images/quizmaster-app-question-feedback.png)
+![Quizmaster App - question feedback](/images/quizmaster-app-question-feedback.png)
 
 Включва:
 
@@ -75,13 +75,13 @@ title: Приложението Quizmaster
 
 Когато рундът приключи, ще видиш екран **Финал на рунда**, който показва класирането до момента.
 
-![Приложението Quizmaster - финал на рунда](/images/quizmaster-app-round-outro.png)  
-![QuizWitz - финал на рунда на голям екран](/images/round-outro.png)
+![Quizmaster App - round outro](/images/quizmaster-app-round-outro.png)  
+![QuizWitz - round outro game screen](/images/round-outro.png)
 
 В твоето приложение:
 
 - Ще видиш **топ 100 играчи** и можеш да превърташ списъка
-- Докосни позицията на играч, за да го подчертaеш на големия екран
+- Tap a player’s position to highlight them on the game screen
 - От рунд 2 нататък ще виждаш и с колко места се е преместил всеки играч:
   - **Зелено** = преместил се е нагоре
   - **Червено** = преместил се е надолу
@@ -95,7 +95,7 @@ title: Приложението Quizmaster
 
 В края на куиза е време за **парти с разкриване на победителя** — с конфети и емоджита на играчите, които летят по екрана.
 
-![QuizWitz - финал на играта на голям екран](/images/game-outro.png)
+![QuizWitz - game outro game screen](/images/game-outro.png)
 
 - Настройката по подразбиране показва **топ 12 играчи**
 - Можеш да персонализираш колко играчи да се показват в **разширените настройки на играта**
@@ -104,4 +104,4 @@ title: Приложението Quizmaster
 
 ---
 
-Това е всичко, което трябва да знаеш, за да водиш куиза си с приложението Quizmaster. Вече си напълно подготвен да водиш събитието си уверено и със стил!
+That’s everything you need to know to run your quiz with the Quizmaster App. Вече си напълно подготвен да водиш събитието си уверено и със стил!

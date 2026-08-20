@@ -17,7 +17,7 @@ Dit kun je gebruiken om het speelveld gelijk te maken, spanning toe te voegen of
 
 ---
 
-> Gebruik **Reset punten** om dramatische herstarts te creëren, nieuwe spel fases in te leiden, of om iedereen een eerlijke kans te geven in een grote laatste ronde!
+> Gebruik **Punten resetten** om dramatische herstarts te creëren, nieuwe spelfases in te leiden of iedereen een eerlijke kans te geven.
 
 ---
 

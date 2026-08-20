@@ -7,7 +7,7 @@ title: Livestream куиз
 
 С QuizWitz Live е лесно да водиш напълно интерактивен livestream куиз в платформи като **Twitch**, **YouTube Live** или **Facebook Live** — дори за голяма публика. Това ръководство ще те преведе през настройката, справянето със забавянето и добрите практики за представяне.
 
-> 🧭 Ако си нов в приложението Quizmaster, започни с [**ръководството за стартиране на Quizmaster**](../quizmaster/002-startup.md).
+> 🧭 If you're new to the Quizmaster App, start with the [**Quizmaster startup guide**](../quizmaster/002-startup.md).
 
 ---
 
@@ -15,9 +15,9 @@ title: Livestream куиз
 
 quizmaster е сърцето на твоето събитие. Той контролира темпото, представя въпросите и държи публиката ангажирана.
 
-Използвай **приложението Quizmaster**, за да управляваш играта. Стартирай QuizWitz Live от редактора на куиза, като кликнеш върху **Start QuizWitz Live**.
+Use the **Quizmaster App** to run the game. Стартирай QuizWitz Live от редактора на куиза, като кликнеш върху **Start QuizWitz Live**.
 
-> 💡 Приложението Quizmaster е **уеб приложение** — няма нужда от инсталация. Просто отвори [**quizwitz.tv**](https://quizwitz.tv) на устройството си за презентация и въведи **Master Code**.
+> 💡 The Quizmaster App is a **web app** — there’s no installation. Just go to [**quizwitz.tv**](https://quizwitz.tv) on your quizmaster device and enter the **quizmaster code**.
 
 Препоръчваме да използваш **таблет или смартфон**, за да може quizmaster да се движи свободно по време на шоуто.
 
@@ -25,16 +25,16 @@ quizmaster е сърцето на твоето събитие. Той контр
 
 ## 🧩 Избор на правилния режим на игра
 
-Когато стартираш QuizWitz Live, ще бъдеш помолен да избереш режим:
+When starting QuizWitz Live, you’ll be asked to choose how players connect:
 
-- **Редовен режим** — Играчите или отборите получават уникален код. Полезно за предварително регистрирани отборни събития.
-- **Ad-hoc режим** — Един споделен Game Code за всички играчи. Най-подходящо за livestream-и с отворена регистрация.
+- **Team codes** — Players or teams each receive a unique code. Полезно за предварително регистрирани отборни събития.
+- **Single game code** — One shared game code for all players. Най-подходящо за livestream-и с отворена регистрация.
 
-> За livestream-и винаги избирай **Ad-hoc режим** и кликни върху **Start ad-hoc game**.
+> For livestreams, always choose **Single game code** and click _Start ad-hoc game_.
 
-След като куизът се зареди, приложението Quizmaster ще покаже:
+Once the quiz loads, the Quizmaster App will display:
 
-- **Master Code** — за quizmaster
+- **Quizmaster code** — for the quizmaster
 - **Jury Code** — за преглеждане на отворени въпроси
 - **Regie Code** — за управление на визуализации/аудио
 - **Game Code** — за присъединяване на играчите
@@ -53,7 +53,7 @@ quizmaster е сърцето на твоето събитие. Той контр
 Ако използваш **софтуер за срещи** като Zoom или Google Meet:
 
 - Просто сподели екрана си
-- Натисни **Start** в приложението Quizmaster
+- Press **Start** in the Quizmaster App
 - Играчите могат да участват почти в реално време
 
 При **Twitch, YouTube Live или Facebook Live** ще има **забавяне на стрийма** (известно още като забавяне при транскодиране).
@@ -64,16 +64,16 @@ quizmaster е сърцето на твоето събитие. Той контр
 
 ## ⏱️ Настройване на забавянето за играчите в QuizWitz
 
-За да компенсираш забавянето на стрийма, използвай **забавянето на взаимодействието на играчите** в приложението Jury.
+To compensate for stream delay, use the **player interaction delay** in the Jury App.
 
 Ето как:
 
 1. Стартирай предварителния преглед на стрийма — още няма нужда да излизаш на живо
-2. Отвори **приложението Jury**, като въведеш своя Jury Code на [**catlab.tv**](https://catlab.tv)
+2. Open the **Jury App** by entering your Jury Code at [**quizwitz.tv**](https://quizwitz.tv)
 3. Отиди на **Game control**
 4. Отвори livestream-а си в друг прозорец, със звук
 5. Използвай хронометър
-6. В приложението Jury натисни бутона **Buzzer** и започни да засичаш времето
+6. In the Jury App, hit the **Buzzer** button and start timing
 7. Когато чуеш зумера в livestream-а, спри хронометъра
 8. Закръгли забавянето нагоре (в секунди) и го въведи в полето **Player interaction delay**
 9. Кликни върху **Confirm setting**
@@ -87,14 +87,14 @@ quizmaster е сърцето на твоето събитие. Той контр
 След като забавянето е настроено и играчите са свързани:
 
 - Стартирай своя Twitch стрийм
-- Използвай приложението Quizmaster, за да **стартираш куиза**
+- Use the Quizmaster App to **launch the quiz**
 - QuizWitz ще се погрижи за тайминга във фонов режим — няма нужда да правиш пауза между въпросите
 
 ---
 
 ## 💡 Съвети за представяне на livestream
 
-- **Не позволявай на quizmaster да гледа забавения стрийм** — той трябва да използва само live приложението Quizmaster, за да се избегнат неловки паузи.
+- **Do not let the quizmaster watch the delayed stream** — they should use only the live Quizmaster App to avoid awkward pauses.
 
 - За да взаимодействаш с публиката, следи **коментарите на живо** на отделен екран — не видео сигнала.
 
@@ -106,7 +106,7 @@ quizmaster е сърцето на твоето събитие. Той контр
 
 - Търсиш още инструменти? Посети [**regie.catlab.eu**](https://regie.catlab.eu) — централен хъб с допълнителни помощни инструменти за автоматизация, смяна на сцени, ефекти и още.
 
-> Всички инструменти изискват твоя **Regie Code** от приложението Quizmaster.
+> All tools require your **Regie Code** from the Quizmaster App.
 
 ---
 

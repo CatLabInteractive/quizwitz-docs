@@ -29,7 +29,7 @@ Otvorené otázky ponúkajú viacero nastavení, aby sadli tvojmu kvízu:
 - **Viacero akceptovaných odpovedí:** Pridaj alternatívne pravopisy, skratky alebo synonymá pre flexibilnejšie automatické opravovanie.
 - **Bodovanie podľa času:** Odmeň rýchlejšie odpovede (pozri „Bodovanie“ nižšie).
 - **Vynútiť automatické opravovanie:** Zapni túto možnosť, aby hra automaticky označovala správne odpovede podľa zoznamu, ktorý zadáš.
-  - Ak nie je zapnutá (čo je predvolené pre väčšinu živých hier), otvorené odpovede treba skontrolovať a obodovať manuálne pomocou [aplikácie Jury](../quizmaster/004-jury-app.md).
+  - If not enabled (the default for most live games), open answers must be reviewed and scored manually using the [Jury App](../quizmaster/004-jury-app.md).
 
 Viac o týchto možnostiach nájdeš v časti [písanie otázok](../editor/005-writing-questions.md).
 
@@ -49,11 +49,11 @@ Bodovanie pri otvorených otázkach je navrhnuté tak, aby bolo férové aj pre 
 
 ## 🧑‍⚖️ Kontrola porotou v QuizWitz Live
 
-V **QuizWitz Live** otvorené otázky zvyčajne vyžadujú manuálnu kontrolu pomocou [aplikácie Jury](../quizmaster/004-jury-app.md):
+In **QuizWitz Live**, open questions generally require a manual review with the [Jury App](../quizmaster/004-jury-app.md):
 
-- Aplikácia Jury umožňuje členom poroty prijať, odmietnuť alebo upraviť bodovanie otvorených odpovedí.
+- The Jury App lets jury members accept, reject, or adjust scoring for open answers.
 - Fonetické a alternatívne porovnávanie pomáha, ale ľudský úsudok je pri férovom bodovaní a kreativite nevyhnutný.
-- Úplné pokyny a funkcie nájdeš v [dokumentácii k aplikácii Jury](../quizmaster/004-jury-app.md).
+- For full instructions and features, see the [Jury App documentation](../quizmaster/004-jury-app.md).
 
 ---
 

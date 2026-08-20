@@ -20,7 +20,7 @@ Je kunt QuizWitz Live direct vanuit de quiz-editor starten door te klikken op **
 
 Zorg voor een soepele en professionele quizervaring door te zorgen voor:
 
-- **Een groot scherm of projector** die het hoofdscherm toont — of een **livestream** die voor alle spelers toegankelijk is
+- **Een groot scherm of projector** dat het spelscherm toont — of een **livestream** die voor alle spelers toegankelijk is
 - **Een tablet of laptop** voor de quizmaster om het spel te besturen en het script hardop voor te lezen
 - **Een laptop of tablet** voor de jury (indien nodig) om open antwoorden te beoordelen
 - **Een smart device per speler of team** (bijv. smartphone of tablet) om antwoorden in te dienen

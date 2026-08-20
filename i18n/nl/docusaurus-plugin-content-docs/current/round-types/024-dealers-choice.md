@@ -1,11 +1,11 @@
 ---
 id: dealers-choice
-title: Dealers' keuze
+title: Dealer's Choice
 ---
 
-# 🃏 Keuze van de dealer
+# 🃏 Dealer's Choice
 
-De **Dealers’ Choice** ronde in QuizWitz voegt een strategische draai toe aan je quiz.
+De **Dealer's Choice**-ronde in QuizWitz geeft je quiz een strategische twist.
 Een van de spelers mag **de volgende vraagcategorie kiezen**, wat hen een potentieel voordeel geeft—en misschien een bonus! Zo stel je het in en speel je het:
 
 ---
@@ -14,14 +14,14 @@ Een van de spelers mag **de volgende vraagcategorie kiezen**, wat hen een potent
 
 In deze ronde wordt **één speler de "dealer"** en kiest hij of zij de volgende categorie om te spelen. De methode van keuze hangt af van de spelmodus:
 
-- **Party-/Conferentiespel:** De dealer kiest een categorie via **zijn of haar eigen smart device**.
+- **Party Game/Conferentiemodus:** De dealer kiest een categorie op **zijn of haar eigen apparaat**.
 - **Live spel:** De dealer **maakt zijn keuze mondeling bekend** aan de quizmaster.
 
 ---
 
 ## 🏷️ Categorieën toewijzen aan vragen
 
-Elke vraag in de Dealers’ Choice ronde heeft een **uniek label** nodig, dat fungeert als de categorie die de dealer ziet en kan kiezen.
+Elke vraag in de Dealer's Choice-ronde heeft een **uniek label** nodig, dat dient als de categorie die de dealer ziet en waaruit hij of zij kiest.
 
 Bijvoorbeeld:
 
@@ -36,7 +36,7 @@ Labels worden ingesteld in het **"Label" veld** van de instellingen van elke vra
 
 ---
 
-## 🏆 Dealer Bonus
+## 🏆 Dealerbonus
 
 Als de dealer de door hem gekozen vraag goed beantwoordt, kan hij een **bonus** ontvangen:
 
@@ -73,5 +73,5 @@ Voordat de ronde begint, bepaalt QuizWitz de dealer met een van deze opties:
 
 ---
 
-De Dealers’ Keuze ronde stimuleert interactie en geeft spelers wat controle, terwijl het toch snelle en juiste antwoorden beloont. Het is een geweldige manier om iedereen betrokken te houden!
+De Dealer's Choice-ronde stimuleert interactie en geeft spelers een beetje controle, terwijl snelle en juiste antwoorden nog steeds beloond worden. Het is een geweldige manier om iedereen betrokken te houden!
 

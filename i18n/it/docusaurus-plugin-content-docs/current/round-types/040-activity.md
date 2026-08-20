@@ -9,7 +9,7 @@ Un round Attività ti permette di allontanarti dalle classiche domande del quiz 
 
 ---
 
-![Schermata principale per il round Attività](/images/round-modes/activity-main-screen.png)
+![Schermata di gioco per il round di attività](/images/round-modes/activity-main-screen.png)
 
 ---
 
@@ -33,7 +33,7 @@ Un round Attività ti permette di allontanarti dalle classiche domande del quiz 
 
 - **Strumenti per duello:** Il quizmaster può accedere ad azioni rapide per buzzer, gong, campanelli e timer durante l'attività.
 - **Punti personalizzati:** I punti possono essere inseriti manualmente per ogni squadra, oppure puoi selezionare un vincitore con i pulsanti di azione rapida.
-- **Allegati:** Aggiungi immagini, audio o video per spiegare l'attività o mostrare esempi. Il quizmaster può mostrarli sulla schermata principale durante l'attività.
+- **Allegati:** Aggiungi immagini, audio o video per spiegare l'attività o mostrare esempi. Il quizmaster può visualizzarli nella schermata di gioco durante l'attività.
 
 ---
 

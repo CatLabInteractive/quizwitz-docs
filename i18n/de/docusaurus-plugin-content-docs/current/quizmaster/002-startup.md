@@ -21,18 +21,18 @@ Du kannst ein QuizWitz Live-Spiel aus dem Quiz-Editor oder direkt aus deiner Qui
 
 ---
 
-## 🔐 Verbindung mit dem Master-Code
+## 🔐 Verbindung mit dem Quizmaster-Code
 
-Nach dem Start zeigt dein Bildschirm einen **Master-Code** an. **Teile diesen Code nicht mit den Spielern** – er dient dazu, dein Präsentationsgerät mit dem Spiel zu verbinden.
+Einmal gestartet, zeigt dein Bildschirm einen **Quizmaster-Code** an. **Teile diesen Code nicht mit den Spielern** – er dient dazu, dein Präsentationsgerät mit dem Spiel zu verbinden.
 
-- Besuche auf deinem Quizmaster-Gerät [quizwitz.tv](https://quizwitz.tv) und gib den Master-Code ein.
+- Besuche [quizwitz.tv](https://quizwitz.tv) auf deinem Quizmaster-Gerät und gib den Quizmaster-Code ein.
 - Die **Quizmaster App-Oberfläche** erscheint, mit der du das Spiel steuerst.
 - Wir empfehlen ein **Tablet oder Smartphone** für die Mobilität, aber ein Laptop funktioniert auch.  
   ![QuizWitz PRO Verbindungsbildschirm](/images/quizwitz-pro-connect-token.png)
 
-Nach der Verbindung verschwindet der Master-Code vom Bildschirm. Du bist nun bereit, den Hauptbildschirm auf einem Projektor zu zeigen oder deinen Livestream zu starten.
+Nach der Verbindung verschwindet der Quizmaster-Code vom Bildschirm. Sie sind jetzt bereit, den Spielbildschirm auf einem Projektor zu zeigen oder Ihr Livestream zu starten.
 
-> ⚠️ **Achtung!** Wenn der Spielbildschirm (Hauptanzeige) nicht aktiv ist — zum Beispiel wenn du Tabs wechselst oder minimierst — wird das Spiel **automatisch pausiert**.  
+> :warnung: \*\*Heads-up! \* Wenn der Spielbildschirm nicht aktiv im Fokus ist — zum Beispiel wenn Sie Tabs wechseln oder minimieren — das Spiel wird **automatisch pausieren**.  
 > Wenn das passiert:
 >
 > - Die **Quizmaster App pausiert ebenfalls**
@@ -45,7 +45,7 @@ Nach der Verbindung verschwindet der Master-Code vom Bildschirm. Du bist nun ber
 
 Einmal verbunden, wähle zwischen zwei Spielmodi:
 
-![Quizmaster App – Modus auswählen](/images/quizmaster-app-select-mode.png)
+![Quizmaster App - Wähle Modus](/images/quizmaster-app-select-mode.png)
 
 ### Team-Codes
 
@@ -75,7 +75,7 @@ Du kannst auch **Codes im Voraus reservieren** — mehr dazu im Tipps & Tricks A
 
 Speichere unbedingt die folgenden Codes:
 
-- **Master-Code** — für die Steuerung des Quiz
+- **Quizmaster-Code** — um das Quiz zu steuern
 - **Jury-Code** — für manuelle Punktanpassungen
 - **Regie-Code** — zur Steuerung von visuellen und technischen Elementen
 
@@ -83,16 +83,16 @@ Sende Team-Codes per E-Mail oder als Ausdruck an deine Spieler.
 
 Wenn bereits, klicke \*\*‘Load Quiz’ \*\*, warte auf Assets zum Laden und klicke dann auf **‘Start’** um zu beginnen.
 
-![Quizmaster App – Team-Codes erhalten](/images/quizmaster-app-create-teams2.png)
+![Quizmaster App - erhalte Teamcodes](/images/quizmaster-app-create-teams2.png)
 
 ---
 
 ## 👤 Hosting mit einem einzelnen Spielcode
 
-Im **Single Game Code**-Modus:
+Mit dem **Einzelspielcode** Schema:
 
-- Du erhältst die Meister, die Jury und die Regie Codes sowie einen Spielcode für Spieler.
-- Der Spielcode wird auf dem Hauptbildschirm angezeigt — **zeige oder streame ihn deinem Publikum**.
+- Sie erhalten den Quizmaster, die Jury und die Regie Codes sowie einen Spielcode für Spieler.
+- Der Spielcode erscheint auf dem Spielbildschirm — **zeige ihn an dein Publikum**.
 - Spieler können jederzeit beitreten, bis deine aktiven Seats voll sind.
 
 Sobald deine Spieler angemeldet sind:
@@ -109,7 +109,7 @@ Bevor Sie beginnen, müssen Sie Ihre verfügbaren Plätze überprüfen.
 
 - Eine Übersicht erscheint, nachdem du deinen Spielmodus gewählt hast
 - Wenn du mehr Plätze benötigst, aktiviere sie unter [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
-  ![Quizmaster-App - aktiviere Sitzungen](/images/quizmaster-app-seats.png)
+  ![Quizmaster App - aktiviere Sitzungen](/images/quizmaster-app-seats.png)
 
 ---
 
@@ -117,6 +117,6 @@ Bevor Sie beginnen, müssen Sie Ihre verfügbaren Plätze überprüfen.
 
 Sobald das Setup abgeschlossen ist, drücke \*\*'Test starten' in der Quizmaster-App, um das Spiel zu starten.
 
-![Quizmaster App – Quiz starten](/images/quizmaster-app-start-quiz.png)
+![Quizmaster App - Test starten](/images/quizmaster-app-start-quiz.png)
 
 Du bist jetzt bereit, dein Publikum mit einem reibungslosen QuizWitz Live-Erlebnis zu unterhalten!

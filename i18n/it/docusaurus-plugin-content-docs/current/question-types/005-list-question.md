@@ -31,7 +31,7 @@ Una **domanda a elenco** chiede ai giocatori di fornire diverse risposte corrett
 - **Opzioni già fornite:** Usale come esempi nella domanda.
 - **Correzione:**
   - **Forza correzione automatica:** Quando è attiva, QuizWitz controlla automaticamente tutte le risposte (accettando piccoli refusi e variazioni). Non serve la giuria.
-  - **Revisione manuale:** Quando non è attiva, ogni risposta fornita deve essere controllata dall’[app della giuria](../quizmaster/004-jury-app.md).
+  - **Revisione manuale:** Quando non è abilitata, ogni risposta fornita deve essere verificata dalla [Jury App](../quizmaster/004-jury-app.md).
 
 ---
 
@@ -59,4 +59,4 @@ Per i dettagli, vedi le [opzioni di punteggio del round](../editor/008-round-opt
 
 ---
 
-Per saperne di più, consulta la [documentazione dell’app della giuria](../quizmaster/004-jury-app.md).
+Per di più, vedi [Jury App documentation](../quizmaster/004-jury-app.md).

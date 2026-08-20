@@ -43,13 +43,13 @@ Personalizza come si comporta la domanda durante la partita:
 
 ---
 
-### 🎤 Contenuti del presentatore
+### 🎤 Quizmaster content
 
-Questi campi controllano cosa appare sull'app Quizmaster e sul grande schermo:
+Questi campi controllano ciò che appare sulla schermata Quizmaster App e gioco:
 
-- **Grande schermo – Feedback della domanda** — Mostrato a tutti i giocatori dopo che il feedback viene rivelato
-- **Presentatore – Domanda lunga** — Una versione della domanda da far leggere ad alta voce al conduttore
-- **Presentatore – Feedback lungo** — Testo che il conduttore può leggere dopo aver rivelato la risposta corretta
+- **Schermata del gioco - Feedback delle domande** — Mostrata a tutti i giocatori dopo che il feedback è stato rivelato
+- **Quizmaster - Domanda lunga** — Una versione della domanda da leggere ad alta voce dal quizmaster
+- **Quizmaster - Feedback lungo** — Testo che il quizmaster può leggere dopo aver rivelato la risposta corretta
 
 > 📝 Questi campi aiutano a rendere le presentazioni live dinamiche e curate.
 
@@ -70,7 +70,7 @@ Puoi arricchire le domande con immagini, video o audio. Ogni allegato può esser
 Puoi aggiungere **più allegati** in ogni spazio.
 
 > ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** il quizmaster può scegliere quale allegato mostrare in ogni momento.  
-> 🎮 **Nei giochi normali:** tutti gli allegati in un determinato spazio vengono mostrati contemporaneamente.
+> 🎮 **Nelle partite senza quizmaster (Party Game, Conference mode, Single player):** tutti gli allegati in un dato slot sono mostrati contemporaneamente.
 
 📘 Scopri di più sui tipi di file supportati, sui consigli per il tempismo e sui limiti nella [guida agli allegati](../editor/006-attachments.md).
 

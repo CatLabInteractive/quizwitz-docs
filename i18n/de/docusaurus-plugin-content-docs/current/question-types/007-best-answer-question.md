@@ -14,17 +14,17 @@ Punkte werden entweder manuell vom quizmaster vergeben oder—wenn kein quizmast
 
 - **Spieler antworten:** Jeder Spieler gibt seine Antwort auf die offene Frage ein.
 - **Punktevergabe:**
-  - In **QuizWitz Live** (mit quizmaster) überprüft der Gastgeber alle Antworten und vergibt Punkte an die beste(n).
-  - In regulären Spielen (ohne Gastgeber) stimmen die Spieler für die Antwort ab, die sie am besten finden. Die Antwort(en) mit den meisten Stimmen erhalten die Punkte.
+  - In **QuizWitz Live** (mit einem Quizmaster) prüft der Quizmaster alle Antworten und weist auf die besten zu.
+  - In Spielen ohne Quizmaster (Party-Game, Konferenz-Modus) stimmen die Spieler für die Antwort ab, die sie für am besten halten. Die Antwort(en) mit den meisten Stimmen erhalten die Punkte.
 
 ---
 
 ## 💡 Tipps für Fragen mit bester Antwort
 
 - Verwende kreative, offene Fragen, die originelle oder lustige Antworten anregen.
-- Bei persönlichen oder moderierten Quizzen kann der quizmaster Punkte für Kreativität, Genauigkeit oder Humor vergeben.
-- In selbstgehosteten Spielen ermutigt das Abstimmen die Spieler, die Antworten der anderen zu lesen, und fügt ein unterhaltsames soziales Element hinzu.
+- In QuizWitz Live kann der Quizmaster Punkte für Kreativität, Genauigkeit oder Humor vergeben.
+- In Spielen ohne Quizmaster ermutigt das Voting die Spieler, die Antworten des anderen zu lesen und fügt ein unterhaltsames soziales Element hinzu.
 
 ---
 
-> 📚 Mehr dazu, wie Abstimmungen oder manuelle Punktevergabe funktionieren, findest du in der [Jury-App-Dokumentation](../quizmaster/004-jury-app.md).
+> 📚 Weitere Informationen darüber, wie Stimmen- oder manuelles Scoring funktioniert, finden Sie in der [Jury App Dokumentation](../quizmaster/004-jury-app.md).

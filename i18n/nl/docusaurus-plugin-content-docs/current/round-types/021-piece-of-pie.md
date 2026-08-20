@@ -1,11 +1,11 @@
 ---
 id: piece-of-pie
-title: Deel de taart
+title: Taartpunt
 ---
 
-# 🥧 Deel de taart
+# 🥧 Taartpunt
 
-In een **deel de taart** ronde loont teamwork! De totaal beschikbare punten per vraag hangen af van het aantal spelers, en worden vervolgens verdeeld over alle spelers (of teams) die de vraag correct beantwoorden.
+In een **Taartpunt**-ronde loont samenwerken! De totaal beschikbare punten per vraag hangen af van het aantal spelers, en worden vervolgens verdeeld over alle spelers (of teams) die de vraag correct beantwoorden.
 
 ---
 

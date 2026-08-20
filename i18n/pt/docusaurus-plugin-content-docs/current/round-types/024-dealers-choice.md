@@ -1,11 +1,11 @@
 ---
 id: dealers-choice
-title: Escolha do Dealer
+title: Escolha do Redentor
 ---
 
-# 🃏 Escolha do dealer
+# 🃏 Escolha do Redentor
 
-A rodada **Escolha do Dealer** no QuizWitz adiciona um toque estratégico ao teu quiz.
+A rodada **Choice** do Matador no QuizWitz adiciona uma reviravolta estratégica ao seu questionário.
 Um dos jogadores pode **escolher a categoria da próxima pergunta**, ganhando uma possível
 vantagem — e talvez um bônus! Veja como configurar e jogar:
 
@@ -22,7 +22,7 @@ Nesta rodada, **um jogador se torna o "dealer"** e seleciona a próxima categori
 
 ## 🏷️ Atribuindo categorias às perguntas
 
-Cada pergunta na rodada Escolha do Dealer precisa de um **rótulo único**, que funciona como a categoria que o dealer vê e escolhe.
+Cada questão na rodada da Escolha do receptor precisa de um **rótulo único**, que atua como a categoria que o crupiê vê e seleciona.
 
 Por exemplo:
 
@@ -74,5 +74,5 @@ Antes da rodada começar, o QuizWitz determina o dealer usando uma destas opçõ
 
 ---
 
-A rodada Escolha do Dealer incentiva a interação e dá aos jogadores um pouco de controle, enquanto ainda recompensa respostas rápidas e corretas. É uma ótima maneira de manter todo mundo envolvido!
+A rodada de escolha do desenvolvedor incentiva a interação e dá aos jogadores um pouco de controle, enquanto ainda recompensa respostas rápidas e corretas. É uma ótima maneira de manter todo mundo envolvido!
 

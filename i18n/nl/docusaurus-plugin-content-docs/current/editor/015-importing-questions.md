@@ -53,8 +53,8 @@ Elke rij moet de volgende kolommen bevatten in deze exacte volgorde:
 4. **Fout antwoord 2**
 5. **Fout antwoord 3**
 6. **Korte feedback** — Wordt weergegeven op het spelersscherm na het beantwoorden
-7. **Long question** _(optional)_ — Displayed on the quizmaster screen
-8. **Long feedback** _(optional)_ — Explanation for the quizmaster to read aloud
+7. **Lange vraag** _(optioneel)_ — Wordt getoond op het scherm van de quizmaster
+8. **Lange feedback** _(optioneel)_ — Uitleg die de quizmaster hardop voorleest
 
 > 📌 De laatste twee kolommen worden alleen gebruikt in [QuizWitz Live](../quizmaster/001-introduction.md), maar ze moeten toch worden opgenomen (ook als ze leeg zijn).
 

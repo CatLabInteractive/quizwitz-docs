@@ -58,7 +58,7 @@ Estas opciones de puntuación se encuentran en el panel de opciones de ronda al 
 
 ## 📜 Instrucciones para Quizmaster
 
-Puedes añadir un **texto de introducción a la ronda** personalizado que aparecerá solo en la [aplicación Quizmaster](../quizmaster/001-introduction.md) al inicio de la ronda. Usa esto para informar al presentador o añadir un toque personal.
+Puedes añadir un **texto de introducción** personalizado que aparecerá sólo en la [../quizmaster/001-introduction.md) al inicio de la ronda. Utilice esto para informar al cuestionario o añadir un toque personal.
 
 ---
 

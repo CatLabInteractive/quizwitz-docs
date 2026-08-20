@@ -1,11 +1,11 @@
 ---
 id: dealers-choice
-title: Dealer's Choice
+title: Auswahl des Händlers
 ---
 
-# 🃏 Dealer's Choice
+# 🃏 Händlerwahl
 
-Die **Dealers’ Choice**-Runde bei QuizWitz bringt eine strategische Wendung in dein Quiz.
+Die Runde des **Dealer's Choice** in QuizWitz fügt Ihrem Quiz eine strategische Wendung hinzu.
 Einer der Spieler darf die **nächste Fragenkategorie auswählen**, was ihm einen Vorteil – und vielleicht sogar einen Bonus! – verschafft. So richtest du es ein und spielst:
 
 ---
@@ -21,7 +21,7 @@ In dieser Runde wird **ein Spieler zum "Dealer"** und wählt die nächste Katego
 
 ## 🏷️ Zuweisen von Kategorien zu Fragen
 
-Jede Frage in der Dealers’ Choice-Runde benötigt ein **einzigartiges Label**, das als Kategorie dient, die der Dealer sieht und auswählt.
+Jede Frage in der Dealer Choice Runde benötigt ein **einzigartiges Label**, das als die Kategorie fungiert, aus der der Händler sieht und wählt.
 
 Zum Beispiel:
 
@@ -73,5 +73,5 @@ Bevor die Runde beginnt, bestimmt QuizWitz den Dealer mit einer dieser Optionen:
 
 ---
 
-Die Dealers’ Choice-Runde fördert Interaktion und gibt den Spielern etwas Kontrolle, belohnt aber dennoch schnelle und richtige Antworten. So bleibt jeder super dabei!
+Die Choice Runde des Dealers fördert die Interaktion und gibt den Spielern ein bisschen Kontrolle und belohnt dabei immer noch schnelle und korrekte Antworten. So bleibt jeder super dabei!
 

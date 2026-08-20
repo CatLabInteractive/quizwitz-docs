@@ -29,7 +29,7 @@ Le domande aperte offrono una serie di impostazioni per adattarsi al tuo quiz:
 - **Più risposte accettate:** Aggiungi grafie alternative, abbreviazioni o sinonimi per una correzione automatica più flessibile.
 - **Punteggio basato sul tempo:** Premia le risposte più veloci (vedi “Punteggio” qui sotto).
 - **Forza la correzione automatica:** Attiva questa opzione per permettere al gioco di contrassegnare automaticamente le risposte corrette in base alla lista che hai fornito.
-  - Se non è attivata (l’impostazione predefinita per la maggior parte delle partite live), le risposte aperte devono essere controllate e valutate manualmente usando l’[app della giuria](../quizmaster/004-jury-app.md).
+  - Se non è abilitato (il valore predefinito per la maggior parte delle partite dal vivo), le risposte aperte devono essere verificate e segnate manualmente utilizzando la [App della Giuria](../quizmaster/004-jury-app.md).
 
 Per saperne di più su queste opzioni, consulta [scrivere domande](../editor/005-writing-questions.md).
 
@@ -49,11 +49,11 @@ Il punteggio nelle domande aperte è pensato per essere equo, anche per chi digi
 
 ## 🧑‍⚖️ Revisione della giuria in QuizWitz Live
 
-In **QuizWitz Live**, le domande aperte richiedono in genere una revisione manuale con l’[app della giuria](../quizmaster/004-jury-app.md):
+In **QuizWitz Live**, le domande aperte richiedono generalmente una revisione manuale con l'[App della Giuria](../quizmaster/004-jury-app.md):
 
-- L’app della giuria permette ai membri della giuria di accettare, rifiutare o modificare il punteggio delle risposte aperte.
+- L'App della Giuria consente ai membri della Giuria di accettare, respingere o regolare il punteggio per le risposte aperte.
 - Il confronto fonetico e le corrispondenze alternative aiutano, ma il giudizio umano è essenziale per un punteggio equo e per valorizzare la creatività.
-- Per istruzioni e funzionalità complete, consulta la [documentazione dell’app della giuria](../quizmaster/004-jury-app.md).
+- Per istruzioni e funzionalità complete, consultare la [documentazione della Jury App](../quizmaster/004-jury-app.md).
 
 ---
 

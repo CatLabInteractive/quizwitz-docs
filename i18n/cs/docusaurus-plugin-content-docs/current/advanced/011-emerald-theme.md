@@ -1,6 +1,6 @@
 ---
 id: emerald-theme
-title: Motiv Emerald
+title: Emerald motiv
 ---
 
 # Motiv Emerald
