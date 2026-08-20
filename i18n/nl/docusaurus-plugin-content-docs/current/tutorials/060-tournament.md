@@ -5,7 +5,7 @@ title: Toernooi
 
 # Toernooi
 
-Deze handleiding laat je zien hoe je de QuizWitz Toernooi modus kunt gebruiken. Toernooi modus laat spelers samenkomen en je quiz spelen wanneer ze dat willen - op hun eigen apparaat. Hun scores worden opgenomen op een globaal scorebord dat u kunt laten zien in uw locatie.
+Deze handleiding laat je zien hoe je de QuizWitz Toernooi modus kunt gebruiken. Toernooi modus laat spelers samenkomen en je quiz spelen wanneer ze dat willen - op hun eigen apparaat. Hun scores worden bijgehouden op een centraal scorebord dat je op je locatie kunt tonen.
 
 ---
 
