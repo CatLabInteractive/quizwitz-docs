@@ -1,11 +1,11 @@
 ---
 id: dealers-choice
-title: Elección del Dealer
+title: Dealer's Choice
 ---
 
-# 🃏 Elección del Dealer
+# 🃏 Dealer's Choice
 
-La ronda **Dealers' Choice** en QuizWitz añade un giro estratégico a tu quiz.
+La ronda de **Dealer's Choice** en QuizWitz añade un giro estratégico a tu quiz.
 Uno de los jugadores puede **elegir la próxima categoría de pregunta**, dándole una posible ventaja —¡y posiblemente un bono! Así es como configurarlo y jugar:
 
 ---
@@ -14,14 +14,14 @@ Uno de los jugadores puede **elegir la próxima categoría de pregunta**, dándo
 
 En esta ronda, **un jugador se convierte en el "dealer"** y selecciona la siguiente categoría para jugar. El método de selección depende del modo de juego:
 
-- **Juego de fiesta/conferencia:** El dealer elige una categoría usando **su propio smart device**.
+- **Party/Conference Game:** El dealer elige una categoría usando **su propio dispositivo**.
 - **Juego en vivo:** El dealer **anuncia su elección en voz alta** al quizmaster.
 
 ---
 
 ## 🏷️ Asignar categorías a las preguntas
 
-Cada pregunta en la ronda Dealers’ Choice necesita una **etiqueta única**, que actúa como la categoría que el dealer ve y selecciona.
+Cada pregunta en la ronda de Dealer's Choice necesita una **etiqueta única**, que funciona como la categoría que el dealer ve y de la que elige.
 
 Por ejemplo:
 
@@ -36,7 +36,7 @@ Las etiquetas se establecen en el **campo “Etiqueta”** de la configuración 
 
 ---
 
-## 🏆 Bono para el Dealer
+## 🏆 Bono para el dealer
 
 Si el dealer responde correctamente la pregunta que eligió, puede recibir un **bono**:
 
@@ -46,7 +46,7 @@ Si el dealer responde correctamente la pregunta que eligió, puede recibir un **
 
 ---
 
-## 👑 Selección del Dealer
+## 👑 Selección del dealer
 
 Antes de que comience la ronda, QuizWitz determina el dealer utilizando una de estas opciones:
 
@@ -65,7 +65,7 @@ Antes de que comience la ronda, QuizWitz determina el dealer utilizando una de e
 
 ---
 
-## 📝 Consejos para Quizmasters
+## 📝 Consejos para quizmasters
 
 - Informa a los jugadores que elegirán entre categorías etiquetadas.
 - En juegos en vivo, asegúrate de notar claramente la selección del dealer.
@@ -73,5 +73,5 @@ Antes de que comience la ronda, QuizWitz determina el dealer utilizando una de e
 
 ---
 
-La ronda Dealers’ Choice fomenta la interacción y da a los jugadores un poco de control, mientras sigue premiando respuestas rápidas y correctas. ¡Es una excelente manera de mantener a todos motivados!
+La ronda de Dealer's Choice fomenta la interacción y da a los jugadores un poco de control, sin dejar de recompensar las respuestas rápidas y correctas. ¡Es una excelente manera de mantener a todos motivados!
 
