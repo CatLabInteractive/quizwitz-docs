@@ -55,7 +55,7 @@ Depois de ligares, escolhe entre dois modos de jogo:
 
 ### Código de jogo partilhado
 
-- Todos entram usando **um único Código de Jogo partilhado**.
+- Todo mundo entra usando **um único Código do Jogo compartilhado**.
 - Ideal para eventos casuais ou de acesso aberto.
 - Não é necessário pré-registo — os jogadores podem entrar a qualquer momento, até todos os Seats ativos estarem preenchidos.
 
