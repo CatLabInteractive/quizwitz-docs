@@ -29,7 +29,7 @@ Offene Fragen bieten verschiedene Einstellungen, die zu deinem Quiz passen:
 - **Mehrere akzeptierte Antworten:** Füge alternative Schreibweisen, Abkürzungen oder Synonyme für eine flexiblere Autokorrektur hinzu.
 - **Zeitbasierte Punktevergabe:** Belohne schnellere Antworten (siehe „Punktevergabe“ unten).
 - **Automatische Korrektur erzwingen:** Aktiviere dies, damit das Spiel Antworten automatisch basierend auf deiner Liste als richtig markiert.
-  - Wenn nicht aktiviert (Standard bei den meisten Live-Spielen), müssen offene Antworten manuell mit der [Jury-App](../quizmaster/004-jury-app.md) überprüft und bewertet werden.
+  - Wenn nicht aktiviert (der Standard für die meisten Live-Spiele) müssen offene Antworten manuell überprüft und bewertet werden mit der [Jury-App](../quizmaster/004-jury-app.md).
 
 Mehr zu diesen Optionen findest du unter [Fragen schreiben](../editor/005-writing-questions.md).
 
@@ -49,11 +49,11 @@ Die Punktevergabe bei offenen Fragen ist fair gestaltet, auch für langsamere Ti
 
 ## 🧑‍⚖️ Jury-Bewertung in QuizWitz Live
 
-In **QuizWitz Live** benötigen offene Fragen normalerweise eine manuelle Bewertung mit der [Jury-App](../quizmaster/004-jury-app.md):
+In **QuizWitz Live** erfordern offene Fragen in der Regel eine manuelle Überprüfung mit der [Jury-App](../quizmaster/004-jury-app.md):
 
-- Die Jury-App ermöglicht Jury-Mitgliedern, offene Antworten anzunehmen, abzulehnen oder die Punktevergabe anzupassen.
+- Die Jury-App lässt Jury-Mitglieder akzeptieren, ablehnen oder die Punktzahl für offene Antworten anpassen.
 - Phonetische und alternative Übereinstimmungen helfen, aber menschliches Urteilsvermögen ist für faire Bewertungen und Kreativität unerlässlich.
-- Für vollständige Anweisungen und Funktionen siehe die [Jury-App-Dokumentation](../quizmaster/004-jury-app.md).
+- Weitere Informationen und Funktionen findest du in der [Jury-App-Dokumentation](../quizmaster/004-jury-app.md).
 
 ---
 
