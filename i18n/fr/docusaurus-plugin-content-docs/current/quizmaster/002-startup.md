@@ -3,9 +3,9 @@ id: startup
 title: Start-up
 ---
 
-# 🚀 Start-up — Animer un Quiz avec QuizWitz Live
+# 🚀 Start-up — Organiser un Quiz avec QuizWitz Live
 
-Bienvenue sur QuizWitz Live — la manière professionnelle d’animer des quiz pour des équipes, des livestreams et des événements en personne. Suivez ce guide pour démarrer votre quiz avec l’application Quizmaster.
+Bienvenue sur QuizWitz Live — la manière professionnelle d'organiser des quiz pour des équipes, des livestreams et des événements en personne. Suivez ce guide pour démarrer votre quiz avec la Quizmaster App.
 
 ---
 
@@ -21,22 +21,22 @@ Vous pouvez démarrer une partie QuizWitz Live depuis l’éditeur de quiz ou di
 
 ---
 
-## 🔐 Connexion avec le Code Maître
+## 🔐 Connexion avec le code quizmaster
 
-Une fois lancé, votre écran affichera un **Code Maître**. **Ne partagez pas ce code avec les joueurs** — il sert à connecter votre appareil de présentation au jeu.
+Une fois lancé, votre écran affichera un **code quizmaster**. **Ne partagez pas ce code avec les joueurs** — il sert à connecter votre appareil de présentation au jeu.
 
-- Visitez [quizwitz.tv](https://quizwitz.tv) sur votre appareil quizmaster et saisissez le Code Maître.
-- Une **interface de l’App Quizmaster** apparaîtra, où vous contrôlez le jeu.
+- Visitez [quizwitz.tv](https://quizwitz.tv) sur votre appareil quizmaster et entrez le code quizmaster.
+- Une interface de la **Quizmaster App** apparaîtra, où vous contrôlez le jeu.
 - Nous recommandons une **tablette ou un smartphone** pour la mobilité, mais un ordinateur portable fonctionne aussi.  
   ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)
 
-Après connexion, le Code Maître disparaît de l’écran. Vous êtes maintenant prêt à afficher l’écran principal sur un projecteur ou à lancer votre livestream.
+Après la connexion, le code quizmaster disparaît de l'écran. Vous êtes maintenant prêt à montrer l'écran de jeu sur un projecteur ou à démarrer votre livestream.
 
-> ⚠️ **Attention !** Si l’écran du jeu (affichage principal) n’est pas activement en focus — par exemple, si vous changez d’onglet ou le minimisez — le jeu **se mettra automatiquement en pause**.  
+> ⚠️ **Attention !** Si l'écran de jeu n'est pas au premier plan — par exemple, si vous changez d'onglet ou le réduisez — le jeu **se mettra automatiquement en pause**.  
 > Quand cela arrive :
 >
-> - L’**App Quizmaster se met également en pause**
-> - Pour reprendre, assurez-vous d’abord que **l’écran du jeu est de nouveau actif**
+> - La **Quizmaster App se met également en pause**
+> - Pour reprendre, assurez-vous d'abord que **l'écran de jeu est de nouveau actif**
 > - Puis **passez la souris sur l’écran** pour révéler le menu du bas et appuyez sur le **bouton pause** pour continuer
 
 ---
@@ -45,78 +45,76 @@ Après connexion, le Code Maître disparaît de l’écran. Vous êtes maintenan
 
 Une fois connecté, choisissez entre deux modes de jeu :
 
-![Quizmaster app - select mode](/images/quizmaster-app-select-mode.png)
+![Quizmaster App - select mode](/images/quizmaster-app-select-mode.png)
 
 ### Codes d’équipe
 
 - Chaque équipe reçoit un **code unique**, qui peut être ouvert sur plusieurs appareils.
 - Idéal pour des quiz avec équipes pré-enregistrées où vous connaissez les noms d’équipe à l’avance.
-- Permet le changement d’appareil — utile si une batterie tombe en panne pendant le quiz.
+- Permet le changement d'appareil — utile si une batterie tombe à plat pendant le quiz.
 
-### Code de jeu unique
+### Code de jeu partagé
 
-- Tout le monde rejoint avec **un seul Code de Jeu partagé**.
+- Tout le monde rejoint avec **un seul Code de jeu partagé**.
 - Idéal pour les événements occasionnels ou en accès libre.
-- Aucune préinscription requise — les joueurs peuvent rejoindre à tout moment, jusqu’à ce que toutes les Seats actives soient occupées.
+- Aucune préinscription requise — les joueurs peuvent rejoindre à tout moment, jusqu'à ce que tous les Seats actifs soient occupés.
 
 > Assurez-vous d’être connecté pour accéder à votre contenu de quiz.
 
 ---
 
-## 👥 Animer avec des Codes d’équipe
+## 👥 Organiser avec des Codes d'équipe
 
-Quand vous utilisez les **Codes d’équipe**, vous commencerez par créer des équipes dans l’App Quizmaster :
+Quand vous utilisez les **Codes d'équipe**, vous commencerez par créer des équipes dans la Quizmaster App :
 
 - Ajoutez les noms des équipes
-- Appuyez sur **'Générer des Codes'** pour créer des codes d'accès  
-  ![Application Quizmaster - Créer des équipes](/images/quizmaster-app-create-teams.png)
+- Appuyez sur **'Générer des Codes'** pour créer des codes d'accès  \n![Quizmaster App - create teams](/images/quizmaster-app-create-teams.png)
 
 Vous pouvez aussi **réserver les codes à l’avance** — plus d’infos dans la section astuces et conseils.
 
 Veillez à **sauvegarder les codes suivants** :
 
-- **Code Maître** — pour contrôler le quiz
-- **Code Juge** — pour des ajustements manuels des scores
+- **Code Quizmaster** — pour contrôler le quiz
+- **Code du jury** — pour des ajustements manuels des scores
 - **Code Régie** — pour gérer les aspects visuels et techniques
 
 Envoyez les codes d’équipe à vos joueurs par email ou via des impressions.
 
 Lorsque vous êtes prêt, cliquez sur **‘Charger le quiz’**, attendez que les ressources soient chargées, puis cliquez sur **‘Démarrer’** pour commencer.
 
-![Quizmaster app - get team codes](/images/quizmaster-app-create-teams2.png)
+![Quizmaster App - get team codes](/images/quizmaster-app-create-teams2.png)
 
 ---
 
-## 👤 Animer avec un seul Code de Jeu
+## 👤 Organiser avec un seul Code de jeu partagé
 
-Avec le mode **Single Game Code** :
+Avec le schéma **Code de jeu partagé** :
 
-- Vous recevrez les codes Maître, Jury, et Regie, plus un Code de Jeu pour les joueurs.
-- Le Code de Jeu s’affiche à l’écran principal — **affichez-le ou diffusez-le à votre audience**.
+- Vous recevrez le code quizmaster, le code du jury et le code régie, plus un code de jeu pour les joueurs.
+- Le code de jeu apparaît sur l'écran de jeu — **affichez-le ou diffusez-le à votre public**.
 - Les joueurs peuvent rejoindre à tout moment jusqu’à ce que la limite de Seats actifs soit atteinte.
 
 Une fois vos joueurs connectés :
 
-1. Cliquez sur **‘quiz de charge’**
+1. Cliquez sur **'Charger le quiz'**
 2. Cliquez sur **'Commencer le quiz'** et confirmez
-3. Le Code de Jeu reste visible pour les joueurs arrivant en retard
+3. Le code de jeu reste visible pour les joueurs arrivant en retard
 
 ---
 
 ## 🎟️ Activation des Seats
 
-Avant de commencer, vous devrez vérifier vos places disponibles.
+Avant de commencer, vous devrez vérifier vos Seats disponibles.
 
 - Un aperçu apparaît après avoir sélectionné votre mode de jeu
-- Si vous avez besoin de plus de sièges, activez-les sur [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
-  ![Application Quizmaster - activez des sièges](/images/quizmaster-app-seats.png)
+- Si vous avez besoin de plus de Seats, activez-les sur [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  \n![Quizmaster App - activate seats](/images/quizmaster-app-seats.png)
 
 ---
 
 ## ▶️ Lancer la partie
 
-Une fois la configuration terminée, appuyez sur **« Commencer le quiz»** dans l'application Quizmaster pour commencer le jeu.
+Une fois la configuration terminée, appuyez sur **'Commencer le quiz'** dans la Quizmaster App pour commencer le jeu.
 
-![Quizmaster app - start quiz](/images/quizmaster-app-start-quiz.png)
+![Quizmaster App - start quiz](/images/quizmaster-app-start-quiz.png)
 
 Vous êtes maintenant prêt à divertir votre audience avec une expérience transparente QuizWitz Live !
