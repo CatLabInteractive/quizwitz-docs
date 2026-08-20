@@ -1,13 +1,13 @@
 ---
 id: quizmaster-app
-title: application Quizmaster
+title: Application Quizmaster
 ---
 
 # 🎛️ Utiliser l'application Quizmaster
 
 En tant que quizmaster, vous contrôlez entièrement le jeu QuizWitz Live. La chose la plus importante à savoir est la suivante :
 
-> Le jeu **n'avance que lorsque vous cliquez** — rien ne bouge sur l'écran principal tant que vous ne le dites pas.
+> Le jeu **ne progresse que lorsque vous cliquez** — rien ne bouge sur l'écran du jeu jusqu'à ce que vous le disiez.
 
 Cela vous donne un contrôle total sur le rythme et le timing, mais cela signifie aussi que vous taperez beaucoup. Voyons comment l'application fonctionne.
 
@@ -32,7 +32,7 @@ Avant chaque manche, vous verrez un écran d'introduction de la manche.
 
 Chaque question a son propre écran dans l'application Quizmaster :
 
-![Quizmaster app - start question](/images/quizmaster-app-start-question.png)
+![App Quizmaster - start question](/images/quizmaster-app-start-question.png)
 
 Vous verrez :
 
@@ -40,7 +40,7 @@ Vous verrez :
 - **Type de question** — comme Choix Multiple, avec les modificateurs de score correspondants
 - **Version longue de la question** — pour que vous puissiez la lire à haute voix
 - **Infos sur la question** — durée du minuteur et points disponibles
-- **Question courte** — version affichée sur grand écran
+- **Petite question** — la version affichée sur l'écran du jeu
 - **Bouton de démarrage de la question** — lance immédiatement le minuteur
 - **Réponses possibles** — affichées dans le bon ordre (pour les choix multiples)
 
@@ -57,7 +57,7 @@ La question restera visible dans votre application jusqu’à :
 
 Après la fin d'une question, la bonne réponse est dévoilée. Ce que vous voyez dépend du type de question — cet exemple montre un écran de résultats pour un choix multiple :
 
-![Quizmaster app - question feedback](/images/quizmaster-app-question-feedback.png)
+![App Quizmaster - commentaires de questions](/images/quizmaster-app-question-feedback.png)
 
 Comprend :
 
@@ -75,13 +75,13 @@ Comprend :
 
 Lorsque la manche se termine, vous verrez un écran de **fin de manche** qui révèle le classement à ce jour.
 
-![Quizmaster app - round outro](/images/quizmaster-app-round-outro.png)  
-![QuizWitz - round outro big screen](/images/round-outro.png)
+![Quizmaster App - round outro](/images/quizmaster-app-round-outro.png)  
+![QuizWitz - round outro game screen](/images/round-outro.png)
 
 Dans votre application :
 
 - Vous verrez les **100 meilleurs joueurs**, et vous pourrez les faire défiler
-- Tapez la position d'un joueur pour le mettre en surbrillance sur le grand écran
+- Appuyez sur la position d'un joueur pour le mettre en surbrillance sur l'écran de jeu
 - À partir de la manche 2, vous verrez aussi combien de places chaque joueur a gagné ou perdu :
   - **Vert** = progressé
   - **Rouge** = reculé
@@ -95,7 +95,7 @@ Les joueurs voient **leur propre position** sur leur appareil pendant la fin de 
 
 À la fin du quiz, c’est l’heure de la **fête de révélation du gagnant** — avec confettis et emojis des joueurs qui volent à l'écran.
 
-![QuizWitz - game outro big screen](/images/game-outro.png)
+![QuizWitz - game outro game screen](/images/game-outro.png)
 
 - Le paramètre par défaut affiche les **12 meilleurs joueurs**
 - Vous pouvez personnaliser le nombre de joueurs affichés dans les **paramètres avancés du jeu**
@@ -104,4 +104,4 @@ Les joueurs voient **leur propre position** sur leur appareil pendant la fin de 
 
 ---
 
-Voilà tout ce qu'il faut savoir pour animer votre quiz avec l'application Quizmaster. Vous êtes maintenant totalement prêt à diriger votre événement avec confiance et style !
+C'est tout ce que vous devez savoir pour exécuter votre quiz avec l'application Quizmaster. Vous êtes maintenant totalement prêt à diriger votre événement avec confiance et style !
