@@ -25,15 +25,15 @@ Vous pouvez tester un quiz utilisant le thème Emerald [ici](https://play.quizwi
 
 ### Pièces jointes du quiz
 
-De loin, la façon la plus simple de changer l'aspect et l'ambiance du jeu est d'ajouter des images à votre quiz. Ouvrez les **Paramètres du Quiz** et faites défiler jusqu'à la section **Pièces jointes**. Ici, vous pouvez télécharger des images qui seront utilisées comme arrière-plan, logo client, écrans de connexion, attente (pour les quiz en conférence et en direct), et plus encore.
+De loin, la façon la plus simple de changer l'aspect et l'ambiance du jeu est d'ajouter des images à votre quiz. Ouvrez les **Paramètres du Quiz** et faites défiler jusqu'à la section **Pièces jointes**. Ici, vous pouvez télécharger des images qui seront utilisées comme arrière-plan, logo client, écrans de connexion et d'attente (pour les quiz en conférence et en direct), et plus encore.
 
 ![Une capture d'écran des pièces jointes du quiz](/images/emerald/quiz-attachments.png)
 
-### Pièces jointes du tour
+### Pièces jointes de la manche
 
-Vous pouvez également télécharger des images ou vidéos qui seront diffusées avant et après le jeu. Cela s'applique aussi aux tours : trouvez une image que vous souhaitez utiliser comme introduction du tour, allez dans les **paramètres du tour**, désactivez **Afficher l'introduction du tour** pour masquer l'introduction par défaut, et téléchargez votre image ou vidéo en tant que **Afficher avant le tour**. Lorsque le tour commence, l'image ou la vidéo s'affichera à la place de l'introduction par défaut.
+Vous pouvez également télécharger des images ou vidéos qui seront diffusées avant et après le jeu. Cela s'applique aussi aux manches : trouvez une image que vous souhaitez utiliser comme introduction de manche, allez dans les **paramètres de la manche**, désactivez **Afficher l'introduction de la manche** pour masquer l'introduction par défaut, et téléchargez votre image ou vidéo en tant que **Afficher avant la manche**. Lorsque la manche commence, l'image ou la vidéo s'affichera à la place de l'introduction par défaut.
 
-![Une capture d'écran des pièces jointes du tour](/images/emerald/round-settings.png)
+Pièces jointes de la manche
 
 :::tip
 Utilisez des images et vidéos en résolution 1920 x 1080 pour de meilleurs résultats.
