@@ -1,9 +1,9 @@
 ---
 id: dealers-choice
-title: Escolha do Redentor
+title: Dealer's Choice
 ---
 
-# 🃏 Escolha do Redentor
+# 🃏 Dealer's Choice
 
 A ronda **Dealer's Choice** no QuizWitz adiciona uma reviravolta estratégica ao teu quiz.
 Um dos jogadores pode **escolher a categoria da próxima pergunta**, ganhando uma possível
@@ -41,7 +41,7 @@ Os rótulos são definidos no **campo “Rótulo”** das configurações de cad
 
 Se o dealer responder corretamente à pergunta que escolheu, poderá receber um **bônus**:
 
-- Configure a **porcentagem do bônus** (ex.: 50%) na configuração **Bônus do Dealer**.
+- Configura a **percentagem do bónus** (ex.: 50%) na configuração **Bónus do Dealer**.
 
 > O bônus só se aplica se a resposta do dealer estiver correta.
 
@@ -61,16 +61,16 @@ Antes da ronda começar, o QuizWitz determina o dealer usando uma destas opçõe
 
 ### Opções de pontuação:
 
-- **Estratégia de pontuação:** Escolha _Bônus do Dealer_
+- **Estratégia de pontuação:** Escolhe _Bónus do Dealer_
 - **Pontuação baseada no tempo:** Define a percentagem mínima de pontos mantidos para respostas mais lentas (ex.: 75%)
 
 ---
 
 ## 📝 Dicas para Quizmasters
 
-- Avise os jogadores que eles vão escolher entre categorias rotuladas.
-- Em jogos ao vivo, não se esqueça de anotar claramente a seleção do dealer.
-- Use rótulos únicos e descritivos para evitar confusão durante a seleção.
+- Avisa os jogadores que eles vão escolher entre categorias rotuladas.
+- Em jogos ao vivo, não te esqueças de anotar claramente a seleção do dealer.
+- Usa rótulos únicos e descritivos para evitar confusão durante a seleção.
 
 ---
 
