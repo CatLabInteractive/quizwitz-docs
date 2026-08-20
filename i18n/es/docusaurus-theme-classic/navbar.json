@@ -20,7 +20,7 @@
     "description": "Navbar item with label Question types"
   },
   "item.label.FAQ": {
-    "message": "FAQ",
+    "message": "Preguntas frecuentes",
     "description": "Navbar item with label FAQ"
   }
 }
