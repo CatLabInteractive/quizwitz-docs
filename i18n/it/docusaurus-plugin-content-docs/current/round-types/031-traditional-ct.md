@@ -3,9 +3,9 @@ id: traditional-ct
 title: Tradizionale (CT)
 ---
 
-# 📝🧵 Tradizionale – Filo conduttore
+# 📝🧵 Tradizionale - Filo conduttore
 
-Un round **Tradizionale – Filo conduttore** funziona proprio come un [round tradizionale](030-traditional.md), ma con una piccola svolta:  
+Un round **Tradizionale - Filo conduttore** funziona come un [round tradizionale](030-traditional.md), ma con una svolta:  
 Alla fine del round, l'**ultima domanda** (“Qual era il filo conduttore?”) viene valutata e mostrata per prima. Questo permette al quizmaster di mettere in evidenza il collegamento prima di rivelare le altre risposte.
 
 ---
