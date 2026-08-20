@@ -1,11 +1,11 @@
 ---
 id: dealers-choice
-title: Elección del Dealer
+title: Opción del distribuidor
 ---
 
-# 🃏 Elección del Dealer
+# 🃏 elección del distribuidor
 
-La ronda **Dealers' Choice** en QuizWitz añade un giro estratégico a tu quiz.
+La ronda de **Elección del Dealer** en Prueba Witz añade un giro estratégico a tu cuestionario.
 Uno de los jugadores puede **elegir la próxima categoría de pregunta**, dándole una posible ventaja —¡y posiblemente un bono! Así es como configurarlo y jugar:
 
 ---
@@ -21,7 +21,7 @@ En esta ronda, **un jugador se convierte en el "dealer"** y selecciona la siguie
 
 ## 🏷️ Asignar categorías a las preguntas
 
-Cada pregunta en la ronda Dealers’ Choice necesita una **etiqueta única**, que actúa como la categoría que el dealer ve y selecciona.
+Cada pregunta en la ronda de elección del distribuidor necesita una **etiqueta única**, la cual actúa como la categoría de la que el distribuidor ve y selecciona.
 
 Por ejemplo:
 
@@ -73,5 +73,5 @@ Antes de que comience la ronda, QuizWitz determina el dealer utilizando una de e
 
 ---
 
-La ronda Dealers’ Choice fomenta la interacción y da a los jugadores un poco de control, mientras sigue premiando respuestas rápidas y correctas. ¡Es una excelente manera de mantener a todos motivados!
+La ronda de Selección del Dealer’s Choice fomenta la interacción y da a los jugadores un poco de control, mientras que sigue recompensando respuestas rápidas y correctas. ¡Es una excelente manera de mantener a todos motivados!
 
