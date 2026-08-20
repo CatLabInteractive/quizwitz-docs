@@ -31,10 +31,10 @@ All custom designs must include the QuizWitz logo.
 
 ## 🖥️ Screen overview
 
-| Stage                                           | Main screen                                                                                                 | Player device (Tablet/Phone)                              |
+| Stage                                           | Game screen                                                                                                 | Player device (Tablet/Phone)                              |
 |-------------------------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | Connect screen                                  |                                                                                                             |                                                           |
-| Waiting screen                                  | Logo of the quiz. Displayed while the presenter is reading the question.                                    | A quote urging the player to listen carefully.            |
+| Waiting screen                                  | Logo of the quiz. Displayed while the quizmaster is reading the question.                                   | A quote urging the player to listen carefully.            |
 | Game intro                                      | Animation before the game.                                                                                  | Waiting screen.                                           |
 | Round intro                                     | Animation before each round.                                                                                | Waiting screen.                                           |
 | Questions                                       |                                                                                                             |                                                           |
