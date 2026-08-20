@@ -1,27 +1,27 @@
 ---
 id: jury-app
-title: Aplicativo do Juramento
+title: App do Júri
 ---
 
-# 🧑‍⚖️ App do Jury — Revendo respostas abertas em QuizWitz Live
+# 🧑‍⚖️ App do Júri — A rever respostas abertas no QuizWitz Live
 
-Se seu questionário incluir **perguntas de resposta abertas**, você precisará usar o **Aplicativo do Juriz** para revisar e marcar respostas manualmente.
+Se o teu quiz incluir **perguntas de resposta aberta**, vais precisar de usar a **App do Júri** para rever e pontuar respostas manualmente.
 
 ---
 
-## 🗂️ Usando o Aplicativo Jury
+## 🗂️ A usar a App do Júri
 
-O aplicativo Jury é uma interface separada usada pelos membros do júri para avaliar as respostas e gerenciar pontuação.
+A App do Júri é uma interface separada usada pelos membros do júri para avaliar as respostas e gerir a pontuação.
 
-Para abrir o App do Juramento:
+Para abrir a App do Júri:
 
 1. No início do quiz, é gerado um **Código do júri**.
-2. Em um dispositivo separado, vá para [**quizwitz.tv**](https://quizwitz.tv)
+2. Num dispositivo separado, vai a [**quizwitz.tv**](https://quizwitz.tv)
 3. Introduz o **Código do júri** para aceder ao app
 
 > 💡 Podes abrir a App do Júri em qualquer navegador — é uma aplicação web, sem necessidade de instalação.
 
-Uma vez dentro, o Aplicativo do Jury fornece várias ferramentas úteis:
+Depois de entrares, a App do Júri disponibiliza várias ferramentas úteis:
 
 - **Avaliar perguntas** — Os resultados das perguntas abertas vão aparecer assim que uma pergunta for concluída.
   - O jogo **não espera** que o júri termine — a menos que seja a **última pergunta da ronda** ou que as definições do quiz indiquem o contrário.
@@ -40,7 +40,7 @@ Uma vez dentro, o Aplicativo do Jury fornece várias ferramentas úteis:
 
 ## ✅ Avaliar perguntas abertas
 
-Depois de cada pergunta em aberto, o aplicativo Jury exibe todas as respostas enviadas. Os membros do júri devem:
+Depois de cada pergunta aberta, a App do Júri mostra todas as respostas enviadas. Os membros do júri devem:
 
 1. Rever cada resposta com atenção
 2. Marcar a caixa de seleção ao lado de cada resposta **aceitável**
