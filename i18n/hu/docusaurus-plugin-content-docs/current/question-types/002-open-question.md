@@ -29,7 +29,7 @@ A nyitott kérdések többféle beállítást kínálnak, hogy illeszkedjenek a 
 - **Több elfogadott válasz:** Adj hozzá alternatív írásmódokat, rövidítéseket vagy szinonimákat a rugalmasabb automatikus javításhoz.
 - **Időalapú pontozás:** Jutalmazd a gyorsabb válaszokat (lásd lent a „Pontozás” részt).
 - **Automatikus javítás kényszerítése:** Kapcsold be, hogy a játék automatikusan helyesnek jelölje a válaszokat az általad megadott lista alapján.
-  - Ha nincs bekapcsolva (a legtöbb élő játékban ez az alapértelmezett), a nyitott válaszokat kézzel kell átnézni és pontozni a [Jury app](../quizmaster/004-jury-app.md) használatával.
+  - If not enabled (the default for most live games), open answers must be reviewed and scored manually using the [Jury App](../quizmaster/004-jury-app.md).
 
 Ezekről a lehetőségekről bővebben a [kérdések írása](../editor/005-writing-questions.md) részben olvashatsz.
 
@@ -49,11 +49,11 @@ A nyitott kérdések pontozása úgy lett kialakítva, hogy igazságos legyen, m
 
 ## 🧑‍⚖️ Zsűri általi ellenőrzés a QuizWitz Live-ban
 
-A **QuizWitz Live**-ban a nyitott kérdések általában kézi ellenőrzést igényelnek a [Jury app](../quizmaster/004-jury-app.md) segítségével:
+In **QuizWitz Live**, open questions generally require a manual review with the [Jury App](../quizmaster/004-jury-app.md):
 
-- A Jury app lehetővé teszi, hogy a zsűritagok elfogadják, elutasítsák vagy módosítsák a nyitott válaszok pontozását.
+- The Jury App lets jury members accept, reject, or adjust scoring for open answers.
 - A fonetikus és alternatív egyezések segítenek, de az emberi megítélés elengedhetetlen az igazságos pontozáshoz és a kreatív válaszok kezeléséhez.
-- A teljes útmutatót és a funkciókat a [Jury app dokumentációjában](../quizmaster/004-jury-app.md) találod.
+- For full instructions and features, see the [Jury App documentation](../quizmaster/004-jury-app.md).
 
 ---
 
