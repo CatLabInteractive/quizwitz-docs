@@ -3,20 +3,20 @@ id: create-quizzes
 title: Crear quizzes
 ---
 
-# 🧠 Crea un Cuestionario Completo
+# 🧠 Crea un Quiz Completo
 
-¿Quieres construir una experiencia completa de cuestionario para jugadores o eventos? Esta guía te guía a través de la creación de un cuestionario completo usando múltiples rondas — incluyendo tus propias preguntas o Round-Abouts que has recopilado.
+¿Quieres crear una experiencia de quiz completa para jugadores o eventos? Esta guía te explica cómo crear un quiz completo utilizando varias rondas — incluidas tus propias preguntas o los Round-Abouts que hayas recopilado.
 
 ---
 
-## 🎬 Comenzando
+## 🎬 Primeros pasos
 
 Desde el menú principal:
 
 1. Haz clic en **Crear**
 2. Elige **Quiz** del menú desplegable
 
-![QuizWitz create quiz](/images/create-quiz.png)
+![Crear quiz en QuizWitz](/images/create-quiz.png)
 
 ---
 
@@ -37,13 +37,13 @@ En la barra lateral izquierda, podrás:
 - Elegir una categoría
 - [Importar preguntas](../editor/015-importing-questions.md) en lote
 
-![Create new round in quiz](/images/quiz-add-round.png)
+![Crear nueva ronda en el quiz](/images/quiz-add-round.png)
 
 En el editor principal, puedes:
 
 - Añadir y editar preguntas individuales
 - Reordenar rondas o preguntas usando los **botones de flecha**
-- Borrar rondas o preguntas usando el **icono de la papelería**
+- Borrar rondas o preguntas usando el **icono de la papelera**
 
 > 💡 Usa la herramienta **Importar preguntas** para añadir rápidamente varias preguntas de una vez. Sigue las instrucciones en pantalla y [verifica que todo se importe correctamente](../editor/015-importing-questions.md).
 
@@ -76,11 +76,11 @@ Recuerda:
 
 Cuando estés listo para probar o iniciar tu quiz, presiona el botón **Iniciar Quiz**. Verás las siguientes opciones:
 
-![Quiz playlinks](/images/quiz-playlinks.png)
+![Enlaces de juego del quiz](/images/quiz-playlinks.png)
 
-- **[Jugar Party Game](../players/001-playing-quizwitz.md)** — Una experiencia casual de quiz para disfrutar con amigos en la misma pantalla o mediante compartir pantalla
-- **[Iniciar QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Lanza un evento profesional de quiz en vivo usando la App del Quizmaster
-- **[Iniciar Modo Conferencia (PRO)](../tutorials/050-conference-booth.md)** — Organiza un quiz estilo conferencia para audiencias grandes con asientos asignados, códigos de equipo y herramientas de producción
+- **[Juega a Party Game](../players/001-playing-quizwitz.md)** — Una experiencia de quiz informal para disfrutar con amigos en la misma pantalla o compartiendo pantalla. El juego se ejecuta automáticamente; el anfitrión puede pausarlo, pero no tiene más control sobre el ritmo.
+- **[Iniciar QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Organiza un evento de quiz en directo profesional utilizando la Quizmaster App. Este es el **único modo en el que el quizmaster controla el ritmo** del juego.
+- **[Iniciar modo conferencia (PRO)](../tutorials/050-conference-booth.md)** — Organiza un quiz de estilo conferencia para audiencias más grandes, con asientos asignados, códigos de equipo y herramientas de producción. Como Party Games, los juegos de conferencia se ejecutan automáticamente.
 
 ---
 
@@ -89,7 +89,7 @@ Cuando estés listo para probar o iniciar tu quiz, presiona el botón **Iniciar 
 ¿Quieres simular una ejecución completa del quiz? Usa las herramientas avanzadas de prueba:
 
 - **Simular** — Realiza un test con bots (sin presentación)
-- **Simular en Vivo** — Simula una sesión completa de [QuizWitz Live](../quizmaster/001-introduction.md) con bots, incluyendo vistas de Quizmaster, Jurado y Jugador
+- **Simular Live** — Simula una sesión completa de [QuizWitz Live](../quizmaster/001-introduction.md) con bots, incluyendo vistas de Quizmaster, Jurado y Jugador
 
 ---
 
