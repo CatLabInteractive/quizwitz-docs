@@ -1,6 +1,6 @@
 ---
 id: round-types
-name: Типове рундове
+title: Round types
 ---
 
 # Типове рундове
@@ -18,10 +18,10 @@ name: Типове рундове
 
 Тези рундове предлагат малко повече интерактивност от обикновените въпроси с отговори.
 
-- [Парче пай](021-piece-of-pie.md)
+- [Piece of Pie](021-piece-of-pie.md)
 - [Мултивъпрос](022-multiquestion.md)
 - [Страйк](023-strike.md)
-- [Избор на дилъра](024-dealers-choice.md)
+- [Dealer's Choice](024-dealers-choice.md)
 
 ## 🍺 Традиционни
 
@@ -46,5 +46,5 @@ name: Типове рундове
 
 В тези типове рундове можеш да избереш конкретни **отдели**, които да играят срещу други отдели.
 
-- [Отдел — избор на дилъра](070-departments-dealers-choice.md)
+- [Department — Dealer's Choice](070-departments-dealers-choice.md)
 - [Отдел — елиминация](071-departments-elimination.md)
