@@ -1,9 +1,9 @@
 ---
 id: round-options
-title: Options du Round
+title: Options de la manche
 ---
 
-# 🔄 Options du Round
+# 🔄 Options de la manche
 
 Chaque manche a un **type** spécifique. La valeur par défaut est **Trivia**, mais nous vous invitons à tester et expérimenter tous les types disponibles. Cette page explique les réglages et pièces jointes que vous pouvez configurer pour chaque manche.
 
@@ -15,13 +15,13 @@ Chaque manche a un **type** spécifique. La valeur par défaut est **Trivia**, m
 
 Pour configurer les options d'une manche, cliquez sur l'icône d'engrenage dans le panneau de la manche :
 
-| ![Open round options](/images/open-round-options.png) | ![Round options](/images/round-options.png) |
-| :---------------------------------------------------: | :-----------------------------------------: |
-|            _Ouverture des options du round_           |     _Panneau de configuration du round_     |
+| ![Ouvrir les options de la manche](/images/open-round-options.png) | ![Options de la manche](/images/round-options.png) |
+| :----------------------------------------------------------------: | :------------------------------------------------: |
+|                _Ouverture des options de la manche_                |       _Panneau de configuration de la manche_      |
 
 ---
 
-## ⚙️ Options générales du round
+## ⚙️ Options générales de la manche
 
 Les options suivantes sont disponibles pour la plupart des types de manches :
 
@@ -29,18 +29,18 @@ Les options suivantes sont disponibles pour la plupart des types de manches :
 - **Ordre aléatoire des questions** — Mélange l'ordre des questions dans la manche
 - **Afficher l’intro de la manche** — Affiche un titre animé avant le début de la manche
 - **Afficher l’outro de la manche (score intermédiaire)** — Révèle les classements à la fin de la manche
-- **Regrouper tous les retours en un seul écran** — Récupère les retours sur les questions en un bloc après la manche
-- **Afficher tous les retours sur les questions à la fin de la manche** — Retarde les retours jusqu’à la fin de la manche
-- **Forcer le retour après chaque question individuelle** — Assure un retour immédiat
-  > ⚠️ Cela ne prend effet que dans les types de manches et de questions où les retours sont normalement retardés, comme les questions ouvertes ou les lightning rounds.
+- **Regrouper tout le feedback sur un seul écran** — Rassemble le feedback des questions en un bloc à la fin de la manche
+- **Afficher tout le feedback des questions à la fin de la manche** — Retarde le feedback jusqu'à la fin de la manche
+- **Forcer le feedback après chaque question individuelle** — Garantit un feedback immédiat
+  > ⚠️ Cela ne prend effet que pour les types de manches et de questions où le feedback serait normalement retardé, comme les questions ouvertes ou les manches éclair.
 
-📘 Consultez les [types de questions](../question-types/000-question-types.md) pour plus d’informations sur le timing et le comportement des retours.
+📘 Consultez les [types de questions](../question-types/000-question-types.md) pour plus d'informations sur le timing et le comportement du feedback.
 
 ---
 
 ## 🏆 Options de scoring {#scoring}
 
-QuizWitz offre un système de scoring flexible pour garder les choses justes et engaging pour tous les joueurs.
+QuizWitz offre un système de scoring flexible pour que le jeu reste équitable et captivant pour tous les joueurs.
 
 - **Scoring basé sur le temps** — Les joueurs gagnent plus de points s’ils répondent plus vite.
   - Pour la plupart des types de questions, les points basés sur le temps diminuent **en continu par microseconde** : plus vous répondez vite, plus vous marquez.
@@ -52,13 +52,13 @@ QuizWitz offre un système de scoring flexible pour garder les choses justes et 
 
 > 💡 Ajuster ce réglage vous permet de rendre les manches plus basées sur les connaissances ou plus basées sur la rapidité, selon votre style de quiz.
 
-Ces options de scoring se trouvent dans le panneau d’options du round lorsqu’on édite une manche.
+Ces options de scoring se trouvent dans le panneau d'options de la manche lorsqu'on édite une manche.
 
 ---
 
 ## 📜 Instructions pour le quizmaster
 
-Vous pouvez ajouter un **texte d’introduction de manche** personnalisé qui n’apparaîtra que sur l’application [Quizmaster](../quizmaster/001-introduction.md) au début de la manche. Utilisez ceci pour informer le présentateur ou ajouter une touche personnelle.
+Vous pouvez ajouter un **texte d'introduction de manche** personnalisé qui n'apparaîtra que sur la [Quizmaster App](../quizmaster/001-introduction.md) au début de la manche. Utilisez ceci pour informer le quizmaster ou ajouter une touche personnelle.
 
 ---
 
@@ -72,4 +72,4 @@ Améliorez votre manche avec des médias affichés à des moments spécifiques :
 - **Pendant l’outro de la manche** — _(audio uniquement)_ Joue pendant l’affichage des classements
 - ...
 
-📘 Pour les types de fichiers supportés et conseils d’utilisation, consultez le [guide des pièces jointes](../editor/006-attachments.md).
+📘 Pour les types de fichiers pris en charge et des conseils d'utilisation, consultez le [guide des pièces jointes](../editor/006-attachments.md).
