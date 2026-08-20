@@ -1,11 +1,11 @@
 ---
 id: piece-of-pie
-title: Kousek koláče
+title: Kus koláče
 ---
 
-# 🥧 Kousek koláče
+# 🥧 Kus koláče
 
-V kole **Kousek koláče** se týmová práce vyplácí! Celkový počet bodů dostupných za každou otázku závisí na počtu hráčů a pak se rozdělí mezi všechny hráče (nebo týmy), kteří na otázku odpoví správně.
+Týmová práce se vyplatí v **kousek Pie**! Celkový počet bodů dostupných za každou otázku závisí na počtu hráčů a pak se rozdělí mezi všechny hráče (nebo týmy), kteří na otázku odpoví správně.
 
 ---
 
