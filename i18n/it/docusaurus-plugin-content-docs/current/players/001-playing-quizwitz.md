@@ -52,7 +52,7 @@ Per esplorare un Round-About più nel dettaglio:
 - Clicca sulla sua **immagine**, sul **titolo** o sull'**icona dei commenti**
 - Clicca su **Gioca** per iniziare subito
 
-![Dettagli del Round-About di QuizWitz](/images/round-about-details.png)
+![QuizWitz Round-About details](/images/round-about-details.png)
 
 ---
 
@@ -107,7 +107,7 @@ Una volta iniziata la partita, scegli la modalità:
 
 Gioca con gli amici usando i loro telefoni o tablet:
 
-> 📺 Assicurati che la schermata del quiz sia visibile — usa uno schermo condiviso o la condivisione schermo
+> 📺 Assicurarsi che la schermata di gioco sia visibile — utilizzare un display condiviso o condivisione dello schermo
 
 1. Clicca su **Avvia**, poi su **Partita di gruppo**
 2. I giocatori seguono le istruzioni sullo schermo per partecipare
