@@ -5,7 +5,7 @@ title: Pedazo de pastel
 
 # 🥧 Pedazo de pastel
 
-¡En una ronda de **Pedazo de pastel**, el trabajo en equipo da sus frutos! Los puntos totales disponibles para cada pregunta dependen del número de jugadores, y luego se dividen entre todos los jugadores (o equipos) que respondan correctamente.
+En una ronda de **Pedazo de pastel**, ¡el trabajo en equipo vale la pena! Los puntos totales disponibles para cada pregunta dependen del número de jugadores, y luego se dividen entre todos los jugadores (o equipos) que respondan correctamente.
 
 ---
 
