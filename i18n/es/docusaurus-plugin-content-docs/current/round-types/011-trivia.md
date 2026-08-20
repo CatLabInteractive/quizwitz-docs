@@ -11,15 +11,15 @@ La ronda **Trivia** es el tipo clásico y predeterminado de ronda en QuizWitz. P
 
 ## 📝 Cómo funciona
 
-- Soporta una mezcla de tipos de pregunta (elección múltiple, preguntas abiertas, imagen interactiva, etc.).
-- Los jugadores responden cada pregunta de forma individual, siguiendo la configuración de la ronda para retroalimentación y puntuación.
+- Soporta una mezcla de tipos de pregunta (elección múltiple, preguntas abiertas, mapa de imagen, etc.).
+- Los jugadores responden cada pregunta de forma individual, siguiendo la configuración de la ronda para el feedback y la puntuación.
 - Ideal para probar conocimientos amplios o mezclar temas.
 
 ---
 
 ## ⚙️ Configuraciones recomendadas
 
-- **Retroalimentación de preguntas:** Por defecto, los jugadores ven la retroalimentación después de cada pregunta. Puedes agrupar la retroalimentación al final de la ronda si prefieres (véase [opciones de ronda](../editor/008-round-options.md)).
+- **Feedback de la pregunta:** Por defecto, los jugadores ven el feedback después de cada pregunta. Puedes agrupar el feedback al final de la ronda si prefieres (consulta [opciones de ronda](../editor/008-round-options.md)).
 - **Orden aleatorio de preguntas:** Se puede activar para mayor variedad.
 - **Temporizador:** Ajusta el tiempo por pregunta o modifica los valores predeterminados de la ronda.
 
