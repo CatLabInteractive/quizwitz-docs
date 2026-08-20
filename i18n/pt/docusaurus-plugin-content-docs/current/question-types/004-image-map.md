@@ -5,7 +5,7 @@ title: Pergunta de mapa de imagem
 
 # 🗺️ Mapa de imagem
 
-Numa pergunta de **Mapa de imagem**, os jogadores precisam selecionar o ponto correto (ou os pontos corretos) numa imagem exibida no dispositivo deles. Isso é ideal para desafios de identificação visual, como "Selecione o balão de Erlenmeyer."
+Numa pergunta de **Mapa de imagem**, os jogadores precisam selecionar o ponto correto (ou os pontos corretos) numa imagem exibida no dispositivo deles. Isto é ideal para desafios de identificação visual, como "Seleciona o balão de Erlenmeyer."
 
 ---
 
@@ -17,8 +17,8 @@ Numa pergunta de **Mapa de imagem**, os jogadores precisam selecionar o ponto co
 
 - **Pergunta:** Diga claramente o que os jogadores precisam encontrar na imagem.  
   _(Exemplo: “Selecione o balão de Erlenmeyer.”)_
-- **Imagem:** Envie uma imagem de alta qualidade que será mostrada a todos os jogadores.
-- **Pontos de resposta:** Define uma ou mais **áreas-alvo** ("pontos") na imagem. Cada área pode ser definida como um círculo ou outra forma, e você determina a posição e o tamanho dela.
+- Envia uma imagem de alta qualidade que será mostrada a todos os jogadores.
+- **Pontos de resposta:** Define uma ou mais **áreas-alvo** ("pontos") na imagem. Cada área pode ser definida como um círculo ou outra forma, e tu determinas a posição e o tamanho dela.
 - **Selecionando respostas:** Os jogadores tocam ou clicam para marcar suas respostas na imagem.
   - Se a resposta cair **dentro de uma área correta**, eles recebem a pontuação total.
   - Se a resposta cair **fora da área correta**, mas dentro do raio “quase correto”, eles podem ganhar pontos parciais com base na distância (conforme definido pela configuração de _suavização da pontuação_).
@@ -32,8 +32,8 @@ Numa pergunta de **Mapa de imagem**, os jogadores precisam selecionar o ponto co
 
 - **Número de respostas:** Define o número mínimo e máximo de pontos que um jogador precisa identificar.
 - **Suavização da pontuação:** Ajusta o crédito parcial para respostas “quase corretas”, com base em quão perto a seleção está da área correta (aplica-se apenas à distância entre correto e quase correto).
-- **Pontos por área:** Decida se os pontos são concedidos por área identificada corretamente, ou apenas se todas as áreas mínimas necessárias forem selecionadas.
-- **Opções de anexo:** Adicione imagens, áudio ou vídeo para dar mais contexto. Define atribuições se for publicar.
+- **Pontos por área:** Decide se os pontos são concedidos por área identificada corretamente, ou apenas se todas as áreas mínimas necessárias forem selecionadas.
+- **Opções de anexo:** Adiciona imagens, áudio ou vídeo para dar mais contexto. Define atribuições se for publicar.
 
 Vê [como escrever perguntas](../editor/005-writing-questions.md) para configurações gerais de perguntas.
 
@@ -50,10 +50,10 @@ Podes desativar a pontuação baseada no tempo para este tipo de pergunta se qui
 
 ## 💡 Dicas para criar ótimas perguntas de mapa de imagem
 
-- **Use imagens claras e sem excesso de elementos** para facilitar a identificação.
+- **Usa imagens claras e sem excesso de elementos** para facilitar a identificação.
 - **Define as áreas de resposta com cuidado** para evitar sobreposição ou confusão.
-- **Dê feedback construtivo** para ajudar os jogadores a aprender com os erros.
-- **Crédito parcial:** Use a opção “quase correto” para recompensar respostas próximas e manter tudo justo.
+- **Dá feedback construtivo** para ajudar os jogadores a aprender com os erros.
+- **Crédito parcial:** Usa a opção “quase correto” para recompensar respostas próximas e manter tudo justo.
 
 ---
 
