@@ -5,24 +5,24 @@ title: Tournoi
 
 # Tournoi
 
-Ce tutoriel vous montrera comment utiliser le mode Tournoi de QuizWitz. Le mode Tournoi permet aux joueurs de rejoindre et de jouer à votre quiz quand ils veulent — sur leur propre smart device. Leurs scores sont enregistrés sur un classement mondial que vous pouvez afficher dans votre lieu.
+Ce tutoriel vous montrera comment utiliser le mode tournoi de QuizWitz. Le mode tournoi permet aux joueurs de rejoindre et de jouer à votre quiz quand ils veulent — sur leur propre appareil. Leurs scores sont enregistrés sur un classement mondial que vous pouvez afficher dans votre lieu.
 
 ---
 
 ## 📝 Créez le quiz
 
-Lorsque vous créez un quiz pour tournoi, gardez-le court et engageant. Si les visiteurs doivent passer trop de temps sur le quiz, ils risquent de ne pas le finir.  
+Lorsque vous créez un quiz de tournoi, gardez-le court et engageant. Si les visiteurs doivent passer trop de temps sur le quiz, ils risquent de ne pas le finir.  
 **Seuls les joueurs qui terminent tout le quiz seront listés sur le classement.**
 
 ### 🎲 Sélection aléatoire des questions
 
-Faites en sorte que le jeu sélectionne un ensemble aléatoire de questions de votre pool, ainsi chaque partie est unique — et les joueurs qui reviennent obtiennent des questions différentes.
+Faites en sorte que le jeu sélectionne un ensemble aléatoire de questions dans votre banque de questions, ainsi chaque partie est unique — et les joueurs qui reviennent obtiennent des questions différentes.
 
 **Exemple de configuration :**
 
 - Choisissez **Quiz** dans le menu Créer et nommez votre quiz. Définissez la langue correcte.
-- Créez 3 manches, en les nommant (par exemple Round 1, Round 2, Round 3).
-- Dans les **paramètres de Manche** (icône roue dentée), activez **Afficher seulement x questions** et réglez sur 5.
+- Créez 3 manches, en les nommant (par exemple Manche 1, Manche 2, Manche 3).
+- Dans les **Paramètres de la manche** (icône engrenage), activez **Afficher seulement x questions** et réglez sur 5.
 - Activez **Ordre aléatoire des questions** pour que le jeu ne choisisse pas toujours les mêmes questions en premier.
 
 Répétez ces étapes pour chaque manche du quiz.

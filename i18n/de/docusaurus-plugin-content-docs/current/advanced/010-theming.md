@@ -31,7 +31,7 @@ Alle benutzerdefinierten Designs müssen das QuizWitz-Logo enthalten.
 
 ## 🖥️ Bildschirmübersicht
 
-| Stage                                                    | Spielbildschirm                                                                                        | Player device (Tablet/Phone)                         |
+| Stage                                                    | Spielbildschirm                                                                                        | Spielergerät (Tablet/Smartphone)                     |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | Verbindungsbildschirm                                    |                                                                                                        |                                                                         |
 | Wartebildschirm                                          | Logo des Quiz. Wird angezeigt, während der Quizmaster die Frage liest. | Ein Zitat, das den Spieler auffordert, genau zuzuhören. |

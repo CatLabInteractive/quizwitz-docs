@@ -1,76 +1,76 @@
 ---
 id: running-a-conference-quiz
-title: Executando um quiz de conferência
+title: Realizar um quiz de conferência
 ---
 
-# Executando um quiz de conferência
+# Realizar um quiz de conferência
 
-Este guia leva você através de tudo o que você precisa saber para realizar um questionário no QuizWitz em uma cabine de conferências ou evento — desde a abertura do link do questionário ao quadro de classificação final.
+Este guia orienta-te em tudo o que precisas de saber para realizar um quiz QuizWitz num stand de conferência ou evento — desde a abertura do link do quiz até à tabela de classificação final.
 
 ---
 
 ## Requisitos
 
-Antes de começar, certifique-se de que:
+Antes de começares, certifica-te de que tens:
 
-- Uma conexão estável à internet
-- URL do questionário (fornecido a você antecipadamente)
-- Um laptop conectado à tela que os jogadores assistirão
+- Uma ligação estável à internet
+- O URL do quiz (fornecido antecipadamente)
+- Um portátil ligado ao ecrã que os jogadores vão ver
 - **Google Chrome** — outros navegadores como Safari ou Edge podem não funcionar corretamente
 
 ---
 
-## Abrindo o questionário pela primeira vez
+## Abrir o quiz pela primeira vez
 
-1. Abra a URL do questionário no Google Chrome.  
-   Se não abrir automaticamente no Chrome, clique com o botão direito do mouse no link e escolha **Abrir com → Google Chrome**.
+1. Abre o URL do quiz no Google Chrome.  
+   Se não abrir automaticamente no Chrome, clica com o botão direito do rato no link e escolhe **Abrir com → Google Chrome**.
 
-2. Uma tela de carregamento preta aparece mostrando uma porcentagem. Isto leva apenas alguns segundos.
+2. Aparece um ecrã de carregamento preto com uma percentagem. Isto leva apenas alguns segundos.
 
-3. Uma vez carregada, a tela do jogo aparece. Se solicitado para entrar, clique em **Login** — abrirá uma segunda aba.
-   - Clique em **Login** na página de login e digite as credenciais fornecidas a você.
-   - Depois de fazer o login, a aba fecha automaticamente e o questionário termina o carregamento.
+3. Depois de carregado, aparece o ecrã do jogo. Se te for pedido para iniciar sessão, clica em **Login** — vai abrir-se um segundo separador.
+   - Clica em **Login** na página de início de sessão e introduz as credenciais que te foram fornecidas.
+   - Depois de iniciares sessão, o separador fecha-se automaticamente e o quiz termina de carregar.
 
-4. Quando o carregamento estiver concluído, a tela de boas vindas do quiz aparece.
+4. Quando o carregamento estiver concluído, aparece o ecrã de boas-vindas do quiz.
 
-5. Mova seu cursor sobre a tela para exibir a barra de controle na parte inferior.  
-   Clique no **ícone quadrado** à direita para entrar no modo de tela cheia.  
-   Agora o quiz está pronto para jogar na tela do jogo.
+5. Move o cursor sobre o ecrã para mostrar a barra de controlo na parte inferior.  
+   Clica no **ícone quadrado** à direita para entrar no modo de ecrã inteiro.  
+   Agora o quiz está pronto a ser jogado no ecrã do jogo.
 
 :::tip
-Para sair da tela cheia a qualquer momento — por exemplo, para mudar para outra janela — pressione **Esc**.
+Para sair do ecrã inteiro a qualquer momento — por exemplo, para mudar para outra janela — pressiona **Esc**.
 :::
 
 ---
 
-## Reiniciando o questionário para outro grupo
+## Reiniciar o quiz para outro grupo
 
-Para jogar novamente após um jogo concluído, você tem algumas opções:
+Para jogar novamente depois de um jogo terminado, tens algumas opções:
 
-- **Recarregar a página** — clique no ícone de recarga na barra de ferramentas do Chrome(talvez você precise pressionar Esc primeiro para sair da tela cheia).
-- **Pressione S** — após o quiz terminar, pressionar **S** no teclado leva você de volta ao ecrã inicial.
+- **Recarregar a página** — clica no ícone de recarregar na barra de ferramentas do Chrome (pode ser necessário pressionar Esc primeiro para sair do ecrã inteiro).
+- **Pressiona S** — depois de o quiz terminar, pressionar **S** no teclado leva-te de volta ao ecrã inicial.
 
-Se um pop-up aparece perguntando se você deseja iniciar um novo jogo, clique em **Sim, começar um novo jogo**.
+Se aparecer um pop-up a perguntar se queres iniciar um novo jogo, clica em **Sim, começar um novo jogo**.
 
-Quando o questionário recarregar, ele vai se lembrar do seu login e ir direto para a tela de boas-vindas. Entre em tela cheia novamente usando a barra de controle.
+Quando o quiz recarregar, vai lembrar-se da tua sessão iniciada e ir diretamente para o ecrã de boas-vindas. Entra novamente em ecrã inteiro usando a barra de controlo.
 
 ---
 
 ## Jogadores a entrar no quiz
 
-Os jogadores se juntam usando seus próprios smartphones de uma das duas maneiras:
+Os jogadores juntam-se usando os seus próprios smartphones de uma das duas formas:
 
-- Navegue até **www.quizwitz.tv** no navegador deles
-- Escaneie o **código QR** mostrado na tela do jogo
+- Navegar até **www.quizwitz.tv** no navegador deles
+- Lê o **código QR** mostrado no ecrã do jogo
 
-Na tela de entrada, jogadores:
+No ecrã de entrada, os jogadores:
 
-1. Digite o código de 8 dígitos \*\* mostrado na tela do jogo.
-2. Preencha seu **nome e endereço de e-mail**.
-3. Verifique a **caixa de seleção de privacidade**.
-4. Toque em **LEIA**.
+1. Introduz o **código de 8 dígitos** mostrado no ecrã do jogo.
+2. Preencher o **nome e o endereço de e-mail**.
+3. Marcar a **caixa de verificação de privacidade**.
+4. Tocar em **PRONTO**.
 
-Ao entrar, os jogadores verão uma mensagem de espera no telefone. A tela do jogo mostra quantos jogadores estão conectados.
+Ao entrar, os jogadores verão uma mensagem de espera no telefone. O ecrã do jogo mostra quantos jogadores estão ligados.
 
 :::note
 Jogadores podem entrar a qualquer momento enquanto o número máximo de jogadores não for atingido.
@@ -78,39 +78,39 @@ Jogadores podem entrar a qualquer momento enquanto o número máximo de jogadore
 
 ---
 
-## Iniciando o jogo
+## Iniciar o jogo
 
-Quando os jogadores que você quiser forem conectados, pressione **S** no teclado.  
-Uma contagem regressiva de 5 segundos começa, e depois o questionário começa automaticamente.
+Quando os jogadores que quiseres estiverem ligados, pressiona **S** no teclado.  
+Começa uma contagem decrescente de 5 segundos e, de seguida, o quiz começa automaticamente.
 
 ---
 
 ## Como o quiz funciona
 
-- Cada questão aparece na tela do jogo com o texto da pergunta, quatro opções de resposta e uma imagem.
-- Jogadores vêem a mesma pergunta em seu telefone e toque em uma das quatro opções.
-- Os jogadores têm **30 segundos** para responder. O temporizador é mostrado como uma barra branca na parte inferior da tela.
-- Assim que todos os jogadores tiverem respondido (ou o tempo acabar), a resposta correta é revelada na tela como um gráfico que mostra como as respostas foram distribuídas.
-- Os jogadores vêem em seu telefone se responderam corretamente e quantos pontos ele ganhou. As respostas corretas mais rápidas ganham mais pontos.
-- Depois de todas as perguntas, a pontuação de cada jogador é revelada uma por uma, do menor ao mais alto, terminando com o vencedor.
-- É mostrado um placar final. Os jogadores também podem ver sua pontuação e classificação no seu telefone.
+- Cada pergunta aparece no ecrã do jogo com o texto da pergunta, quatro opções de resposta e uma imagem.
+- Os jogadores veem a mesma pergunta no telefone e tocam numa das quatro opções.
+- Os jogadores têm **30 segundos** para responder. O temporizador é mostrado como uma barra branca na parte inferior do ecrã.
+- Assim que todos os jogadores tiverem respondido (ou o tempo acabar), a resposta correta é revelada no ecrã como um gráfico que mostra como as respostas foram distribuídas.
+- Os jogadores veem no telefone se responderam corretamente e quantos pontos ganharam. As respostas corretas mais rápidas ganham mais pontos.
+- Depois de todas as perguntas, a pontuação de cada jogador é revelada uma a uma, da mais baixa à mais alta, terminando com o vencedor.
+- É mostrada uma tabela de classificação final. Os jogadores também podem ver a sua pontuação e classificação no telefone.
 
 ---
 
-## Controles úteis
+## Controlos úteis
 
-A **barra de controle** aparece na parte inferior da tela quando você move seu cursor sobre ela. Ela contém:
+A **barra de controlo** aparece na parte inferior do ecrã quando moves o cursor sobre ela. Ela contém:
 
-| Controles          | O que ele faz                                                |
+| Controlos          | O que ele faz                                                |
 | ------------------ | ------------------------------------------------------------ |
-| Pausar ícone       | Pausa o quiz; clique no ícone play para continuar            |
-| Controle de volume | Arraste para a esquerda para silenciar todos os sons do quiz |
-| Código do jogo     | Codificar os jogadores usam para entrar                      |
+| Ícone de pausa     | Pausa o quiz; clica no ícone de reprodução para continuar    |
+| Controlo de volume | Arrasta para a esquerda para silenciar todos os sons do quiz |
+| Código do jogo     | O código que os jogadores usam para entrar                   |
 
 ---
 
 ## O que fazer se algo der errado
 
-- **Quiz fechado por acidente?** Reabra a URL do quiz. Quando o pop-up perguntar sobre um jogo anterior, clique **Não** (ou "Continuar") para continuar de onde você parou.
-- **Um jogador caiu de fora?** Eles podem se juntar usando o mesmo código, desde que o número máximo de jogadores ainda não tenha sido atingido.
-- **A tela ficou preta ou congelada?** Tente pressionar **F5** para recarregar ou clique no ícone de recarregamento no Chrome.
+- **Quiz fechado por acidente?** Reabre o URL do quiz. Quando o pop-up perguntar sobre um jogo anterior, clica em **Não** (ou "Continuar") para continuar de onde paraste.
+- **Um jogador saiu?** Pode voltar a juntar-se usando o mesmo código, desde que o número máximo de jogadores ainda não tenha sido atingido.
+- **O ecrã ficou preto ou congelou?** Tenta pressionar **F5** para recarregar ou clica no ícone de recarregar no Chrome.

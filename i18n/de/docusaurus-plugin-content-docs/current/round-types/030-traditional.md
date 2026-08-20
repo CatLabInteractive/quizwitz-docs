@@ -5,7 +5,7 @@ title: Traditionell
 
 # 📝 Traditionell
 
-Eine **traditionelle** Runde simuliert das klassische Pub-Quiz-Format, bei dem Spieler ihre Antworten bis zum Ende der Runde ändern können – genau wie beim Abgeben deines Antwortbogens im Pub!
+Eine **Traditionell**-Runde simuliert das klassische Pub-Quiz-Format, bei dem Spieler ihre Antworten bis zum Ende der Runde ändern können – genau wie beim Abgeben deines Antwortbogens im Pub!
 
 ---
 
@@ -16,7 +16,7 @@ Eine **traditionelle** Runde simuliert das klassische Pub-Quiz-Format, bei dem S
 ## 📝 So funktioniert’s
 
 - Die Runde kann sowohl Multiple-Choice- als auch offene Fragen enthalten.
-- Wenn jede Frage gestellt wird, erscheint auf dem smart device des Spielers ein neues Antwortfeld.
+- Wenn jede Frage gestellt wird, erscheint auf dem Gerät des Spielers ein neues Antwortfeld.
 - Spieler können **jede ihrer Antworten** bis zum Ende der Runde bearbeiten.
 - Alle Antworten werden automatisch eingereicht, wenn der Timer für die letzte Frage abläuft.
 

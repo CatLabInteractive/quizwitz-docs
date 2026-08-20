@@ -1,6 +1,6 @@
 ---
 id: department-elimination
-title: Eliminación por Departamento
+title: Eliminación por departamento
 ---
 
 # 🏢 Eliminación por departamento

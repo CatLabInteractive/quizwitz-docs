@@ -11,8 +11,8 @@ title: Pause
 
 ## 📝 So funktioniert’s
 
-- Während einer Unterbrechung wird der Bildschirm pausiert und ein Timer angezeigt.
-- **Im Konferenzmodus und Partyspiele:**  
+- Während einer Pause wird der Spielbildschirm angehalten und ein Timer angezeigt.
+- **In Konferenzspielen und Partyspielen:**  
   Die Unterbrechung endet, wenn jemand **Enter** auf dem Spielbildschirm drückt.
 - **Bei QuizWitz Live Spielen:**  
   Der quizmaster beendet die Pause über sein Gerät (Tablet oder Smartphone).  

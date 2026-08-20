@@ -3,9 +3,9 @@ id: player-introduction
 title: Spieler Einführung
 ---
 
-# 🙋‍♂️ Spieler Einführung
+# 🙋‍♂️ Spielervorstellung
 
-**Spielereinführung** ist ein besonderes Ereignis, das einfach die **Namen und ausgewählten Emojis aller Spieler oder Team** auf dem Spielbildschirm anzeigt.
+**Spielervorstellung** ist ein besonderes Ereignis, das einfach die **Namen und ausgewählten Emojis aller Spieler oder Teams** auf dem Spielbildschirm anzeigt.
 
 ---
 

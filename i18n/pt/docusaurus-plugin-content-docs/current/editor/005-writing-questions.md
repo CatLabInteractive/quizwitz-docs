@@ -45,11 +45,11 @@ Personaliza como a pergunta se comporta durante o jogo:
 
 ### 🎤 Quizmaster content
 
-Estes campos controlam o que aparece na tela de jogo e aplicativo do Quizmaster:
+Estes campos controlam o que aparece no ecrã de jogo e na App Quizmaster:
 
 - **Tela de jogo - Feedback de perguntas** — Exibido para todos os jogadores após o feedback ser revelado
-- **Tizmaster - Pergunta longa** — Uma versão da pergunta a ser lida em voz alta pelo questionário
-- **Tizmaster - Feedback longo** — O texto que o testador pode ler depois de revelar a resposta correta
+- **Quizmaster - Pergunta longa** — Uma versão da pergunta a ser lida em voz alta pelo quizmaster
+- **Quizmaster - Feedback longo** — O texto que o quizmaster pode ler depois de revelar a resposta correta
 
 > 📝 Estes campos ajudam a tornar as apresentações ao vivo dinâmicas e polidas.
 
@@ -70,7 +70,7 @@ Podes melhorar as perguntas com imagens, vídeo ou áudio. Cada anexo pode ser m
 Podes adicionar **vários anexos** em cada espaço.
 
 > ⚡ **No [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** o quizmaster pode escolher que anexo mostrar em cada momento.  
-> 🎮 **Em jogos sem um testador (Party Game, mode Conference (jogador único):** todos os anexos em um determinado slot são exibidos de uma vez.
+> 🎮 **Em jogos sem quizmaster (Party Game, modo Conferência, jogador único):** todos os anexos num determinado espaço são exibidos de uma vez.
 
 📘 Sabe mais sobre os tipos de ficheiro suportados, dicas de timing e limitações no [guia de anexos](../editor/006-attachments.md).
 

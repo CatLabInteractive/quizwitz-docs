@@ -1,9 +1,9 @@
 ---
 id: create-round-about
-title: Create a Round-About
+title: Erstelle ein Round-About
 ---
 
-# 🧠 Create a Round-About
+# 🧠 Erstelle ein Round-About
 
 Ein **Round-About** ist die Kerneinheit eines Quiz in QuizWitz – ein thematisches Set von Fragen, die in zufälliger Reihenfolge präsentiert werden. Du kannst deine eigenen erstellen und privat spielen oder es veröffentlichen, um es mit der Community zu teilen.
 
@@ -56,13 +56,13 @@ Im Bereich **Details** findest du weitere Konfigurationsmöglichkeiten:
 
 - **Translate** — Erstelle eine übersetzte Version deines Round-About in einer anderen Sprache
 - **Kategorie** — Wähle oder aktualisiere die Kategorie deines Round-About
-- **Round-Typ** — Wähle, wie die Fragen den Spielern präsentiert werden. Du kannst konfigurieren:
+- **Rundentyp** — Wähle, wie die Fragen den Spielern präsentiert werden. Du kannst konfigurieren:
   - Multiple Choice
   - Offene Fragen
   - Blitzrunden
   - Und mehr
 
-> 🔗 Erfahre mehr über [Round-Typen](../round-types/000-round-types.md) und [Fragetypen](../question-types/000-question-types.md) in den fortgeschrittenen Anleitungen.
+> 🔗 Erfahre mehr über [Rundentypen](../round-types/000-round-types.md) und [Fragetypen](../question-types/000-question-types.md) in den fortgeschrittenen Anleitungen.
 
 ![Round-About settings](/images/round-about-details.png)
 

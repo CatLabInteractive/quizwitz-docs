@@ -31,7 +31,7 @@ Se usare un telefono o un tablet è la tua unica opzione, segui questi passaggi 
 
 ## 🚫 Non consigliato per eventi live
 
-Anche con le precauzioni qui sopra, sconsigliamo vivamente di usare dispositivi mobili per ospitare eventi importanti o ad alto rischio.
+Anche con le precauzioni qui sopra, sconsigliamo **vivamente** di usare dispositivi mobili per ospitare eventi importanti o ad alto rischio.
 
 Per prestazioni e stabilità migliori:
 

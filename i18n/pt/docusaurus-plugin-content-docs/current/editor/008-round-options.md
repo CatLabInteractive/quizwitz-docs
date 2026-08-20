@@ -58,7 +58,7 @@ Estas opções de pontuação encontram-se no painel de opções da ronda ao edi
 
 ## 📜 Instruções do Quizmaster
 
-Você pode adicionar um **texto de introdução** personalizado que aparecerá somente no [Aplicativo de Tizmaster](../quizmaster/001-introduction.md) no início da rodada. Use isto para curtir o questionário ou adicionar um toque pessoal.
+Podes adicionar um **texto de introdução** personalizado que aparecerá somente na App Quizmaster no início da ronda. Use isto para curtir o questionário ou adicionar um toque pessoal.
 
 ---
 

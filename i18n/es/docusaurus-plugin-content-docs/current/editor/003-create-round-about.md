@@ -5,11 +5,11 @@ title: Crear un Round-About
 
 # 🧠 Crear un Round-About
 
-Un **Round-About** es la unidad central del cuestionario en QuizWitz: un conjunto temático de preguntas presentadas en orden aleatorio. Puedes crear tu propio Round-About y jugar en privado, o publicarlo para compartirlo con la comunidad.
+Un **Round-About** es la unidad básica de quiz en QuizWitz — un conjunto temático de preguntas presentadas en orden aleatorio. Puedes crear tu propio Round-About y jugar en privado, o publicarlo para compartirlo con la comunidad.
 
 ---
 
-## 🎬 Comenzando
+## 🎬 Primeros pasos
 
 Desde el menú principal:
 
@@ -22,7 +22,7 @@ Desde el menú principal:
 
 ## ✏️ Título, idioma y categoría
 
-Empieza dando a tu Round-About un claro:
+Empieza definiendo claramente:
 
 - **Título** — algo atractivo o descriptivo
 - **Idioma** — el idioma en que están escritas tus preguntas
@@ -34,9 +34,9 @@ Empieza dando a tu Round-About un claro:
 
 ---
 
-## ➕ Añadiendo preguntas
+## ➕ Añadir preguntas
 
-Haz clic en **Añadir nueva pregunta** para comenzar a crear el contenido de tu cuestionario.
+Haz clic en **Añadir nueva pregunta** para empezar a crear el contenido de tu quiz.
 
 - Añade tantas preguntas como quieras
 - Guarda tu progreso frecuentemente
@@ -44,7 +44,7 @@ Haz clic en **Añadir nueva pregunta** para comenzar a crear el contenido de tu 
 
 > 📢 **Para publicar tu Round-About**, necesitarás **al menos 14 preguntas**. Una vez publicado, se hace visible para toda la comunidad de QuizWitz — pero puedes despublicarlo después si lo necesitas.
 
-¿Quieres añadir preguntas en masa? Usa la función **Importar preguntas** y sigue las indicaciones para formatear todo correctamente.
+¿Quieres añadir preguntas en lote? Usa la función **Importar preguntas** y sigue las indicaciones para formatear todo correctamente.
 
 > 🛠️ Más detalles sobre tipos de preguntas y edición se encuentran en los capítulos siguientes.
 
@@ -68,4 +68,4 @@ En la sección **Detalles**, encontrarás opciones adicionales de configuración
 
 ---
 
-Cuando estés satisfecho/a con tu contenido, pulsa publicar — y comparte tu Round-About con el mundo!
+Cuando estés satisfecho/a con tu contenido, pulsa publicar — ¡y comparte tu Round-About con el mundo!

@@ -1,6 +1,6 @@
 {
   "link.title.Docs": {
-    "message": "Documents",
+    "message": "Documentation",
     "description": "The title of the footer links column with title=Docs in the footer"
   },
   "link.title.Community": {
@@ -8,7 +8,7 @@
     "description": "The title of the footer links column with title=Community in the footer"
   },
   "link.title.More": {
-    "message": "En savoir plus",
+    "message": "Plus",
     "description": "The title of the footer links column with title=More in the footer"
   },
   "link.item.label.Getting started": {
@@ -20,7 +20,7 @@
     "description": "The label of footer link with label=Frequently Asked Questions linking to /docs/faq"
   },
   "link.item.label.Discord": {
-    "message": "Discord.",
+    "message": "Discord",
     "description": "The label of footer link with label=Discord linking to https://discord.gg/9HREQjG"
   },
   "link.item.label.Facebook": {
@@ -32,11 +32,11 @@
     "description": "Label for the website URL input field on a profile or publisher settings page."
   },
   "link.item.label.Blog": {
-    "message": "Blogue",
+    "message": "Blog",
     "description": "Navigation label or content type name for blog posts."
   },
   "copyright": {
-    "message": "Copyright ©️ 2025 CatLab Interactive bv. Construit avec Docusaurus.",
+    "message": "Copyright © 2025 CatLab Interactive bv. Construit avec Docusaurus.",
     "description": "The footer copyright"
   }
 }

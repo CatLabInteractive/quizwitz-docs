@@ -13,11 +13,11 @@ Jede Runde hat einen spezifischen **Typ**. Standardmäßig ist **Trivia** einges
 
 ## 🔧 Eine Runde konfigurieren
 
-Um die Optionen einer Runde zu konfigurieren, klicke auf das Zahnrad-Symbol im Rundentafel:
+Um die Optionen einer Runde zu konfigurieren, klicke auf das Zahnrad-Symbol im Rundenpanel:
 
-| ![Rundoptionen öffnen](/images/open-round-options.png) | ![Rundenoptionen](/images/round-options.png) |
-| :----------------------------------------------------: | :------------------------------------------: |
-|                 _Rundenoptionen öffnen_                |          _Rundeneinstellungs-Panel_          |
+| ![Rundenoptionen öffnen](/images/open-round-options.png) | ![Rundenoptionen](/images/round-options.png) |
+| :------------------------------------------------------: | :------------------------------------------: |
+|                  _Rundenoptionen öffnen_                 |          _Rundeneinstellungs-Panel_          |
 
 ---
 
@@ -28,7 +28,7 @@ Die folgenden Optionen sind für die meisten Rundentypen verfügbar:
 - **Nur _X_ Fragen anzeigen** — Beschränkt die Runde auf eine bestimmte Anzahl von Fragen
 - **Fragen zufällig anordnen** — Mische die Reihenfolge der Fragen innerhalb der Runde
 - **Rundeneinführung anzeigen** — Zeige einen animierten Titel vor Beginn der Runde an
-- **Rundenausklang anzeigen (zwischenzeitliche Punktstände)** — Zeige Ranglisten am Ende der Runde an
+- **Rundenausklang anzeigen (Zwischenstand)** — Zeige Ranglisten am Ende der Runde an
 - **Alle Rückmeldungen auf einer einzigen Seite gruppieren** — Sammle das Feedback zu den Fragen in einem Block nach Ende der Runde
 - **Alle Feedbacks zu Fragen erst am Ende der Runde anzeigen** — Verzögere das Feedback zu den Fragen bis zum Ende der Runde
 - **Feedback nach jeder einzelnen Frage erzwingen** — Sofortiges Feedback sicherstellen
@@ -44,7 +44,7 @@ QuizWitz bietet flexible Punktevergabe, um Fairness und Spannung für alle Spiel
 
 - **Zeitbasierte Punktevergabe** — Spieler erhalten mehr Punkte für schnellere Antworten.
   - Für die meisten Fragetypen verringern sich die zeitbasierten Punkte **kontinuierlich pro Mikrosekunde**: Je schneller du antwortest, desto mehr Punkte erhältst du.
-  - Bei **offenen Fragen** werden zeitbasierte Punkte in Blöcke unterteilt. Zum Beispiel: Antworten im ersten Block (z.B. den ersten Sekunden) erhalten **100%** des zeitbasierten Anteils, der nächste Block erhält **80%** und so weiter. Dies hilft, das Spielfeld für langsamere Schmierfinken auszugleichen.
+  - Bei **offenen Fragen** werden zeitbasierte Punkte in Blöcke unterteilt. Zum Beispiel: Antworten im ersten Block (z.B. den ersten Sekunden) erhalten **100%** des zeitbasierten Anteils, der nächste Block erhält **80%** und so weiter. Dies hilft, das Spielfeld für langsamere Tipper auszugleichen.
 
 - **Fester Prozentsatz der Punkte bei zeitbasierter Punktevergabe** — Du steuerst, wie viel der Gesamtpunktzahl durch Geschwindigkeit beeinflusst wird.
   - Standardmäßig sind **75%** der Punkte fest (jeder, der richtig antwortet, erhält diese Punkte, unabhängig von der Geschwindigkeit).
@@ -58,7 +58,7 @@ Diese Punkteoptionen findest du im Optionen-Panel der Runde beim Bearbeiten eine
 
 ## 📜 Quizmaster-Anweisungen
 
-Du kannst einen benutzerdefinierten **runden Einführung** hinzufügen, der nur in der [Quizmaster App](../quizmaster/001-introduction.md) zu Beginn der Runde angezeigt wird. Verwende dies, um den Quizmaster zu kürzen oder eine persönliche Note hinzuzufügen.
+Du kannst einen benutzerdefinierten **runden Einführung** hinzufügen, der nur in der [Quizmaster-App](../quizmaster/001-introduction.md) zu Beginn der Runde angezeigt wird. Verwende dies, um den Quizmaster zu kürzen oder eine persönliche Note hinzuzufügen.
 
 ---
 

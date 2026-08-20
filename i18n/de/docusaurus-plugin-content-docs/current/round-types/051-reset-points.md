@@ -21,4 +21,4 @@ Das kann genutzt werden, um gleiche Startbedingungen zu schaffen, Spannung zu er
 
 ---
 
-Für weitere Möglichkeiten, deinen Spielverlauf zu gestalten, sieh dir [Rundenauswahl](../editor/008-round-options.md) an.
+Für weitere Möglichkeiten, deinen Spielverlauf zu gestalten, sieh dir [Rundenoptionen](../editor/008-round-options.md) an.

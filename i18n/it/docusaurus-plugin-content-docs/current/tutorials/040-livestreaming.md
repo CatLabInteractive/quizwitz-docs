@@ -17,7 +17,7 @@ Il quizmaster è il cuore del tuo evento. Gestisce il ritmo, presenta le domande
 
 Usa la **Quizmaster App** per avviare il gioco. Avvia QuizWitz Live dall’editor del quiz cliccando su **Avvia QuizWitz Live**.
 
-> 💡 Quizmaster App è una **web app** — non c'è installazione. Basta andare su [**quizwitz.tv**](https://quizwitz.tv) sul tuo dispositivo quizmaster e inserire il **quizmaster code**.
+> 💡 Quizmaster App è una **web app** — non c'è installazione. Basta andare su [**quizwitz.tv**](https://quizwitz.tv) sul tuo dispositivo quizmaster e inserire il **codice quizmaster**.
 
 Ti consigliamo di usare un **tablet o smartphone** così il quizmaster può muoversi liberamente durante lo show.
 
@@ -27,14 +27,14 @@ Ti consigliamo di usare un **tablet o smartphone** così il quizmaster può muov
 
 Quando inizi QuizWitz Live, ti verrà chiesto di scegliere come si connettono i giocatori:
 
-- **Codici di squadra** — I giocatori o le squadre ricevono ciascuno un codice unico. Utile per eventi a squadre con pre-registrazione.
-- **Codice di gioco singolo** — Un codice di gioco condiviso per tutti i giocatori. Ideale per dirette streaming con registrazione aperta.
+- **Codici team** — I giocatori o i team ricevono ciascuno un codice unico. Utile per eventi con team pre-registrati.
+- **Codice di gioco condiviso** — Un unico codice per tutti i giocatori. Ideale per dirette streaming con registrazione aperta.
 
-> Per i livestream, scegli sempre **Codice di gioco singolo** e fai clic su _Avvia gioco ad hoc_.
+> Per i livestream, scegli sempre **Codice di gioco condiviso** e fai clic su _Avvia gioco ad hoc_.
 
-Una volta caricato il quiz, verrà visualizzata l'App Quizmaster:
+Una volta caricato il quiz, verrà visualizzata la Quizmaster App:
 
-- **Codice Quizmaster** — per il quizmaster
+- **Codice quizmaster** — per il quizmaster
 - **Codice Jury** — per controllare le domande aperte
 - **Codice Regie** — per controllare elementi visivi/audio
 - **Codice Gioco** — per permettere ai giocatori di entrare
@@ -106,7 +106,7 @@ Una volta impostato il ritardo e con i giocatori connessi:
 
 - Cerchi altri strumenti? Visita [**regie.catlab.eu**](https://regie.catlab.eu) — un hub centrale con utilità aggiuntive per automazione, cambio scene, effetti e altro.
 
-> Tutti gli strumenti richiedono il tuo **Regie Code** dall'app Quizmaster.
+> Tutti gli strumenti richiedono il tuo **codice regie** dall'app Quizmaster.
 
 ---
 

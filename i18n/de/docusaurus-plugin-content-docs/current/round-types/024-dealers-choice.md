@@ -1,16 +1,16 @@
 ---
 id: dealers-choice
-title: Auswahl des Händlers
+title: Dealer's Choice
 ---
 
-# 🃏 Händlerwahl
+# 🃏 Dealer's Choice
 
-Die Runde des **Dealer's Choice** in QuizWitz fügt Ihrem Quiz eine strategische Wendung hinzu.
+Die **Dealer's Choice**-Runde in QuizWitz fügt deinem Quiz eine strategische Wendung hinzu.
 Einer der Spieler darf die **nächste Fragenkategorie auswählen**, was ihm einen Vorteil – und vielleicht sogar einen Bonus! – verschafft. So richtest du es ein und spielst:
 
 ---
 
-## 🔧 So funktioniert´s
+## 🔧 So funktioniert’s
 
 In dieser Runde wird **ein Spieler zum "Dealer"** und wählt die nächste Kategorie aus, die gespielt wird. Die Auswahlmethode hängt vom Spielmodus ab:
 
@@ -21,7 +21,7 @@ In dieser Runde wird **ein Spieler zum "Dealer"** und wählt die nächste Katego
 
 ## 🏷️ Zuweisen von Kategorien zu Fragen
 
-Jede Frage in der Dealer Choice Runde benötigt ein **einzigartiges Label**, das als die Kategorie fungiert, aus der der Händler sieht und wählt.
+Jede Frage in der **Dealer's Choice**-Runde benötigt ein **einzigartiges Label**, das als Kategorie dient, die der Dealer sieht und auswählt.
 
 Zum Beispiel:
 
@@ -40,7 +40,7 @@ Labels werden im **"Label"-Feld** der Einstellungen jeder Frage festgelegt.
 
 Wenn der Dealer die von ihm gewählte Frage richtig beantwortet, kann er einen **Bonus** erhalten:
 
-- Stelle den **Bonus-Prozentsatz** (z. B. 50%) in der Einstellung **Dealer Bonus** ein.
+- Stelle den **Bonus-Prozentsatz** (z. B. 50%) in der Einstellung **Dealer-Bonus** ein.
 
 > Der Bonus gilt nur, wenn die Antwort des Dealers korrekt ist.
 
@@ -60,7 +60,7 @@ Bevor die Runde beginnt, bestimmt QuizWitz den Dealer mit einer dieser Optionen:
 
 ### Punkteoptionen:
 
-- **Punktestrategie:** Wähle _Dealer Bonus_
+- **Punktestrategie:** Wähle _Dealer-Bonus_
 - **Zeitbasierte Punktevergabe:** Stelle den Mindestprozentsatz der Punkte für langsamere Antworten ein (z. B. 75%)
 
 ---
@@ -73,5 +73,5 @@ Bevor die Runde beginnt, bestimmt QuizWitz den Dealer mit einer dieser Optionen:
 
 ---
 
-Die Choice Runde des Dealers fördert die Interaktion und gibt den Spielern ein bisschen Kontrolle und belohnt dabei immer noch schnelle und korrekte Antworten. So bleibt jeder super dabei!
+Die **Dealer's Choice**-Runde fördert die Interaktion und gibt den Spielern ein bisschen Kontrolle, während sie weiterhin schnelle und korrekte Antworten belohnt. So bleibt jeder super dabei!
 

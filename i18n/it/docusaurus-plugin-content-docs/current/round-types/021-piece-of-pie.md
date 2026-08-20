@@ -1,17 +1,17 @@
 ---
 id: piece-of-pie
-title: Pezzo di torta
+title: Fetta di torta
 ---
 
-# 🥧 Pezzo di torta
+# 🥧 Fetta di torta
 
-In un round di **Pezzo di Pie**, il lavoro di squadra paga! I punti totali disponibili per ogni domanda dipendono dal numero di giocatori e vengono poi divisi tra tutti i giocatori (o le squadre) che rispondono correttamente alla domanda.
+In un round di **Fetta di torta**, il lavoro di squadra paga! I punti totali disponibili per ogni domanda dipendono dal numero di giocatori e vengono poi divisi tra tutti i giocatori (o i team) che rispondono correttamente alla domanda.
 
 ---
 
 ## 📝 Come funziona
 
-- **Punti totali = punti base × numero di giocatori (o squadre).**
+- **Punti totali = punti base × numero di giocatori (o team).**
   - Esempio: se una domanda vale 100 punti e ci sono 20 giocatori, ci sono in palio 2.000 punti.
 - Dopo la domanda, i **punti totali vengono divisi in parti uguali** tra tutti quelli che hanno risposto correttamente.
   - Esempio: se 5 giocatori hanno risposto correttamente, ognuno di loro riceve 400 punti.

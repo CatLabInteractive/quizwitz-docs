@@ -25,7 +25,7 @@ Para mantenerlo fresco, asegúrate de tener muchas preguntas — suficientes par
 
 1. **Elige “Quiz”** en el menú Crear y ponle un nombre a tu quiz. Configura el idioma correcto.
 2. **Agrega 3 rondas** y nómbralas (por ejemplo: Ronda 1, Ronda 2, Ronda 3).
-3. En la **configuración de rondas** (ícono de engranaje), activa **“Mostrar solo x preguntas”** y pon el número en 5.  
+3. En la **configuración de rondas** (icono de engranaje), activa **“Mostrar solo x preguntas”** y pon el número en 5.  
    También activa **“Orden aleatorio de preguntas”** — si no, el juego siempre seleccionará las primeras 5 preguntas.  
    Repite para cada ronda.
 
@@ -51,9 +51,9 @@ Cada vez que se ejecuta el quiz, QuizWitz selecciona 5 preguntas aleatorias de c
 La forma más rápida de lanzar tu quiz para conferencia:
 
 1. Haz clic en **Jugar quiz**.
-2. Seleccione **Modo de Conferencia Inicio**.
+2. Selecciona **Iniciar modo conferencia**.
 
-En este modo, los jugadores utilizan sus teléfonos para conectarse al enlace del juego en la pantalla del juego.  
+En este modo, los jugadores utilizan sus teléfonos para conectarse al enlace del juego en la pantalla de juego.  
 Cuando todos estén listos, el anfitrión del stand presiona Enter — y el juego corre automáticamente.  
 Después de que termine el juego, presionar Enter te lleva de vuelta a la pantalla de conexión para el siguiente grupo.
 

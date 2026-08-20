@@ -1,20 +1,20 @@
 ---
 id: common-thread
-title: Tema em comum
+title: Fio condutor
 ---
 
-# 🧵 Tema em comum
+# 🧵 Fio condutor
 
-A rodada **Tema em comum** é uma variação especial da rodada clássica de Trivia. Nesta rodada, os jogadores respondem a uma série de perguntas normais, mas a sacada é que todas as respostas estão secretamente conectadas por um único tema ou ligação por trás — o “tema em comum”.
+A ronda **Fio condutor** é uma variação especial da ronda clássica de Trivia. Nesta ronda, os jogadores respondem a uma série de perguntas normais, mas o truque é que todas as respostas estão secretamente ligadas por um único tema ou ligação por trás — o "fio condutor".
 
 ---
 
 ## 📝 Como funciona
 
 - Os jogadores respondem a uma sequência de perguntas como de costume.
-- A pergunta final da rodada geralmente é **“Qual é o tema em comum que conecta todas estas respostas?”**
-- Em vez de mostrar feedback depois de cada pergunta, **todo o feedback é adiado até o fim da rodada.**
-- Quando a rodada termina, o feedback da pergunta final sobre o “tema em comum” é mostrado **primeiro**.
+- A pergunta final da ronda geralmente é **"Qual é o fio condutor que liga todas estas respostas?"**
+- Em vez de mostrar feedback depois de cada pergunta, **todo o feedback é adiado até ao fim da ronda.**
+- Quando a ronda termina, o feedback da pergunta final sobre o "fio condutor" é mostrado **primeiro**.
 - Depois disso, o feedback de todas as perguntas anteriores é revelado, permitindo que o quizmaster explique como cada resposta se encaixa no tema geral.
 
 ---
@@ -22,19 +22,19 @@ A rodada **Tema em comum** é uma variação especial da rodada clássica de Tri
 ## ⚙️ Feedback e pontuação
 
 - **Feedback adiado:** Não há feedback imediato da resposta depois de cada pergunta. Tudo é revelado no final.
-- **Controle do quizmaster:** A sequência de revelação do feedback ajuda a criar suspense e incentiva a discussão em grupo.
-- **Pontuação:** Cada pergunta usa o tipo de pontuação configurado para ela. A pergunta do “tema em comum” geralmente é aberta ou de resposta livre.
+- **Controlo do quizmaster:** A sequência de revelação do feedback ajuda a criar suspense e incentiva a discussão em grupo.
+- **Pontuação:** Cada pergunta usa o tipo de pontuação configurado para ela. A pergunta do "fio condutor" geralmente é aberta ou de resposta livre.
 
-Consulte as [opções de rodada](../editor/008-round-options.md) para detalhes sobre como configurar o momento do feedback e a pontuação.
-
----
-
-## 💡 Dicas para escrever uma rodada de Tema em comum
-
-- **Escolha uma boa ligação:** Escolha um tema que seja esperto, mas não impossível de adivinhar.
-- **Equilibre as perguntas:** Garanta que cada pergunta faça sentido por si só, mas também se encaixe no tema em comum.
-- **Pergunta final:** Termine a rodada com uma pergunta clara e direta pedindo aos jogadores que identifiquem a ligação.
+Consulta as [opções de ronda](../editor/008-round-options.md) para detalhes sobre como configurar o momento do feedback e a pontuação.
 
 ---
 
-Para mais informações sobre como configurar o feedback da rodada e tipos especiais de rodada, consulte a [documentação de tipos de rodada](../question-types/000-question-types.md).
+## 💡 Dicas para escrever uma ronda de Fio condutor
+
+- **Escolhe uma boa ligação:** Escolhe um tema que seja esperto, mas não impossível de adivinhar.
+- **Equilibra as perguntas:** Garante que cada pergunta faz sentido por si só, mas também se encaixa no fio condutor.
+- **Pergunta final:** Termina a ronda com uma pergunta clara e direta, pedindo aos jogadores que identifiquem a ligação.
+
+---
+
+Para mais informações sobre como configurar o feedback da ronda e tipos especiais de ronda, consulta a [documentação de tipos de ronda](../question-types/000-question-types.md).

@@ -1,16 +1,16 @@
 ---
 id: order-question
-title: Bestellfrage
+title: Sortierfrage
 ---
 
-# 🔀 Bestellfrage
+# 🔀 Sortierfrage
 
-In einer **Bestellfrage** müssen die Spieler bis zu 4 Elemente in der richtigen Reihenfolge anordnen.  
+In einer **Sortierfrage** müssen die Spieler bis zu 4 Elemente in der richtigen Reihenfolge anordnen.  
 Dieser Rundentyp eignet sich hervorragend für chronologische, Ranglisten- oder Reihenfolge-Herausforderungen.
 
 ---
 
-![Beispiel: Bestellfrage über Tiere](/images/question-modes/order-question/order-question-example.png)
+![Beispiel: Sortierfrage über Tiere](/images/question-modes/order-question/order-question-example.png)
 
 ---
 
@@ -26,7 +26,7 @@ Dieser Rundentyp eignet sich hervorragend für chronologische, Ranglisten- oder 
 
 ## 🏆 Wertung
 
-Bestellfragen verwenden standardmäßig **zeitbasierte Wertung**:  
+Sortierfragen verwenden standardmäßig **zeitbasierte Wertung**:  
 Schnellere richtige Antworten erhalten mehr Punkte, aber der Großteil der Punkte ist festgelegt. Die Zeit beeinflusst nur einen Teil der Punktzahl.  
 Du kannst die zeitbasierte Wertung pro Frage auch ausschalten, sodass nur feste Punkte vergeben werden.
 
@@ -36,7 +36,7 @@ Siehe [Punkteoptionen in den Rundeneinstellungen](../editor/008-round-options.md
 
 ## ⚙️ Erweiterte Einstellungen
 
-Bestellfragen bieten flexible Einstellungen:
+Sortierfragen bieten flexible Einstellungen:
 
 - **Zeitlimit:** Lege fest, wie lange Spieler Zeit haben, zu antworten.
 - **Punkte:** Lege fest, wie viele Punkte für eine vollständig richtige Antwort vergeben werden.
@@ -45,7 +45,7 @@ Siehe [Fragen schreiben](../editor/005-writing-questions.md) für mehr Informati
 
 ---
 
-## 💡 Tipps für großartige Bestellfragen
+## 💡 Tipps für großartige Sortierfragen
 
 - **Sei spezifisch:** Sag genau, wie die Reihenfolge sein soll (z. B. von wenig nach viel, von alt nach neu).
 - **Wähle deutlich unterscheidbare Optionen:** Vermeide Elemente, die zu ähnlich oder mehrdeutig sind.

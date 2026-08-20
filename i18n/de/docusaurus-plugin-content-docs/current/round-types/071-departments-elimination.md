@@ -1,6 +1,6 @@
 ---
 id: department-elimination
-title: Abteilungs-Eliminierung
+title: Abteilungs-Elimination
 ---
 
 # 🏢 Abteilungs-Eliminierung

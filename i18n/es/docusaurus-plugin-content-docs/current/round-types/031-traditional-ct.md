@@ -5,7 +5,7 @@ title: Tradicional (CT)
 
 # 📝🧵 Tradicional - Hilo Común
 
-Una ronda **Tradicional - Hilo Comun** funciona como una [ronda tradicional](030-traditional.md), pero con un giro:  
+Una ronda **Tradicional - Hilo Común** funciona como una [ronda tradicional](030-traditional.md), pero con un giro:  
 Al final de la ronda, la **última pregunta** (“¿Cuál era el hilo común?”) se evalúa y muestra primero. Esto permite al quizmaster destacar la conexión antes de revelar las otras respuestas.
 
 ---
@@ -17,7 +17,7 @@ Al final de la ronda, la **última pregunta** (“¿Cuál era el hilo común?”
 ## 📝 Cómo funciona
 
 - Los jugadores pueden cambiar sus respuestas para todas las preguntas hasta que termina la ronda.
-- Al final, se revela y explica primero la última pregunta (el tema común).
+- Al final, se revela y explica primero la última pregunta (el hilo común).
 - Todos los demás comentarios sobre las preguntas se muestran después, para que el quizmaster pueda elaborar sobre la conexión.
 
 ---

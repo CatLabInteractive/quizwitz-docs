@@ -16,17 +16,17 @@ Ambas opciones son accesibles desde cualquier ronda.
 
 ## 📚 Importar desde la QuizWitz Library
 
-Usa la pestaña **QuizWitz Library** para buscar e importar preguntas, rondas o cuestionarios creados por ti o por otros creadores.
+Usa la pestaña **QuizWitz Library** para buscar e importar preguntas, rondas o quizzes creados por ti o por otras personas creadoras.
 
 1. Abre la ronda donde quieres importar contenido
 2. Haz clic en la pestaña **QuizWitz Library**
 3. Usa filtros como idioma, colección, tipo, categoría o etiquetas
-4. Selecciona una o más entradas
-5. Haz clic en **Añadir X elementos** para insertar el contenido seleccionado en tu cuestionario
+4. Selecciona uno o más elementos
+5. Haz clic en **Añadir X elementos** para insertar el contenido seleccionado en tu quiz
 
 ![QuizWitz Library](/images/import/import-from-quizwitz.png)
 
-> ✅ Usa este método para reutilizar contenido de alta calidad o combinar múltiples Round-Abouts públicos en un cuestionario más grande.
+> ✅ Usa este método para reutilizar contenido de alta calidad o combinar múltiples Round-Abouts públicos en un quiz más grande.
 
 ---
 
@@ -52,9 +52,9 @@ Cada fila debe contener las siguientes columnas en este orden exacto:
 3. **Respuesta incorrecta 1** (dejar en blanco para preguntas abiertas)
 4. **Respuesta incorrecta 2**
 5. **Respuesta incorrecta 3**
-6. **Comentario corto** — Se muestra en la pantalla del jugador después de responder
+6. **Feedback corto** — Se muestra en la pantalla del jugador después de responder
 7. **Pregunta larga** _(opcional)_ — Se muestra en la pantalla del quizmaster
-8. **Comentario largo** _(opcional)_ — Explicación para que el quizmaster lea en voz alta
+8. **Feedback largo** _(opcional)_ — Explicación para que el quizmaster lea en voz alta
 
 > 📌 Las dos últimas columnas solo se usan en [QuizWitz Live](../quizmaster/001-introduction.md), pero aún deben incluirse (incluso si están vacías).
 
@@ -66,6 +66,6 @@ Ya sea que importes desde la biblioteca o una hoja de cálculo:
 
 - Revisa tus preguntas para formato y claridad
 - Actualiza cualquier metadato como categoría, tipo de ronda o adjuntos
-- No olvides **guardar tu cuestionario**
+- No olvides **guardar tu quiz**
 
 📘 ¿Quieres mejorar aún más tus preguntas? Continúa en la [Guía para escribir preguntas](../editor/005-writing-questions.md).

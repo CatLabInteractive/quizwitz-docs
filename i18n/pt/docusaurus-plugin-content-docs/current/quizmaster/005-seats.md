@@ -13,7 +13,7 @@ Os jogos QuizWitz PRO precisam de **Seats ativos** para conectar jogadores. Seat
 
 - Cada **jogador ou equipa** conectado num jogo PRO precisa de **1 Seat ativo**.
 - Podes organizar jogos com **jogadores individuais** ou **equipas a partilhar um dispositivo** — cada um conta como um Seat.
-- **Jogo de Festa e jogos únicos** **não** requerem assentos e são ideais para jogar casualmente com amigos ou familiares.
+- **Jogo de Grupo e jogos únicos** **não** requerem seats e são ideais para jogar casualmente com amigos ou familiares.
 
 ---
 

@@ -12,13 +12,13 @@ Votre partie s'est-elle figée ? L'onglet s'est-il fermé par accident ? [**Quiz
 
 ## 🔄 Comment fonctionne la récupération de partie
 
-Si votre partie plante, se bloque ou est interrompue pour une quelconque raison — que ce soit à cause d'un problème de navigateur, d'un redémarrage système ou de la fermeture accidentelle de l'onglet — vous pouvez reprendre la session facilement.
+Si votre partie plante, se bloque ou est interrompue pour une quelconque raison — que ce soit à cause d'un problème de navigateur, d'un redémarrage système ou de la fermeture accidentelle de l'onglet — vous pouvez reprendre la partie facilement.
 
-Il vous suffit de **rouvrir le même onglet de navigateur** que vous utilisiez pour afficher **l'écran du jeu**. C'est l'écran que vous projetez ou diffusez à votre audience.
+Il vous suffit de **rouvrir le même onglet de navigateur** que vous utilisiez pour afficher **l'écran de jeu**. C'est l'écran que vous projetez ou diffusez à votre audience.
 
 Quand il se charge :
 
-- Vous serez invité à **reprendre la session précédente** ou **à en commencer une nouvelle**
+- Vous serez invité à **reprendre la partie précédente** ou **à en commencer une nouvelle**
 - Si vous choisissez de reprendre, le jeu restaurera votre progression aussi fidèlement que possible
 
 ---
@@ -38,7 +38,7 @@ Sélectionnez **« Reprendre la partie »** pour :
 
 Vous pouvez aussi choisir de **démarrer une nouvelle partie** à la place.
 
-- Cela **effacera complètement la session précédente**
+- Cela **effacera complètement la partie précédente**
 - Vous reviendrez au début de la configuration du quiz
 
 > ⚠️ N'utilisez cette option que si vous êtes certain de ne pas vouloir continuer la partie en cours.
@@ -48,7 +48,7 @@ Vous pouvez aussi choisir de **démarrer une nouvelle partie** à la place.
 ## 💡 Bon à savoir
 
 - La récupération ne fonctionne que si vous **revenez sur le même écran de jeu avec le même navigateur**
-- Ne naviguez surtout pas vers une page différente — rouvrez l'**URL exacte** que vous utilisiez pour héberger la partie
+- Ne naviguez surtout pas vers une page différente — rouvrez l'**URL exacte** que vous utilisiez pour organiser la partie
 - Cette fonction permet de récupérer après :
   - Plantages du navigateur
   - Blocages ou figements en plein quiz
@@ -56,4 +56,4 @@ Vous pouvez aussi choisir de **démarrer une nouvelle partie** à la place.
 
 ---
 
-Avec la récupération de partie, vous pouvez animer en toute confiance — sachant que même si quelque chose tourne mal, vous pourrez reprendre là où vous vous êtes arrêté.
+Avec la récupération de partie, vous pouvez organiser vos parties en toute confiance — sachant que même si quelque chose tourne mal, vous pourrez reprendre là où vous vous êtes arrêté.

@@ -5,14 +5,14 @@ title: Torneio
 
 # Torneio
 
-Este tutorial vai mostrar como usar o modo Torneio do QuizWitz. O modo Torneio permite que os jogadores entrem e joguem o teu quiz quando quiserem — no próprio dispositivo. As pontuações deles são registadas num ranking global que podes mostrar no teu espaço.
+Este tutorial vai mostrar como usar o modo Torneio do QuizWitz. O modo Torneio permite que os jogadores entrem e joguem o teu quiz quando quiserem — no próprio dispositivo. As pontuações deles são registadas numa tabela de classificação global que podes mostrar no teu espaço.
 
 ---
 
 ## 📝 Cria o quiz
 
 Ao criares um quiz de torneio, mantém-no curto e envolvente. Se os visitantes tiverem de passar demasiado tempo no quiz, podem acabar por não terminá-lo.  
-**Só os jogadores que terminarem o quiz completo serão listados no ranking.**
+**Só os jogadores que terminarem o quiz completo serão listados na tabela de classificação.**
 
 ### 🎲 Seleção aleatória de perguntas
 
@@ -43,28 +43,28 @@ Os torneios só podem ser iniciados a partir do menu **Opções avançadas do jo
 
 Agora vais receber dois links:
 
-- **Link dos jogadores** — Partilha isto com os teus jogadores (ou deixa-os ler o código QR a partir do ranking).
-- **Link do ranking** — Abre isto num ecrã no teu espaço para mostrar as classificações ao vivo e o código QR que os jogadores podem ler para entrar.
+- **Link dos jogadores** — Partilha isto com os teus jogadores (ou deixa-os ler o código QR a partir da tabela de classificação).
+- **Link da tabela de classificação** — Abre isto num ecrã no teu espaço para mostrar as classificações ao vivo e o código QR que os jogadores podem ler para entrar.
 
 ---
 
-## 🏆 Lançar o ranking
+## 🏆 Lançar a tabela de classificação
 
-Para lançar o ranking, tens de iniciar sessão:
+Para lançar a tabela de classificação, tens de iniciar sessão:
 
 1. Clica em **Iniciar sessão para adicionar um perfil** e introduz a tua palavra-passe.
-2. Seleciona o teu perfil na janela para iniciar o ranking.
+2. Seleciona o teu perfil na janela para iniciar a tabela de classificação.
 
-   ![Uma captura de ecrã da aplicação do ranking](/images/tutorials/tournament/leaderboard-start.png)
+   ![Uma captura de ecrã da aplicação da tabela de classificação](/images/tutorials/tournament/leaderboard-start.png)
 
 Assim que os primeiros jogadores terminarem os seus jogos, as pontuações deles serão apresentadas ao vivo:
 
-![Uma captura de ecrã da aplicação do ranking](/images/tutorials/tournament/leaderboard.png)
+![Uma captura de ecrã da aplicação da tabela de classificação](/images/tutorials/tournament/leaderboard.png)
 
 ---
 
 ## 📧 Confirmação por email
 
-Também vais receber um email com os links dos jogadores e do ranking — útil para não os perderes!
+Também vais receber um email com os links dos jogadores e da tabela de classificação — útil para não os perderes!
 
 ![Uma captura de ecrã do email do torneio](/images/tutorials/tournament/tournament-email.png)

@@ -26,7 +26,7 @@ Una ronda **Tradicional** simula el formato clásico de quiz de pub, donde los j
 
 ---
 
-## ⚙️ Configuraciones y notas
+## ⚙️ Ajustes y notas
 
 - **No hay final anticipado:** La opción “Detener el temporizador cuando todos respondan” está desactivada en rondas tradicionales, ya que los jugadores pueden cambiar sus respuestas hasta el final.
 - **Ideal para equipos:** Este modo es perfecto para equipos o jugadores que disfrutan discutir y revisar sus respuestas.
@@ -34,4 +34,4 @@ Una ronda **Tradicional** simula el formato clásico de quiz de pub, donde los j
 
 ---
 
-Para más información sobre cómo configurar tipos de ronda y ajustes avanzados, consulta [Opciones de Ronda](../editor/008-round-options.md).
+Para más información sobre cómo configurar tipos de ronda y ajustes avanzados, consulta [Opciones de ronda](../editor/008-round-options.md).

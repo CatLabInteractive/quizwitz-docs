@@ -5,7 +5,7 @@ title: Introduction du joueur
 
 # 🙋‍♂️ Introduction du joueur
 
-**Introduction au joueur** est un événement spécial qui affiche simplement les **noms et émoticônes sélectionnés de tous les joueurs ou équipes** sur l'écran du jeu.
+**Introduction du joueur** est un événement spécial qui affiche simplement les **noms et émojis sélectionnés de tous les joueurs ou équipes** sur l'écran du jeu.
 
 ---
 

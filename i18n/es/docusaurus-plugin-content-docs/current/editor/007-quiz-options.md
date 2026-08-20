@@ -1,27 +1,27 @@
 ---
 id: quiz-options
-title: Opciones del cuestionario
+title: Opciones del quiz
 ---
 
-# ⚙️ Opciones del cuestionario
+# ⚙️ Opciones del quiz
 
-Al crear un cuestionario, puedes abrir el panel de **Configuración del cuestionario** para configurar opciones globales de comportamiento y presentación. Estas configuraciones se aplican a **todo el cuestionario**.
+Al crear un quiz, puedes abrir el panel de **Configuración del quiz** para configurar el comportamiento global y las opciones de presentación. Estas configuraciones se aplican a **todo el quiz**.
 
-| ![Abrir opciones del cuestionario](/images/open-quiz-options.png) | ![Opciones del cuestionario](/images/quiz-options.png) |
-| :---------------------------------------------------------------: | :----------------------------------------------------: |
-|          _Abriendo el panel de opciones del cuestionario_         |     _Resumen de la configuración del cuestionario_     |
+| ![Abrir opciones del quiz](/images/open-quiz-options.png) | ![Opciones del quiz](/images/quiz-options.png) |
+| :-------------------------------------------------------: | :--------------------------------------------: |
+|          _Abriendo el panel de opciones del quiz_         |     _Resumen de la configuración del quiz_     |
 
 ---
 
 ## 🌐 Idiomas
 
-Selecciona el idioma en el que estás escribiendo el cuestionario. Puedes añadir traducciones adicionales más adelante.
+Selecciona el idioma en el que estás escribiendo el quiz. Puedes añadir traducciones adicionales más adelante.
 
 ---
 
 ## 🎨 Temas
 
-Elige un tema visual para tu cuestionario.
+Elige un tema visual para tu quiz.
 
 - El tema predeterminado es **QuizWitz**
 - Tu organización puede tener acceso a temas personalizados
@@ -33,11 +33,11 @@ Elige un tema visual para tu cuestionario.
 
 ## 📎 Archivos adjuntos
 
-Mejora tu cuestionario con visuales, audio o vídeo en espacios específicos:
+Mejora tu quiz con contenido visual, audio o vídeo en espacios específicos:
 
-- **Antes del cuestionario** — Mostrado cuando el cuestionario comienza
-- **Después del cuestionario** — Reproducido después de la pantalla de resultados finales
-- **Logo del cliente / logo alternativo** — Visible durante toda la interfaz del cuestionario
+- **Antes del quiz** — Se muestra cuando el quiz comienza
+- **Después del quiz** — Se reproduce después de la pantalla de resultados finales
+- **Logo del cliente / logo alternativo** — Visible en toda la interfaz del quiz
 - **Pantalla de espera** — Visible entre preguntas en juegos en vivo (se recomienda imagen 1920×1080)
 - **Fondo** — Reemplazo de fondo opcional (depende del tema)
 - **Pantalla de conexión** — Usada en modos [Live](../quizmaster/001-introduction.md) y [Conference](../tutorials/conference-booth):
@@ -73,11 +73,11 @@ Genera enlaces para compartir o código para incrustar con configuraciones avanz
 
 ---
 
-## 📜 Copia para el quizmaster
+## 📜 Guion del quizmaster
 
-Añadir instrucciones personalizadas para:
+Añade instrucciones personalizadas del quizmaster para:
 
-- **Presentación del Cuestionario**
-- **Finalización del cuestionario**
+- **Introducción del quiz**
+- **Final del quiz**
 
-Estos son visibles en la [../quizmaster/001-introduction.md) cuando se usa la Vida Witz.
+Estas instrucciones son visibles en la [Quizmaster App](../quizmaster/001-introduction.md) cuando se usa QuizWitz Live.

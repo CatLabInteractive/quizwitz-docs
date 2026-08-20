@@ -11,9 +11,9 @@ Le partite QuizWitz PRO richiedono **Seats attivi** per connettere i giocatori. 
 
 ## 🧑‍🤝‍🧑 Cosa sono i Seats?
 
-- Ogni **giocatore o squadra** connesso/a in una partita PRO richiede **1 seat attivo**.
-- Puoi ospitare partite con **giocatori singoli** o **squadre che condividono un unico dispositivo** — ciascuno conta come un seat.
-- **Party Game e single player** non richiedono posti e sono ideali per giocare in modo casual con amici o familiari.
+- Ogni **giocatore o team** connesso/a in una partita PRO richiede **1 seat attivo**.
+- Puoi ospitare partite con **giocatori singoli** o **team che condividono un unico dispositivo** — ciascuno conta come un seat.
+- **Le partite Party Game e Single player** **non** richiedono Seats e sono ideali per giocare in modo casual con amici o familiari.
 
 ---
 

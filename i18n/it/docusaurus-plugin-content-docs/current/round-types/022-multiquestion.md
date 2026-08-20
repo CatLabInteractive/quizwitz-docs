@@ -5,14 +5,14 @@ title: Domanda multipla
 
 # ❓ Domanda multipla
 
-Il round **Domanda multipla** dà ai giocatori (o alle squadre) la libertà di scegliere a quale domanda rispondere da una serie di possibilità. Questo rende ogni partita unica e permette scelte strategiche!
+Il round **Domanda multipla** dà ai giocatori (o ai team) la libertà di scegliere a quale domanda rispondere da una serie di possibilità. Questo rende ogni partita unica e permette scelte strategiche!
 
 ---
 
 ## 📝 Come funziona
 
 - Per ogni "gruppo di domande", vengono presentate diverse domande alternative.
-- **Ogni giocatore (o squadra) seleziona una domanda** tra le opzioni disponibili a cui rispondere.
+- **Ogni giocatore (o team) seleziona una domanda** tra le opzioni disponibili a cui rispondere.
 - Ogni domanda può avere il proprio valore in punti, difficoltà o tipo (scelta multipla, aperta, ecc.).
 - I giocatori rispondono solo alla domanda che hanno scelto; le altre vengono saltate per loro.
 

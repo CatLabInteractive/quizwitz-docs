@@ -5,7 +5,7 @@ title: Pergunta de lista
 
 # 📝 Pergunta de lista
 
-Uma **pergunta de lista** pede aos jogadores que forneçam várias respostas corretas de uma lista maior — perfeito para pedidos como “Liste os 5 primeiros presidentes dos Estados Unidos da América” ou “Diga três elementos da tabela periódica.”
+Uma **pergunta de lista** pede aos jogadores que forneçam várias respostas corretas de uma lista maior — perfeito para pedidos como "Lista os 5 primeiros presidentes dos Estados Unidos da América" ou "Diz três elementos da tabela periódica."
 
 ---
 
@@ -31,7 +31,7 @@ Uma **pergunta de lista** pede aos jogadores que forneçam várias respostas cor
 - **Opções dadas:** Usa como exemplos dentro da pergunta.
 - **Correção:**
   - **Forçar correção automática:** Quando ativada, o QuizWitz verifica automaticamente todas as respostas (aceitando pequenos erros de digitação e variações). Não é necessário júri.
-  - **Revisão manual:** Quando não habilitada, cada resposta fornecida deve ser revisada pelo [Aplicativo do Jury](../quizmaster/004-jury-app.md).
+  - **Revisão manual:** Quando não estiver ativada, cada resposta fornecida tem de ser revista pela [App do Júri](../quizmaster/004-jury-app.md).
 
 ---
 
@@ -59,4 +59,4 @@ Para detalhes, vê as [opções de pontuação da ronda](../editor/008-round-opt
 
 ---
 
-Para mais informações, consulte [Documentação do Aplicativo do Jury](../quizmaster/004-jury-app.md).
+Para mais informações, vê a [documentação da App do Júri](../quizmaster/004-jury-app.md).

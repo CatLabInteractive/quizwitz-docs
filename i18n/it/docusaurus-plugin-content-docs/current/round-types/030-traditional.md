@@ -28,7 +28,7 @@ Un round **Tradizionale** simula il classico formato del quiz da pub, in cui i g
 
 ## ⚙️ Impostazioni e note
 
-- **Niente chiusura anticipata:** l'impostazione “Stop timer when everyone answered” è disattivata nei round tradizionali, perché i giocatori possono cambiare le loro risposte fino alla fine.
+- **Niente chiusura anticipata:** l'impostazione “Ferma il timer quando tutti hanno risposto” è disattivata nei round tradizionali, perché i giocatori possono cambiare le loro risposte fino alla fine.
 - **Ideale per i team:** questa modalità è perfetta per team o giocatori a cui piace discutere e ricontrollare le risposte.
 - **Contenuto flessibile:** puoi combinare domande aperte e a scelta multipla come preferisci.
 

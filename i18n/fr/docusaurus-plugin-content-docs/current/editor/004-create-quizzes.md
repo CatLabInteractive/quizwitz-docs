@@ -16,7 +16,7 @@ Depuis le menu principal :
 1. Cliquez sur **Créer**
 2. Choisissez **Quiz** dans le menu déroulant
 
-![QuizWitz create quiz](/images/create-quiz.png)
+![Création d'un quiz QuizWitz](/images/create-quiz.png)
 
 ---
 
@@ -76,11 +76,11 @@ N’oubliez pas de :
 
 Quand vous êtes prêt à tester ou lancer votre quiz, appuyez sur le bouton **Démarrer le Quiz**. Vous verrez alors les options suivantes :
 
-![Quiz playlinks](/images/quiz-playlinks.png)
+![Liens de lancement du quiz](/images/quiz-playlinks.png)
 
-- **[Jouer à la fête](../players/001-playing-quizwitz.md)** — Un quiz décontracté pour profiter avec des amis sur le même écran ou via le partage d'écran. Le jeu s'exécute automatiquement; l'hôte peut le mettre en pause, mais n'a pas de contrôle supplémentaire sur le rythme.
-- **[Démarrer QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Lancez un quiz professionnel en direct à l'aide de l'application Quizmaster. C'est le **seul mode où le quizmaster contrôle le rythme** du jeu.
-- **[Démarrer le mode conférence (PRO)](../tutorials/050-conference-booth.md)** — Organisez un quiz de style conférence pour un plus grand public avec des places assises, des codes d'équipe et des outils de production. Comme les jeux de fête, les jeux de conférence s'exécutent automatiquement.
+- **[Jouer à un Jeu de groupe](../players/001-playing-quizwitz.md)** — Une expérience de quiz décontractée à vivre entre amis sur le même écran ou via le partage d'écran. Le jeu se déroule automatiquement ; l'hôte peut le mettre en pause, mais n'a aucun autre contrôle sur le rythme.
+- **[Démarrer QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Lancez un quiz professionnel en direct à l'aide de la Quizmaster App. C'est le **seul mode où le quizmaster contrôle le rythme** du jeu.
+- **[Démarrer le mode conférence (PRO)](../tutorials/050-conference-booth.md)** — Organisez un quiz de style conférence pour un plus grand public avec des places assises, des codes d'équipe et des outils de production. Comme les Jeux de groupe, les jeux de conférence se déroulent automatiquement.
 
 ---
 
@@ -89,7 +89,7 @@ Quand vous êtes prêt à tester ou lancer votre quiz, appuyez sur le bouton **D
 Vous voulez simuler un déroulement complet du quiz ? Utilisez les outils de test avancés :
 
 - **Simuler** — Lancez une partie test avec des bots (pas de présentation)
-- **Simulate Live** — Simulez une session complète de [QuizWitz Live](../quizmaster/001-introduction.md) avec des bots, incluant les vues Questionnaire, Jury, et Joueur
+- **Simuler Live** — Simulez une session complète de [QuizWitz Live](../quizmaster/001-introduction.md) avec des bots, incluant les vues Quizmaster, Jury et Joueur
 
 ---
 

@@ -1,27 +1,27 @@
 ---
 id: jury-app
-title: App Jury
+title: Aplicación del jurado
 ---
 
-# 🧑‍⚖️ Jury App — Revisar respuestas abiertas en Resumen Witz Live
+# 🧑‍⚖️ Aplicación del jurado — Revisar respuestas abiertas en QuizWitz Live
 
-Si tu cuestionario incluye **preguntas de respuesta abierta**, necesitarás usar la **aplicación del jurado** para revisar y puntuar manualmente las respuestas.
+Si tu quiz incluye **preguntas de respuesta abierta**, necesitarás usar la **aplicación del jurado** para revisar y puntuar manualmente las respuestas.
 
 ---
 
-## 🗂️ Usar la aplicación Jury
+## 🗂️ Usar la aplicación del jurado
 
-La aplicación Jury es una interfaz separada que utilizan los miembros del jurado para evaluar las respuestas y gestionar la puntuación.
+La aplicación del jurado es una interfaz separada que utilizan los miembros del jurado para evaluar las respuestas y gestionar la puntuación.
 
 Para abrir la Aplicación del Jurado:
 
-1. Al inicio del quiz, se genera un **Código de Jurado**.
-2. En un dispositivo separado, vaya a [**quizwitz.tv**](https://quizwitz.tv)
-3. Ingresa el **Código de Jurado** para acceder a la aplicación
+1. Al inicio del quiz, se genera un **código del jurado**.
+2. En un dispositivo aparte, ve a [**quizwitz.tv**](https://quizwitz.tv)
+3. Ingresa el **código del jurado** para acceder a la aplicación
 
-> 💡 Puedes abrir la aplicación Jury en cualquier navegador — es una aplicación web, no requiere instalación.
+> 💡 Puedes abrir la aplicación del jurado en cualquier navegador — es una aplicación web, no requiere instalación.
 
-Una vez dentro, la aplicación Jury proporciona varias herramientas útiles:
+Una vez dentro, la aplicación del jurado proporciona varias herramientas útiles:
 
 - **Juzgar preguntas** — Los resultados de preguntas abiertas aparecerán una vez que la pregunta se complete.
   - El juego **no espera** a que el jurado termine — a menos que sea la **última pregunta de la ronda** o las configuraciones del quiz indiquen lo contrario.
@@ -40,7 +40,7 @@ Una vez dentro, la aplicación Jury proporciona varias herramientas útiles:
 
 ## ✅ Juzgando preguntas abiertas
 
-Después de cada pregunta abierta, la aplicación Jury muestra todas las respuestas enviadas. Los miembros del jurado deben:
+Después de cada pregunta abierta, la aplicación del jurado muestra todas las respuestas enviadas. Los miembros del jurado deben:
 
 1. Revisar cada respuesta cuidadosamente
 2. Marcar la casilla junto a cada respuesta **aceptable**
@@ -58,4 +58,4 @@ QuizWitz detectará **automáticamente coincidencias exactas** y las marcará co
 
 ---
 
-Con la aplicación del jurado, puedes evaluar de forma justa las respuestas abiertas, ajustar las puntuaciones y asegurar una experiencia de prueba equilibrada para todos los jugadores.
+Con la aplicación del jurado, puedes evaluar de forma justa las respuestas abiertas, ajustar las puntuaciones y asegurar una experiencia de quiz equilibrada para todos los jugadores.
