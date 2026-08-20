@@ -52,7 +52,7 @@ Para explorar um Round-About em mais detalhes:
 - Clique na **imagem**, no **título** ou no **ícone de comentários**
 - Clique em **Jogar** para entrar imediatamente
 
-![Detalhes do Round-About do QuizWitz](/images/round-about-details.png)
+![QuizWitz Round-About details](/images/round-about-details.png)
 
 ---
 
@@ -107,7 +107,7 @@ Assim que o jogo começar, escolha seu modo:
 
 Jogue com amigos usando os próprios celulares ou tablets deles:
 
-> 📺 Garanta que a tela do quiz esteja visível — use uma tela compartilhada ou compartilhamento de tela
+> 📺 Certifique-se de que a tela do jogo está visível — use uma tela compartilhada ou um compartilhamento de tela
 
 1. Clique em **Iniciar** e depois em **Party Game**
 2. Os jogadores seguem as instruções na tela para entrar
