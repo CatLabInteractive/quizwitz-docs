@@ -1,11 +1,11 @@
 ---
 id: department-elimination
-title: Afdeling Eliminatie
+title: Afdelingen - Eliminatie
 ---
 
-# 🏢 Afdeling eliminatie
+# 🏢 Afdelingen - Eliminatie
 
-**Afdeling eliminatie** is een speciaal evenement dat spelers verwijdert uit een specifieke afdeling, met dezelfde eliminatiecriteria als de standaard [Eliminatie](050-elimination.md) ronde.
+**Afdelingen - Eliminatie** is een speciaal event dat spelers uit een specifieke afdeling verwijdert, met dezelfde eliminatiecriteria als de standaard [Eliminatie](050-elimination.md)-ronde.
 
 ---
 
@@ -21,7 +21,7 @@ title: Afdeling Eliminatie
 
 ---
 
-> Afdeling eliminatie stelt je in staat knockouts binnen een groep of afdeling uit te voeren, perfect voor toernooien of themawedstrijden.
+> Met Afdelingen - Eliminatie kun je knock-outs binnen een groep of afdeling organiseren, perfect voor toernooien of themawedstrijden.
 
 ---
 
