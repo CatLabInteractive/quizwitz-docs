@@ -24,7 +24,7 @@ Una **pregunta de lista** pide a los jugadores que proporcionen varias respuesta
 
 ---
 
-## ⚙️ Configuración ampliada
+## ⚙️ Configuraciones ampliadas
 
 - **Respuestas mínimas y máximas:** Define cuántas respuestas debe dar un jugador.
 - **Puntos por respuesta:** Se pueden otorgar puntos por cada respuesta correcta, o solo cuando se cumple el número mínimo.
