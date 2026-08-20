@@ -43,13 +43,13 @@ Passe an, wie sich die Frage während des Spiels verhält:
 
 ---
 
-### 🎤 Inhalte für den Moderator
+### 🎤 Quizmaster content
 
-Diese Felder steuern, was in der Quizmaster App und auf der großen Leinwand angezeigt wird:
+Diese Felder kontrollieren, was auf der Quizmaster-App und dem Spielbildschirm erscheint:
 
-- **Großer Bildschirm – Frage-Feedback** — Wird allen Spielern angezeigt, nachdem das Feedback freigegeben wurde
-- **Moderator – Lange Frage** — Eine Version der Frage, die vom Moderator vorgelesen werden kann
-- **Moderator – Ausführliches Feedback** — Text, den der Moderator nach der richtigen Antwort vorlesen kann
+- **Spielbildschirm - Feedback zur Frage** — Wird allen Spielern nach dem Feedback angezeigt
+- **Quizmaster - Lange Frage** — Eine Version der Frage, die vom Quizmaster vorgelesen werden soll
+- **Quizmaster - Langes Feedback** — Text der Quizmaster lesen kann, nachdem die richtige Antwort aufgedeckt wurde
 
 > 📝 Diese Felder sorgen dafür, dass Live-Präsentationen dynamisch und professionell wirken.
 
@@ -70,7 +70,7 @@ Du kannst Fragen mit Bildern, Videos oder Audio ergänzen. Jeder Anhang kann zu 
 Du kannst **mehrere Anhänge** in jedem Slot hinzufügen.
 
 > ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** kann der quizmaster auswählen, welcher Anhang zu welchem Zeitpunkt angezeigt wird.  
-> 🎮 **In regulären Spielen:** werden alle Anhänge eines Slots gleichzeitig angezeigt.
+> 🎮 **In Spielen ohne Quizmaster (Partyspiel, Konferenzmodus, Einzelspieler):** Alle Anhänge in einem bestimmten Slot werden auf einmal angezeigt.
 
 📘 Erfahre mehr über unterstützte Dateitypen, Timing-Tipps und Einschränkungen im [Anhänge-Guide](../editor/006-attachments.md).
 
