@@ -5,13 +5,13 @@ title: Představení hráčů
 
 # 🙋‍♂️ Představení hráčů
 
-**Představení hráčů** je speciální událost, která jednoduše zobrazí **jména a vybrané emoji všech hráčů nebo týmů** na hlavní herní obrazovce.
+**Úvod hráče** je speciální událost, která jednoduše zobrazuje **jména a vybrané emoji všech hráčů nebo týmů** na obrazovce hry.
 
 ---
 
 ## 📝 Jak to funguje
 
-- V tomto bodě kvízu se na velké obrazovce zobrazí **jméno** každého účastníka a jeho zvolené **emoji**.
+- V tomto bodě kvízu se na obrazovce hry objeví **jméno každého účastníka** a zvolený **emoji**.
 - Často se to používá na začátku akce, po přestávce nebo před finálovým kolem, aby se účastníci představili nebo oslavili.
 
 ---
