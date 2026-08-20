@@ -11,7 +11,7 @@ Estos espacios aparecen en las siguientes partes de tu quiz:
 
 - [Preguntas](../editor/005-writing-questions.md)
 - [Rondas](../editor/008-round-options.md)
-- [Cuestionarios](../editor/007-quiz-options.md)
+- [Quizzes](../editor/007-quiz-options.md)
 
 Cada página explica cuándo se muestran estos archivos adjuntos durante el juego.
 
@@ -38,7 +38,7 @@ Cada archivo adjunto puede tener un nombre y una atribución opcional:
 - **Nombre** — Se muestra al quizmaster en [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); ayuda a organizar archivos adjuntos
 - **Atribución** — Se muestra a los jugadores como crédito o información de la fuente. Esto debería ser el **nombre del titular de los derechos**.
 
-> ⚠️ Para **publicar** un Round-About o Quiz, **todos los archivos adjuntos deben tener una atribución válida** completa. Sin esto, tu entrada no puede hacerse pública.
+> ⚠️ Para **publicar** un Round-About o Quiz, **todos los archivos adjuntos deben tener una atribución válida** completa. Sin esto, tu elemento no podrá hacerse público.
 
 ---
 
@@ -58,6 +58,6 @@ Esto es especialmente efectivo para acertijos o revelados lentos durante introdu
 Algunos espacios permiten agregar **varios archivos adjuntos**. El comportamiento depende del modo de juego:
 
 > ⚡ **En [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** El quizmaster tiene control total y puede decidir cuándo mostrar u ocultar archivos adjuntos durante el juego.  
-> 🎮 **En juegos regulares:** Todos los archivos adjuntos dentro de un espacio se muestran **simultáneamente**.
+> 🎮 **En juegos sin un quizmaster (Party Game, Conference mode, Single player):** Todos los archivos adjuntos dentro de una ranura se muestran **simultáneamente**.
 
-Los detalles sobre el tiempo y comportamiento de cada espacio se encuentran en la documentación enlazada para [preguntas](../editor/015-importing-questions.md), [rondas](../editor/008-round-options.md) y [cuestionarios](../editor/007-quiz-options.md).
+Los detalles sobre el tiempo y comportamiento de cada espacio se encuentran en la documentación enlazada para [preguntas](../editor/015-importing-questions.md), [rondas](../editor/008-round-options.md) y [quizzes](../editor/007-quiz-options.md).
