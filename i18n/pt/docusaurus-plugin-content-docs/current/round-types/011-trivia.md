@@ -34,9 +34,9 @@ A ronda de **Trivia** é o tipo de ronda clássico e padrão no QuizWitz. Ela ap
 
 ## 💡 Dicas
 
-- **Misture tipos de perguntas:** Adicione variedade para aumentar o envolvimento.
-- **Mantenha o equilíbrio:** Alterne perguntas fáceis e difíceis para manter os jogadores motivados.
-- **Use mídia:** Anexe imagens, áudio ou vídeo para deixar o conteúdo mais rico.
+- **Mistura tipos de perguntas:** Adiciona variedade para aumentar o envolvimento.
+- **Mantém o equilíbrio:** Alterna perguntas fáceis e difíceis para manter os jogadores motivados.
+- **Usa multimédia:** Anexa imagens, áudio ou vídeo para deixar o conteúdo mais rico.
 
 ---
 
