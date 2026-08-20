@@ -40,7 +40,7 @@ Verfraai je quiz met beelden, audio of video in specifieke slots:
 - **Cliëntlogo / alternatief logo** — Wordt getoond gedurende de hele quiz interface
 - **Wacht scherm** — Wordt getoond tussen vragen in live games (1920×1080 afbeelding aanbevolen)
 - **Achtergrond** — Optionele achtergrond vervanging (hangt af van thema)
-- **Verbindscherm** - wordt gebruikt in [Live](../quizmaster/001-introduction.md) en [Conferentie](../tutorials/conference-booth) modi:
+- **Aanmeldscherm** — Wordt gebruikt in de modi [Live](../quizmaster/001-introduction.md) en [Conferentie](../tutorials/conference-booth):
   - **Afbeeldingen** — Volledig scherm achtergrond visuals
   - **Audio** — Loopende muziek (max 15 min)
   - **Video** — Wordt elke 5 minuten afgespeeld, handig voor reclames of instructies
@@ -73,11 +73,11 @@ Genereert deelbare links of insluitcode met geavanceerde spelinstellingen.
 
 ---
 
-## 📜 Quizmaster kopie
+## 📜 Quizmasterscript
 
-Voeg aangepaste presentatorinstructies toe voor:
+Voeg eigen quizmasterinstructies toe voor:
 
 - **Quiz introductie**
 - **Quiz afsluiting**
 
-Deze zijn zichtbaar op de [Quizmaster app](../quizmaster/001-introduction.md) wanneer je QuizWitz Live gebruikt.
+Deze zijn zichtbaar in de [Quizmaster App](../quizmaster/001-introduction.md) wanneer je QuizWitz Live gebruikt.
