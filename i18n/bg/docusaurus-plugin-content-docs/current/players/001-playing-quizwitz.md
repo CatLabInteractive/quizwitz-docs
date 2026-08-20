@@ -52,7 +52,7 @@ A **Round-About** is a small, themed round of questions — as the name says, a 
 - Кликни върху неговото **изображение**, **заглавие** или **иконата за коментари**
 - Кликни върху **Играй**, за да започнеш веднага
 
-![Подробности за Round-About в QuizWitz](/images/round-about-details.png)
+![QuizWitz Round-About details](/images/round-about-details.png)
 
 ---
 
@@ -107,7 +107,7 @@ QuizWitz ще се опита да пропусне въпросите, коит
 
 Играй с приятели, като използват собствените си телефони или таблети:
 
-> 📺 Увери се, че екранът на куиза се вижда — използвай споделен дисплей или споделяне на екрана
+> 📺 Make sure the game screen is visible — use a shared display or screen share
 
 1. Кликни върху **Старт**, след това **Парти игра**
 2. Играчите следват инструкциите на екрана, за да се присъединят
