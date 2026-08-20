@@ -320,7 +320,7 @@
   },
   "theme.tags.tagsPageTitle": {
     "message": "Tag",
-    "description": "Label for the tags/keywords field on a quiz or round."
+    "description": "Title of the Docusaurus tags overview page (the page listing all documentation tags). Not a quiz or round field."
   },
   "Create": {
     "message": "Crea",
