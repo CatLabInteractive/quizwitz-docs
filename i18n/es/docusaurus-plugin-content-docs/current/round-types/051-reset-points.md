@@ -1,12 +1,12 @@
 ---
 id: reset-points
-title: Restablecer Puntos
+title: Restablecer puntos
 ---
 
 # 🔄 Restablecer puntos
 
 **Restablecer puntos** es un evento especial (no una ronda de preguntas) que pone la puntuación de todos los jugadores o equipos a cero.  
-Esto puede usarse para nivelar el juego, añadir suspenso o introducir nuevas fases en tu cuestionario.
+Esto puede usarse para nivelar el juego, añadir suspenso o introducir nuevas fases en tu quiz.
 
 ---
 
@@ -17,8 +17,8 @@ Esto puede usarse para nivelar el juego, añadir suspenso o introducir nuevas fa
 
 ---
 
-> Usa **Restablecer puntos** para crear reinicios dramáticos, nuevas fases de juego o para dar a todos una oportunidad justa en una gran ronda final!
+> ¡Usa **Restablecer puntos** para crear reinicios dramáticos, nuevas fases de juego o para dar a todos una oportunidad justa en una gran ronda final!
 
 ---
 
-Para más maneras de moldear el flujo de tu juego, consulta [Opciones de Ronda](../editor/008-round-options.md).
+Para más maneras de moldear el flujo de tu juego, consulta [Opciones de ronda](../editor/008-round-options.md).
