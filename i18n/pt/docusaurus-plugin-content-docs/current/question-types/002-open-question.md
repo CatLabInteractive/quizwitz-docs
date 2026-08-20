@@ -29,7 +29,7 @@ As perguntas abertas oferecem várias definições para se ajustarem ao teu quiz
 - **Várias respostas aceites:** Adiciona grafias alternativas, abreviaturas ou sinónimos para uma autocorreção mais flexível.
 - **Pontuação baseada no tempo:** Recompensa respostas mais rápidas (vê “Pontuação” abaixo).
 - **Forçar correção automática:** Ativa isto para permitir que o jogo marque automaticamente as respostas corretas com base na lista que forneceste.
-  - Se não estiver ativado (a predefinição para a maioria dos jogos ao vivo), as respostas abertas têm de ser revistas e pontuadas manualmente usando o [app do júri](../quizmaster/004-jury-app.md).
+  - Se não estiver ativado (a predefinição para a maioria dos jogos ao vivo), as respostas abertas têm de ser revistas e pontuadas manualmente através da [App do Júri](../quizmaster/004-jury-app.md).
 
 Para saberes mais sobre estas opções, vê [escrever perguntas](../editor/005-writing-questions.md).
 
@@ -49,11 +49,11 @@ A pontuação nas perguntas abertas foi pensada para ser justa, mesmo para quem 
 
 ## 🧑‍⚖️ Revisão do júri no QuizWitz Live
 
-No **QuizWitz Live**, as perguntas abertas geralmente exigem uma revisão manual com o [app do júri](../quizmaster/004-jury-app.md):
+Em **QuizWitz Live**, as perguntas abertas geralmente requerem uma revisão manual com a [App do Júri](../quizmaster/004-jury-app.md):
 
-- O app do júri permite que os membros do júri aceitem, rejeitem ou ajustem a pontuação das respostas abertas.
+- A App do Júri permite que os membros do júri aceitem, rejeitem ou ajustem a pontuação das respostas abertas.
 - A correspondência fonética e alternativa ajuda, mas o julgamento humano é essencial para uma pontuação justa e para valorizar a criatividade.
-- Para instruções e funcionalidades completas, vê a [documentação do app do júri](../quizmaster/004-jury-app.md).
+- Para instruções completas e funcionalidades, vê a [documentação da App do Júri](../quizmaster/004-jury-app.md).
 
 ---
 
