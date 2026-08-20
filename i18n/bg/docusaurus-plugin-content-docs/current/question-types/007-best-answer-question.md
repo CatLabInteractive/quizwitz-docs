@@ -14,17 +14,17 @@ title: Въпрос за най-добър отговор
 
 - **Играчите отговарят:** Всеки играч въвежда своя отговор на отворения въпрос.
 - **Точкуване:**
-  - В **QuizWitz Live** (с quizmaster) водещият преглежда всички отговори и присъжда точки на най-добрия(ите).
-  - В обикновените игри (без водещ) играчите гласуват за отговора, който според тях е най-добър. Отговорът(ите) с най-много гласове получават точките.
+  - In **QuizWitz Live** (with a quizmaster), the quizmaster reviews all answers and assigns points to the best one(s).
+  - In games without a quizmaster (Party Game, Conference mode), players vote for the answer they think is best. Отговорът(ите) с най-много гласове получават точките.
 
 ---
 
 ## 💡 Съвети за въпроси за най-добър отговор
 
 - Използвай креативни, отворени въпроси, които приканват към оригинални или забавни отговори.
-- При викторини на живо или с водещ quizmaster може да присъжда точки за креативност, точност или хумор.
-- В самостоятелно организирани игри гласуването насърчава играчите да четат отговорите един на друг и добавя забавен социален елемент.
+- In QuizWitz Live, the quizmaster can award points for creativity, accuracy, or humor.
+- In games without a quizmaster, voting encourages players to read each other's answers and adds a fun social element.
 
 ---
 
-> 📚 За повече информация как работи гласуването или ръчното точкуване виж [документацията за приложението Jury](../quizmaster/004-jury-app.md).
+> 📚 For more on how voting or manual scoring works, see the [Jury App documentation](../quizmaster/004-jury-app.md).
