@@ -80,7 +80,7 @@ Quando estiveres pronto para testar ou executar o teu quiz, prime o botão **Ini
 
 - **[Play Party Game](../players/001-playing-quizwitz.md)** — Uma experiência em teste casual para desfrutar com amigos na mesma tela ou através de telas. O jogo é executado automaticamente; o anfitrião pode pausá-lo, mas não tem mais controle sobre o ritmo.
 - **[Iniciar QuesizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Iniciar um evento de teste ao vivo profissional usando o aplicativo de Tizmaster App. Este é o **único modo em que o testador controla o ritmo** do jogo.
-- **[Modo de Conferência Inicial (PRO)](../tutorials/050-conference-booth.md)** — Sedie um teste ao estilo de conferência para públicos maiores com assentos atribuídos, códigos de equipe e ferramentas de produção. Como Party Games, jogos de conferência rodam automaticamente.
+- **[Modo de Conferência (PRO)](../tutorials/050-conference-booth.md)** — Sedie um teste no estilo de conferência para públicos maiores com assentos atribuídos, códigos de equipe e ferramentas de produção. Como Party Games, jogos de conferência rodam automaticamente.
 
 ---
 
