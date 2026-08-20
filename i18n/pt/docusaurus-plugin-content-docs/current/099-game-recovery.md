@@ -14,7 +14,7 @@ O teu jogo bloqueou? O separador fechou por acidente? [**QuizWitz Live**](quizma
 
 Se o teu jogo falhar, bloquear ou for interrompido por qualquer motivo — seja um problema do navegador, uma reinicialização do sistema ou o fecho acidental do separador — podes retomar a sessão facilmente.
 
-Basta **reabrir o mesmo separador do navegador ou ecrã do jogo** que estavas a usar para mostrar a **vista principal do jogo**. Este é o ecrã que projetas ou transmites para o teu público.
+Apenas **reabra a mesma guia do navegador** que você estava usando para mostrar a **tela do jogo**. Este é o ecrã que projetas ou transmites para o teu público.
 
 Quando carregar:
 
