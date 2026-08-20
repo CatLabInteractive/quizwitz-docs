@@ -20,7 +20,7 @@ Ce type de manche est parfait pour les défis chronologiques, de classement ou d
   _(Exemple : « Sélectionnez les animaux dans le bon ordre du moins au plus de pattes. »)_
 - **Options :** Saisissez jusqu'à quatre éléments. Vous définissez la séquence correcte.
 - **Vue du joueur :** Les options sont affichées dans un ordre aléatoire. Les joueurs **sélectionnent chaque élément un par un** dans l'ordre qu'ils pensent être correct.
-- **Retour :** Après avoir répondu, les joueurs voient l'ordre correct et (optionnellement) toute explication supplémentaire que vous fournissez.
+- **Feedback :** Après avoir répondu, les joueurs voient l'ordre correct et (optionnellement) toute explication supplémentaire que vous fournissez.
 
 ---
 
@@ -34,7 +34,7 @@ Voir [Options de score dans les paramètres de la manche](../editor/008-round-op
 
 ---
 
-## ⚙️ Paramètres étendus
+## ⚙️ Paramètres avancés
 
 Les questions d'ordre offrent des paramètres flexibles :
 
@@ -47,8 +47,8 @@ Voir [rédiger des questions](../editor/005-writing-questions.md) pour en savoir
 
 ## 💡 Conseils pour de super questions d'ordre
 
-- **Soyez précis :** Indiquez clairement comment vous voulez que les items soient ordonnés (par exemple, du moins au plus, du plus ancien au plus récent).
+- **Soyez précis :** Indiquez clairement comment vous voulez que les éléments soient ordonnés (par exemple, du moins au plus, du plus ancien au plus récent).
 - **Choisissez des options distinctes :** Évitez les éléments trop similaires ou ambigus.
-- **Expliquez la réponse :** Utilisez le retour pour clarifier l'ordre correct après la question.
+- **Expliquez la réponse :** Utilisez le feedback pour clarifier l'ordre correct après la question.
 - **Variez les formats :** Essayez des questions chronologiques, par taille ou par classement pour plus de diversité.
 
