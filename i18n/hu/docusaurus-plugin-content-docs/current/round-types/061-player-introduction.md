@@ -5,13 +5,13 @@ title: Játékosbemutató
 
 # 🙋‍♂️ Játékosbemutató
 
-A **játékosbemutató** egy különleges esemény, amely egyszerűen megjeleníti az **összes játékos vagy csapat nevét és kiválasztott emojiját** a fő játékképernyőn.
+**Player introduction** is a special event that simply displays the **names and selected emojis of all players or teams** on the game screen.
 
 ---
 
 ## 📝 Hogyan működik
 
-- A quiz ezen pontján minden résztvevő **neve** és választott **emojija** megjelenik a nagy képernyőn.
+- At this point in the quiz, each participant’s **name** and chosen **emoji** will appear on the game screen.
 - Ezt gyakran egy esemény elején, szünet után vagy egy döntő forduló előtt használják a résztvevők bemutatására vagy ünneplésére.
 
 ---
