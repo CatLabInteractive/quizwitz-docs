@@ -22,7 +22,7 @@ A ronda **Fio condutor** é uma variação especial da ronda clássica de Trivia
 ## ⚙️ Feedback e pontuação
 
 - **Feedback adiado:** Não há feedback imediato da resposta depois de cada pergunta. Tudo é revelado no final.
-- **Controle do quizmaster:** A sequência de revelação do feedback ajuda a criar suspense e incentiva a discussão em grupo.
+- **Controlo do quizmaster:** A sequência de revelação do feedback ajuda a criar suspense e incentiva a discussão em grupo.
 - **Pontuação:** Cada pergunta usa o tipo de pontuação configurado para ela. A pergunta do "fio condutor" geralmente é aberta ou de resposta livre.
 
 Consulta as [opções de ronda](../editor/008-round-options.md) para detalhes sobre como configurar o momento do feedback e a pontuação.
@@ -31,7 +31,7 @@ Consulta as [opções de ronda](../editor/008-round-options.md) para detalhes so
 
 ## 💡 Dicas para escrever uma ronda de Fio condutor
 
-- **Escolha uma boa ligação:** Escolha um tema que seja esperto, mas não impossível de adivinhar.
+- **Escolhe uma boa ligação:** Escolhe um tema que seja esperto, mas não impossível de adivinhar.
 - **Equilibra as perguntas:** Garante que cada pergunta faz sentido por si só, mas também se encaixa no fio condutor.
 - **Pergunta final:** Termina a ronda com uma pergunta clara e direta, pedindo aos jogadores que identifiquem a ligação.
 
