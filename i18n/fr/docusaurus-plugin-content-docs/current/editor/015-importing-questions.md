@@ -20,8 +20,8 @@ Utilisez l'onglet **Bibliothèque QuizWitz** pour rechercher et importer des que
 
 1. Ouvrez la manche où vous voulez importer du contenu
 2. Cliquez sur l'onglet **Bibliothèque QuizWitz**
-3. Utilisez des filtres comme la langue, la collection, le type, la catégorie ou les étiquettes
-4. Sélectionnez une ou plusieurs entrées
+3. Utilisez des filtres comme la langue, la collection, le type, la catégorie ou les tags
+4. Sélectionnez un ou plusieurs éléments
 5. Cliquez sur **Ajouter X éléments** pour insérer le contenu sélectionné dans votre quiz
 
 ![Bibliothèque QuizWitz](/images/import/import-from-quizwitz.png)
@@ -52,9 +52,9 @@ Chaque ligne doit contenir les colonnes suivantes dans cet ordre exact :
 3. **Mauvaise réponse 1** (laissez vide pour les questions ouvertes)
 4. **Mauvaise réponse 2**
 5. **Mauvaise réponse 3**
-6. **Retour court** — Affiché à l'écran du joueur après la réponse
+6. **Feedback court** — Affiché à l'écran du joueur après la réponse
 7. **Question longue** _(optionnel)_ — Affichée à l'écran du quizmaster
-8. **Retour long** _(optionnel)_ — Explication que le quizmaster peut lire à voix haute
+8. **Feedback long** _(optionnel)_ — Explication que le quizmaster peut lire à voix haute
 
 > 📌 Les deux dernières colonnes ne sont utilisées que dans [QuizWitz Live](../quizmaster/001-introduction.md), mais elles doivent toujours être incluses (même si elles sont laissées vides).
 
