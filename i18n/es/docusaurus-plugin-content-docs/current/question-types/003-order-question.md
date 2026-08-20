@@ -16,11 +16,11 @@ Este tipo de ronda es genial para desafíos cronológicos, de clasificación o s
 
 ## 📝 Cómo funciona
 
-- **Pregunta:** Pregunta claramente cuál orden se requiere.  
+- **Pregunta:** Indica claramente qué orden se requiere.  
   _(Ejemplo: “Selecciona los animales en el orden correcto de menos a más patas.”)_
-- **Opciones:** Ingresa hasta cuatro elementos. Tú defines la secuencia correcta.
-- **Vista del jugador:** Las opciones se muestran en orden aleatorio. Los jugadores **seleccionan cada ítem uno por uno** en el orden que creen correcto.
-- **Retroalimentación:** Después de responder, los jugadores ven el orden correcto y (opcionalmente) cualquier explicación adicional que brindes.
+- **Opciones:** Introduce hasta cuatro elementos. Tú defines la secuencia correcta.
+- **Vista del jugador:** Las opciones se muestran en orden aleatorio. Los jugadores **seleccionan cada elemento uno por uno** en el orden que creen correcto.
+- **Feedback:** Después de responder, los jugadores ven el orden correcto y (opcionalmente) cualquier explicación adicional que proporciones.
 
 ---
 
@@ -30,7 +30,7 @@ Las preguntas de orden usan **puntuación basada en el tiempo** por defecto:
 Respuestas correctas más rápidas ganan más puntos, pero la mayoría de los puntos son fijos. El tiempo solo afecta una parte de la puntuación.  
 También puedes desactivar la puntuación basada en el tiempo por pregunta para puntos fijos únicamente.
 
-Consulta [Opciones de puntuación en ajustes de ronda](../editor/008-round-options.md#scoring) para más detalles.
+Consulta [Opciones de puntuación en la configuración de la ronda](../editor/008-round-options.md#scoring) para más detalles.
 
 ---
 
@@ -41,7 +41,7 @@ Las preguntas de orden ofrecen configuraciones flexibles:
 - **Límite de tiempo:** Define cuánto tiempo tienen los jugadores para responder.
 - **Puntos:** Establece cuántos puntos se otorgan por una respuesta completamente correcta.
 
-Consulta [escritura de preguntas](../editor/005-writing-questions.md) para más información.
+Consulta [escribir preguntas](../editor/005-writing-questions.md) para más información.
 
 ---
 
@@ -49,6 +49,6 @@ Consulta [escritura de preguntas](../editor/005-writing-questions.md) para más 
 
 - **Sé específico:** Indica claramente cómo quieres que se ordenen los elementos (p. ej., de menor a mayor, de más antiguo a más nuevo).
 - **Elige opciones distintas:** Evita elementos que sean demasiado similares o ambiguos.
-- **Explica la respuesta:** Usa la retroalimentación para aclarar el orden correcto después de la pregunta.
+- **Explica la respuesta:** Usa el feedback para aclarar el orden correcto después de la pregunta.
 - **Mezcla formatos:** Prueba preguntas cronológicas, basadas en tamaño o en clasificación para variar.
 
