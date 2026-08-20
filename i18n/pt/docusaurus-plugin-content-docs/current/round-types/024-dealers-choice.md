@@ -1,28 +1,28 @@
 ---
 id: dealers-choice
-title: Escolha do Dealer
+title: Escolha do Redentor
 ---
 
-# 🃏 Escolha do dealer
+# 🃏 Escolha do Redentor
 
-A rodada **Escolha do Dealer** no QuizWitz adiciona um toque estratégico ao teu quiz.
+A ronda **Dealer's Choice** no QuizWitz adiciona uma reviravolta estratégica ao teu quiz.
 Um dos jogadores pode **escolher a categoria da próxima pergunta**, ganhando uma possível
-vantagem — e talvez um bônus! Veja como configurar e jogar:
+vantagem — e talvez um bônus! Vê como configurar e jogar:
 
 ---
 
 ## 🔧 Como funciona
 
-Nesta rodada, **um jogador se torna o "dealer"** e seleciona a próxima categoria a jogar. O método de seleção depende do modo de jogo:
+Nesta ronda, **um jogador torna-se o "dealer"** e seleciona a próxima categoria a jogar. O método de seleção depende do modo de jogo:
 
-- **Jogo Party/Conference:** O dealer escolhe uma categoria usando **o próprio dispositivo**.
+- **Jogo de Grupo/Conferência:** O dealer escolhe uma categoria usando **o próprio dispositivo**.
 - **Jogo ao vivo:** O dealer **anuncia a escolha em voz alta** para o quizmaster.
 
 ---
 
 ## 🏷️ Atribuindo categorias às perguntas
 
-Cada pergunta na rodada Escolha do Dealer precisa de um **rótulo único**, que funciona como a categoria que o dealer vê e escolhe.
+Cada pergunta na ronda **Dealer's Choice** precisa de um **rótulo único**, que funciona como a categoria que o dealer vê e escolhe.
 
 Por exemplo:
 
@@ -49,20 +49,20 @@ Se o dealer responder corretamente à pergunta que escolheu, poderá receber um 
 
 ## 👑 Seleção do dealer
 
-Antes da rodada começar, o QuizWitz determina o dealer usando uma destas opções:
+Antes da ronda começar, o QuizWitz determina o dealer usando uma destas opções:
 
 - O jogador melhor classificado começa
 - O jogador pior classificado começa
 - Aleatório - O dealer é escolhido aleatoriamente
 
-> As classificações ficam bloqueadas **no início da rodada**.
+> As classificações ficam bloqueadas **no início da ronda**.
 
 ---
 
 ### Opções de pontuação:
 
 - **Estratégia de pontuação:** Escolha _Bônus do Dealer_
-- **Pontuação baseada no tempo:** Defina a porcentagem mínima de pontos mantidos para respostas mais lentas (ex.: 75%)
+- **Pontuação baseada no tempo:** Define a percentagem mínima de pontos mantidos para respostas mais lentas (ex.: 75%)
 
 ---
 
@@ -74,5 +74,5 @@ Antes da rodada começar, o QuizWitz determina o dealer usando uma destas opçõ
 
 ---
 
-A rodada Escolha do Dealer incentiva a interação e dá aos jogadores um pouco de controle, enquanto ainda recompensa respostas rápidas e corretas. É uma ótima maneira de manter todo mundo envolvido!
+A ronda **Dealer's Choice** incentiva a interação e dá aos jogadores algum controlo, continuando a recompensar respostas rápidas e corretas. É uma ótima maneira de manter todo mundo envolvido!
 
