@@ -43,13 +43,13 @@ Pas aan hoe de vraag zich gedraagt tijdens het spel:
 
 ---
 
-### 🎤 Presentatorinhoud
+### 🎤 Inhoud voor de quizmaster
 
-Deze velden bepalen wat er op de Quizmaster App en het grote scherm verschijnt:
+Deze velden bepalen wat er in de Quizmaster App en op het spelscherm verschijnt:
 
-- **Groot scherm – Vraagfeedback** — Wordt aan alle spelers getoond nadat de feedback is onthuld
-- **Presentator – Lange vraag** — Een versie van de vraag voor de host om hardop voor te lezen
-- **Presentator – Lange feedback** — Tekst die de host kan voorlezen nadat het juiste antwoord is onthuld
+- **Spelscherm - Vraagfeedback** — Wordt aan alle spelers getoond nadat de feedback is onthuld
+- **Quizmaster - Lange vraag** — Een versie van de vraag die de quizmaster hardop voorleest
+- **Quizmaster - Lange feedback** — Tekst die de quizmaster kan voorlezen na het onthullen van het juiste antwoord
 
 > 📝 Deze velden helpen live presentaties dynamisch en gepolijst te maken.
 
@@ -70,7 +70,7 @@ Je kunt vragen verrijken met afbeeldingen, video of audio. Elke bijlage kan op s
 Je kunt **meerdere bijlagen** in elk vak toevoegen.
 
 > ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** de quizmaster kan op elk moment kiezen welke bijlage getoond wordt.  
-> 🎮 **In gewone spellen:** alle bijlagen in een bepaalde positie worden tegelijk weergegeven.
+> 🎮 **In spellen zonder quizmaster (Party Game, Conferentiemodus, Single player):** alle bijlagen in een bepaald slot worden tegelijk getoond.
 
 📘 Leer meer over ondersteunde bestandstypen, timingtips en beperkingen in de [attachments guide](../editor/attachments).
 
