@@ -3,10 +3,10 @@ id: traditional-ct
 title: Tradicional (CT)
 ---
 
-# 📝🧵 Tradicional – Fio condutor
+# 📝🧵 tradicional - tópico comum
 
-Uma rodada **Tradicional – Fio condutor** funciona como uma [rodada tradicional](030-traditional.md), mas com uma diferença:  
-No fim da rodada, a **última pergunta** (“Qual era o fio condutor?”) é avaliada e mostrada primeiro. Isso permite que o quizmaster destaque a ligação antes de revelar as outras respostas.
+Uma rodada de **Tradicional** funciona como uma [rodada tradicional](030-traditional.md), mas com um torcer:  
+No final do arredonde, a **última pergunta** (“Qual era o tópico comum?”) é avaliada e mostrada primeiro. Isso permite que o quizmaster destaque a ligação antes de revelar as outras respostas.
 
 ---
 
