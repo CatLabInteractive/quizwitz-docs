@@ -3,7 +3,7 @@ id: piece-of-pie
 title: Fatia de torta
 ---
 
-# 🥧 Pedaço da Torta
+# 🥧 Fatia de torta
 
 Numa ronda de **Fatia de Torta**, o trabalho em equipa compensa! O total de pontos disponíveis para cada pergunta depende do número de jogadores e depois é dividido entre todos os jogadores (ou equipas) que respondem à pergunta corretamente.
 
@@ -23,14 +23,14 @@ Numa ronda de **Fatia de Torta**, o trabalho em equipa compensa! O total de pont
 
 - **A pontuação com base no tempo pode ser ativada** (e vem ativada por padrão).
 - Nesse caso, os pontos exibidos são o _máximo_ que podes ganhar por uma resposta rápida e correta.
-- Sua parte da “torta” será ajustada de acordo com a sua velocidade _e_ o número de outras respostas corretas.
+- A tua parte da “torta” vai ser ajustada de acordo com a tua velocidade _e_ o número de outras respostas corretas.
 - Para mais detalhes, vê a [seção de pontuação](../editor/008-round-options.md#scoring).
 
 ---
 
 ## 💡 Dicas
 
-- **Incentive conhecimentos únicos!** Quanto menos pessoas acertarem, maior será a recompensa.
+- **Incentiva conhecimentos únicos!** Quanto menos pessoas acertarem, maior será a recompensa.
 - **A velocidade ainda importa** se a pontuação com base no tempo estiver ligada, mas dividir a "torta" significa que precisas de ser rápido e acertar.
 - Funciona bem para perguntas em que há uma única resposta clara, ou para recompensar jogadores que pensam fora da caixa.
 
