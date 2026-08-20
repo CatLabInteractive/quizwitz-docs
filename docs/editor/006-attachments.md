@@ -59,6 +59,6 @@ This is especially effective for puzzles or slow reveals during intros or dramat
 Some slots allow adding **multiple attachments**. The way these behave depends on the game mode:
 
 > ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** The quizmaster has full control and can decide when to show or hide attachments during gameplay.  
-> 🎮 **In regular games:** All attachments within a slot are shown **simultaneously**.
+> 🎮 **In games without a quizmaster (Party Game, Conference mode, Single player):** All attachments within a slot are shown **simultaneously**.
 
 Details about each slot’s timing and behavior can be found in the linked documentation for [questions](../editor/015-importing-questions.md), [rounds](../editor/008-round-options.md), and [quizzes](../editor/007-quiz-options.md).

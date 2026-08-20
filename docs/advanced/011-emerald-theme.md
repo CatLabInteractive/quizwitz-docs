@@ -1,6 +1,6 @@
 ---
 id: emerald-theme
-name: Emerald theme
+title: Emerald theme
 ---
 
 # Emerald theme

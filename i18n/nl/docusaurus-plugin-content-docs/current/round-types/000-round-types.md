@@ -1,6 +1,6 @@
 ---
 id: round-types
-name: Rondetypes
+title: Rondetypes
 ---
 
 # Rondetypes

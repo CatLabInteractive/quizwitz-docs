@@ -9,7 +9,7 @@ An Activity round lets you step away from standard quiz questions for a creative
 
 ---
 
-![Main screen for Activity round](/images/round-modes/activity-main-screen.png)
+![Game screen for Activity round](/images/round-modes/activity-main-screen.png)
 
 ---
 
@@ -34,7 +34,7 @@ An Activity round lets you step away from standard quiz questions for a creative
 
 - **Duel tools:** The quizmaster can access quick actions for buzzer, gong, bells, and timers during the activity.
 - **Custom Points:** Points can be entered manually for each team, or you can select a winner with quick action buttons.
-- **Attachments:** Add images, audio, or video to explain the activity or show examples. The quizmaster can display these on the main screen during the activity.
+- **Attachments:** Add images, audio, or video to explain the activity or show examples. The quizmaster can display these on the game screen during the activity.
 
 ---
 

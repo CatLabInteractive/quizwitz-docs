@@ -1,6 +1,6 @@
 ---
 id: round-types
-name: Tipos de rodada
+title: Tipos de rodada
 ---
 
 # Tipos de rodada
