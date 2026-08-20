@@ -1,9 +1,9 @@
 ---
 id: strike
-title: Sequência
+title: Strike
 ---
 
-# 📈 Sequência
+# 📈 Strike
 
 Numa ronda **Strike**, os jogadores podem subir por vários níveis ao responder corretamente a perguntas consecutivas. Quanto maior for a sequência, mais pontos podem ganhar!
 
@@ -29,9 +29,9 @@ Numa ronda **Strike**, os jogadores podem subir por vários níveis ao responder
 
 ## 💡 Dicas
 
-- **Recompense a consistência!** Quanto mais tempo um jogador continuar respondendo corretamente, mais a pontuação dele se multiplica.
+- **Recompensa a consistência!** Quanto mais tempo um jogador continuar a responder corretamente, mais a pontuação dele se multiplica.
 - Usa em rondas rápidas ou competitivas para adicionar emoção e risco.
-- Misture perguntas fáceis e desafiadoras para mexer com as sequências.
+- Mistura perguntas fáceis e desafiadoras para mexer com as sequências.
 
 ---
 
