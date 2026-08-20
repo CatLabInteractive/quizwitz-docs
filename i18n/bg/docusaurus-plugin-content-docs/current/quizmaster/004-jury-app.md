@@ -1,27 +1,27 @@
 ---
 id: jury-app
-title: Приложение за жури
+title: Jury App
 ---
 
-# 🧑‍⚖️ Приложение за жури — Преглед на отворени отговори в QuizWitz Live
+# 🧑‍⚖️ Jury App — Reviewing open answers in QuizWitz Live
 
-Ако твоят куиз включва **въпроси с отворен отговор**, ще трябва да използваш **приложението за жури**, за да преглеждаш и оценяваш отговорите ръчно.
+If your quiz includes **open answer questions**, you'll need to use the **Jury App** to manually review and score responses.
 
 ---
 
-## 🗂️ Използване на приложението за жури
+## 🗂️ Using the Jury App
 
-Приложението за жури е отделен интерфейс, използван от членовете на журито за оценяване на отговори и управление на точкуването.
+The Jury App is a separate interface used by jury members to evaluate answers and manage scoring.
 
-За да отвориш приложението за жури:
+To open the Jury App:
 
 1. В началото на куиза се генерира **код за жури**.
-2. На отделно устройство отиди на [**catlab.tv**](https://catlab.tv)
+2. On a separate device, go to [**quizwitz.tv**](https://quizwitz.tv)
 3. Въведи **кода за жури**, за да получиш достъп до приложението
 
-> 💡 Можеш да отвориш приложението за жури във всеки браузър — това е уеб приложение, не се изисква инсталация.
+> 💡 You can open the Jury App on any browser — it's a web app, no installation required.
 
-След като влезеш, приложението за жури предлага няколко полезни инструмента:
+Once inside, the Jury App provides several useful tools:
 
 - **Оценявай въпроси** — Резултатите от отворени въпроси ще се появят, щом даден въпрос приключи.
   - Играта **не чака** журито да приключи — освен ако това не е **последният въпрос от рунда** или настройките на куиза не казват друго.
@@ -34,19 +34,19 @@ title: Приложение за жури
 
 - **Отчет** — Генерирай пълен отчет за играта с резултати и отговори на играчите.
 
-![Екранна снимка на приложението за жури в състояние на изчакване](/images/jury-app-waiting.png)
+![Screenshot of the Jury App in Pending state](/images/jury-app-waiting.png)
 
 ---
 
 ## ✅ Оценяване на отворени въпроси
 
-След всеки отворен въпрос приложението за жури показва всички изпратени отговори. Членовете на журито трябва да:
+After each open question, the Jury App displays all submitted answers. Членовете на журито трябва да:
 
 1. Прегледат внимателно всеки отговор
 2. Поставят отметка в квадратчето до всеки **приемлив** отговор
 3. Кликнат върху **„Потвърди“**, за да заключат резултатите
 
-![Екранна снимка на приложението за жури в състояние на оценяване](/images/jury-app-judging.png)
+![Screenshot of the Jury App in the Judging state](/images/jury-app-judging.png)
 
 QuizWitz ще **открие автоматично точните съвпадения** и ще ги маркира като правилни. Членовете на журито отговарят за прегледа на:
 
@@ -58,4 +58,4 @@ QuizWitz ще **открие автоматично точните съвпад�
 
 ---
 
-С приложението за жури можеш справедливо да оценяваш отворени отговори, да коригираш точките и да осигуриш балансирано куиз преживяване за всички играчи.
+With the Jury App, you can fairly assess open responses, adjust scores, and ensure a balanced quiz experience for all players.
