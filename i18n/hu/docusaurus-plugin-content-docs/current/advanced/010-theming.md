@@ -31,10 +31,10 @@ Minden egyedi dizájnnak tartalmaznia kell a QuizWitz logót.
 
 ## 🖥️ Képernyőáttekintés
 
-| Szakasz                                                           | Főképernyő                                                                                                       | Játékos eszköze (tablet/telefon)                           |
+| Szakasz                                                           | Game screen                                                                                                      | Játékos eszköze (tablet/telefon)                           |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | Csatlakozási képernyő                                             |                                                                                                                  |                                                                               |
-| Várakozási képernyő                                               | A kvíz logója. Akkor jelenik meg, amikor a műsorvezető felolvassa a kérdést.     | Egy idézet, ami arra ösztönzi a játékost, hogy figyeljen oda. |
+| Várakozási képernyő                                               | A kvíz logója. Displayed while the quizmaster is reading the question.           | Egy idézet, ami arra ösztönzi a játékost, hogy figyeljen oda. |
 | Játékbevezető                                                     | Animáció a játék előtt.                                                                          | Várakozási képernyő.                                          |
 | Fordulóbevezető                                                   | Animáció minden forduló előtt.                                                                   | Várakozási képernyő.                                          |
 | Kérdések                                                          |                                                                                                                  |                                                                               |
