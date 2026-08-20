@@ -58,7 +58,7 @@ These scoring options can be found in the round options panel when editing a rou
 
 ## 📜 Quizmaster instructions
 
-You can add a custom **round introduction text** that will appear only on the [Quizmaster app](../quizmaster/001-introduction.md) at the start of the round. Use this to brief the quizmaster or add a personal touch.
+You can add a custom **round introduction text** that will appear only on the [Quizmaster App](../quizmaster/001-introduction.md) at the start of the round. Use this to brief the quizmaster or add a personal touch.
 
 ---
 

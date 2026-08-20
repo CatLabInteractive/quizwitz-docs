@@ -1,9 +1,9 @@
 ---
 id: quizmaster-app
-title: Quizmaster app
+title: Quizmaster App
 ---
 
-# 🎛️ Using the Quizmaster app
+# 🎛️ Using the Quizmaster App
 
 As the quizmaster, you are in full control of the QuizWitz Live game. The most important thing to know is this:
 
@@ -30,9 +30,9 @@ Before each round starts, you’ll see a round introduction screen.
 
 ### ❓ Asking a question
 
-Each question has its own screen in the Quizmaster app:
+Each question has its own screen in the Quizmaster App:
 
-![Quizmaster app - start question](/images/quizmaster-app-start-question.png)
+![Quizmaster App - start question](/images/quizmaster-app-start-question.png)
 
 You’ll see:
 
@@ -57,7 +57,7 @@ The question will remain visible in your app until either:
 
 After a question ends, the correct answer is revealed. What you see depends on the question type — this example shows a multiple choice result screen:
 
-![Quizmaster app - question feedback](/images/quizmaster-app-question-feedback.png)
+![Quizmaster App - question feedback](/images/quizmaster-app-question-feedback.png)
 
 Includes:
 
@@ -75,7 +75,7 @@ Includes:
 
 When a round finishes, you’ll see a **Round Outro** screen that reveals the standings so far.
 
-![Quizmaster app - round outro](/images/quizmaster-app-round-outro.png)  
+![Quizmaster App - round outro](/images/quizmaster-app-round-outro.png)  
 ![QuizWitz - round outro game screen](/images/round-outro.png)
 
 In your app:
@@ -104,4 +104,4 @@ At the end of the quiz, it’s time for a **winner reveal party** — complete w
 
 ---
 
-That’s everything you need to know to run your quiz with the Quizmaster app. You’re now fully equipped to lead your event with confidence and style!
+That’s everything you need to know to run your quiz with the Quizmaster App. You’re now fully equipped to lead your event with confidence and style!

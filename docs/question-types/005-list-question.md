@@ -31,7 +31,7 @@ A **List question** asks players to provide several correct answers from a large
 - **Given options:** Use as in-question examples.
 - **Correction:**
     - **Force automatic correction:** When enabled, QuizWitz automatically checks all answers (accepting small typos and variations). No jury needed.
-    - **Manual review:** When not enabled, each provided answer must be reviewed by the [jury app](../quizmaster/004-jury-app.md).
+    - **Manual review:** When not enabled, each provided answer must be reviewed by the [Jury App](../quizmaster/004-jury-app.md).
 
 ---
 
@@ -59,4 +59,4 @@ For details, see [round scoring options](../editor/008-round-options.md#scoring)
 
 ---
 
-For more, see [Jury app documentation](../quizmaster/004-jury-app.md).
+For more, see [Jury App documentation](../quizmaster/004-jury-app.md).

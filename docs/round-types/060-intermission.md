@@ -16,7 +16,7 @@ title: Intermission
   The intermission ends when someone presses **Enter** on the game screen.
 - **In QuizWitz Live games:**  
   The quizmaster ends the intermission from their device (tablet or smartphone).  
-  The Quizmaster app displays a timer so the quizmaster can see how long the intermission has lasted.
+  The Quizmaster App displays a timer so the quizmaster can see how long the intermission has lasted.
 
 ---
 

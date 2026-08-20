@@ -1,27 +1,27 @@
 ---
 id: jury-app
-title: Jury app
+title: Jury App
 ---
 
-# 🧑‍⚖️ Jury app — Reviewing open answers in QuizWitz Live
+# 🧑‍⚖️ Jury App — Reviewing open answers in QuizWitz Live
 
-If your quiz includes **open answer questions**, you'll need to use the **Jury app** to manually review and score responses.
+If your quiz includes **open answer questions**, you'll need to use the **Jury App** to manually review and score responses.
 
 ---
 
-## 🗂️ Using the Jury app
+## 🗂️ Using the Jury App
 
-The Jury app is a separate interface used by jury members to evaluate answers and manage scoring.
+The Jury App is a separate interface used by jury members to evaluate answers and manage scoring.
 
-To open the Jury app:
+To open the Jury App:
 
 1. At the start of the quiz, a **Jury Code** is generated.
 2. On a separate device, go to [**quizwitz.tv**](https://quizwitz.tv)
 3. Enter the **Jury Code** to access the app
 
-> 💡 You can open the Jury app on any browser — it's a web app, no installation required.
+> 💡 You can open the Jury App on any browser — it's a web app, no installation required.
 
-Once inside, the Jury app provides several useful tools:
+Once inside, the Jury App provides several useful tools:
 
 - **Judge questions** — Open question results will appear once a question is completed.
   - The game does **not wait** for the jury to finish — unless it’s the **last question of the round** or the quiz settings say otherwise.
@@ -34,19 +34,19 @@ Once inside, the Jury app provides several useful tools:
 
 - **Report** — Generate a full game report with results and player answers.
 
-![Screenshot of the Jury app in Pending state](/images/jury-app-waiting.png)
+![Screenshot of the Jury App in Pending state](/images/jury-app-waiting.png)
 
 ---
 
 ## ✅ Judging open questions
 
-After each open question, the Jury app displays all submitted answers. Jury members must:
+After each open question, the Jury App displays all submitted answers. Jury members must:
 
 1. Review each answer carefully
 2. Tick the checkbox next to each **acceptable** answer
 3. Click **‘Confirm’** to lock in the results
 
-![Screenshot of the Jury app in the Judging state](/images/jury-app-judging.png)
+![Screenshot of the Jury App in the Judging state](/images/jury-app-judging.png)
 
 QuizWitz will **automatically detect exact matches** and mark them as correct. Jury members are responsible for reviewing:
 
@@ -58,4 +58,4 @@ QuizWitz will **automatically detect exact matches** and mark them as correct. J
 
 ---
 
-With the Jury app, you can fairly assess open responses, adjust scores, and ensure a balanced quiz experience for all players.
+With the Jury App, you can fairly assess open responses, adjust scores, and ensure a balanced quiz experience for all players.

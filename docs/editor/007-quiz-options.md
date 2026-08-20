@@ -79,4 +79,4 @@ Add custom quizmaster instructions for:
 - **Quiz introduction**
 - **Quiz outro**
 
-These are visible on the [Quizmaster app](../quizmaster/001-introduction.md) when using QuizWitz Live.
+These are visible on the [Quizmaster App](../quizmaster/001-introduction.md) when using QuizWitz Live.

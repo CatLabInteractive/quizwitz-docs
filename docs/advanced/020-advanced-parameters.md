@@ -27,7 +27,7 @@ Available parameters:
 | `publisher`              | /           | QuizWitz    | Name of the publisher who is hosting the game. This is used for customizing views
 | `smileys`                | 1           | 0           | Set to 0 to disable smileys in the game
 | `outroPlayers`           | 12          | 5,4,3,1,2   | Defines the amount (number) OR the order of players (comma separated list of positions) that will be announced during the game outro.
-| `focusPositions`         | /           | 50,100      | Define a list of additional positions that will be displayed in the quizmaster app
+| `focusPositions`         | /           | 50,100      | Define a list of additional positions that will be displayed in the Quizmaster App
 | `translations`           | 1           | 0           | Set to 0 to disable loading translations of the quiz you are loading
 | `cycleTranslations`      | 0           | 1           | Set to 1 to cycle through all available languages of the quiz per question
 | `showLongQuestions`      | 0           | 1           | Set to 1 to show the 'long question' on the game screen
@@ -44,7 +44,7 @@ Available parameters:
 | `autoRestart`            | 0           | 1           | Set to 1 to automatically restart the game after it is finished.
 | `waitForPlayers`         | 0           | 1           | Set to 1 to not wait for any players when `autoCountdown` is enabled
 | `askEmail`               | 1           | 0           | Set to 0 to not ask for user email address in presentation mode.
-| `beacon`                 | /           | my-beacn    | Set a CatLab Remote beacon token that can be used to automatically connect the quizmaster app.
+| `beacon`                 | /           | my-beacn    | Set a CatLab Remote beacon token that can be used to automatically connect the Quizmaster App.
 | `rounds`                 | 5           | 7           | Set the amount of rounds that will be generated in a random quiz.
 | `questions`              | 7           | 7           | Set the amount of questions that will be generated for each round in a random quiz.
 | `showListenQuotes`       | 1           | 0           | Set to 0 to disable the 'funny' "please listen" quotes.
