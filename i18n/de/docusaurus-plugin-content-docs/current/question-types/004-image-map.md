@@ -5,7 +5,7 @@ title: Bildkartenfrage
 
 # 🗺️ Bildkarte
 
-Bei einer **Bildkartenfrage** müssen die Spieler den richtigen Punkt (oder die richtigen Punkte) auf einem Bild auswählen, das auf ihrem smart device angezeigt wird. Das ist ideal für visuelle Erkennungsaufgaben, wie beispielsweise „Wähle den Erlenmeyerkolben aus.“
+Bei einer **Bildkartenfrage** müssen die Spieler den richtigen Punkt (oder die richtigen Punkte) auf einem Bild auswählen, das auf ihrem Gerät angezeigt wird. Das ist ideal für visuelle Erkennungsaufgaben, wie beispielsweise „Wähle den Erlenmeyerkolben aus.“
 
 ---
 
@@ -18,7 +18,7 @@ Bei einer **Bildkartenfrage** müssen die Spieler den richtigen Punkt (oder die 
 - **Frage:** Formuliere klar, was die Spieler auf dem Bild finden müssen.  
   _(Beispiel: „Wähle den Erlenmeyerkolben aus.“)_
 - **Bild:** Lade ein hochqualitatives Bild hoch, das allen Spielern angezeigt wird.
-- **Antwortbereiche:** Definiere einen oder mehrere **Zielbereiche** („Punkte“) auf dem Bild. Jeder Bereich kann als Kreis oder eine andere Form eingestellt werden, und Du bestimmst Position und Größe.
+- **Antwortbereiche:** Definiere einen oder mehrere **Zielbereiche** („Punkte“) auf dem Bild. Jeder Bereich kann als Kreis oder eine andere Form eingestellt werden, und du bestimmst Position und Größe.
 - **Antwort auswählen:** Spieler tippen oder klicken, um ihre Antwort(en) auf dem Bild zu markieren.
   - Wenn die Antwort **innerhalb eines korrekten Bereichs** liegt, erhalten sie volle Punkte.
   - Liegt die Antwort **außerhalb des richtigen Bereichs**, aber innerhalb des "fast richtigen" Radius, können sie Teilpunkte basierend auf der Entfernung erhalten (gemäß der Einstellung _score easing_).
@@ -41,8 +41,8 @@ Siehe [Fragen schreiben](../editor/005-writing-questions.md) für allgemeine Fra
 
 ## ⏱️ Zeitbasierte Punktevergabe
 
-**Zeitbasierte Punktevergabe ist standardmäßig aktiviert.** Spieler, die schnell antworten, erhalten mehr Punkte, aber es gibt immer eine feste Komponente (Standard: 75 %) für eine korrekte Antwort. Nur 25 % der Gesamtpunktzahl werden davon beeinflusst, wie schnell Du antwortest.  
-Du kannst die zeitbasierte Punktevergabe für diesen Fragetyp deaktivieren, wenn Du möchtest.
+**Zeitbasierte Punktevergabe ist standardmäßig aktiviert.** Spieler, die schnell antworten, erhalten mehr Punkte, aber es gibt immer eine feste Komponente (Standard: 75 %) für eine korrekte Antwort. Nur 25 % der Gesamtpunktzahl werden davon beeinflusst, wie schnell du antwortest.  
+Du kannst die zeitbasierte Punktevergabe für diesen Fragetyp deaktivieren, wenn du möchtest.
 
 📘 Für Details zu Punkten und Zeiteinstellungen siehe die [Rundenoptionen-Dokumentation](../editor/008-round-options.md#scoring).
 
