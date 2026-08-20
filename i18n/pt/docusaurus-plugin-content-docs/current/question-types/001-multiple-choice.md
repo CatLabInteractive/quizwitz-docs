@@ -25,7 +25,7 @@ Uma pergunta normal de múltipla escolha permite que os jogadores selecionem a r
 ## 🏆 Pontuação
 
 Perguntas de múltipla escolha usam **pontuação baseada em tempo** por padrão: respostas mais rápidas ganham mais pontos. Para essas perguntas, a pontuação diminui continuamente por microssegundo, com a maior parte dos pontos fixa e apenas uma parte influenciada pela velocidade.  
-**Você também pode desativar a pontuação baseada em tempo por pergunta** se quiser que todas as respostas corretas recebam a mesma pontuação.  
+**Também podes desativar a pontuação baseada no tempo por pergunta** se quiseres que todas as respostas corretas recebam a mesma pontuação.  
 Podes ajustar ainda mais esse equilíbrio nas configurações da ronda.
 
 Vê [Opções de pontuação nas configurações da ronda](../editor/008-round-options.md#scoring) para todos os detalhes.
