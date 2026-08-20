@@ -14,7 +14,7 @@ Ist dein Spiel eingefroren? Wurde der Tab versehentlich geschlossen? [**QuizWitz
 
 Wenn dein Spiel abstürzt, hängen bleibt oder aus irgendeinem Grund unterbrochen wird – sei es durch ein Browserproblem, Systemneustart oder versehentliches Schließen des Tabs – kannst du die Sitzung einfach fortsetzen.
 
-Öffne einfach **denselben Browser-Tab oder Spielbildschirm** wieder, den du zum Anzeigen der **Hauptspielansicht** verwendet hast. Dies ist der Bildschirm, den du für dein Publikum projizierst oder streamst.
+Öffne einfach **denselben Browser-Tab neu**, mit dem du den **Spielbildschirm** angezeigt hast. Dies ist der Bildschirm, den du für dein Publikum projizierst oder streamst.
 
 Wenn er geladen ist:
 
@@ -47,7 +47,7 @@ Du kannst auch wählen, stattdessen **ein neues Spiel zu starten**.
 
 ## 💡 Gut zu wissen
 
-- Wiederherstellung funktioniert nur, wenn du **zur selben Spielansicht im selben Browser zurückkehrst**
+- Wiederherstellung funktioniert nur, wenn du **zum selben Spielbildschirm im selben Browser zurückkehrst**
 - Navigiere **nicht** auf eine andere Seite – öffne die **exakte URL**, die du zum Hosten des Spiels verwendet hast, erneut
 - Diese Funktion hilft bei der Wiederherstellung nach:
   - Browser-Abstürzen
