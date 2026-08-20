@@ -9,7 +9,7 @@ Uma rodada de Atividade deixa-te sair das perguntas de quiz padrão para um desa
 
 ---
 
-![Ecrã principal da rodada de Atividade](/images/round-modes/activity-main-screen.png)
+![Tela de jogo para rodada de atividades](/images/round-modes/activity-main-screen.png)
 
 ---
 
@@ -33,7 +33,7 @@ Uma rodada de Atividade deixa-te sair das perguntas de quiz padrão para um desa
 
 - **Ferramentas de duelo:** O quizmaster pode aceder a ações rápidas para buzzer, gongo, sinos e temporizadores durante a atividade.
 - **Pontos personalizados:** Os pontos podem ser introduzidos manualmente para cada equipa, ou podes selecionar um vencedor com botões de ação rápida.
-- **Anexos:** Adiciona imagens, áudio ou vídeo para explicar a atividade ou mostrar exemplos. O quizmaster pode apresentá-los no ecrã principal durante a atividade.
+- **Anexos:** Adiciona imagens, áudio ou vídeo para explicar a atividade ou mostrar exemplos. O testador pode exibir estes na tela do jogo durante a atividade.
 
 ---
 
