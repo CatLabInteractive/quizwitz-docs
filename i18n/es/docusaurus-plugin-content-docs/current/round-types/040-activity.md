@@ -9,17 +9,17 @@ Una ronda de Actividad te permite alejarte de las preguntas estándar del quiz p
 
 ---
 
-![Pantalla principal para la ronda de Actividad](/images/round-modes/activity-main-screen.png)
+![Pantalla de juego para la ronda de Actividad](/images/round-modes/activity-main-screen.png)
 
 ---
 
 ## 🏆 Cómo funciona
 
 - **Descripción del reto:** La ronda comienza con una descripción de la actividad (p. ej., "¡Dobla un avión de papel y lánzalo lo más lejos posible, gana el que llegue más lejos!").
-- **Selección de Equipo/Jugador:** El quizmaster selecciona qué equipos o jugadores participarán en la actividad.
+- **Selección de equipo/jugador:** El quizmaster selecciona qué equipos o jugadores participarán en la actividad.
   - **La selección aleatoria asegura que cada equipo sea elegido un número igual de veces durante el quiz.** Así que si tienes 40 equipos y 10 rondas de actividad con 4 equipos cada una, cada equipo será seleccionado exactamente una vez.
-- **Temporizador y Herramientas:** Inicia un temporizador y usa efectos de sonido (como timbre o campanas) para gestionar el reto.
-- **Otorgar Puntos:** Después de la actividad, el quizmaster ingresa los resultados y otorga puntos al equipo(s) ganador(es).
+- **Temporizador y herramientas:** Inicia un temporizador y usa efectos de sonido (como timbre o campanas) para gestionar el reto.
+- **Otorgar puntos:** Después de la actividad, el quizmaster ingresa los resultados y otorga puntos al equipo(s) ganador(es).
 
 <table><tbody><tr><td markdown>
 ![Selección de equipos para la ronda de Actividad](/images/round-modes/activity-team-selection.png)
@@ -29,11 +29,11 @@ Una ronda de Actividad te permite alejarte de las preguntas estándar del quiz p
 
 ---
 
-## 🛠️ Herramientas y Controles
+## 🛠️ Herramientas y controles
 
 - **Herramientas de duelo:** El quizmaster puede acceder a acciones rápidas para timbre, gong, campanas y temporizadores durante la actividad.
 - **Puntos personalizados:** Los puntos pueden ingresarse manualmente para cada equipo, o puedes seleccionar un ganador con botones de acción rápida.
-- **Adjuntos:** Agrega imágenes, audio o video para explicar la actividad o mostrar ejemplos. El quizmaster puede mostrarlos en la pantalla principal durante la actividad.
+- **Adjuntos:** Agrega imágenes, audio o video para explicar la actividad o mostrar ejemplos. El quizmaster puede mostrarlos en la pantalla de juego durante la actividad.
 
 ---
 
