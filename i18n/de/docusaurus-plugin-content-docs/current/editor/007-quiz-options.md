@@ -19,13 +19,13 @@ Wähle die Sprache, in der du das Quiz schreibst. Spätere zusätzliche Überset
 
 ---
 
-## 🎨 Designs
+## 🎨 Themes
 
-Wähle ein visuelles Design für dein Quiz aus.
+Wähle ein visuelles Theme für dein Quiz aus.
 
-- Das Standarddesign ist **QuizWitz**
-- Deine Organisation kann Zugang zu benutzerdefinierten Designs haben
-- Designs beeinflussen Hintergrund, Farben und Layout
+- Das Standard-Theme ist **QuizWitz**
+- Deine Organisation kann Zugang zu benutzerdefinierten Themes haben
+- Themes beeinflussen Hintergrund, Farben und Layout
 
 📘 Sieh dir die [Emerald theme Dokumentation](../advanced/011-emerald-theme.md) für mehr Details zur Anpassung der Optik mit diesem Design an.
 
@@ -39,8 +39,8 @@ Verleihe deinem Quiz mit Bildern, Audio oder Video in bestimmten Slots mehr Ausd
 - **Nach dem Quiz** — Wird nach dem Ergebnisbildschirm abgespielt
 - **Kundenlogo / alternatives Logo** — Wird während der gesamten Quiz-Oberfläche angezeigt
 - **Wartebildschirm** — Wird zwischen den Fragen in Live-Spielen angezeigt (1920×1080 Bild empfohlen)
-- **Hintergrund** — Optionaler Hintergrundersatz (abhängig vom Design)
-- **Connect screen** — Verwendet im [Live](../quizmaster/001-introduction.md) und [Conference](../tutorials/conference-booth) Modus:
+- **Hintergrund** — Optionaler Hintergrundersatz (abhängig vom Theme)
+- **Verbindungsbildschirm** — Verwendet in den Modi [Live](../quizmaster/001-introduction.md) und [Konferenz](../tutorials/conference-booth):
   - **Bilder** — Vollbild-Hintergrundbilder
   - **Audio** — Schleifenmusik (max. 15 Min.)
   - **Video** — Wird alle 5 Minuten abgespielt, nützlich für Werbung oder Anweisungen
@@ -75,9 +75,9 @@ Erzeugt Teilen-Links oder Einbettungscode mit erweiterten Spieleinstellungen.
 
 ## 📜 Quizmaster-Kopie
 
-Füge benutzerdefinierte Anweisungen für den Präsentator hinzu:
+Eigene Quizmaster-Anweisungen hinzufügen für:
 
 - **Quiz introduction**
 - **Quiz outro**
 
-Diese sind in der [Quizmaster-App](../quizmaster/001-introduction.md) sichtbar, wenn du QuizWitz Live nutzt.
+Diese werden in der [Quizmaster-App](../quizmaster/001-introduction.md) angezeigt, wenn QuizWitz Live verwendet wird.
