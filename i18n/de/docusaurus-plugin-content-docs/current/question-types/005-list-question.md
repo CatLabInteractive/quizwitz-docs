@@ -31,7 +31,7 @@ Eine **Listenfrage** bittet die Spieler, mehrere richtige Antworten aus einer gr
 - **Angegebene Optionen:** Dienen als Beispiele in der Frage.
 - **Korrektur:**
   - **Automatische Korrektur erzwingen:** Wenn aktiviert, überprüft QuizWitz alle Antworten automatisch (akzeptiert kleine Tippfehler und Variationen). Keine Jury nötig.
-  - **Manuelle Überprüfung:** Wenn nicht aktiviert, muss jede Antwort von der [Jury-App](../quizmaster/004-jury-app.md) geprüft werden.
+  - **Manuelle Überprüfung:** Wenn nicht aktiviert, muss jede Antwort von der [Jury App] überprüft werden (../quizmaster/004-jury-app.md).
 
 ---
 
@@ -59,4 +59,4 @@ Details findest du unter [Runden-Punkteoptionen](../editor/008-round-options.md#
 
 ---
 
-Für mehr Infos siehe [Jury-App-Dokumentation](../quizmaster/004-jury-app.md).
+Weitere Informationen finden Sie unter [Jury App Dokumentation](../quizmaster/004-jury-app.md).
