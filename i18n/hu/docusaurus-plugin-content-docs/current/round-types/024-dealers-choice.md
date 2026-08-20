@@ -1,11 +1,11 @@
 ---
 id: dealers-choice
-title: Az osztó választása
+title: Dealer's Choice
 ---
 
-# 🃏 Az osztó választása
+# 🃏 Dealer's Choice
 
-A **Dealers’ Choice** kör a QuizWitzben stratégiai csavart visz a kvízedbe.
+The **Dealer’s Choice** round in QuizWitz adds a strategic twist to your quiz.
 Az egyik játékos **kiválaszthatja a következő kérdés kategóriáját**, ami előnyt adhat neki – és akár bónuszt is! Így állíthatod be és játszhatod:
 
 ---
@@ -21,7 +21,7 @@ Ebben a körben **egy játékos lesz az "osztó"**, és ő választja ki a köve
 
 ## 🏷️ Kategóriák hozzárendelése a kérdésekhez
 
-A Dealers’ Choice körben minden kérdéshez kell egy **egyedi címke**, ami kategóriaként jelenik meg az osztónak, és ezek közül választhat.
+Each question in the Dealer’s Choice round needs a **unique label**, which acts as the category the dealer sees and selects from.
 
 Például:
 
@@ -73,5 +73,5 @@ A kör kezdete előtt a QuizWitz az alábbi lehetőségek egyikével határozza 
 
 ---
 
-A Dealers’ Choice kör ösztönzi az interakciót, és egy kis irányítást ad a játékosok kezébe, miközben továbbra is jutalmazza a gyors és helyes válaszokat. Szuper módja annak, hogy mindenki aktív maradjon!
+The Dealer’s Choice round encourages interaction and gives players a bit of control, while still rewarding quick and correct answers. Szuper módja annak, hogy mindenki aktív maradjon!
 
