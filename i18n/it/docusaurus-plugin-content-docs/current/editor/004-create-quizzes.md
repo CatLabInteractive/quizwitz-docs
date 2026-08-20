@@ -80,7 +80,7 @@ Quando sei pronto a testare o avviare il tuo quiz, premi il pulsante **Avvia qui
 
 - **[Gioco del Play Party](../players/001-playing-quizwitz.md)** — Un'esperienza casuale di quiz da godere con gli amici sullo stesso schermo o tramite screenshare. Il gioco viene eseguito automaticamente; l'host può metterlo in pausa, ma non ha ulteriori controlli sul ritmo.
 - **[Start QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Avvia un evento quiz dal vivo professionale utilizzando l'app Quizmaster. Questa è la **modalità unica in cui il quizmaster controlla il pacing** del gioco.
-- **[Start Conference Mode (PRO)](../tutorials/050-conference-booth.md)** — Ospita un quiz in stile conferenza per un pubblico più grande con posti a sedere, codici di squadra e strumenti di produzione. Come Party Games, i giochi di conferenza vengono eseguiti automaticamente.
+- **[Start Conference mode (PRO)](../tutorials/050-conference-booth.md)** — Ospita un quiz in stile conferenza per un pubblico più grande con posti a sedere, codici di squadra e strumenti di produzione. Come Party Games, i giochi di conferenza vengono eseguiti automaticamente.
 
 ---
 
