@@ -11,12 +11,12 @@ Boas-vindas ao QuizWitz! Quer jogues sozinho ou com amigos, este guia vai ajudar
 
 ## 🎯 Escolha o que jogar
 
-Comece explorando os **Round-Abouts** disponíveis — rodadas curtas temáticas de perguntas de quiz. Usa o menu no topo do ecrã para explorar:
+Começa por explorar os **Round-Abouts** disponíveis — rondas curtas e temáticas de perguntas de quiz. Usa o menu no topo do ecrã para explorar:
 
-- **Novo** — Descubra os Round-Abouts mais recentes
+- **Novo** — Descobre os Round-Abouts mais recentes
 - **A minha coleção** — Acede a tudo o que guardaste ou criaste
-- **Coletar** — Encontre Round-Abouts feitos pela comunidade
-- **Jogo rápido** — Entre numa seleção aleatória
+- **Recolher** — Encontra Round-Abouts feitos pela comunidade
+- **Jogo rápido** — Entra numa seleção aleatória
 
 ![Barra de navegação superior do QuizWitz](/images/top-menu-play.png)
 
@@ -31,7 +31,7 @@ Comece explorando os **Round-Abouts** disponíveis — rodadas curtas temáticas
 - Criaste por conta própria
 - Recolheste de outros criadores
 
-Isso inclui:
+Isto inclui:
 
 - Round-Abouts
 - Quizzes completos
@@ -49,7 +49,7 @@ Um **Round-About** é uma pequena ronda de perguntas — como o nome diz, uma ro
 
 Para explorar um Round-About em mais detalhes:
 
-- Clique na **imagem**, no **título** ou no **ícone de comentários**
+- Clica na **imagem**, no **título** ou no **ícone de comentários**
 - Clica em **Jogar** para entrar imediatamente
 
 ![QuizWitz Round-About details](/images/round-about-details.png)
@@ -133,4 +133,4 @@ No final, avalia os Round-Abouts que jogaste. Isso ajuda a destacar conteúdo in
 
 ---
 
-Aproveite o quiz, e que vença o melhor cérebro! 🧠🎉
+Aproveita o quiz, e que vença o melhor cérebro! 🧠🎉
