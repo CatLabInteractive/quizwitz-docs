@@ -16,7 +16,7 @@ Een **Traditionele** ronde simuleert het klassieke pubquiz-formaat, waar spelers
 ## 📝 Hoe het werkt
 
 - De ronde kan zowel meerkeuze- als open vragen bevatten.
-- Elke keer dat er een vraag wordt gesteld, verschijnt er een nieuw antwoordveld op het smart device van de speler.
+- Elke keer dat er een vraag wordt gesteld, verschijnt er een nieuw antwoordveld op het apparaat van de speler.
 - Spelers kunnen **elke van hun antwoorden aanpassen** tot de ronde voorbij is.
 - Alle antwoorden worden automatisch ingediend wanneer de timer voor de laatste vraag afloopt.
 
