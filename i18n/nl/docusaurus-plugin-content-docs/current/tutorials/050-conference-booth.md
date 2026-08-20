@@ -53,7 +53,7 @@ De snelste manier om je conferentiequiz te starten:
 1. Klik op **Speel quiz**.
 2. Selecteer **Start Conferentiemodus**.
 
-In deze modus gebruiken spelers hun telefoons om verbinding te maken met de spellink op het hoofdscherm.  
+In deze modus gebruiken spelers hun telefoon om verbinding te maken via de spellink op het spelscherm.  
 Als iedereen klaar is drukt de host van de kraam op Enter — en het spel start automatisch.  
 Nadat het spel is afgelopen, brengt Enter je direct terug naar het verbindingsscherm voor de volgende groep.
 
@@ -76,4 +76,4 @@ Je krijgt een unieke link met al je gekozen opties.
 ## 🎨 Thematisering
 
 Wil je dat het spel aansluit bij de branding van je kraam?  
-Bekijk onze [Thema-handleiding](../advanced/011-emerald-theme.md) voor tips over het aanpassen van uw QuizWitz ervaring.
+Bekijk onze [thema-handleiding](../advanced/011-emerald-theme.md) voor tips om je QuizWitz-ervaring aan te passen.
