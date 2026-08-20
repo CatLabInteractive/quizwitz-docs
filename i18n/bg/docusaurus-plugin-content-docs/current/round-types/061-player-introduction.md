@@ -5,13 +5,13 @@ title: Представяне на играчите
 
 # 🙋‍♂️ Представяне на играчите
 
-**Представянето на играчите** е специално събитие, което просто показва **имената и избраните емоджита на всички играчи или отбори** на главния екран на играта.
+**Player introduction** is a special event that simply displays the **names and selected emojis of all players or teams** on the game screen.
 
 ---
 
 ## 📝 Как работи
 
-- В този момент от викторината **името** и избраното **емоджи** на всеки участник ще се появят на големия екран.
+- At this point in the quiz, each participant’s **name** and chosen **emoji** will appear on the game screen.
 - Това често се използва в началото на събитие, след почивка или преди финален рунд, за да се представят или поздравят участниците.
 
 ---
