@@ -20,7 +20,7 @@ Du kannst QuizWitz Live direkt aus dem Quiz-Editor starten, indem du auf **‚St
 
 Damit dein Quiz reibungslos und professionell abläuft, stelle sicher, dass du Folgendes hast:
 
-- **Einen großen Bildschirm oder Projektor**, der den Hauptspielbildschirm zeigt – oder einen **Livestream**, der für alle Spieler zugänglich ist
+- **Ein großer Bildschirm oder Projektor** zeigt den Spielbildschirm — oder ein **Livestream** für alle Spieler zugänglich
 - **Ein Tablet oder einen Laptop** für den quizmaster, um das Spiel zu steuern und das Skript laut vorzulesen
 - **Einen Laptop oder ein Tablet** für die Jury (falls nötig), um offene Antworten zu bewerten
 - **Ein smart device pro Spieler oder Team** (z. B. Smartphone oder Tablet) zum Einreichen der Antworten
