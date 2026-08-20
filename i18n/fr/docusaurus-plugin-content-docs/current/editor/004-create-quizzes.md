@@ -80,7 +80,7 @@ Quand vous êtes prêt à tester ou lancer votre quiz, appuyez sur le bouton **D
 
 - **[Jouer à la fête](../players/001-playing-quizwitz.md)** — Un quiz décontracté pour profiter avec des amis sur le même écran ou via le partage d'écran. Le jeu s'exécute automatiquement; l'hôte peut le mettre en pause, mais n'a pas de contrôle supplémentaire sur le rythme.
 - **[Démarrer QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Lancez un quiz professionnel en direct à l'aide de l'application Quizmaster. C'est le **seul mode où le quizmaster contrôle le rythme** du jeu.
-- **[Mode conférence de démarrage (PRO)](../tutorials/050-conference-booth.md)** — Organisez un quiz de type conférence pour un plus grand public avec des places assises, des codes d'équipe et des outils de production. Comme les jeux de fête, les jeux de conférence s'exécutent automatiquement.
+- **[Démarrer le mode conférence (PRO)](../tutorials/050-conference-booth.md)** — Organisez un quiz de style conférence pour un plus grand public avec des places assises, des codes d'équipe et des outils de production. Comme les jeux de fête, les jeux de conférence s'exécutent automatiquement.
 
 ---
 
