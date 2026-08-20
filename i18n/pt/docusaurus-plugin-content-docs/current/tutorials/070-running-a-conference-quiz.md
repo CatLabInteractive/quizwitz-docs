@@ -27,7 +27,7 @@ Antes de começar, certifique-se de que:
 
 2. Uma tela de carregamento preta aparece mostrando uma porcentagem. Isto leva apenas alguns segundos.
 
-3. Uma vez carregado, o ecrã do quiz aparece. Se solicitado para entrar, clique em **Login** — abrirá uma segunda aba.
+3. Uma vez carregada, a tela do jogo aparece. Se solicitado para entrar, clique em **Login** — abrirá uma segunda aba.
    - Clique em **Login** na página de login e digite as credenciais fornecidas a você.
    - Depois de fazer o login, a aba fecha automaticamente e o questionário termina o carregamento.
 
@@ -35,7 +35,7 @@ Antes de começar, certifique-se de que:
 
 5. Mova seu cursor sobre a tela para exibir a barra de controle na parte inferior.  
    Clique no **ícone quadrado** à direita para entrar no modo de tela cheia.  
-   O questionário está pronto para ser jogado na tela principal.
+   Agora o quiz está pronto para jogar na tela do jogo.
 
 :::tip
 Para sair da tela cheia a qualquer momento — por exemplo, para mudar para outra janela — pressione **Esc**.
@@ -61,16 +61,16 @@ Quando o questionário recarregar, ele vai se lembrar do seu login e ir direto p
 Os jogadores se juntam usando seus próprios smartphones de uma das duas maneiras:
 
 - Navegue até **www.quizwitz.tv** no navegador deles
-- Escaneie o **código QR** mostrado na tela principal
+- Escaneie o **código QR** mostrado na tela do jogo
 
 Na tela de entrada, jogadores:
 
-1. Digite o **código de 8 dígitos** mostrado na tela principal.
+1. Digite o código de 8 dígitos \*\* mostrado na tela do jogo.
 2. Preencha seu **nome e endereço de e-mail**.
 3. Verifique a **caixa de seleção de privacidade**.
 4. Toque em **LEIA**.
 
-Ao entrar, os jogadores verão uma mensagem de espera no telefone. A tela principal mostra quantos jogadores estão conectados.
+Ao entrar, os jogadores verão uma mensagem de espera no telefone. A tela do jogo mostra quantos jogadores estão conectados.
 
 :::note
 Jogadores podem entrar a qualquer momento enquanto o número máximo de jogadores não for atingido.
@@ -87,7 +87,7 @@ Uma contagem regressiva de 5 segundos começa, e depois o questionário começa 
 
 ## Como o quiz funciona
 
-- Cada pergunta aparece no ecrã principal com o texto da pergunta, quatro opções de resposta e uma imagem.
+- Cada questão aparece na tela do jogo com o texto da pergunta, quatro opções de resposta e uma imagem.
 - Jogadores vêem a mesma pergunta em seu telefone e toque em uma das quatro opções.
 - Os jogadores têm **30 segundos** para responder. O temporizador é mostrado como uma barra branca na parte inferior da tela.
 - Assim que todos os jogadores tiverem respondido (ou o tempo acabar), a resposta correta é revelada na tela como um gráfico que mostra como as respostas foram distribuídas.
