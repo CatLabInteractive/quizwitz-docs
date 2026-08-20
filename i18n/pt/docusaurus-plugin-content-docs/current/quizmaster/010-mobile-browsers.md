@@ -7,25 +7,25 @@ title: Navegadores móveis
 
 O QuizWitz é otimizado para uso em **computadores desktop e portáteis**. Embora seja tecnicamente possível hospedar jogos do **QuizWitz Live** ou **Conference** em um tablet ou smartphone, nós **não recomendamos** usar dispositivos **Android** ou **iOS** para rodar o jogo.
 
-> 🛑 Dispositivos móveis não são oficialmente compatíveis para hospedagem. Use um desktop ou portátil sempre que possível.
+> 🛑 Dispositivos móveis não são oficialmente compatíveis para hospedagem. Usa um desktop ou portátil sempre que possível.
 
 ---
 
-## ⚠️ Se você precisar usar um dispositivo móvel...
+## ⚠️ Se precisares de usar um dispositivo móvel...
 
 Se usar um telemóvel ou tablet for a tua única opção, segue estes passos para minimizar o risco de problemas técnicos:
 
 ### 🔋 Desative os recursos de economia de energia
 
-- Certifique-se de que os **modos de economia de energia estejam desativados**
-- Aumente o **tempo limite de suspensão automática** do seu dispositivo
+- Certifica-te de que os **modos de poupança de energia estão desativados**
+- Aumenta o **tempo limite de suspensão automática** do teu dispositivo
 - Alguns navegadores móveis podem **atualizar a página quando o dispositivo entra em suspensão**, o que pode encerrar o jogo inesperadamente
 
 ### 🎞️ Teste fragmentos de áudio e vídeo
 
-- Se o seu quiz incluir **áudio ou vídeo**, teste com antecedência
+- Se o teu quiz incluir **áudio ou vídeo**, testa com antecedência
 - Alguns dispositivos podem **ter dificuldade com arquivos de mídia grandes** ou nem reproduzi-los
-- Tenha cuidado especial com **dispositivos mais antigos** ou navegadores móveis padrão
+- Tem cuidado especial com **dispositivos mais antigos** ou navegadores móveis predefinidos
 
 ---
 
@@ -36,8 +36,8 @@ Mesmo com as precauções acima, recomendamos fortemente **não** usar dispositi
 Para obter o melhor desempenho e estabilidade:
 
 - Use um **computador desktop ou portátil moderno**
-- Rode seu jogo no **Chrome, Firefox** ou **Edge**
-- Evite usar o Safari no iOS para qualquer coisa além de jogar
+- Executa o teu jogo no **Chrome, Firefox** ou **Edge**
+- Evita usar o Safari no iOS para qualquer coisa além de jogar
 
 ---
 
