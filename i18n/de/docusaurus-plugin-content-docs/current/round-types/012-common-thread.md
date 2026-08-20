@@ -37,4 +37,4 @@ Siehe [Rundenoptionen](../editor/008-round-options.md) für Details zur Konfigur
 
 ---
 
-Für weitere Informationen zur Konfiguration von Rundengefeedback und speziellen Rundentypen siehe die [Rundentyp-Dokumentation](../question-types/000-question-types.md).
+Für weitere Informationen zur Konfiguration von Rundenfeedback und speziellen Rundentypen siehe die [Rundentyp-Dokumentation](../question-types/000-question-types.md).
