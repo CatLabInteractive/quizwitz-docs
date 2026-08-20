@@ -1,6 +1,6 @@
 ---
 id: round-types
-name: Tipi di round
+title: Tipi tondi
 ---
 
 # Tipi di round
@@ -18,10 +18,10 @@ Nei quiz, puoi cambiare il tipo di round nel campo di selezione **Tipo di round*
 
 Questi round offrono un po' più di interattività rispetto alle semplici domande e risposte.
 
-- [Fetta di torta](021-piece-of-pie.md)
+- [Pezzo della torta](021-piece-of-pie.md)
 - [Domanda multipla](022-multiquestion.md)
 - [Strike](023-strike.md)
-- [Scelta del banco](024-dealers-choice.md)
+- [Scelta Del Rivenditore](024-dealers-choice.md)
 
 ## 🍺 Tradizionale
 
@@ -46,5 +46,5 @@ Questi tipi di round non contengono domande — ma influenzano invece l'esito de
 
 In questi tipi di round, puoi selezionare specifici **reparti** che giocano contro altri reparti.
 
-- [Reparto — scelta del banco](070-departments-dealers-choice.md)
+- [Dipartimento — Scelta Del Rivenditore](070-departments-dealers-choice.md)
 - [Reparto — eliminazione](071-departments-elimination.md)
