@@ -1,27 +1,27 @@
 ---
 id: jury-app
-title: Aplikace poroty
+title: Aplikace Porota
 ---
 
-# 🧑‍⚖️ Aplikace poroty — hodnocení otevřených odpovědí v QuizWitz Live
+# :jude: Jury App - Přehled otevřených odpovědí v QuizWitz Live
 
-Pokud tvůj kvíz obsahuje **otázky s otevřenou odpovědí**, budeš muset použít **aplikaci poroty** k ruční kontrole a ohodnocení odpovědí.
+Pokud tvůj kvíz obsahuje **otevřené otázky k odpovědi**, budeš muset použít **aplikaci pro porodu** pro ruční kontrolu a skórování odpovědí.
 
 ---
 
-## 🗂️ Používání aplikace poroty
+## 🗂️ Používání aplikace Jury
 
-Aplikace poroty je samostatné rozhraní, které porotci používají k hodnocení odpovědí a správě bodování.
+Aplikace Jury je samostatné rozhraní, které používají členové poroty pro vyhodnocování odpovědí a řízení bodování.
 
-Jak otevřít aplikaci poroty:
+Otevření aplikace Jura:
 
 1. Na začátku kvízu se vygeneruje **kód poroty**.
-2. Na samostatném zařízení přejdi na [**catlab.tv**](https://catlab.tv)
+2. Na samostatném zařízení, přejděte na [**quizwitz.tv**](https://quizwitz.tv)
 3. Zadej **kód poroty** a otevři aplikaci
 
-> 💡 Aplikaci poroty můžeš otevřít v jakémkoli prohlížeči — je to webová aplikace, takže není potřeba nic instalovat.
+> 💡 Aplikace Jury můžete otevřít v libovolném prohlížeči — je to webová aplikace, není vyžadována žádná instalace.
 
-Jakmile budeš uvnitř, aplikace poroty ti nabídne několik užitečných nástrojů:
+Aplikace Jury nabízí několik užitečných nástrojů:
 
 - **Hodnocení otázek** — výsledky otevřených otázek se zobrazí po dokončení otázky.
   - Hra na dokončení poroty **nečeká** — pokud nejde o **poslední otázku kola** nebo pokud nastavení kvízu neurčuje jinak.
@@ -34,19 +34,19 @@ Jakmile budeš uvnitř, aplikace poroty ti nabídne několik užitečných nást
 
 - **Report** — vygeneruj kompletní report hry s výsledky a odpověďmi hráčů.
 
-![Snímek obrazovky aplikace poroty ve stavu čekání](/images/jury-app-waiting.png)
+![Screenshot aplikace Jury v nevyřízeném stavu](/images/jury-app-waiting.png)
 
 ---
 
 ## ✅ Hodnocení otevřených otázek
 
-Po každé otevřené otázce aplikace poroty zobrazí všechny odeslané odpovědi. Porotci musí:
+Po každé otevřené otázce zobrazuje aplikace Jury všechny odeslané odpovědi. Porotci musí:
 
 1. Pečlivě zkontrolovat každou odpověď
 2. Zaškrtnout políčko vedle každé **přijatelné** odpovědi
 3. Kliknout na **„Potvrdit“** a uzamknout výsledky
 
-![Snímek obrazovky aplikace poroty ve stavu hodnocení](/images/jury-app-judging.png)
+![Screenshot aplikace Jury v soudním státu](/images/jury-app-judging.png)
 
 QuizWitz **automaticky rozpozná přesné shody** a označí je jako správné. Porotci zodpovídají za kontrolu:
 
@@ -58,4 +58,4 @@ QuizWitz **automaticky rozpozná přesné shody** a označí je jako správné. 
 
 ---
 
-S aplikací poroty můžeš férově posuzovat otevřené odpovědi, upravovat skóre a zajistit vyvážený zážitek z kvízu pro všechny hráče.
+S aplikací Jury můžete spravedlivě posoudit otevřené reakce, upravit skóre a zajistit vyvážený kvíz pro všechny hráče.
