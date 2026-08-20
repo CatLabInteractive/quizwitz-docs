@@ -51,9 +51,9 @@ Minden alkalommal, amikor a kvíz elindul, a QuizWitz minden körből 5 véletle
 A konferenciakvíz elindításának leggyorsabb módja:
 
 1. Kattints a **Kvíz lejátszása** gombra.
-2. Válaszd a **Konferenciamód indítása** lehetőséget.
+2. Select **Start Conference mode**.
 
-Ebben a módban a játékosok a telefonjukkal csatlakoznak a főképernyőn látható játéklinkhez.  
+In this mode, players use their phones to connect to the game link on the game screen.  
 Amikor mindenki készen áll, a stand házigazdája megnyomja az Entert — és a játék automatikusan lefut.  
 A játék vége után az Enter megnyomásával rögtön visszajutsz a csatlakozási képernyőre a következő csoporthoz.
 
