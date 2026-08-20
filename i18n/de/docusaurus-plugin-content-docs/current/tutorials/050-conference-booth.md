@@ -51,9 +51,9 @@ Jedes Mal, wenn das Quiz läuft, wählt QuizWitz 5 zufällige Fragen aus jeder R
 Der schnellste Weg, dein Messestand-Quiz zu starten:
 
 1. Klicke auf **Quiz starten**.
-2. Wähle **Konferenzmodus starten**.
+2. Wählen Sie den **Konferenzmodus starten**.
 
-In diesem Modus verbinden sich die Spieler mit ihren Phones über den Spiel-Link auf dem Hauptbildschirm.  
+In diesem Modus verwenden Spieler ihre Handys, um sich mit dem Spiellink auf dem Spielbildschirm zu verbinden.  
 Wenn alle bereit sind, drückt der Standbetreiber Enter — und das Spiel läuft automatisch.  
 Nach Spielende bringt dich ein weiterer Enter-Druck zurück zum Verbindungsbildschirm für die nächste Gruppe.
 
