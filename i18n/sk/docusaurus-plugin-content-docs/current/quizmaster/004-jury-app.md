@@ -1,27 +1,27 @@
 ---
 id: jury-app
-title: Aplikácia poroty
+title: Jury App
 ---
 
-# 🧑‍⚖️ Aplikácia poroty — Kontrola otvorených odpovedí v QuizWitz Live
+# 🧑‍⚖️ Jury App — Reviewing open answers in QuizWitz Live
 
-Ak tvoj kvíz obsahuje **otázky s otvorenou odpoveďou**, budeš musieť použiť **aplikáciu poroty** na manuálnu kontrolu a hodnotenie odpovedí.
+If your quiz includes **open answer questions**, you'll need to use the **Jury App** to manually review and score responses.
 
 ---
 
-## 🗂️ Používanie aplikácie poroty
+## 🗂️ Using the Jury App
 
-Aplikácia poroty je samostatné rozhranie, ktoré členovia poroty používajú na vyhodnocovanie odpovedí a správu bodovania.
+The Jury App is a separate interface used by jury members to evaluate answers and manage scoring.
 
-Ako otvoriť aplikáciu poroty:
+To open the Jury App:
 
 1. Na začiatku kvízu sa vygeneruje **kód poroty**.
-2. Na samostatnom zariadení prejdi na [**catlab.tv**](https://catlab.tv)
+2. On a separate device, go to [**quizwitz.tv**](https://quizwitz.tv)
 3. Zadaj **kód poroty** a otvor aplikáciu
 
-> 💡 Aplikáciu poroty môžeš otvoriť v ľubovoľnom prehliadači — je to webová aplikácia, netreba nič inštalovať.
+> 💡 You can open the Jury App on any browser — it's a web app, no installation required.
 
-Keď si vnútri, aplikácia poroty ponúka viacero užitočných nástrojov:
+Once inside, the Jury App provides several useful tools:
 
 - **Hodnotenie otázok** — Výsledky otvorených otázok sa zobrazia po dokončení otázky.
   - Hra na porotu **nečaká**, kým skončí — iba ak ide o **poslednú otázku kola** alebo ak nastavenia kvízu hovoria inak.
@@ -34,19 +34,19 @@ Keď si vnútri, aplikácia poroty ponúka viacero užitočných nástrojov:
 
 - **Správa** — Vygeneruj kompletnú správu o hre s výsledkami a odpoveďami hráčov.
 
-![Snímka obrazovky aplikácie poroty v stave čakania](/images/jury-app-waiting.png)
+![Screenshot of the Jury App in Pending state](/images/jury-app-waiting.png)
 
 ---
 
 ## ✅ Hodnotenie otvorených otázok
 
-Po každej otvorenej otázke aplikácia poroty zobrazí všetky odoslané odpovede. Členovia poroty musia:
+After each open question, the Jury App displays all submitted answers. Členovia poroty musia:
 
 1. Pozorne skontrolovať každú odpoveď
 2. Zaškrtnúť políčko vedľa každej **prijateľnej** odpovede
 3. Kliknúť na **„Potvrdiť“**, aby sa výsledky uzamkli
 
-![Snímka obrazovky aplikácie poroty v stave hodnotenia](/images/jury-app-judging.png)
+![Screenshot of the Jury App in the Judging state](/images/jury-app-judging.png)
 
 QuizWitz **automaticky rozpozná presné zhody** a označí ich ako správne. Členovia poroty sú zodpovední za kontrolu:
 
@@ -58,4 +58,4 @@ QuizWitz **automaticky rozpozná presné zhody** a označí ich ako správne. Č
 
 ---
 
-S aplikáciou poroty môžeš férovo posúdiť otvorené odpovede, upraviť skóre a zabezpečiť vyvážený zážitok z kvízu pre všetkých hráčov.
+With the Jury App, you can fairly assess open responses, adjust scores, and ensure a balanced quiz experience for all players.
