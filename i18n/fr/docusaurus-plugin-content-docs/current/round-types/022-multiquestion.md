@@ -5,16 +5,16 @@ title: Multiquestion
 
 # ❓ Multiquestion
 
-Le tour **Multiquestion** donne aux joueurs (ou équipes) la liberté de choisir la question qu'ils veulent répondre parmi un ensemble de possibilités. Cela rend chaque partie unique et permet des choix stratégiques !
+La **manche Multiquestion** donne aux joueurs (ou équipes) la liberté de choisir la question à laquelle ils veulent répondre parmi un ensemble de possibilités. Cela rend chaque partie unique et permet des choix stratégiques !
 
 ---
 
 ## 📝 Comment ça marche
 
 - Pour chaque « groupe de questions », plusieurs questions alternatives sont proposées.
-- **Chaque joueur (ou équipe) sélectionne une question** parmi les options disponibles à laquelle répondre.
+- **Chaque joueur (ou équipe) sélectionne une question** parmi les options disponibles, pour y répondre.
 - Chaque question peut avoir sa propre valeur en points, difficulté ou type (choix multiples, ouverte, etc.).
-- Les joueurs ne répondent qu'à la question qu'ils ont choisie ; les autres leur sont alors sautées.
+- Les joueurs ne répondent qu'à la question qu'ils ont choisie ; les autres sont ignorées pour eux.
 
 ---
 
