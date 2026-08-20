@@ -1,27 +1,27 @@
 ---
 id: jury-app
-title: App do júri
+title: Aplicativo do Juramento
 ---
 
-# 🧑‍⚖️ App do júri — Revendo respostas abertas no QuizWitz Live
+# 🧑‍⚖️ App do Jury — Revendo respostas abertas em QuizWitz Live
 
-Se o teu quiz incluir **perguntas de resposta aberta**, vais precisar de usar o **app do júri** para rever e pontuar as respostas manualmente.
+Se seu questionário incluir **perguntas de resposta abertas**, você precisará usar o **Aplicativo do Juriz** para revisar e marcar respostas manualmente.
 
 ---
 
-## 🗂️ Usar o app do júri
+## 🗂️ Usando o Aplicativo Jury
 
-O app do júri é uma interface separada usada pelos membros do júri para avaliar respostas e gerir a pontuação.
+O aplicativo Jury é uma interface separada usada pelos membros do júri para avaliar as respostas e gerenciar pontuação.
 
-Para abrir o app do júri:
+Para abrir o App do Juramento:
 
 1. No início do quiz, é gerado um **Código do júri**.
-2. Num dispositivo separado, acede a [**catlab.tv**](https://catlab.tv)
+2. Em um dispositivo separado, vá para [**quizwitz.tv**](https://quizwitz.tv)
 3. Introduz o **Código do júri** para aceder ao app
 
-> 💡 Podes abrir o app do júri em qualquer navegador — é uma aplicação web, sem necessidade de instalação.
+> 💡 Você pode abrir o Jury App em qualquer navegador — é um aplicativo da web, sem necessidade de instalação.
 
-Depois de entrares, o app do júri oferece várias ferramentas úteis:
+Uma vez dentro, o Aplicativo do Jury fornece várias ferramentas úteis:
 
 - **Avaliar perguntas** — Os resultados das perguntas abertas vão aparecer assim que uma pergunta for concluída.
   - O jogo **não espera** que o júri termine — a menos que seja a **última pergunta da ronda** ou que as definições do quiz indiquem o contrário.
@@ -34,19 +34,19 @@ Depois de entrares, o app do júri oferece várias ferramentas úteis:
 
 - **Relatório** — Gera um relatório completo do jogo com resultados e respostas dos jogadores.
 
-![Captura de ecrã do app do júri no estado Pendente](/images/jury-app-waiting.png)
+![Captura de tela do aplicativo Júrio no estado pendente](/images/jury-app-waiting.png)
 
 ---
 
 ## ✅ Avaliar perguntas abertas
 
-Depois de cada pergunta aberta, o app do júri mostra todas as respostas enviadas. Os membros do júri devem:
+Depois de cada pergunta em aberto, o aplicativo Jury exibe todas as respostas enviadas. Os membros do júri devem:
 
 1. Rever cada resposta com atenção
 2. Marcar a caixa de seleção ao lado de cada resposta **aceitável**
 3. Clicar em **‘Confirmar’** para bloquear os resultados
 
-![Captura de ecrã do app do júri no estado de Avaliação](/images/jury-app-judging.png)
+![Captura de tela do Aplicativo do Juramento no estado do Julgamento](/images/jury-app-judging.png)
 
 O QuizWitz vai **detetar automaticamente correspondências exatas** e marcá-las como corretas. Os membros do júri são responsáveis por rever:
 
@@ -58,4 +58,4 @@ O QuizWitz vai **detetar automaticamente correspondências exatas** e marcá-las
 
 ---
 
-Com o app do júri, podes avaliar respostas abertas de forma justa, ajustar pontuações e garantir uma experiência de quiz equilibrada para todos os jogadores.
+Com o app Jury, você pode avaliar adequadamente respostas abertas, ajustar pontuações e garantir uma experiência no teste equilibrada para todos os jogadores.
