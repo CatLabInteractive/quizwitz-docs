@@ -7,7 +7,7 @@ title: Quiz in diretta streaming
 
 Con QuizWitz Live è facile organizzare un quiz in diretta streaming completamente interattivo su piattaforme come **Twitch**, **YouTube Live** o **Facebook Live** — anche per un pubblico numeroso. Questa guida ti accompagna nella configurazione, nella gestione del ritardo e nelle migliori pratiche per la presentazione.
 
-> 🧭 Se non conosci ancora l’app Quizmaster, inizia con la [**guida introduttiva di Quizmaster**](../quizmaster/002-startup.md).
+> 🧭 Se sei nuovo nell'app Quizmaster, inizia con [**Quizmaster startup guide**](../quizmaster/002-startup.md).
 
 ---
 
@@ -15,9 +15,9 @@ Con QuizWitz Live è facile organizzare un quiz in diretta streaming completamen
 
 Il quizmaster è il cuore del tuo evento. Gestisce il ritmo, presenta le domande e mantiene coinvolto il pubblico.
 
-Usa l’**app Quizmaster** per gestire il gioco. Avvia QuizWitz Live dall’editor del quiz cliccando su **Avvia QuizWitz Live**.
+Usa la **Quizmaster App** per avviare il gioco. Avvia QuizWitz Live dall’editor del quiz cliccando su **Avvia QuizWitz Live**.
 
-> 💡 L’app Quizmaster è una **web app** — non serve installare nulla. Vai semplicemente su [**quizwitz.tv**](https://quizwitz.tv) dal dispositivo di presentazione e inserisci il **Codice Master**.
+> 💡 Quizmaster App è una **web app** — non c'è installazione. Basta andare su [**quizwitz.tv**](https://quizwitz.tv) sul tuo dispositivo quizmaster e inserire il **codice quizmaster**.
 
 Ti consigliamo di usare un **tablet o smartphone** così il quizmaster può muoversi liberamente durante lo show.
 
@@ -25,16 +25,16 @@ Ti consigliamo di usare un **tablet o smartphone** così il quizmaster può muov
 
 ## 🧩 Scegliere la modalità di gioco giusta
 
-Quando avvii QuizWitz Live, ti verrà chiesto di scegliere una modalità:
+Quando inizi QuizWitz Live, ti verrà chiesto di scegliere come si connettono i giocatori:
 
-- **Modalità normale** — Giocatori o squadre ricevono ciascuno un codice univoco. Utile per eventi a squadre con pre-registrazione.
-- **Modalità ad-hoc** — Un unico Codice Gioco condiviso per tutti i giocatori. Ideale per dirette streaming con registrazione aperta.
+- **Codici team** — I giocatori o i team ricevono ciascuno un codice unico. Utile per eventi con team pre-registrati.
+- **Codice di gioco condiviso** — Un unico codice per tutti i giocatori. Ideale per dirette streaming con registrazione aperta.
 
-> Per le dirette streaming, scegli sempre la **modalità ad-hoc** e clicca su **Avvia partita ad-hoc**.
+> Per i livestream, scegli sempre **Codice di gioco condiviso** e fai clic su _Avvia gioco ad hoc_.
 
-Una volta caricato il quiz, l’app Quizmaster mostrerà:
+Una volta caricato il quiz, verrà visualizzata la Quizmaster App:
 
-- **Codice Master** — per il quizmaster
+- **Codice quizmaster** — per il quizmaster
 - **Codice Jury** — per controllare le domande aperte
 - **Codice Regie** — per controllare elementi visivi/audio
 - **Codice Gioco** — per permettere ai giocatori di entrare
@@ -53,7 +53,7 @@ Per trasmettere il tuo quiz, usa un software di broadcasting. Ti consigliamo:
 Se usi un **software per riunioni** come Zoom o Google Meet:
 
 - Condividi semplicemente lo schermo
-- Premi **Avvia** nell’app Quizmaster
+- Premi **Inizio** nell'app Quizmaster
 - I giocatori possono partecipare quasi in tempo reale
 
 Con **Twitch, YouTube Live o Facebook Live**, noterai un **ritardo dello streaming** (detto anche ritardo di transcodifica).
@@ -64,16 +64,16 @@ Con **Twitch, YouTube Live o Facebook Live**, noterai un **ritardo dello streami
 
 ## ⏱️ Impostare il ritardo dei giocatori di QuizWitz
 
-Per compensare il ritardo dello stream, usa il **ritardo di interazione dei giocatori** nell’app Jury.
+Per compensare il ritardo dello streaming, utilizzare il **ritardo di interazione del giocatore** nell'app Giuria.
 
 Ecco come fare:
 
 1. Avvia l’anteprima dello stream — non serve ancora andare in diretta
-2. Apri l’**app Jury** inserendo il tuo Codice Jury su [**catlab.tv**](https://catlab.tv)
+2. Apri la **App della Giuria** inserendo il tuo Codice della Giuria su [**quizwitz.tv**](https://quizwitz.tv)
 3. Vai a **Controllo gioco**
 4. Apri la tua diretta streaming in un’altra finestra, con l’audio attivo
 5. Usa un cronometro
-6. Nell’app Jury, premi il pulsante **Buzzer** e avvia il cronometro
+6. Nell'app della Giuria, premi il pulsante **Buzzer** e inizia la tempistica
 7. Quando senti il buzzer nella diretta streaming, ferma il cronometro
 8. Arrotonda il ritardo per eccesso (in secondi) e inseriscilo nel campo **Ritardo interazione giocatori**
 9. Clicca su **Conferma impostazione**
@@ -87,14 +87,14 @@ Ecco come fare:
 Una volta impostato il ritardo e con i giocatori connessi:
 
 - Avvia il tuo stream su Twitch
-- Usa l’app Quizmaster per **avviare il quiz**
+- Usa l'app Quizmaster per **avviare il quiz**
 - QuizWitz gestirà i tempi in background — non serve fare pause tra una domanda e l’altra
 
 ---
 
 ## 💡 Consigli per presentare una diretta streaming
 
-- **Non lasciare che il quizmaster guardi lo stream in ritardo** — dovrebbe usare solo l’app Quizmaster live per evitare pause imbarazzanti.
+- **Non lasciare che il quizmaster guardi lo stream ritardato** — dovrebbero usare solo l'app Quizmaster live per evitare pause imbarazzanti.
 
 - Per interagire con il pubblico, tieni d’occhio i **commenti in diretta** su uno schermo separato — non il feed video.
 
@@ -106,7 +106,7 @@ Una volta impostato il ritardo e con i giocatori connessi:
 
 - Cerchi altri strumenti? Visita [**regie.catlab.eu**](https://regie.catlab.eu) — un hub centrale con utilità aggiuntive per automazione, cambio scene, effetti e altro.
 
-> Tutti gli strumenti richiedono il tuo **Codice Regie** dall’app Quizmaster.
+> Tutti gli strumenti richiedono il tuo **codice regie** dall'app Quizmaster.
 
 ---
 
