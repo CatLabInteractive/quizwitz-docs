@@ -3,10 +3,10 @@ id: traditional-ct
 title: Tradiční (CT)
 ---
 
-# 📝🧵 Tradiční – společné téma
+# 📝🧵 Tradiční - Běžná vlákno
 
-Kolo **Tradiční – společné téma** funguje stejně jako [tradiční kolo](030-traditional.md), ale s jedním háčkem:  
-Na konci kola se **poslední otázka** („Jaké bylo společné téma?“) vyhodnotí a zobrazí jako první. Díky tomu může quizmaster zdůraznit souvislost ještě před odhalením ostatních odpovědí.
+**Tradiční - Společné vlákno** funguje stejně jako [tradiční kolo](030-traditional.md), ale se zlomkem:  
+Na konci kola je **poslední otázka** („Co bylo společné vlákno?“) vyhodnotí a zobrazí jako první. Díky tomu může quizmaster zdůraznit souvislost ještě před odhalením ostatních odpovědí.
 
 ---
 
