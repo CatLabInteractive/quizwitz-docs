@@ -43,13 +43,13 @@ Prispôsob, ako sa otázka správa počas hrania:
 
 ---
 
-### 🎤 Obsah pre moderátora
+### 🎤 Quizmaster content
 
-Tieto polia určujú, čo sa zobrazí v Quizmaster App a na veľkej obrazovke:
+These fields control what appears on the Quizmaster App and game screen:
 
-- **Veľká obrazovka – Spätná väzba k otázke** — Zobrazí sa všetkým hráčom po odhalení spätnej väzby
-- **Moderátor – Dlhá otázka** — Verzia otázky, ktorú môže hostiteľ prečítať nahlas
-- **Moderátor – Dlhá spätná väzba** — Text, ktorý môže hostiteľ prečítať po odhalení správnej odpovede
+- **Game screen - Question feedback** — Shown to all players after feedback is revealed
+- **Quizmaster - Long question** — A version of the question to be read aloud by the quizmaster
+- **Quizmaster - Long feedback** — Text the quizmaster can read after revealing the correct answer
 
 > 📝 Tieto polia pomáhajú, aby živé prezentácie pôsobili dynamicky a uhladene.
 
@@ -70,7 +70,7 @@ Otázky môžeš vylepšiť obrázkami, videom alebo zvukom. Každá príloha sa
 Do každého slotu môžeš pridať **viacero príloh**.
 
 > ⚡ **V [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** quizmaster si môže vybrať, ktorú prílohu v danom momente zobrazí.  
-> 🎮 **V bežných hrách:** všetky prílohy v danom slote sa zobrazia naraz.
+> 🎮 **In games without a quizmaster (Party Game, Conference mode, Single player):** all attachments in a given slot are shown at once.
 
 📘 Viac o podporovaných typoch súborov, tipoch na načasovanie a obmedzeniach nájdeš v [sprievodcovi prílohami](../editor/006-attachments.md).
 
