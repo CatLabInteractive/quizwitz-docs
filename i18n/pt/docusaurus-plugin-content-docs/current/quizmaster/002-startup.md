@@ -55,7 +55,7 @@ Depois de ligares, escolhe entre dois modos de jogo:
 
 ### Código de jogo partilhado
 
-- Todo mundo entra usando **um único Código do Jogo compartilhado**.
+- Todos entram usando um único **Código do Jogo partilhado**.
 - Ideal para eventos casuais ou de acesso aberto.
 - Não é necessário pré-registo — os jogadores podem entrar a qualquer momento, até todos os Seats ativos estarem preenchidos.
 
@@ -93,7 +93,7 @@ Com o esquema **Código de jogo partilhado**:
 
 - Vais receber os códigos de quizmaster, júri e regie, mais um código de jogo para os jogadores.
 - O código do jogo aparece no ecrã do jogo — **mostra-o ou transmite-o para o teu público**.
-- Os jogadores podem entrar a qualquer momento até o limite de Seats ativos ser atingido.
+- Os jogadores podem entrar a qualquer momento até ao limite de Seats ativos ser atingido.
 
 Quando os teus jogadores já estiverem dentro:
 
