@@ -27,7 +27,7 @@ Bevor du beginnst, vergewissere dich, dass du hast:
 
 2. Ein schwarzes Ladebildschirm zeigt einen Prozentsatz an. Dies dauert nur wenige Sekunden.
 
-3. Nach dem Laden erscheint der Quiz-Bildschirm. Wenn Sie aufgefordert werden, sich anzumelden, klicken Sie auf **Anmelden** — ein zweiter Tab öffnet sich.
+3. Einmal geladen, erscheint der Spielbildschirm. Wenn Sie aufgefordert werden, sich anzumelden, klicken Sie auf **Anmelden** — ein zweiter Tab öffnet sich.
    - Klicken Sie auf der Anmeldeseite auf **Anmelden** und geben Sie die Ihnen zur Verfügung gestellten Anmeldedaten ein.
    - Nach dem Einloggen schließt der Tab automatisch und das Quiz wird geladen.
 
@@ -35,7 +35,7 @@ Bevor du beginnst, vergewissere dich, dass du hast:
 
 5. Bewegen Sie den Cursor über den Bildschirm, um die Kontrollleiste unten anzuzeigen.  
    Klicke auf das **Quadrat-Symbol** auf der rechten Seite, um den Vollbildmodus zu betreten.  
-   Das Quiz ist nun bereit auf dem Hauptbildschirm zu spielen.
+   Das Quiz ist nun bereit auf dem Spielbildschirm zu spielen.
 
 :::tip
 Um den Vollbildmodus jederzeit zu beenden — zum Beispiel, um zu einem anderen Fenster zu wechseln — drücke **Esc**.
@@ -61,16 +61,16 @@ Sobald das Quiz neu geladen ist, wird es sich an Ihren Login erinnern und direkt
 Spieler treten auf zwei Arten mit eigenen Smartphones bei:
 
 - Navigiere zu **www.quizwitz.tv** im Browser
-- Scanne den **QR-Code** auf dem Hauptbildschirm
+- Scanne den **QR-Code** auf dem Spielbildschirm
 
 Auf dem Beitrittsbildschirm, Spieler:
 
-1. Geben Sie den **8-stelligen Code** ein, der auf dem Hauptbildschirm angezeigt wird.
+1. Gib den **8-stelligen Code** ein, der auf dem Spielbildschirm angezeigt wird.
 2. Geben Sie ihren **Namen und E-Mail-Adresse ein**.
 3. Überprüfe das **Privatsphären-Kontrollkästchen**.
 4. Tippe **LADY**.
 
-Sobald die Spieler beigetreten sind, sehen sie eine Wartemeldung auf ihrem Telefon. Der Hauptbildschirm zeigt, wie viele Spieler verbunden sind.
+Sobald die Spieler beigetreten sind, sehen sie eine Wartemeldung auf ihrem Telefon. Der Spielbildschirm zeigt, wie viele Spieler verbunden sind.
 
 :::note
 Spieler können jederzeit beitreten, solange die maximale Anzahl an Spielern nicht erreicht ist.
@@ -87,7 +87,7 @@ Ein 5-Sekunden-Countdown beginnt und dann startet das Quiz automatisch.
 
 ## Wie das Quiz läuft
 
-- Jede Frage erscheint auf dem Hauptbildschirm mit dem Fragetext, vier Antwortmöglichkeiten und einem Bild.
+- Jede Frage erscheint auf dem Spielbildschirm mit dem Fragetext, vier Antwortmöglichkeiten und einem Bild.
 - Spieler sehen die gleiche Frage auf ihrem Handy und tippen auf eine der vier Optionen.
 - Spieler haben **30 Sekunden** um zu antworten. Der Timer wird als weiße Leiste am unteren Bildschirmrand angezeigt.
 - Sobald alle Spieler geantwortet haben (oder die Zeit abgelauft), die richtige Antwort wird auf dem Bildschirm als Tortendiagramm angezeigt, das zeigt, wie die Antworten verteilt wurden.
