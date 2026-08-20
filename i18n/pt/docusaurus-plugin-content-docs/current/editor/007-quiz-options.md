@@ -5,7 +5,7 @@ title: Opções do quiz
 
 # ⚙️ Opções do quiz
 
-Ao criar um quiz, podes abrir o painel **Configurações do quiz** para configurar o comportamento global e as opções de apresentação. Essas configurações se aplicam ao **quiz inteiro**.
+Ao criar um quiz, podes abrir o painel **Configurações do quiz** para configurar o comportamento global e as opções de apresentação. Estas configurações aplicam-se a **todo o quiz**.
 
 | ![Abrir opções do quiz](/images/open-quiz-options.png) | ![Opções do quiz](/images/quiz-options.png) |
 | :----------------------------------------------------: | :-----------------------------------------: |
@@ -21,10 +21,10 @@ Selecione o idioma em que estás escrevendo o quiz. Podes adicionar outras tradu
 
 ## 🎨 Temas
 
-Escolha um tema visual para o seu quiz.
+Escolhe um tema visual para o teu quiz.
 
 - O tema padrão é **QuizWitz**
-- Sua organização pode ter acesso a temas personalizados
+- A tua organização pode ter acesso a temas personalizados
 - Os temas afetam o plano de fundo, as cores e o layout
 
 📘 Vê a [documentação do tema Emerald](../advanced/011-emerald-theme.md) para mais detalhes sobre como personalizar os visuais com este tema.
@@ -33,14 +33,14 @@ Escolha um tema visual para o seu quiz.
 
 ## 📎 Anexos
 
-Deixe seu quiz mais interessante com imagens, áudio ou vídeo em posições específicas:
+Torna o teu quiz mais interessante com imagens, áudio ou vídeo em pontos específicos:
 
 - **Antes do quiz** — Exibido quando o quiz começa
 - **Depois do quiz** — Reproduzido após o ecrã de resultados finais
 - **Logo do cliente / logo alternativo** — Exibido em toda a interface do quiz
-- **Tela de espera** — Exibida entre perguntas em jogos ao vivo (imagem 1920×1080 recomendada)
+- **Ecrã de espera** — Exibido entre perguntas em jogos ao vivo (imagem 1920×1080 recomendada)
 - **Plano de fundo** — Substituição opcional do plano de fundo (depende do tema)
-- **Tela de conexão** — Usada nos modos [Live](../quizmaster/001-introduction.md) e [Conference](../tutorials/conference-booth):
+- **Ecrã de ligação** — Usado nos modos [Live](../quizmaster/001-introduction.md) e [Conferência](../tutorials/conference-booth):
   - **Imagens** — Visuais de fundo em ecrã inteiro
   - **Áudio** — Música em loop (máx. 15 min)
   - **Vídeo** — Reproduzido a cada 5 minutos, útil para anúncios ou instruções
@@ -67,17 +67,17 @@ Configurações opcionais para personalizar a jogabilidade e a visibilidade:
 
 ---
 
-## 📤 Compartilhar ou incorporar
+## 📤 Partilhar ou incorporar
 
-Gera links de compartilhamento ou código de incorporação com configurações avançadas de jogo.
+Gera links de partilha ou um código de incorporação com as configurações avançadas do jogo.
 
 ---
 
 ## 📜 Texto para quizmaster
 
-Adicionar instruções de testador personalizado para:
+Adicionar instruções de quizmaster personalizadas para:
 
 - **Introdução do quiz**
 - **Encerramento do quiz**
 
-Estes itens são visíveis no [Aplicativo de Tizmaster](../quizmaster/001-introduction.md) ao usar o QuizWitz Live.
+Estes itens são visíveis na [App Quizmaster](../quizmaster/001-introduction.md) ao usar o QuizWitz Live.
