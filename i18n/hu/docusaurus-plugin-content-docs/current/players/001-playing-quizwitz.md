@@ -52,7 +52,7 @@ Ha részletesebben szeretnél megnézni egy Round-Aboutot:
 - Kattints a **képére**, a **címére** vagy a **megjegyzések ikonra**
 - Kattints a **Játék** gombra, hogy azonnal belevágj
 
-![QuizWitz Round-About részletek](/images/round-about-details.png)
+![QuizWitz Round-About details](/images/round-about-details.png)
 
 ---
 
@@ -107,7 +107,7 @@ Amint elindul a játék, válaszd ki a módot:
 
 Játssz a barátaiddal a saját telefonjaik vagy táblagépeik használatával:
 
-> 📺 Győződj meg róla, hogy a kvízképernyő látható — használj közös kijelzőt vagy képernyőmegosztást
+> 📺 Make sure the game screen is visible — use a shared display or screen share
 
 1. Kattints a **Start** gombra, majd a **Társas játék** elemre
 2. A játékosok a képernyőn megjelenő utasításokat követve csatlakoznak
