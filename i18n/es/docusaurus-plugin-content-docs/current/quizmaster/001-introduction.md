@@ -9,10 +9,10 @@ title: Introducción
 
 El primer ingrediente para un evento exitoso de QuizWitz Live es un quizmaster atractivo: alguien que controle el juego y mantenga la energía alta. El quizmaster dirige el flujo del quiz, lee las preguntas en voz alta y le añade ese toque extra para entretener al público.
 
-Para tener el control total de tu evento, usa la **Aplicación Quizmaster**, diseñada específicamente para QuizWitz Live.  
+Para tener el control total de tu evento, usa la **Quizmaster App**, diseñada específicamente para QuizWitz Live.  
 Puedes lanzar QuizWitz Live directamente desde el editor de quiz haciendo clic en **‘Iniciar QuizWitz Live’**.
 
-> 💡 **Nota:** La Aplicación Quizmaster es una **aplicación web** — no hay nada que instalar. Simplemente ve a [**quizwitz.tv**](https://quizwitz.tv) en tu navegador para acceder desde tu smart device.
+> 💡 **Nota:** La Quizmaster App es una **aplicación web** — no hay nada que instalar. Simplemente ve a [**quizwitz.tv**](https://quizwitz.tv) en tu navegador para acceder desde tu smart device.
 
 ---
 
@@ -20,7 +20,7 @@ Puedes lanzar QuizWitz Live directamente desde el editor de quiz haciendo clic e
 
 Para asegurar una experiencia de quiz fluida y profesional, asegúrate de tener:
 
-- **Una pantalla grande o proyector** que muestre la pantalla principal del juego — o una **transmisión en vivo** accesible para todos los jugadores
+- **Una pantalla grande o un proyector** que muestra la pantalla del juego — o una **transmisión en vivo** accesible para todos los jugadores
 - **Una tablet o laptop** para que el quizmaster controle el juego y lea el guion en voz alta
 - **Una laptop o tablet** para el jurado (si es necesario) para evaluar las preguntas de respuesta abierta
 - **Un smart device por jugador o equipo** (por ejemplo, smartphone o tablet) para enviar respuestas
