@@ -52,7 +52,7 @@ Ak chceš Round-About preskúmať podrobnejšie:
 - Klikni na jeho **obrázok**, **názov** alebo **ikonu komentárov**
 - Klikni na **Hrať** a hneď sa do toho pusť
 
-![Podrobnosti Round-About v QuizWitz](/images/round-about-details.png)
+![QuizWitz Round-About details](/images/round-about-details.png)
 
 ---
 
@@ -107,7 +107,7 @@ Keď sa tvoja hra spustí, vyber si režim:
 
 Hraj s priateľmi pomocou ich vlastných telefónov alebo tabletov:
 
-> 📺 Uisti sa, že obrazovka kvízu je viditeľná — použi zdieľaný displej alebo zdieľanie obrazovky
+> 📺 Make sure the game screen is visible — use a shared display or screen share
 
 1. Klikni na **Štart** a potom na **Párty hra**
 2. Hráči sa pripoja podľa pokynov na obrazovke
