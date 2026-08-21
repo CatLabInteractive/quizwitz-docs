@@ -14,17 +14,17 @@ Os pontos são atribuídos manualmente pelo quizmaster ou — se não houver qui
 
 - **Os jogadores respondem:** Cada jogador digita a própria resposta para a pergunta aberta.
 - **Pontuação:**
-  - Em **QuizWitz Live** (com um questionário), o testador revisa todas as respostas e atribui uma pontuação para a(s) melhor(es).
-  - Em jogos sem um testador (Modo Party Game, Conferência), os jogadores votam na resposta que eles acham melhor. As respostas com mais votos recebem os pontos.
+  - Em **QuizWitz Live** (com um quizmaster), o quizmaster revê todas as respostas e atribui uma pontuação à(s) melhor(es).
+  - Em jogos sem quizmaster (modo Party Game, Conferência), os jogadores votam na resposta que acham melhor. As respostas com mais votos recebem os pontos.
 
 ---
 
 ## 💡 Dicas para perguntas de melhor resposta
 
-- Use perguntas criativas e abertas que convidem a respostas originais ou engraçadas.
-- No QuizWitz Live, o testador pode atribuir pontos pela criatividade, precisão ou humor.
-- Em jogos sem um testador; votar incentiva os jogadores a ler as respostas uns dos outros e adiciona um elemento social divertido.
+- Usa perguntas criativas e abertas que convidem a respostas originais ou engraçadas.
+- No QuizWitz Live, o quizmaster pode atribuir pontos pela criatividade, precisão ou humor.
+- Em jogos sem quizmaster; votar incentiva os jogadores a ler as respostas uns dos outros e acrescenta um elemento social divertido.
 
 ---
 
-> 📚 Para mais sobre como funciona a votação ou a marcação manual, veja a [documentação do Aplicativo Jury](../quizmaster/004-jury-app.md).
+> 📚 Para mais sobre como funciona a votação ou a marcação manual, vê a [documentação da App do Júri](../quizmaster/004-jury-app.md).

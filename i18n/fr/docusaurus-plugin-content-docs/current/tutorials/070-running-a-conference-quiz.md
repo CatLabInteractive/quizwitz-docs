@@ -5,16 +5,16 @@ title: Exécution d'un quiz de conférence
 
 # Exécution d'un quiz de conférence
 
-Ce guide vous guide à travers tout ce que vous avez besoin de savoir pour réaliser un quiz QuizWitz sur un stand ou un événement de conférence, depuis l'ouverture du lien du quiz jusqu'au classement final.
+Ce guide couvre tout ce que vous devez savoir pour animer un quiz QuizWitz sur un stand ou lors d'un événement de conférence, de l'ouverture du lien du quiz jusqu'au classement final.
 
 ---
 
 ## Exigences
 
-Avant de commencer, assurez-vous que vous avez:
+Avant de commencer, assurez-vous d'avoir :
 
 - Une connexion internet stable
-- L'URL du quiz (fourni à l'avance)
+- L'URL du quiz (fournie à l'avance)
 - Un ordinateur portable connecté à l'écran que les joueurs regarderont
 - **Google Chrome** — d'autres navigateurs comme Safari ou Edge peuvent ne pas fonctionner correctement
 
@@ -22,23 +22,23 @@ Avant de commencer, assurez-vous que vous avez:
 
 ## Ouverture du quiz pour la première fois
 
-1. Ouvrir l'URL du quiz dans Google Chrome.  
+1. Ouvrez l'URL du quiz dans Google Chrome.  
    S'il ne s'ouvre pas automatiquement dans Chrome, faites un clic droit sur le lien et choisissez **Ouvrir avec → Google Chrome**.
 
 2. Un écran de chargement noir apparaît avec un pourcentage. Cela ne prend que quelques secondes.
 
-3. Une fois chargé, l'écran du jeu apparaît. Si vous êtes invité à vous connecter, cliquez sur **Connexion** — un deuxième onglet s'ouvrira.
+3. Une fois chargé, l'écran de jeu apparaît. Si vous êtes invité à vous connecter, cliquez sur **Connexion** — un deuxième onglet s'ouvrira.
    - Cliquez sur **Connexion** sur la page de connexion et entrez les informations d'identification qui vous sont fournies.
-   - Une fois connecté, l’onglet se ferme automatiquement et le quiz se termine.
+   - Une fois connecté, l'onglet se ferme automatiquement et le chargement du quiz se termine.
 
 4. Lorsque le chargement est terminé, l'écran de bienvenue du quiz s'affiche.
 
 5. Déplacez votre curseur sur l'écran pour révéler la barre de contrôle en bas.  
-   Cliquez sur **l'icône carré** à droite pour passer en mode plein écran.  
+   Cliquez sur **l'icône carrée** à droite pour passer en mode plein écran.  
    Le quiz est maintenant prêt à jouer sur l'écran de jeu.
 
 :::tip
-Pour quitter le plein écran à tout moment — par exemple, pour passer à une autre fenêtre — appuyez sur **Echap**.
+Pour quitter le plein écran à tout moment — par exemple, pour passer à une autre fenêtre — appuyez sur **Échap**.
 :::
 
 ---
@@ -48,7 +48,7 @@ Pour quitter le plein écran à tout moment — par exemple, pour passer à une 
 Pour jouer à nouveau après une partie terminée, vous avez quelques options :
 
 - **Recharger la page** — cliquez sur l'icône de rechargement dans la barre d'outils de Chrome (vous devrez peut-être d'abord appuyer sur Échap pour quitter le plein écran).
-- **Appuyez sur S** — Après la fin du quiz, appuyez sur **S** sur le clavier pour revenir à l'écran de démarrage.
+- **Appuyez sur S** — après la fin du quiz, appuyez sur **S** sur le clavier pour revenir à l'écran de démarrage.
 
 Si une fenêtre pop-up apparaît vous demandant si vous voulez démarrer une nouvelle partie, cliquez sur **Oui, commencez une nouvelle partie**.
 
@@ -58,19 +58,19 @@ Une fois le quiz rechargé, il se souviendra de votre connexion et passera direc
 
 ## Joueurs rejoignant le quiz
 
-Les joueurs se joignent à leur propre smartphone de deux manières:
+Les joueurs rejoignent avec leur propre smartphone, de deux façons différentes :
 
 - Naviguez vers **www.quizwitz.tv** dans leur navigateur
-- Scannez le **QR code** affiché sur l'écran du jeu
+- Scannez le **QR code** affiché sur l'écran de jeu
 
-Sur l'écran d'inscription, les joueurs:
+Sur l'écran de connexion, les joueurs :
 
-1. Entrez le **code à 8 chiffres** affiché sur l'écran du jeu.
+1. Entrez le **code à 8 chiffres** affiché sur l'écran de jeu.
 2. Remplissez leur **nom et adresse e-mail**.
-3. Cochez la case à cocher **confidentialité**.
+3. Cochez la **case de confidentialité**.
 4. Tapez sur **PRÊT**.
 
-Une fois inscrit, les joueurs voient un message d’attente sur leur téléphone. L'écran de jeu montre combien de joueurs sont connectés.
+Une fois inscrits, les joueurs voient un message d'attente sur leur téléphone. L'écran de jeu montre combien de joueurs sont connectés.
 
 :::note
 Les joueurs peuvent rejoindre à tout moment tant que le nombre maximum de joueurs n'a pas été atteint.
@@ -87,10 +87,10 @@ Un compte à rebours de 5 secondes commence, puis le quiz démarre automatiqueme
 
 ## Comment fonctionne le quiz
 
-- Chaque question apparaît sur l'écran du jeu avec le texte de la question, quatre options de réponse et une image.
+- Chaque question apparaît sur l'écran de jeu avec le texte de la question, quatre options de réponse et une image.
 - Les joueurs voient la même question sur leur téléphone et appuient sur l'une des quatre options.
 - Les joueurs ont **30 secondes** pour répondre. Le minuteur est affiché sous la forme d'une barre blanche en bas de l'écran.
-- Dès que tous les joueurs auront répondu (ou que le temps est écoulé), la bonne réponse est révélée à l'écran sous la forme d'un diagramme à tarte montrant comment les réponses ont été distribuées.
+- Dès que tous les joueurs auront répondu (ou que le temps est écoulé), la bonne réponse est révélée à l'écran sous la forme d'un diagramme circulaire montrant comment les réponses ont été réparties.
 - Les joueurs voient sur leur téléphone s'ils ont répondu correctement et combien de points ils ont gagné. Des réponses correctes plus rapides gagnent plus de points.
 - Après toutes les questions, le score de chaque joueur est révélé un par un, du plus bas au plus haut, se terminant par le vainqueur.
 - Un classement final est affiché. Les joueurs peuvent également voir leur score et leur classement sur leur téléphone.
@@ -99,18 +99,18 @@ Un compte à rebours de 5 secondes commence, puis le quiz démarre automatiqueme
 
 ## Contrôles utiles
 
-La **barre de contrôle** apparaît en bas de l'écran lorsque vous déplacez votre curseur dessus. Il contient:
+La **barre de contrôle** apparaît en bas de l'écran lorsque vous déplacez votre curseur dessus. Il contient :
 
-| Contrôle          | Ce qu'il fait                                                          |
-| ----------------- | ---------------------------------------------------------------------- |
-| Icône de pause    | Mettre en pause le quiz; cliquez sur l'icône de lecture pour reprendre |
-| Curseur de volume | Faites glisser vers la gauche pour rendre muet tous les sons du quiz   |
-| Code du jeu       | Les codes que les joueurs utilisent pour rejoindre                     |
+| Contrôle          | Ce qu'il fait                                                        |
+| ----------------- | -------------------------------------------------------------------- |
+| Icône de pause    | Met le quiz en pause ; cliquez sur l'icône de lecture pour reprendre |
+| Curseur de volume | Faites glisser vers la gauche pour couper tous les sons du quiz      |
+| Code de jeu       | Le code que les joueurs utilisent pour rejoindre                     |
 
 ---
 
 ## Que faire si quelque chose se passe mal
 
-- **Quiz fermé par accident ?** Rouvrir l'URL du quiz. Lorsque la fenêtre pop-up vous demande une partie précédente, cliquez sur **Non** (ou "Continuer") pour reprendre à partir de l'endroit où vous avez terminé.
-- **Un joueur a abandonné ?** Ils peuvent se joindre en utilisant le même code, tant que le nombre maximum de joueurs n'a pas encore été atteint.
+- **Quiz fermé par accident ?** Rouvrez l'URL du quiz. Lorsque la fenêtre pop-up vous interroge à propos d'une partie précédente, cliquez sur **Non** (ou « Continuer ») pour reprendre là où vous vous étiez arrêté.
+- **Un joueur a abandonné ?** Il peut rejoindre avec le même code, tant que le nombre maximum de joueurs n'a pas encore été atteint.
 - **L'écran est devenu noir ou gelé ?** Essayez d'appuyer sur **F5** pour recharger, ou cliquez sur l'icône de rechargement dans Chrome.

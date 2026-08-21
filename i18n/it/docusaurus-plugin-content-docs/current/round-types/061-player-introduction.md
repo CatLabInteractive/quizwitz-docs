@@ -5,7 +5,7 @@ title: Introduzione dei giocatori
 
 # 🙋‍♂️ Introduzione dei giocatori
 
-**Introduzione del giocatore** è un evento speciale che mostra semplicemente i **nomi e le emoji selezionate di tutti i giocatori o squadre** nella schermata di gioco.
+**Introduzione del giocatore** è un evento speciale che mostra semplicemente i **nomi e le emoji selezionate di tutti i giocatori o team** nella schermata di gioco.
 
 ---
 
@@ -16,7 +16,7 @@ title: Introduzione dei giocatori
 
 ---
 
-> Le introduzioni dei giocatori aiutano a creare l’atmosfera, rompere il ghiaccio e personalizzare l’esperienza del quiz, soprattutto negli eventi live e a squadre!
+> Le introduzioni dei giocatori aiutano a creare l’atmosfera, rompere il ghiaccio e personalizzare l’esperienza del quiz, soprattutto negli eventi live e con team!
 
 ---
 

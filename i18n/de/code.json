@@ -56,7 +56,7 @@
     "description": "The name for the dark color mode"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Wechseln Sie zwischen dem dunklen und dem hellen Modus (derzeit {mode})",
+    "message": "Wechsle zwischen dem dunklen und dem hellen Modus (derzeit {mode})",
     "description": "The ARIA label for the color mode toggle"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
@@ -64,7 +64,7 @@
     "description": "The ARIA label for the breadcrumbs"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 Artikel |{count} Artikel",
+    "message": "1 Artikel|{count} Artikel",
     "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.docs.paginator.navAriaLabel": {
@@ -80,7 +80,7 @@
     "description": "The label used to navigate to the next doc"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "One doc tagged|{count} docs tagged",
+    "message": "Ein Dokument getaggt|{count} Dokumente getaggt",
     "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.tagDocListPageTitle": {
@@ -99,7 +99,7 @@
     "description": "The label used to tell the user that he's browsing an unmaintained doc version"
   },
   "theme.docs.versions.latestVersionSuggestionLabel": {
-    "message": "Aktuelle Dokumentation finden Sie im {latestVersionLink} ({versionLabel}).",
+    "message": "Aktuelle Dokumentation findest du im {latestVersionLink} ({versionLabel}).",
     "description": "The label used to tell the user to check the latest version"
   },
   "theme.docs.versions.latestVersionLinkLabel": {
@@ -123,7 +123,7 @@
     "description": "The words used to describe by who the page has been last updated"
   },
   "theme.lastUpdated.lastUpdatedAtBy": {
-    "message": "Zuletzt aktualisierte{atDate}{byUser}",
+    "message": "Zuletzt aktualisiert{atDate}{byUser}",
     "description": "The sentence used to display when a page has been last updated, and by who"
   },
   "theme.navbar.mobileVersionsDropdown.label": {
@@ -143,23 +143,23 @@
     "description": "The default label used for the Caution admonition (:::caution)"
   },
   "theme.admonition.danger": {
-    "message": "gefahr",
+    "message": "Gefahr",
     "description": "The default label used for the Danger admonition (:::danger)"
   },
   "theme.admonition.info": {
-    "message": "info",
+    "message": "Info",
     "description": "The default label used for the Info admonition (:::info)"
   },
   "theme.admonition.note": {
-    "message": "notiz",
+    "message": "Hinweis",
     "description": "The default label used for the Note admonition (:::note)"
   },
   "theme.admonition.tip": {
-    "message": "tip",
+    "message": "Tipp",
     "description": "The default label used for the Tip admonition (:::tip)"
   },
   "theme.admonition.warning": {
-    "message": "warnung",
+    "message": "Warnung",
     "description": "The default label used for the Warning admonition (:::warning)"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
@@ -171,7 +171,7 @@
     "description": "The ARIA label for recent posts in the blog sidebar"
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
-    "message": "Sidebar Kategorie '{label} ' erweitern",
+    "message": "Seitenleisten-Kategorie '{label}' erweitern",
     "description": "The ARIA label to expand the sidebar category"
   },
   "theme.DocSidebarItem.collapseCategoryAriaLabel": {
@@ -179,7 +179,7 @@
     "description": "The ARIA label to collapse the sidebar category"
   },
   "theme.NavBar.navAriaLabel": {
-    "message": "Haupt",
+    "message": "Hauptbereich",
     "description": "The ARIA label for the main navigation"
   },
   "theme.navbar.mobileLanguageDropdown.label": {
@@ -187,11 +187,11 @@
     "description": "Section heading or filter label for language selection."
   },
   "theme.NotFound.p1": {
-    "message": "Wir konnten nicht finden, was Sie suchten.",
+    "message": "Wir konnten nicht finden, wonach du gesucht hast.",
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "Bitte wenden Sie sich an den Besitzer der Website, die Sie mit der ursprünglichen URL verlinkt und lassen Sie sie wissen, dass der Link defekt ist.",
+    "message": "Bitte wende dich an den Besitzer der Website, die dich zur ursprünglichen URL verlinkt hat, und lass ihn wissen, dass der Link defekt ist.",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
@@ -199,11 +199,11 @@
     "description": "The label used by the button on the collapsible TOC component"
   },
   "theme.blog.post.readMore": {
-    "message": "Lesen Sie mehr",
+    "message": "Lies mehr",
     "description": "The label used in blog post item excerpts to link to full blog posts"
   },
   "theme.blog.post.readMoreLabel": {
-    "message": "Lesen Sie mehr über {title}",
+    "message": "Lies mehr über {title}",
     "description": "The ARIA label for the link to full blog posts from excerpts"
   },
   "theme.blog.post.readingTime.plurals": {
@@ -239,7 +239,7 @@
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar",
+    "message": "Docs-Seitenleiste",
     "description": "The ARIA label for the sidebar navigation"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
@@ -263,11 +263,11 @@
     "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Expand sidebar",
+    "message": "Seitenleiste erweitern",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Expand sidebar",
+    "message": "Seitenleiste erweitern",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.blog.post.plurals": {
@@ -307,7 +307,7 @@
     "description": "The draft content banner title"
   },
   "theme.contentVisibility.draftBanner.message": {
-    "message": "Diese Seite ist ein Entwurf. Sie wird nur in dev sichtbar und wird von der Produktion ausgenommen.",
+    "message": "Diese Seite ist ein Entwurf. Sie ist nur im Dev-Modus sichtbar und wird vom Produktions-Build ausgeschlossen.",
     "description": "The draft content banner message"
   },
   "theme.ErrorPageContent.tryAgain": {
@@ -327,14 +327,14 @@
     "description": "Generic button label to create a new item."
   },
   "Create a fully customizable quiz using different question and round types.": {
-    "message": "Erstellen Sie ein vollständig anpassbares Quiz mit verschiedenen Frage- und Rundungstypen."
+    "message": "Erstelle ein vollständig anpassbares Quiz mit verschiedenen Frage- und Rundentypen."
   },
   "Play": {
     "message": "Abspielen",
     "description": "Generic button label to start playing a game or quiz."
   },
   "Play any shared quiz on our platform with friends, family, colleagues, … Grab a smart device, connect via the web and show off how much you know!": {
-    "message": "Spiele jeden gemeinsamen Quiz mit Freunden, Familie, Kollegen auf unserer Plattform … Greife ein intelligentes Gerät, verbinde dich über das Web und zeige dir an, wie viel du weißt!"
+    "message": "Spiele mit Freunden, Familie, Kolleginnen und Kollegen jedes geteilte Quiz auf unserer Plattform … Schnapp dir ein Gerät, verbinde dich übers Web und zeig, wie viel du weißt!"
   },
   "Share": {
     "message": "Teilen",
@@ -344,7 +344,7 @@
     "message": "Sammle und teile Quiz-Runden aus der ganzen Welt oder teile deine eigenen! Verbinde dich mit anderen Quiz-Liebhabern."
   },
   "Your guide to creating, hosting, and mastering QuizWitz.": {
-    "message": "Ihr Leitfaden zum Erstellen, Hosting und Beherrschen von QuizWitz."
+    "message": "Dein Leitfaden zum Erstellen, Hosten und Beherrschen von QuizWitz."
   },
   "Getting started": {
     "message": "Erste Schritte"

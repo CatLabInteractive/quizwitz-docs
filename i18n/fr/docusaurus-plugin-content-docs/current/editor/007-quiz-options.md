@@ -40,14 +40,14 @@ Améliorez votre quiz avec des visuels, de l'audio ou de la vidéo dans des empl
 - **Logo client / logo alternatif** — Affiché tout au long de l'interface du quiz
 - **Écran d'attente** — Affiché entre les questions lors de parties en direct (image recommandée 1920×1080)
 - **Arrière-plan** — Remplacement facultatif de l'arrière-plan (dépend du thème)
-- **Écran de connexion** — Utilisé en modes [Live](../quizmaster/001-introduction.md) et [Conférence](../tutorials/conference-booth) :
+- **Écran de connexion** — Utilisé dans les modes [Live](../quizmaster/001-introduction.md) et [Conférence](../tutorials/conference-booth) :
   - **Images** — Visuels en arrière-plan plein écran
   - **Audio** — Musique en boucle (max 15 min)
   - **Vidéo** — Joue toutes les 5 minutes, utile pour des pubs ou instructions
 
 🎥 Vous pouvez utiliser nos [vidéos d'instruction prêtes à l'emploi](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) pour aider les joueurs à se connecter.
 
-- **Outro du jeu** — (Audio uniquement) Diffusé sur l'écran de révélation du gagnant
+- **Outro de la partie** — (Audio uniquement) Diffusé sur l'écran de révélation du gagnant
 
 📘 Pour les détails techniques et recommandations, consultez le [guide des pièces jointes](../editor/006-attachments.md).
 
@@ -73,11 +73,11 @@ Génère des liens de partage ou un code d’intégration avec des paramètres a
 
 ---
 
-## 📜 Copie pour quizmaster
+## 📜 Script du quizmaster
 
-Ajouter des instructions personnalisées pour le quizmaster :
+Ajoutez des instructions personnalisées pour le quizmaster :
 
-- **Introduction au quiz**
+- **Introduction du quiz**
 - **Outro du quiz**
 
-Celles-ci sont visibles sur [l'application Quizmaster](../quizmaster/001-introduction.md) lors de l'utilisation de QuizWitz Live.
+Celles-ci sont visibles sur la [Quizmaster App](../quizmaster/001-introduction.md) lors de l'utilisation de QuizWitz Live.

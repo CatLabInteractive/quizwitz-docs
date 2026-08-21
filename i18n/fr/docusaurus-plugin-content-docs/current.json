@@ -8,7 +8,7 @@
     "description": "The label for category For players in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.For quizmakers": {
-    "message": "Pour les questionnaires",
+    "message": "Pour les quizmakers",
     "description": "The label for category For quizmakers in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.For quizmasters": {

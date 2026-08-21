@@ -1,6 +1,6 @@
 ---
 id: emerald-theme
-title: Tema Esmeralda
+title: Tema Emerald
 ---
 
 # Tema Emerald
@@ -84,7 +84,7 @@ Estas fuentes deben ser URLs a archivos de fuentes públicos disponibles.
 Cada uno de estos modificadores puede contener un solo color en formato hexadecimal HTML (ff0000) o un degradado lineal proporcionando múltiples colores divididos por un símbolo menos ( — por ejemplo ff1b6b-45caff). (Ten en cuenta que el símbolo # no debe añadirse.)
 
 :::note
-Los parámetros de consulta deben comenzar con un signo de interrogación ( ? ) y cada parámetro debe estar separado por un ampersand ( & ). Para más información sobre parámetros de consulta, visita [wikipedia](https://es.wikipedia.org/wiki/Cadena_de_consulta).
+Los parámetros de consulta deben comenzar con un signo de interrogación ( ? ) y cada parámetro debe estar separado por un ampersand ( & ). Para más información sobre parámetros de consulta, visita [wikipedia](https://en.wikipedia.org/wiki/Query_string).
 :::
 
 Al añadir estos parámetros a la URL de tu juego, puedes modificar los colores del tema:  

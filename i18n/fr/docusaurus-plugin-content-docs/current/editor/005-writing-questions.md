@@ -35,21 +35,21 @@ Cliquez sur l'**icône d'engrenage** en haut à gauche d'une question pour ouvri
 Personnalisez comment la question se comporte pendant la partie :
 
 - **Notation basée sur le temps** — Récompense les joueurs qui répondent plus vite
-- **Multiples bonnes réponses** — Autorisez plus d'un choix valide
+- **Plusieurs bonnes réponses** — Autorisez plus d'un choix valide
 - **Ordre aléatoire des réponses** — Mélangez les options à l'écran
 - **Arrêter le minuteur lorsque toutes les réponses sont reçues** — Passez à la suite dès que toutes les réponses sont entrées
-- **Afficher les résultats de la question** — Affichez un retour après la question (ou désactivez-le)
-- **Forcer l'affichage des résultats après la question** — S'applique uniquement lorsque le retour serait normalement différé (par ex., dans les lightning rounds ou questions ouvertes). Pour les questions standard sans interaction du jury, le retour est montré automatiquement après chaque question.
+- **Afficher les résultats de la question** — Affichez le feedback après la question (ou désactivez-le)
+- **Forcer l'affichage des résultats après la question** — S'applique uniquement lorsque le feedback serait normalement différé (par ex., dans les manches éclair ou questions ouvertes). Pour les questions standard sans interaction du jury, le feedback est montré automatiquement après chaque question.
 
 ---
 
-### 🎤 Quizmaster content
+### 🎤 Contenu du quizmaster
 
-Ces champs contrôlent ce qui apparaît sur l'application Quizmaster et l'écran de jeu:
+Ces champs contrôlent ce qui apparaît sur la Quizmaster App et l'écran de jeu :
 
-- **Écran de jeu - Commentaire de la question** — Affiché à tous les joueurs après la révélation des commentaires
+- **Écran de jeu - Feedback de la question** — Affiché à tous les joueurs après la révélation du feedback
 - **Quizmaster - Question longue** — Une version de la question à lire à haute voix par le quizmaster
-- **Quizmaster - Long feedback** — Texte que le quizmaster peut lire après avoir révélé la bonne réponse
+- **Quizmaster - Feedback long** — Texte que le quizmaster peut lire après avoir révélé la bonne réponse
 
 > 📝 Ces champs aident à rendre les présentations en direct dynamiques et soignées.
 
@@ -62,7 +62,7 @@ Ces champs contrôlent ce qui apparaît sur l'application Quizmaster et l'écran
 Vous pouvez enrichir les questions avec des images, vidéos ou sons. Chaque pièce jointe peut être affichée à des moments précis :
 
 - **Avant / Pendant / Après la question** — Affichée autour du moment où la question est présentée
-- **Avant / Pendant / Après le retour** — Affichée lorsque les résultats sont dévoilés
+- **Avant / Pendant / Après le feedback** — Affichée lorsque les résultats sont dévoilés
 - ...
 
 > 🧠 Les pièces jointes sont particulièrement utiles pour créer du suspense, illustrer les réponses ou donner du contexte.
@@ -70,7 +70,7 @@ Vous pouvez enrichir les questions avec des images, vidéos ou sons. Chaque piè
 Vous pouvez ajouter **plusieurs pièces jointes** dans chaque emplacement.
 
 > ⚡ **Dans [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) :** le quizmaster peut choisir quelle pièce jointe afficher à chaque moment.  
-> 🎮 **Dans les jeux sans quizmaster (Party Game, mode Conférence, Seul Joueur):** toutes les pièces jointes dans un créneau donné sont affichées en même temps.
+> 🎮 **Dans les jeux sans quizmaster (Jeu de groupe, mode conférence, Solo) :** toutes les pièces jointes dans un créneau donné sont affichées en même temps.
 
 📘 En savoir plus sur les types de fichiers supportés, astuces de timing, et limites dans le [guide des pièces jointes](../editor/006-attachments.md).
 
@@ -79,8 +79,8 @@ Vous pouvez ajouter **plusieurs pièces jointes** dans chaque emplacement.
 ### 💡 Astuce pro : Choisir le bon moment
 
 - Afficher la bonne réponse visuellement ? → Utilisez **Après la question**
-- Créer du suspense avant de révéler le retour ? → Utilisez **Avant le retour**
-- Ajouter des trivia ou approfondir ? → Utilisez **Après le retour**
+- Créer du suspense avant de révéler le feedback ? → Utilisez **Avant le feedback**
+- Ajouter des anecdotes supplémentaires ou approfondir le sujet ? → Utilisez **Après le feedback**
 
 ---
 

@@ -16,26 +16,26 @@ Uma pergunta normal de múltipla escolha permite que os jogadores selecionem a r
 ## 📝 Como funciona
 
 - **Pergunta:** Diga claramente o que os jogadores devem responder (exemplo: “Selecione a bandeira de 🐟🐟🐟”).
-- **Opções:** Você pode fornecer até quatro opções de resposta.
+- **Opções:** Podes fornecer até quatro opções de resposta.
 - **Correto/Errado:** Marque uma ou mais respostas corretas, dependendo das suas configurações.
-- **Feedback:** Os jogadores veem qual resposta estava correta depois de responder. Opcionalmente, você pode fornecer feedback ou explicações extras.
+- **Feedback:** Os jogadores veem qual resposta estava correta depois de responder. Opcionalmente, podes fornecer feedback ou explicações extras.
 
 ---
 
 ## 🏆 Pontuação
 
 Perguntas de múltipla escolha usam **pontuação baseada em tempo** por padrão: respostas mais rápidas ganham mais pontos. Para essas perguntas, a pontuação diminui continuamente por microssegundo, com a maior parte dos pontos fixa e apenas uma parte influenciada pela velocidade.  
-**Você também pode desativar a pontuação baseada em tempo por pergunta** se quiser que todas as respostas corretas recebam a mesma pontuação.  
-Você pode ajustar ainda mais esse equilíbrio nas configurações da rodada.
+**Também podes desativar a pontuação baseada no tempo por pergunta** se quiseres que todas as respostas corretas recebam a mesma pontuação.  
+Podes ajustar ainda mais esse equilíbrio nas configurações da ronda.
 
-Veja [Opções de pontuação nas configurações da rodada](../editor/008-round-options.md#scoring) para todos os detalhes.
+Vê [Opções de pontuação nas configurações da ronda](../editor/008-round-options.md#scoring) para todos os detalhes.
 
 ---
 
 ## ⚙️ Configurações expandidas
 
 O tipo de pergunta de múltipla escolha oferece muitas configurações para ajustar a experiência e a pontuação.  
-Veja [como escrever perguntas](../editor/005-writing-questions.md) para uma visão geral das configurações de perguntas.
+Vê [como escrever perguntas](../editor/005-writing-questions.md) para uma visão geral das configurações de perguntas.
 
 ---
 

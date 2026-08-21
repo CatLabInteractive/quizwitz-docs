@@ -1,6 +1,6 @@
 ---
 id: departments-dealers-choice
-title: Abteilung Dealer's Wahl
+title: Abteilung Dealer's Choice
 ---
 
 # 🏢 Abteilung Dealer's Wahl

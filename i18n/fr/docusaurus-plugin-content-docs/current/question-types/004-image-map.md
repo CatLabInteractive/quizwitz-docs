@@ -5,22 +5,22 @@ title: Question avec carte image
 
 # 🗺️ Carte image
 
-Dans une question **carte image**, les joueurs doivent sélectionner le ou les bons emplacements sur une image affichée sur leur smart device. C’est idéal pour les défis d’identification visuelle, comme « Sélectionnez le ballon d’Erlenmeyer. »
+Dans une question **carte image**, les joueurs doivent sélectionner le ou les bons emplacements sur une image affichée sur leur appareil. C'est idéal pour les défis d'identification visuelle, comme « Sélectionnez l'erlenmeyer. »
 
 ---
 
-![Exemple : question carte image avec des ballons](/images/question-modes/image-map/image-map-example.png)
+![Exemple : question carte image avec des erlenmeyers](/images/question-modes/image-map/image-map-example.png)
 
 ---
 
 ## 📝 Comment ça marche
 
 - **Question :** Indiquez clairement ce que les joueurs doivent trouver sur l’image.  
-  _(Exemple : « Sélectionnez le ballon d’Erlenmeyer. »)_
+  _(Exemple : « Sélectionnez l'erlenmeyer. »)_
 - **Image :** Téléchargez une image de haute qualité qui sera montrée à tous les joueurs.
 - **Points de réponse :** Définissez une ou plusieurs **zones cibles** (« points ») sur l’image. Chaque zone peut être définie comme un cercle ou une autre forme, et vous déterminez sa position et sa taille.
 - **Sélection des réponses :** Les joueurs tapent ou cliquent pour marquer leur ou leurs réponses sur l’image.
-  - Si la réponse se trouve **dans une zone correcte**, ils reçoivent le plein de points.
+  - Si la réponse se trouve **dans une zone correcte**, ils reçoivent tous les points.
   - Si la réponse se trouve **en dehors de la zone correcte** mais dans le rayon « presque correct », ils peuvent obtenir des points partiels basés sur la distance (comme défini par le réglage _adoucissement du score_).
 - **Réponses multiples :** Si la question nécessite plus d’une réponse, les joueurs doivent sélectionner chaque zone correcte.
   - Sélectionner plusieurs fois la même zone **n'accordera pas** de points supplémentaires.
@@ -39,12 +39,12 @@ Voir [rédiger des questions](../editor/005-writing-questions.md) pour les régl
 
 ---
 
-## ⏱️ Scoring basé sur le temps
+## ⏱️ Score basé sur le temps
 
-**Le scoring basé sur le temps est activé par défaut.** Les joueurs qui répondent rapidement gagnent plus de points, mais il y a toujours une composante fixe (par défaut : 75%) pour une bonne réponse. Seulement 25% du score total est influencé par la rapidité de la réponse.  
-Vous pouvez désactiver le scoring basé sur le temps pour ce type de question si vous le souhaitez.
+**Le score basé sur le temps est activé par défaut.** Les joueurs qui répondent rapidement gagnent plus de points, mais il y a toujours une composante fixe (par défaut : 75 %) pour une bonne réponse. Seulement 25 % du score total est influencé par la rapidité de la réponse.  
+Vous pouvez désactiver le score basé sur le temps pour ce type de question si vous le souhaitez.
 
-📘 Pour plus de détails sur le scoring et les réglages de temps, consultez la [documentation des options de manche](../editor/008-round-options.md#scoring).
+📘 Pour plus de détails sur le score et les réglages de temps, consultez la [documentation des options de manche](../editor/008-round-options.md#scoring).
 
 ---
 

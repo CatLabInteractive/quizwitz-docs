@@ -14,20 +14,20 @@ Ten en cuenta que algunos tipos de ronda limitan los tipos de preguntas que pued
 
 Estos son los tipos de preguntas más comunes. Son fáciles de entender y jugar.
 
-- [Multiple choice](001-multiple-choice.md) (por defecto)
-- [Order question](003-order-question.md)
-- [Image map question](004-image-map.md)
+- [Opción múltiple](001-multiple-choice.md) (por defecto)
+- [Pregunta de orden](003-order-question.md)
+- [Pregunta de mapa de imagen](004-image-map.md)
 
 ## Preguntas abiertas
 
 Las preguntas abiertas requieren que los jugadores escriban sus respuestas.
 
-- [Open question](002-open-question.md)
-- [List question](005-list-question.md)
+- [Pregunta abierta](002-open-question.md)
+- [Pregunta de lista](005-list-question.md)
 
 ## Especiales
 
 Estas preguntas hacen que el juego sea un poco menos justo, pero ayudan a asegurar que siempre haya un ganador.
 
-- [Tiebreaker question](006-tiebreaker-question.md)
-- [Best answer question](007-best-answer-question.md)
+- [Pregunta de desempate](006-tiebreaker-question.md)
+- [Pregunta de mejor respuesta](007-best-answer-question.md)

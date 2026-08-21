@@ -14,15 +14,15 @@ A **Ronda relâmpago** é pura velocidade e emoção. Os jogadores respondem a u
 - As perguntas são apresentadas uma após a outra, com um intervalo mínimo.
 - A música do temporizador toca **continuamente** durante toda a ronda, parando apenas depois da última pergunta.
 - Os jogadores precisam responder rapidamente; não há pausa entre as perguntas.
-- **Por padrão, o feedback de cada pergunta é adiado até o fim da ronda,** mas o feedback de cada pergunta é mostrado separadamente, não agrupado numa única tela.
-- Se quiser agrupar todo o feedback numa única tela no final, podes ativar isso nas configurações da ronda.
+- **Por padrão, o feedback de cada pergunta é adiado até ao fim da ronda,** mas o feedback de cada pergunta é mostrado separadamente, não agrupado num único ecrã.
+- Se quiseres agrupar todo o feedback num único ecrã no final, podes ativar isso nas configurações da ronda.
 
 ---
 
 ## ⚙️ Configurações de feedback
 
 - **Padrão (feedback adiado):** O feedback de cada pergunta é mostrado depois da última pergunta, um por um, em sequência.
-- **Feedback agrupado:** Se “Mostrar todo o feedback das perguntas no fim da ronda” estiver ativado nas configurações da ronda, todo o feedback é combinado numa única tela de feedback no final.
+- **Feedback agrupado:** Se "Mostrar todo o feedback das perguntas no fim da ronda" estiver ativado nas configurações da ronda, todo o feedback é combinado num único ecrã de feedback no final.
 - **Forçar resultados após a pergunta:** Se estiver ativado nas configurações de uma pergunta, o feedback dessa pergunta será sempre mostrado imediatamente, independentemente do agrupamento de feedback da ronda.
 
 Vê as [opções da ronda](../editor/008-round-options.md) para detalhes sobre como configurar o momento do feedback.

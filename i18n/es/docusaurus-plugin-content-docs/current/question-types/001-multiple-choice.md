@@ -18,14 +18,14 @@ Una pregunta de opción múltiple regular permite a los jugadores seleccionar la
 - **Pregunta:** Indica claramente qué deben responder los jugadores (ejemplo: "Selecciona la bandera de 🐟🐟🐟").
 - **Opciones:** Puedes ofrecer hasta cuatro opciones de respuesta.
 - **Correcto/Incorrecto:** Marca una o más respuestas correctas, según tu configuración.
-- **Retroalimentación:** Los jugadores ven cuál respuesta era correcta después de responder. Opcionalmente, puedes proporcionar retroalimentación o explicaciones adicionales.
+- **Feedback:** Los jugadores ven cuál fue la respuesta correcta después de responder. Opcionalmente, puedes proporcionar retroalimentación o explicaciones adicionales.
 
 ---
 
-## 🏆 Puntaje
+## 🏆 Puntuación
 
-Las preguntas de opción múltiple usan **puntaje basado en tiempo** por defecto: las respuestas más rápidas obtienen más puntos. Para estas preguntas, la puntuación disminuye de forma continua por microsegundo, con la mayoría de puntos fijos y solo una parte influenciada por la velocidad.  
-**También puedes desactivar el puntaje basado en tiempo por pregunta** si quieres que todas las respuestas correctas reciban la misma puntuación.  
+Las preguntas de opción múltiple usan **puntuación basada en tiempo** por defecto: las respuestas más rápidas obtienen más puntos. Para estas preguntas, la puntuación disminuye de forma continua por microsegundo, con la mayoría de puntos fijos y solo una parte influenciada por la velocidad.  
+**También puedes desactivar la puntuación basada en tiempo por pregunta** si quieres que todas las respuestas correctas reciban la misma puntuación.  
 Puedes ajustar aún más este equilibrio en la configuración de la ronda.
 
 Consulta [Opciones de puntuación en la configuración de la ronda](../editor/008-round-options.md#scoring) para detalles completos.
@@ -43,6 +43,6 @@ Consulta [escribir preguntas](../editor/005-writing-questions.md) para una visi�
 
 - **Sé claro y conciso:** Evita redacción ambigua.
 - **Usa respuestas incorrectas plausibles:** Haz que los distractores sean creíbles.
-- **Mezcla medios:** Agrega imágenes, banderas o sonidos para engagement.
+- **Combina medios:** Añade imágenes, banderas o sonidos para generar más interés.
 - **Orden aleatorio:** Mantén la equidad para todos los jugadores.
 - **Etiqueta y categoriza:** Para navegación y búsqueda fáciles.

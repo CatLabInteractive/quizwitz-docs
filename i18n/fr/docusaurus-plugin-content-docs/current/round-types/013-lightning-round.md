@@ -5,7 +5,7 @@ title: Manche éclair
 
 # ⚡ Manche éclair
 
-La **manche éclair** est une question de vitesse et d'excitation. Les joueurs répondent à une série rapide de questions avec des minuteries très courtes — le tout accompagné d'une musique de minuterie continue pour une énergie et une tension maximales.
+La **manche éclair** est une question de vitesse et d'excitation. Les joueurs répondent à une série rapide de questions avec des minuteurs très courts — le tout accompagné d'une musique de minuteur continue pour une énergie et une tension maximales.
 
 ---
 
@@ -14,18 +14,18 @@ La **manche éclair** est une question de vitesse et d'excitation. Les joueurs r
 - Les questions sont présentées les unes après les autres avec un délai minimal.
 - La musique du minuteur joue **en continu** pendant toute la manche, s'arrêtant seulement après la dernière question.
 - Les joueurs doivent répondre rapidement ; il n’y a pas de pause entre les questions.
-- **Par défaut, les retours pour chaque question sont différés jusqu'à la fin de la manche,** mais le retour de chaque question est affiché séparément, pas regroupé sur un seul écran.
-- Si vous souhaitez regrouper tous les retours sur un seul écran à la fin, vous pouvez activer cette option dans les paramètres de la manche.
+- **Par défaut, le feedback de chaque question est différé jusqu'à la fin de la manche,** mais le feedback de chaque question est affiché séparément, pas regroupé sur un seul écran.
+- Si vous souhaitez regrouper tout le feedback sur un seul écran à la fin, vous pouvez activer cette option dans les paramètres de la manche.
 
 ---
 
-## ⚙️ Paramètres de retours
+## ⚙️ Paramètres de feedback
 
-- **Par défaut (retours différés) :** Le retour pour chaque question est affiché après la dernière question, une par une dans l'ordre.
-- **Retours groupés :** Si "Afficher tous les retours des questions à la fin de la manche" est activé dans les paramètres de la manche, tous les retours sont combinés en un seul écran de retour à la fin.
-- **Forcer résultats après question :** Si activé dans les paramètres d'une question, le retour pour cette question sera toujours affiché immédiatement, quel que soit le regroupement des retours de la manche.
+- **Par défaut (feedback différé) :** Le feedback pour chaque question est affiché après la dernière question, un par un dans l'ordre.
+- **Feedback groupé :** Si "Afficher tout le feedback des questions à la fin de la manche" est activé dans les paramètres de la manche, tout le feedback est combiné en un seul écran de feedback à la fin.
+- **Forcer résultats après question :** Si activé dans les paramètres d'une question, le feedback pour cette question sera toujours affiché immédiatement, quel que soit le regroupement du feedback de la manche.
 
-Voir les [options de manche](../editor/008-round-options.md) pour les détails sur la configuration du timing des retours.
+Voir les [options de manche](../editor/008-round-options.md) pour les détails sur la configuration du timing du feedback.
 
 ---
 
@@ -58,4 +58,4 @@ Pour la configuration des points, consultez la [section sur les points](../edito
 
 ---
 
-Les manches éclairs sont parfaites pour dynamiser votre quiz et accélérer le rythme !
+Les manches éclair sont parfaites pour dynamiser votre quiz et accélérer le rythme !

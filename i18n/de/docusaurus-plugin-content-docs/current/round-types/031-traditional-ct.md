@@ -1,12 +1,12 @@
 ---
 id: traditional-ct
-title: Traditionell (CT)
+title: Traditionell - Gemeinsamer Faden
 ---
 
-# Thread: Traditionell - Gemeinsamer Thread
+# 📝🧵 Traditionell - Gemeinsamer Faden
 
-Eine **Traditionelle - Gemeinsame Thread** Runde funktioniert wie eine [traditionelle Runde](030-traditional.md), aber mit einer Drehung:  
-Am Ende der Runde ist die **letzte Frage** („Was war der gemeinsame Thread?“) zuerst ausgewertet und angezeigt. Dadurch kann der Quizmaster die Verbindung hervorheben, bevor die anderen Antworten gezeigt werden.
+Eine **Traditionell - Gemeinsamer Faden**-Runde funktioniert genau wie eine [traditionelle Runde](030-traditional.md), aber mit einer Besonderheit:  
+Am Ende der Runde ist die **letzte Frage** („Was war der gemeinsame Faden?“) zuerst ausgewertet und angezeigt. Dadurch kann der Quizmaster die Verbindung hervorheben, bevor die anderen Antworten gezeigt werden.
 
 ---
 

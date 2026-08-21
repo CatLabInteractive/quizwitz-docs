@@ -32,7 +32,7 @@ Bevor jede Runde startet, siehst du einen Bildschirm mit der Runden-Einführung.
 
 Jede Frage hat einen eigenen Bildschirm in der Quizmaster-App:
 
-![Quizmaster App - Frage starten](/images/quizmaster-app-start-question.png)
+![Quizmaster-App - Frage starten](/images/quizmaster-app-start-question.png)
 
 Du siehst:
 
@@ -57,7 +57,7 @@ Die Frage bleibt in deiner App sichtbar, bis entweder:
 
 Nachdem eine Frage endet, wird die richtige Antwort bekannt gegeben. Was du siehst, hängt vom Fragentyp ab – dieses Beispiel zeigt einen Multiple Choice Ergebnisbildschirm:
 
-![Quizmaster App - Frage Feedback](/images/quizmaster-app-question-feedback.png)
+![Quizmaster-App - Frage Feedback](/images/quizmaster-app-question-feedback.png)
 
 Beinhaltet:
 
@@ -75,8 +75,8 @@ Beinhaltet:
 
 Wenn eine Runde endet, siehst du einen **Runden-Abschluss**-Bildschirm, der den Zwischenstand zeigt.
 
-![Quizmaster App - round outro](/images/quizmaster-app-round-outro.png)  
-![QuizWitz - round outro game screen](/images/round-outro.png)
+![Quizmaster-App - Rundenausklang](/images/quizmaster-app-round-outro.png)  
+![QuizWitz - Rundenausklang-Spielbildschirm](/images/round-outro.png)
 
 In deiner App:
 
@@ -95,7 +95,7 @@ Spieler sehen **ihre eigene Position** auf ihrem Gerät während des Abschlussbi
 
 Am Ende des Quiz ist es Zeit für eine **Siegerehrungsparty** – mit Konfetti und Spieler-Emojis, die über den Bildschirm fliegen.
 
-![QuizWitz - Spiel outro Spiele](/images/game-outro.png)
+![QuizWitz - Spielausklang-Spielbildschirm](/images/game-outro.png)
 
 - Die Standard-Einstellung zeigt die **Top 12 Spieler**
 - Du kannst einstellen, wie viele Spieler angezeigt werden, in den **erweiterten Spieleinstellungen**
@@ -104,4 +104,4 @@ Am Ende des Quiz ist es Zeit für eine **Siegerehrungsparty** – mit Konfetti u
 
 ---
 
-Das ist alles, was du wissen musst, um dein Quiz mit der Quizmaster App ausführen zu können. Du bist jetzt bestens ausgerüstet, um dein Event selbstbewusst und stilvoll zu führen!
+Das ist alles, was du wissen musst, um dein Quiz mit der Quizmaster-App ausführen zu können. Du bist jetzt bestens ausgerüstet, um dein Event selbstbewusst und stilvoll zu führen!

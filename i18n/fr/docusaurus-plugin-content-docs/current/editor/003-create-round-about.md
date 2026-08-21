@@ -57,7 +57,7 @@ Dans la section **Détails**, vous trouverez des options de configuration suppl�
 - **Traduire** — Créez une version traduite de votre Round-About dans une autre langue
 - **Catégorie** — Choisissez ou mettez à jour la catégorie de votre Round-About
 - **Type de manche** — Sélectionnez comment les questions sont présentées aux joueurs. Vous pouvez configurer :
-  - Questions à choix multiples
+  - Questions à choix multiple
   - Questions ouvertes
   - Manches éclair
   - Et plus

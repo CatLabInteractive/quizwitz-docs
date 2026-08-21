@@ -51,9 +51,9 @@ Sempre que o quiz é executado, o QuizWitz vai selecionar 5 perguntas aleatória
 A forma mais rápida de iniciar o teu quiz de conferência:
 
 1. Clica em **Jogar quiz**.
-2. Selecione o **modo de conferência**.
+2. Seleciona o **modo de conferência**.
 
-Neste modo, os jogadores usam seus telefones para se conectar ao link do jogo na tela do jogo.  
+Neste modo, os jogadores usam os telemóveis deles para se ligar ao link do jogo no ecrã do jogo.  
 Quando todos estiverem prontos, o anfitrião do stand prime Enter — e o jogo corre automaticamente.  
 Depois de o jogo terminar, ao premir Enter voltas diretamente ao ecrã de ligação para o próximo grupo.
 

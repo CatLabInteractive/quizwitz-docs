@@ -1,28 +1,28 @@
 ---
 id: dealers-choice
-title: Escolha do Redentor
+title: Dealer's Choice
 ---
 
-# 🃏 Escolha do Redentor
+# 🃏 Dealer's Choice
 
-A rodada **Choice** do Matador no QuizWitz adiciona uma reviravolta estratégica ao seu questionário.
+A ronda **Dealer's Choice** no QuizWitz adiciona uma reviravolta estratégica ao teu quiz.
 Um dos jogadores pode **escolher a categoria da próxima pergunta**, ganhando uma possível
-vantagem — e talvez um bônus! Veja como configurar e jogar:
+vantagem — e talvez um bônus! Vê como configurar e jogar:
 
 ---
 
 ## 🔧 Como funciona
 
-Nesta rodada, **um jogador se torna o "dealer"** e seleciona a próxima categoria a jogar. O método de seleção depende do modo de jogo:
+Nesta ronda, **um jogador torna-se o "dealer"** e seleciona a próxima categoria a jogar. O método de seleção depende do modo de jogo:
 
-- **Jogo Party/Conference:** O dealer escolhe uma categoria usando **o próprio dispositivo**.
+- **Jogo de Grupo/Conferência:** O dealer escolhe uma categoria usando **o próprio dispositivo**.
 - **Jogo ao vivo:** O dealer **anuncia a escolha em voz alta** para o quizmaster.
 
 ---
 
 ## 🏷️ Atribuindo categorias às perguntas
 
-Cada questão na rodada da Escolha do receptor precisa de um **rótulo único**, que atua como a categoria que o crupiê vê e seleciona.
+Cada pergunta na ronda **Dealer's Choice** precisa de um **rótulo único**, que funciona como a categoria que o dealer vê e escolhe.
 
 Por exemplo:
 
@@ -41,7 +41,7 @@ Os rótulos são definidos no **campo “Rótulo”** das configurações de cad
 
 Se o dealer responder corretamente à pergunta que escolheu, poderá receber um **bônus**:
 
-- Configure a **porcentagem do bônus** (ex.: 50%) na configuração **Bônus do Dealer**.
+- Configura a **percentagem do bónus** (ex.: 50%) na configuração **Bónus do Dealer**.
 
 > O bônus só se aplica se a resposta do dealer estiver correta.
 
@@ -49,30 +49,30 @@ Se o dealer responder corretamente à pergunta que escolheu, poderá receber um 
 
 ## 👑 Seleção do dealer
 
-Antes da rodada começar, o QuizWitz determina o dealer usando uma destas opções:
+Antes da ronda começar, o QuizWitz determina o dealer usando uma destas opções:
 
 - O jogador melhor classificado começa
 - O jogador pior classificado começa
 - Aleatório - O dealer é escolhido aleatoriamente
 
-> As classificações ficam bloqueadas **no início da rodada**.
+> As classificações ficam bloqueadas **no início da ronda**.
 
 ---
 
 ### Opções de pontuação:
 
-- **Estratégia de pontuação:** Escolha _Bônus do Dealer_
-- **Pontuação baseada no tempo:** Defina a porcentagem mínima de pontos mantidos para respostas mais lentas (ex.: 75%)
+- **Estratégia de pontuação:** Escolhe _Bónus do Dealer_
+- **Pontuação baseada no tempo:** Define a percentagem mínima de pontos mantidos para respostas mais lentas (ex.: 75%)
 
 ---
 
 ## 📝 Dicas para Quizmasters
 
-- Avise os jogadores que eles vão escolher entre categorias rotuladas.
-- Em jogos ao vivo, não se esqueça de anotar claramente a seleção do dealer.
-- Use rótulos únicos e descritivos para evitar confusão durante a seleção.
+- Avisa os jogadores que eles vão escolher entre categorias rotuladas.
+- Em jogos ao vivo, não te esqueças de anotar claramente a seleção do dealer.
+- Usa rótulos únicos e descritivos para evitar confusão durante a seleção.
 
 ---
 
-A rodada de escolha do desenvolvedor incentiva a interação e dá aos jogadores um pouco de controle, enquanto ainda recompensa respostas rápidas e corretas. É uma ótima maneira de manter todo mundo envolvido!
+A ronda **Dealer's Choice** incentiva a interação e dá aos jogadores algum controlo, continuando a recompensar respostas rápidas e corretas. É uma ótima maneira de manter todo mundo envolvido!
 

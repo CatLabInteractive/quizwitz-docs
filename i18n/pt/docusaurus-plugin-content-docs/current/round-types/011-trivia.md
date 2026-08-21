@@ -1,43 +1,43 @@
 ---
 id: trivia
-title: Trivia (rodada normal)
+title: Trivia (ronda normal)
 ---
 
-# ❓ Trivia (rodada normal)
+# ❓ Trivia (ronda normal)
 
-A rodada de **Trivia** é o tipo de rodada clássico e padrão no QuizWitz. Ela apresenta uma série de perguntas a todos os jogadores — ideal para conhecimentos gerais, quizzes temáticos ou rodadas de aquecimento.
+A ronda de **Trivia** é o tipo de ronda clássico e padrão no QuizWitz. Ela apresenta uma série de perguntas a todos os jogadores — ideal para conhecimentos gerais, quizzes temáticos ou rondas de aquecimento.
 
 ---
 
 ## 📝 Como funciona
 
 - Suporta uma mistura de tipos de perguntas (múltipla escolha, perguntas abertas, mapa de imagem etc.).
-- Os jogadores respondem a cada pergunta individualmente, seguindo as configurações da rodada para feedback e pontuação.
+- Os jogadores respondem a cada pergunta individualmente, seguindo as configurações da ronda para feedback e pontuação.
 - Ótima para testar conhecimentos amplos ou variar os temas.
 
 ---
 
 ## ⚙️ Configurações recomendadas
 
-- **Feedback da pergunta:** Por padrão, os jogadores veem feedback após cada pergunta. Você pode agrupar o feedback no fim da rodada, se preferir (consulte as [opções da rodada](../editor/008-round-options.md)).
+- **Feedback da pergunta:** Por padrão, os jogadores veem feedback após cada pergunta. Podes agrupar o feedback no fim da ronda, se preferires (consulta as [opções da ronda](../editor/008-round-options.md)).
 - **Ordem aleatória das perguntas:** Pode ser ativada para dar mais variedade.
-- **Temporizador:** Defina por pergunta ou ajuste os padrões da rodada.
+- **Temporizador:** Define por pergunta ou ajusta os padrões da ronda.
 
 ---
 
 ## 🏆 Pontuação
 
 - Cada pergunta usa seu próprio tipo de pontuação (baseada em tempo, fixa etc.), conforme configurado.
-- Para saber mais sobre pontuação e personalização, consulte as [configurações de pontuação da rodada](../editor/008-round-options.md#scoring).
+- Para saber mais sobre pontuação e personalização, consulta as [configurações de pontuação da ronda](../editor/008-round-options.md#scoring).
 
 ---
 
 ## 💡 Dicas
 
-- **Misture tipos de perguntas:** Adicione variedade para aumentar o envolvimento.
-- **Mantenha o equilíbrio:** Alterne perguntas fáceis e difíceis para manter os jogadores motivados.
-- **Use mídia:** Anexe imagens, áudio ou vídeo para deixar o conteúdo mais rico.
+- **Mistura tipos de perguntas:** Adiciona variedade para aumentar o envolvimento.
+- **Mantém o equilíbrio:** Alterna perguntas fáceis e difíceis para manter os jogadores motivados.
+- **Usa multimédia:** Anexa imagens, áudio ou vídeo para deixar o conteúdo mais rico.
 
 ---
 
-Para saber mais sobre os tipos de perguntas disponíveis, consulte a [visão geral dos tipos de perguntas](../question-types/000-question-types.md).
+Para saber mais sobre os tipos de perguntas disponíveis, consulta a [visão geral dos tipos de perguntas](../question-types/000-question-types.md).

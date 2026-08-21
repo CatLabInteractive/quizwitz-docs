@@ -11,7 +11,7 @@ title: Eliminazione per reparto
 
 ## 📝 Come funziona
 
-- Quando questo evento viene attivato, vengono presi in considerazione per l'eliminazione solo i giocatori o le squadre appartenenti al reparto selezionato.
+- Quando questo evento viene attivato, vengono presi in considerazione per l'eliminazione solo i giocatori o i team appartenenti al reparto selezionato.
 - I criteri di eliminazione sono flessibili:
   - **Elimina chi ha il punteggio più basso nel reparto** finché rimane un numero prestabilito di giocatori
   - **Elimina chi ha il punteggio più alto nel reparto** finché rimane un numero prestabilito

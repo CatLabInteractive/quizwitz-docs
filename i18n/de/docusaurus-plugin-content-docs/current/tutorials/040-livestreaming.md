@@ -5,7 +5,7 @@ title: Livestream-Quiz
 
 # 📺 Hosting eines Livestream-Quiz
 
-Mit QuizWitz Live ist es einfach, ein vollständig interaktives Livestream-Quiz auf Plattformen wie **Twitch**, **YouTube Live** oder **Facebook Live** zu veranstalten – sogar für großes Publikum. Diese Anleitung führt dich durch die Einrichtung, Verzögerungshandhabung und Präsentationsbest Practices.
+Mit QuizWitz Live ist es einfach, ein vollständig interaktives Livestream-Quiz auf Plattformen wie **Twitch**, **YouTube Live** oder **Facebook Live** zu veranstalten – sogar für großes Publikum. Diese Anleitung führt dich durch die Einrichtung, den Umgang mit Verzögerungen und bewährte Präsentationspraktiken.
 
 > 🧭 Wenn du neu in der Quizmaster-App bist, starte mit der [**Quizmaster-Start-Anleitung**](../quizmaster/002-startup.md).
 
@@ -15,7 +15,7 @@ Mit QuizWitz Live ist es einfach, ein vollständig interaktives Livestream-Quiz 
 
 Der Quizmaster ist das Herzstück deines Events. Er steuert das Tempo, präsentiert die Fragen und hält dein Publikum bei Laune.
 
-Benutze die **Quizmaster App** um das Spiel auszuführen. Starte QuizWitz Live aus dem Quiz-Editor, indem du auf **Start QuizWitz Live** klickst.
+Benutze die **Quizmaster-App** um das Spiel auszuführen. Starte QuizWitz Live aus dem Quiz-Editor, indem du auf **Start QuizWitz Live** klickst.
 
 > 💡 Die Quizmaster-App ist eine **Web-App** — es gibt keine Installation. Gehe einfach zu [**quizwitz.tv**](https://quizwitz.tv) auf deinem Quizmaster-Gerät und gib den **Quizmaster-Code** ein.
 
@@ -25,19 +25,19 @@ Wir empfehlen ein **Tablet oder Smartphone**, damit sich der Quizmaster während
 
 ## 🧩 Die richtige Spielmodus-Auswahl
 
-Beim Start von QuizWitz Live werden Sie gefragt, wie sich Spieler verbinden können:
+Beim Start von QuizWitz Live wirst du gefragt, wie sich Spieler verbinden können:
 
-- **Teamcodes** — Spieler oder Teams erhalten jeweils einen einzigartigen Code. Nützlich für vorregistrierte Team-Events.
-- **Einzelspielcode** — Ein gemeinsamer Spielcode für alle Spieler. Am besten geeignet für Livestreams mit offener Registrierung.
+- **Team-Codes** — Spieler oder Teams erhalten jeweils einen einzigartigen Code. Nützlich für vorregistrierte Team-Events.
+- **Geteilter Spielcode** — Ein gemeinsamer Spielcode für alle Spieler. Am besten geeignet für Livestreams mit offener Registrierung.
 
-> Für Livestreams wähle immer **Einzelspielcode** und klicke _Ad-hoc-Spiel starten_.
+> Für Livestreams wähle immer **Geteilter Spielcode** und klicke _Ad-hoc-Spiel starten_.
 
 Sobald das Quiz geladen wurde, wird die Quizmaster-App angezeigt:
 
 - **Quizmaster-Code** — für den Quizmaster
 - **Jury-Code** — zum Überprüfen offener Fragen
 - **Regie-Code** — zur Steuerung von visuellen und Audioelementen
-- **Spiel-Code** — für Spieler zum Beitritt
+- **Spielcode** — für Spieler zum Beitritt
 
 Dein Spielbildschirm zeigt nun den **Verbindungsbildschirm**, den du an dein Publikum streamen solltest.
 
@@ -64,16 +64,16 @@ Für **Twitch, YouTube Live oder Facebook Live** wirst du eine **Streaming-Verz�
 
 ## ⏱️ Einstellung der QuizWitz-Spielerverzögerung
 
-Um Streamverzögerungen zu kompensieren, verwenden Sie die **Spieler-Interaktionsverzögerung** in der Jury App.
+Um Streamverzögerungen zu kompensieren, verwende die **Spieler-Interaktionsverzögerung** in der Jury-App.
 
 So geht's:
 
 1. Starte deine Stream-Vorschau — noch kein Live gehen nötig
-2. Öffne die **Jury App** durch Eingabe deines Jury Codes unter [**quizwitz.tv**](https://quizwitz.tv)
+2. Öffne die **Jury-App** durch Eingabe deines Jury-Codes unter [**quizwitz.tv**](https://quizwitz.tv)
 3. Wechsle zu **Spielsteuerung**
 4. Öffne deinen Livestream in einem anderen Fenster, mit Ton
 5. Nutze eine Stoppuhr
-6. Drücke in der Jury App den **Buzzer** Button und beginne Timing
+6. Drücke in der Jury-App den **Buzzer** Button und beginne Timing
 7. Wenn du den Buzzer im Livestream hörst, stoppe die Stoppuhr
 8. Runde die Verzögerung (in Sekunden) auf und trage sie im Feld **Spieler-Interaktions-Verzögerung** ein
 9. Klicke auf **Einstellung bestätigen**
@@ -96,7 +96,7 @@ Sobald die Verzögerung eingestellt ist und deine Spieler verbunden sind:
 
 - **Lass den verzögerten Stream nicht vom Quizmaster beobachten** — sie sollten nur die Live-Quizmaster-App verwenden, um unangenehme Pausen zu vermeiden.
 
-- Zur Interaktion mit dem Publikum beobachte **Live-Kommentare** auf einem separaten Bildschirm — nicht das Video-Feed.
+- Zur Interaktion mit dem Publikum beobachte **Live-Kommentare** auf einem separaten Bildschirm — nicht den Video-Feed.
 
 - Möchtest du OBS-Szenen automatisch wechseln? Nutze:  
   [`https://regie.catlab.eu/obs.html`](https://regie.catlab.eu/obs.html)
@@ -106,7 +106,7 @@ Sobald die Verzögerung eingestellt ist und deine Spieler verbunden sind:
 
 - Suchst du weitere Tools? Besuche [**regie.catlab.eu**](https://regie.catlab.eu) — eine zentrale Anlaufstelle mit zusätzlichen Utilities für Automatisierung, Szenenwechsel, Effekte und mehr.
 
-> Alle Werkzeuge benötigen deinen **Regie Code** von der Quizmaster App.
+> Alle Werkzeuge benötigen deinen **Regie-Code** von der Quizmaster-App.
 
 ---
 

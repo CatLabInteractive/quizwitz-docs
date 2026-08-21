@@ -13,29 +13,29 @@ Une question à choix multiple classique permet aux joueurs de sélectionner la 
 
 ---
 
-## 📝 Comment ça fonctionne
+## 📝 Comment ça marche
 
 - **Question :** Indiquez clairement ce que les joueurs doivent répondre (exemple : « Sélectionnez le drapeau de 🐟🐟🐟 »).
 - **Options :** Vous pouvez proposer jusqu'à quatre options de réponse.
-- **Correct/Erreur :** Marquez une ou plusieurs réponses correctes, selon vos réglages.
-- **Retour d'information :** Les joueurs voient quelle réponse était correcte après avoir répondu. Optionnellement, vous pouvez fournir un retour supplémentaire ou des explications.
+- **Correct/Incorrect :** Marquez une ou plusieurs réponses correctes, selon vos réglages.
+- **Feedback :** Les joueurs voient quelle réponse était correcte après avoir répondu. Optionnellement, vous pouvez fournir du feedback supplémentaire ou des explications.
 
 ---
 
-## 🏆 Attribution des points
+## 🏆 Score
 
 Les questions à choix multiple utilisent par défaut un **système de points basé sur le temps** : plus la réponse est rapide, plus elle rapporte de points. Pour ces questions, le score diminue continuellement à la microseconde près, avec la plupart des points fixes et seule une partie influencée par la rapidité.  
 **Vous pouvez aussi désactiver le système de points basé sur le temps par question** si vous voulez que toutes les bonnes réponses obtiennent le même score.  
 Vous pouvez affiner cet équilibre dans les réglages de la manche.
 
-Voir [Options de notation dans les réglages de la manche](../editor/008-round-options.md#scoring) pour tous les détails.
+Voir [Options de score dans les paramètres de la manche](../editor/008-round-options.md#scoring) pour tous les détails.
 
 ---
 
-## ⚙️ Réglages avancés
+## ⚙️ Paramètres avancés
 
 Le type de question à choix multiple offre de nombreux réglages pour affiner l'expérience et l'attribution des points.  
-Voir [écrire des questions](../editor/005-writing-questions.md) pour une vue d'ensemble des réglages des questions.
+Voir [rédiger des questions](../editor/005-writing-questions.md) pour une vue d'ensemble des réglages des questions.
 
 ---
 

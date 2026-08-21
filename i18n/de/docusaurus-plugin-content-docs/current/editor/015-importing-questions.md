@@ -7,24 +7,24 @@ title: Fragen importieren
 
 Es gibt zwei Möglichkeiten, schnell Fragen zu einer Runde in QuizWitz hinzuzufügen:
 
-- Importiere vorhandene Inhalte aus der **QuizWitz Library**
+- Importiere vorhandene Inhalte aus der **QuizWitz-Bibliothek**
 - Füge eine Liste von Fragen aus einer **Tabelle** ein
 
 Beide Optionen sind in jeder Runde zugänglich.
 
 ---
 
-## 📚 Importieren aus der QuizWitz Library
+## 📚 Importieren aus der QuizWitz-Bibliothek
 
-Verwende den Tab **QuizWitz Library**, um nach Fragen, Runden oder Quizzen zu suchen und diese zu importieren, die von dir selbst oder anderen Erstellern angelegt wurden.
+Verwende den Tab **QuizWitz-Bibliothek**, um nach Fragen, Runden oder Quizzen zu suchen und diese zu importieren, die von dir selbst oder anderen Erstellern angelegt wurden.
 
 1. Öffne die Runde, in die du Inhalte importieren möchtest
-2. Klicke auf den Tab **QuizWitz Library**
+2. Klicke auf den Tab **QuizWitz-Bibliothek**
 3. Verwende Filter wie Sprache, Sammlung, Typ, Kategorie oder Tags
 4. Wähle einen oder mehrere Einträge aus
 5. Klicke auf **Füge X Elemente hinzu**, um die ausgewählten Inhalte in dein Quiz einzufügen
 
-![QuizWitz Library](/images/import/import-from-quizwitz.png)
+![QuizWitz-Bibliothek](/images/import/import-from-quizwitz.png)
 
 > ✅ Verwende diese Methode, um hochwertige Inhalte wiederzuverwenden oder mehrere öffentliche Round-Abouts zu einem größeren Quiz zusammenzufügen.
 

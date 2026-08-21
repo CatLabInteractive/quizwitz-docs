@@ -1,11 +1,11 @@
 ---
 id: piece-of-pie
-title: Stück Pie
+title: "[Kuchenstück](021-piece-of-pie.md)"
 ---
 
-# 🥧 Stück des Kuchen
+# 🥧 Kuchenstück
 
-In einer Runde **Piece of Pie** zahlt sich die Teamarbeit aus! Die Gesamtpunktzahl für jede Frage hängt von der Anzahl der Spieler ab und wird dann unter allen Spielern (oder Teams) aufgeteilt, die die Frage richtig beantwortet haben.
+In einer **Kuchenstück**-Runde zahlt sich die Teamarbeit aus! Die Gesamtpunktzahl für jede Frage hängt von der Anzahl der Spieler ab und wird dann unter allen Spielern (oder Teams) aufgeteilt, die die Frage richtig beantwortet haben.
 
 ---
 

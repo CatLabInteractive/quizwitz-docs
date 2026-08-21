@@ -80,7 +80,7 @@ Quando sei pronto:
 
 Scegli:
 
-- **Modalità di gioco** — Giocatore singolo o Partita di gruppo
+- **Modalità di gioco** — Giocatore singolo o Party Game
 - **Quali Round-Abouts** includere nella tua sessione
 
 QuizWitz proverà a saltare le domande che hai già visto.
@@ -103,13 +103,13 @@ Una volta iniziata la partita, scegli la modalità:
 
 ---
 
-### 🎉 Partita di gruppo
+### 🎉 Party Game
 
 Gioca con gli amici usando i loro telefoni o tablet:
 
 > 📺 Assicurarsi che la schermata di gioco sia visibile — utilizzare un display condiviso o condivisione dello schermo
 
-1. Clicca su **Avvia**, poi su **Partita di gruppo**
+1. Clicca su **Avvia**, poi scegli **Party Game**
 2. I giocatori seguono le istruzioni sullo schermo per partecipare
 3. Clicca su **Avvia quiz** quando tutti sono pronti
 
@@ -120,7 +120,7 @@ Una volta che il quiz ha inizio, **il gioco è in esecuzione automaticamente** �
 > Vuoi controllare il ritmo del gioco da solo — decidere quando ogni domanda inizia? È possibile solo con [**QuizWitz Live**](../quizmaster/001-introduction.md) e l'app Quizmaster.
 
 ![Schermata iniziale di QuizWitz](/images/quizwitz-start-screen.png)  
-![Schermata iniziale partita di gruppo di QuizWitz](/images/quizwitz-start-screen-party.png)  
+![Schermata iniziale Party Game di QuizWitz](/images/quizwitz-start-screen-party.png)  
 ![Schermata di connessione](/images/connect-screen.png)
 
 ---

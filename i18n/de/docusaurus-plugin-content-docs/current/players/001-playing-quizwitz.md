@@ -45,14 +45,14 @@ Du kannst Items jederzeit organisieren, spielen oder entfernen. Dies ist deine p
 
 ## 🧠 Wähle einen Round-About
 
-Ein **Rund-About** ist eine kleine, thematische Runde von Fragen — wie der Name schon sagt, eine Runde _über_ ein Thema. Das Spielen nur eines gibt dir ein kurzes Spiel mit 7 zufälligen Fragen.
+Ein **Round-About** ist eine kleine, thematische Runde von Fragen — wie der Name schon sagt, eine Runde _über_ ein Thema. Das Spielen nur eines gibt dir ein kurzes Spiel mit 7 zufälligen Fragen.
 
 Um einen Round-About genauer zu erkunden:
 
 - Klicke auf das **Bild**, den **Titel** oder das **Kommentar-Symbol**
 - Klicke auf **Spielen**, um direkt loszulegen
 
-![QuizWitz Rund-Über Details](/images/round-about-details.png)
+![QuizWitz Round-About Details](/images/round-about-details.png)
 
 ---
 
@@ -61,7 +61,7 @@ Um einen Round-About genauer zu erkunden:
 Willst du aus mehreren Round-Abouts ein komplettes Quizspiel bauen? So funktioniert’s:
 
 - Klicke im Round-About auf **Zu meiner Sammlung hinzufügen**
-- Oder klicke auf das **Stern-Symbol** im Round-About-Kacheln
+- Oder klicke auf das **Stern-Symbol** auf der Round-About-Kachel
 
 Um später zu entfernen, klicke einfach nochmal auf den Stern – dann steht dort **Aus meiner Sammlung entfernen**.
 
@@ -107,17 +107,17 @@ Sobald dein Spiel startet, wähle deinen Modus:
 
 Spiele mit Freunden, die ihr eigenes Handy oder Tablet nutzen:
 
-> 📺 Stelle sicher, dass der Spielbildschirm sichtbar ist — benutze einen geteilten Bildschirm oder Bildschirm teilen
+> 📺 Stelle sicher, dass der Spielbildschirm sichtbar ist — verwende einen gemeinsamen Bildschirm oder Bildschirmfreigabe
 
 1. Klicke auf **Starten**, dann auf **Partyspiel**
 2. Die Spieler folgen den Anweisungen auf dem Bildschirm, um beizutreten
 3. Klicke auf **Quiz starten**, wenn alle bereit sind
 
-Sobald das Quiz gestartet ist, wird **das Spiel automatisch ausgeführt** — Fragen werden auftauchen, Timer zählen und Punktzahlen werden ohne Interventionen des Gastgebers ausgeführt.
+Sobald das Quiz startet, **läuft das Spiel automatisch ab** — Fragen erscheinen, Timer zählen herunter und Punkte werden erfasst, ohne dass der Host eingreifen muss.
 
-> ⏸️ Brauchen Sie eine Pause? Bewege deine Maus am unteren Ende des Spielbildschirms und es wird ein **Pause** Button angezeigt. Pausen ist die einzige Möglichkeit, ein Partyspiel zu unterbrechen.
+> ⏸️ Brauchst du eine Pause? Bewege deine Maus an den unteren Rand des Spielbildschirms, dann wird ein **Pause**-Button angezeigt. Pausieren ist die einzige Möglichkeit, ein Partyspiel zu unterbrechen.
 >
-> Willst du das Tempo des Spiels selbst steuern – entscheiden, wann jede Frage beginnt? Das ist nur mit [**QuizWitz Live**](../quizmaster/001-introduction.md) und der Quizmaster App möglich.
+> Willst du das Tempo des Spiels selbst steuern – entscheiden, wann jede Frage beginnt? Das ist nur mit [**QuizWitz Live**](../quizmaster/001-introduction.md) und der Quizmaster-App möglich.
 
 ![QuizWitz Startbildschirm](/images/quizwitz-start-screen.png)  
 ![QuizWitz Startbildschirm Party](/images/quizwitz-start-screen-party.png)  

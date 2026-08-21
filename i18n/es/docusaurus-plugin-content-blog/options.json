@@ -8,7 +8,7 @@
     "description": "Navigation label or content type name for blog posts."
   },
   "sidebar.title": {
-    "message": "Mensajes recientes",
+    "message": "Entradas recientes",
     "description": "The label for the left sidebar"
   }
 }

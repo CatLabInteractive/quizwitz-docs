@@ -15,8 +15,8 @@ Beachte, dass einige Rundentypen die Fragetypen einschränken, die du verwenden 
 Dies sind die häufigsten Fragetypen. Sie sind leicht zu verstehen und zu spielen.
 
 - [Multiple Choice](001-multiple-choice.md) (Standard)
-- [Reihenfolge-Frage](003-order-question.md)
-- [Bildkarte-Frage](004-image-map.md)
+- [Sortierfrage](003-order-question.md)
+- [Bildkartenfrage](004-image-map.md)
 
 ## Offene Fragen
 
@@ -29,5 +29,5 @@ Offene Fragen erfordern, dass Spieler ihre Antworten eingeben.
 
 Diese Fragen machen das Spiel etwas weniger fair, helfen jedoch sicherzustellen, dass es immer einen Gewinner gibt.
 
-- [Tie-Breaker-Frage](006-tiebreaker-question.md)
-- [Best-Antwort-Frage](007-best-answer-question.md)
+- [Entscheidungsfrage](006-tiebreaker-question.md)
+- [Beste-Antwort-Frage](007-best-answer-question.md)

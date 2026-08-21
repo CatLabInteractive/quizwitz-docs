@@ -13,7 +13,7 @@ Los juegos de QuizWitz PRO requieren **seats activos** para conectar jugadores. 
 
 - Cada **jugador o equipo conectado** en un juego PRO requiere **1 seat activo**.
 - Puedes organizar juegos con **jugadores individuales** o **equipos compartiendo un smart device** — cada uno cuenta como un seat.
-- **Party Game y Single Play** **no** requieren asientos y son ideales para jugar casualmente con amigos o familiares.
+- **Party Game y Un jugador** **no** requieren Seats y son ideales para jugar casualmente con amigos o familiares.
 
 ---
 
@@ -72,11 +72,11 @@ Para eventos únicos u ocasionales, puedes activar **seats de pago por uso** en 
 
 ---
 
-## ⚠️ Caso especial: modo whitelabel
+## ⚠️ Caso especial: modo Whitelabel
 
-- Los juegos en **modo whitelabel** requieren **2 seats por jugador** en lugar de uno.
+- Los juegos en **modo Whitelabel** requieren **2 seats por jugador** en lugar de uno.
 
-> Ejemplo: Un juego whitelabel con 100 jugadores requiere 200 seats.
+> Ejemplo: Un juego Whitelabel con 100 jugadores requiere 200 seats.
 
 ---
 

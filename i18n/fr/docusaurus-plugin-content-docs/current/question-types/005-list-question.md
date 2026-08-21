@@ -30,23 +30,23 @@ Une **question de liste** demande aux joueurs de fournir plusieurs bonnes répon
 - **Points par réponse :** Les points peuvent être attribués pour chaque réponse correcte, ou seulement quand le nombre minimum est atteint.
 - **Options données :** Utilisez-les comme exemples dans la question.
 - **Correction :**
-  - **Forcer la correction automatique :** Quand activé, QuizWitz vérifie automatiquement toutes les réponses (en acceptant petites fautes et variations). Pas besoin de jury.
-  - **Révision manuelle :** Lorsqu'elle n'est pas activée, chaque réponse fournie doit être examinée par [l'application Jury App](../quizmaster/004-jury-app.md).
+  - **Forcer la correction automatique :** Lorsqu'elle est activée, QuizWitz vérifie automatiquement toutes les réponses (en acceptant de petites fautes et variations). Pas besoin de jury.
+  - **Révision manuelle :** Lorsqu'elle n'est pas activée, chaque réponse fournie doit être examinée par l'[app du jury](../quizmaster/004-jury-app.md).
 
 ---
 
-## 🏆 Scoring
+## 🏆 Score
 
 - **Points par réponse correcte :** Les joueurs gagnent des points pour chaque bonne réponse.
-- **Scoring basé sur le temps** (si activé) :  
-  Suit les **règles des questions ouvertes** pour plus d'équité :
+- **Score basé sur le temps** (si activé) :  
+  Suit les **règles des questions ouvertes** pour plus d'équité :
   - Les points disponibles sont divisés en tranches de temps (pas au milliseconde).  
     Par exemple : plein de points dans la première tranche, 80 % dans la suivante, etc.
   - **Seuls 25 %** des points dépendent de la rapidité.  
     Les autres **75 %** sont fixes — même les joueurs plus lents obtiennent la majorité des points s’ils répondent correctement.
-  - Cela réduit la pénalité liée à la vitesse de frappe et rend le scoring plus équitable pour tous.
+  - Cela réduit la pénalité liée à la vitesse de frappe et rend le score plus équitable pour tous.
 
-Pour plus de détails, voyez [options de scoring des manches](../editor/008-round-options.md#scoring).
+Pour plus de détails, voyez [options de score des manches](../editor/008-round-options.md#scoring).
 
 ---
 
@@ -54,9 +54,9 @@ Pour plus de détails, voyez [options de scoring des manches](../editor/008-roun
 
 - **Soyez précis :** Définissez clairement les réponses valides.
 - **Montrez des exemples :** Utilisez la fonction « Donné ».
-- **Lister les variantes :** Incluez les orthographes/variantes courantes.
+- **Listez les variantes :** Incluez les orthographes/variantes courantes.
 - **Réduisez le travail du jury :** Utilisez la correction automatique si possible.
 
 ---
 
-Pour en savoir plus, voir [Documentation de l'application du Jury ](../quizmaster/004-jury-app.md).
+Pour en savoir plus, voir la [documentation de l'app du jury](../quizmaster/004-jury-app.md).

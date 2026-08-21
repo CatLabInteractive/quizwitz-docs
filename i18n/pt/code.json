@@ -187,11 +187,11 @@
     "description": "Section heading or filter label for language selection."
   },
   "theme.NotFound.p1": {
-    "message": "Não conseguimos encontrar o que você estava procurando.",
+    "message": "Não conseguimos encontrar o que estavas a procurar.",
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "Entre em contato com o proprietário do site que indicou o URL original e avise que o link está quebrado.",
+    "message": "Entra em contacto com o proprietário do site que indicou o URL original e avisa que o link está quebrado.",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
@@ -299,7 +299,7 @@
     "description": "The unlisted content banner title"
   },
   "theme.contentVisibility.unlistedBanner.message": {
-    "message": "Esta página não está listada. Os motores de busca não vão indexá-la, e só usuários com um link direto podem acessá-la.",
+    "message": "Esta página não está listada. Os motores de pesquisa não vão indexá-la, e só utilizadores com um link direto podem acedê-la.",
     "description": "The unlisted content banner message"
   },
   "theme.contentVisibility.draftBanner.title": {
@@ -315,7 +315,7 @@
     "description": "The label of the button to try again rendering when the React error boundary captures an error"
   },
   "theme.common.skipToMainContent": {
-    "message": "Pular para o conteúdo principal",
+    "message": "Saltar para o conteúdo principal",
     "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
   },
   "theme.tags.tagsPageTitle": {
@@ -327,24 +327,24 @@
     "description": "Generic button label to create a new item."
   },
   "Create a fully customizable quiz using different question and round types.": {
-    "message": "Crie um quiz totalmente personalizável usando diferentes tipos de perguntas e rodadas."
+    "message": "Cria um quiz totalmente personalizável usando diferentes tipos de perguntas e rondas."
   },
   "Play": {
     "message": "Jogar",
     "description": "Generic button label to start playing a game or quiz."
   },
   "Play any shared quiz on our platform with friends, family, colleagues, … Grab a smart device, connect via the web and show off how much you know!": {
-    "message": "Jogue qualquer quiz compartilhado na nossa plataforma com amigos, família, colegas, … Pegue um smart device, conecte-se pela web e mostre o quanto você sabe!"
+    "message": "Joga qualquer quiz partilhado na nossa plataforma com amigos, família, colegas, … Pega num smart device, liga-te à web e mostra o quanto sabes!"
   },
   "Share": {
-    "message": "Compartilhar",
+    "message": "Partilhar",
     "description": "Button label to open the share dialog."
   },
   "Collect and share quiz rounds from around the world, or share your own! Connect with other quiz aficionados.": {
-    "message": "Colecione e compartilhe rodadas de quiz do mundo todo, ou compartilhe as suas! Conecte-se com outros aficionados por quiz."
+    "message": "Coleciona e partilha rondas de quiz de todo o mundo, ou partilha as tuas! Liga-te a outros aficionados de quiz."
   },
   "Your guide to creating, hosting, and mastering QuizWitz.": {
-    "message": "Seu guia para criar, apresentar e dominar o QuizWitz."
+    "message": "O teu guia para criar, organizar e dominar o QuizWitz."
   },
   "Getting started": {
     "message": "Primeiros passos"

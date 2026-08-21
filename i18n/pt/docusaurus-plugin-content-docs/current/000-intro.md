@@ -25,7 +25,7 @@ Este guia está dividido em secções com base na forma como usas o QuizWitz:
 
 - [**Guia do Jogador**](players/001-playing-quizwitz.md) — Aprende a colecionar, jogar e desfrutar de quizzes
 - [**Guia do Criador de Quizzes**](editor/002-for-the-quizmakers.md) — Cria as tuas próprias perguntas, rondas e quizzes completos
-- [**Guia do quizmaster**](quizmaster/001-introduction.md) — Organiza um jogo ao vivo usando QuizWitz Live
+- [**Guia do Quizmaster**](quizmaster/001-introduction.md) — Organiza um jogo ao vivo usando QuizWitz Live
 
 Explora as secções que combinam com o teu papel — ou todas elas, se tiveres curiosidade!
 

@@ -18,18 +18,18 @@ Una pregunta abierta permite a los jugadores escribir su respuesta libremente us
 - **Pregunta:** Pide una respuesta específica en un campo de texto libre (ejemplo: "¿Qué dúo interpreta esta canción?").
 - **Respuesta:** Los jugadores escriben su respuesta. Puedes proporcionar múltiples respuestas aceptadas para validación automática.
 - **Adjuntos:** Añade audio, imágenes o video como pista (por ejemplo, reproduce un clip de música).
-- **Feedback:** Los jugadores ven después de responder si su respuesta fue marcada como correcta o no. También puedes proporcionar comentarios o explicaciones adicionales.
+- **Feedback:** Los jugadores ven después de responder si su respuesta fue marcada como correcta o no. También puedes proporcionar feedback o explicaciones adicionales.
 
 ---
 
 ## ⚙️ Configuraciones ampliadas
 
-Las preguntas abiertas ofrecen una variedad de configuraciones para adaptar tu cuestionario:
+Las preguntas abiertas ofrecen una variedad de configuraciones para adaptar tu quiz:
 
 - **Múltiples respuestas aceptadas:** Añade variantes, abreviaturas o sinónimos para una autocorrección más flexible.
 - **Puntuación basada en tiempo:** Premia respuestas más rápidas (ver "Puntuación" abajo).
 - **Forzar corrección automática:** Activa esto para que el juego marque automáticamente respuestas correctas según tu lista proporcionada.
-  - Si no está habilitado (el valor predeterminado para la mayoría de los juegos en vivo), las respuestas abiertas deben ser revisadas y anotadas manualmente usando la [Aplicación del Jurado](../quizmaster/004-jury-app.md).
+  - Si no está habilitado (el valor predeterminado para la mayoría de los juegos en vivo), las respuestas abiertas deben ser revisadas y anotadas manualmente usando la [app del jurado](../quizmaster/004-jury-app.md).
 
 Para más sobre estas opciones, consulta [escribir preguntas](../editor/005-writing-questions.md).
 
@@ -41,7 +41,7 @@ La puntuación en preguntas abiertas está diseñada para ser justa, incluso par
 
 - **Puntuación basada en tiempo** divide los puntos disponibles en bloques, no en una cuenta regresiva estricta por milisegundos.
 - Por ejemplo, responder en el primer bloque (p.ej. primeros 5 segundos) da puntos completos; el siguiente bloque da 80%, y así sucesivamente. Esto ayuda a reducir la penalización para quienes escriben despacio.
-- Por defecto, sólo el **25%** de los puntos dependen de la velocidad — el restante **75%** es fijo, así que todos los que respondan correctamente obtienen la mayor parte de los puntos, sin importar la velocidad de escritura.
+- Por defecto, solo el **25%** de los puntos dependen de la velocidad — el restante **75%** es fijo, así que todos los que respondan correctamente obtienen la mayor parte de los puntos, sin importar la velocidad de escritura.
 
 > ⚙️ **Consejo:** Puedes ajustar más el comportamiento de la puntuación y otras configuraciones en las [opciones de ronda](../editor/008-round-options.md).
 
@@ -49,11 +49,11 @@ La puntuación en preguntas abiertas está diseñada para ser justa, incluso par
 
 ## 🧑‍⚖️ Revisión del jurado en QuizWitz Live
 
-En **Prueba Witz Live**, las preguntas abiertas generalmente requieren una revisión manual con la [Aplicación del Jurado](../quizmaster/004-jury-app.md):
+En **QuizWitz Live**, las preguntas abiertas generalmente requieren una revisión manual con la [app del jurado](../quizmaster/004-jury-app.md):
 
-- La aplicación Jury permite a los miembros del jurado aceptar, rechazar o ajustar la puntuación para respuestas abiertas.
-- La coincidencia fonética y alternativas ayuda, pero el juicio humano es esencial para una puntuación justa y creativa.
-- Para instrucciones y características completas, vea la [documentación de la aplicación del Jurado](../quizmaster/004-jury-app.md).
+- La app del jurado permite a los miembros del jurado aceptar, rechazar o ajustar la puntuación para respuestas abiertas.
+- Las coincidencias fonéticas y alternativas ayudan, pero el juicio humano es esencial para una puntuación justa y creativa.
+- Para instrucciones y características completas, consulta la [documentación de la app del jurado](../quizmaster/004-jury-app.md).
 
 ---
 

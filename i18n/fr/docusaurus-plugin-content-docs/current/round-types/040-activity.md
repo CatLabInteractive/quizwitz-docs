@@ -9,7 +9,7 @@ Une manche Activité vous permet de vous éloigner des questions de quiz standar
 
 ---
 
-![Écran de jeu pour la ronde d'activité](/images/round-modes/activity-main-screen.png)
+![Écran de jeu pour la manche Activité](/images/round-modes/activity-main-screen.png)
 
 ---
 
@@ -53,7 +53,7 @@ Une manche Activité vous permet de vous éloigner des questions de quiz standar
 
 ## 💡 Conseils
 
-- **Rendez-la mémorable :** Les activités fonctionnent mieux quand elles sont amusantes à regarder ou à participer pour tous.
+- **Rendez-la mémorable :** Les activités sont plus réussies quand elles sont amusantes, que ce soit à regarder ou à y participer, pour tout le monde.
 - **Soyez juste :** Assurez-vous que l'activité peut être jugée objectivement, ou utilisez un système de vote pour décider du gagnant.
 - **Soyez clair :** Annoncez les règles et attentes avant de commencer.
 - **Dynamisez votre événement :** Utilisez les manches d'activité pour garder les choses animées et engageantes.

@@ -27,7 +27,7 @@ Una volta all'interno, l'App della Giuria fornisce diversi strumenti utili:
   - Il gioco **non aspetta** che la giuria finisca, a meno che non sia l'**ultima domanda del round** o che le impostazioni del quiz dicano diversamente.
   - Una volta valutati, i risultati appaiono **dopo la domanda successiva**.
 
-- **Modifica i punteggi** — Assegna o revoca manualmente punti per giocatore o squadra.
+- **Modifica i punteggi** — Assegna o revoca manualmente punti per giocatore o team.
 
 - **Controllo del gioco** — Regola i timer delle domande o aggiungi ritardi dello streaming, se necessario.
   > Per configurare il ritardo della diretta streaming, vedi [**come ospitare un quiz QuizWitz Live su Twitch**](../tutorials/040-livestreaming.md)

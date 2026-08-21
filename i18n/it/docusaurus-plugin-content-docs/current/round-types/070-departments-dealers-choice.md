@@ -1,11 +1,11 @@
 ---
 id: departments-dealers-choice
-title: Scelta del Dealer del reparto
+title: Reparto Dealer's Choice
 ---
 
-# 🏢 Scelta del Dealer del reparto
+# 🏢 Reparto Dealer's Choice
 
-**Scelta del Dealer del reparto** è un tipo di round interattivo in cui i giocatori di uno specifico reparto scelgono a turno la prossima categoria o domanda.
+**Reparto Dealer's Choice** è un tipo di round interattivo in cui i giocatori di uno specifico reparto scelgono a turno la prossima categoria o domanda.
 
 ---
 
@@ -34,10 +34,10 @@ title: Scelta del Dealer del reparto
 
 ## 💡 Consigli
 
-- Usa questa modalità per competizioni a squadre o quando vuoi dare a gruppi specifici l'occasione di brillare.
-- I round Scelta del Dealer mantengono il gioco dinamico e coinvolgente, con una strategia extra per i reparti.
+- Usa questa modalità per competizioni tra team o quando vuoi dare a gruppi specifici l'occasione di brillare.
+- I round Dealer's Choice mantengono il gioco dinamico e coinvolgente, con una strategia extra per i reparti.
 
 ---
 
-Per le regole classiche di Scelta del Dealer, vedi [Scelta del Dealer](024-dealers-choice.md).  
-Per altre opzioni di gioco a squadre, dai un'occhiata a [Opzioni round](../editor/008-round-options.md).
+Per le regole classiche di Dealer's Choice, vedi [Dealer's Choice](024-dealers-choice.md).  
+Per altre opzioni di gioco con i team, dai un'occhiata a [Opzioni round](../editor/008-round-options.md).

@@ -73,7 +73,7 @@ Genera link di condivisione o codice di incorporamento con impostazioni di gioco
 
 ---
 
-## 📜 Testo per il Quizmaster
+## 📜 Testo per il quizmaster
 
 Aggiungi istruzioni quizmaster personalizzate per:
 
