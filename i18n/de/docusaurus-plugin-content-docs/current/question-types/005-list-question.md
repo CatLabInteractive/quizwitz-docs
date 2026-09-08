@@ -5,7 +5,7 @@ title: Listenfrage
 
 # 📝 Listenfrage
 
-Eine **Listenfrage** bittet die Spieler, mehrere richtige Antworten aus einer größeren Liste anzugeben – perfekt für Aufforderungen wie „Nenne die ersten 5 Präsidenten der Vereinigten Staaten von Amerika“ oder „Nenne drei Elemente aus dem Periodensystem.“
+A **List question** asks players to provide several correct answers from a larger list - perfect for prompts like “List the first 5 presidents of the United States of America” or “Name three elements in the periodic table.”
 
 ---
 
@@ -18,7 +18,7 @@ Eine **Listenfrage** bittet die Spieler, mehrere richtige Antworten aus einer gr
 - **Frage:** Formuliere klar, was die Spieler auflisten sollen.
 - **Listenelemente:** Gib alle möglichen richtigen Antworten ein.
   - Markiere einige als **‚Angegeben‘**, um sie als Beispiele auf dem Bildschirm zu zeigen; diese müssen NICHT beantwortet werden.
-  - Die Reihenfolge ist **egal** – Spieler können richtige Antworten in beliebiger Reihenfolge eingeben.
+  - Order does **not** matter - players can enter correct answers in any order.
 - **Spielereingabe:** Spieler müssen eine festgelegte Anzahl an Antworten geben (z. B. zwischen 1 und 5). Punkte werden für jede richtig eingereichte Antwort vergeben.
 - **Anhänge:** Füge Bilder, Audio oder Video zum Kontext hinzu. Fülle die Quellenangabe bei Veröffentlichung aus.
 
@@ -43,7 +43,7 @@ Eine **Listenfrage** bittet die Spieler, mehrere richtige Antworten aus einer gr
   - Die verfügbaren Punkte werden in Zeitblöcke aufgeteilt (nicht auf Millisekunden genau).  
     Zum Beispiel: volle Punktzahl im ersten Block, 80% im nächsten und so weiter.
   - **Nur 25 %** der Punkte hängen von der Geschwindigkeit ab.  
-    Die anderen **75 %** sind festgelegt – so erhalten auch langsamere Tippen die meisten Punkte, wenn sie richtig antworten.
+    The other **75%** is fixed - so even slower typers get most of the points if they answer correctly.
   - Das reduziert die Benachteiligung durch Tippgeschwindigkeit und macht die Punktevergabe fairer für alle.
 
 Details findest du unter [Runden-Punkteoptionen](../editor/008-round-options.md#scoring).
