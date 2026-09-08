@@ -3,16 +3,16 @@ id: seats
 title: Seats
 ---
 
-# 🎟️ QuizWitz PRO – Como funcionam os Seats
+# 🎟️ QuizWitz PRO - How seats work
 
-Os jogos QuizWitz PRO precisam de **Seats ativos** para conectar jogadores. Seats são um sistema flexível, pré-pago ou baseado em licença, que cresce conforme as tuas necessidades — perfeito para quizzes de pub, livestreams e eventos de quiz profissionais.
+Os jogos QuizWitz PRO precisam de **Seats ativos** para conectar jogadores. Seats are a flexible, pay-as-you-go or license-based system that scales with your needs - perfect for pub quizzes, livestreams, and professional quiz events.
 
 ---
 
 ## 🧑‍🤝‍🧑 O que são Seats?
 
 - Cada **jogador ou equipa** conectado num jogo PRO precisa de **1 Seat ativo**.
-- Podes organizar jogos com **jogadores individuais** ou **equipas a partilhar um dispositivo** — cada um conta como um Seat.
+- You can host games with **individual players** or **teams sharing one device** - each counts as one seat.
 - **Jogo de Grupo e jogos únicos** **não** requerem seats e são ideais para jogar casualmente com amigos ou familiares.
 
 ---
@@ -27,7 +27,7 @@ Os jogos QuizWitz PRO precisam de **Seats ativos** para conectar jogadores. Seat
 
 ## 💼 Licenças QuizWitz PRO
 
-Se organizas quizzes regularmente, uma **licença QuizWitz PRO** dá-te **Seats permanentemente ativos** que estão sempre disponíveis — sem precisares de os ativar manualmente.
+If you host quizzes regularly, a **QuizWitz PRO license** gives you **permanently active seats** that are always available - no need to activate them manually.
 
 Os níveis de licença disponíveis incluem:
 
@@ -39,7 +39,7 @@ Os níveis de licença disponíveis incluem:
 
 Estes Seats são ideais para eventos recorrentes, configurações de equipas maiores ou espaços profissionais.
 
-> ⚠️ **Importante**: Se precisares de organizar um quiz com **mais jogadores do que a tua licença permite**, tens de **ativar Seats pré-pagos** para o número total de jogadores. Os Seats da tua licença não são adicionados aos Seats ativados — são **substituídos** por completo.
+> ⚠️ **Importante**: Se precisares de organizar um quiz com **mais jogadores do que a tua licença permite**, tens de **ativar Seats pré-pagos** para o número total de jogadores. The seats from your license are not added to your activated seats - they are **replaced** entirely.
 
 ---
 
@@ -52,7 +52,7 @@ Para eventos únicos ou ocasionais, podes ativar **Seats pré-pagos** em vez de 
 - Cada **licença PRO** contém um **valor de créditos gratuitos**.
 - Se não tiveres a certeza de quantos jogadores vão entrar:
   - Podes **esperar até todos se conectarem** antes de ativar Seats.
-  - Ou podes ativar mais Seats do que precisas — os **Seats não utilizados são reembolsados automaticamente** em créditos depois de expirarem.
+  - Or, activate more seats than needed - **unused seats are automatically refunded** in credits after they expire.
 
 ---
 
@@ -80,4 +80,4 @@ Para eventos únicos ou ocasionais, podes ativar **Seats pré-pagos** em vez de 
 
 ---
 
-QuizWitz PRO dá-te ferramentas flexíveis e profissionais para organizares eventos de qualquer tamanho — quer atives Seats a pedido, quer uses uma licença PRO para acesso sempre ativo.
+QuizWitz PRO gives you flexible and professional tools to run events of any size - whether you activate seats on demand or rely on a PRO license for always-on access.
