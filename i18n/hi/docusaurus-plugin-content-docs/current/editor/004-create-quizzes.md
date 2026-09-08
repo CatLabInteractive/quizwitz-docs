@@ -78,9 +78,9 @@ title: क्विज़ बनाएँ
 
 ![क्विज़ प्लेलिंक्स](/images/quiz-playlinks.png)
 
-- **[Play Party Game](../players/001-playing-quizwitz.md)** — A casual quiz experience to enjoy with friends on the same screen or via screenshare. The game runs automatically; the host can pause it, but has no further control over the pacing.
-- **[Start QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Launch a professional live quiz event using the Quizmaster App. This is the **only mode where the quizmaster controls the pacing** of the game.
-- **[Start Conference mode (PRO)](../tutorials/050-conference-booth.md)** — Host a conference-style quiz for larger audiences with assigned seating, team codes, and production tools. Like Party Games, conference games run automatically.
+- **[पार्टी गेम शुरू करो](../players/001-playing-quizwitz.md)** - दोस्तों के साथ आरामदेह क्विज़ अनुभव, एक स्क्रीन पर या स्क्रीन शेयरिंग के ज़रिए। गेम अपने आप चलता है; होस्ट इसे रोक सकता है, लेकिन उसके अलावा रफ़्तार पर उसका कोई नियंत्रण नहीं होता।
+- **[QuizWitz Live शुरू करो (PRO)](../quizmaster/001-introduction.md)** - Quizmaster ऐप के साथ पेशेवर लाइव क्विज़ इवेंट। यह **इकलौता ऐसा मोड है जिसमें गेम की रफ़्तार क्विज़मास्टर तय करता है**।
+- **[कॉन्फ़्रेंस मोड शुरू करो (PRO)](../tutorials/050-conference-booth.md)** - बड़ी ऑडियंस के लिए कॉन्फ़्रेंस-शैली का क्विज़, तय सीटों, टीम कोड और प्रोडक्शन टूल के साथ। पार्टी गेम की तरह, कॉन्फ़्रेंस गेम अपने आप चलते हैं।
 
 ---
 
