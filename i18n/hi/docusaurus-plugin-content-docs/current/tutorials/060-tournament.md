@@ -5,7 +5,7 @@ title: टूर्नामेंट
 
 # टूर्नामेंट
 
-यह ट्यूटोरियल आपको दिखाएगा कि QuizWitz टूर्नामेंट मोड का इस्तेमाल कैसे करें। टूर्नामेंट मोड में खिलाड़ी जब चाहें आपके क्विज़ में शामिल होकर खेल सकते हैं — अपने ही डिवाइस पर। उनके स्कोर एक ग्लोबल लीडरबोर्ड पर रिकॉर्ड होते हैं, जिसे आप अपने वेन्यू पर दिखा सकते हैं।
+यह ट्यूटोरियल आपको दिखाएगा कि QuizWitz टूर्नामेंट मोड का इस्तेमाल कैसे करें। Tournament mode lets players join and play your quiz whenever they want - on their own device. उनके स्कोर एक ग्लोबल लीडरबोर्ड पर रिकॉर्ड होते हैं, जिसे आप अपने वेन्यू पर दिखा सकते हैं।
 
 ---
 
@@ -16,7 +16,7 @@ title: टूर्नामेंट
 
 ### 🎲 रैंडम सवाल चयन
 
-गेम को अपने सवालों के पूल में से सवालों का एक रैंडम सेट चुनने दें, ताकि हर प्लेथ्रू यूनिक लगे — और वापस आने वाले खिलाड़ियों को अलग सवाल मिलें।
+Make the game select a random set of questions from your pool, so every playthrough feels unique - and returning players get different questions.
 
 **सेटअप उदाहरण:**
 
@@ -43,8 +43,8 @@ title: टूर्नामेंट
 
 अब आपको दो लिंक मिलेंगे:
 
-- **प्लेयर लिंक** — इसे अपने खिलाड़ियों के साथ शेयर करें (या उन्हें लीडरबोर्ड से QR कोड स्कैन करने दें)।
-- **लीडरबोर्ड लिंक** — लाइव रैंकिंग और खिलाड़ियों के शामिल होने के लिए स्कैन किए जा सकने वाले QR कोड को दिखाने के लिए इसे अपने वेन्यू पर किसी डिस्प्ले में खोलें।
+- **Player link** - Share this with your players (or let them scan the QR code from the leaderboard).
+- **Leaderboard link** - Open this on a display at your venue to show the live rankings and the QR code players can scan to join.
 
 ---
 
@@ -65,6 +65,6 @@ title: टूर्नामेंट
 
 ## 📧 ईमेल कन्फ़र्मेशन
 
-आपको एक ईमेल भी मिलेगा जिसमें प्लेयर और लीडरबोर्ड, दोनों लिंक होंगे — यह काम का है, ताकि वे खो न जाएँ!
+You'll also get an email containing both the player and leaderboard links - handy so you don't lose them!
 
 ![टूर्नामेंट ईमेल का स्क्रीनशॉट](/images/tutorials/tournament/tournament-email.png)
