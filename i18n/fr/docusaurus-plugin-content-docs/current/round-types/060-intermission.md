@@ -5,7 +5,7 @@ title: Pause
 
 # ⏸️ Pause
 
-**La pause** est une manche spéciale qui interrompt le quiz — idéale pour s'étirer, discuter ou promouvoir des sponsors.
+**Intermission** is a special event round that pauses the quiz for a break - ideal for stretching, chatting, or promoting sponsors.
 
 ---
 
@@ -23,7 +23,7 @@ title: Pause
 ## 🖼️ Pièces jointes
 
 - Vous pouvez télécharger des images, logos ou vidéos dans les paramètres de la manche.
-- Au cours de la pause, ces pièces jointes seront affichées dans un carrousel sur l'écran du jeu, ce qui est idéal pour les logos des commanditaires, les messages ou les vidéos promotionnelles.
+- During the intermission, these attachments will be shown in a carousel on the game screen - great for sponsor logos, messages, or promotional videos.
 - Les pièces jointes tourneront en boucle pendant toute la durée de la pause.
 
 ---
