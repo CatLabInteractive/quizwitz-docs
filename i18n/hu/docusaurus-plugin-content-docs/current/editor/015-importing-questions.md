@@ -47,14 +47,14 @@ Ha gyorsan sok kérdést szeretnél egyszerre létrehozni, használd az **Import
 
 Minden sornak a következő oszlopokat kell tartalmaznia pontosan ebben a sorrendben:
 
-1. **Rövid kérdés** — A játékos képernyőjén jelenik meg
+1. **Short question** - Displayed on the player screen
 2. **Helyes válasz**
 3. **Hibás válasz 1** (hagyd üresen nyitott kérdésekhez)
 4. **Hibás válasz 2**
 5. **Hibás válasz 3**
-6. **Rövid visszajelzés** — A játékos képernyőjén jelenik meg válaszadás után
-7. **Hosszú kérdés** _(opcionális)_ — A quizmaster képernyőjén jelenik meg
-8. **Hosszú visszajelzés** _(opcionális)_ — Magyarázat, amelyet a quizmaster felolvashat
+6. **Short feedback** - Displayed on the player screen after answering
+7. **Long question** _(optional)_ - Displayed on the quizmaster screen
+8. **Long feedback** _(optional)_ - Explanation for the quizmaster to read aloud
 
 > 📌 Az utolsó két oszlopot csak a [QuizWitz Live](../quizmaster/001-introduction.md) használja, de akkor is szerepelniük kell (még akkor is, ha üresen hagyod őket).
 
