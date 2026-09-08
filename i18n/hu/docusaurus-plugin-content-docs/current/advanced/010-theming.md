@@ -21,7 +21,7 @@ Bevett felállás, hogy a témát egy grafikus rajzolja meg, és valaki más rak
 
 ## 🧪 Tématesztelő eszköz
 
-Amikor készen állsz a témád tesztelésére, **zipeld be a dizájnmappád tartalmát** ( — ne magát a mappát; amikor megnyitod a zipet, a fájljaidat kell látnod, nem csak egyetlen mappát — ), majd töltsd fel a [tématesztelőnkbe](https://themes.quizwitz.com/). Így élő előnézetet kapsz arról, hogyan fog kinézni a témád a játékban.
+When you're ready to test your theme, **zip the contents of your design folder** ( - not the folder itself; when you open the zip, you should see your files, not just a single folder - ) and upload it to our [theme tester](https://themes.quizwitz.com/). Így élő előnézetet kapsz arról, hogyan fog kinézni a témád a játékban.
 
 Tesztelés után küldd el nekünk e-mailben a zip fájlt, mi pedig összekapcsoljuk a fiókoddal, hogy kiválaszthasd és használhasd a témádat a kvízeidben.
 
@@ -42,7 +42,7 @@ Minden egyedi dizájnnak tartalmaznia kell a QuizWitz logót.
 | Játékbevezető                                                     | Animáció a játék előtt.                                                                          | Várakozási képernyő.                                          |
 | Fordulóbevezető                                                   | Animáció minden forduló előtt.                                                                   | Várakozási képernyő.                                          |
 | Kérdések                                                          |                                                                                                                  |                                                                               |
-| Melléklet                                                         | Teljes képernyős mellékletnézet ( — kérdések vagy fordulók előtt/után — ).    | Várakozási képernyő.                                          |
+| Melléklet                                                         | Fullscreen attachment view ( - before/after questions or rounds - ).          | Várakozási képernyő.                                          |
 | Kérdés: feleletválasztós melléklet nélkül         | Kérdés + 4 feleletválasztós opció.                                                               | Feleletválasztós válaszképernyő.                              |
 | Kérdés: feleletválasztós melléklettel             | Kérdés + 4 feleletválasztós opció + egy vizuális melléklet.                                      | Feleletválasztós válaszképernyő.                              |
 | Kérdés: nyílt kérdés melléklet nélkül             | Csak a kérdés.                                                                                   | Szövegbevitel és beküldés gomb.                               |
