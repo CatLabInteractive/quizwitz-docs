@@ -13,7 +13,7 @@ title: Úvod
 - Pořádat profesionální kvízové akce s live nástroji
 - Vytvářet vlastní kvízy, kola, playlisty a další věci
 
-Ať už jsi tu kvůli odpočinku, prezentování, nebo tvoření — máme pro tebe vše potřebné.
+Whether you're here to relax, present, or build - we've got you covered.
 
 Udělej si chvilku a prozkoumej různé role a dostupné nástroje. Zabere to jen minutku.
 
@@ -23,11 +23,11 @@ Udělej si chvilku a prozkoumej různé role a dostupné nástroje. Zabere to je
 
 Tento průvodce je rozdělený do sekcí podle toho, jak QuizWitz používáš:
 
-- [**Průvodce hráče**](players/001-playing-quizwitz.md) — Nauč se sbírat, hrát a užívat si kvízy
-- [**Průvodce pro tvůrce kvízů**](editor/002-for-the-quizmakers.md) — Vytvářej vlastní otázky, kola a celé kvízy
-- [**Průvodce pro quizmaster**](quizmaster/001-introduction.md) — Pořádej živou hru pomocí QuizWitz Live
+- [**Player Guide**](players/001-playing-quizwitz.md) - Learn how to collect, play, and enjoy quizzes
+- [**Quizmaker Guide**](editor/002-for-the-quizmakers.md) - Build your own questions, rounds, and full quizzes
+- [**Quizmaster Guide**](quizmaster/001-introduction.md) - Host a live game using QuizWitz Live
 
-Prozkoumej sekce, které odpovídají tvé roli — nebo klidně všechny, pokud jsi zvědavý!
+Explore the sections that fit your role - or all of them if you're curious!
 
 ---
 
