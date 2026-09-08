@@ -23,10 +23,10 @@ Klik op het **tandwielicoon** linksboven in een vraag om het volledige instellin
 
 ### 🎮 Modus & scoring
 
-- **Vraagtype** — Kies hoe de vraag wordt gespeeld (bijv. multiple choice, open antwoord, puzzel)\
-  → Leer meer in [vraagtypes](../question-types/000-question-types.md)
-- **Punten** — Stel in hoeveel punten een correct antwoord waard is
-- **Vraag timer** — Pas de tijdslimiet aan met de schuifbalk
+- **Question type** - Choose how the question is played (e.g. multiple choice, open answer, puzzle)  
+  → Learn more in [question types](../question-types/000-question-types.md)
+- **Points** - Set how many points a correct answer is worth
+- **Question timer** - Adjust the time limit using the slider
 
 ---
 
@@ -34,12 +34,12 @@ Klik op het **tandwielicoon** linksboven in een vraag om het volledige instellin
 
 Pas aan hoe de vraag zich gedraagt tijdens het spel:
 
-- **Tijdgebaseerde scoring** — Beloon spelers die sneller antwoorden
-- **Meerdere juiste antwoorden** — Sta meer dan één geldig antwoord toe
-- **Willekeurige antwoordvolgorde** — Schud de opties op het scherm door elkaar
-- **Timer stoppen als iedereen heeft geantwoord** — Ga verder zodra alle antwoorden binnen zijn
-- **Resultaten van de vraag tonen** — Laat feedback zien na de vraag (of schakel het uit)
-- **Resultaten forceren na de vraag** — Geldt alleen wanneer feedback normaal gesproken wordt uitgesteld (bijv. in lightning rounds of open vragen). Voor standaardvragen zonder jury-interactie wordt de feedback automatisch na elke vraag getoond.
+- **Time-based scoring** - Reward players who answer more quickly
+- **Multiple correct answers** - Allow more than one valid choice
+- **Random answer order** - Shuffle the options on screen
+- **Stop timer when all answered** - Continue as soon as all responses are in
+- **Show question results** - Show feedback after the question (or disable it)
+- **Force results after question** - Only applies when feedback would normally be delayed (e.g., in lightning rounds or open questions). Voor standaardvragen zonder jury-interactie wordt de feedback automatisch na elke vraag getoond.
 
 ---
 
@@ -47,9 +47,9 @@ Pas aan hoe de vraag zich gedraagt tijdens het spel:
 
 Deze velden bepalen wat er in de Quizmaster App en op het spelscherm verschijnt:
 
-- **Spelscherm - Vraagfeedback** — Wordt aan alle spelers getoond nadat de feedback is onthuld
-- **Quizmaster - Lange vraag** — Een versie van de vraag die de quizmaster hardop voorleest
-- **Quizmaster - Lange feedback** — Tekst die de quizmaster kan voorlezen na het onthullen van het juiste antwoord
+- **Game screen - Question feedback** - Shown to all players after feedback is revealed
+- **Quizmaster - Long question** - A version of the question to be read aloud by the quizmaster
+- **Quizmaster - Long feedback** - Text the quizmaster can read after revealing the correct answer
 
 > 📝 Deze velden helpen live presentaties dynamisch en gepolijst te maken.
 
@@ -61,8 +61,8 @@ Deze velden bepalen wat er in de Quizmaster App en op het spelscherm verschijnt:
 
 Je kunt vragen verrijken met afbeeldingen, video of audio. Elke bijlage kan op specifieke momenten worden getoond:
 
-- **Voor / Tijdens / Na de vraag** — Getoond rond het moment dat de vraag wordt gepresenteerd
-- **Voor / Tijdens / Na feedback** — Getoond wanneer de resultaten worden onthuld
+- **Before / During / After Question** - Shown around the time the question is presented
+- **Before / During / After Feedback** - Shown when results are revealed
 - ...
 
 > 🧠 Bijlagen zijn vooral nuttig om spanning op te bouwen, antwoorden te illustreren of context te geven.
