@@ -25,13 +25,13 @@ Egy kör beállításainak konfigurálásához kattints a fogaskerék ikonra a k
 
 A legtöbb körtípusnál a következő beállítások érhetők el:
 
-- **Csak _X_ kérdés megjelenítése** — A kört egy adott számú kérdésre korlátozza
-- **Véletlenszerű kérdéssorrend** — Összekeveri a kérdések sorrendjét a körön belül
-- **Körbevezető megjelenítése** — Animált címet jelenít meg a kör kezdete előtt
-- **Körlezáró megjelenítése (köztes eredmény)** — Felfedi a rangsort a kör végén
-- **Minden visszajelzés csoportosítása egyetlen képernyőn** — A kérdések visszajelzéseit egy blokkban gyűjti össze a kör vége után
-- **Minden kérdés-visszajelzés megjelenítése a kör végén** — A kérdések visszajelzését a kör végéig késlelteti
-- **Visszajelzés kényszerítése minden egyes kérdés után** — Azonnali visszajelzést biztosít
+- **Only show _X_ questions** - Limits the round to a specific number of questions
+- **Random question order** - Shuffle the question order within the round
+- **Show round intro** - Display an animated title before the round begins
+- **Show round outro (interim score)** - Reveal rankings at the end of the round
+- **Group all feedback in a single screen** - Collect question feedback in one block after the round ends
+- **Show all question feedback at the end of the round** - Delay question feedback until the round ends
+- **Force feedback after each individual question** - Ensure immediate feedback
   > ⚠️ Ez csak azoknál a kör- és kérdéstípusoknál lép érvénybe, ahol a visszajelzés egyébként késleltetve lenne, például nyílt kérdéseknél vagy villámköröknél.
 
 📘 A visszajelzések időzítéséről és működéséről további információt a [kérdéstípusoknál](../question-types/000-question-types.md) találsz.
@@ -42,11 +42,11 @@ A legtöbb körtípusnál a következő beállítások érhetők el:
 
 A QuizWitz rugalmas pontozást kínál, hogy minden játékos számára igazságos és izgalmas maradjon a játék.
 
-- **Időalapú pontozás** — A játékosok több pontot kapnak a gyorsabb válaszokért.
+- **Time-based scoring** - Players earn more points for faster answers.
   - A legtöbb kérdéstípusnál az időalapú pontok **mikroszekundumonként folyamatosan** csökkennek: minél gyorsabban válaszolsz, annál több pontot szerzel.
   - **Nyílt kérdéseknél** az időalapú pontok blokkokra vannak osztva. Például: az első blokkban adott válaszok (pl. az első néhány másodpercben) az időalapú rész **100%**-át érik, a következő blokk **80%**-ot, és így tovább. Ez segít kiegyenlíteni az esélyeket a lassabban gépelők számára.
 
-- **Fix pontszázalék időalapú pontozásnál** — Te szabályozod, hogy az összpontszám mekkora részét befolyásolja a sebesség.
+- **Fixed percentage of points on time-based scoring** - You control how much of the total score is influenced by speed.
   - Alapértelmezés szerint a pontok **75%**-a fix (mindenki, aki helyesen válaszol, megkapja ezeket a pontokat, a sebességtől függetlenül).
   - Csak a fennmaradó **25%**-ot befolyásolja az, hogy milyen gyorsan válaszolnak a játékosok.
 
@@ -66,10 +66,10 @@ Megadhatsz egyedi **fordulóbevezető szöveget**, amely a forduló elején csak
 
 Dobd fel a körödet médiával, amely meghatározott pillanatokban jelenik meg:
 
-- **Kör előtt** — A körbevezető animáció után jelenik meg
-- **Kör után** — A körlezáró után jelenik meg
-- **Körlezáró előtt** — Az utolsó kérdés után, közvetlenül a lezáró előtt jelenik meg
-- **Körlezáró közben** — _(csak hang)_ A rangsor megjelenítése közben játszódik le
+- **Before round** - Displayed after the round intro animation
+- **After round** - Shown after the round outro
+- **Before round outro** - Shown after the last question, just before the outro
+- **During round outro** - _(audio only)_ Plays while rankings are displayed
 - ...
 
 📘 A támogatott fájltípusokért és használati tippekért nézd meg a [csatolmányok útmutatóját](../editor/006-attachments.md).
