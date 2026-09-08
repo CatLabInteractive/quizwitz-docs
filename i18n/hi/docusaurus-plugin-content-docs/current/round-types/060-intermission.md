@@ -5,7 +5,7 @@ title: इंटरमिशन
 
 # ⏸️ इंटरमिशन
 
-**इंटरमिशन** एक खास इवेंट राउंड है जो क्विज़ को ब्रेक के लिए रोक देता है—स्ट्रेच करने, बातचीत करने या स्पॉन्सर्स को प्रमोट करने के लिए बिल्कुल सही।
+**Intermission** is a special event round that pauses the quiz for a break - ideal for stretching, chatting, or promoting sponsors.
 
 ---
 
@@ -23,7 +23,7 @@ title: इंटरमिशन
 ## 🖼️ अटैचमेंट्स
 
 - आप राउंड सेटिंग्स में इमेज, लोगो या वीडियो अपलोड कर सकते हैं।
-- ब्रेक के दौरान ये अटैचमेंट गेम स्क्रीन पर एक कैरोसेल में दिखते हैं - स्पॉन्सर लोगो, संदेश या प्रचार वीडियो के लिए बढ़िया।
+- During the intermission, these attachments will be shown in a carousel on the game screen - great for sponsor logos, messages, or promotional videos.
 - ब्रेक की अवधि तक अटैचमेंट्स लूप में चलते रहेंगे।
 
 ---
