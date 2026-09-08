@@ -3,16 +3,16 @@ id: introduction
 title: Einführung
 ---
 
-# 🎤 QuizWitz Live – Einführung
+# 🎤 QuizWitz Live - Introduction
 
 ## Ein Quiz mit QuizWitz Live veranstalten
 
-Die wichtigste Voraussetzung für ein erfolgreiches QuizWitz Live-Event ist ein mitreißender quizmaster – jemand, der das Spiel steuert und die Stimmung hochhält. Der quizmaster führt den Ablauf des Quiz, liest die Fragen laut vor und sorgt mit dem gewissen Extra für Unterhaltung beim Publikum.
+The first ingredient for a successful QuizWitz Live event is an engaging quizmaster - someone who controls the game and keeps the energy high. Der quizmaster führt den Ablauf des Quiz, liest die Fragen laut vor und sorgt mit dem gewissen Extra für Unterhaltung beim Publikum.
 
 Um dein Event vollständig zu steuern, benutze die **Quizmaster-App**, die speziell für QuizWitz Live entwickelt wurde.  
 Du kannst QuizWitz Live direkt aus dem Quiz-Editor starten, indem du auf **‚Start QuizWitz Live‘** klickst.
 
-> 💡 **Hinweis:** Die Quizmaster-App ist eine **Web-App** – es gibt nichts zu installieren. Gehe einfach in deinem Browser auf [**quizwitz.tv**](https://quizwitz.tv), um sie auf deinem Gerät zu öffnen.
+> 💡 **Note:** The Quizmaster App is a **web app** - there's nothing to install. Gehe einfach in deinem Browser auf [**quizwitz.tv**](https://quizwitz.tv), um sie auf deinem Gerät zu öffnen.
 
 ---
 
@@ -20,7 +20,7 @@ Du kannst QuizWitz Live direkt aus dem Quiz-Editor starten, indem du auf **‚St
 
 Damit dein Quiz reibungslos und professionell abläuft, stelle sicher, dass du Folgendes hast:
 
-- **Ein großer Bildschirm oder Projektor**, der den Spielbildschirm zeigt — oder ein **Livestream**, der für alle Spieler zugänglich ist
+- **A large screen or projector** showing the game screen - or a **livestream** accessible to all players
 - **Ein Tablet oder einen Laptop** für den quizmaster, um das Spiel zu steuern und das Skript laut vorzulesen
 - **Einen Laptop oder ein Tablet** für die Jury (falls nötig), um offene Antworten zu bewerten
 - **Ein Gerät pro Spieler oder Team** (z. B. Smartphone oder Tablet) zum Einreichen der Antworten
