@@ -47,14 +47,14 @@ Um schnell viele Fragen auf einmal zu erstellen, benutze den Tab **Importieren a
 
 Jede Zeile muss die folgenden Spalten in genau dieser Reihenfolge enthalten:
 
-1. **Kurze Frage** — Wird auf dem Spielerbildschirm angezeigt
+1. **Short question** - Displayed on the player screen
 2. **Richtige Antwort**
 3. **Falsche Antwort 1** (leer lassen bei offenen Fragen)
 4. **Falsche Antwort 2**
 5. **Falsche Antwort 3**
-6. **Kurzes Feedback** — Wird nach der Beantwortung auf dem Spielerbildschirm angezeigt
-7. **Lange Frage** _(optional)_ — Wird auf dem Quizmaster-Bildschirm angezeigt
-8. **Langes Feedback** _(optional)_ — Erklärung, die der Quizmaster vorlesen kann
+6. **Short feedback** - Displayed on the player screen after answering
+7. **Long question** _(optional)_ - Displayed on the quizmaster screen
+8. **Long feedback** _(optional)_ - Explanation for the quizmaster to read aloud
 
 > 📌 Die letzten zwei Spalten werden nur in [QuizWitz Live](../quizmaster/001-introduction.md) verwendet, müssen aber dennoch enthalten sein (auch wenn sie leer sind).
 
