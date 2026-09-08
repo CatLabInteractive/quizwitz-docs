@@ -5,7 +5,7 @@ title: Traditionell
 
 # 📝 Traditionell
 
-Eine **Traditionell**-Runde simuliert das klassische Pub-Quiz-Format, bei dem Spieler ihre Antworten bis zum Ende der Runde ändern können – genau wie beim Abgeben deines Antwortbogens im Pub!
+A **Traditional** round simulates the classic pub quiz format, where players can change their answers until the end of the round - just like handing in your answer sheet at the pub!
 
 ---
 
