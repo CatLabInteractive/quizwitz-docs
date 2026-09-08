@@ -7,7 +7,7 @@ title: Quizmaster ऐप
 
 quizmaster के तौर पर, QuizWitz Live गेम का पूरा कंट्रोल आपके हाथ में होता है। जानने वाली सबसे ज़रूरी बात ये है:
 
-> गेम **तभी आगे बढ़ता है जब तुम क्लिक करते हो** - जब तक तुम न कहो, गेम स्क्रीन पर कुछ नहीं हिलता।
+> The game **only progresses when you click** - nothing moves on the game screen until you tell it to.
 
 इससे आपको रफ़्तार और टाइमिंग पर पूरा कंट्रोल मिलता है, लेकिन इसका मतलब यह भी है कि आपको काफ़ी टैप करना होगा। चलिए देखते हैं कि ऐप कैसे काम करता है।
 
@@ -36,13 +36,13 @@ Quizmaster ऐप में हर सवाल की अपनी स्क्
 
 आपको ये दिखेगा:
 
-- **सवाल नंबर** — जैसे `1.1` का मतलब है पहले राउंड का पहला सवाल
-- **सवाल का प्रकार** — जैसे Multiple Choice, संबंधित स्कोरिंग मॉडिफ़ायर के साथ
-- **सवाल का लंबा संस्करण** — ताकि आप उसे ज़ोर से पढ़ सकें
-- **सवाल की जानकारी** — जिसमें टाइमर की अवधि और उपलब्ध पॉइंट्स शामिल हैं
-- **छोटा सवाल** - वह रूप जो गेम स्क्रीन पर दिखता है
-- **सवाल शुरू करने वाला बटन** — टाइमर तुरंत शुरू करता है
-- **संभावित जवाब** — सही क्रम में दिखाए जाते हैं (Multiple Choice के लिए)
+- **Question number** - e.g. `1.1` means the first question of the first round
+- **Question type** - such as Multiple Choice, with relevant scoring modifiers
+- **Long version of the question** - for you to read out loud
+- **Question info** - including timer duration and available points
+- **Short question** - the version shown on the game screen
+- **Start question button** - immediately starts the timer
+- **Possible answers** - displayed in the correct order (for multiple choice)
 
 सवाल आपके ऐप में तब तक दिखता रहेगा जब तक इनमें से कोई एक बात न हो जाए:
 
@@ -55,7 +55,7 @@ Quizmaster ऐप में हर सवाल की अपनी स्क्
 
 ### ✅ सवाल का फ़ीडबैक
 
-सवाल खत्म होने के बाद, सही जवाब दिखाया जाता है। आपको क्या दिखेगा यह सवाल के प्रकार पर निर्भर करता है — इस उदाहरण में Multiple Choice रिज़ल्ट स्क्रीन दिखाई गई है:
+सवाल खत्म होने के बाद, सही जवाब दिखाया जाता है। What you see depends on the question type - this example shows a multiple choice result screen:
 
 ![Quizmaster ऐप - सवाल का फ़ीडबैक](/images/quizmaster-app-question-feedback.png)
 
@@ -64,10 +64,10 @@ Quizmaster ऐप में हर सवाल की अपनी स्क्
 - **सवाल नंबर**
 - **छोटे सवाल का टेक्स्ट**
 - **सही जवाब**
-- **जवाबों का वितरण** — संख्या और प्रतिशत में
-- **लंबा फ़ीडबैक** — ज़ोर से पढ़ने के लिए अतिरिक्त जानकारी
-- **Continue बटन** — अगले सवाल पर ले जाता है
-- **सबसे तेज़ 100 जवाब** — स्क्रीन के नीचे दिखाए जाते हैं
+- **Answer spread** - in numbers and percentages
+- **Long feedback** - extra info to read aloud
+- **Continue button** - advances to the next question
+- **Fastest 100 answers** - shown at the bottom of the screen
 
 ---
 
@@ -93,14 +93,14 @@ outro के दौरान खिलाड़ी अपने डिवाइ�
 
 ### 🏆 क्विज़ का अंत
 
-क्विज़ के अंत में, **winner reveal पार्टी** का समय होता है — कंफ़ेटी और स्क्रीन पर उड़ते खिलाड़ियों के इमोजी के साथ।
+At the end of the quiz, it’s time for a **winner reveal party** - complete with confetti and player emojis flying across the screen.
 
 ![QuizWitz - गेम आउट्रो गेम स्क्रीन](/images/game-outro.png)
 
 - डिफ़ॉल्ट सेटिंग **टॉप 12 खिलाड़ी** दिखाती है
 - आप **advanced game settings** में यह कस्टमाइज़ कर सकते हैं कि कितने खिलाड़ी दिखें
 
-> 🎉 मज़ेदार टिप: आपके खिलाड़ी जो इमोजी चुनेंगे, वह स्क्रीन पर नाचेगा — भले ही उन्होंने मुस्कुराता हुआ पूप चुना हो।
+> 🎉 Fun tip: The emoji your players choose will dance around the screen - even if they picked the smiling turd.
 
 ---
 
