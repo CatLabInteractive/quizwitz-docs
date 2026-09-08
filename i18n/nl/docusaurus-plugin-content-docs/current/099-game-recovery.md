@@ -6,13 +6,13 @@ sidebar_position: 1000
 
 # ⚠️ Crashherstel in QuizWitz Live
 
-Is je spel vastgelopen? Is het tabblad per ongeluk gesloten? [**QuizWitz Live**](quizmaster/001-introduction.md) bevat een ingebouwd herstelsysteem om je weer op weg te helpen — zonder je voortgang te verliezen.
+Is je spel vastgelopen? Is het tabblad per ongeluk gesloten? [**QuizWitz Live**](quizmaster/001-introduction.md) includes a built-in recovery system to help you get back on track - without losing your progress.
 
 ---
 
 ## 🔄 Hoe spelherstel werkt
 
-Als je spel crasht, vastloopt of om welke reden dan ook wordt onderbroken — of dat nu door een browserprobleem, systeemherstart of per ongeluk sluiten van een tabblad is — dan kun je de sessie makkelijk hervatten.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the session easily.
 
 **Open gewoon hetzelfde browsertabblad opnieuw** waarin je het **spelscherm** toonde. Dit is het scherm dat je projecteert of streamt naar je publiek.
 
@@ -48,7 +48,7 @@ Je kunt ook kiezen om **een nieuw spel te starten**.
 ## 💡 Goed om te weten
 
 - Herstel werkt alleen als je **terugkeert naar hetzelfde gamescherm in dezelfde browser**
-- Navigeer **niet** naar een andere pagina — open de **exacte URL** die je gebruikte om het spel te hosten opnieuw.
+- Do **not** navigate to a different page - reopen the **exact URL** you were using to host the game
 - Deze functie helpt te herstellen bij:
   - Browsercrashes
   - Het spel dat vastloopt of niet reageert tijdens de quiz
@@ -56,4 +56,4 @@ Je kunt ook kiezen om **een nieuw spel te starten**.
 
 ---
 
-Met gameherstel kun je met vertrouwen hosten — wetende dat zelfs als er iets misgaat, je gewoon kunt verdergaan waar je gebleven was.
+With game recovery, you can host confidently - knowing that even if something goes wrong, you can pick up right where you left off.
