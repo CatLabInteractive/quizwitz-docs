@@ -3,7 +3,7 @@ id: mobile
 title: Browser mobili
 ---
 
-# 📱 Browser mobili — Limitazioni per l'hosting
+# 📱 Mobile browsers - Hosting limitations
 
 QuizWitz è ottimizzato per l'uso su **computer desktop e laptop**. Anche se tecnicamente è possibile ospitare giochi **QuizWitz Live** o **Conference** su tablet o smartphone, **sconsigliamo** di usare dispositivi **Android** o **iOS** per avviare il gioco.
 
@@ -41,4 +41,4 @@ Per prestazioni e stabilità migliori:
 
 ---
 
-Per l'hosting, una configurazione affidabile è fondamentale: i dispositivi mobili dovrebbero essere usati solo come ultima risorsa.
+For hosting, a reliable setup is key - mobile devices should be used only as a last resort.
