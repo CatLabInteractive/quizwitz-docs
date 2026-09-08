@@ -45,14 +45,14 @@ Bármikor rendszerezheted, lejátszhatod vagy eltávolíthatod az elemeket. Ez a
 
 ## 🧠 Válassz egy Round-Aboutot
 
-A **Round-About** is a small, themed round of questions — as the name says, a round _about_ a subject. Ha csak eggyel játszol, egy rövid játékot kapsz 7 véletlenszerű kérdéssel.
+A **Round-About** egy kicsi, tematikus kérdéskör - ahogy a neve is mondja, egy forduló _egy_ témáról. Ha csak eggyel játszol, egy rövid játékot kapsz 7 véletlenszerű kérdéssel.
 
 Ha részletesebben szeretnél megnézni egy Round-Aboutot:
 
 - Kattints a **képére**, a **címére** vagy a **megjegyzések ikonra**
 - Kattints a **Játék** gombra, hogy azonnal belevágj
 
-![QuizWitz Round-About details](/images/round-about-details.png)
+![QuizWitz - Round-About részletei](/images/round-about-details.png)
 
 ---
 
@@ -107,17 +107,17 @@ Amint elindul a játék, válaszd ki a módot:
 
 Játssz a barátaiddal a saját telefonjaik vagy táblagépeik használatával:
 
-> 📺 Make sure the game screen is visible — use a shared display or screen share
+> 📺 Győződj meg róla, hogy a játékképernyő látható - használj közös kijelzőt vagy képernyőmegosztást
 
 1. Kattints a **Start** gombra, majd a **Társas játék** elemre
 2. A játékosok a képernyőn megjelenő utasításokat követve csatlakoznak
 3. Kattints a **Kvíz indítása** gombra, amikor mindenki készen áll
 
-Once the quiz starts, **the game runs automatically** — questions appear, timers count down, and scores are tallied without any host intervention.
+Amint a kvíz elindul, **a játék automatikusan fut** - a kérdések megjelennek, az időzítők visszaszámolnak, a pontok összeadódnak, házigazdai beavatkozás nélkül.
 
-> ⏸️ Need a break? Move your mouse to the bottom of the game screen and a **pause** button will appear. Pausing is the only way to interrupt a Party Game.
+> ⏸️ Szünetre van szükséged? Vidd az egeret a játékképernyő aljára, és megjelenik egy **szünet** gomb. A szüneteltetés az egyetlen módja egy Party játék megszakításának.
 >
-> Want to control the pacing of the game yourself — deciding when each question starts? That's only possible with [**QuizWitz Live**](../quizmaster/001-introduction.md) and the Quizmaster App.
+> Magad szeretnéd irányítani a játék tempóját - eldönteni, mikor induljon az egyes kérdés? Ez csak a [**QuizWitz Live**](../quizmaster/001-introduction.md) és a Quizmaster app segítségével lehetséges.
 
 ![QuizWitz kezdőképernyő](/images/quizwitz-start-screen.png)  
 ![QuizWitz kezdőképernyő társas játékhoz](/images/quizwitz-start-screen-party.png)  
