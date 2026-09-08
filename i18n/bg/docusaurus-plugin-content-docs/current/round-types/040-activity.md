@@ -61,4 +61,4 @@ title: Активност
 
 ---
 
-Рундът с активност е идеален за интерактивни предизвикателства, дуели или творчески задачи — чудесен начин да добавиш енергия и разнообразие към твоето QuizWitz събитие!
+The Activity round is perfect for interactive challenges, duels, or creative tasks - a great way to add energy and variety to your QuizWitz event!
