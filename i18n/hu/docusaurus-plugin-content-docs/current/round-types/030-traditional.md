@@ -5,7 +5,7 @@ title: Hagyományos
 
 # 📝 Hagyományos
 
-A **Hagyományos** kör a klasszikus kocsmai kvíz formátumát idézi: a játékosok a kör végéig módosíthatják a válaszaikat — pont úgy, mintha a kocsmában adnák le a válaszlapjukat!
+A **Traditional** round simulates the classic pub quiz format, where players can change their answers until the end of the round - just like handing in your answer sheet at the pub!
 
 ---
 
