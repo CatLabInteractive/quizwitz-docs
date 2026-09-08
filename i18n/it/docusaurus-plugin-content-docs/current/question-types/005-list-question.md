@@ -5,7 +5,7 @@ title: Domanda a elenco
 
 # 📝 Domanda a elenco
 
-Una **domanda a elenco** chiede ai giocatori di fornire diverse risposte corrette da un elenco più ampio — perfetta per richieste come “Elenca i primi 5 presidenti degli Stati Uniti d’America” o “Nomina tre elementi della tavola periodica.”
+A **List question** asks players to provide several correct answers from a larger list - perfect for prompts like “List the first 5 presidents of the United States of America” or “Name three elements in the periodic table.”
 
 ---
 
@@ -18,7 +18,7 @@ Una **domanda a elenco** chiede ai giocatori di fornire diverse risposte corrett
 - **Domanda:** Indica chiaramente cosa vuoi che i giocatori elenchino.
 - **Elementi dell’elenco:** Inserisci tutte le possibili risposte corrette.
   - Contrassegnane alcune come **‘Già fornite’** per mostrarle come esempi sullo schermo; NON devono essere inserite come risposte.
-  - L’ordine **non** conta — i giocatori possono inserire le risposte corrette in qualsiasi ordine.
+  - Order does **not** matter - players can enter correct answers in any order.
 - **Inserimento del giocatore:** I giocatori devono fornire un numero prestabilito di risposte (ad es. tra 1 e 5). Vengono assegnati punti per ogni risposta corretta inviata.
 - **Allegati:** Aggiungi immagini, audio o video per dare contesto. Compila l’attribuzione se pubblichi.
 
@@ -43,7 +43,7 @@ Una **domanda a elenco** chiede ai giocatori di fornire diverse risposte corrett
   - I punti disponibili vengono suddivisi in blocchi di tempo (non al millisecondo).  
     Ad esempio: punteggio pieno nel primo blocco, 80% nel successivo, e così via.
   - **Solo il 25%** dei punti dipende dalla velocità.  
-    Il restante **75%** è fisso — quindi anche chi digita più lentamente ottiene la maggior parte dei punti se risponde correttamente.
+    The other **75%** is fixed - so even slower typers get most of the points if they answer correctly.
   - Questo riduce la penalità legata alla velocità di digitazione e rende il punteggio più equo per tutti.
 
 Per i dettagli, vedi le [opzioni di punteggio del round](../editor/008-round-options.md#scoring).
