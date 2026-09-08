@@ -5,7 +5,7 @@ title: Stand in conferenza
 
 # Stand in conferenza
 
-Questo tutorial ti mostrerà come usare QuizWitz al tuo stand in conferenza — un modo facile e interattivo per attirare visitatori e raccogliere lead!
+This tutorial will show you how to run QuizWitz at your conference booth - an easy, interactive way to attract visitors and gather leads!
 
 ![Una foto di uno stand Marvel in conferenza che usa QuizWitz](/images/photos/marvel.jpg)
 
@@ -14,19 +14,19 @@ Questo tutorial ti mostrerà come usare QuizWitz al tuo stand in conferenza — 
 ## 📝 Creare il quiz
 
 Quando crei un quiz per uno stand in conferenza, tieni presente che alcuni giocatori potrebbero fermarsi per più partite.  
-Per mantenere tutto sempre interessante, assicurati di avere tante domande — abbastanza da poterle randomizzare e rendere ogni partita unica.
+To keep things fresh, make sure you have plenty of questions - enough to randomize and make each playthrough unique.
 
 **Configurazione consigliata:**
 
 - 15 domande divise in 3 round
-- Crea almeno 3× quel numero di domande per avere varietà — più ce ne sono, meglio è!
+- Create at least 3× that many questions for variety - more is better!
 
 ### 🎲 Creazione del quiz passo dopo passo
 
 1. **Scegli “Quiz”** nel menu Crea e dai un nome al tuo quiz. Imposta la lingua corretta.
 2. **Aggiungi 3 round** e dai loro un nome (per esempio: Round 1, Round 2, Round 3).
 3. Nelle **impostazioni del round** (icona a ingranaggio), abilita **“Mostra solo x domande”** e imposta il numero su 5.  
-   Abilita anche **“Ordine casuale delle domande”** — altrimenti il gioco sceglierà sempre le prime 5 domande.  
+   Also enable **“Random question order”** - otherwise the game will always pick the first 5 questions.  
    Ripeti per ogni round.
 
 ![Screenshot delle impostazioni del round per uno stand in conferenza](/images/tutorials/conference/round_settings.png)
@@ -35,7 +35,7 @@ Per mantenere tutto sempre interessante, assicurati di avere tante domande — a
    Puoi [scrivere domande](../editor/005-writing-questions.md) o usare il pulsante Importa per aggiungere rapidamente contenuti da Excel.
 
 :::tip
-Usa tante immagini e clip video — rendono il gioco molto più divertente!
+Use lots of images and video clips - they make the game much more entertaining!
 :::
 
 ---
@@ -54,7 +54,7 @@ Il modo più veloce per avviare il tuo quiz da conferenza:
 2. Seleziona **Avvia modalità conferenza**.
 
 In questa modalità, i giocatori usano i loro telefoni per connettersi al link di gioco sulla schermata di gioco.  
-Quando tutti sono pronti, l’host dello stand preme Invio — e il gioco parte automaticamente.  
+When everyone is ready, the booth host presses Enter - and the game runs automatically.  
 Al termine del gioco, premendo Invio torni subito alla schermata di connessione per il gruppo successivo.
 
 ---
@@ -67,7 +67,7 @@ Otterrai un link unico con tutte le opzioni che hai scelto.
 
 - **Chiedi l’email ai giocatori:**  
   Raccogli le email dei visitatori per il tuo stand! Se abiliti questa opzione, assicurati di impostare anche l’**URL dell’informativa sulla privacy**.
-- Quando avvii un gioco tramite il link delle opzioni avanzate, potrebbe esserti richiesto di accedere prima di iniziare — serve a controllare i tuoi contenuti e le licenze.
+- When launching a game via the advanced options link, you may be prompted to log in before starting - this checks your content and licenses.
 
 ![Screenshot delle impostazioni avanzate del gioco](/images/tutorials/conference/advanced_game_settings.png)
 
