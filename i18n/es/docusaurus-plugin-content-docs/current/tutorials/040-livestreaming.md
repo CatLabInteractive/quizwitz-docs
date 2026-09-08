@@ -5,7 +5,7 @@ title: Quiz en directo
 
 # 📺 Organizando un quiz en directo
 
-Con QuizWitz Live, es fácil organizar un quiz totalmente interactivo en directo en plataformas como **Twitch**, **YouTube Live** o **Facebook Live** — incluso para grandes audiencias. Esta guía te lleva paso a paso por la configuración, manejo del retraso y mejores prácticas de presentación.
+With QuizWitz Live, it’s easy to host a fully interactive livestream quiz on platforms like **Twitch**, **YouTube Live**, or **Facebook Live** - even for large audiences. Esta guía te lleva paso a paso por la configuración, manejo del retraso y mejores prácticas de presentación.
 
 > 🧭 Si eres nuevo en la Quizmaster App, empieza con la [**Guía de inicio del quizmaster**](../quizmaster/002-startup.md).
 
@@ -17,7 +17,7 @@ El quizmaster es el corazón de tu evento. Controla el ritmo, presenta las pregu
 
 Usa la **Quizmaster App** para ejecutar el juego. Lanza QuizWitz Live desde el editor de quiz haciendo clic en **Iniciar QuizWitz Live**.
 
-> 💡 La Quizmaster App es una **aplicación web** — no hay instalación. Solo ve a [**quizwitz.tv**](https://quizwitz.tv) en tu dispositivo de quizmaster e introduce el **código de quizmaster**.
+> 💡 The Quizmaster App is a **web app** - there’s no installation. Solo ve a [**quizwitz.tv**](https://quizwitz.tv) en tu dispositivo de quizmaster e introduce el **código de quizmaster**.
 
 Recomendamos usar una **tablet o smartphone** para que el quizmaster pueda moverse libremente durante el show.
 
@@ -27,17 +27,17 @@ Recomendamos usar una **tablet o smartphone** para que el quizmaster pueda mover
 
 Cuando inicies QuizWitz Live, se te pedirá que elijas cómo se conectan los jugadores:
 
-- **Códigos de equipo** — Los jugadores o equipos reciben cada uno un código único. Útil para eventos de equipos pre-registrados.
-- **Código de juego compartido** — Un código compartido para todos los jugadores. Lo mejor para directos con registro abierto.
+- **Team codes** - Players or teams each receive a unique code. Útil para eventos de equipos pre-registrados.
+- **Single game code** - One shared game code for all players. Lo mejor para directos con registro abierto.
 
 > Para las transmisiones en vivo, elige siempre el **Código de juego compartido** y haz clic en _Iniciar juego_.
 
 Una vez que se cargue el quiz, la Quizmaster App mostrará lo siguiente:
 
-- **Código de quizmaster** — para el quizmaster
-- **Código del jurado** — para revisar preguntas abiertas
-- **Código regie** — para controlar visuales/audio
-- **Código de juego** — para que los jugadores se unan
+- **Quizmaster code** - for the quizmaster
+- **Jury Code** - for reviewing open questions
+- **Regie Code** - for controlling visuals/audio
+- **Game Code** - for players to join
 
 Tu pantalla de juego ahora muestra la **pantalla de conexión**, que es lo que debes transmitir a tu audiencia.
 
@@ -47,7 +47,7 @@ Tu pantalla de juego ahora muestra la **pantalla de conexión**, que es lo que d
 
 Para transmitir tu quiz, usa software de transmisión. Recomendamos:
 
-- **OBS Studio** (Open Broadcast Software) — gratis y potente
+- **OBS Studio** (Open Broadcast Software) - free and powerful
 - Alternativas: Streamlabs, vMix, o opciones nativas para Zoom/Meet
 
 Si usas **software de reuniones** como Zoom o Google Meet:
@@ -58,7 +58,7 @@ Si usas **software de reuniones** como Zoom o Google Meet:
 
 Para **Twitch, YouTube Live o Facebook Live**, experimentarás un **retraso de transmisión** (también llamado retraso de transcodificación).
 
-> ✅ Recomendamos **Twitch** para mejores resultados — ofrece consistentemente bajo retardo y buena sincronización con los espectadores.
+> ✅ We recommend **Twitch** for best results - it consistently offers low-latency performance and good viewer sync.
 
 ---
 
@@ -68,7 +68,7 @@ Para compensar el retraso de la transmisión, utiliza el **retraso de interacci�
 
 Así es como:
 
-1. Inicia la vista previa de tu transmisión — no necesitas ir en vivo aún
+1. Start your stream preview - no need to go live yet
 2. Abre la **app del jurado** introduciendo tu código del jurado en [**quizwitz.tv**](https://quizwitz.tv)
 3. Ve a **Control del juego**
 4. Abre tu livestream en otra ventana, con sonido
@@ -88,15 +88,15 @@ Una vez que el retraso esté configurado y tus jugadores conectados:
 
 - Inicia tu transmisión en Twitch
 - Usa la Quizmaster App para **iniciar el quiz**
-- QuizWitz manejará el tiempo en segundo plano — no es necesario pausar entre preguntas
+- QuizWitz will handle timing in the background - no need to pause between questions
 
 ---
 
 ## 💡 Consejos para la presentación en directo
 
-- **No dejes que el quizmaster vea la transmisión retrasada** — debe usar solo la Quizmaster App en directo para evitar pausas incómodas.
+- **Do not let the quizmaster watch the delayed stream** - they should use only the live Quizmaster App to avoid awkward pauses.
 
-- Para interactuar con la audiencia, monitorea los **comentarios en vivo** en una pantalla separada — no el flujo de vídeo.
+- To interact with the audience, monitor **live comments** on a separate screen - not the video feed.
 
 - ¿Quieres cambiar escenas de OBS automáticamente? Usa:  
   [`https://regie.catlab.eu/obs.html`](https://regie.catlab.eu/obs.html)
@@ -104,10 +104,10 @@ Una vez que el retraso esté configurado y tus jugadores conectados:
 - ¿Quieres activar dispositivos MIDI durante el juego? Prueba:  
   [`https://regie.catlab.eu/midi.html`](https://regie.catlab.eu/midi.html)
 
-- ¿Buscas más herramientas? Visita [**regie.catlab.eu**](https://regie.catlab.eu) — un centro con utilidades adicionales para automatización, cambio de escenas, efectos y más.
+- ¿Buscas más herramientas? Visit [**regie.catlab.eu**](https://regie.catlab.eu) - a central hub with additional utilities for automation, scene switching, effects, and more.
 
 > Todas las herramientas requieren tu **código regie** de la Quizmaster App.
 
 ---
 
-¡Estás listo/a para salir en vivo! Twitch ofrece una plataforma fluida y receptiva para organizar eventos de quiz a gran escala. Combina eso con QuizWitz Live — y tu noche de quiz estará lista para impresionar.
+¡Estás listo/a para salir en vivo! Twitch ofrece una plataforma fluida y receptiva para organizar eventos de quiz a gran escala. Combine that with QuizWitz Live - and your quiz night is set to impress.
