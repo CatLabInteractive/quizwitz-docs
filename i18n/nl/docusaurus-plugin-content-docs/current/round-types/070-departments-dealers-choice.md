@@ -25,8 +25,8 @@ title: Afdelingen - Dealer's Choice
   - Hoogst gerangschikt eerst
   - Willekeurig
 - **Dealer afdeling:**
-  - _Alleen dealer mag spelen_ - Alleen de geselecteerde dealer beantwoordt de vraag
-  - _Alle spelers in de afdeling van de dealer kunnen spelen_ — Iedereen in de afdeling kan antwoorden en punten scoren
+  - _Only dealer may play_ - Only the selected dealer answers the question
+  - _All players in dealer’s department may play_ - Everyone in the department can answer and score points
 - **Dealerbonus:** Stel een bonuspercentage in voor de dealer (indien ingeschakeld).
 
 ---
