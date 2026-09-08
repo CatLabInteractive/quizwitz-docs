@@ -23,9 +23,9 @@ Elke pagina legt uit wanneer deze bijlagen tijdens het spel worden getoond.
 
 Hier is een algemene (incomplete) lijst van compatibele formaten:
 
-- **Afbeeldingen** — `.png`, `.jpeg`, `.gif` (niet-geanimeerd). Full HD (1920×1080) aanbevolen
-- **Audio** — De meeste standaardformaten worden ondersteund
-- **Video** — De meeste standaardformaten worden ondersteund
+- **Images** - `.png`, `.jpeg`, `.gif` (non-animated). Full HD (1920×1080) aanbevolen
+- **Audio** - Most standard formats are supported
+- **Video** - Most standard formats are supported
 
 > 🔊 ⏱️ Audio- en video-bijlagen mogen **niet langer zijn dan 15 minuten**.
 
@@ -35,8 +35,8 @@ Hier is een algemene (incomplete) lijst van compatibele formaten:
 
 Elke bijlage kan een naam en optionele bronvermelding hebben:
 
-- **Naam** - Weergegeven aan de quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); helpt bij het organiseren van bijlagen
-- **Toeschrijving** — Getoond aan spelers als krediet- of broninformatie. Dit moet de **naam van de rechthebbende** zijn.
+- **Name** - Displayed to the quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); helps in organizing attachments
+- **Attribution** - Shown to players as credit or source information. Dit moet de **naam van de rechthebbende** zijn.
 
 > ⚠️ Om een Round-About of Quiz te **publiceren**, moeten **alle bijlagen een geldige attributie** hebben. Zonder deze informatie kan je inzending niet openbaar gemaakt worden.
 
@@ -46,8 +46,8 @@ Elke bijlage kan een naam en optionele bronvermelding hebben:
 
 Sommige bijlagevelden ondersteunen **effecten** om visuals geleidelijker te tonen:
 
-- **Geen** — Het bestand wordt zoals het is weergegeven
-- **Spotlight-effect** — Toont delen van de afbeelding langzaam door een bewegende spotlight die zich uitstrekt terwijl het vordert
+- **None** - The file is shown as-is
+- **Spotlight effect** - Gradually reveals parts of the image over time with a moving spotlight that expands as it progresses
 
 Dit werkt vooral goed bij puzzels of trage onthullingen tijdens intro’s of dramatische momenten.
 
