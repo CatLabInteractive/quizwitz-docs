@@ -5,7 +5,7 @@ title: राउंड प्रकार
 
 # राउंड प्रकार
 
-राउंड प्रकार यह तय करता है कि गेम खिलाड़ियों को सवाल कैसे दिखाता है — और खिलाड़ी पॉइंट्स कैसे कमाते हैं।  
+The round type influences the way the game shows the questions to the players - and how players earn points.  
 क्विज़ में, आप स्क्रीन के सबसे ऊपर बीच में मौजूद **राउंड प्रकार** चुनने वाले फ़ील्ड में राउंड प्रकार बदल सकते हैं।
 
 ## 🧠 नियमित राउंड
@@ -29,12 +29,12 @@ title: राउंड प्रकार
 ये राउंड प्रकार हर राउंड के बाद "पेपर जमा करने" जैसा अनुभव देते हैं।
 
 - [पारंपरिक](030-traditional.md)
-- [पारंपरिक — कॉमन थ्रेड](031-traditional-ct.md)
+- [Traditional - Common thread](031-traditional-ct.md)
 - [अल्फ़ाबेट](032-alphabet.md)
 
 ## 🎉 लाइव इवेंट्स
 
-इन राउंड प्रकारों में कोई सवाल नहीं होते — बल्कि ये गेम के नतीजे को प्रभावित करते हैं।
+These round types do not contain any questions - but instead influence the outcome of the game.
 
 - [गतिविधि](040-activity.md)
 - [इंटरमिशन](060-intermission.md)
@@ -46,5 +46,5 @@ title: राउंड प्रकार
 
 इन राउंड प्रकारों में, आप खास **विभाग** चुन सकते हैं, जो दूसरे विभागों के खिलाफ खेलते हैं।
 
-- [विभाग - डीलर्स चॉइस](070-departments-dealers-choice.md)
-- [विभाग — एलिमिनेशन](071-departments-elimination.md)
+- [Department - Dealer's Choice](070-departments-dealers-choice.md)
+- [Department - Elimination](071-departments-elimination.md)
