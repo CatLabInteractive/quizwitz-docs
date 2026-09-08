@@ -5,7 +5,7 @@ title: Типове рундове
 
 # Типове рундове
 
-Типът рунд влияе на начина, по който играта показва въпросите на играчите — и на това как играчите печелят точки.  
+The round type influences the way the game shows the questions to the players - and how players earn points.  
 В куизовете можеш да промениш типа рунд в полето за избор **Тип рунд** горе по средата на екрана.
 
 ## 🧠 Обикновени рундове
@@ -29,12 +29,12 @@ title: Типове рундове
 Тези типове рундове симулират "предаването на листите" след всеки рунд.
 
 - [Традиционен](030-traditional.md)
-- [Традиционен — обща нишка](031-traditional-ct.md)
+- [Traditional - Common thread](031-traditional-ct.md)
 - [Азбука](032-alphabet.md)
 
 ## 🎉 Събития на живо
 
-Тези типове рундове не съдържат въпроси — вместо това влияят на изхода от играта.
+These round types do not contain any questions - but instead influence the outcome of the game.
 
 - [Активност](040-activity.md)
 - [Антракт](060-intermission.md)
@@ -46,5 +46,5 @@ title: Типове рундове
 
 В тези типове рундове можеш да избереш конкретни **отдели**, които да играят срещу други отдели.
 
-- [Отдели - Dealer's Choice](070-departments-dealers-choice.md)
-- [Отдел — елиминация](071-departments-elimination.md)
+- [Department - Dealer's Choice](070-departments-dealers-choice.md)
+- [Department - Elimination](071-departments-elimination.md)
