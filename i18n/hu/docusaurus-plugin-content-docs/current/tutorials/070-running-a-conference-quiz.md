@@ -5,7 +5,7 @@ title: Konferenciai kvíz futtatása
 
 # Konferenciai kvíz futtatása
 
-Ez az útmutató végigvezet mindenen, amit tudnod kell egy QuizWitz kvíz futtatásához egy konferencia standján vagy eseményen — a kvízlink megnyitásától egészen a végső ranglistáig.
+This guide walks you through everything you need to know to run a QuizWitz quiz at a conference booth or event - from opening the quiz link to the final leaderboard.
 
 ---
 
@@ -16,7 +16,7 @@ Mielőtt elkezded, győződj meg róla, hogy megvan:
 - Stabil internetkapcsolat
 - A kvíz URL-je (előre megkapod)
 - Egy laptop, amely csatlakozik ahhoz a képernyőhöz, amit a játékosok nézni fognak
-- **Google Chrome** — más böngészők, például a Safari vagy az Edge nem biztos, hogy megfelelően működnek
+- **Google Chrome** - other browsers like Safari or Edge may not work correctly
 
 ---
 
@@ -27,7 +27,7 @@ Mielőtt elkezded, győződj meg róla, hogy megvan:
 
 2. Megjelenik egy fekete betöltőképernyő, rajta egy százalékkal. Ez csak néhány másodpercet vesz igénybe.
 
-3. A betöltés után megjelenik a játékképernyő. Ha bejelentkezést kér, kattints a **Login** gombra — megnyílik egy második lap.
+3. A betöltés után megjelenik a játékképernyő. If prompted to log in, click **Login** - a second tab will open.
    - Kattints a **Login** gombra a bejelentkezési oldalon, és add meg a kapott bejelentkezési adatokat.
    - Bejelentkezés után a lap automatikusan bezáródik, és a kvíz befejezi a betöltést.
 
@@ -38,7 +38,7 @@ Mielőtt elkezded, győződj meg róla, hogy megvan:
    A kvíz most már játszható a játékképernyőn.
 
 :::tip
-Ha bármikor ki szeretnél lépni a teljes képernyős módból — például hogy másik ablakra válts — nyomd meg az **Esc** billentyűt.
+To exit fullscreen at any time - for example, to switch to another window - press **Esc**.
 :::
 
 ---
@@ -47,8 +47,8 @@ Ha bármikor ki szeretnél lépni a teljes képernyős módból — például ho
 
 Ha egy befejezett játék után újra szeretnél játszani, több lehetőséged is van:
 
-- **Töltsd újra az oldalt** — kattints az újratöltés ikonra a Chrome eszköztárában (lehet, hogy előbb meg kell nyomnod az Esc billentyűt a teljes képernyős módból való kilépéshez).
-- **Nyomd meg az S-t** — a kvíz végén a billentyűzeten az **S** megnyomásával visszajutsz a kezdőképernyőre.
+- **Reload the page** - click the reload icon in Chrome's toolbar (you may need to press Esc first to exit fullscreen).
+- **Press S** - after the quiz ends, pressing **S** on the keyboard brings you back to the start screen.
 
 Ha megjelenik egy felugró ablak, amely megkérdezi, szeretnél-e új játékot indítani, kattints a **Yes, start new game** gombra.
 
