@@ -6,7 +6,7 @@ title: सबसे अच्छे उत्तर वाला सवाल
 # 🎖️ सबसे अच्छे उत्तर वाला सवाल
 
 **सबसे अच्छे उत्तर वाला सवाल** प्रकार में, खिलाड़ी खुले सवाल का अपना जवाब लिखते हैं।  
-अंक या तो quizmaster द्वारा मैन्युअल रूप से दिए जाते हैं, या—अगर कोई quizmaster नहीं है—तो खिलाड़ियों से उनके पसंदीदा जवाब के लिए वोट करवाकर दिए जाते हैं।
+Points are awarded either manually by the quizmaster, or - if there is no quizmaster - by having players vote for their favorite response.
 
 ---
 
