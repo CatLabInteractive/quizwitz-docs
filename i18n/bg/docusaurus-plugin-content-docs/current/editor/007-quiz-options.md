@@ -35,19 +35,19 @@ title: Опции на куиза
 
 Обогати куиза си с изображения, аудио или видео в конкретни слотове:
 
-- **Преди куиза** — Показва се, когато куизът започне
-- **След куиза** — Възпроизвежда се след екрана с финалните резултати
-- **Лого на клиент / алтернативно лого** — Показва се в целия интерфейс на куиза
-- **Екран за изчакване** — Показва се между въпросите в игри на живо (препоръчва се изображение 1920×1080)
-- **Фон** — Опционална замяна на фона (зависи от темата)
-- **Екран за свързване** — Използва се в режимите [Live](../quizmaster/001-introduction.md) и [Conference](../tutorials/conference-booth):
-  - **Изображения** — Визуализации на цял екран за фон
-  - **Аудио** — Повтаряща се музика (макс. 15 мин)
-  - **Видео** — Възпроизвежда се на всеки 5 минути, полезно за реклами или инструкции
+- **Before quiz** - Shown when the quiz starts
+- **After quiz** - Played after the final results screen
+- **Client logo / alternative logo** - Displayed throughout the quiz interface
+- **Wait screen** - Displayed between questions in live games (1920×1080 image recommended)
+- **Background** - Optional background replacement (depends on theme)
+- **Connect screen** - Used in [Live](../quizmaster/001-introduction.md) and [Conference](../tutorials/conference-booth) modes:
+  - **Images** - Fullscreen background visuals
+  - **Audio** - Looped music (max 15 min)
+  - **Video** - Played every 5 minutes, useful for ads or instructions
 
 🎥 Можеш да използваш нашите [готови видеа с инструкции](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC), за да помогнеш на играчите да се свържат.
 
-- **Аутро по време на игра** — (Само аудио) Възпроизвежда се върху екрана с разкриване на победителя
+- **During game outro** - (Audio only) Plays over the winner reveal screen
 
 📘 За технически подробности и препоръки виж [ръководството за прикачени файлове](../editor/006-attachments.md).
 
@@ -57,12 +57,12 @@ title: Опции на куиза
 
 Опционални настройки за персонализиране на геймплея и видимостта:
 
-- **Активиране на мултиплейър** — Включено по подразбиране. Позволява парти игра с приятели
-- **Случаен ред на рундовете** — Разбърква реда на рундовете
+- **Enable multiplayer** - Default ON. Позволява парти игра с приятели
+- **Random round order** - Shuffle the order of rounds
   > ⚠️ Не се препоръчва при подготовка за [QuizWitz Live](../quizmaster/001-introduction.md)
-- **Позволяване на потребителите да оценяват въпроси** — Позволява на играчите да оценяват всеки въпрос след рунд
-- **Активиране на коментари** — Позволява обратна връзка след публикуване
-- **Ускоряване, когато всички са отговорили** — Ако е активирано, играта прескача напред, когато всички играчи са отговорили
+- **Allow users to rate questions** - Lets players rate each question after a round
+- **Enable comments** - Allow feedback after publishing
+- **Speed up when all answered** - If enabled, the game skips ahead when all players have answered
   > ⏱️ Препоръчва се при използване на **Точково оценяване според времето**
 
 ---
