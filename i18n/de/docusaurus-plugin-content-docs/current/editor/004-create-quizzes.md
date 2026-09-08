@@ -5,7 +5,7 @@ title: Quizze erstellen
 
 # 🧠 Erstelle ein komplettes Quiz
 
-Möchtest du ein vollständiges Quiz-Erlebnis für Spieler oder Events erstellen? Dieser Leitfaden führt dich durch die Erstellung eines kompletten Quiz mit mehreren Runden – inklusive deiner eigenen Fragen oder gesammelter Round-Abouts.
+Möchtest du ein vollständiges Quiz-Erlebnis für Spieler oder Events erstellen? This guide walks you through creating a full quiz using multiple rounds - including your own questions or Round-Abouts you've collected.
 
 ---
 
@@ -23,7 +23,7 @@ Im Hauptmenü:
 ## ✏️ Titel und Sprache
 
 Gib deinem Quiz einen Titel und wähle die Hauptsprache.  
-Du kannst später **Übersetzungen** hinzufügen – du musst nicht alles sofort festlegen.
+You can add **translations** later if needed - no need to decide everything upfront.
 
 ---
 
@@ -53,8 +53,8 @@ Im Haupteditor kannst du:
 
 Jede Runde kann eigene Regeln und Formate haben. Mehr dazu in den erweiterten Anleitungen:
 
-- [Rundentypen](../round-types/000-round-types.md) – Lege fest, wie sich eine Runde verhält (z.B. Blitzrunde, Puzzle-Runde)
-- [Fragetypen](../question-types/000-question-types.md) – Passe Format und Wertung für jede Frage an
+- [Round types](../round-types/000-round-types.md) - Configure how a round behaves (e.g., lightning round, puzzle round)
+- [Question types](../question-types/000-question-types.md) - Adjust the format and scoring for each question
 
 ---
 
@@ -66,7 +66,7 @@ Denk daran:
 - **Teste und spiele** jederzeit
 - **Veröffentliche** dein Quiz, wenn es bereit ist zum Teilen
 
-> 📢 Um ein Quiz zu veröffentlichen, muss es **mindestens 14 Fragen** enthalten. Nach der Veröffentlichung wird es der Community zugänglich – du kannst es aber bei Bedarf später wieder zurückziehen.
+> 📢 Um ein Quiz zu veröffentlichen, muss es **mindestens 14 Fragen** enthalten. Once published, it becomes available to the community - but you can unpublish it later if needed.
 
 > 📝 **Veröffentlichen ist vollkommen optional.** Du kannst jedes Quiz oder Round-About privat spielen, ohne es zu veröffentlichen. Das ist ideal für den persönlichen Gebrauch, zum Testen oder für private Events.
 
@@ -78,9 +78,9 @@ Wenn du bereit bist, dein Quiz zu testen oder zu starten, drücke den **Start Qu
 
 ![Quiz playlinks](/images/quiz-playlinks.png)
 
-- **[Partyspiel spielen](../players/001-playing-quizwitz.md)** — Ein Gelegenheits-Quizerlebnis, das du mit Freunden auf dem gleichen Bildschirm oder per Bildschirmfreigabe genießen kannst. Das Spiel läuft automatisch; der Gastgeber kann es pausieren, hat aber keine weitere Kontrolle über das Tempo.
-- **[Start QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Starte ein professionelles Live-Quiz-Event mit der Quizmaster-App. Dies ist der \*\*einzige Modus, in dem der Quizmaster das Tempo des Spiels kontrolliert.
-- **[Konferenzmodus starten (PRO)](../tutorials/050-conference-booth.md)** — Veranstaltet ein Konferenz-Quiz für größeres Publikum mit zugewiesenen Sitzungen, Teamcodes und Produktionswerkzeugen. Wie Partyspiele laufen auch Konferenzspiele automatisch.
+- **[Play Party Game](../players/001-playing-quizwitz.md)** - A casual quiz experience to enjoy with friends on the same screen or via screenshare. Das Spiel läuft automatisch; der Gastgeber kann es pausieren, hat aber keine weitere Kontrolle über das Tempo.
+- **[Start QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** - Launch a professional live quiz event using the Quizmaster App. Dies ist der \*\*einzige Modus, in dem der Quizmaster das Tempo des Spiels kontrolliert.
+- **[Start Conference mode (PRO)](../tutorials/050-conference-booth.md)** - Host a conference-style quiz for larger audiences with assigned seating, team codes, and production tools. Wie Partyspiele laufen auch Konferenzspiele automatisch.
 
 ---
 
@@ -88,8 +88,8 @@ Wenn du bereit bist, dein Quiz zu testen oder zu starten, drücke den **Start Qu
 
 Möchtest du einen kompletten Quiz-Durchlauf simulieren? Nutze die erweiterten Testtools:
 
-- **Simulieren** – Führe einen Testdurchlauf mit Bots durch (ohne Präsentation)
-- **Simuliere Live** – Simuliere eine komplette [QuizWitz Live](../quizmaster/001-introduction.md) Session mit Bots, inklusive Quizmaster-, Jury- und Spieleransichten
+- **Simulate** - Run a test playthrough with bots (no presentation)
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) session with bots, including Quizmaster, Jury, and Player views
 
 ---
 
