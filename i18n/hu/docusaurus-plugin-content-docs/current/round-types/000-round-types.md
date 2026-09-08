@@ -5,7 +5,7 @@ title: Fordulótípusok
 
 # Fordulótípusok
 
-A fordulótípus befolyásolja, hogyan jeleníti meg a játék a kérdéseket a játékosoknak — és hogyan szereznek pontokat a játékosok.  
+The round type influences the way the game shows the questions to the players - and how players earn points.  
 A kvízekben a fordulótípust a képernyő felső középső részén található **Fordulótípus** legördülő mezőben módosíthatod.
 
 ## 🧠 Normál fordulók
@@ -29,12 +29,12 @@ Mindenkinek, aki hagyományos pubkvízeket szeretne szervezni, ahol a játékoso
 Ezek a fordulótípusok azt szimulálják, mintha minden forduló után „beadnák a papírokat”.
 
 - [Hagyományos](030-traditional.md)
-- [Hagyományos — Közös szál](031-traditional-ct.md)
+- [Traditional - Common thread](031-traditional-ct.md)
 - [Ábécé](032-alphabet.md)
 
 ## 🎉 Élő események
 
-Ezek a fordulótípusok nem tartalmaznak kérdéseket — ehelyett a játék kimenetelét befolyásolják.
+These round types do not contain any questions - but instead influence the outcome of the game.
 
 - [Tevékenység](040-activity.md)
 - [Szünet](060-intermission.md)
@@ -46,5 +46,5 @@ Ezek a fordulótípusok nem tartalmaznak kérdéseket — ehelyett a játék kim
 
 Ezekben a fordulótípusokban kiválaszthatsz konkrét **részlegeket**, amelyek más részlegek ellen játszanak.
 
-- [Részleg - Dealer's Choice](070-departments-dealers-choice.md)
-- [Részleg — Kiesés](071-departments-elimination.md)
+- [Department - Dealer's Choice](070-departments-dealers-choice.md)
+- [Department - Elimination](071-departments-elimination.md)
