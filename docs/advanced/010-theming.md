@@ -21,7 +21,7 @@ Having a graphic designer draw the theme and someone else assemble it in Animate
 
 ## 🧪 Theme test tool
 
-When you're ready to test your theme, **zip the contents of your design folder** ( - not the folder itself; when you open the zip, you should see your files, not just a single folder - ) and upload it to our [theme tester](https://themes.quizwitz.com/). This gives you a live preview of how your theme will look in the game.
+When you're ready to test your theme, **zip the contents of your design folder** ( — not the folder itself; when you open the zip, you should see your files, not just a single folder — ) and upload it to our [theme tester](https://themes.quizwitz.com/). This gives you a live preview of how your theme will look in the game.
 
 After testing, email the zip file to us and we'll link it to your account so you can select and use your theme in your quizzes.
 
@@ -42,7 +42,7 @@ All custom designs must include the QuizWitz logo.
 | Game intro                                      | Animation before the game.                                                                                  | Waiting screen.                                           |
 | Round intro                                     | Animation before each round.                                                                                | Waiting screen.                                           |
 | Questions                                       |                                                                                                             |                                                           |
-| Attachment                                      | Fullscreen attachment view ( - before/after questions or rounds - ).                                        | Waiting screen.                                           |
+| Attachment                                      | Fullscreen attachment view ( — before/after questions or rounds — ).                                        | Waiting screen.                                           |
 | Question: multiple choice without attachment    | Question + 4 multiple choice options.                                                                       | Multiple choice answer screen.                            |
 | Question: multiple choice with attachment       | Question + 4 multiple choice options + a visual attachment.                                                 | Multiple choice answer screen.                            |
 | Question: open question without attachment      | Only the question.                                                                                          | Text input and submit button.                             |
