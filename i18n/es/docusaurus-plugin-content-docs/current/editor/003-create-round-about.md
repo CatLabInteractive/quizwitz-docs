@@ -22,7 +22,7 @@ Desde el menú principal:
 
 ## ✏️ Título, idioma y categoría
 
-Empieza definiendo claramente:
+Empieza dando a tu Round-About algo claro:
 
 - **Título** — algo atractivo o descriptivo
 - **Idioma** — el idioma en que están escritas tus preguntas
