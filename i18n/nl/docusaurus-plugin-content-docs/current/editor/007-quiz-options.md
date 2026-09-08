@@ -35,19 +35,19 @@ Kies een visueel thema voor je quiz.
 
 Verfraai je quiz met beelden, audio of video in specifieke slots:
 
-- **Voor de quiz** — Wordt getoond wanneer de quiz start
-- **Na de quiz** — Wordt afgespeeld na het scherm met de eindresultaten
-- **Cliëntlogo / alternatief logo** — Wordt getoond gedurende de hele quiz interface
-- **Wacht scherm** — Wordt getoond tussen vragen in live games (1920×1080 afbeelding aanbevolen)
-- **Achtergrond** — Optionele achtergrond vervanging (hangt af van thema)
-- **Aanmeldscherm** — Wordt gebruikt in de modi [Live](../quizmaster/001-introduction.md) en [Conferentie](../tutorials/conference-booth):
-  - **Afbeeldingen** — Volledig scherm achtergrond visuals
-  - **Audio** — Loopende muziek (max 15 min)
-  - **Video** — Wordt elke 5 minuten afgespeeld, handig voor reclames of instructies
+- **Before quiz** - Shown when the quiz starts
+- **After quiz** - Played after the final results screen
+- **Client logo / alternative logo** - Displayed throughout the quiz interface
+- **Wait screen** - Displayed between questions in live games (1920×1080 image recommended)
+- **Background** - Optional background replacement (depends on theme)
+- **Connect screen** - Used in [Live](../quizmaster/001-introduction.md) and [Conference](../tutorials/conference-booth) modes:
+  - **Images** - Fullscreen background visuals
+  - **Audio** - Looped music (max 15 min)
+  - **Video** - Played every 5 minutes, useful for ads or instructions
 
 🎥 Je kunt onze [kant-en-klare instructievideo's](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) gebruiken om spelers te helpen verbinding maken.
 
-- **Tijdens het einde van het spel** — (alleen audio) Wordt afgespeeld over het scherm met de winnaar onthulling
+- **During game outro** - (Audio only) Plays over the winner reveal screen
 
 📘 Voor technische details en aanbevelingen, zie de [attachments guide](../editor/attachments).
 
@@ -57,12 +57,12 @@ Verfraai je quiz met beelden, audio of video in specifieke slots:
 
 Optionele instellingen voor het aanpassen van gameplay en zichtbaarheid:
 
-- **Multiplayer inschakelen** — Standaard AAN. Maakt spelen met vrienden mogelijk
-- **Willekeurige rondevolgorde** — Schud de volgorde van rondes door elkaar
+- **Enable multiplayer** - Default ON. Maakt spelen met vrienden mogelijk
+- **Random round order** - Shuffle the order of rounds
   > ⚠️ Niet aanbevolen bij de voorbereiding op [QuizWitz Live](../quizmaster/001-introduction.md)
-- **Gebruikers vragen laten beoordelen** — Laat spelers iedere vraag na een ronde beoordelen
-- **Reacties inschakelen** — Sta feedback toe na publicatie
-- **Versnel wanneer iedereen antwoordt** - Indien ingeschakeld, slaat het spel vooruit wanneer alle spelers hebben geantwoord
+- **Allow users to rate questions** - Lets players rate each question after a round
+- **Enable comments** - Allow feedback after publishing
+- **Speed up when all answered** - If enabled, the game skips ahead when all players have answered
   > ⏱️ Aanbevolen bij gebruik van **Tijd gebaseerde score**
 
 ---
