@@ -3,9 +3,9 @@ id: startup
 title: Per iniziare
 ---
 
-# 🚀 Per iniziare — Ospitare un quiz con QuizWitz Live
+# 🚀 Start-up - Hosting a Quiz with QuizWitz Live
 
-Benvenuto su QuizWitz Live — il modo professionale per ospitare quiz per team, livestream ed eventi dal vivo. Segui questa guida per configurare e avviare il tuo quiz usando la Quizmaster App.
+Welcome to QuizWitz Live - the professional way to host quizzes for teams, livestreams, and in-person events. Segui questa guida per configurare e avviare il tuo quiz usando la Quizmaster App.
 
 ---
 
@@ -23,7 +23,7 @@ Puoi avviare una partita QuizWitz Live dall’editor del quiz o direttamente dal
 
 ## 🔐 Connessione con il codice quizmaster
 
-Una volta avviato, lo schermo visualizzerà un **codice quizmaster**. **Non condividere questo codice con i giocatori** — serve per collegare il dispositivo di presentazione alla partita.
+Una volta avviato, lo schermo visualizzerà un **codice quizmaster**. **Do not share this code with players** - it's used to connect your presentation device to the game.
 
 - Visita [quizwitz.tv](https://quizwitz.tv) sul tuo dispositivo quizmaster e inserisci il codice quizmaster.
 - Comparirà un’**interfaccia della Quizmaster App**, da cui potrai controllare la partita.
@@ -32,7 +32,7 @@ Una volta avviato, lo schermo visualizzerà un **codice quizmaster**. **Non cond
 
 Dopo la connessione, il codice quizmaster scompare dallo schermo. Ora sei pronto per mostrare la schermata di gioco su un proiettore o avviare il tuo livestream.
 
-> ⚠️ **Attenzione!** Se la schermata di gioco non è attivamente in primo piano — ad esempio, se cambi scheda o la riduci a icona — il gioco si metterà **automaticamente in pausa**.  
+> ⚠️ **Heads up!** If the game screen is not actively in focus - for example, if you switch tabs or minimize it - the game will **automatically pause**.  
 > Quando succede:
 >
 > - Anche la **Quizmaster App va in pausa**
@@ -51,13 +51,13 @@ Una volta connesso, scegli tra due modalità di gioco:
 
 - Ogni team riceve un **codice univoco**, che può essere aperto su più dispositivi.
 - Ideale per **quiz a team pre-registrati**, quando conosci già in anticipo i nomi dei team.
-- Permette di cambiare dispositivo — utile se la batteria si scarica a metà quiz.
+- Allows device switching - helpful if a battery dies mid-quiz.
 
 ### 👤 Ospitare con un codice di gioco condiviso
 
 - Tutti partecipano usando **un unico codice di gioco condiviso**.
 - Ideale per eventi informali o ad accesso libero.
-- Non serve la pre-registrazione — i giocatori possono partecipare in qualsiasi momento, finché tutti i Seats attivi non sono occupati.
+- No pre-registration required - players can join anytime, until all active seats are filled.
 
 > Assicurati di aver effettuato l’accesso per vedere i contenuti del tuo quiz.
 
@@ -71,13 +71,13 @@ Quando usi i **codici team**, per prima cosa creerai i team nella Quizmaster App
 - Premi **‘Genera Codici’** per creare codici di accesso  
   ![Quizmaster App - crea team](/images/quizmaster-app-create-teams.png)
 
-Puoi anche **prenotare i codici in anticipo** — trovi più dettagli nella sezione consigli e trucchi.
+You can also **reserve codes in advance** - more on that in the tips & tricks section.
 
 Ricordati di **salvare i seguenti codici**:
 
-- **Codice quizmaster** — per controllare il quiz
-- **Codice giuria** — per modificare manualmente i punteggi
-- **Codice regie** — per controllare gli elementi visivi e tecnici
+- **Quizmaster code** - to control the quiz
+- **Jury Code** - for manual score adjustments
+- **Regie Code** - to control visual and technical elements
 
 Invia i codici team ai tuoi giocatori via email o stampali.
 
@@ -92,7 +92,7 @@ Quando pronto, clicca su **'Carica quiz'**, attendi che le risorse siano caricat
 Con lo schema **Single Gaming**:
 
 - Riceverai i codici quizmaster, giuria e regie, oltre a un codice di gioco per i giocatori.
-- Il codice di gioco appare sulla schermata di gioco — **visualizzalo o trasmettilo in streaming al tuo pubblico**.
+- The game code appears on the game screen - **display or stream it to your audience**.
 - I giocatori possono partecipare in qualsiasi momento, finché non viene raggiunto il limite di Seats attivi.
 
 Quando i tuoi giocatori sono entrati:
