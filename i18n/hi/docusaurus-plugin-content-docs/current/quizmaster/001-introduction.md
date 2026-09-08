@@ -3,16 +3,16 @@ id: introduction
 title: परिचय
 ---
 
-# 🎤 QuizWitz Live – परिचय
+# 🎤 QuizWitz Live - Introduction
 
 ## QuizWitz Live के साथ क्विज़ होस्ट करना
 
-एक सफल QuizWitz Live इवेंट के लिए पहला ज़रूरी तत्व है एक आकर्षक quizmaster — कोई ऐसा जो गेम को कंट्रोल करे और ऊर्जा को ऊँचा बनाए रखे। quizmaster क्विज़ के फ्लो को संभालता है, सवालों को ज़ोर से पढ़ता है, और दर्शकों का मनोरंजन करने के लिए वह खास जोश जोड़ता है।
+The first ingredient for a successful QuizWitz Live event is an engaging quizmaster - someone who controls the game and keeps the energy high. quizmaster क्विज़ के फ्लो को संभालता है, सवालों को ज़ोर से पढ़ता है, और दर्शकों का मनोरंजन करने के लिए वह खास जोश जोड़ता है।
 
 अपने इवेंट का पूरा कंट्रोल लेने के लिए, खास तौर पर QuizWitz Live के लिए डिज़ाइन किए गए **Quizmaster App** का इस्तेमाल करें।  
 आप क्विज़ एडिटर से सीधे **‘Start QuizWitz Live’** पर क्लिक करके QuizWitz Live लॉन्च कर सकते हैं।
 
-> 💡 **नोट:** Quizmaster App एक **वेब ऐप** है — इंस्टॉल करने के लिए कुछ भी नहीं है। अपने smart device पर इसे एक्सेस करने के लिए बस अपने ब्राउज़र में [**quizwitz.tv**](https://quizwitz.tv) पर जाएँ।
+> 💡 **Note:** The Quizmaster App is a **web app** - there's nothing to install. अपने smart device पर इसे एक्सेस करने के लिए बस अपने ब्राउज़र में [**quizwitz.tv**](https://quizwitz.tv) पर जाएँ।
 
 ---
 
@@ -20,7 +20,7 @@ title: परिचय
 
 एक स्मूद और प्रोफ़ेशनल क्विज़ अनुभव सुनिश्चित करने के लिए, पक्का करें कि आपके पास ये हों:
 
-- गेम स्क्रीन दिखाने वाली **बड़ी स्क्रीन या प्रोजेक्टर** - या सभी खिलाड़ियों के लिए उपलब्ध **livestream**
+- **A large screen or projector** showing the game screen - or a **livestream** accessible to all players
 - गेम को कंट्रोल करने और स्क्रिप्ट को ज़ोर से पढ़ने के लिए quizmaster के लिए **एक टैबलेट या लैपटॉप**
 - ओपन आंसर सवालों का मूल्यांकन करने के लिए जूरी के लिए (ज़रूरत हो तो) **एक लैपटॉप या टैबलेट**
 - जवाब सबमिट करने के लिए **हर खिलाड़ी या टीम के लिए एक smart device** (जैसे स्मार्टफ़ोन या टैबलेट)
