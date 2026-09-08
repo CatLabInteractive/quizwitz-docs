@@ -5,7 +5,7 @@ title: Turnaj
 
 # Turnaj
 
-Tento návod ti ukáže, ako používať turnajový režim v QuizWitz. Turnajový režim umožňuje hráčom pripojiť sa a hrať tvoj kvíz kedykoľvek chcú — na vlastnom zariadení. Ich skóre sa zaznamenáva v globálnom rebríčku, ktorý môžeš zobraziť na svojom mieste konania.
+Tento návod ti ukáže, ako používať turnajový režim v QuizWitz. Tournament mode lets players join and play your quiz whenever they want - on their own device. Ich skóre sa zaznamenáva v globálnom rebríčku, ktorý môžeš zobraziť na svojom mieste konania.
 
 ---
 
@@ -16,7 +16,7 @@ Keď tvoríš turnajový kvíz, udrž ho krátky a pútavý. Ak návštevníci b
 
 ### 🎲 Náhodný výber otázok
 
-Nastav hru tak, aby vybrala náhodnú sadu otázok z tvojho balíka, takže každé hranie bude pôsobiť jedinečne — a vracajúci sa hráči dostanú iné otázky.
+Make the game select a random set of questions from your pool, so every playthrough feels unique - and returning players get different questions.
 
 **Príklad nastavenia:**
 
@@ -43,8 +43,8 @@ Turnaje sa dajú spustiť iba z menu **Rozšírené možnosti hry**.
 
 Teraz dostaneš dva odkazy:
 
-- **Odkaz pre hráčov** — Zdieľaj ho so svojimi hráčmi (alebo ich nechaj naskenovať QR kód z rebríčka).
-- **Odkaz na rebríček** — Otvor ho na obrazovke na svojom mieste konania, aby sa zobrazovalo živé poradie a QR kód, ktorý môžu hráči naskenovať a pripojiť sa.
+- **Player link** - Share this with your players (or let them scan the QR code from the leaderboard).
+- **Leaderboard link** - Open this on a display at your venue to show the live rankings and the QR code players can scan to join.
 
 ---
 
@@ -65,6 +65,6 @@ Keď prví hráči dokončia svoje hry, ich skóre sa zobrazí naživo:
 
 ## 📧 E-mailové potvrdenie
 
-Dostaneš aj e-mail s odkazmi pre hráčov aj na rebríček — super, aby sa ti nestratili!
+You'll also get an email containing both the player and leaderboard links - handy so you don't lose them!
 
 ![Snímka obrazovky turnajového e-mailu](/images/tutorials/tournament/tournament-email.png)
