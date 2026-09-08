@@ -5,7 +5,7 @@ title: Domanda aperta
 
 # 💬 Domanda aperta
 
-Una domanda aperta permette ai giocatori di digitare liberamente la risposta usando la tastiera. Questa modalità è perfetta per le domande in cui vuoi risposte scritte — per esempio nomi, numeri o brevi spiegazioni.
+Una domanda aperta permette ai giocatori di digitare liberamente la risposta usando la tastiera. This mode is perfect for questions where you want written responses - for example, names, numbers, or short explanations.
 
 ---
 
@@ -41,7 +41,7 @@ Il punteggio nelle domande aperte è pensato per essere equo, anche per chi digi
 
 - **Il punteggio basato sul tempo** divide i punti disponibili in blocchi, non in un rigido conto alla rovescia al millisecondo.
 - Per esempio, rispondere nel primo blocco (ad es. nei primi 5 secondi) dà il punteggio pieno; il blocco successivo dà l’80%, e così via. Questo aiuta a ridurre la penalità per chi digita lentamente.
-- Per impostazione predefinita, solo il **25%** dei punti dipende dalla velocità — il restante **75%** è fisso, quindi tutti quelli che rispondono correttamente ottengono la maggior parte dei punti, indipendentemente dalla velocità di digitazione.
+- By default, only **25%** of the points depend on speed - the remaining **75%** is fixed, so everyone who answers correctly gets most of the points, regardless of typing speed.
 
 > ⚙️ **Suggerimento:** Puoi regolare ulteriormente il comportamento del punteggio e altre impostazioni nelle [Opzioni del round](../editor/008-round-options.md).
 
