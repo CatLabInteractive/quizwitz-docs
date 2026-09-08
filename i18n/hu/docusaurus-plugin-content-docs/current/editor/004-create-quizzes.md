@@ -5,7 +5,7 @@ title: Kvízek létrehozása
 
 # 🧠 Teljes kvíz létrehozása
 
-Szeretnél teljes kvízélményt készíteni játékosoknak vagy eseményekre? Ez az útmutató végigvezet egy teljes kvíz létrehozásán több fordulóval — beleértve a saját kérdéseidet vagy az általad összegyűjtött Round-Abouts elemeket is.
+Szeretnél teljes kvízélményt készíteni játékosoknak vagy eseményekre? This guide walks you through creating a full quiz using multiple rounds - including your own questions or Round-Abouts you've collected.
 
 ---
 
@@ -23,7 +23,7 @@ A főmenüből:
 ## ✏️ Cím és nyelv
 
 Adj címet a kvízednek, és válaszd ki a fő nyelvet.  
-Később hozzáadhatsz **fordításokat**, ha szükséges — nem kell mindent előre eldöntened.
+You can add **translations** later if needed - no need to decide everything upfront.
 
 ---
 
@@ -53,8 +53,8 @@ A fő szerkesztőben ezeket teheted:
 
 Minden fordulónak lehetnek saját szabályai és formátuma. Tudj meg többet a haladó útmutatókban:
 
-- [Fordulótípusok](../round-types/000-round-types.md) — Állítsd be, hogyan működjön egy forduló (pl. villámforduló, rejtvényforduló)
-- [Kérdéstípusok](../question-types/000-question-types.md) — Állítsd be az egyes kérdések formátumát és pontozását
+- [Round types](../round-types/000-round-types.md) - Configure how a round behaves (e.g., lightning round, puzzle round)
+- [Question types](../question-types/000-question-types.md) - Adjust the format and scoring for each question
 
 ---
 
@@ -66,7 +66,7 @@ Ne feledd:
 - Bármikor **tesztelheted és játszhatsz vele**
 - **Tedd közzé** a kvízedet, amikor készen áll a megosztásra
 
-> 📢 Egy kvíz közzétételéhez **legalább 14 kérdést** kell tartalmaznia. Miután közzétetted, elérhetővé válik a közösség számára — de később visszavonhatod a közzétételt, ha szükséges.
+> 📢 Egy kvíz közzétételéhez **legalább 14 kérdést** kell tartalmaznia. Once published, it becomes available to the community - but you can unpublish it later if needed.
 
 > 📝 **A közzététel teljesen opcionális.** Bármelyik kvízt vagy Round-About elemet játszhatod privátban, közzététel nélkül. Ez nagyszerű személyes használatra, teszteléshez vagy privát eseményekhez.
 
@@ -78,9 +78,9 @@ Amikor készen állsz tesztelni vagy elindítani a kvízedet, nyomd meg a **Kví
 
 ![Kvíz játéklinkek](/images/quiz-playlinks.png)
 
-- **[Party játék indítása](../players/001-playing-quizwitz.md)** - kötetlen kvízélmény barátokkal, egy képernyőn vagy képernyőmegosztással. A játék automatikusan fut; a házigazda szüneteltetheti, de a tempóra egyébként nincs ráhatása.
-- **[QuizWitz Live indítása (PRO)](../quizmaster/001-introduction.md)** - profi élő kvízesemény a Quizmaster appal. Ez az **egyetlen mód, ahol a játék tempóját a quizmaster irányítja**.
-- **[Konferencia mód indítása (PRO)](../tutorials/050-conference-booth.md)** - konferencia jellegű kvíz nagyobb közönségnek, kiosztott ülésrenddel, csapatkódokkal és produkciós eszközökkel. A Party játékokhoz hasonlóan a konferencia játékok is automatikusan futnak.
+- **[Play Party Game](../players/001-playing-quizwitz.md)** - A casual quiz experience to enjoy with friends on the same screen or via screenshare. A játék automatikusan fut; a házigazda szüneteltetheti, de a tempóra egyébként nincs ráhatása.
+- **[Start QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** - Launch a professional live quiz event using the Quizmaster App. Ez az **egyetlen mód, ahol a játék tempóját a quizmaster irányítja**.
+- **[Start Conference mode (PRO)](../tutorials/050-conference-booth.md)** - Host a conference-style quiz for larger audiences with assigned seating, team codes, and production tools. A Party játékokhoz hasonlóan a konferencia játékok is automatikusan futnak.
 
 ---
 
@@ -88,8 +88,8 @@ Amikor készen állsz tesztelni vagy elindítani a kvízedet, nyomd meg a **Kví
 
 Szeretnél egy teljes kvízmenetet szimulálni? Használd a haladó tesztelési eszközöket:
 
-- **Szimuláció** — Futtass egy teszt játékot botokkal (prezentáció nélkül)
-- **Élő szimuláció** — Szimulálj egy teljes [QuizWitz Live](../quizmaster/001-introduction.md) alkalmat botokkal, beleértve a Quizmaster, a zsűri és a játékos nézeteket
+- **Simulate** - Run a test playthrough with bots (no presentation)
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) session with bots, including Quizmaster, Jury, and Player views
 
 ---
 
