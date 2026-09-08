@@ -5,7 +5,7 @@ title: Open question
 
 # 💬 Open question
 
-An open question lets players type their answer freely using their keyboard. This mode is perfect for questions where you want written responses - for example, names, numbers, or short explanations.
+An open question lets players type their answer freely using their keyboard. This mode is perfect for questions where you want written responses — for example, names, numbers, or short explanations.
 
 ---
 
@@ -41,7 +41,7 @@ Scoring in open questions is designed to be fair, even for slower typers:
 
 - **Time-based scoring** divides the available points into blocks, not a strict per-millisecond countdown.
 - For example, answering in the first block (e.g. first 5 seconds) gives full points; the next block gives 80%, and so on. This helps reduce the penalty for slow typers.
-- By default, only **25%** of the points depend on speed - the remaining **75%** is fixed, so everyone who answers correctly gets most of the points, regardless of typing speed.
+- By default, only **25%** of the points depend on speed — the remaining **75%** is fixed, so everyone who answers correctly gets most of the points, regardless of typing speed.
 
 > ⚙️ **Tip:** You can further adjust scoring behavior and other settings in the [Round options](../editor/008-round-options.md).
 
