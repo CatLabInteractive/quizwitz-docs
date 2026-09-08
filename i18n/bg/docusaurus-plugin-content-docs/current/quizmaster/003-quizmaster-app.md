@@ -7,7 +7,7 @@ title: Quizmaster App
 
 Като quizmaster имаш пълен контрол над играта QuizWitz Live. Най-важното, което трябва да знаеш, е това:
 
-> Играта **напредва само когато щракнеш** - нищо на екрана на играта не се движи, докато не кажеш.
+> The game **only progresses when you click** - nothing moves on the game screen until you tell it to.
 
 Това ти дава пълен контрол над темпото и тайминга, но също означава, че ще натискаш доста често. Нека видим как работи приложението.
 
@@ -36,13 +36,13 @@ title: Quizmaster App
 
 Ще видиш:
 
-- **Номер на въпрос** — напр. `1.1` означава първия въпрос от първия рунд
-- **Тип на въпроса** — например избор от няколко отговора, със съответните модификатори за точкуване
-- **Дълга версия на въпроса** — за да я прочетеш на глас
-- **Информация за въпроса** — включително продължителност на таймера и налични точки
-- **Кратък въпрос** - версията, показвана на екрана на играта
-- **Бутон за стартиране на въпроса** — веднага стартира таймера
-- **Възможни отговори** — показани в правилния ред (при избор от няколко отговора)
+- **Question number** - e.g. `1.1` means the first question of the first round
+- **Question type** - such as Multiple Choice, with relevant scoring modifiers
+- **Long version of the question** - for you to read out loud
+- **Question info** - including timer duration and available points
+- **Short question** - the version shown on the game screen
+- **Start question button** - immediately starts the timer
+- **Possible answers** - displayed in the correct order (for multiple choice)
 
 Въпросът ще остане видим в приложението ти, докато не се случи едно от следните:
 
@@ -55,7 +55,7 @@ title: Quizmaster App
 
 ### ✅ Обратна връзка за въпроса
 
-След като въпросът приключи, правилният отговор се разкрива. Какво ще видиш зависи от типа въпрос — този пример показва екран с резултат за избор от няколко отговора:
+След като въпросът приключи, правилният отговор се разкрива. What you see depends on the question type - this example shows a multiple choice result screen:
 
 ![Quizmaster App - обратна връзка за въпроса](/images/quizmaster-app-question-feedback.png)
 
@@ -64,10 +64,10 @@ title: Quizmaster App
 - **Номер на въпроса**
 - **Кратък текст на въпроса**
 - **Правилен отговор**
-- **Разпределение на отговорите** — в числа и проценти
-- **Дълга обратна връзка** — допълнителна информация за прочитане на глас
-- **Бутон за продължаване** — преминава към следващия въпрос
-- **Най-бързите 100 отговора** — показани в долната част на екрана
+- **Answer spread** - in numbers and percentages
+- **Long feedback** - extra info to read aloud
+- **Continue button** - advances to the next question
+- **Fastest 100 answers** - shown at the bottom of the screen
 
 ---
 
@@ -93,14 +93,14 @@ title: Quizmaster App
 
 ### 🏆 Краят на куиза
 
-В края на куиза е време за **парти с разкриване на победителя** — с конфети и емоджита на играчите, които летят по екрана.
+At the end of the quiz, it’s time for a **winner reveal party** - complete with confetti and player emojis flying across the screen.
 
 ![QuizWitz - екран на играта в края на играта](/images/game-outro.png)
 
 - Настройката по подразбиране показва **топ 12 играчи**
 - Можеш да персонализираш колко играчи да се показват в **разширените настройки на играта**
 
-> 🎉 Забавен съвет: Емоджито, което играчите ти изберат, ще танцува по екрана — дори ако са избрали усмихнатото лайно.
+> 🎉 Fun tip: The emoji your players choose will dance around the screen - even if they picked the smiling turd.
 
 ---
 
