@@ -5,13 +5,13 @@ title: खिलाड़ी परिचय
 
 # 🙋‍♂️ खिलाड़ी परिचय
 
-**Player introduction** is a special event that simply displays the **names and selected emojis of all players or teams** on the game screen.
+**खिलाड़ी परिचय** एक ख़ास इवेंट है जो बस **सभी खिलाड़ियों या टीमों के नाम और चुने हुए इमोजी** गेम स्क्रीन पर दिखाता है।
 
 ---
 
 ## 📝 यह कैसे काम करता है
 
-- At this point in the quiz, each participant’s **name** and chosen **emoji** will appear on the game screen.
+- क्विज़ के इस मोड़ पर हर प्रतिभागी का **नाम** और चुना हुआ **इमोजी** गेम स्क्रीन पर दिखाया जाता है।
 - इसे अक्सर किसी इवेंट की शुरुआत में, ब्रेक के बाद, या फाइनल राउंड से पहले प्रतिभागियों का परिचय कराने या उन्हें सेलिब्रेट करने के लिए इस्तेमाल किया जाता है।
 
 ---
