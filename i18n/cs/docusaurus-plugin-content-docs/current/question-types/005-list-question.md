@@ -5,7 +5,7 @@ title: Otázka se seznamem
 
 # 📝 Otázka se seznamem
 
-U **otázky se seznamem** mají hráči uvést několik správných odpovědí z delšího seznamu — ideální pro zadání jako „Vyjmenujte prvních 5 prezidentů Spojených států amerických“ nebo „Jmenujte tři prvky periodické tabulky.“
+A **List question** asks players to provide several correct answers from a larger list - perfect for prompts like “List the first 5 presidents of the United States of America” or “Name three elements in the periodic table.”
 
 ---
 
@@ -18,7 +18,7 @@ U **otázky se seznamem** mají hráči uvést několik správných odpovědí z
 - **Otázka:** Jasně uveďte, co mají hráči vyjmenovat.
 - **Položky seznamu:** Zadejte všechny možné správné odpovědi.
   - Některé označte jako **„Zadané“**, aby se na obrazovce zobrazily jako příklady; na ty se odpovídat NEMUSÍ.
-  - Na pořadí **nezáleží** — hráči mohou správné odpovědi zadat v libovolném pořadí.
+  - Order does **not** matter - players can enter correct answers in any order.
 - **Vstup od hráče:** Hráči musí zadat určený počet odpovědí (např. mezi 1 a 5). Body se udělují za každou správnou odpověď, kterou odešlou.
 - **Přílohy:** Přidejte obrázky, zvuk nebo video pro kontext. Pokud otázku publikujete, vyplňte uvedení zdroje.
 
@@ -43,7 +43,7 @@ U **otázky se seznamem** mají hráči uvést několik správných odpovědí z
   - Dostupné body se rozdělí do časových bloků (ne po milisekundách).  
     Například: plný počet bodů v prvním bloku, 80 % v dalším atd.
   - Na rychlosti závisí **jen 25 %** bodů.  
-    Zbývajících **75 %** je pevných — takže i pomalejší písaři získají většinu bodů, pokud odpoví správně.
+    The other **75%** is fixed - so even slower typers get most of the points if they answer correctly.
   - Tím se snižuje postih za rychlost psaní a bodování je férovější pro všechny.
 
 Podrobnosti najdete v [možnostech bodování kola](../editor/008-round-options.md#scoring).
