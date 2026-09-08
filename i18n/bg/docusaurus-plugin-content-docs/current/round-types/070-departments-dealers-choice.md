@@ -25,8 +25,8 @@ title: Избор на дилъра на отдела
   - Първо най-високо класираният
   - На случаен принцип
 - **Отдел на дилъра:**
-  - _Само дилърът може да играе_ — Само избраният дилър отговаря на въпроса
-  - _Всички играчи в отдела на дилъра могат да играят_ — Всеки в отдела може да отговаря и да печели точки
+  - _Only dealer may play_ - Only the selected dealer answers the question
+  - _All players in dealer’s department may play_ - Everyone in the department can answer and score points
 - **Бонус за дилъра:**  
   Задай процент бонус за дилъра (ако е активирано).
 
