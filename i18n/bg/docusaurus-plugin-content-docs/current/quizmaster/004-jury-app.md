@@ -3,7 +3,7 @@ id: jury-app
 title: Приложение за жури
 ---
 
-# 🧑‍⚖️ Приложение за жури - преглед на отворени отговори в QuizWitz Live
+# 🧑‍⚖️ Jury App - Reviewing open answers in QuizWitz Live
 
 Ако куизът ти съдържа **отворени въпроси**, ще ти трябва **приложението за жури**, за да преглеждаш и оценяваш отговорите ръчно.
 
@@ -19,20 +19,20 @@ title: Приложение за жури
 2. На друго устройство отиди на [**quizwitz.tv**](https://quizwitz.tv)
 3. Въведи **кода за жури**, за да получиш достъп до приложението
 
-> 💡 Можеш да отвориш приложението за жури във всеки браузър - това е уеб приложение, не изисква инсталация.
+> 💡 You can open the Jury App on any browser - it's a web app, no installation required.
 
 Вътре приложението за жури предлага няколко полезни инструмента:
 
-- **Оценявай въпроси** — Резултатите от отворени въпроси ще се появят, щом даден въпрос приключи.
-  - Играта **не чака** журито да приключи — освен ако това не е **последният въпрос от рунда** или настройките на куиза не казват друго.
+- **Judge questions** - Open question results will appear once a question is completed.
+  - The game does **not wait** for the jury to finish - unless it’s the **last question of the round** or the quiz settings say otherwise.
   - След оценяване резултатите се появяват **след следващия въпрос**.
 
-- **Редактирай точки** — Давай или отнемай точки ръчно за играч или отбор.
+- **Edit scores** - Grant or revoke points manually per player or team.
 
-- **Управление на играта** — Регулирай таймерите за въпроси или добавяй забавяния за стрийминг, ако е нужно.
+- **Game control** - Adjust question timers or add streaming delays if needed.
   > За настройка на забавяне при стрийминг виж [**как да водиш QuizWitz Live куиз в Twitch**](../tutorials/040-livestreaming.md)
 
-- **Отчет** — Генерирай пълен отчет за играта с резултати и отговори на играчите.
+- **Report** - Generate a full game report with results and player answers.
 
 ![Екранна снимка на приложението за жури в режим на изчакване](/images/jury-app-waiting.png)
 
@@ -54,7 +54,7 @@ QuizWitz ще **открие автоматично точните съвпад�
 - Фонетични съвпадения
 - Често срещани правописни варианти
 
-> 🎙️ QuizWitz е проектиран с мисъл за фонетично съвпадение — но крайното решение винаги е на съдиите.
+> 🎙️ QuizWitz was designed with phonetic matching in mind - but the final decision is always up to the judges.
 
 ---
 
