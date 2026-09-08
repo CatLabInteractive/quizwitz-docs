@@ -34,7 +34,7 @@ De **Multivraag**-ronde geeft spelers (of teams) de vrijheid om te kiezen welke 
 ## 💡 Tips
 
 - Bied een mix van makkelijke en moeilijke vragen voor meer strategie.
-- Gebruik labels creatief—mysterie- of leuke thema’s kunnen de betrokkenheid vergroten.
+- Use labels creatively - mystery or fun themes can boost engagement.
 - Beloon waaghalzen met vragen die meer punten opleveren.
 
 ---
