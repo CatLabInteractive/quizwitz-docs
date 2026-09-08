@@ -5,7 +5,7 @@ title: Konferenciastand
 
 # Konferenciastand
 
-Ez az útmutató megmutatja, hogyan futtasd a QuizWitzet a konferenciastandodnál — egy egyszerű, interaktív módja annak, hogy látogatókat vonzz és leadeket gyűjts!
+This tutorial will show you how to run QuizWitz at your conference booth - an easy, interactive way to attract visitors and gather leads!
 
 ![Fotó egy Marvel konferenciastandról, ahol QuizWitzet használnak](/images/photos/marvel.jpg)
 
@@ -14,19 +14,19 @@ Ez az útmutató megmutatja, hogyan futtasd a QuizWitzet a konferenciastandodná
 ## 📝 A kvíz létrehozása
 
 Amikor konferenciastandhoz készítesz kvízt, tartsd észben, hogy néhány játékos több játékra is maradhat.  
-Hogy izgalmas maradjon, legyen sok kérdésed — elég ahhoz, hogy véletlenszerűen válogathass, és minden játék egyedi legyen.
+To keep things fresh, make sure you have plenty of questions - enough to randomize and make each playthrough unique.
 
 **Ajánlott beállítás:**
 
 - 15 kérdés 3 körre osztva
-- Készíts legalább 3× ennyi kérdést a változatosság kedvéért — minél több, annál jobb!
+- Create at least 3× that many questions for variety - more is better!
 
 ### 🎲 Kvízkészítés lépésről lépésre
 
 1. **Válaszd a „Kvíz” lehetőséget** a Létrehozás menüben, és adj nevet a kvízednek. Állítsd be a megfelelő nyelvet.
 2. **Adj hozzá 3 kört**, és nevezd el őket (például: 1. kör, 2. kör, 3. kör).
 3. A **Kör beállításaiban** (fogaskerék ikon) kapcsold be a **„Csak x kérdés megjelenítése”** opciót, és állítsd a számot 5-re.  
-   Kapcsold be a **„Véletlenszerű kérdéssorrend”** opciót is — különben a játék mindig az első 5 kérdést választja ki.  
+   Also enable **“Random question order”** - otherwise the game will always pick the first 5 questions.  
    Ismételd meg minden körnél.
 
 ![Képernyőkép egy konferenciastandhoz tartozó körbeállításokról](/images/tutorials/conference/round_settings.png)
@@ -35,7 +35,7 @@ Hogy izgalmas maradjon, legyen sok kérdésed — elég ahhoz, hogy véletlensze
    [Írhatsz kérdéseket](../editor/005-writing-questions.md), vagy az Importálás gombbal gyorsan hozzáadhatsz tartalmat Excelből.
 
 :::tip
-Használj sok képet és videóklipet — sokkal szórakoztatóbbá teszik a játékot!
+Use lots of images and video clips - they make the game much more entertaining!
 :::
 
 ---
@@ -54,7 +54,7 @@ A konferenciakvíz elindításának leggyorsabb módja:
 2. Válaszd a **Konferencia mód indítása** lehetőséget.
 
 Ebben a módban a játékosok a telefonjukkal csatlakoznak a játékképernyőn megjelenő játéklinkre.  
-Amikor mindenki készen áll, a stand házigazdája megnyomja az Entert — és a játék automatikusan lefut.  
+When everyone is ready, the booth host presses Enter - and the game runs automatically.  
 A játék vége után az Enter megnyomásával rögtön visszajutsz a csatlakozási képernyőre a következő csoporthoz.
 
 ---
@@ -67,7 +67,7 @@ Egy egyedi linket kapsz az összes kiválasztott beállításoddal.
 
 - **Játékosok e-mail-címének kérése:**  
   Gyűjts látogatói e-mail-címeket a standodhoz! Ha ezt bekapcsolod, mindenképp állítsd be az **Adatvédelmi irányelvek URL-címét** is.
-- Amikor a speciális beállítások linkjén keresztül indítasz játékot, előfordulhat, hogy indulás előtt be kell jelentkezned — ez ellenőrzi a tartalmaidat és a licenceidet.
+- When launching a game via the advanced options link, you may be prompted to log in before starting - this checks your content and licenses.
 
 ![Képernyőkép a speciális játékbeállításokról](/images/tutorials/conference/advanced_game_settings.png)
 
