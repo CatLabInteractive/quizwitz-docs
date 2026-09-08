@@ -62,4 +62,4 @@ An Activity round lets you step away from standard quiz questions for a creative
 
 ---
 
-The Activity round is perfect for interactive challenges, duels, or creative tasks - a great way to add energy and variety to your QuizWitz event!
+The Activity round is perfect for interactive challenges, duels, or creative tasks — a great way to add energy and variety to your QuizWitz event!
