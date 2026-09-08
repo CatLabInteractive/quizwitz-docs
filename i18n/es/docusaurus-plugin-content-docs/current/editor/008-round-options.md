@@ -25,13 +25,13 @@ Para configurar las opciones de una ronda, haz clic en el icono de engranaje en 
 
 Las siguientes opciones están disponibles para la mayoría de los tipos de ronda:
 
-- **Mostrar solo _X_ preguntas** — Limita la ronda a un número específico de preguntas
-- **Orden aleatorio de preguntas** — Mezcla el orden de las preguntas dentro de la ronda
-- **Mostrar introducción de ronda** — Muestra un título animado antes de que comience la ronda
-- **Mostrar final de ronda (puntuación provisional)** — Revela las clasificaciones al final de la ronda
-- **Agrupar todo el feedback en una única pantalla** — Recoge el feedback de las preguntas en un solo bloque después de que termine la ronda
-- **Mostrar todo el feedback de las preguntas al final de la ronda** — Retrasa el feedback hasta que termine la ronda
-- **Forzar feedback después de cada pregunta individual** — Garantiza feedback inmediato
+- **Only show _X_ questions** - Limits the round to a specific number of questions
+- **Random question order** - Shuffle the question order within the round
+- **Show round intro** - Display an animated title before the round begins
+- **Show round outro (interim score)** - Reveal rankings at the end of the round
+- **Group all feedback in a single screen** - Collect question feedback in one block after the round ends
+- **Show all question feedback at the end of the round** - Delay question feedback until the round ends
+- **Force feedback after each individual question** - Ensure immediate feedback
   > ⚠️ Esto solo tiene efecto en tipos de ronda y pregunta donde el feedback normalmente se retrasaría, como preguntas abiertas o rondas relámpago.
 
 📘 Consulta los [tipos de pregunta](../question-types/000-question-types.md) para más información sobre los tiempos y el comportamiento del feedback.
@@ -42,11 +42,11 @@ Las siguientes opciones están disponibles para la mayoría de los tipos de rond
 
 QuizWitz ofrece puntuación flexible para mantener todo justo y entretenido para todos los jugadores.
 
-- **Puntuación basada en tiempo** — Los jugadores obtienen más puntos por respuestas más rápidas.
+- **Time-based scoring** - Players earn more points for faster answers.
   - Para la mayoría de los tipos de pregunta, los puntos basados en tiempo disminuyen **continuamente por microsegundo**: cuanto más rápido respondas, más puntos obtienes.
   - Para **preguntas abiertas**, los puntos basados en tiempo se dividen en bloques. Por ejemplo: respuestas en el primer bloque (por ejemplo, primeros segundos) obtienen **100%** de la porción basada en tiempo, el siguiente bloque obtiene **80%**, y así sucesivamente. Esto ayuda a nivelar el terreno para quienes escriben más despacio.
 
-- **Porcentaje fijo de puntos en la puntuación basada en tiempo** — Tú controlas cuánto de la puntuación total está influenciado por la rapidez.
+- **Fixed percentage of points on time-based scoring** - You control how much of the total score is influenced by speed.
   - Por defecto, el **75%** de los puntos son fijos (todos los que respondan correcto obtienen estos puntos, sin importar la velocidad).
   - Solo el **25%** restante está influenciado por la rapidez con la que responden los jugadores.
 
@@ -66,10 +66,10 @@ Puedes añadir un **texto de introducción de la ronda** personalizado que apare
 
 Mejora tu ronda con archivos adjuntos que se muestran en momentos específicos:
 
-- **Antes de la ronda** — Se muestra después de la animación de introducción de la ronda
-- **Después de la ronda** — Se muestra después de la conclusión de la ronda
-- **Antes del final de ronda** — Se muestra después de la última pregunta, justo antes del final
-- **Durante el final de ronda** — _(solo audio)_ Se reproduce mientras se muestran las clasificaciones
+- **Before round** - Displayed after the round intro animation
+- **After round** - Shown after the round outro
+- **Before round outro** - Shown after the last question, just before the outro
+- **During round outro** - _(audio only)_ Plays while rankings are displayed
 - ...
 
 📘 Para tipos de archivo soportados y consejos de uso, consulta la [guía de archivos adjuntos](../editor/006-attachments.md).
