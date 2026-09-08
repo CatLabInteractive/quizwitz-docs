@@ -13,6 +13,10 @@ Témy QuizWitz sa vytvárajú pomocou **Adobe Animate**. Ako východiskový bod 
 
 Radšej to necháš na profesionálov? Pošli nám e-mail na [support@catlab.be](mailto:support@catlab.be) a pripravíme ti odhad, koľko bude stáť premena tvojho návrhu na hotovú tému QuizWitz pripravenú na použitie.
 
+:::tip
+Having a graphic designer draw the theme and someone else assemble it in Animate is a common arrangement. The [theme design guide](012-theme-design-guide.md) describes what the designer has to deliver for that to work.
+:::
+
 ---
 
 ## 🧪 Nástroj na testovanie témy

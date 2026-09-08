@@ -13,6 +13,10 @@ title: "Теми"
 
 Предпочиташ да го оставиш на професионалистите? Изпрати ни имейл на [support@catlab.be](mailto:support@catlab.be) и можем да ти дадем оценка за превръщането на дизайна ти в готова за използване тема за QuizWitz.
 
+:::tip
+Having a graphic designer draw the theme and someone else assemble it in Animate is a common arrangement. The [theme design guide](012-theme-design-guide.md) describes what the designer has to deliver for that to work.
+:::
+
 ---
 
 ## 🧪 Инструмент за тестване на тема
