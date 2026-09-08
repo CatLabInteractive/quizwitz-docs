@@ -16,7 +16,7 @@ A **játékosbemutató** egy különleges esemény, amely egyszerűen megjelení
 
 ---
 
-> A játékosbemutatók segítenek megalapozni a hangulatot, megtörni a jeget, és személyesebbé tenni a quiz élményét — különösen élő és csapatalapú eseményeken!
+> Player introductions help set the mood, break the ice, and personalize the quiz experience - especially in live and team-based events!
 
 ---
 
