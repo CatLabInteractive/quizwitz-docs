@@ -5,7 +5,7 @@ title: Hilo común
 
 # 🧵 Hilo común
 
-La ronda **Hilo común** es una variación especial de la clásica ronda de Trivia. En esta ronda, los jugadores responden una serie de preguntas regulares, pero la sorpresa es que todas las respuestas están secretamente conectadas por un solo tema o enlace subyacente: el "hilo común".
+La ronda **Hilo común** es una variación especial de la clásica ronda de Trivia. In this round, players answer a series of regular questions, but the twist is that all answers are secretly connected by a single underlying theme or link - the “common thread.”
 
 ---
 
