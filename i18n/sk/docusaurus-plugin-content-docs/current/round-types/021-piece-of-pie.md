@@ -1,11 +1,11 @@
 ---
 id: piece-of-pie
-title: Piece of Pie
+title: Kúsok koláča
 ---
 
-# 🥧 Piece of Pie
+# 🥧 Kúsok koláča
 
-In a **Piece of Pie** round, teamwork pays off! Celkový počet bodov dostupných za každú otázku závisí od počtu hráčov a potom sa rozdelí medzi všetkých hráčov (alebo tímy), ktorí na otázku odpovedia správne.
+V kole **Kúsok koláča** sa tímová práca vypláca! Celkový počet bodov dostupných za každú otázku závisí od počtu hráčov a potom sa rozdelí medzi všetkých hráčov (alebo tímy), ktorí na otázku odpovedia správne.
 
 ---
 
