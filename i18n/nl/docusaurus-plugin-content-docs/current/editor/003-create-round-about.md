@@ -5,7 +5,7 @@ title: Maak een Round-About
 
 # 🧠 Maak een Round-About
 
-Een **Round-About** is de kernquiz-eenheid in QuizWitz — een thematische set vragen die in willekeurige volgorde worden gepresenteerd. Je kunt je eigen maken en privé spelen, of publiceren om te delen met de community.
+A **Round-About** is the core quiz unit in QuizWitz - a themed set of questions presented in random order. Je kunt je eigen maken en privé spelen, of publiceren om te delen met de community.
 
 ---
 
@@ -24,9 +24,9 @@ Vanaf het hoofdmenu:
 
 Begin met je Round-About een duidelijke te geven:
 
-- **Titel** — iets pakkends of beschrijvends
-- **Taal** — de taal waarin je vragen zijn geschreven
-- **Categorie** — helpt spelers je Round-About later terug te vinden
+- **Title** - something catchy or descriptive
+- **Language** - the language your questions are written in
+- **Category** - helps players find your Round-About later
 
 > 🔒 Je hoeft je Round-About niet te publiceren om hem te spelen. Houd de Round-About privé of publiceer het als je klaar bent om te delen.
 
@@ -42,7 +42,7 @@ Klik op **Nieuwe vraag toevoegen** om te beginnen met het maken van je quizinhou
 - Sla je voortgang regelmatig op
 - Je kunt je Round-About op elk moment testen en spelen
 
-> 📢 **Om je Round-About te publiceren** heb je **minstens 14 vragen** nodig. Eenmaal gepubliceerd, wordt het zichtbaar voor de hele QuizWitz community — maar je kunt het later weer onpubliceren als dat nodig is.
+> 📢 **Om je Round-About te publiceren** heb je **minstens 14 vragen** nodig. Once published, it becomes visible to the entire QuizWitz community - but you can unpublish it later if needed.
 
 Wil je vragen in bulk toevoegen? Gebruik de functie **Vragen importeren** en volg de instructies om alles correct te formatteren.
 
@@ -54,9 +54,9 @@ Wil je vragen in bulk toevoegen? Gebruik de functie **Vragen importeren** en vol
 
 In de sectie **Details** vind je extra configuratieopties:
 
-- **Vertalen** — Maak een vertaalde versie van je Round-About in een andere taal
-- **Categorie** — Kies of werk de categorie van je Round-About bij
-- **Rondetype** — Selecteer hoe vragen aan spelers worden gepresenteerd. Je kunt configureren:
+- **Translate** - Create a translated version of your Round-About in another language
+- **Category** - Choose or update your Round-About’s category
+- **Round type** - Select how questions are presented to players. Je kunt configureren:
   - Meerkeuze
   - Open vragen
   - Bliksemrondes
@@ -68,4 +68,4 @@ In de sectie **Details** vind je extra configuratieopties:
 
 ---
 
-Als je tevreden bent met je inhoud, druk dan op publiceren — en deel je Round-About met de wereld!
+When you're happy with your content, hit publish - and share your Round-About with the world!
