@@ -5,7 +5,7 @@ title: Fil conducteur
 
 # 🧵 Fil conducteur
 
-La manche **Fil conducteur** est une variante spéciale de la manche Trivia classique. Dans cette manche, les joueurs répondent à une série de questions classiques, mais la particularité est que toutes les réponses sont secrètement liées par un thème ou un lien unique — le « fil conducteur ».
+La manche **Fil conducteur** est une variante spéciale de la manche Trivia classique. In this round, players answer a series of regular questions, but the twist is that all answers are secretly connected by a single underlying theme or link - the “common thread.”
 
 ---
 
