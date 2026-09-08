@@ -5,7 +5,7 @@ title: कॉन्फ़्रेंस क्विज़ चलाना
 
 # कॉन्फ़्रेंस क्विज़ चलाना
 
-यह गाइड आपको कॉन्फ़्रेंस बूथ या इवेंट में QuizWitz क्विज़ चलाने के लिए ज़रूरी हर चीज़ समझाती है — क्विज़ लिंक खोलने से लेकर आखिरी लीडरबोर्ड तक।
+This guide walks you through everything you need to know to run a QuizWitz quiz at a conference booth or event - from opening the quiz link to the final leaderboard.
 
 ---
 
@@ -16,7 +16,7 @@ title: कॉन्फ़्रेंस क्विज़ चलाना
 - एक स्थिर इंटरनेट कनेक्शन
 - quiz URL (जो आपको पहले से दिया गया है)
 - स्क्रीन से जुड़ा एक लैपटॉप, जिसे खिलाड़ी देखेंगे
-- **Google Chrome** — Safari या Edge जैसे दूसरे ब्राउज़र सही तरीके से काम नहीं कर सकते
+- **Google Chrome** - other browsers like Safari or Edge may not work correctly
 
 ---
 
@@ -27,7 +27,7 @@ title: कॉन्फ़्रेंस क्विज़ चलाना
 
 2. एक काली लोडिंग स्क्रीन दिखाई देगी, जिसमें प्रतिशत दिखेगा। इसमें बस कुछ सेकंड लगते हैं।
 
-3. लोड होने के बाद गेम स्क्रीन दिखती है। अगर लॉग इन करने के लिए कहा जाए, तो **Login** पर क्लिक करें — एक दूसरा टैब खुलेगा।
+3. लोड होने के बाद गेम स्क्रीन दिखती है। If prompted to log in, click **Login** - a second tab will open.
    - साइन-इन पेज पर **Login** पर क्लिक करें और आपको दिए गए क्रेडेंशियल डालें।
    - साइन इन करने के बाद, टैब अपने-आप बंद हो जाएगा और क्विज़ लोड होना पूरा हो जाएगा।
 
@@ -38,7 +38,7 @@ title: कॉन्फ़्रेंस क्विज़ चलाना
    अब क्विज़ गेम स्क्रीन पर खेला जा सकता है।
 
 :::tip
-किसी भी समय फ़ुलस्क्रीन से बाहर निकलने के लिए — उदाहरण के लिए, दूसरी विंडो पर जाने के लिए — **Esc** दबाएँ।
+To exit fullscreen at any time - for example, to switch to another window - press **Esc**.
 :::
 
 ---
@@ -47,8 +47,8 @@ title: कॉन्फ़्रेंस क्विज़ चलाना
 
 पूरा गेम खत्म होने के बाद फिर से खेलने के लिए, आपके पास कुछ विकल्प हैं:
 
-- **पेज फिर से लोड करें** — Chrome के टूलबार में रीलोड आइकन पर क्लिक करें (फ़ुलस्क्रीन से बाहर निकलने के लिए आपको पहले Esc दबाना पड़ सकता है)।
-- **S दबाएँ** — क्विज़ खत्म होने के बाद, कीबोर्ड पर **S** दबाने से आप स्टार्ट स्क्रीन पर वापस आ जाते हैं।
+- **Reload the page** - click the reload icon in Chrome's toolbar (you may need to press Esc first to exit fullscreen).
+- **Press S** - after the quiz ends, pressing **S** on the keyboard brings you back to the start screen.
 
 अगर कोई पॉप-अप पूछे कि क्या आप नया गेम शुरू करना चाहते हैं, तो **Yes, start new game** पर क्लिक करें।
 
