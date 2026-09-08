@@ -5,7 +5,7 @@ title: पारंपरिक
 
 # 📝 पारंपरिक
 
-**पारंपरिक** राउंड क्लासिक पब क्विज़ फ़ॉर्मैट जैसा अनुभव देता है, जहाँ खिलाड़ी राउंड खत्म होने तक अपने जवाब बदल सकते हैं—बिल्कुल वैसे ही जैसे पब में अपनी आंसर शीट जमा करना!
+A **Traditional** round simulates the classic pub quiz format, where players can change their answers until the end of the round - just like handing in your answer sheet at the pub!
 
 ---
 
