@@ -5,7 +5,7 @@ title: Pergunta de lista
 
 # 📝 Pergunta de lista
 
-Uma **pergunta de lista** pede aos jogadores que forneçam várias respostas corretas de uma lista maior — perfeito para pedidos como "Lista os 5 primeiros presidentes dos Estados Unidos da América" ou "Diz três elementos da tabela periódica."
+A **List question** asks players to provide several correct answers from a larger list - perfect for prompts like “List the first 5 presidents of the United States of America” or “Name three elements in the periodic table.”
 
 ---
 
@@ -18,7 +18,7 @@ Uma **pergunta de lista** pede aos jogadores que forneçam várias respostas cor
 - **Pergunta:** Indica claramente o que queres que os jogadores listem.
 - **Itens da lista:** Introduz todas as respostas corretas possíveis.
   - Marca alguns como **‘Dado’** para mostrar como exemplos no ecrã; estes NÃO precisam de ser respondidos.
-  - A ordem **não** importa — os jogadores podem introduzir as respostas corretas em qualquer ordem.
+  - Order does **not** matter - players can enter correct answers in any order.
 - **Entrada do jogador:** Os jogadores devem fornecer um número definido de respostas (por exemplo, entre 1 e 5). São atribuídos pontos por cada resposta correta que enviarem.
 - **Anexos:** Adiciona imagens, áudio ou vídeo para contexto. Preenche a atribuição se fores publicar.
 
@@ -43,7 +43,7 @@ Uma **pergunta de lista** pede aos jogadores que forneçam várias respostas cor
   - Os pontos disponíveis são divididos em blocos de tempo (não por milissegundo).  
     Por exemplo: pontuação total no primeiro bloco, 80% no seguinte, e assim por diante.
   - **Apenas 25%** dos pontos dependem da velocidade.  
-    Os outros **75%** são fixos — por isso, mesmo quem escreve mais devagar recebe a maior parte dos pontos se responder corretamente.
+    The other **75%** is fixed - so even slower typers get most of the points if they answer correctly.
   - Isto reduz a penalização pela velocidade de escrita e torna a pontuação mais justa para todos.
 
 Para detalhes, vê as [opções de pontuação da ronda](../editor/008-round-options.md#scoring).
