@@ -5,7 +5,7 @@ title: Společné téma
 
 # 🧵 Společné téma
 
-Kolo **Společné téma** je speciální variací klasického vědomostního kola. V tomto kole hráči odpovídají na sérii běžných otázek, ale háček je v tom, že všechny odpovědi jsou tajně propojené jedním společným tématem nebo spojitostí — „společným tématem“.
+Kolo **Společné téma** je speciální variací klasického vědomostního kola. In this round, players answer a series of regular questions, but the twist is that all answers are secretly connected by a single underlying theme or link - the “common thread.”
 
 ---
 
