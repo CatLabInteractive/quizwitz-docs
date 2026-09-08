@@ -5,7 +5,7 @@ title: Tournament
 
 # Tournament
 
-This tutorial will show you how to use QuizWitz Tournament mode. Tournament mode lets players join and play your quiz whenever they want - on their own device. Their scores are recorded on a global leaderboard that you can display in your venue.
+This tutorial will show you how to use QuizWitz Tournament mode. Tournament mode lets players join and play your quiz whenever they want — on their own device. Their scores are recorded on a global leaderboard that you can display in your venue.
 
 ---
 
@@ -16,7 +16,7 @@ When building a tournament quiz, keep it short and engaging. If visitors need to
 
 ### 🎲 Random question selection
 
-Make the game select a random set of questions from your pool, so every playthrough feels unique - and returning players get different questions.
+Make the game select a random set of questions from your pool, so every playthrough feels unique — and returning players get different questions.
 
 **Setup example:**
 - Choose **Quiz** in the Create menu and name your quiz. Set the correct language.
@@ -42,8 +42,8 @@ Tournaments can only be started from the **Advanced game options** menu.
 
 You will now receive two links:
 
-- **Player link** - Share this with your players (or let them scan the QR code from the leaderboard).
-- **Leaderboard link** - Open this on a display at your venue to show the live rankings and the QR code players can scan to join.
+- **Player link** — Share this with your players (or let them scan the QR code from the leaderboard).
+- **Leaderboard link** — Open this on a display at your venue to show the live rankings and the QR code players can scan to join.
 
 ---
 
@@ -64,6 +64,6 @@ Once the first players finish their games, their scores will be displayed live:
 
 ## 📧 Email confirmation
 
-You'll also get an email containing both the player and leaderboard links - handy so you don't lose them!
+You'll also get an email containing both the player and leaderboard links — handy so you don't lose them!
 
 ![A screenshot of the tournament email](/images/tutorials/tournament/tournament-email.png)
