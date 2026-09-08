@@ -23,10 +23,10 @@ Klikni na **ikonu ozubeného kolieska** v ľavom hornom rohu otázky a otvoríš
 
 ### 🎮 Režim a bodovanie
 
-- **Typ otázky** — Vyber, ako sa otázka bude hrať (napr. výber z možností, otvorená odpoveď, puzzle)  
-  → Viac sa dozvieš v časti [typy otázok](../question-types/000-question-types.md)
-- **Body** — Nastav, koľko bodov má správna odpoveď hodnotu
-- **Časovač otázky** — Uprav časový limit pomocou posuvníka
+- **Question type** - Choose how the question is played (e.g. multiple choice, open answer, puzzle)  
+  → Learn more in [question types](../question-types/000-question-types.md)
+- **Points** - Set how many points a correct answer is worth
+- **Question timer** - Adjust the time limit using the slider
 
 ---
 
@@ -34,12 +34,12 @@ Klikni na **ikonu ozubeného kolieska** v ľavom hornom rohu otázky a otvoríš
 
 Prispôsob, ako sa otázka správa počas hrania:
 
-- **Bodovanie podľa času** — Odmeň hráčov, ktorí odpovedajú rýchlejšie
-- **Viac správnych odpovedí** — Povoľ viac než jednu platnú možnosť
-- **Náhodné poradie odpovedí** — Zamiešaj možnosti na obrazovke
-- **Zastaviť časovač, keď všetci odpovedali** — Pokračuj hneď, ako sú odoslané všetky odpovede
-- **Zobraziť výsledky otázky** — Zobraz spätnú väzbu po otázke (alebo ju vypni)
-- **Vynútiť výsledky po otázke** — Platí iba vtedy, keď by sa spätná väzba normálne zobrazila neskôr (napr. v bleskových kolách alebo pri otvorených otázkach). Pri štandardných otázkach bez interakcie s porotou sa spätná väzba zobrazuje automaticky po každej otázke.
+- **Time-based scoring** - Reward players who answer more quickly
+- **Multiple correct answers** - Allow more than one valid choice
+- **Random answer order** - Shuffle the options on screen
+- **Stop timer when all answered** - Continue as soon as all responses are in
+- **Show question results** - Show feedback after the question (or disable it)
+- **Force results after question** - Only applies when feedback would normally be delayed (e.g., in lightning rounds or open questions). Pri štandardných otázkach bez interakcie s porotou sa spätná väzba zobrazuje automaticky po každej otázke.
 
 ---
 
@@ -47,9 +47,9 @@ Prispôsob, ako sa otázka správa počas hrania:
 
 Tieto polia určujú, čo sa zobrazí v Quizmaster App a na hernej obrazovke:
 
-- **Herná obrazovka - spätná väzba k otázke** - zobrazí sa všetkým hráčom po odhalení spätnej väzby
-- **Quizmaster - dlhá otázka** - verzia otázky, ktorú quizmaster prečíta nahlas
-- **Quizmaster - dlhá spätná väzba** - text, ktorý quizmaster prečíta po odhalení správnej odpovede
+- **Game screen - Question feedback** - Shown to all players after feedback is revealed
+- **Quizmaster - Long question** - A version of the question to be read aloud by the quizmaster
+- **Quizmaster - Long feedback** - Text the quizmaster can read after revealing the correct answer
 
 > 📝 Tieto polia pomáhajú, aby živé prezentácie pôsobili dynamicky a uhladene.
 
@@ -61,8 +61,8 @@ Tieto polia určujú, čo sa zobrazí v Quizmaster App a na hernej obrazovke:
 
 Otázky môžeš vylepšiť obrázkami, videom alebo zvukom. Každá príloha sa môže zobraziť v konkrétnych momentoch:
 
-- **Pred / Počas / Po otázke** — Zobrazí sa približne v čase, keď je otázka predstavená
-- **Pred / Počas / Po spätnej väzbe** — Zobrazí sa, keď sa odhalia výsledky
+- **Before / During / After Question** - Shown around the time the question is presented
+- **Before / During / After Feedback** - Shown when results are revealed
 - ...
 
 > 🧠 Prílohy sú obzvlášť užitočné na budovanie napätia, ilustrovanie odpovedí alebo doplnenie kontextu.
