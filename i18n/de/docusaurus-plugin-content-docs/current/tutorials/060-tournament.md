@@ -5,7 +5,7 @@ title: Turnier
 
 # Turnier
 
-Dieses Tutorial zeigt dir, wie du den QuizWitz Turniermodus benutzt. Der Turniermodus ermöglicht es Spielern, dein Quiz jederzeit zu starten und zu spielen – auf ihrem eigenen smart device. Ihre Ergebnisse werden auf einer globalen Bestenliste erfasst, die du in deinem Veranstaltungsort anzeigen kannst.
+Dieses Tutorial zeigt dir, wie du den QuizWitz Turniermodus benutzt. Tournament mode lets players join and play your quiz whenever they want - on their own device. Ihre Ergebnisse werden auf einer globalen Bestenliste erfasst, die du in deinem Veranstaltungsort anzeigen kannst.
 
 ---
 
@@ -16,7 +16,7 @@ Beim Erstellen eines Turnier-Quiz halte es kurz und spannend. Wenn Besucher zu v
 
 ### 🎲 Zufällige Fragenauswahl
 
-Lass das Spiel zufällig eine Auswahl von Fragen aus deinem Fragenpool treffen, damit sich jede Spielrunde einzigartig anfühlt – und Rückkehrer andere Fragen bekommen.
+Make the game select a random set of questions from your pool, so every playthrough feels unique - and returning players get different questions.
 
 **Beispiel für die Einrichtung:**
 
@@ -43,8 +43,8 @@ Turniere können nur über das Menü **Erweiterte Spieloptionen** gestartet werd
 
 Du erhältst nun zwei Links:
 
-- **Spielerlink** – Teile diesen mit deinen Spielern (oder lass sie den QR-Code von der Bestenliste scannen).
-- **Bestenlistenlink** – Öffne diesen auf einem Display in deinem Veranstaltungsort, um die Live-Rangliste und den QR-Code anzuzeigen, mit dem Spieler beitreten können.
+- **Player link** - Share this with your players (or let them scan the QR code from the leaderboard).
+- **Leaderboard link** - Open this on a display at your venue to show the live rankings and the QR code players can scan to join.
 
 ---
 
@@ -65,6 +65,6 @@ Sobald die ersten Spieler ihre Spiele beenden, werden ihre Ergebnisse live angez
 
 ## 📧 E-Mail-Bestätigung
 
-Du erhältst außerdem eine E-Mail mit beiden Links – Spieler- und Bestenlistenlink – praktisch, damit du sie nicht verlierst!
+You'll also get an email containing both the player and leaderboard links - handy so you don't lose them!
 
 ![Ein Screenshot der Turnier-E-Mail](/images/tutorials/tournament/tournament-email.png)
