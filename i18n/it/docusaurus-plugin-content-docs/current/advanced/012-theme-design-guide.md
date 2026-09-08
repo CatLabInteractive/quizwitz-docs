@@ -7,7 +7,14 @@ title: Guida alla progettazione dei temi
 
 [Temi](/docs/advanced/theming) spiega come viene costruito un tema QuizWitz: in Adobe Animate, esportato come libreria CreateJS. Questa pagina riguarda il passaggio precedente: la **progettazione** del tema.
 
-È scritta per un grafico e presuppone che la progettazione e la produzione in Animate siano affidate a persone diverse. Ormai pochi grafici lavorano ancora in Adobe Animate, quindi è normale che un grafico consegni la grafica e che qualcun altro assembli il tema. Funziona bene, ma solo se la grafica viene consegnata in una forma che chi costruisce il tema possa davvero usare. Questa pagina descrive quella forma e vale allo stesso tempo come elenco dei materiali da consegnare quando chiedi un preventivo a un grafico.
+It is written for a graphic designer, and it assumes that design and Animate production are done by different people. Few designers still work in Adobe Animate, so a designer usually delivers artwork and someone else assembles the theme. That works well, as long as the artwork arrives in a shape the build can use. Questa pagina descrive quella forma e vale allo stesso tempo come elenco dei materiali da consegnare quando chiedi un preventivo a un grafico.
+
+The page has four parts:
+
+1. [What you are designing](#what-you-are-designing) - the screens a theme covers.
+2. [The eight frames](#eight-frames-and-an-element-sheet) and [the element sheet](#the-element-sheet), one by one, with screenshots.
+3. [Design rules](#design-rules) - how the file has to be built so the engine can use it.
+4. [What to hand over](#what-to-hand-over) - source file, deliverables and order of work.
 
 :::tip
 Se vuoi solo cambiare colori, font e sfondi, non ti serve niente di tutto questo: personalizza invece il [tema Emerald](/docs/advanced/emerald-theme).
@@ -30,88 +37,69 @@ Un tema è l'intero rivestimento visivo dello schermo di gioco: sfondo, tipograf
 
 ---
 
-## Sette frame e un foglio degli elementi
+## Eight frames and an element sheet
 
-Il gioco ha decine di stati di schermata distinti, ma la maggior parte sono varianti dello stesso impaginato. **Tu progetti sette frame e un foglio di elementi; il resto ne deriva.** Non è una scorciatoia: è così che funziona il motore. Una schermata senza grafica propria ripiega su un frame generale.
+Il gioco ha decine di stati di schermata distinti, ma la maggior parte sono varianti dello stesso impaginato. **You design eight frames and one sheet of elements; the rest is derived from them.** That is not a shortcut - it is how the engine works. Una schermata senza grafica propria ripiega su un frame generale.
 
-Il foglio conta quanto i frame: una schermata che ripiega ha comunque bisogno di arredo nella sua area dei contenuti - un pannello, una riga, un filetto - e quell'arredo è una scelta progettuale, non qualcosa che si possa dedurre da uno sfondo.
+The sheet matters as much as the frames: a fall-back screen still needs furniture inside its content area - a panel, a row, a rule.
 
-| #     | Frame                        | Che cosa c'è sopra                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Che cosa ne deriva                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ----- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1** | **Frame generale**           | Lo sfondo, un titolo di intestazione e un'area dei contenuti vuota sotto. Non è una composizione finita: è il frame dentro cui viene costruito il resto.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Tredici stati di schermata: spiegazione del round, classifica, presentazione dei giocatori, varianti a scelta multipla, domande lunghe, avvisi sui Seats, impostazioni. Ognuno riempie quell'area dei contenuti a modo suo con elementi del foglio, quindi deve reggere cose che non si somigliano affatto. Il selettore delle domande e la domanda lunga possono avere una composizione propria, se lo desideri; altrimenti usano questo frame. |
-| **2** | **Connessione e attesa**     | Due schermate, non una. La **schermata di connessione** è ciò che la sala vede per partecipare: cinque righe di istruzioni, un codice di gioco, un codice QR, una riga con il numero di giocatori collegati e un elenco dei giocatori che arrivano alla spicciolata. Progettala **due volte**: con il logo del cliente e senza. Il codice di gioco e il codice QR vengono generati dal motore; riserva un quadrato per il codice QR. La **schermata di attesa** resta visibile mentre il quizmaster legge una domanda ad alta voce ed è quasi vuota: il logo del quiz stesso, oppure la grafica del tema, e nient'altro. Resta a schermo più a lungo di quasi ogni altra cosa nel gioco. | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **3** | **Schermata della domanda**  | La domanda, un timer, quattro opzioni di risposta, una riga di feedback. La schermata che la sala guarda più a lungo.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **4** | **Domanda con allegato**     | La stessa cosa, disposta attorno a un'immagine o a un video. Può essere una composizione diversa da quella del frame 3. L'allegato viene ridimensionato per stare nel riquadro che disegni, quindi sia un'immagine orizzontale sia una verticale devono risultare accettabili al suo interno.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Anche la variante con allegato a tutto schermo e gli allegati mostrati tra una domanda e l'altra.                                                                                                                                                                                                                                                                                                                                                                                                |
-| **5** | **Schermata della risposta** | Quale risposta era corretta, come si sono distribuite le risposte della sala tra le opzioni, e una riga di feedback.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Anche la schermata della risposta per le domande aperte e per le domande con allegato.                                                                                                                                                                                                                                                                                                                                                                                                           |
-| **6** | **Classifica e vincitore**   | Un elenco di giocatori con posizione, avatar, nome e punteggio. Consegna la **riga giocatore** come elemento separato e riutilizzabile: viene ripetuta sei volte per impostazione predefinita, fino a dieci.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Sia la classifica tra un round e l'altro sia il vincitore finale.                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| **7** | **Intro del round**          | Un breve annuncio per categoria di round. Le categorie sono sei: scienza e tecnologia, natura, intrattenimento e musica, sport, arte, storia. Uno stesso progetto può servire più categorie.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Tutte e sei le categorie.                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| # | Frame                                                           | Also covers                                                               |
+| - | --------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 1 | [General frame](#frame-1---the-general-frame)                   | Thirteen screen states with no artwork of their own                       |
+| 2 | [Connect screen](#frame-2---the-connect-screen)                 | Draw it twice: with a client logo and without one         |
+| 3 | [Waiting screen](#frame-3---the-waiting-screen)                 | -                                                                         |
+| 4 | [Question screen](#frame-4---the-question-screen)               | -                                                                         |
+| 5 | [Question with attachment](#frame-5---question-with-attachment) | The full-screen attachment, and attachments shown between questions       |
+| 6 | [Answer screen](#frame-6---the-answer-screen)                   | The answer screen for open questions and for questions with an attachment |
+| 7 | [Standings and winner](#frame-7---standings-and-winner)         | The standings between rounds and the final winner                         |
+| 8 | [Round intro](#frame-8---the-round-intro)                       | All six round categories                                                  |
 
-### Il foglio degli elementi
-
-Due gruppi di elementi, su un unico foglio, ciascuno disegnato una volta e riutilizzato ovunque.
-
-**Blocchi di contenuto.** Questi riempiono l'area dei contenuti del frame generale. Le schermate che vi ripiegano vengono assemblate a partire da essi, quindi quello che disegni qui decide l'aspetto di tutte:
-
-- un **pannello**: riempimento, bordo, raggio degli angoli - il contenitore in cui sta un elenco o un blocco di testo
-- una **riga di elenco**: l'unità che si ripete in ogni elenco, con uno sfondo proprio o senza
-- un **separatore**: il filetto tra le righe, dove non c'è un pannello
-- una **coppia etichetta-valore**: un'etichetta breve a sinistra, un valore a destra
-
-**Controlli.** Disegnati una volta, usati su ogni schermata:
-
-- un **pulsante** nei suoi quattro stati: riposo, hover, premuto, disattivato
-- i simboli di **corretto** ed **errato**
-- una **barra di scorrimento**, una **casella di controllo**, un **menu a discesa**
-- dove si trova il **logo QuizWitz**
-
-### Che cosa è già deciso
-
-- **I telefoni dei giocatori.** Un impaginato HTML fisso, stilizzato a partire dal tuo elenco di colori.
-- **Il pugno di cose che il motore disegna da sé.** Una parte dell'arredo viene disegnata nel codice invece di essere presa dal tema: i filetti tra le righe della scala dei punti, la riga evidenziata nel selettore delle domande, il codice QR. Questi elementi prendono il colore dall'elenco in **Il colore come elenco** e da nient'altro, quindi quell'elenco è l'unico controllo che hai su di loro.
-- **Quali schermate ripiegano sul frame generale, e come.**
-- **In che modo le sei categorie vengono associate alla grafica dell'intro del round.** Questa associazione è un'impostazione di configurazione, quindi una stessa intro può essere riutilizzata per più categorie.
-- **Tutti i tempi e tutte le durate delle animazioni.**
-- **L'audio.** Un tema può avere musica ed effetti sonori propri, ma è un materiale da consegnare a parte e non fa parte del brief di progettazione.
-
-### Il personaggio è facoltativo
-
-Il tema di serie di QuizWitz ha un personaggio che parla e reagisce. Niente ne impone uno: il validatore dei temi si limita ad avvisare a proposito dell'elemento `ted`; senza di esso non fallisce. Il [tema Emerald](/docs/advanced/emerald-theme) viene fornito senza personaggio, e rinunciarvi elimina il lavoro di animazione più costoso: sincronizzazione labiale, occhi, braccia.
-
-Senza personaggio, l'intro del round diventa un momento grafico, tipografico o illustrativo. Due approcci tengono il lavoro in proporzione: una composizione con una variante di colore o di icona per categoria, oppure un unico annuncio universale in cui cambia solo il nome del round. Sei intro davvero diverse sono molto lavoro per pochi secondi di schermo.
-
----
-
-## Come si presentano questi frame nella pratica
-
-Le schermate qui sotto provengono da un tema esistente. Sono qui per mostrare **quali elementi compaiono su ogni schermata e quando**. Non sono un riferimento né di stile _né_ di impaginazione: dove questo tema mette la sua domanda, le sue opzioni e il suo timer è una sua scelta, e la tua può essere completamente diversa. Leggile per ciò che deve esserci, non per dove va collocato. Tutte, e altre ancora, si possono provare nel [tester dei temi](https://client.quizwitz.com/test.html).
+:::note[About the screenshots]
+Le schermate qui sotto provengono da un tema esistente. They show **which elements appear on each screen and when**. Non sono un riferimento né di stile _né_ di impaginazione: dove questo tema mette la sua domanda, le sue opzioni e il suo timer è una sua scelta, e la tua può essere completamente diversa.
+:::
 
 ### Frame 1 - il frame generale
 
-Due momenti di gioco sullo stesso frame: un selettore delle domande e una scala dei punti.
+**What is on it:** the background, a header title and an empty content area below it. It is not a finished composition but the frame the rest is built inside.
 
-Guarda quanto poco hanno in comune. Il selettore mette le sue tre righe dentro un pannello con bordo; la scala non ha alcun pannello, solo righe separate da filetti sottili. Ciò che i due condividono è lo sfondo e la fascia di intestazione sopra di essi: tutto quello che sta sotto appartiene alla singola schermata e viene riempito dal gioco, non da te.
+**What it covers:** thirteen screen states - round explanation, standings, player introduction, multiple-choice variants, long questions, seat warnings, settings. Each fills the content area its own way with elements from the [element sheet](#the-element-sheet), so the frame has to hold things that look nothing alike. Il selettore delle domande e la domanda lunga possono avere una composizione propria, se lo desideri; altrimenti usano questo frame.
+
+Due momenti di gioco sullo stesso frame: un selettore delle domande e una scala dei punti.
 
 ![Il frame generale con un selettore delle domande a tre righe](/images/theme-design/frame1-general-multiquestion.png)
 
 ![Il frame generale con una scala dei punti a cinque livelli](/images/theme-design/frame1-general-strikeladder.png)
 
-Quel pannello e quei filetti sono scelte progettuali, e spettano a te: vengono dal **foglio degli elementi**, non da questo frame. Quello che questo frame deve fare è reggerli: progetta l'area dei contenuti come una zona vuota, neutra e ampia, che funzioni allo stesso modo con un pannello bordato, con un elenco spoglio e con una tabella di righe. Uno sfondo affollato al centro, o un'intestazione che funziona solo con un pannello infilato subito sotto, è il punto in cui questo si rompe.
+Guarda quanto poco hanno in comune. Il selettore mette le sue tre righe dentro un pannello con bordo; la scala non ha alcun pannello, solo righe separate da filetti sottili. Ciò che i due condividono è lo sfondo e la fascia di intestazione sopra di essi: tutto quello che sta sotto appartiene alla singola schermata e viene riempito dal gioco, non da te.
 
-### Frame 2 - connessione e attesa
+That panel and those rules come from the [element sheet](#the-element-sheet), not from this frame. Quello che questo frame deve fare è reggerli: progetta l'area dei contenuti come una zona vuota, neutra e ampia, che funzioni allo stesso modo con un pannello bordato, con un elenco spoglio e con una tabella di righe. Uno sfondo affollato al centro, o un'intestazione che funziona solo con un pannello infilato subito sotto, è il punto in cui questo si rompe.
 
-Con un logo del cliente accanto al codice di gioco, e senza, dove è la grafica propria del tema a reggere la schermata:
+### Frame 2 - the connect screen
+
+**What is on it:** everything the room needs in order to join.
+
+- five lines of instruction
+- a join code and a QR code, both generated by the engine - reserve a square for the QR code
+- a line with the number of connected players
+- a list of players trickling in
+
+**Draw it twice:** with a client logo beside the join code, and without one, where the theme's own artwork carries the screen.
 
 ![Schermata di connessione con un logo del cliente](/images/theme-design/frame2-connect.png)
 
 ![Schermata di connessione senza logo del cliente](/images/theme-design/frame2-connect-nologo.png)
 
-La schermata di attesa è una composizione a sé e non una variante della schermata di connessione: le due condividono solo lo sfondo. Resta visibile mentre il quizmaster legge una domanda ad alta voce, ed è quasi vuota: il logo del quiz stesso, oppure la grafica del tema, e nient'altro. Resta a schermo più a lungo di quasi ogni altra cosa nel gioco, quindi merita più attenzione di quanta ne riceva di solito una schermata vuota.
+### Frame 3 - the waiting screen
+
+**What is on it:** almost nothing - the quiz's own logo, or the theme's artwork.
+
+It shares only a background with the connect screen, so design it as its own composition. It stays up while the quizmaster reads a question aloud, which puts it on screen longer than almost anything else in the game. It deserves more attention than an empty screen usually gets.
 
 ![Schermata di attesa](/images/theme-design/frame2-pending.png)
 
-### Frame 3 - la schermata della domanda
+### Frame 4 - the question screen
 
-Quattro opzioni, la domanda sopra, il timer al centro. Nota che un'opzione può essere composta da un solo emoji.
+**What is on it:** the question, a timer, four answer options and a feedback line. This is the screen the room looks at longest. Note that an option can consist of nothing but an emoji:
 
 ![Schermata della domanda con quattro opzioni testuali](/images/theme-design/frame3-question-options.png)
 
@@ -125,9 +113,13 @@ Il momento in cui il tempo scade. Il fumetto di feedback compare sopra la scherm
 
 ![Schermata della domanda nello stato di tempo scaduto](/images/theme-design/frame3-question-timeout.png)
 
-### Frame 4 - allegato
+### Frame 5 - question with attachment
 
-Le stesse parti, ridisposte attorno a un'area per l'allegato, con le opzioni a sinistra e a destra:
+**What is on it:** the same parts as frame 4, arranged around an image or video. It may be a different composition. L'allegato viene ridimensionato per stare nel riquadro che disegni, quindi sia un'immagine orizzontale sia una verticale devono risultare accettabili al suo interno.
+
+**What it covers:** the full-screen attachment, and attachments shown between questions.
+
+Here with the options to the left and right of the attachment:
 
 ![Schermata della domanda con un'immagine al centro](/images/theme-design/frame4-question-attachment.png)
 
@@ -135,9 +127,13 @@ Un allegato da solo, che riempie lo schermo:
 
 ![Allegato a tutto schermo](/images/theme-design/frame4-attachment-fullscreen.png)
 
-### Frame 5 - la schermata della risposta
+### Frame 6 - the answer screen
 
-Questa schermata attraversa tre momenti. Prima la distribuzione, senza ancora nulla di marcato:
+**What is on it:** which answer was correct, how the room's answers were spread across the options, and a feedback line.
+
+**What it covers:** the answer screen for open questions and for questions with an attachment.
+
+The screen goes through three moments. Prima la distribuzione, senza ancora nulla di marcato:
 
 ![Schermata della risposta con la distribuzione](/images/theme-design/frame5-answer-mc-spread.png)
 
@@ -157,25 +153,68 @@ Per una domanda aperta, il grafico mostra quanti giocatori hanno indovinato:
 
 ![Schermata della risposta per una domanda aperta](/images/theme-design/frame5-answer-open.png)
 
-### Frame 6 - classifica e vincitore
+### Frame 7 - standings and winner
 
-La classifica dopo un round. La riga giocatore è l'elemento che si ripete: posizione, avatar, nome, punteggio.
+**What is on it:** a list of players with position, avatar, name and score. Supply the **player row** as a separate, reusable element: it is repeated six times by default, up to ten.
+
+**What it covers:** the standings between rounds and the final winner.
+
+The standings after a round, with six player rows:
 
 ![Classifica con sei righe giocatore](/images/theme-design/frame6-roundoutro.png)
 
-Il conto alla rovescia finale nomina un giocatore alla volta, dall'ultimo posto al primo: posto, punteggio e nome del team sotto i riflettori. È anche qui che gli emoji volanti sono più fitti; vedi la nota più avanti:
+Il conto alla rovescia finale nomina un giocatore alla volta, dall'ultimo posto al primo: posto, punteggio e nome del team sotto i riflettori. This is also where the [flying emoji](#flying-emoji-land-on-top-of-everything) are heaviest:
 
 ![Il conto alla rovescia del vincitore che nomina un giocatore](/images/theme-design/frame6-winner-countdown.png)
 
 ![La classifica finale](/images/theme-design/frame6-winner.png)
 
-### Frame 7 - l'intro del round
+### Frame 8 - the round intro
 
-Un solo progetto, eventualmente con una variante per categoria:
+**What is on it:** a short announcement per round category. Le categorie sono sei: scienza e tecnologia, natura, intrattenimento e musica, sport, arte, storia.
+
+**What it covers:** all six categories. One design may serve several of them.
+
+Here, one composition with a variant per category:
 
 ![Intro del round per la categoria natura](/images/theme-design/frame7-roundintro-nature.png)
 
 ![Intro del round per la categoria scienza](/images/theme-design/frame7-roundintro-science.png)
+
+**A character is optional.** The stock QuizWitz theme has one that talks and reacts; the [Emerald theme](/docs/advanced/emerald-theme) ships without, and dropping it removes the most expensive animation work - lip sync, eyes, arms.
+
+Senza personaggio, l'intro del round diventa un momento grafico, tipografico o illustrativo. Due approcci tengono il lavoro in proporzione: una composizione con una variante di colore o di icona per categoria, oppure un unico annuncio universale in cui cambia solo il nome del round. Sei intro davvero diverse sono molto lavoro per pochi secondi di schermo.
+
+---
+
+## Il foglio degli elementi
+
+Due gruppi di elementi, su un unico foglio, ciascuno disegnato una volta e riutilizzato ovunque.
+
+**Blocchi di contenuto.** Questi riempiono l'area dei contenuti del frame generale. Le schermate che vi ripiegano vengono assemblate a partire da essi, quindi quello che disegni qui decide l'aspetto di tutte:
+
+- un **pannello**: riempimento, bordo, raggio degli angoli - il contenitore in cui sta un elenco o un blocco di testo
+- una **riga di elenco**: l'unità che si ripete in ogni elenco, con uno sfondo proprio o senza
+- un **separatore**: il filetto tra le righe, dove non c'è un pannello
+- una **coppia etichetta-valore**: un'etichetta breve a sinistra, un valore a destra
+
+**Controlli.** Disegnati una volta, usati su ogni schermata:
+
+- un **pulsante** nei suoi quattro stati: riposo, hover, premuto, disattivato
+- i simboli di **corretto** ed **errato**
+- una **barra di scorrimento**, una **casella di controllo**, un **menu a discesa**
+- dove si trova il **logo QuizWitz**
+
+---
+
+## Che cosa è già deciso
+
+- **The players' phones.** A fixed HTML layout.
+- **The handful of things the engine draws itself** - the rules between rows on the points ladder, the highlighted row in the question picker, the QR code. Their colours come from [Colour as a list](#colour-as-a-list).
+- **Quali schermate ripiegano sul frame generale, e come.**
+- **In che modo le sei categorie vengono associate alla grafica dell'intro del round.** Questa associazione è un'impostazione di configurazione, quindi una stessa intro può essere riutilizzata per più categorie.
+- **Tutti i tempi e tutte le durate delle animazioni.**
+- **L'audio.** Un tema può avere musica ed effetti sonori propri, ma è un materiale da consegnare a parte e non fa parte del brief di progettazione.
 
 ---
 
@@ -194,7 +233,12 @@ Nessuna di queste limita il tuo lavoro visivo. Riguardano il modo in cui è cost
 
 **Tutto ciò che può muoversi, comparire o cambiare valore sta su un livello proprio con un nome proprio.** Niente unito, niente appiattito.
 
-In pratica: le quattro opzioni di risposta sono quattro livelli separati, non uno. Il timer è separato dallo sfondo. Un pulsante e la sua etichetta sono due elementi. Una riga giocatore è un gruppo che si può duplicare.
+In practice:
+
+- the four answer options are four separate layers, not one
+- the timer is separate from the background
+- a button and its label are two elements
+- a player row is one group that can be duplicated
 
 Che cosa si può unire: la grafica di sfondo puramente decorativa che funziona come una singola immagine fissa.
 
@@ -204,11 +248,13 @@ Questa è l'unica regola che fa davvero male quando non viene seguita: la grafic
 
 Il motore disegna su un canvas HTML5. Questi vanno **incorporati nell'immagine** oppure lasciati fuori:
 
-- Sfocatura, ombre esterne e bagliore dal vivo come filtri → forniscili come grafica
-- Metodi di fusione (moltiplica, scolora, sovrapponi) → risolvili in colore piatto
-- Effetti di livello e livelli di regolazione
-- Sfumature **dentro** il testo, o testo con un contorno per carattere
-- Maschere che cambiano da un fotogramma all'altro
+| Effect                                                               | What to do instead          |
+| -------------------------------------------------------------------- | --------------------------- |
+| Live blur, drop shadows and glow as filters                          | Supply them as artwork      |
+| Blend modes (multiply, screen, overlay)           | Resolve them to flat colour |
+| Effetti di livello e livelli di regolazione                          | Bake them in                |
+| Sfumature **dentro** il testo, o testo con un contorno per carattere | Leave them out              |
+| Maschere che cambiano da un fotogramma all'altro                     | Leave them out              |
 
 Le sfumature nelle forme vanno bene. La trasparenza va bene. Le ombre come grafica fissa vanno bene.
 
@@ -230,23 +276,22 @@ Da qui deriva quanto segue:
 - **Progetta ogni riquadro di testo due volte.** Riempilo una volta con un esempio molto corto e una volta con uno molto lungo, e verifica che la composizione regga in entrambi i casi. Come regola pratica: un'opzione di risposta va da una a circa otto parole, una domanda da cinque a quaranta, un nome di giocatore da due a venti caratteri.
 - **Non contare su un numero fisso di righe.** Un titolo che sta "sempre su una riga" qui non esiste.
 - **Non allineare otticamente il testo a qualcos'altro.** Il testo che deve allinearsi a un filetto o a una forma si sposterà non appena sarà più corto o più lungo. Usa riquadri abbastanza ampi e un allineamento (a sinistra, centrato, a destra) invece di posizioni esatte.
-- **Il riquadro è un massimo, non una promessa.** Tu ne progetti le proporzioni; il riempimento varia.
 - **Dodici lingue.** Le parole composte tedesche sono lunghe, e l'ungherese non è più clemente. Un riquadro che in inglese sta stretto scende a una dimensione illeggibile in tedesco.
 - **Gli emoji possono comparire dentro il testo.** I giocatori ne scelgono uno accanto al nome del team, e una domanda o un'opzione può contenerne uno: a volte un'opzione non è altro che un emoji. Vengono disegnati a colori e sono più alti delle lettere che li circondano.
 
-Che cosa deve sapere chi costruisce a proposito di ogni riquadro di testo: dove si trova, quanto è grande, come è allineato, che colore e che font ha. Non: a che corpo.
+**What the build needs to know about each text box:** where it is, how big it is, how it is aligned, which colour and which font. Non: a che corpo.
 
-Ne derivano due cose che puoi sfruttare: un riquadro grande con testo corto diventa da solo una composizione tipografica forte, e un riquadro che rendi volutamente stretto e alto costringe il testo in colonna. Puoi usare questo adattamento come strumento progettuale: semplicemente non devi progettare contro di esso.
+**You can use this.** A large box with short text becomes a strong typographic composition by itself, and a box you deliberately make narrow and tall forces text into a column. Use the fitting as a design device; just do not design against it.
 
 ### Il timer - obbligatorio, ed è un'animazione
 
-**Ogni schermata della domanda ha un timer.** Non è facoltativo; la sala deve vedere quanto tempo resta. Entrambi i frame della domanda ne portano uno.
+**Every question screen has a timer**; the room has to see how much time is left.
 
 **Il timer non è un numero che conta, ma un'animazione di cui il motore muove la testina di riproduzione.** Progetti una progressione da "pieno" a "vuoto": una barra che si svuota, un anello che si chiude, una clessidra, una linea che si accorcia. Il motore riproduce quell'animazione esattamente alla velocità che fa coincidere l'ultimo fotogramma con la fine della domanda.
 
 Da qui deriva quanto segue:
 
-- **La durata della domanda non è fissa.** Viene impostata per quiz: spesso da venti a trenta secondi, ma può essere più breve o più lunga. La tua animazione viene allungata o compressa per adattarsi. Progetta una _progressione_, non un'animazione di un numero fisso di secondi.
+- **La durata della domanda non è fissa.** Viene impostata per quiz: spesso da venti a trenta secondi, ma può essere più breve o più lunga. La tua animazione viene allungata o compressa per adattarsi.
 - **Niente numeri né scatti al secondo.** Un timer che conta "20, 19, 18…" smette di essere vero non appena la durata cambia.
 - **Gli ultimi secondi sono il momento più teso del gioco.** Aiuta se la progressione diventa più chiara o più incalzante verso la fine.
 - **Leggibile dal fondo della sala**, con un colpo d'occhio.
@@ -256,18 +301,20 @@ Consegna il timer come una serie di fotogrammi chiave o come una descrizione del
 
 ### Gli emoji volanti atterrano sopra ogni cosa
 
-Ogni giocatore sceglie un emoji quando entra, e il gioco lancia quegli emoji attraverso lo schermo. Vengono disegnati dal motore su un livello sopra il tema, con i colori che l'emoji del giocatore si trova ad avere. **Qui non c'è niente da progettare per te** - ma c'è qualcosa attorno a cui progettare, perché non sono un fronzolo raro. Compaiono in tre momenti:
+Ogni giocatore sceglie un emoji quando entra, e il gioco lancia quegli emoji attraverso lo schermo. They are drawn by the engine on a layer above the theme. **Qui non c'è niente da progettare per te** - ma c'è qualcosa attorno a cui progettare, perché non sono un fronzolo raro.
+
+Compaiono in tre momenti:
 
 - **Quando un giocatore risponde.** L'emoji di quel giocatore sale dal bordo inferiore in una posizione orizzontale casuale, descrive un arco e ricade fuori dall'inquadratura.
 - **Quando un giocatore ne lancia uno.** I giocatori possono lanciare il loro emoji dal telefono; angolo e velocità vengono dallo scorrimento del dito, e parte dal centro in basso, ruotando.
 - **Quando viene svelato un posto nel conto alla rovescia finale.** Una raffica degli emoji del giocatore nominato: venti per un posto qualsiasi, cinquanta per il terzo, settantacinque per il secondo e **centocinquanta per il vincitore.**
 
-Entrano sempre dal bordo inferiore, descrivono un arco sotto l'effetto della gravità e ricadono fuori. Che cosa significa questo per la progettazione:
+Che cosa significa questo per la progettazione:
 
 - **Tieni il terzo inferiore delle schermate di classifica e del vincitore libero da qualsiasi cosa piccola o essenziale.** Durante il conto alla rovescia là sotto c'è davvero calca.
 - **Dai per scontato che stoneranno con la tua palette.** Sono emoji a colori pieni provenienti da ogni angolo della tabella Unicode, e nessun tema li controlla. Un progetto che sta in piedi solo entro una gamma cromatica stretta sembrerà casuale per quei secondi.
 - **I lanci vengono soppressi mentre è visibile un'immagine o un video**, quindi le schermate con allegato restano pulite.
-- L'intero livello può essere disattivato partita per partita, quindi non costruire nemmeno una composizione che dipenda dalla loro presenza.
+- **The whole layer can be switched off per game**, so do not build a composition that depends on them being there either.
 
 ### Font
 
@@ -278,13 +325,22 @@ Entrano sempre dal bordo inferiore, descrivono un arco sotto l'effetto della gra
 
 Il tema legge un elenco di colori da un file di configurazione, e i telefoni dei giocatori vengono stilizzati a partire dallo stesso elenco. Consegna la tua palette come **elenco con nomi**, non solo come colori nella grafica:
 
-- **Schermo di gioco:** colore principale, colore d'accento, sfondo, colore del pannello o del contenitore, sfondo del timer, colore del testo predefinito, colore del testo di intestazione, colore del testo della domanda, testo dei pulsanti, testo delle finestre di dialogo e delle spiegazioni, testo del nome del giocatore e del punteggio, il colore del corretto, il colore dell'errato.
-- **Le quattro opzioni di risposta:** ciascuna con un colore di sfondo e uno di bordo, più un colore pieno per opzione, per i telefoni e per i grafici.
-- **Telefoni dei giocatori:** sfondo, colore del testo, colore del contorno, colore del contorno delle opzioni, e il colore di sfondo e del testo del contenitore della risposta.
+| Where                       | Colours                                                                                                                                                                                                                                                                |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Game screen**             | Main colour, accent colour, background, panel or container colour, timer background, default text colour, header text colour, question text colour, button text, dialog and explanation text, player name and score text, the colour for correct, the colour for wrong |
+| **The four answer options** | For each option: a background colour, a border colour, and one flat colour for the phones and the charts                                                                                                                                               |
+| **Players' phones**         | Background, text colour, outline colour, option outline colour, and the background and text colour of the answer container                                                                                                                                             |
 
 Sullo schermo di gioco sono ammesse le sfumature: indicale come due valori esadecimali.
 
-Qualche colore è l'_unica_ presa che hai sulle parti che il motore disegna da sé, quindi vale la pena deciderli invece di lasciarli al valore predefinito: il **separatore** (i filetti tra le righe dove non c'è un pannello, e quelli sulla scala dei punti), gli stati **attivo**, **inattivo** e **selezionato** di una riga nel selettore delle domande, il testo delle **finestre di dialogo**, e il **fronte e il retro del codice QR**. Se li ometti, ripiegano su valori predefiniti incorporati - bianco, grigio, rosso, nero e bianco - che raramente si abbinano a un progetto.
+A few colours are the _only_ handle on parts the engine draws itself, so they are worth deciding rather than defaulting:
+
+- the **separator** - the rules between rows where there is no panel, and on the points ladder
+- the **active**, **inactive** and **selected** states of a row in the question picker
+- the **dialog** text
+- the **front and back of the QR code**
+
+Se li ometti, ripiegano su valori predefiniti incorporati - bianco, grigio, rosso, nero e bianco - che raramente si abbinano a un progetto.
 
 ### Il logo QuizWitz
 
@@ -296,15 +352,17 @@ I progetti su misura comprendono il logo QuizWitz. Riservagli un posto in cui no
 
 ### File sorgente - meglio Illustrator
 
-**Adobe Illustrator (`.ai`) è preferibile, e c'è un motivo concreto.** Il tema viene costruito in Adobe Animate, che importa direttamente i file di Illustrator e converte i tuoi livelli in livelli di Animate o in simboli separati, mantenendo i nomi dei livelli e lasciando i vettori modificabili. È esattamente il passaggio che salva la grafica dal dover essere ricostruita a mano.
+The theme is built in Adobe Animate, and what Animate can import decides how much of your work survives the hand-over intact:
 
-Figma o Photoshop sono possibili, ma sappi quanto costa: con Figma tutto passa dall'esportazione in SVG e PNG, ed è proprio lì che si perde la struttura dei livelli necessaria qui. Se usi comunque Figma, consegna **ogni elemento separatamente in SVG**, con nomi di file corrispondenti ai nomi dei livelli, in modo che la struttura possa essere ricostruita a mano. Photoshop si importa in Animate con i suoi livelli intatti, come Illustrator, ma ti dà raster invece di vettoriale.
-
-Se sei più veloce in Figma, usalo per la fase di concept e consegna la versione definitiva in Illustrator.
+| Tool                                             | What happens on import                                                                                                                                                                                                                                                                                                                  | Use it for                                 |
+| ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| **Adobe Illustrator** (`.ai`) | Animate imports it directly and converts your layers into Animate layers or separate symbols, keeping the layer names and leaving the vectors editable. È esattamente il passaggio che salva la grafica dal dover essere ricostruita a mano.                                                            | **Preferred** for the final deliverable    |
+| **Adobe Photoshop**                              | Imports with its layers intact, like Illustrator, but gives raster instead of vector.                                                                                                                                                                                                                                   | Possible                                   |
+| **Figma**                                        | Everything goes through SVG and PNG export, and that is precisely where the layer structure needed here is lost. Se usi comunque Figma, consegna **ogni elemento separatamente in SVG**, con nomi di file corrispondenti ai nomi dei livelli, in modo che la struttura possa essere ricostruita a mano. | The concept phase, if you are faster in it |
 
 Struttura del file:
 
-- Una tavola da disegno per schermata, ciascuna esattamente 1920 × 1080, con il nome dei frame qui sopra.
+- One artboard per screen, named after the frames above.
 - Le parti riutilizzabili (pulsante, riga giocatore, opzione di risposta, timer) come **simboli** o componenti, non come copie sciolte.
 - Nomi dei livelli in inglese, senza spazi: `question`, `option1` fino a `option4`, `timer`, `feedback`, `header`, `background`, `playerScore`.
 - Colori come campioni con nome e testo come stili con nome, invece che impostati su ogni singolo oggetto.
@@ -313,43 +371,45 @@ Struttura del file:
 
 1. Il **file sorgente**, strutturato come sopra.
 2. **Ogni frame come PNG**, 1920 × 1080 - un riferimento di come deve apparire. Per il frame 2, sia la versione con sia quella senza logo del cliente.
-3. **Il foglio degli elementi** come una sola tavola da disegno: i blocchi di contenuto e i controlli elencati sopra.
+3. **The element sheet** as one artboard: the [content building blocks and the controls](#the-element-sheet).
 4. **Ogni singolo elemento grafico come PNG trasparente a 2×**, in un'unica cartella, con il nome del file corrispondente al nome del livello.
 5. **Il timer** come fotogrammi chiave o come descrizione scritta della progressione.
 6. **I font** in `.ttf` o `.otf`, con prova della licenza.
-7. **L'elenco dei colori** descritto sopra, in valori esadecimali.
+7. **The colour list** from [Colour as a list](#colour-as-a-list), as hex values.
 8. **Mezza pagina di note**: qual è l'idea, come devono comparire le opzioni, che cosa si muove e che cosa resta fermo. Non una motivazione progettuale di dieci pagine: chi costruisce il tema ha bisogno di sapere che cosa costruire. Le idee di movimento possono essere descritte o fornite come animatic di massima.
 
 ### Ordine di lavoro
 
-Comincia dal frame 3, la schermata della domanda, insieme al foglio degli elementi, e fai approvare entrambi prima del resto. Insieme portano il timer, le opzioni, il pannello e ogni controllo, quindi fissano lo stile dell'intero tema, e la schermata della domanda è quella che la sala guarda più a lungo. I frame 1 e 2 ne derivano naturalmente; i frame da 5 a 7 vengono per ultimi.
+1. **Frame 4, the question screen, together with the element sheet.** Get both approved before the rest. Between them they carry the timer, the options, the panel and every control, so they settle the style of the whole theme.
+2. **Frames 1 to 3.** They follow naturally from the first two.
+3. **Frames 6 to 8** come last.
 
 ---
 
 ## Appendice - nomi dei simboli
 
-Per completezza, e per chi vuole sapere esattamente dove va a finire la propria grafica. **Non hai bisogno di leggere questo per fare il lavoro**; i sette frame e il foglio degli elementi qui sopra bastano. Usare questi nomi come nomi dei livelli fa risparmiare un passaggio di traduzione.
+Per completezza, e per chi vuole sapere esattamente dove va a finire la propria grafica. **You do not need to read this to do the work**; the eight frames and the element sheet above are enough. Usare questi nomi come nomi dei livelli fa risparmiare un passaggio di traduzione.
 
 | Frame                                                      | Nome del simbolo                                                                                                                          | Parti obbligatorie                                                                                                                                                                                        |
 | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1. Frame generale                   | `GeneralPurposeScreen`; `GeneralPurposeScreenWithHeader` facoltativo                                                                      | `placeholder` (l'area dei contenuti); riquadro di testo `title` facoltativo                                                                                                            |
 | 1b. Selettore delle domande, domanda lunga | `MultiQuestionScreen`, `LongQuestionScreen`; entrambi facoltativi, ripiegano sul frame generale                                           | selettore: segnaposto `questions`, `timer`; domanda lunga: segnaposto `question`                                                                                          |
 | 2. Schermata di connessione         | `PresentationConnectScreen`; `PresentationConnectScreenWithLogo` facoltativo, con un segnaposto `logo`                                    | `instructions.line1` fino a `line5`, `connectedPlayers`; segnaposto `qrCode` con etichetta di fotogramma `showQrCode` facoltativo                                                                         |
-| 2b. Schermata di attesa                    | `PendingScreen`; `PendingScreenWithLogo` facoltativo                                                                                      | `header.text`                                                                                                                                                                                             |
-| 3. Schermata della domanda          | `QuestionScreen`                                                                                                                          | `question.text`, `timer`, `feedback.text`, `option1` fino a `option4`, etichette di fotogramma `showOptions` e `showFeedback`                                                                             |
-| 4. Domanda con allegato             | `QuestionScreenAttachment`                                                                                                                | come sopra, più `attachment.placeholder`                                                                                                                                                                  |
-| 4b. Allegato a tutto schermo               | `AttachmentScreen`                                                                                                                        | `placeholder`                                                                                                                                                                                             |
-| 5. Schermata della risposta         | `AnswerPieScreen`; `AnswerPieScreenAttachment` facoltativo                                                                                | `option1` fino a `option4`, `answer.text`, `feedback.text`                                                                                                                                                |
-| 5b. Risposta a domanda aperta              | `AnswerScreen`, `AnswerOpenQuestionPieScreen`; varianti `…Attachment` facoltative                                                         | `answer.text`, `feedback.text`, `players`, `piechart`                                                                                                                                                     |
-| 6. Classifica                       | `WinnerScreen` + `PlayerScore`; `WinnerScreen_round`, `WinnerScreen_game` e `PlayerScoreNoImage` facoltativi                              | `header.text`, `players`, `feedback.text` (`playAgain.text` facoltativo); nella riga: `position`, `name`, `score`, `avatar` facoltativo                                |
-| 7. Intro del round                  | uno o più simboli con un nome qualsiasi; il file di configurazione associa ciascuna delle sei categorie a un simbolo                      | -                                                                                                                                                                                                         |
+| 3. Schermata di attesa              | `PendingScreen`; `PendingScreenWithLogo` facoltativo                                                                                      | `header.text`                                                                                                                                                                                             |
+| 4. Schermata della domanda          | `QuestionScreen`                                                                                                                          | `question.text`, `timer`, `feedback.text`, `option1` fino a `option4`, etichette di fotogramma `showOptions` e `showFeedback`                                                                             |
+| 5. Domanda con allegato             | `QuestionScreenAttachment`                                                                                                                | come sopra, più `attachment.placeholder`                                                                                                                                                                  |
+| 5b. Allegato a tutto schermo               | `AttachmentScreen`                                                                                                                        | `placeholder`                                                                                                                                                                                             |
+| 6. Schermata della risposta         | `AnswerPieScreen`; `AnswerPieScreenAttachment` facoltativo                                                                                | `option1` fino a `option4`, `answer.text`, `feedback.text`                                                                                                                                                |
+| 6b. Risposta a domanda aperta              | `AnswerScreen`, `AnswerOpenQuestionPieScreen`; varianti `…Attachment` facoltative                                                         | `answer.text`, `feedback.text`, `players`, `piechart`                                                                                                                                                     |
+| 7. Classifica                       | `WinnerScreen` + `PlayerScore`; `WinnerScreen_round`, `WinnerScreen_game` e `PlayerScoreNoImage` facoltativi                              | `header.text`, `players`, `feedback.text` (`playAgain.text` facoltativo); nella riga: `position`, `name`, `score`, `avatar` facoltativo                                |
+| 8. Intro del round                  | uno o più simboli con un nome qualsiasi; il file di configurazione associa ciascuna delle sei categorie a un simbolo                      | -                                                                                                                                                                                                         |
 | -                                                          | `LoadingScreen`                                                                                                                           | `text`, `progress`                                                                                                                                                                                        |
 | -                                                          | `Button`, `Checkbox`, `Slider`, `QuestionSelect`, `Scrollbar`, `SettingsScreenScrollarea`, `SymbolCorrect`, `SymbolWrong`, `PackListItem` | non serve grafica propria - costruiti a partire da quello che compare nei tuoi frame                                                                                                                      |
 | -                                                          | `IntroScreen`, `IntroScreenBranded`, `MenuScreen`, `SettingsScreen`, `AlertScreen`, `ActivityScreen`, `ActivityVotePieScreen`             | visibili solo nell'app desktop, non in un quiz dal vivo. Non fanno parte del brief: vengono presi dal modello del tema e ristilizzati con il tuo sfondo e i tuoi pulsanti |
 
 I simboli dell'intro del round del tema di serie si chiamano `RoundIntroScienceAndTech`, `RoundIntroFloraAndFauna`, `RoundIntroTedMusic`, `RoundIntroTedSport` e `RoundIntroTedCultHist`; arte e storia condividono l'ultimo. Il "Ted" in quei nomi è un residuo del personaggio del tema originale e non significa che in essi debba comparire un personaggio.
 
-Ogni elemento seguito da `.text` è un riquadro di testo adattato come descritto sopra: un rettangolo che il motore riempie da sé. L'elemento `timer` è un filmato con una linea temporale propria; il motore ne legge il numero di fotogrammi e muove la testina di riproduzione in proporzione al tempo trascorso, al massimo 24 volte al secondo.
+Every element with `.text` after it is a fitted text box as described under [How text behaves](#how-text-behaves): a rectangle the engine fills itself. L'elemento `timer` è un filmato con una linea temporale propria; il motore ne legge il numero di fotogrammi e muove la testina di riproduzione in proporzione al tempo trascorso, al massimo 24 volte al secondo.
 
 ### Che cosa prende il file di configurazione dal tuo progetto
 
