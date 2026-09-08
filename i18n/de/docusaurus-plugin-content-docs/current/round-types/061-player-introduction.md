@@ -16,7 +16,7 @@ title: Spieler Einführung
 
 ---
 
-> Spieler Vorstellungen helfen, die Stimmung zu setzen, das Eis zu brechen und das Quiz-Erlebnis zu personalisieren – besonders bei Live- und Team-Events!
+> Player introductions help set the mood, break the ice, and personalize the quiz experience - especially in live and team-based events!
 
 ---
 
