@@ -5,8 +5,8 @@ title: Alphabet
 
 # 🔤 Alphabet
 
-Une manche **Alphabet** est une [manche traditionnelle](030-traditional.md) avec une touche spéciale — chaque question se voit attribuer une étiquette unique,
-et les joueurs doivent associer leurs réponses aux champs étiquetés correspondants. Cette manche récompense à la fois la connaissance et la déduction !
+An **Alphabet** round is a [Traditional round](030-traditional.md) with a twist - each question is assigned a unique label,
+and players must match their answers to the correct labeled fields. Cette manche récompense à la fois la connaissance et la déduction !
 
 ---
 
@@ -27,10 +27,10 @@ et les joueurs doivent associer leurs réponses aux champs étiquetés correspon
 
 ## 📝 Comment ça marche
 
-- Au fur et à mesure que les questions sont posées, les joueurs voient une liste de champs de réponses — un pour chaque question.
-- **Les champs de réponse ne sont pas dans l'ordre du quiz** — ils sont triés alphabétiquement par étiquette.
+- As questions are asked, players see a list of answer fields - one for each question.
+- **The answer fields are not in quiz order** - instead, they’re sorted alphabetically by label.
 - Les joueurs doivent associer leurs réponses aux champs étiquetés correspondants (par exemple, la réponse à la question "Ours" doit être entrée sous l'étiquette "O").
-- Les réponses peuvent être modifiées à tout moment avant la fin de la manche — les joueurs peuvent échanger des réponses entre les champs lorsqu'ils réalisent leurs erreurs.
+- Answers can be changed at any time until the round finishes - players can switch answers between fields as they realize their mistakes.
 
 ---
 
