@@ -3,9 +3,9 @@ id: startup
 title: Indulás
 ---
 
-# 🚀 Indulás — kvíz vezetése a QuizWitz Live segítségével
+# 🚀 Start-up - Hosting a Quiz with QuizWitz Live
 
-Üdv a QuizWitz Live-ban — ez a profi módja annak, hogy kvízeket tarts csapatoknak, élő közvetítésekhez és személyes eseményeken. Kövesd ezt az útmutatót, hogy a Quizmaster App segítségével gyorsan elindítsd a kvízedet.
+Welcome to QuizWitz Live - the professional way to host quizzes for teams, livestreams, and in-person events. Kövesd ezt az útmutatót, hogy a Quizmaster App segítségével gyorsan elindítsd a kvízedet.
 
 ---
 
@@ -23,7 +23,7 @@ QuizWitz Live játékot indíthatsz a kvízszerkesztőből vagy közvetlenül a 
 
 ## 🔐 Csatlakozás a quizmaster kóddal
 
-Az indítás után a képernyődön megjelenik egy **quizmaster kód**. **Ne oszd meg ezt a kódot a játékosokkal** — ezzel kapcsolod a prezentációs eszközödet a játékhoz.
+Az indítás után a képernyődön megjelenik egy **quizmaster kód**. **Do not share this code with players** - it's used to connect your presentation device to the game.
 
 - A quizmaster eszközödön nyisd meg a [quizwitz.tv](https://quizwitz.tv) oldalt, és írd be a quizmaster kódot.
 - Megjelenik a **Quizmaster App felülete**, ahol te irányítod a játékot.
@@ -32,7 +32,7 @@ Az indítás után a képernyődön megjelenik egy **quizmaster kód**. **Ne osz
 
 A csatlakozás után a quizmaster kód eltűnik a képernyőről. Most már készen állsz, hogy a játékképernyőt projektorra tedd, vagy elindítsd a livestreamet.
 
-> ⚠️ **Figyelem!** Ha a játékképernyő nincs aktívan előtérben - például lapot váltasz vagy kicsinyíted -, a játék **automatikusan szünetel**.  
+> ⚠️ **Heads up!** If the game screen is not actively in focus - for example, if you switch tabs or minimize it - the game will **automatically pause**.  
 > Amikor ez történik:
 >
 > - A **Quizmaster App is szünetel**
@@ -51,13 +51,13 @@ Kapcsolódás után két játékmód közül választhatsz:
 
 - Minden csapat kap egy **egyedi kódot**, amely több eszközön is megnyitható.
 - A legjobb választás **előre regisztrált csapatkvízekhez**, amikor előre tudod a csapatneveket.
-- Lehetővé teszi az eszközváltást — jól jön, ha a kvíz közben lemerül egy akkumulátor.
+- Allows device switching - helpful if a battery dies mid-quiz.
 
 ### Egyetlen játékkód
 
 - Mindenki **egy közös Játékkóddal** csatlakozik.
 - Ideális laza hangulatú vagy nyílt hozzáférésű eseményekhez.
-- Nincs szükség előzetes regisztrációra — a játékosok bármikor csatlakozhatnak, amíg be nem telik az aktív Seats-keret.
+- No pre-registration required - players can join anytime, until all active seats are filled.
 
 > Győződj meg róla, hogy be vagy jelentkezve, hogy hozzáférj a kvíztartalmaidhoz.
 
@@ -71,13 +71,13 @@ Kapcsolódás után két játékmód közül választhatsz:
 - Nyomd meg a **‘Generate Codes’** gombot a belépőkódok létrehozásához  
   ![Quizmaster app - csapatok létrehozása](/images/quizmaster-app-create-teams.png)
 
-Előre is **lefoglalhatsz kódokat** — erről bővebben a tippek és trükkök részben olvashatsz.
+You can also **reserve codes in advance** - more on that in the tips & tricks section.
 
 Mindenképp **mentsd el a következő kódokat**:
 
-- **Quizmaster kód** - a kvíz irányításához
-- **Zsűrikód** — kézi pontszám-korrekciókhoz
-- **Regie-kód** — a vizuális és technikai elemek irányításához
+- **Quizmaster code** - to control the quiz
+- **Jury Code** - for manual score adjustments
+- **Regie Code** - to control visual and technical elements
 
 Küldd el a csapatkódokat a játékosaidnak e-mailben, vagy add oda nekik nyomtatva.
 
@@ -92,7 +92,7 @@ Ha készen állsz, kattints a **„Kvíz betöltése”** gombra, várd meg, am�
 A **Közös játékkód** sémával:
 
 - Megkapod a quizmaster, a zsűri és a rendezői kódot, valamint egy játékkódot a játékosoknak.
-- A játékkód megjelenik a játékképernyőn - **mutasd meg vagy streameld a közönségednek**.
+- The game code appears on the game screen - **display or stream it to your audience**.
 - A játékosok bármikor csatlakozhatnak, amíg el nem éritek az aktív Seats limitet.
 
 Amint a játékosaid bent vannak:
