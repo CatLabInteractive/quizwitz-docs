@@ -5,7 +5,7 @@ title: Types de manches
 
 # Types de manches
 
-Le type de manche influence la façon dont le jeu affiche les questions aux joueurs — et comment les joueurs gagnent des points.  
+The round type influences the way the game shows the questions to the players - and how players earn points.  
 Dans les quiz, vous pouvez changer le type de manche dans le champ de sélection **Type de manche** en haut au centre de l'écran.
 
 ## 🧠 Manches régulières
@@ -29,12 +29,12 @@ Pour ceux qui veulent organiser des quiz de pub traditionnels où les joueurs pe
 Ces types de manches simulent la « remise des copies » après chaque manche.
 
 - [Traditionnel](030-traditional.md)
-- [Traditionnel — Fil conducteur](031-traditional-ct.md)
+- [Traditional - Common thread](031-traditional-ct.md)
 - [Alphabet](032-alphabet.md)
 
 ## 🎉 Événements en direct
 
-Ces types de manches ne contiennent aucune question — mais influent plutôt sur le résultat du jeu.
+These round types do not contain any questions - but instead influence the outcome of the game.
 
 - [Activité](040-activity.md)
 - [Pause](060-intermission.md)
@@ -46,5 +46,5 @@ Ces types de manches ne contiennent aucune question — mais influent plutôt su
 
 Dans ces types de manches, vous pouvez sélectionner des **départements** spécifiques qui jouent contre d'autres départements.
 
-- [Département — Dealer's Choice](070-departments-dealers-choice.md)
-- [Département — Élimination](071-departments-elimination.md)
+- [Department - Dealer's Choice](070-departments-dealers-choice.md)
+- [Department - Elimination](071-departments-elimination.md)
