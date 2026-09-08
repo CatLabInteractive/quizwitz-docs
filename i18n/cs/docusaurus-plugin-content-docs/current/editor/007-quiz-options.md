@@ -35,19 +35,19 @@ Vyber vizuální motiv pro svůj kvíz.
 
 Vylepši svůj kvíz o vizuály, audio nebo video v konkrétních místech:
 
-- **Před kvízem** — Zobrazuje se při spuštění kvízu
-- **Po kvízu** — Přehrává se po obrazovce s konečnými výsledky
-- **Logo klienta / alternativní logo** — Zobrazuje se v celém rozhraní kvízu
-- **Čekací obrazovka** — Zobrazuje se mezi otázkami v živých hrách (doporučený obrázek 1920×1080)
-- **Pozadí** — Volitelná náhrada pozadí (závisí na motivu)
-- **Obrazovka pro připojení** — Používá se v režimech [Live](../quizmaster/001-introduction.md) a [Conference](../tutorials/conference-booth):
-  - **Obrázky** — Celoobrazovkové vizuály na pozadí
-  - **Audio** — Hudba ve smyčce (max. 15 min)
-  - **Video** — Přehrává se každých 5 minut, hodí se pro reklamy nebo pokyny
+- **Before quiz** - Shown when the quiz starts
+- **After quiz** - Played after the final results screen
+- **Client logo / alternative logo** - Displayed throughout the quiz interface
+- **Wait screen** - Displayed between questions in live games (1920×1080 image recommended)
+- **Background** - Optional background replacement (depends on theme)
+- **Connect screen** - Used in [Live](../quizmaster/001-introduction.md) and [Conference](../tutorials/conference-booth) modes:
+  - **Images** - Fullscreen background visuals
+  - **Audio** - Looped music (max 15 min)
+  - **Video** - Played every 5 minutes, useful for ads or instructions
 
 🎥 Můžeš použít naše [hotová instruktážní videa](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC), aby ses hráčům pomohl/a připojit.
 
-- **Outro během hry** — (Pouze audio) Přehrává se přes obrazovku odhalení vítěze
+- **During game outro** - (Audio only) Plays over the winner reveal screen
 
 📘 Technické podrobnosti a doporučení najdeš v [průvodci přílohami](../editor/006-attachments.md).
 
@@ -57,12 +57,12 @@ Vylepši svůj kvíz o vizuály, audio nebo video v konkrétních místech:
 
 Volitelná nastavení pro přizpůsobení hry a viditelnosti:
 
-- **Povolit multiplayer** — Výchozí: ZAPNUTO. Umožňuje hraní ve skupině s přáteli
-- **Náhodné pořadí kol** — Zamíchat pořadí kol
+- **Enable multiplayer** - Default ON. Umožňuje hraní ve skupině s přáteli
+- **Random round order** - Shuffle the order of rounds
   > ⚠️ Nedoporučuje se při přípravě na [QuizWitz Live](../quizmaster/001-introduction.md)
-- **Povolit uživatelům hodnotit otázky** — Umožní hráčům ohodnotit každou otázku po kole
-- **Povolit komentáře** — Povolit zpětnou vazbu po zveřejnění
-- **Zrychlit, když všichni odpověděli** — Pokud je zapnuto, hra přeskočí dál, jakmile odpověděli všichni hráči
+- **Allow users to rate questions** - Lets players rate each question after a round
+- **Enable comments** - Allow feedback after publishing
+- **Speed up when all answered** - If enabled, the game skips ahead when all players have answered
   > ⏱️ Doporučeno při použití **bodování podle času**
 
 ---
