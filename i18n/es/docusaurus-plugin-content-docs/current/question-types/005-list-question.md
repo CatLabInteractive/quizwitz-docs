@@ -5,7 +5,7 @@ title: Pregunta de lista
 
 # 📝 Pregunta de lista
 
-Una **pregunta de lista** pide a los jugadores que proporcionen varias respuestas correctas de una lista más grande, perfecta para indicaciones como “Enumera los primeros 5 presidentes de los Estados Unidos de América” o “Nombra tres elementos de la tabla periódica.”
+A **List question** asks players to provide several correct answers from a larger list - perfect for prompts like “List the first 5 presidents of the United States of America” or “Name three elements in the periodic table.”
 
 ---
 
@@ -18,7 +18,7 @@ Una **pregunta de lista** pide a los jugadores que proporcionen varias respuesta
 - **Pregunta:** Expresa claramente lo que quieres que los jugadores enumeren.
 - **Elementos de la lista:** Ingresa todas las respuestas correctas posibles.
   - Marca algunas como **‘Dadas’** para mostrarlas como ejemplos en pantalla; estas NO necesitan ser respondidas.
-  - El orden **no** importa — los jugadores pueden ingresar las respuestas correctas en cualquier orden.
+  - Order does **not** matter - players can enter correct answers in any order.
 - **Entrada del jugador:** Los jugadores deben proporcionar un número determinado de respuestas (por ejemplo, entre 1 y 5). Se otorgan puntos por cada respuesta correcta que envíen.
 - **Adjuntos:** Añade imágenes, audio o video para contexto. Completa la atribución si vas a publicar.
 
@@ -43,7 +43,7 @@ Una **pregunta de lista** pide a los jugadores que proporcionen varias respuesta
   - Los puntos disponibles se dividen en bloques de tiempo (no por milisegundo).  
     Por ejemplo: puntos completos en el primer bloque, 80% en el siguiente, y así sucesivamente.
   - **Solo el 25%** de los puntos dependen de la velocidad.  
-    El otro **75%** es fijo — así que incluso quienes escriben más lento obtienen la mayoría de los puntos si responden correctamente.
+    The other **75%** is fixed - so even slower typers get most of the points if they answer correctly.
   - Esto reduce la penalización por velocidad de escritura y hace que la puntuación sea más justa para todos.
 
 Para más detalles, consulta las [opciones de puntuación de rondas](../editor/008-round-options.md#scoring).
