@@ -3,7 +3,7 @@ id: jury-app
 title: Zsűri app
 ---
 
-# 🧑‍⚖️ Zsűri app - nyílt válaszok átnézése QuizWitz Live-ban
+# 🧑‍⚖️ Jury App - Reviewing open answers in QuizWitz Live
 
 Ha a kvízedben vannak **nyílt válaszos kérdések**, a válaszok kézi átnézéséhez és pontozásához a **zsűri appot** kell használnod.
 
@@ -19,20 +19,20 @@ A zsűri app megnyitása:
 2. Egy másik eszközön menj a [**quizwitz.tv**](https://quizwitz.tv) oldalra
 3. Add meg a **Jury Code**-ot az app eléréséhez
 
-> 💡 A zsűri appot bármelyik böngészőben megnyithatod - webalkalmazás, nem kell telepíteni.
+> 💡 You can open the Jury App on any browser - it's a web app, no installation required.
 
 Odabent a zsűri app több hasznos eszközt kínál:
 
-- **Kérdések értékelése** — A nyílt kérdések eredményei akkor jelennek meg, amikor egy kérdés lezárult.
-  - A játék **nem várja meg**, amíg a zsűri végez — kivéve, ha ez a **forduló utolsó kérdése**, vagy a kvíz beállításai mást írnak elő.
+- **Judge questions** - Open question results will appear once a question is completed.
+  - The game does **not wait** for the jury to finish - unless it’s the **last question of the round** or the quiz settings say otherwise.
   - Az értékelés után az eredmények **a következő kérdés után** jelennek meg.
 
-- **Pontszámok szerkesztése** — Adj vagy vonj vissza pontokat kézzel, játékosonként vagy csapatonként.
+- **Edit scores** - Grant or revoke points manually per player or team.
 
-- **Játékvezérlés** — Szükség esetén állítsd a kérdések időzítőit, vagy adj hozzá streamelési késleltetést.
+- **Game control** - Adjust question timers or add streaming delays if needed.
   > Az élő közvetítés késleltetésének beállításához lásd: [**hogyan vezess QuizWitz Live kvízt Twitchen**](../tutorials/040-livestreaming.md)
 
-- **Jelentés** — Készíts teljes játékjelentést eredményekkel és játékosválaszokkal.
+- **Report** - Generate a full game report with results and player answers.
 
 ![Képernyőkép a zsűri appról várakozó állapotban](/images/jury-app-waiting.png)
 
@@ -54,7 +54,7 @@ A QuizWitz **automatikusan felismeri a pontos egyezéseket**, és helyesként je
 - Fonetikus egyezéseket
 - Gyakori helyesírási változatokat
 
-> 🎙️ A QuizWitz a fonetikus egyezések figyelembevételével készült — de a végső döntés mindig a zsűrié.
+> 🎙️ QuizWitz was designed with phonetic matching in mind - but the final decision is always up to the judges.
 
 ---
 
