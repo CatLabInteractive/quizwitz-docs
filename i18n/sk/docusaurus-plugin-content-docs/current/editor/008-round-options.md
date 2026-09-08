@@ -25,13 +25,13 @@ Ak chceš nakonfigurovať možnosti kola, klikni na ikonu ozubeného kolieska v 
 
 Nasledujúce možnosti sú dostupné pre väčšinu typov kôl:
 
-- **Zobraziť iba _X_ otázok** — Obmedzí kolo na konkrétny počet otázok
-- **Náhodné poradie otázok** — Zamieša poradie otázok v rámci kola
-- **Zobraziť úvod kola** — Zobrazí animovaný nadpis pred začiatkom kola
-- **Zobraziť záver kola (priebežné skóre)** — Odhalí poradie na konci kola
-- **Zoskupiť všetku spätnú väzbu na jednej obrazovke** — Zhromaždí spätnú väzbu k otázkam do jedného bloku po skončení kola
-- **Zobraziť všetku spätnú väzbu k otázkam na konci kola** — Odloží spätnú väzbu k otázkam až do skončenia kola
-- **Vynútiť spätnú väzbu po každej jednotlivej otázke** — Zabezpečí okamžitú spätnú väzbu
+- **Only show _X_ questions** - Limits the round to a specific number of questions
+- **Random question order** - Shuffle the question order within the round
+- **Show round intro** - Display an animated title before the round begins
+- **Show round outro (interim score)** - Reveal rankings at the end of the round
+- **Group all feedback in a single screen** - Collect question feedback in one block after the round ends
+- **Show all question feedback at the end of the round** - Delay question feedback until the round ends
+- **Force feedback after each individual question** - Ensure immediate feedback
   > ⚠️ Toto sa prejaví iba pri typoch kôl a otázok, kde by sa spätná väzba inak odložila, napríklad pri otvorených otázkach alebo bleskových kolách.
 
 📘 Viac informácií o načasovaní a správaní spätnej väzby nájdeš v časti [typy otázok](../question-types/000-question-types.md).
@@ -42,11 +42,11 @@ Nasledujúce možnosti sú dostupné pre väčšinu typov kôl:
 
 QuizWitz ponúka flexibilné bodovanie, aby všetko zostalo férové a pútavé pre všetkých hráčov.
 
-- **Bodovanie podľa času** — Hráči získajú viac bodov za rýchlejšie odpovede.
+- **Time-based scoring** - Players earn more points for faster answers.
   - Pri väčšine typov otázok sa body podľa času znižujú **plynulo po mikrosekundách**: čím rýchlejšie odpovieš, tým viac bodov získaš.
   - Pri **otvorených otázkach** sú body podľa času rozdelené do blokov. Napríklad: odpovede v prvom bloku (napr. počas prvých pár sekúnd) získajú **100 %** časovej časti, ďalší blok získa **80 %** a tak ďalej. Pomáha to vyrovnať šance ľuďom, ktorí píšu pomalšie.
 
-- **Fixné percento bodov pri bodovaní podľa času** — Ovládaš, aká časť celkového skóre je ovplyvnená rýchlosťou.
+- **Fixed percentage of points on time-based scoring** - You control how much of the total score is influenced by speed.
   - Predvolene je **75 %** bodov fixných (každý, kto odpovie správne, tieto body získa bez ohľadu na rýchlosť).
   - Iba zvyšných **25 %** ovplyvňuje to, ako rýchlo hráči odpovedajú.
 
@@ -66,10 +66,10 @@ Môžeš pridať vlastný **úvodný text kola**, ktorý sa na začiatku kola zo
 
 Vylepši svoje kolo médiami, ktoré sa zobrazia v konkrétnych momentoch:
 
-- **Pred kolom** — Zobrazí sa po animácii úvodu kola
-- **Po kole** — Zobrazí sa po závere kola
-- **Pred záverom kola** — Zobrazí sa po poslednej otázke, tesne pred záverom
-- **Počas záveru kola** — _(iba zvuk)_ Prehráva sa počas zobrazenia poradia
+- **Before round** - Displayed after the round intro animation
+- **After round** - Shown after the round outro
+- **Before round outro** - Shown after the last question, just before the outro
+- **During round outro** - _(audio only)_ Plays while rankings are displayed
 - ...
 
 📘 Podporované typy súborov a tipy na používanie nájdeš v [sprievodcovi prílohami](../editor/006-attachments.md).
