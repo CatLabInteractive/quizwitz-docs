@@ -34,7 +34,7 @@ Kolo **Víceotázek** dává hráčům (nebo týmům) svobodu vybrat si, na kter
 ## 💡 Tipy
 
 - Nabídni kombinaci lehkých a těžkých otázek pro víc strategie.
-- Používej štítky kreativně – tajemné nebo zábavné motivy můžou zvýšit zapojení.
+- Use labels creatively - mystery or fun themes can boost engagement.
 - Odměň hráče, kteří rádi riskují, otázkami s vyšším počtem bodů.
 
 ---
