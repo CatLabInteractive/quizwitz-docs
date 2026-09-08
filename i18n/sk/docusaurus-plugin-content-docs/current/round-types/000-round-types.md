@@ -1,6 +1,6 @@
 ---
 id: round-types
-title: Round types
+title: Typy kôl
 ---
 
 # Typy kôl
@@ -18,7 +18,7 @@ V kvízoch môžeš zmeniť typ kola v rozbaľovacom poli **Typ kola** hore v st
 
 Tieto kolá ponúkajú o trochu viac interaktivity než jednoduché otázky a odpovede.
 
-- [Piece of Pie](021-piece-of-pie.md)
+- [Kúsok koláča](021-piece-of-pie.md)
 - [Multiotázka](022-multiquestion.md)
 - [Strike](023-strike.md)
 - [Dealer's Choice](024-dealers-choice.md)
@@ -46,5 +46,5 @@ Tieto typy kôl neobsahujú žiadne otázky — namiesto toho ovplyvňujú výsl
 
 V týchto typoch kôl môžeš vybrať konkrétne **oddelenia**, ktoré hrajú proti iným oddeleniam.
 
-- [Department — Dealer's Choice](070-departments-dealers-choice.md)
+- [Oddelenie - Dealer's Choice](070-departments-dealers-choice.md)
 - [Oddelenie — Eliminácia](071-departments-elimination.md)
