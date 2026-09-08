@@ -35,19 +35,19 @@ Escolhe um tema visual para o teu quiz.
 
 Torna o teu quiz mais interessante com imagens, áudio ou vídeo em pontos específicos:
 
-- **Antes do quiz** — Exibido quando o quiz começa
-- **Depois do quiz** — Reproduzido após o ecrã de resultados finais
-- **Logo do cliente / logo alternativo** — Exibido em toda a interface do quiz
-- **Ecrã de espera** — Exibido entre perguntas em jogos ao vivo (imagem 1920×1080 recomendada)
-- **Plano de fundo** — Substituição opcional do plano de fundo (depende do tema)
-- **Ecrã de ligação** — Usado nos modos [Live](../quizmaster/001-introduction.md) e [Conferência](../tutorials/conference-booth):
-  - **Imagens** — Visuais de fundo em ecrã inteiro
-  - **Áudio** — Música em loop (máx. 15 min)
-  - **Vídeo** — Reproduzido a cada 5 minutos, útil para anúncios ou instruções
+- **Before quiz** - Shown when the quiz starts
+- **After quiz** - Played after the final results screen
+- **Client logo / alternative logo** - Displayed throughout the quiz interface
+- **Wait screen** - Displayed between questions in live games (1920×1080 image recommended)
+- **Background** - Optional background replacement (depends on theme)
+- **Connect screen** - Used in [Live](../quizmaster/001-introduction.md) and [Conference](../tutorials/conference-booth) modes:
+  - **Images** - Fullscreen background visuals
+  - **Audio** - Looped music (max 15 min)
+  - **Video** - Played every 5 minutes, useful for ads or instructions
 
 🎥 Podes usar nossos [vídeos instrucionais prontos](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) para ajudar os jogadores a se conectarem.
 
-- **Encerramento durante o jogo** — (Somente áudio) Reproduzido sobre o ecrã de revelação do vencedor
+- **During game outro** - (Audio only) Plays over the winner reveal screen
 
 📘 Para detalhes técnicos e recomendações, consulta o [guia de anexos](../editor/006-attachments.md).
 
@@ -57,12 +57,12 @@ Torna o teu quiz mais interessante com imagens, áudio ou vídeo em pontos espec
 
 Configurações opcionais para personalizar a jogabilidade e a visibilidade:
 
-- **Ativar multiplayer** — Ativado por padrão. Permite jogar em grupo com amigos
-- **Ordem aleatória das rondas** — Embaralha a ordem das rondas
+- **Enable multiplayer** - Default ON. Permite jogar em grupo com amigos
+- **Random round order** - Shuffle the order of rounds
   > ⚠️ Não recomendado ao preparar para o [QuizWitz Live](../quizmaster/001-introduction.md)
-- **Permitir que utilizadores avaliem perguntas** — Permite que os jogadores avaliem cada pergunta após uma ronda
-- **Ativar comentários** — Permite feedback após a publicação
-- **Acelerar quando todos responderem** — Se ativado, o jogo avança quando todos os jogadores tiverem respondido
+- **Allow users to rate questions** - Lets players rate each question after a round
+- **Enable comments** - Allow feedback after publishing
+- **Speed up when all answered** - If enabled, the game skips ahead when all players have answered
   > ⏱️ Recomendado ao usar **pontuação baseada em tempo**
 
 ---
