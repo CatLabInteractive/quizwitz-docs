@@ -52,7 +52,7 @@ Pred začiatkom kola QuizWitz určí dealera pomocou jednej z týchto možností
 
 - Hráč s najvyšším umiestnením ide prvý
 - Hráč s najnižším umiestnením ide prvý
-- Náhodne – dealer je vybraný náhodne
+- Náhodne - dealer je vybraný náhodne
 
 > Poradie sa uzamkne **na začiatku kola**.
 
