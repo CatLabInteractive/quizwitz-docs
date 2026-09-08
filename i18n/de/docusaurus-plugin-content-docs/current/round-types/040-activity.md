@@ -15,7 +15,7 @@ Eine Aktivitätsrunde erlaubt es dir, von den klassischen Quizfragen zu einem kr
 
 ## 🏆 So funktioniert es
 
-- **Beschreibung der Herausforderung:** Die Runde beginnt mit einer Beschreibung der Aktivität (z. B. "Falte ein Papierflugzeug und wirf es so weit wie möglich — der weiteste Wurf gewinnt!").
+- **Beschreibung der Herausforderung:** Die Runde beginnt mit einer Beschreibung der Aktivität (z. B. "Falte ein Papierflugzeug und wirf es so weit wie möglich - der weiteste Wurf gewinnt!").
 - **Team-/Spielerauswahl:** Der quizmaster wählt aus, welche Teams oder Spieler bei der Aktivität mitmachen.
   - **Die Zufallsauswahl sorgt dafür, dass jedes Team im Laufe des Quiz gleich oft ausgewählt wird.** Wenn du also 40 Teams und 10 Aktivitätsrunden mit je 4 Teams hast, wird jedes Team genau einmal gezogen.
 - **Timer & Tools:** Starte einen Timer und nutze Soundeffekte (z. B. Buzzer oder Glocken), um die Herausforderung zu steuern.
