@@ -5,7 +5,7 @@ title: Round lampo
 
 # ⚡ Round lampo
 
-Il **round lampo** è tutto incentrato su velocità ed emozione. I giocatori rispondono a una serie rapida di domande con timer molto brevi — il tutto accompagnato da musica del timer continua per la massima energia e tensione.
+Il **round lampo** è tutto incentrato su velocità ed emozione. Players answer a rapid series of questions with very short timers - all set to continuous timer music for maximum energy and tension.
 
 ---
 
@@ -29,7 +29,7 @@ Consulta le [opzioni del round](../editor/008-round-options.md) per i dettagli s
 
 ---
 
-## 🎵 Allegati — Musica del conto alla rovescia
+## 🎵 Attachments - Countdown music
 
 - Puoi impostare un **allegato del round** nello slot “Riproduci durante il conto alla rovescia della domanda”.  
   Questo allegato audio verrà riprodotto **continuamente** come musica del conto alla rovescia durante l’intero round lampo, fermandosi solo dopo l’ultima domanda.
