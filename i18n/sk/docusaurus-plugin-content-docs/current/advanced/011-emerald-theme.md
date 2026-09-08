@@ -5,7 +5,7 @@ title: Téma Emerald
 
 # Motív Emerald
 
-Motív Emerald je najjednoduchší spôsob, ako si prispôsobiť vzhľad tvojej hry v QuizWitz. Predvolene má motív čistý modro-zelený štýl s výraznými farbami možností, ale kombinovaním príloh kvízu a modifikátorov motívu môžeš jeho vzhľad zmeniť — poriadne výrazne.
+Motív Emerald je najjednoduchší spôsob, ako si prispôsobiť vzhľad tvojej hry v QuizWitz. By default, the theme is a clean blue / green style with vivid option colors, but by combining quiz attachments and theme modifiers you can change the way it looks - drastically.
 
 :::tip
 Môžeš použiť náš [tester motívu](https://client.quizwitz.com/test.html?theme=emerald), aby si videl/a, ako budú tvoje nastavenia vyzerať.
@@ -25,7 +25,7 @@ Kvíz s motívom Emerald si môžeš otestovať [tu](https://play.quizwitz.com/1
 
 ### Prílohy kvízu
 
-Jednoznačne najjednoduchší spôsob, ako zmeniť vzhľad a dojem z hry, je priložiť ku kvízu obrázky. Otvor **nastavenia kvízu** a posuň sa nadol do sekcie **Prílohy**. Tu môžeš nahrať obrázky, ktoré sa použijú ako pozadie, logo klienta, obrazovky pripojenia a čakania (pre konferenčné a živé kvízy) a ďalšie.
+Jednoznačne najjednoduchší spôsob, ako zmeniť vzhľad a dojem z hry, je priložiť ku kvízu obrázky. Otvor **nastavenia kvízu** a posuň sa nadol do sekcie **Prílohy**. Here you can upload images that will be used as background, client logo, connect - and wait screens (for conference - and live quizzes), and more.
 
 ![Snímka obrazovky príloh kvízu](/images/emerald/quiz-attachments.png)
 
@@ -51,7 +51,7 @@ Všetku hudbu v hre môžeš tiež nahradiť prílohami. Všetky zvukové súbor
 
 ## Modifikátory motívu Emerald
 
-Okrem príloh môžeš motív Emerald upravovať aj pomocou **query parameters**. Sú to parametre, ktoré môžeš pridať do URL **pokročilých možností hry** — a zmenia vzhľad motívu.
+Okrem príloh môžeš motív Emerald upravovať aj pomocou **query parameters**. These are parameters you can add to the **advanced game options** URL - and they change the look of the theme.
 
 Na to začneme s ukážkovým kvízom (bez akýchkoľvek príloh):  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
@@ -60,7 +60,7 @@ Keď spustíš vyššie uvedený kvíz, hra bude v predvolenom štýle Emerald. 
 
 :::tip
 Najjednoduchší spôsob, ako s týmito parametrami experimentovať, je použiť náš [tester motívu](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).  
-Keď budeš s experimentovaním hotový/á, môžeš parametre skopírovať a vložiť do svojej URL pokročilých možností hry.
+When you are done experimenting, you can copy - paste the parameters to your advanced game options URL.
 :::
 
 Dostupné modifikátory sú:
@@ -71,8 +71,8 @@ Dostupné modifikátory sú:
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
-- optionColors (4 farby oddelené čiarkou)
-- optionBorderColors (4 farby oddelené čiarkou)
+- optionColors (4 colors, comma - separated)
+- optionBorderColors (4 colors, comma - separated)
 
 Navyše si môžeš nastaviť predvolené písmo:
 
@@ -81,7 +81,7 @@ Navyše si môžeš nastaviť predvolené písmo:
 
 Tieto písma musia byť URL adresy verejne dostupných súborov písiem.
 
-Každý z týchto modifikátorov môže obsahovať jednu farbu vo formáte HTML hex (ff0000) alebo lineárny prechod zadaním viacerých farieb oddelených znamienkom mínus (napríklad ff1b6b-45caff). (Nezabudni, že symbol # sa nemá pridávať.)
+Each of these modifiers can contain a single color in HTML hex format (ff0000), or a linear gradient by providing multiple colors divided by a minus symbol ( - for example ff1b6b-45caff). (Nezabudni, že symbol # sa nemá pridávať.)
 
 :::note
 Query parameters sa musia začínať otáznikom ( ? ) a každý parameter musí byť oddelený ampersandom ( & ). Viac informácií o query parameters nájdeš na [wikipédii](https://en.wikipedia.org/wiki/Query_string).
