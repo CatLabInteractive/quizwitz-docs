@@ -25,8 +25,8 @@ title: Volba dealera podle oddělení
   - Nejdřív nejvýše umístění
   - Náhodně
 - **Dealerovo oddělení:**
-  - _Hrát může jen dealer_ — Na otázku odpovídá jen vybraný dealer
-  - _Hrát můžou všichni hráči v dealerově oddělení_ — Každý v oddělení může odpovídat a získávat body
+  - _Only dealer may play_ - Only the selected dealer answers the question
+  - _All players in dealer’s department may play_ - Everyone in the department can answer and score points
 - **Bonus pro dealera:**  
   Nastav procentuální bonus pro dealera (pokud je zapnutý).
 
