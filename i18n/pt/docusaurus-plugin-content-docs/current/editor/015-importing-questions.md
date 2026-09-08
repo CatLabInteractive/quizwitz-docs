@@ -47,14 +47,14 @@ Para criares rapidamente muitas perguntas de uma só vez, usa o separador **Impo
 
 Cada linha deve conter as seguintes colunas exatamente por esta ordem:
 
-1. **Pergunta curta** — Apresentada no ecrã do jogador
+1. **Short question** - Displayed on the player screen
 2. **Resposta correta**
 3. **Resposta errada 1** (deixa em branco para perguntas abertas)
 4. **Resposta errada 2**
 5. **Resposta errada 3**
-6. **Feedback curto** — Apresentado no ecrã do jogador depois de responder
-7. **Pergunta longa** _(opcional)_ — Apresentada no ecrã do quizmaster
-8. **Feedback longo** _(opcional)_ — Explicação para o quizmaster ler em voz alta
+6. **Short feedback** - Displayed on the player screen after answering
+7. **Long question** _(optional)_ - Displayed on the quizmaster screen
+8. **Long feedback** _(optional)_ - Explanation for the quizmaster to read aloud
 
 > 📌 As duas últimas colunas só são usadas no [QuizWitz Live](../quizmaster/001-introduction.md), mas ainda assim têm de ser incluídas (mesmo que fiquem vazias).
 
