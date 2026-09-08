@@ -6,7 +6,7 @@ title: Domanda con risposta migliore
 # 🎖️ Domanda con risposta migliore
 
 Nel tipo **Domanda con risposta migliore**, i giocatori scrivono le proprie risposte a una domanda aperta.  
-I punti vengono assegnati manualmente dal quizmaster oppure, se non c'è un quizmaster, facendo votare i giocatori per la loro risposta preferita.
+Points are awarded either manually by the quizmaster, or - if there is no quizmaster - by having players vote for their favorite response.
 
 ---
 
