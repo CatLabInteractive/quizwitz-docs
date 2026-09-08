@@ -6,7 +6,7 @@ title: Úvod
 # 🛠️ Průvodce pro tvůrce kvízů
 
 Vítej v průvodci pro tvůrce kvízů!  
-Na QuizWitz si můžeš vytvářet a organizovat vlastní kvízový obsah — nebo sbírat a remixovat obsah vytvořený ostatními.
+On QuizWitz, you can build and organize your own quiz content - or collect and remix content made by others.
 
 ---
 
@@ -14,8 +14,8 @@ Na QuizWitz si můžeš vytvářet a organizovat vlastní kvízový obsah — ne
 
 Jako tvůrce kvízů můžeš pracovat s:
 
-- **Round-Abouts** — Malé tematické kolekce otázek zobrazované v náhodném pořadí
-- **Kompletní kvízy** — Vlastní kvízy, které kombinují několik Round-Abouts v konkrétním pořadí
+- **Round-Abouts** - Small, themed collections of questions shown in random order
+- **Full Quizzes** - Custom quizzes, combining multiple Round-Abouts in a specific sequence
 
 Můžeš také **sbírat Round-Abouts** vytvořené ostatními členy a zahrnout je do svých vlastních kvízů.
 
