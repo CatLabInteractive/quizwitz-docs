@@ -5,7 +5,7 @@ title: Rundungstypen
 
 # Rundentypen
 
-Der Rundentyp beeinflusst, wie das Spiel die Fragen den Spielern zeigt — und wie die Spieler Punkte verdienen.  
+The round type influences the way the game shows the questions to the players - and how players earn points.  
 In Quizzen kannst du den Rundentyp im Auswahlfeld **Rundentyp** oben in der Mitte des Bildschirms ändern.
 
 ## 🧠 Reguläre Runden
@@ -29,12 +29,12 @@ Für alle, die traditionelle Pub-Quizze organisieren möchten, bei denen Spieler
 Diese Rundentypen simulieren das "Abgeben der Zettel" nach jeder Runde.
 
 - [Traditionell](030-traditional.md)
-- [Traditionell — Gemeinsamer Faden](031-traditional-ct.md)
+- [Traditional - Common thread](031-traditional-ct.md)
 - [Alphabet](032-alphabet.md)
 
 ## 🎉 Live-Events
 
-Diese Rundentypen enthalten keine Fragen — beeinflussen stattdessen den Spielverlauf.
+These round types do not contain any questions - but instead influence the outcome of the game.
 
 - [Aktivität](040-activity.md)
 - [Pause](060-intermission.md)
@@ -46,5 +46,5 @@ Diese Rundentypen enthalten keine Fragen — beeinflussen stattdessen den Spielv
 
 In diesen Rundentypen kannst du bestimmte **Abteilungen** auswählen, die gegeneinander spielen.
 
-- [Abteilungen — Dealer's Choice](070-departments-dealers-choice.md)
-- [Abteilung — Elimination](071-departments-elimination.md)
+- [Department - Dealer's Choice](070-departments-dealers-choice.md)
+- [Department - Elimination](071-departments-elimination.md)
