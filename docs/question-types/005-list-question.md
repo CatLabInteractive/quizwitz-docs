@@ -5,7 +5,7 @@ title: List question
 
 # 📝 List question
 
-A **List question** asks players to provide several correct answers from a larger list - perfect for prompts like “List the first 5 presidents of the United States of America” or “Name three elements in the periodic table.”
+A **List question** asks players to provide several correct answers from a larger list — perfect for prompts like “List the first 5 presidents of the United States of America” or “Name three elements in the periodic table.”
 
 ---
 
@@ -18,7 +18,7 @@ A **List question** asks players to provide several correct answers from a large
 - **Question:** Clearly state what you want players to list.
 - **List items:** Enter all possible correct answers.
     - Mark some as **‘Given’** to show as examples on screen; these do NOT need to be answered.
-    - Order does **not** matter - players can enter correct answers in any order.
+    - Order does **not** matter — players can enter correct answers in any order.
 - **Player input:** Players must provide a set number of answers (e.g., between 1 and 5). Points are awarded for each correct answer they submit.
 - **Attachments:** Add images, audio, or video for context. Fill in attribution if publishing.
 
@@ -43,7 +43,7 @@ A **List question** asks players to provide several correct answers from a large
     - The available points are split into blocks of time (not by the millisecond).  
       For example: full points in the first block, 80% in the next, and so on.
     - **Only 25%** of the points depend on speed.  
-      The other **75%** is fixed - so even slower typers get most of the points if they answer correctly.
+      The other **75%** is fixed — so even slower typers get most of the points if they answer correctly.
     - This reduces the penalty for typing speed and makes scoring fairer for everyone.
 
 For details, see [round scoring options](../editor/008-round-options.md#scoring).
