@@ -3,7 +3,7 @@ id: mobile
 title: Mobilböngészők
 ---
 
-# 📱 Mobilböngészők — Hostolási korlátozások
+# 📱 Mobile browsers - Hosting limitations
 
 A QuizWitz **asztali és laptop számítógépeken** való használatra van optimalizálva. Bár technikailag lehetséges **QuizWitz Live** vagy **Conference** játékokat hostolni táblagépen vagy okostelefonon, **nem javasoljuk**, hogy **Android** vagy **iOS** eszközöket használj a játék futtatásához.
 
@@ -41,4 +41,4 @@ A legjobb teljesítmény és stabilitás érdekében:
 
 ---
 
-Hostoláshoz a megbízható beállítás kulcsfontosságú — mobileszközöket csak végső megoldásként használj.
+For hosting, a reliable setup is key - mobile devices should be used only as a last resort.
