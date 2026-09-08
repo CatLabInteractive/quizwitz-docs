@@ -16,7 +16,7 @@ title: Introduzione dei giocatori
 
 ---
 
-> Le introduzioni dei giocatori aiutano a creare l’atmosfera, rompere il ghiaccio e personalizzare l’esperienza del quiz, soprattutto negli eventi live e con team!
+> Player introductions help set the mood, break the ice, and personalize the quiz experience - especially in live and team-based events!
 
 ---
 
