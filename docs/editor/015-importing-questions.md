@@ -47,14 +47,14 @@ To quickly create many questions at once, use the **Import from spreadsheet** ta
 
 Each row must contain the following columns in this exact order:
 
-1. **Short question** — Displayed on the player screen
+1. **Short question** - Displayed on the player screen
 2. **Correct answer**
 3. **Wrong answer 1** (leave blank for open questions)
 4. **Wrong answer 2**
 5. **Wrong answer 3**
-6. **Short feedback** — Displayed on the player screen after answering
-7. **Long question** *(optional)* — Displayed on the quizmaster screen
-8. **Long feedback** *(optional)* — Explanation for the quizmaster to read aloud
+6. **Short feedback** - Displayed on the player screen after answering
+7. **Long question** *(optional)* - Displayed on the quizmaster screen
+8. **Long feedback** *(optional)* - Explanation for the quizmaster to read aloud
 
 > 📌 The last two columns are only used in [QuizWitz Live](../quizmaster/001-introduction.md), but they must still be included (even if left empty).
 

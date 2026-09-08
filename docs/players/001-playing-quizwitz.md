@@ -11,12 +11,12 @@ Welcome to QuizWitz! Whether you're playing solo or with friends, this guide wil
 
 ## 🎯 Choose what to play
 
-Start by browsing the available **Round-Abouts** — short themed rounds of quiz questions. Use the menu at the top of the screen to explore:
+Start by browsing the available **Round-Abouts** - short themed rounds of quiz questions. Use the menu at the top of the screen to explore:
 
-- **New** — Discover the latest Round-Abouts
-- **My Collection** — Access everything you've saved or created
-- **Collect** — Find Round-Abouts made by the community
-- **Quick Play** — Jump into a random selection
+- **New** - Discover the latest Round-Abouts
+- **My Collection** - Access everything you've saved or created
+- **Collect** - Find Round-Abouts made by the community
+- **Quick Play** - Jump into a random selection
 
 ![QuizWitz top navigation bar](/images/top-menu-play.png)
 
@@ -39,13 +39,13 @@ This includes:
 - Bingos
 - ...
 
-You can organize, play, or remove items at any time. This is your personal library — build it how you like!
+You can organize, play, or remove items at any time. This is your personal library - build it how you like!
 
 ---
 
 ## 🧠 Choose a Round-About
 
-A **Round-About** is a small, themed round of questions — as the name says, a round *about* a subject. Playing just one will give you a short game with 7 random questions.
+A **Round-About** is a small, themed round of questions - as the name says, a round *about* a subject. Playing just one will give you a short game with 7 random questions.
 
 To explore a Round-About in more detail:
 
@@ -63,7 +63,7 @@ Want to build a full quiz game from multiple Round-Abouts? Here's how:
 - Click **Add to my collection** inside the Round-About
 - Or click the **star icon** on the Round-About tile
 
-To remove one later, just click the star again — it’ll now say **Remove from my collection**.
+To remove one later, just click the star again - it’ll now say **Remove from my collection**.
 
 ![Add a Round-About to your collection](/images/add-to-collection.png)
 
@@ -80,7 +80,7 @@ When you're ready:
 
 Choose:
 
-- **Game mode** — Single Player or Party Game
+- **Game mode** - Single Player or Party Game
 - **Which Round-Abouts** to include in your session
 
 QuizWitz will try to skip questions you've already seen.
@@ -107,17 +107,17 @@ Once your game starts, choose your mode:
 
 Play with friends using their own phones or tablets:
 
-> 📺 Make sure the game screen is visible — use a shared display or screen share
+> 📺 Make sure the game screen is visible - use a shared display or screen share
 
 1. Click **Start**, then **Party Game**
 2. Players follow the instructions on-screen to join
 3. Click **Start quiz** when everyone is ready
 
-Once the quiz starts, **the game runs automatically** — questions appear, timers count down, and scores are tallied without any host intervention.
+Once the quiz starts, **the game runs automatically** - questions appear, timers count down, and scores are tallied without any host intervention.
 
 > ⏸️ Need a break? Move your mouse to the bottom of the game screen and a **pause** button will appear. Pausing is the only way to interrupt a Party Game.
 >
-> Want to control the pacing of the game yourself — deciding when each question starts? That's only possible with [**QuizWitz Live**](../quizmaster/001-introduction.md) and the Quizmaster App.
+> Want to control the pacing of the game yourself - deciding when each question starts? That's only possible with [**QuizWitz Live**](../quizmaster/001-introduction.md) and the Quizmaster App.
 
 ![QuizWitz start screen](/images/quizwitz-start-screen.png)  
 ![QuizWitz start screen party](/images/quizwitz-start-screen-party.png)  

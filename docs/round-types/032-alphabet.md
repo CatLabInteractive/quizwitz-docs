@@ -5,7 +5,7 @@ title: Alphabet
 
 # 🔤 Alphabet
 
-An **Alphabet** round is a [Traditional round](030-traditional.md) with a twist—each question is assigned a unique label, 
+An **Alphabet** round is a [Traditional round](030-traditional.md) with a twist - each question is assigned a unique label, 
 and players must match their answers to the correct labeled fields. This round rewards both knowledge and deduction!
 
 ---
@@ -27,10 +27,10 @@ and players must match their answers to the correct labeled fields. This round r
 
 ## 📝 How it works
 
-- As questions are asked, players see a list of answer fields — one for each question.
-- **The answer fields are not in quiz order** — instead, they’re sorted alphabetically by label.
+- As questions are asked, players see a list of answer fields - one for each question.
+- **The answer fields are not in quiz order** - instead, they’re sorted alphabetically by label.
 - Players must match their answers to the correct labeled fields (e.g. answer for question "Bear" must be entered under label "B").
-- Answers can be changed at any time until the round finishes — players can switch answers between fields as they realize their mistakes.
+- Answers can be changed at any time until the round finishes - players can switch answers between fields as they realize their mistakes.
 
 ---
 

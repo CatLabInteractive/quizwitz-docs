@@ -23,10 +23,10 @@ Click the **gear icon** in the top-left corner of a question to open its full se
 
 ### 🎮 Mode & scoring
 
-- **Question type** — Choose how the question is played (e.g. multiple choice, open answer, puzzle)  
+- **Question type** - Choose how the question is played (e.g. multiple choice, open answer, puzzle)  
   → Learn more in [question types](../question-types/000-question-types.md)
-- **Points** — Set how many points a correct answer is worth
-- **Question timer** — Adjust the time limit using the slider
+- **Points** - Set how many points a correct answer is worth
+- **Question timer** - Adjust the time limit using the slider
 
 ---
 
@@ -34,12 +34,12 @@ Click the **gear icon** in the top-left corner of a question to open its full se
 
 Customize how the question behaves during gameplay:
 
-- **Time-based scoring** — Reward players who answer more quickly
-- **Multiple correct answers** — Allow more than one valid choice
-- **Random answer order** — Shuffle the options on screen
-- **Stop timer when all answered** — Continue as soon as all responses are in
-- **Show question results** — Show feedback after the question (or disable it)
-- **Force results after question** — Only applies when feedback would normally be delayed (e.g., in lightning rounds or open questions). For standard questions without jury interaction, feedback is shown automatically after each question.
+- **Time-based scoring** - Reward players who answer more quickly
+- **Multiple correct answers** - Allow more than one valid choice
+- **Random answer order** - Shuffle the options on screen
+- **Stop timer when all answered** - Continue as soon as all responses are in
+- **Show question results** - Show feedback after the question (or disable it)
+- **Force results after question** - Only applies when feedback would normally be delayed (e.g., in lightning rounds or open questions). For standard questions without jury interaction, feedback is shown automatically after each question.
 
 ---
 
@@ -47,9 +47,9 @@ Customize how the question behaves during gameplay:
 
 These fields control what appears on the Quizmaster App and game screen:
 
-- **Game screen - Question feedback** — Shown to all players after feedback is revealed
-- **Quizmaster - Long question** — A version of the question to be read aloud by the quizmaster
-- **Quizmaster - Long feedback** — Text the quizmaster can read after revealing the correct answer
+- **Game screen - Question feedback** - Shown to all players after feedback is revealed
+- **Quizmaster - Long question** - A version of the question to be read aloud by the quizmaster
+- **Quizmaster - Long feedback** - Text the quizmaster can read after revealing the correct answer
 
 > 📝 These fields help make live presentations feel dynamic and polished.
 
@@ -60,8 +60,8 @@ These fields control what appears on the Quizmaster App and game screen:
 
 You can enhance questions with images, video, or audio. Each attachment can be shown at specific points:
 
-- **Before / During / After Question** — Shown around the time the question is presented
-- **Before / During / After Feedback** — Shown when results are revealed
+- **Before / During / After Question** - Shown around the time the question is presented
+- **Before / During / After Feedback** - Shown when results are revealed
 - ...
 
 > 🧠 Attachments are especially useful for building suspense, illustrating answers, or giving context.
