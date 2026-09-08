@@ -6,13 +6,13 @@ sidebar_position: 1000
 
 # ⚠️ Recuperación de fallos en Live
 
-¿Se bloqueó tu juego? ¿Se cerró la pestaña por accidente? [**QuizWitz Live**](quizmaster/001-introduction.md) incluye un sistema de recuperación incorporado para ayudarte a retomar el control — sin perder tu progreso.
+¿Se bloqueó tu juego? ¿Se cerró la pestaña por accidente? [**QuizWitz Live**](quizmaster/001-introduction.md) includes a built-in recovery system to help you get back on track - without losing your progress.
 
 ---
 
 ## 🔄 Cómo funciona la recuperación del juego
 
-Si tu juego se bloquea, se cuelga o se interrumpe por cualquier motivo — ya sea un problema del navegador, un reinicio del sistema o el cierre accidental de la pestaña — puedes reanudar la sesión fácilmente.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the session easily.
 
 Sólo **reabre la misma pestaña de navegador** que estabas usando para mostrar la **pantalla del juego**. Esta es la pantalla que proyectas o transmites a tu audiencia.
 
@@ -48,7 +48,7 @@ También puedes elegir **iniciar un juego nuevo** en su lugar.
 ## 💡 Información útil
 
 - La recuperación solo funciona si **vuelves a la misma pantalla del juego en el mismo navegador**
-- **No** navegues a una página diferente — vuelve a abrir la **URL exacta** que estabas usando para organizar el juego
+- Do **not** navigate to a different page - reopen the **exact URL** you were using to host the game
 - Esta función ayuda a recuperarse de:
   - Bloqueos del navegador
   - Congelamientos o cuelgues durante el quiz
@@ -56,4 +56,4 @@ También puedes elegir **iniciar un juego nuevo** en su lugar.
 
 ---
 
-Con la recuperación del juego, puedes organizar con confianza — sabiendo que si algo falla, puedes continuar justo donde lo dejaste.
+With game recovery, you can host confidently - knowing that even if something goes wrong, you can pick up right where you left off.
