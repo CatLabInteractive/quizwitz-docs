@@ -6,8 +6,8 @@ title: Dealer's Choice
 # 🃏 Dealer's Choice
 
 Рундът **Dealer's Choice** в QuizWitz добавя стратегически обрат към куиза ти.
-Един от играчите може да **избере категорията на следващия въпрос**, което му дава потенциално
-предимство — а може би и бонус! Ето как да го настроиш и играеш:
+One of the players gets to **choose the next question category**, giving them a potential
+edge - and possibly a bonus! Ето как да го настроиш и играеш:
 
 ---
 
@@ -26,10 +26,10 @@ title: Dealer's Choice
 
 Например:
 
-- `Животни – лесно`
-- `Животни – трудно`
-- `История – любопитни факти`
-- `Филми – екшън класики`
+- `Animals - Easy`
+- `Animals - Hard`
+- `History - Fun Facts`
+- `Movies - Action Classics`
 
 > Дори ако въпросите имат обща тема, етикетите им пак трябва да са уникални, за да могат играчите ясно да ги разпознават и избират.
 
