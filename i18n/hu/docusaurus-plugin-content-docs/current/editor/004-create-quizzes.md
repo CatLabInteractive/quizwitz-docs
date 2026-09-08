@@ -78,9 +78,9 @@ Amikor készen állsz tesztelni vagy elindítani a kvízedet, nyomd meg a **Kví
 
 ![Kvíz játéklinkek](/images/quiz-playlinks.png)
 
-- **[Play Party Game](../players/001-playing-quizwitz.md)** — A casual quiz experience to enjoy with friends on the same screen or via screenshare. The game runs automatically; the host can pause it, but has no further control over the pacing.
-- **[Start QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Launch a professional live quiz event using the Quizmaster App. This is the **only mode where the quizmaster controls the pacing** of the game.
-- **[Start Conference mode (PRO)](../tutorials/050-conference-booth.md)** — Host a conference-style quiz for larger audiences with assigned seating, team codes, and production tools. Like Party Games, conference games run automatically.
+- **[Party játék indítása](../players/001-playing-quizwitz.md)** - kötetlen kvízélmény barátokkal, egy képernyőn vagy képernyőmegosztással. A játék automatikusan fut; a házigazda szüneteltetheti, de a tempóra egyébként nincs ráhatása.
+- **[QuizWitz Live indítása (PRO)](../quizmaster/001-introduction.md)** - profi élő kvízesemény a Quizmaster appal. Ez az **egyetlen mód, ahol a játék tempóját a quizmaster irányítja**.
+- **[Konferencia mód indítása (PRO)](../tutorials/050-conference-booth.md)** - konferencia jellegű kvíz nagyobb közönségnek, kiosztott ülésrenddel, csapatkódokkal és produkciós eszközökkel. A Party játékokhoz hasonlóan a konferencia játékok is automatikusan futnak.
 
 ---
 
