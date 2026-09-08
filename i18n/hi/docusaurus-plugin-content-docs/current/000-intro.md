@@ -13,7 +13,7 @@ title: परिचय
 - लाइव टूल्स के साथ प्रोफ़ेशनल क्विज़ इवेंट होस्ट कर सकते हैं
 - अपने खुद के क्विज़, राउंड, प्लेलिस्ट वगैरह बना सकते हैं
 
-आप यहाँ रिलैक्स करने, प्रस्तुत करने या कुछ बनाने आए हों — हमने आपकी पूरी व्यवस्था कर दी है।
+Whether you're here to relax, present, or build - we've got you covered.
 
 ज़रा समय निकालकर उपलब्ध अलग-अलग भूमिकाओं और टूल्स को एक्सप्लोर करें। इसमें बस एक मिनट लगेगा।
 
@@ -23,11 +23,11 @@ title: परिचय
 
 यह गाइड इस आधार पर सेक्शन में बाँटी गई है कि आप QuizWitz का इस्तेमाल कैसे करते हैं:
 
-- [**प्लेयर गाइड**](players/001-playing-quizwitz.md) — क्विज़ इकट्ठा करना, खेलना और उनका मज़ा लेना सीखें
-- [**क्विज़मेकर गाइड**](editor/002-for-the-quizmakers.md) — अपने खुद के सवाल, राउंड और पूरे क्विज़ बनाएँ
-- [**Quizmaster गाइड**](quizmaster/001-introduction.md) — QuizWitz Live का इस्तेमाल करके लाइव गेम होस्ट करें
+- [**Player Guide**](players/001-playing-quizwitz.md) - Learn how to collect, play, and enjoy quizzes
+- [**Quizmaker Guide**](editor/002-for-the-quizmakers.md) - Build your own questions, rounds, and full quizzes
+- [**Quizmaster Guide**](quizmaster/001-introduction.md) - Host a live game using QuizWitz Live
 
-उन सेक्शन को एक्सप्लोर करें जो आपकी भूमिका से मेल खाते हैं — या अगर जिज्ञासा हो, तो सभी देख लें!
+Explore the sections that fit your role - or all of them if you're curious!
 
 ---
 
