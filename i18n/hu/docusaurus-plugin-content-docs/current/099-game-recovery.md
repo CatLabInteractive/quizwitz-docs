@@ -6,13 +6,13 @@ sidebar_position: 1000
 
 # ⚠️ Élő összeomlás utáni helyreállítás
 
-Lefagyott a játékod? Véletlenül bezáródott a lap? A [**QuizWitz Live**](quizmaster/001-introduction.md) beépített helyreállítási rendszert tartalmaz, hogy visszatalálj a játékhoz — anélkül, hogy elveszítenéd az előrehaladásodat.
+Lefagyott a játékod? Véletlenül bezáródott a lap? [**QuizWitz Live**](quizmaster/001-introduction.md) includes a built-in recovery system to help you get back on track - without losing your progress.
 
 ---
 
 ## 🔄 Így működik a játék helyreállítása
 
-Ha a játékod összeomlik, lefagy, akadozik, vagy bármilyen okból megszakad — legyen az böngészőhiba, rendszer-újraindítás vagy egy lap véletlen bezárása — könnyedén folytathatod a munkamenetet.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the session easily.
 
 Egyszerűen **nyisd meg újra ugyanazt a böngészőlapot**, amelyen a **játékképernyőt** jelenítetted meg. Ez az a képernyő, amelyet kivetítesz vagy streamelsz a közönségednek.
 
@@ -48,7 +48,7 @@ Dönthetsz úgy is, hogy inkább **új játékot indítasz**.
 ## 💡 Jó tudni
 
 - A helyreállítás csak akkor működik, ha **ugyanabban a böngészőben ugyanarra a játékképernyőre térsz vissza**
-- **Ne** navigálj másik oldalra — nyisd meg újra **pontosan azt az URL-t**, amelyet a játék futtatásához használtál
+- Do **not** navigate to a different page - reopen the **exact URL** you were using to host the game
 - Ez a funkció segít helyreállni ezekből:
   - Böngésző-összeomlások
   - Lefagyás vagy akadozás a kvíz közben
@@ -56,4 +56,4 @@ Dönthetsz úgy is, hogy inkább **új játékot indítasz**.
 
 ---
 
-A játék-helyreállítással magabiztosan tarthatod meg a játékot — tudva, hogy még ha valami félre is megy, pontosan ott folytathatod, ahol abbahagytad.
+With game recovery, you can host confidently - knowing that even if something goes wrong, you can pick up right where you left off.
