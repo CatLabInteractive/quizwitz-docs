@@ -5,7 +5,7 @@ title: Trivia (नियमित राउंड)
 
 # ❓ Trivia (नियमित राउंड)
 
-**Trivia** राउंड QuizWitz में क्लासिक, डिफ़ॉल्ट राउंड प्रकार है। यह सभी खिलाड़ियों को सवालों की एक श्रृंखला दिखाता है — सामान्य ज्ञान, थीम वाले क्विज़ या वार्म-अप राउंड के लिए एकदम सही।
+**Trivia** राउंड QuizWitz में क्लासिक, डिफ़ॉल्ट राउंड प्रकार है। It presents a series of questions to all players - ideal for general knowledge, themed quizzes, or warm-up rounds.
 
 ---
 
