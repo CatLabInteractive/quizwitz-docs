@@ -5,7 +5,7 @@ title: Seats
 
 # 🎟️ QuizWitz PRO – Jak fungují místa
 
-Hry QuizWitz PRO vyžadují pro připojení hráčů **aktivní místa**. Místa jsou flexibilní systém s průběžným placením nebo licencí, který se přizpůsobí tvým potřebám — ideální pro hospodské kvízy, livestreamy i profesionální kvízové akce.
+Hry QuizWitz PRO vyžadují pro připojení hráčů **aktivní místa**. Seats jsou flexibilní systém s Pay-as-you-go nebo licencí, který se přizpůsobí tvým potřebám - ideální pro hospodské kvízy, livestreamy i profesionální kvízové akce.
 
 ---
 
@@ -43,11 +43,11 @@ Tato místa jsou ideální pro opakované akce, větší týmová nastavení neb
 
 ---
 
-## 💳 Průběžné placení a kredity
+## 💳 Pay-as-you-go a kredity
 
 Pro jednorázové nebo občasné akce můžeš místo nákupu licence aktivovat **místa s průběžným placením**. Získáš tak flexibilitu bez dlouhodobého závazku.
 
-- Místa se aktivují pomocí **kreditů QuizWitz**, které si můžeš koupit předem.
+- Seats se aktivují pomocí **QuizWitz Credits**, které si můžeš koupit předem.
 - Při nákupu kreditů ve větším množství jsou k dispozici **množstevní slevy**.
 - Každá **PRO licence** obsahuje **hodnotu bezplatných kreditů**.
 - Pokud si nejsi jistý, kolik hráčů se připojí:
@@ -58,7 +58,7 @@ Pro jednorázové nebo občasné akce můžeš místo nákupu licence aktivovat 
 
 ## ⏳ Doba platnosti míst (průběžné placení)
 
-- **Místa s průběžným placením** zůstávají po aktivaci aktivní **48 hodin**.
+- **Seats Pay-as-you-go** zůstávají po aktivaci aktivní **48 hodin**.
 - Během této doby můžeš:
   - Spustit **více kvízů nebo relací**
   - **Otestovat** svůj kvíz s většími skupinami
