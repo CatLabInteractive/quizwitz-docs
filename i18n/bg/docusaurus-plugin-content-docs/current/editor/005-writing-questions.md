@@ -23,10 +23,10 @@ title: Писане на въпроси
 
 ### 🎮 Режим и оценяване
 
-- **Тип въпрос** — Избери как да се играе въпросът (напр. с избираем отговор, отворен отговор, пъзел)  
-  → Научи повече в [типове въпроси](../question-types/000-question-types.md)
-- **Точки** — Задай колко точки носи правилният отговор
-- **Таймер на въпроса** — Настрой времевия лимит с плъзгача
+- **Question type** - Choose how the question is played (e.g. multiple choice, open answer, puzzle)  
+  → Learn more in [question types](../question-types/000-question-types.md)
+- **Points** - Set how many points a correct answer is worth
+- **Question timer** - Adjust the time limit using the slider
 
 ---
 
@@ -34,12 +34,12 @@ title: Писане на въпроси
 
 Персонализирай как се държи въпросът по време на игра:
 
-- **Оценяване според времето** — Награждавай играчите, които отговарят по-бързо
-- **Няколко правилни отговора** — Позволи повече от един валиден избор
-- **Случаен ред на отговорите** — Разбъркай опциите на екрана
-- **Спри таймера, когато всички са отговорили** — Продължи веднага щом всички отговори са получени
-- **Показване на резултатите от въпроса** — Покажи обратна връзка след въпроса (или я изключи)
-- **Принудително показване на резултатите след въпроса** — Прилага се само когато обратната връзка обикновено би била забавена (напр. в светкавични рундове или отворени въпроси). При стандартни въпроси без взаимодействие с жури обратната връзка се показва автоматично след всеки въпрос.
+- **Time-based scoring** - Reward players who answer more quickly
+- **Multiple correct answers** - Allow more than one valid choice
+- **Random answer order** - Shuffle the options on screen
+- **Stop timer when all answered** - Continue as soon as all responses are in
+- **Show question results** - Show feedback after the question (or disable it)
+- **Force results after question** - Only applies when feedback would normally be delayed (e.g., in lightning rounds or open questions). При стандартни въпроси без взаимодействие с жури обратната връзка се показва автоматично след всеки въпрос.
 
 ---
 
@@ -47,9 +47,9 @@ title: Писане на въпроси
 
 Тези полета определят какво се показва в Quizmaster App и на екрана на играта:
 
-- **Екран на играта - обратна връзка за въпроса** - вижда се от всички играчи след показване на обратната връзка
-- **Quizmaster - дълъг въпрос** - версията на въпроса, която quizmaster чете на глас
-- **Quizmaster - дълга обратна връзка** - текст, който quizmaster може да прочете, след като разкрие верния отговор
+- **Game screen - Question feedback** - Shown to all players after feedback is revealed
+- **Quizmaster - Long question** - A version of the question to be read aloud by the quizmaster
+- **Quizmaster - Long feedback** - Text the quizmaster can read after revealing the correct answer
 
 > 📝 Тези полета помагат презентациите на живо да изглеждат динамични и изпипани.
 
@@ -61,8 +61,8 @@ title: Писане на въпроси
 
 Можеш да обогатиш въпросите с изображения, видео или аудио. Всеки прикачен файл може да се покаже в конкретни моменти:
 
-- **Преди / По време на / След въпроса** — Показва се около момента, в който въпросът се представя
-- **Преди / По време на / След обратната връзка** — Показва се, когато резултатите се разкриват
+- **Before / During / After Question** - Shown around the time the question is presented
+- **Before / During / After Feedback** - Shown when results are revealed
 - ...
 
 > 🧠 Прикачените файлове са особено полезни за изграждане на напрежение, илюстриране на отговори или даване на контекст.
