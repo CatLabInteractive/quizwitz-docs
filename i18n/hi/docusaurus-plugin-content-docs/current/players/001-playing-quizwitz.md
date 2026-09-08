@@ -11,12 +11,12 @@ QuizWitz में आपका स्वागत है! चाहे आप �
 
 ## 🎯 चुनें कि क्या खेलना है
 
-उपलब्ध **Round-Abouts** ब्राउज़ करके शुरू करें — क्विज़ सवालों के छोटे थीम वाले राउंड। स्क्रीन के ऊपर वाले मेन्यू का इस्तेमाल करके एक्सप्लोर करें:
+Start by browsing the available **Round-Abouts** - short themed rounds of quiz questions. स्क्रीन के ऊपर वाले मेन्यू का इस्तेमाल करके एक्सप्लोर करें:
 
-- **नया** — लेटेस्ट Round-Abouts खोजें
-- **मेरा कलेक्शन** — आपने जो कुछ सेव या बनाया है, उसे एक्सेस करें
-- **कलेक्ट करें** — कम्युनिटी द्वारा बनाए गए Round-Abouts ढूँढें
-- **क्विक प्ले** — रैंडम चयन में सीधे कूदें
+- **New** - Discover the latest Round-Abouts
+- **My Collection** - Access everything you've saved or created
+- **Collect** - Find Round-Abouts made by the community
+- **Quick Play** - Jump into a random selection
 
 ![QuizWitz शीर्ष नेविगेशन बार](/images/top-menu-play.png)
 
@@ -39,13 +39,13 @@ QuizWitz में आपका स्वागत है! चाहे आप �
 - बिंगो
 - ...
 
-आप किसी भी समय आइटम्स को व्यवस्थित कर सकते हैं, चला सकते हैं या हटा सकते हैं। यह आपकी पर्सनल लाइब्रेरी है — इसे अपनी पसंद के हिसाब से बनाएँ!
+आप किसी भी समय आइटम्स को व्यवस्थित कर सकते हैं, चला सकते हैं या हटा सकते हैं। This is your personal library - build it how you like!
 
 ---
 
 ## 🧠 एक Round-About चुनें
 
-**Round-About** सवालों का एक छोटा, थीम वाला सेट है - जैसा नाम से लगता है, _एक_ विषय पर एक राउंड। सिर्फ एक खेलने पर आपको 7 रैंडम सवालों वाला छोटा गेम मिलेगा।
+A **Round-About** is a small, themed round of questions - as the name says, a round _about_ a subject. सिर्फ एक खेलने पर आपको 7 रैंडम सवालों वाला छोटा गेम मिलेगा।
 
 किसी Round-About को ज़्यादा विस्तार से देखने के लिए:
 
@@ -63,7 +63,7 @@ QuizWitz में आपका स्वागत है! चाहे आप �
 - Round-About के अंदर **मेरे कलेक्शन में जोड़ें** पर क्लिक करें
 - या Round-About टाइल पर **स्टार आइकन** पर क्लिक करें
 
-बाद में किसी एक को हटाने के लिए, बस स्टार पर फिर से क्लिक करें — अब उस पर **मेरे कलेक्शन से हटाएँ** लिखा होगा।
+To remove one later, just click the star again - it’ll now say **Remove from my collection**.
 
 ![अपने कलेक्शन में Round-About जोड़ें](/images/add-to-collection.png)
 
@@ -80,7 +80,7 @@ QuizWitz में आपका स्वागत है! चाहे आप �
 
 चुनें:
 
-- **गेम मोड** — सिंगल प्लेयर या पार्टी गेम
+- **Game mode** - Single Player or Party Game
 - **कौन से Round-Abouts** अपने सेशन में शामिल करने हैं
 
 QuizWitz उन सवालों को छोड़ने की कोशिश करेगा जिन्हें आप पहले देख चुके हैं।
@@ -107,17 +107,17 @@ QuizWitz उन सवालों को छोड़ने की कोशि
 
 दोस्तों के साथ उनके अपने फोन या टैबलेट इस्तेमाल करके खेलें:
 
-> 📺 पक्का करो कि गेम स्क्रीन दिख रही है - साझा डिस्प्ले या स्क्रीन शेयरिंग इस्तेमाल करो
+> 📺 Make sure the game screen is visible - use a shared display or screen share
 
 1. **शुरू करें** पर क्लिक करें, फिर **पार्टी गेम** पर क्लिक करें
 2. खिलाड़ी शामिल होने के लिए स्क्रीन पर दिए निर्देशों का पालन करें
 3. जब सभी तैयार हों, तो **क्विज़ शुरू करें** पर क्लिक करें
 
-क्विज़ शुरू होने के बाद **गेम अपने आप चलता है** - सवाल दिखते हैं, टाइमर घटते हैं, पॉइंट्स जुड़ते हैं, बिना होस्ट के दख़ल के।
+Once the quiz starts, **the game runs automatically** - questions appear, timers count down, and scores are tallied without any host intervention.
 
 > ⏸️ ब्रेक चाहिए? माउस को गेम स्क्रीन के नीचे ले जाओ और एक **पॉज़** बटन दिखेगा। पार्टी गेम को बीच में रोकने का एकमात्र तरीका पॉज़ करना है।
 >
-> रफ़्तार ख़ुद तय करना चाहते हो - यह चुनना कि हर सवाल कब शुरू हो? यह सिर्फ़ [**QuizWitz Live**](../quizmaster/001-introduction.md) और Quizmaster ऐप से मुमकिन है।
+> Want to control the pacing of the game yourself - deciding when each question starts? यह सिर्फ़ [**QuizWitz Live**](../quizmaster/001-introduction.md) और Quizmaster ऐप से मुमकिन है।
 
 ![QuizWitz शुरुआती स्क्रीन](/images/quizwitz-start-screen.png)  
 ![QuizWitz शुरुआती स्क्रीन पार्टी](/images/quizwitz-start-screen-party.png)  
