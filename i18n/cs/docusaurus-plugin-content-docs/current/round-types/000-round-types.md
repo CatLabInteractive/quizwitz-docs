@@ -5,7 +5,7 @@ title: Typy kol
 
 # Typy kol
 
-Typ kola ovlivňuje, jak hra zobrazuje otázky hráčům — a jak hráči získávají body.  
+The round type influences the way the game shows the questions to the players - and how players earn points.  
 V kvízech můžeš typ kola změnit v rozbalovacím poli **Typ kola** uprostřed nahoře na obrazovce.
 
 ## 🧠 Běžná kola
@@ -29,12 +29,12 @@ Pro každého, kdo chce pořádat tradiční hospodské kvízy, kde hráči mů�
 Tyhle typy kol simulují „odevzdání papírů“ po každém kole.
 
 - [Tradiční](030-traditional.md)
-- [Tradiční — společné téma](031-traditional-ct.md)
+- [Traditional - Common thread](031-traditional-ct.md)
 - [Abeceda](032-alphabet.md)
 
 ## 🎉 Živé události
 
-Tyhle typy kol neobsahují žádné otázky — místo toho ale ovlivňují výsledek hry.
+These round types do not contain any questions - but instead influence the outcome of the game.
 
 - [Aktivita](040-activity.md)
 - [Přestávka](060-intermission.md)
@@ -46,5 +46,5 @@ Tyhle typy kol neobsahují žádné otázky — místo toho ale ovlivňují výs
 
 V těchto typech kol můžeš vybrat konkrétní **oddělení**, která hrají proti jiným oddělením.
 
-- [Department — Dealer's Choice](070-departments-dealers-choice.md)
-- [Oddělení — vyřazování](071-departments-elimination.md)
+- [Department - Dealer's Choice](070-departments-dealers-choice.md)
+- [Department - Elimination](071-departments-elimination.md)
