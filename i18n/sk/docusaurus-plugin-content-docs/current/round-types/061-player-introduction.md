@@ -16,7 +16,7 @@ title: Predstavenie hráčov
 
 ---
 
-> Predstavenia hráčov pomáhajú navodiť atmosféru, prelomiť ľady a prispôsobiť kvízový zážitok na mieru — najmä pri živých a tímových udalostiach!
+> Player introductions help set the mood, break the ice, and personalize the quiz experience - especially in live and team-based events!
 
 ---
 
