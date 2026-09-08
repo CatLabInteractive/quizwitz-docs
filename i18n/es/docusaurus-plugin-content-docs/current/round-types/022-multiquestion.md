@@ -34,7 +34,7 @@ La ronda **Multiquestion** da a los jugadores (o equipos) la libertad de elegir 
 ## 💡 Consejos
 
 - Ofrece una mezcla de preguntas fáciles y difíciles para más estrategia.
-- Usa las etiquetas creativamente—temas misteriosos o divertidos pueden aumentar la participación.
+- Use labels creatively - mystery or fun themes can boost engagement.
 - Premia a los arriesgados con preguntas de más puntos.
 
 ---
