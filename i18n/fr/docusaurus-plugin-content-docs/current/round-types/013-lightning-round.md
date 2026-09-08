@@ -5,7 +5,7 @@ title: Manche éclair
 
 # ⚡ Manche éclair
 
-La **manche éclair** est une question de vitesse et d'excitation. Les joueurs répondent à une série rapide de questions avec des minuteurs très courts — le tout accompagné d'une musique de minuteur continue pour une énergie et une tension maximales.
+La **manche éclair** est une question de vitesse et d'excitation. Players answer a rapid series of questions with very short timers - all set to continuous timer music for maximum energy and tension.
 
 ---
 
@@ -29,7 +29,7 @@ Voir les [options de manche](../editor/008-round-options.md) pour les détails s
 
 ---
 
-## 🎵 Pièces jointes — Musique du compte à rebours
+## 🎵 Attachments - Countdown music
 
 - Vous pouvez définir une **Pièce jointe de manche** dans la case « Jouer pendant le compte à rebours de la question ».  
   Cette pièce audio sera jouée **en continu** comme musique du compte à rebours pendant toute la manche éclair, ne s’arrêtant qu’après la dernière question.
