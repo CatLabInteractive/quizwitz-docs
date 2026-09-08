@@ -27,7 +27,7 @@ Mielőtt elkezded, győződj meg róla, hogy megvan:
 
 2. Megjelenik egy fekete betöltőképernyő, rajta egy százalékkal. Ez csak néhány másodpercet vesz igénybe.
 
-3. Once loaded, the game screen appears. Ha bejelentkezést kér, kattints a **Login** gombra — megnyílik egy második lap.
+3. A betöltés után megjelenik a játékképernyő. Ha bejelentkezést kér, kattints a **Login** gombra — megnyílik egy második lap.
    - Kattints a **Login** gombra a bejelentkezési oldalon, és add meg a kapott bejelentkezési adatokat.
    - Bejelentkezés után a lap automatikusan bezáródik, és a kvíz befejezi a betöltést.
 
@@ -35,7 +35,7 @@ Mielőtt elkezded, győződj meg róla, hogy megvan:
 
 5. Vidd az egérmutatót a képernyő fölé, hogy megjelenjen alul a vezérlősáv.  
    Kattints a jobb oldali **négyzet ikonra** a teljes képernyős mód bekapcsolásához.  
-   The quiz is now ready to play on the game screen.
+   A kvíz most már játszható a játékképernyőn.
 
 :::tip
 Ha bármikor ki szeretnél lépni a teljes képernyős módból — például hogy másik ablakra válts — nyomd meg az **Esc** billentyűt.
@@ -61,16 +61,16 @@ Miután a kvíz újratöltött, emlékezni fog a bejelentkezésedre, és egyből
 A játékosok a saját okostelefonjukkal kétféleképpen csatlakozhatnak:
 
 - Nyissák meg a **www.quizwitz.tv** címet a böngészőjükben
-- Scan the **QR code** shown on the game screen
+- Olvasd be a játékképernyőn megjelenő **QR-kódot**
 
 A csatlakozási képernyőn a játékosok:
 
-1. Enter the **8-digit code** shown on the game screen.
+1. Írd be a játékképernyőn látható **8 jegyű kódot**.
 2. Kitöltik a **nevüket és e-mail-címüket**.
 3. Bejelölik az **adatvédelmi jelölőnégyzetet**.
 4. Rákoppintanak a **READY** gombra.
 
-Csatlakozás után a játékosok egy várakozási üzenetet látnak a telefonjukon. The game screen shows how many players are connected.
+Csatlakozás után a játékosok egy várakozási üzenetet látnak a telefonjukon. A játékképernyő mutatja, hány játékos csatlakozott.
 
 :::note
 A játékosok bármikor csatlakozhatnak, amíg el nem éritek a maximális játékosszámot.
@@ -87,7 +87,7 @@ Elindul egy 5 másodperces visszaszámlálás, majd a kvíz automatikusan elkezd
 
 ## Hogyan zajlik a kvíz
 
-- Each question appears on the game screen with the question text, four answer options, and an image.
+- Minden kérdés a kérdés szövegével, négy válaszlehetőséggel és egy képpel jelenik meg a játékképernyőn.
 - A játékosok ugyanazt a kérdést látják a telefonjukon, és rákoppintanak a négy lehetőség egyikére.
 - A játékosoknak **30 másodpercük** van válaszolni. Az időzítő fehér sávként jelenik meg a képernyő alján.
 - Amint minden játékos válaszolt (vagy lejárt az idő), a helyes válasz megjelenik a képernyőn egy kördiagrammal együtt, amely megmutatja a válaszok megoszlását.
