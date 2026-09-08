@@ -3,7 +3,7 @@ id: jury-app
 title: जूरी ऐप
 ---
 
-# 🧑‍⚖️ जूरी ऐप - QuizWitz Live में ओपन जवाबों की समीक्षा
+# 🧑‍⚖️ Jury App - Reviewing open answers in QuizWitz Live
 
 अगर तुम्हारे क्विज़ में **ओपन सवाल** हैं, तो जवाबों की हाथ से समीक्षा और स्कोरिंग के लिए तुम्हें **जूरी ऐप** चाहिए होगा।
 
@@ -19,20 +19,20 @@ title: जूरी ऐप
 2. किसी दूसरे डिवाइस पर [**quizwitz.tv**](https://quizwitz.tv) पर जाओ
 3. ऐप एक्सेस करने के लिए **Jury Code** डालें
 
-> 💡 तुम जूरी ऐप किसी भी ब्राउज़र में खोल सकते हो - यह एक वेब ऐप है, इंस्टॉल करने की ज़रूरत नहीं।
+> 💡 You can open the Jury App on any browser - it's a web app, no installation required.
 
 अंदर जूरी ऐप कई काम के टूल देता है:
 
-- **Judge questions** — कोई सवाल पूरा होने के बाद खुले सवालों के नतीजे दिखेंगे।
-  - गेम जूरी के खत्म करने का **इंतज़ार नहीं करता** — जब तक कि यह **राउंड का आखिरी सवाल** न हो या क्विज़ सेटिंग्स में कुछ और न कहा गया हो।
+- **Judge questions** - Open question results will appear once a question is completed.
+  - The game does **not wait** for the jury to finish - unless it’s the **last question of the round** or the quiz settings say otherwise.
   - जज किए जाने के बाद, नतीजे **अगले सवाल के बाद** दिखते हैं।
 
-- **Edit scores** — हर खिलाड़ी या टीम के लिए पॉइंट्स मैन्युअल रूप से दें या वापस लें।
+- **Edit scores** - Grant or revoke points manually per player or team.
 
-- **Game control** — ज़रूरत पड़ने पर सवालों के टाइमर एडजस्ट करें या स्ट्रीमिंग डिले जोड़ें।
+- **Game control** - Adjust question timers or add streaming delays if needed.
   > लाइवस्ट्रीम डिले सेटअप के लिए, [**Twitch पर QuizWitz Live क्विज़ होस्ट करने का तरीका**](../tutorials/040-livestreaming.md) देखें
 
-- **Report** — नतीजों और खिलाड़ियों के जवाबों के साथ पूरी गेम रिपोर्ट जनरेट करें।
+- **Report** - Generate a full game report with results and player answers.
 
 ![इंतज़ार की स्थिति में जूरी ऐप का स्क्रीनशॉट](/images/jury-app-waiting.png)
 
@@ -54,7 +54,7 @@ QuizWitz **बिल्कुल मेल खाने वाले जवा�
 - ध्वन्यात्मक मिलान
 - स्पेलिंग की आम वैरिएशन
 
-> 🎙️ QuizWitz को ध्वन्यात्मक मिलान को ध्यान में रखकर डिज़ाइन किया गया था — लेकिन अंतिम फैसला हमेशा जजों का ही होता है।
+> 🎙️ QuizWitz was designed with phonetic matching in mind - but the final decision is always up to the judges.
 
 ---
 
