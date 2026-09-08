@@ -5,7 +5,7 @@ title: Lijstvraag
 
 # 📝 Lijstvraag
 
-Een **lijstvraag** vraagt spelers om meerdere correcte antwoorden te geven uit een grotere lijst — perfect voor aanwijzingen zoals "Noem de eerste 5 presidenten van de Verenigde Staten van Amerika" of "Noem drie elementen uit het periodiek systeem."
+A **List question** asks players to provide several correct answers from a larger list - perfect for prompts like “List the first 5 presidents of the United States of America” or “Name three elements in the periodic table.”
 
 ---
 
@@ -18,7 +18,7 @@ Een **lijstvraag** vraagt spelers om meerdere correcte antwoorden te geven uit e
 - **Vraag:** Geef duidelijk aan wat je wilt dat spelers lijst.
 - **Lijstitems:** Voer alle mogelijke correcte antwoorden in.
   - Markeer sommige als **‘Gegeven’** om ze als voorbeelden op het scherm te tonen; deze hoeven NIET beantwoord te worden.
-  - Volgorde doet er **NIET** toe — spelers kunnen correcte antwoorden in willekeurige volgorde invoeren.
+  - Order does **not** matter - players can enter correct answers in any order.
 - **Spelerinvoer:** Spelers moeten een vastgesteld aantal antwoorden geven (bijv. tussen 1 en 5). Punten worden toegekend voor elk correct antwoord dat ze indienen.
 - **Bijlagen:** Voeg afbeeldingen, audio of video toe voor context. Vul bronvermelding in indien gepubliceerd.
 
@@ -45,7 +45,7 @@ Een **lijstvraag** vraagt spelers om meerdere correcte antwoorden te geven uit e
     De beschikbare punten zijn verdeeld in tijdsblokken (niet per milliseconde).\
     Bijvoorbeeld: volle punten in het eerste blok, 80% in het volgende, enzovoort.
   - **Slechts 25%** van de punten is afhankelijk van snelheid.  
-    De andere **75%** is vast gezet - dus ook langzame typers krijgen het meeste deel van de punten als ze correct antwoorden.
+    The other **75%** is fixed - so even slower typers get most of the points if they answer correctly.
   - Dit vermindert de straf voor typsnelheid en maakt het scoren eerlijker voor iedereen.
 
 Voor details, zie [ronde score opties](../editor/008-round-options.md#scoring).
