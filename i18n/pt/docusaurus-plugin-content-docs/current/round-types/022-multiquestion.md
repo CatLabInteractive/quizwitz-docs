@@ -34,7 +34,7 @@ A ronda **Multiquestion** dá aos jogadores (ou equipas) a liberdade de escolher
 ## 💡 Dicas
 
 - Oferece uma mistura de perguntas fáceis e difíceis para ter mais estratégia.
-- Usa rótulos de forma criativa — temas misteriosos ou divertidos podem aumentar o envolvimento.
+- Use labels creatively - mystery or fun themes can boost engagement.
 - Recompensa quem gosta de arriscar com perguntas que valem mais pontos.
 
 ---
