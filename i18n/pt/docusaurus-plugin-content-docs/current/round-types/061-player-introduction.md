@@ -16,7 +16,7 @@ title: Apresentação dos jogadores
 
 ---
 
-> As apresentações dos jogadores ajudam a criar o ambiente, quebrar o gelo e personalizar a experiência do quiz — especialmente em eventos ao vivo e em equipas!
+> Player introductions help set the mood, break the ice, and personalize the quiz experience - especially in live and team-based events!
 
 ---
 
