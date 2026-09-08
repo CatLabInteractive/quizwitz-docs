@@ -45,14 +45,14 @@ QuizWitz में आपका स्वागत है! चाहे आप �
 
 ## 🧠 एक Round-About चुनें
 
-A **Round-About** is a small, themed round of questions — as the name says, a round _about_ a subject. सिर्फ एक खेलने पर आपको 7 रैंडम सवालों वाला छोटा गेम मिलेगा।
+**Round-About** सवालों का एक छोटा, थीम वाला सेट है - जैसा नाम से लगता है, _एक_ विषय पर एक राउंड। सिर्फ एक खेलने पर आपको 7 रैंडम सवालों वाला छोटा गेम मिलेगा।
 
 किसी Round-About को ज़्यादा विस्तार से देखने के लिए:
 
 - उसकी **इमेज**, **शीर्षक** या **कमेंट्स आइकन** पर क्लिक करें
 - तुरंत शुरू करने के लिए **खेलें** पर क्लिक करें
 
-![QuizWitz Round-About details](/images/round-about-details.png)
+![QuizWitz - Round-About का विवरण](/images/round-about-details.png)
 
 ---
 
@@ -107,17 +107,17 @@ QuizWitz उन सवालों को छोड़ने की कोशि
 
 दोस्तों के साथ उनके अपने फोन या टैबलेट इस्तेमाल करके खेलें:
 
-> 📺 Make sure the game screen is visible — use a shared display or screen share
+> 📺 पक्का करो कि गेम स्क्रीन दिख रही है - साझा डिस्प्ले या स्क्रीन शेयरिंग इस्तेमाल करो
 
 1. **शुरू करें** पर क्लिक करें, फिर **पार्टी गेम** पर क्लिक करें
 2. खिलाड़ी शामिल होने के लिए स्क्रीन पर दिए निर्देशों का पालन करें
 3. जब सभी तैयार हों, तो **क्विज़ शुरू करें** पर क्लिक करें
 
-Once the quiz starts, **the game runs automatically** — questions appear, timers count down, and scores are tallied without any host intervention.
+क्विज़ शुरू होने के बाद **गेम अपने आप चलता है** - सवाल दिखते हैं, टाइमर घटते हैं, पॉइंट्स जुड़ते हैं, बिना होस्ट के दख़ल के।
 
-> ⏸️ Need a break? Move your mouse to the bottom of the game screen and a **pause** button will appear. Pausing is the only way to interrupt a Party Game.
+> ⏸️ ब्रेक चाहिए? माउस को गेम स्क्रीन के नीचे ले जाओ और एक **पॉज़** बटन दिखेगा। पार्टी गेम को बीच में रोकने का एकमात्र तरीका पॉज़ करना है।
 >
-> Want to control the pacing of the game yourself — deciding when each question starts? That's only possible with [**QuizWitz Live**](../quizmaster/001-introduction.md) and the Quizmaster App.
+> रफ़्तार ख़ुद तय करना चाहते हो - यह चुनना कि हर सवाल कब शुरू हो? यह सिर्फ़ [**QuizWitz Live**](../quizmaster/001-introduction.md) और Quizmaster ऐप से मुमकिन है।
 
 ![QuizWitz शुरुआती स्क्रीन](/images/quizwitz-start-screen.png)  
 ![QuizWitz शुरुआती स्क्रीन पार्टी](/images/quizwitz-start-screen-party.png)  
