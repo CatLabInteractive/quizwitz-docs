@@ -5,7 +5,7 @@ title: Pauze
 
 # ⏸️ Pauze
 
-**Pauze** is een speciale ronde die de quiz onderbreekt voor een pauze—ideaal om even te rekken, te kletsen of sponsors te promoten.
+**Intermission** is a special event round that pauses the quiz for a break - ideal for stretching, chatting, or promoting sponsors.
 
 ---
 
@@ -23,7 +23,7 @@ title: Pauze
 ## 🖼️ Bijlagen
 
 - Je kunt afbeeldingen, logo's of video's uploaden in de ronde-instellingen.
-- Tijdens de pauze worden deze bijlagen in een carrousel op het spelscherm getoond — ideaal voor sponsorlogo's, berichten of promotievideo's.
+- During the intermission, these attachments will be shown in a carousel on the game screen - great for sponsor logos, messages, or promotional videos.
 - Bijlagen worden herhaald gedurende de hele pauzeduur.
 
 ---
