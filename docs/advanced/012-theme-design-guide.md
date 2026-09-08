@@ -180,7 +180,7 @@ One design, optionally with a variant per category:
 
 ![Round intro for the science category](/images/theme-design/frame7-roundintro-science.png)
 
-**A character is optional.** The stock QuizWitz theme has a character that talks and reacts. Nothing requires one: the theme validator only warns about the `ted` element; it does not fail without it. The [Emerald theme](/docs/advanced/emerald-theme) ships without a character, and dropping it removes the most expensive animation work - lip sync, eyes, arms.
+**A character is optional.** The stock QuizWitz theme has a character that talks and reacts. Nothing requires one. The [Emerald theme](/docs/advanced/emerald-theme) ships without a character, and dropping it removes the most expensive animation work - lip sync, eyes, arms.
 
 Without a character, the round intro becomes a graphic, typographic or illustrative moment. Two approaches keep the work in proportion: one composition with a colour or icon variant per category, or a single universal announcement with only the round name changing. Six genuinely different intros is a lot of work for a few seconds of screen time.
 
