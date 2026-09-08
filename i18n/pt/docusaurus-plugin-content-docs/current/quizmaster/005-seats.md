@@ -43,7 +43,7 @@ Estes Seats são ideais para eventos recorrentes, configurações de equipas mai
 
 ---
 
-## 💳 Pré-pago e créditos
+## 💳 Pay-as-you-go e créditos
 
 Para eventos únicos ou ocasionais, podes ativar **Seats pré-pagos** em vez de comprar uma licença. Isto dá-te flexibilidade sem compromisso a longo prazo.
 
@@ -58,7 +58,7 @@ Para eventos únicos ou ocasionais, podes ativar **Seats pré-pagos** em vez de 
 
 ## ⏳ Duração dos Seats (pré-pago)
 
-- Os **Seats pré-pagos** ficam ativos durante **48 horas** após a ativação.
+- Os **Seats Pay-as-you-go** ficam ativos durante **48 horas** após a ativação.
 - Durante esse período, podes:
   - Fazer **vários quizzes ou sessões**
   - **Testar** o teu quiz com grupos maiores
