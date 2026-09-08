@@ -21,7 +21,7 @@ Bežné usporiadanie je, že tému nakreslí grafik a niekto iný ju poskladá v
 
 ## 🧪 Nástroj na testovanie témy
 
-Keď budeš pripravený otestovať svoju tému, **zazipuj obsah priečinka s návrhom** ( — nie samotný priečinok; keď otvoríš zip, mal by si vidieť svoje súbory, nie iba jeden priečinok — ) a nahraj ho do nášho [testera tém](https://themes.quizwitz.com/). Získaš tak živý náhľad toho, ako bude tvoja téma vyzerať v hre.
+When you're ready to test your theme, **zip the contents of your design folder** ( - not the folder itself; when you open the zip, you should see your files, not just a single folder - ) and upload it to our [theme tester](https://themes.quizwitz.com/). Získaš tak živý náhľad toho, ako bude tvoja téma vyzerať v hre.
 
 Po otestovaní nám pošli zip súbor e-mailom a my ho prepojíme s tvojím účtom, aby si si mohol tému vybrať a používať ju vo svojich kvízoch.
 
@@ -35,25 +35,25 @@ Všetky vlastné dizajny musia obsahovať logo QuizWitz.
 
 ## 🖥️ Prehľad obrazoviek
 
-| Fáza                                                                        | Herná obrazovka                                                                                                | Zariadenie hráča (tablet/telefón)                 |
-| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| Obrazovka pripojenia                                                        |                                                                                                                |                                                                      |
-| Čakacia obrazovka                                                           | Logo kvízu. Zobrazuje sa, kým quizmaster číta otázku.                          | Citát, ktorý hráča nabáda, aby pozorne počúval.      |
-| Úvod hry                                                                    | Animácia pred hrou.                                                                            | Čakacia obrazovka.                                   |
-| Úvod kola                                                                   | Animácia pred každým kolom.                                                                    | Čakacia obrazovka.                                   |
-| Otázky                                                                      |                                                                                                                |                                                                      |
-| Príloha                                                                     | Zobrazenie prílohy na celú obrazovku ( — pred/po otázkach alebo kolách — ). | Čakacia obrazovka.                                   |
-| Otázka: výber z viacerých možností bez prílohy              | Otázka + 4 možnosti výberu.                                                                    | Obrazovka odpovede s výberom z viacerých možností.   |
-| Otázka: výber z viacerých možností s prílohou               | Otázka + 4 možnosti výberu + vizuálna príloha.                                                 | Obrazovka odpovede s výberom z viacerých možností.   |
-| Otázka: otvorená otázka bez prílohy                         | Iba otázka.                                                                                    | Textové pole a tlačidlo odoslania.                   |
-| Otázka: otvorená otázka s prílohou                          | Otázka + vizuálna príloha.                                                                     | Textové pole a tlačidlo odoslania.                   |
-| Aktivita: vybrané tímy                                      | Názov aktivity.                                                                                | Čakacia obrazovka alebo obrazovka „si vybraný“.      |
-| Spätná väzba                                                                |                                                                                                                |                                                                      |
-| Spätná väzba k otázke: výber z viacerých možností           | Otázka, správne možnosti a rozloženie odpovedí.                                                | Správne / nesprávne + získané body.                  |
-| Spätná väzba k otázke: otvorená otázka                      | Otázka, správne možnosti a % správnych odpovedí.                                               | Správne / nesprávne + získané body.                  |
-| Spätná väzba k otázke: otvorená otázka + príloha            | Otázka, správne možnosti, rozloženie odpovedí a vizuálna príloha.                              | Správne / nesprávne + získané body.                  |
-| Spätná väzba k otázke: výber z viacerých možností + príloha | Otázka, správne možnosti, rozloženie odpovedí a vizuálna príloha.                              | Správne / nesprávne + získané body.                  |
-| Spätná väzba k aktivite                                                     | Tímy vybrané pre aktivitu.                                                                     | Čakacia obrazovka alebo obrazovka správne/nesprávne. |
-| Rebríček hráčov                                                             |                                                                                                                |                                                                      |
-| Záver kola                                                                  | Top 10 všetkých hráčov.                                                                        | Aktuálna pozícia a celkový počet bodov.              |
-| Záver hry                                                                   | Odpočítavanie od 10. po 1. miesto, potom finálna top 10.       | Finálne umiestnenie a celkový počet bodov.           |
+| Fáza                                                                        | Herná obrazovka                                                                                          | Zariadenie hráča (tablet/telefón)                 |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| Obrazovka pripojenia                                                        |                                                                                                          |                                                                      |
+| Čakacia obrazovka                                                           | Logo kvízu. Zobrazuje sa, kým quizmaster číta otázku.                    | Citát, ktorý hráča nabáda, aby pozorne počúval.      |
+| Úvod hry                                                                    | Animácia pred hrou.                                                                      | Čakacia obrazovka.                                   |
+| Úvod kola                                                                   | Animácia pred každým kolom.                                                              | Čakacia obrazovka.                                   |
+| Otázky                                                                      |                                                                                                          |                                                                      |
+| Príloha                                                                     | Fullscreen attachment view ( - before/after questions or rounds - ).  | Čakacia obrazovka.                                   |
+| Otázka: výber z viacerých možností bez prílohy              | Otázka + 4 možnosti výberu.                                                              | Obrazovka odpovede s výberom z viacerých možností.   |
+| Otázka: výber z viacerých možností s prílohou               | Otázka + 4 možnosti výberu + vizuálna príloha.                                           | Obrazovka odpovede s výberom z viacerých možností.   |
+| Otázka: otvorená otázka bez prílohy                         | Iba otázka.                                                                              | Textové pole a tlačidlo odoslania.                   |
+| Otázka: otvorená otázka s prílohou                          | Otázka + vizuálna príloha.                                                               | Textové pole a tlačidlo odoslania.                   |
+| Aktivita: vybrané tímy                                      | Názov aktivity.                                                                          | Čakacia obrazovka alebo obrazovka „si vybraný“.      |
+| Spätná väzba                                                                |                                                                                                          |                                                                      |
+| Spätná väzba k otázke: výber z viacerých možností           | Otázka, správne možnosti a rozloženie odpovedí.                                          | Správne / nesprávne + získané body.                  |
+| Spätná väzba k otázke: otvorená otázka                      | Otázka, správne možnosti a % správnych odpovedí.                                         | Správne / nesprávne + získané body.                  |
+| Spätná väzba k otázke: otvorená otázka + príloha            | Otázka, správne možnosti, rozloženie odpovedí a vizuálna príloha.                        | Správne / nesprávne + získané body.                  |
+| Spätná väzba k otázke: výber z viacerých možností + príloha | Otázka, správne možnosti, rozloženie odpovedí a vizuálna príloha.                        | Správne / nesprávne + získané body.                  |
+| Spätná väzba k aktivite                                                     | Tímy vybrané pre aktivitu.                                                               | Čakacia obrazovka alebo obrazovka správne/nesprávne. |
+| Rebríček hráčov                                                             |                                                                                                          |                                                                      |
+| Záver kola                                                                  | Top 10 všetkých hráčov.                                                                  | Aktuálna pozícia a celkový počet bodov.              |
+| Záver hry                                                                   | Odpočítavanie od 10. po 1. miesto, potom finálna top 10. | Finálne umiestnenie a celkový počet bodov.           |
