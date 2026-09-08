@@ -52,7 +52,7 @@ A kör kezdete előtt a QuizWitz az alábbi lehetőségek egyikével határozza 
 
 - A legmagasabban rangsorolt játékos kezd
 - A legalacsonyabban rangsorolt játékos kezd
-- Véletlenszerűen – az osztó véletlenszerűen kerül kiválasztásra
+- Véletlenszerűen - a dealer véletlenszerűen kerül kiválasztásra
 
 > A rangsorok **a kör elején** rögzülnek.
 
