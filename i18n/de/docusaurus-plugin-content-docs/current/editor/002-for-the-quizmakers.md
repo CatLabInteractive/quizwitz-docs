@@ -6,7 +6,7 @@ title: Einführung
 # 🛠️ Quizmaker-Anleitung
 
 Willkommen zum Leitfaden für Quiz-Ersteller!  
-Auf QuizWitz kannst du deine eigenen Quiz-Inhalte erstellen und organisieren – oder Inhalte sammeln und neu mischen, die von anderen erstellt wurden.
+On QuizWitz, you can build and organize your own quiz content - or collect and remix content made by others.
 
 ---
 
@@ -14,8 +14,8 @@ Auf QuizWitz kannst du deine eigenen Quiz-Inhalte erstellen und organisieren –
 
 Als Quizmaker kannst du mit folgenden arbeiten:
 
-- **Round-Abouts** — Kleine, thematische Sammlungen von Fragen, die in zufälliger Reihenfolge angezeigt werden
-- **Vollständige Quizze** — Benutzerdefinierte Quizze, die mehrere Round-Abouts in einer bestimmten Reihenfolge kombinieren
+- **Round-Abouts** - Small, themed collections of questions shown in random order
+- **Full Quizzes** - Custom quizzes, combining multiple Round-Abouts in a specific sequence
 
 Du kannst auch **Round-Abouts sammeln**, die von anderen Mitgliedern erstellt wurden, und sie in deine eigenen Quizze einbinden.
 
