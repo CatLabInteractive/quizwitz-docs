@@ -9,7 +9,7 @@ Kolo Aktivita ťa nechá na chvíľu odísť od štandardných kvízových otáz
 
 ---
 
-![Game screen for Activity round](/images/round-modes/activity-main-screen.png)
+![Herná obrazovka pre kolo Aktivita](/images/round-modes/activity-main-screen.png)
 
 ---
 
@@ -33,7 +33,7 @@ Kolo Aktivita ťa nechá na chvíľu odísť od štandardných kvízových otáz
 
 - **Nástroje duelu:** quizmaster má počas aktivity prístup k rýchlym akciám pre bzučiak, gong, zvončeky a časovače.
 - **Vlastné body:** Body môžeš zadať manuálne pre každý tím alebo môžeš vybrať víťaza pomocou tlačidiel rýchlej akcie.
-- **Prílohy:** Pridaj obrázky, zvuk alebo video na vysvetlenie aktivity alebo ukázanie príkladov. The quizmaster can display these on the game screen during the activity.
+- **Prílohy:** Pridaj obrázky, zvuk alebo video na vysvetlenie aktivity alebo ukázanie príkladov. Quizmaster ich môže počas aktivity zobraziť na hernej obrazovke.
 
 ---
 
