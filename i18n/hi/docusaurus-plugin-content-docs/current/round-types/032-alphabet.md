@@ -5,8 +5,8 @@ title: वर्णमाला
 
 # 🔤 वर्णमाला
 
-**वर्णमाला** राउंड एक ट्विस्ट वाला [पारंपरिक राउंड](030-traditional.md) है—हर प्रश्न को एक अनोखा लेबल दिया जाता है,
-और खिलाड़ियों को अपने उत्तर सही लेबल वाले फ़ील्ड से मिलाने होते हैं। यह राउंड ज्ञान और अनुमान लगाने की क्षमता, दोनों को इनाम देता है!
+An **Alphabet** round is a [Traditional round](030-traditional.md) with a twist - each question is assigned a unique label,
+and players must match their answers to the correct labeled fields. यह राउंड ज्ञान और अनुमान लगाने की क्षमता, दोनों को इनाम देता है!
 
 ---
 
@@ -27,10 +27,10 @@ title: वर्णमाला
 
 ## 📝 यह कैसे काम करता है
 
-- जैसे-जैसे प्रश्न पूछे जाते हैं, खिलाड़ियों को उत्तर फ़ील्ड की एक सूची दिखती है — हर प्रश्न के लिए एक।
-- **उत्तर फ़ील्ड क्विज़ के क्रम में नहीं होते** — इसके बजाय, वे लेबल के अनुसार वर्णमाला क्रम में सॉर्ट किए जाते हैं।
+- As questions are asked, players see a list of answer fields - one for each question.
+- **The answer fields are not in quiz order** - instead, they’re sorted alphabetically by label.
 - खिलाड़ियों को अपने उत्तर सही लेबल वाले फ़ील्ड से मिलाने होते हैं (जैसे प्रश्न "Bear" का उत्तर लेबल "B" के तहत दर्ज करना होगा)।
-- राउंड खत्म होने तक उत्तर कभी भी बदले जा सकते हैं — खिलाड़ी अपनी गलती समझने पर उत्तरों को फ़ील्ड्स के बीच बदल सकते हैं।
+- Answers can be changed at any time until the round finishes - players can switch answers between fields as they realize their mistakes.
 
 ---
 
