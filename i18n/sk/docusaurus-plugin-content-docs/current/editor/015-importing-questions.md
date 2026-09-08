@@ -47,14 +47,14 @@ Ak chceš rýchlo vytvoriť veľa otázok naraz, použi kartu **Import z tabuľk
 
 Každý riadok musí obsahovať nasledujúce stĺpce presne v tomto poradí:
 
-1. **Krátka otázka** — Zobrazuje sa na obrazovke hráča
+1. **Short question** - Displayed on the player screen
 2. **Správna odpoveď**
 3. **Nesprávna odpoveď 1** (pri otvorených otázkach nechaj prázdne)
 4. **Nesprávna odpoveď 2**
 5. **Nesprávna odpoveď 3**
-6. **Krátka spätná väzba** — Zobrazuje sa na obrazovke hráča po odpovedi
-7. **Dlhá otázka** _(voliteľné)_ — Zobrazuje sa na obrazovke quizmaster
-8. **Dlhá spätná väzba** _(voliteľné)_ — Vysvetlenie, ktoré má quizmaster prečítať nahlas
+6. **Short feedback** - Displayed on the player screen after answering
+7. **Long question** _(optional)_ - Displayed on the quizmaster screen
+8. **Long feedback** _(optional)_ - Explanation for the quizmaster to read aloud
 
 > 📌 Posledné dva stĺpce sa používajú iba v [QuizWitz Live](../quizmaster/001-introduction.md), ale aj tak musia byť zahrnuté (aj keď zostanú prázdne).
 
