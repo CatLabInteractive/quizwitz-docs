@@ -3,9 +3,9 @@ id: startup
 title: शुरुआत
 ---
 
-# 🚀 शुरुआत — QuizWitz Live के साथ क्विज़ होस्ट करना
+# 🚀 Start-up - Hosting a Quiz with QuizWitz Live
 
-QuizWitz Live में आपका स्वागत है — टीमों, livestreams और आमने-सामने के इवेंट्स के लिए क्विज़ होस्ट करने का प्रोफेशनल तरीका। Quizmaster App का इस्तेमाल करके अपनी क्विज़ को शुरू करने और चलाने के लिए इस गाइड को फॉलो करें।
+Welcome to QuizWitz Live - the professional way to host quizzes for teams, livestreams, and in-person events. Quizmaster App का इस्तेमाल करके अपनी क्विज़ को शुरू करने और चलाने के लिए इस गाइड को फॉलो करें।
 
 ---
 
@@ -23,7 +23,7 @@ QuizWitz Live में आपका स्वागत है — टीमो�
 
 ## 🔐 क्विज़मास्टर कोड से जुड़ो
 
-शुरू करने के बाद तुम्हारी स्क्रीन पर एक **क्विज़मास्टर कोड** दिखता है। **यह कोड खिलाड़ियों के साथ शेयर न करें** — इसका इस्तेमाल आपके प्रेज़ेंटेशन डिवाइस को गेम से कनेक्ट करने के लिए किया जाता है।
+शुरू करने के बाद तुम्हारी स्क्रीन पर एक **क्विज़मास्टर कोड** दिखता है। **Do not share this code with players** - it's used to connect your presentation device to the game.
 
 - अपने क्विज़मास्टर डिवाइस पर [quizwitz.tv](https://quizwitz.tv) खोलो और क्विज़मास्टर कोड डालो।
 - एक **Quizmaster App इंटरफ़ेस** दिखाई देगा, जहाँ से आप गेम कंट्रोल करेंगे।
@@ -32,7 +32,7 @@ QuizWitz Live में आपका स्वागत है — टीमो�
 
 जुड़ने के बाद क्विज़मास्टर कोड स्क्रीन से हट जाता है। अब तुम गेम स्क्रीन को प्रोजेक्ट करने या livestream शुरू करने के लिए तैयार हो।
 
-> ⚠️ **सावधान!** अगर गेम स्क्रीन सामने सक्रिय नहीं है - जैसे तुम टैब बदल दो या उसे छोटा कर दो - तो गेम अपने आप **पॉज़ हो जाता है**।  
+> ⚠️ **Heads up!** If the game screen is not actively in focus - for example, if you switch tabs or minimize it - the game will **automatically pause**.  
 > जब ऐसा होता है:
 >
 > - **Quizmaster App भी पॉज़ हो जाता है**
@@ -51,13 +51,13 @@ QuizWitz Live में आपका स्वागत है — टीमो�
 
 - हर टीम को एक **यूनिक कोड** मिलता है, जिसे कई डिवाइसों पर खोला जा सकता है।
 - यह **पहले से रजिस्टर की गई टीम क्विज़** के लिए सबसे अच्छा है, जहाँ आपको टीमों के नाम पहले से पता होते हैं।
-- डिवाइस बदलने की सुविधा देता है — अगर क्विज़ के बीच में बैटरी खत्म हो जाए तो यह मददगार है।
+- Allows device switching - helpful if a battery dies mid-quiz.
 
 ### एकल गेम कोड
 
 - सभी लोग **एक साझा Game Code** का इस्तेमाल करके जुड़ते हैं।
 - कैज़ुअल या ओपन-एक्सेस इवेंट्स के लिए आदर्श।
-- पहले से रजिस्ट्रेशन की ज़रूरत नहीं — खिलाड़ी कभी भी जुड़ सकते हैं, जब तक सभी active seats भर नहीं जातीं।
+- No pre-registration required - players can join anytime, until all active seats are filled.
 
 > अपने क्विज़ कंटेंट तक पहुँचने के लिए पक्का करें कि आप लॉग इन हैं।
 
@@ -71,13 +71,13 @@ QuizWitz Live में आपका स्वागत है — टीमो�
 - एंट्री कोड बनाने के लिए **‘Generate Codes’** बटन दबाओ  
   ![Quizmaster ऐप - टीमें बनाना](/images/quizmaster-app-create-teams.png)
 
-आप **कोड पहले से रिज़र्व** भी कर सकते हैं — इसके बारे में tips & tricks सेक्शन में और बताया गया है।
+You can also **reserve codes in advance** - more on that in the tips & tricks section.
 
 निम्न कोड ज़रूर **सेव करें**:
 
-- **क्विज़मास्टर कोड** - क्विज़ चलाने के लिए
-- **Jury Code** — मैन्युअल स्कोर एडजस्टमेंट के लिए
-- **Regie Code** — विज़ुअल और टेक्निकल एलिमेंट्स को कंट्रोल करने के लिए
+- **Quizmaster code** - to control the quiz
+- **Jury Code** - for manual score adjustments
+- **Regie Code** - to control visual and technical elements
 
 Team codes अपने खिलाड़ियों को ईमेल या प्रिंटआउट के ज़रिए भेजें।
 
@@ -92,7 +92,7 @@ Team codes अपने खिलाड़ियों को ईमेल य�
 **साझा गेम कोड** योजना के साथ:
 
 - तुम्हें क्विज़मास्टर, जूरी और रेजी कोड मिलते हैं, साथ ही खिलाड़ियों के लिए एक गेम कोड।
-- गेम कोड गेम स्क्रीन पर दिखता है - **इसे अपनी ऑडियंस को दिखाओ या स्ट्रीम करो**।
+- The game code appears on the game screen - **display or stream it to your audience**.
 - खिलाड़ी तब तक कभी भी जुड़ सकते हैं, जब तक आपकी active seat सीमा पूरी नहीं हो जाती।
 
 जब आपके खिलाड़ी अंदर आ जाएँ:
