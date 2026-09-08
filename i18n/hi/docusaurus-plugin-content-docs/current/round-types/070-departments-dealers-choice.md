@@ -25,8 +25,8 @@ title: डिपार्टमेंट Dealer's Choice
   - सबसे ऊँची रैंक वाला पहले
   - रैंडम
 - **डीलर डिपार्टमेंट:**
-  - _सिर्फ़ डीलर खेल सकता है_ — सिर्फ़ चुना गया डीलर सवाल का जवाब देता है
-  - _डीलर के डिपार्टमेंट के सभी खिलाड़ी खेल सकते हैं_ — डिपार्टमेंट में हर कोई जवाब दे सकता है और पॉइंट्स स्कोर कर सकता है
+  - _Only dealer may play_ - Only the selected dealer answers the question
+  - _All players in dealer’s department may play_ - Everyone in the department can answer and score points
 - **डीलर बोनस:**  
   डीलर के लिए बोनस प्रतिशत सेट करें (अगर सक्षम हो)।
 
