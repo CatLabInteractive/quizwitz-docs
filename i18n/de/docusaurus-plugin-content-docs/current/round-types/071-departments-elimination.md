@@ -21,7 +21,7 @@ title: Abteilungs-Elimination
 
 ---
 
-> Die Abteilungs-Eliminierung ermöglicht es dir, Knockouts innerhalb einer Gruppe oder Abteilung durchzuführen – perfekt für Turniere oder thematische Wettbewerbe.
+> Die Abteilungs-Eliminierung ermöglicht es dir, Knockouts innerhalb einer Gruppe oder Abteilung durchzuführen - perfekt für Turniere oder thematische Wettbewerbe.
 
 ---
 
