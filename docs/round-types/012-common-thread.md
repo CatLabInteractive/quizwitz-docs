@@ -5,7 +5,7 @@ title: Common thread
 
 # 🧵 Common Thread
 
-The **Common Thread** round is a special variation of the classic Trivia round. In this round, players answer a series of regular questions, but the twist is that all answers are secretly connected by a single underlying theme or link - the “common thread.”
+The **Common Thread** round is a special variation of the classic Trivia round. In this round, players answer a series of regular questions, but the twist is that all answers are secretly connected by a single underlying theme or link — the “common thread.”
 
 ---
 
