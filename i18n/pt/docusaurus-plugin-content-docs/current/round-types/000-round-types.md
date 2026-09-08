@@ -5,7 +5,7 @@ title: Tipos de ronda
 
 # Tipos de ronda
 
-O tipo de ronda influencia a forma como o jogo mostra as perguntas aos jogadores — e como os jogadores ganham pontos.  
+The round type influences the way the game shows the questions to the players - and how players earn points.  
 Nos quizzes, podes mudar o tipo de ronda no campo de seleção **Tipo de ronda**, na parte superior central do ecrã.
 
 ## 🧠 Rodadas normais
@@ -29,12 +29,12 @@ Para quem quer organizar pub quizzes tradicionais, nos quais os jogadores podem 
 Estes tipos de ronda simulam o ato de "entregar os papéis" depois de cada ronda.
 
 - [Tradicional](030-traditional.md)
-- [Tradicional - Fio condutor](031-traditional-ct.md)
+- [Traditional - Common thread](031-traditional-ct.md)
 - [Alfabeto](032-alphabet.md)
 
 ## 🎉 Eventos ao vivo
 
-Estes tipos de rodada não contêm perguntas — em vez disso, influenciam o resultado do jogo.
+These round types do not contain any questions - but instead influence the outcome of the game.
 
 - [Atividade](040-activity.md)
 - [Intervalo](060-intermission.md)
@@ -46,5 +46,5 @@ Estes tipos de rodada não contêm perguntas — em vez disso, influenciam o res
 
 Nestes tipos de ronda, podes selecionar **departamentos** específicos para jogar contra outros departamentos.
 
-- [Departamentos - Dealer's Choice](070-departments-dealers-choice.md)
-- [Departamentos - Eliminação](071-departments-elimination.md)
+- [Department - Dealer's Choice](070-departments-dealers-choice.md)
+- [Department - Elimination](071-departments-elimination.md)
