@@ -11,12 +11,12 @@ title: Jugando a QuizWitz
 
 ## 🎯 Elige qué jugar
 
-Comienza explorando los **Round-Abouts** disponibles — rondas temáticas cortas de preguntas de quiz. Usa el menú en la parte superior de la pantalla para explorar:
+Start by browsing the available **Round-Abouts** - short themed rounds of quiz questions. Usa el menú en la parte superior de la pantalla para explorar:
 
-- **Nuevo** — Descubre los últimos Round-Abouts
-- **Mi Colección** — Accede a todo lo que has guardado o creado
-- **Coleccionar** — Encuentra Round-Abouts creados por la comunidad
-- **Juego Rápido** — Sumérgete en una selección aleatoria
+- **New** - Discover the latest Round-Abouts
+- **My Collection** - Access everything you've saved or created
+- **Collect** - Find Round-Abouts made by the community
+- **Quick Play** - Jump into a random selection
 
 ![Barra de navegación superior de QuizWitz](/images/top-menu-play.png)
 
@@ -39,13 +39,13 @@ Esto incluye:
 - Bingos
 - ...
 
-Puedes organizar, jugar o eliminar elementos en cualquier momento. Esta es tu biblioteca personal — ¡créala a tu manera!
+Puedes organizar, jugar o eliminar elementos en cualquier momento. This is your personal library - build it how you like!
 
 ---
 
 ## 🧠 Elige un Round-About
 
-Un **Round-About** es una pequeña ronda temática de preguntas — como el nombre dice, una ronda _sobre_ un tema. Jugar solamente uno te dará un juego corto con 7 preguntas aleatorias.
+A **Round-About** is a small, themed round of questions - as the name says, a round _about_ a subject. Jugar solamente uno te dará un juego corto con 7 preguntas aleatorias.
 
 Para explorar un Round-About con más detalle:
 
@@ -63,7 +63,7 @@ Para explorar un Round-About con más detalle:
 - Haz clic en **Añadir a mi colección** dentro del Round-About
 - O haz clic en el **icono de estrella** en el recuadro del Round-About
 
-Para eliminar uno después, solo haz clic en la estrella otra vez — ahora dirá **Quitar de mi colección**.
+To remove one later, just click the star again - it’ll now say **Remove from my collection**.
 
 ![Añadir un Round-About a tu colección](/images/add-to-collection.png)
 
@@ -80,7 +80,7 @@ Cuando estés listo:
 
 Elige:
 
-- **Modo de juego** — Un jugador o Juego en grupo
+- **Game mode** - Single Player or Party Game
 - **Qué Round-Abouts** incluir en tu sesión
 
 QuizWitz intentará saltar preguntas que ya has visto.
@@ -106,17 +106,17 @@ Una vez que comience tu juego, elige tu modo:
 
 Juega con amigos usando sus propios teléfonos o tablets:
 
-> 📺 Asegúrate de que la pantalla del juego sea visible: usa una pantalla compartida o comparte la pantalla
+> 📺 Make sure the game screen is visible - use a shared display or screen share
 
 1. Haz clic en **Comenzar**, luego en **Juego en grupo**
 2. Los jugadores siguen las instrucciones en pantalla para unirse
 3. Haz clic en **Iniciar quiz** cuando todos estén listos
 
-Una vez que el quiz comience, **el juego se ejecuta automáticamente** — aparecen preguntas, los temporizadores cuentan hacia atrás y las puntuaciones se calculan sin intervención del anfitrión.
+Once the quiz starts, **the game runs automatically** - questions appear, timers count down, and scores are tallied without any host intervention.
 
 > ⏸️ ¿Necesitas un descanso? Mueve el ratón a la parte inferior de la pantalla del juego y aparecerá un botón de **pausa**. La pausa es la única manera de interrumpir un Juego en grupo.
 >
-> ¿Quieres controlar el ritmo del juego tú mismo: decidir cuándo empieza cada pregunta? Solo es posible con [**QuizWitz Live**](../quizmaster/001-introduction.md) y la Quizmaster App.
+> Want to control the pacing of the game yourself - deciding when each question starts? Solo es posible con [**QuizWitz Live**](../quizmaster/001-introduction.md) y la Quizmaster App.
 
 ![Pantalla de inicio de QuizWitz](/images/quizwitz-start-screen.png)  
 ![Pantalla de inicio de QuizWitz juego en grupo](/images/quizwitz-start-screen-party.png)  
