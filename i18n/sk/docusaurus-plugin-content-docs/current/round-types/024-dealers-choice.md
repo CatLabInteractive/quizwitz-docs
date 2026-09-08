@@ -6,7 +6,8 @@ title: Dealer's Choice
 # 🃏 Dealer's Choice
 
 Kolo **Dealer's Choice** pridáva do tvojho kvízu strategický nádych.
-Jeden z hráčov si môže **vybrať kategóriu ďalšej otázky**, čo mu dáva možnú výhodu – a možno aj bonus! Takto to nastavíš a hráš:
+One of the players gets to **choose the next question category**, giving them a potential
+edge - and possibly a bonus! Takto to nastavíš a hráš:
 
 ---
 
@@ -25,10 +26,10 @@ Každá otázka v kole Dealer's Choice potrebuje **jedinečný štítok**, ktor�
 
 Napríklad:
 
-- `Zvieratá – ľahké`
-- `Zvieratá – ťažké`
-- `História – zábavné fakty`
-- `Filmy – akčné klasiky`
+- `Animals - Easy`
+- `Animals - Hard`
+- `History - Fun Facts`
+- `Movies - Action Classics`
 
 > Aj keď majú otázky spoločnú všeobecnú tému, ich štítky by mali byť stále jedinečné, aby ich hráči vedeli jasne rozpoznať a vybrať si ich.
 
