@@ -32,8 +32,8 @@ The game has roughly twenty-five distinct screen states, but most are variants o
 
 | # | Frame | What is on it | What is derived from it |
 |---|---|---|---|
-| **1** | **General frame** | The background, a header title and an empty content area below it. The visual template for the whole theme. | Thirteen screen states: round explanation, standings, player introduction, multiple-choice variants, long questions, seat warnings, settings. |
-| **2** | **Connect screen** | What the room sees to join: five lines of instruction, room for a join code or QR code, and a list of players trickling in. | Also the waiting screen shown while the quizmaster reads the question aloud. |
+| **1** | **General frame** | The background, a header title and an empty content area below it. Not a finished composition - the frame the rest is built inside. | Thirteen screen states: round explanation, standings, player introduction, multiple-choice variants, long questions, seat warnings, settings. Each fills that content area its own way, so it has to hold things that look nothing alike. |
+| **2** | **Connect and waiting** | Two screens, not one. The connect screen is what the room sees in order to join: five lines of instruction, room for a join code or QR code, and a list of players trickling in. The waiting screen is what stays up while the quizmaster reads a question aloud, and is nearly empty. | - |
 | **3** | **Question screen** | The question, a timer, four answer options, a feedback line. The screen the room looks at longest. | - |
 | **4** | **Question with media** | The same, arranged around an image or video. May be a different composition from frame 3. | Also the full-screen media variant, and media shown between questions. |
 | **5** | **Answer screen** | Which answer was correct, how the room's answers were spread across the options, and a feedback line. | Also the answer screen for open questions and for questions with media. |
@@ -62,11 +62,15 @@ The screens below come from an existing theme. They are here to show **what happ
 
 ### Frame 1 - the general frame
 
-Two very different game moments on the same template: a question picker and a points ladder. It shows how much work that one frame does for you, and why its content area needs to be roomy and neutral.
+Two game moments on the same frame: a question picker and a points ladder.
+
+Look at how little they have in common. The picker puts its three rows inside a panel with a border; the ladder has no panel at all, just rows separated by thin rules. What the two share is the background and the header band above them - everything below that belongs to the individual screen and is filled by the game, not by you.
 
 ![The general frame with a three-row question picker](/images/theme-design/frame1-general-multiquestion.png)
 
 ![The general frame with a five-level points ladder](/images/theme-design/frame1-general-strikeladder.png)
+
+So do not design the content area as a composition. Design it as an empty, neutral, roomy zone that survives a bordered panel, a bare list and a table of rows equally well. A background that is busy in the middle, or a header that only works with a panel tucked right underneath it, is where this breaks.
 
 ### Frame 2 - connect and waiting
 
@@ -76,7 +80,7 @@ With a client logo beside the join code, and without one, where the theme's own 
 
 ![Connect screen without a client logo](/images/theme-design/frame2-connect-nologo.png)
 
-The waiting screen that follows, on display while the quizmaster reads the question aloud:
+The waiting screen is a separate composition rather than a variant of the connect screen - the two share only a background. It stays up while the quizmaster reads a question aloud, and it is nearly empty: the quiz's own logo, or the theme's artwork, and nothing else. It is on screen longer than almost anything else in the game, so it deserves more attention than an empty screen usually gets.
 
 ![Waiting screen](/images/theme-design/frame2-pending.png)
 
@@ -134,7 +138,7 @@ The standings after a round. The player row is the element that repeats: positio
 
 ![Standings with six player rows](/images/theme-design/frame6-roundoutro.png)
 
-The final countdown names one player at a time, from last place to first - place, score and team name in the spotlight:
+The final countdown names one player at a time, from last place to first - place, score and team name in the spotlight. This is also where the flying emoji are heaviest; see the note below:
 
 ![The winner countdown naming one player](/images/theme-design/frame6-winner-countdown.png)
 
@@ -224,6 +228,21 @@ What follows:
 - **Multiple timers are allowed.** A bar at the top and a ring near the question are both driven, as long as each is named `timer`.
 
 Supply the timer as a series of keyframes or as a description of the progression - "the bar drains right to left and shifts from green to red" is enough.
+
+### Flying emoji land on top of everything
+
+Every player picks an emoji when they join, and the game throws those emoji across the screen. They are drawn by the engine on a layer above the theme, in whatever colours the player's emoji happens to have. **There is nothing here for you to design** - but there is something to design around, because they are not a rare flourish. They appear at three moments:
+
+- **When a player answers.** Their emoji rises from the bottom edge at a random horizontal position, arcs up and falls back out of frame.
+- **When a player flings one.** Players can fling their emoji from their phone; angle and speed come from the swipe, and it launches from the bottom centre, spinning.
+- **When a place is revealed in the final countdown.** A burst of the named player's emoji: twenty for an ordinary place, fifty for third, seventy-five for second, and **a hundred and fifty for the winner.**
+
+They always enter from the bottom edge, arc under gravity and fall back out. What that means for the design:
+
+- **Keep the bottom third of the standings and winner screens clear of anything small or critical.** During the countdown it is genuinely crowded down there.
+- **Assume they will clash with your palette.** They are full-colour emoji from every corner of the Unicode chart, and no theme controls them. A design that only holds together in a tight colour range will look accidental for those seconds.
+- **They are suppressed while a full-screen image or video is showing**, so the media screens stay clean.
+- The whole layer can be switched off per game, so do not build a composition that depends on them being there either.
 
 ### Fonts
 
