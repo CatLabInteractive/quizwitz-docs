@@ -5,7 +5,7 @@ title: Tradizionale
 
 # 📝 Tradizionale
 
-Un round **Tradizionale** simula il classico formato del quiz da pub, in cui i giocatori possono modificare le loro risposte fino alla fine del round, proprio come quando consegni il foglio delle risposte al pub!
+A **Traditional** round simulates the classic pub quiz format, where players can change their answers until the end of the round - just like handing in your answer sheet at the pub!
 
 ---
 
