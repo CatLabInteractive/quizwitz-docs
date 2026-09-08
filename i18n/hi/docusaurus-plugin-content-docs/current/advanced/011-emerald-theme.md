@@ -5,7 +5,7 @@ title: Emerald थीम
 
 # Emerald थीम
 
-Emerald थीम, आपके QuizWitz गेम का लुक कस्टमाइज़ करने का सबसे आसान तरीका है। डिफ़ॉल्ट रूप से, थीम एक साफ़-सुथरे नीले / हरे स्टाइल में होती है, जिसमें चमकीले विकल्प रंग होते हैं, लेकिन क्विज़ अटैचमेंट्स और थीम मॉडिफ़ायर्स को मिलाकर आप इसका लुक — काफ़ी ज़्यादा — बदल सकते हो।
+Emerald थीम, आपके QuizWitz गेम का लुक कस्टमाइज़ करने का सबसे आसान तरीका है। By default, the theme is a clean blue / green style with vivid option colors, but by combining quiz attachments and theme modifiers you can change the way it looks - drastically.
 
 :::tip
 आप हमारी [थीम टेस्टर](https://client.quizwitz.com/test.html?theme=emerald) का इस्तेमाल करके देख सकते हो कि आपकी सेटिंग्स कैसी दिखेंगी।
@@ -25,7 +25,7 @@ Emerald थीम, आपके QuizWitz गेम का लुक कस्ट
 
 ### क्विज़ अटैचमेंट्स
 
-गेम का लुक और फ़ील बदलने का अब तक का सबसे आसान तरीका है अपने क्विज़ में इमेज जोड़ना। **क्विज़ सेटिंग्स** खोलें और नीचे स्क्रोल करके **अटैचमेंट्स** सेक्शन पर जाएँ। यहाँ आप ऐसी इमेज अपलोड कर सकते हो जिन्हें बैकग्राउंड, क्लाइंट लोगो, कनेक्ट — और वेट स्क्रीन (कॉन्फ़्रेंस — और लाइव क्विज़ के लिए), और भी बहुत कुछ के रूप में इस्तेमाल किया जाएगा।
+गेम का लुक और फ़ील बदलने का अब तक का सबसे आसान तरीका है अपने क्विज़ में इमेज जोड़ना। **क्विज़ सेटिंग्स** खोलें और नीचे स्क्रोल करके **अटैचमेंट्स** सेक्शन पर जाएँ। Here you can upload images that will be used as background, client logo, connect - and wait screens (for conference - and live quizzes), and more.
 
 ![क्विज़ अटैचमेंट्स का स्क्रीनशॉट](/images/emerald/quiz-attachments.png)
 
@@ -51,7 +51,7 @@ Emerald थीम, आपके QuizWitz गेम का लुक कस्ट
 
 ## Emerald थीम मॉडिफ़ायर्स
 
-अटैचमेंट्स के अलावा, आप **query parameters** के साथ भी Emerald थीम को बदल सकते हो। ये वे पैरामीटर हैं जिन्हें आप **advanced game options** URL में जोड़ सकते हो — और ये थीम का लुक बदल देते हैं।
+अटैचमेंट्स के अलावा, आप **query parameters** के साथ भी Emerald थीम को बदल सकते हो। These are parameters you can add to the **advanced game options** URL - and they change the look of the theme.
 
 इसके लिए, हम एक उदाहरण क्विज़ (बिना किसी अटैचमेंट के) से शुरू करेंगे:  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
@@ -60,7 +60,7 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 
 :::tip
 इन पैरामीटर्स के साथ प्रयोग करने का सबसे आसान तरीका है हमारी [थीम टेस्टर](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b) का इस्तेमाल करना।  
-जब आपका प्रयोग पूरा हो जाए, तो आप पैरामीटर्स को अपने advanced game options URL में कॉपी — पेस्ट कर सकते हो।
+When you are done experimenting, you can copy - paste the parameters to your advanced game options URL.
 :::
 
 उपलब्ध मॉडिफ़ायर्स हैं:
@@ -71,8 +71,8 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
-- optionColors (4 रंग, कॉमा — से अलग किए हुए)
-- optionBorderColors (4 रंग, कॉमा — से अलग किए हुए)
+- optionColors (4 colors, comma - separated)
+- optionBorderColors (4 colors, comma - separated)
 
 इसके अलावा, आप एक डिफ़ॉल्ट फ़ॉन्ट सेट कर सकते हो:
 
@@ -81,7 +81,7 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 
 ये फ़ॉन्ट सार्वजनिक रूप से उपलब्ध फ़ॉन्ट फ़ाइलों के URL होने चाहिए।
 
-इनमें से हर मॉडिफ़ायर में HTML hex फ़ॉर्मैट (ff0000) में एक रंग हो सकता है, या माइनस सिंबल से अलग किए गए कई रंग देकर एक लीनियर ग्रेडिएंट बनाया जा सकता है ( — उदाहरण के लिए ff1b6b-45caff)। (ध्यान दें कि # सिंबल नहीं जोड़ा जाना चाहिए।)
+Each of these modifiers can contain a single color in HTML hex format (ff0000), or a linear gradient by providing multiple colors divided by a minus symbol ( - for example ff1b6b-45caff). (ध्यान दें कि # सिंबल नहीं जोड़ा जाना चाहिए।)
 
 :::note
 Query parameters की शुरुआत प्रश्न चिह्न ( ? से होनी चाहिए? ) और हर पैरामीटर को ampersand ( & ) से अलग किया जाना चाहिए। Query parameters के बारे में और जानकारी के लिए, [wikipedia](https://en.wikipedia.org/wiki/Query_string) पर जाएँ।
