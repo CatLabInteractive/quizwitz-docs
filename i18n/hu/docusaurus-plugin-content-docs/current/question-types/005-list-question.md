@@ -31,7 +31,7 @@ A **felsorolós kérdés** arra kéri a játékosokat, hogy több helyes válasz
 - **Megadott opciók:** Használd őket példaként a kérdésben.
 - **Javítás:**
   - **Automatikus javítás kényszerítése:** Ha be van kapcsolva, a QuizWitz automatikusan ellenőrzi az összes választ (elfogadva a kisebb elgépeléseket és változatokat). Nincs szükség zsűrire.
-  - **Manual review:** When not enabled, each provided answer must be reviewed by the [Jury App](../quizmaster/004-jury-app.md).
+  - **Kézi átnézés:** ha nincs bekapcsolva, minden beadott választ át kell néznie a [zsűri appnak](../quizmaster/004-jury-app.md).
 
 ---
 
@@ -59,4 +59,4 @@ Részletekért lásd a [kör pontozási beállításait](../editor/008-round-opt
 
 ---
 
-For more, see [Jury App documentation](../quizmaster/004-jury-app.md).
+Bővebben lásd a [zsűri app dokumentációját](../quizmaster/004-jury-app.md).
