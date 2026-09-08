@@ -5,7 +5,7 @@ title: Ronda relâmpago
 
 # ⚡ Ronda relâmpago
 
-A **Ronda relâmpago** é pura velocidade e emoção. Os jogadores respondem a uma série rápida de perguntas com temporizadores bem curtos — tudo ao som de uma música de temporizador contínua para dar o máximo de energia e tensão.
+A **Ronda relâmpago** é pura velocidade e emoção. Players answer a rapid series of questions with very short timers - all set to continuous timer music for maximum energy and tension.
 
 ---
 
@@ -29,7 +29,7 @@ Vê as [opções da ronda](../editor/008-round-options.md) para detalhes sobre c
 
 ---
 
-## 🎵 Anexos — Música de contagem regressiva
+## 🎵 Attachments - Countdown music
 
 - Podes definir um **Anexo da ronda** no espaço “Reproduzir durante a contagem regressiva da pergunta”.  
   Este anexo de áudio vai tocar **continuamente** como música de contagem regressiva durante toda a ronda relâmpago, parando apenas depois da última pergunta.
