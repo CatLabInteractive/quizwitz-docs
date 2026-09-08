@@ -5,7 +5,7 @@ title: Torneio
 
 # Torneio
 
-Este tutorial vai mostrar como usar o modo Torneio do QuizWitz. O modo Torneio permite que os jogadores entrem e joguem o teu quiz quando quiserem — no próprio dispositivo. As pontuações deles são registadas numa tabela de classificação global que podes mostrar no teu espaço.
+Este tutorial vai mostrar como usar o modo Torneio do QuizWitz. Tournament mode lets players join and play your quiz whenever they want - on their own device. As pontuações deles são registadas numa tabela de classificação global que podes mostrar no teu espaço.
 
 ---
 
@@ -16,7 +16,7 @@ Ao criares um quiz de torneio, mantém-no curto e envolvente. Se os visitantes t
 
 ### 🎲 Seleção aleatória de perguntas
 
-Faz com que o jogo selecione um conjunto aleatório de perguntas do teu banco, para que cada partida pareça única — e os jogadores que voltarem recebam perguntas diferentes.
+Make the game select a random set of questions from your pool, so every playthrough feels unique - and returning players get different questions.
 
 **Exemplo de configuração:**
 
@@ -43,8 +43,8 @@ Os torneios só podem ser iniciados a partir do menu **Opções avançadas do jo
 
 Agora vais receber dois links:
 
-- **Link dos jogadores** — Partilha isto com os teus jogadores (ou deixa-os ler o código QR a partir da tabela de classificação).
-- **Link da tabela de classificação** — Abre isto num ecrã no teu espaço para mostrar as classificações ao vivo e o código QR que os jogadores podem ler para entrar.
+- **Player link** - Share this with your players (or let them scan the QR code from the leaderboard).
+- **Leaderboard link** - Open this on a display at your venue to show the live rankings and the QR code players can scan to join.
 
 ---
 
@@ -65,6 +65,6 @@ Assim que os primeiros jogadores terminarem os seus jogos, as pontuações deles
 
 ## 📧 Confirmação por email
 
-Também vais receber um email com os links dos jogadores e da tabela de classificação — útil para não os perderes!
+You'll also get an email containing both the player and leaderboard links - handy so you don't lose them!
 
 ![Uma captura de ecrã do email do torneio](/images/tutorials/tournament/tournament-email.png)
