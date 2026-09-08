@@ -5,8 +5,8 @@ title: Alphabet
 
 # 🔤 Alphabet
 
-Eine **Alphabet**-Runde ist eine [Traditionelle Runde](030-traditional.md) mit einem Twist – jede Frage erhält ein einzigartiges Etikett,
-und Spieler müssen ihre Antworten den korrekten markierten Feldern zuordnen. Diese Runde belohnt sowohl Wissen als auch Schlussfolgerung!
+An **Alphabet** round is a [Traditional round](030-traditional.md) with a twist - each question is assigned a unique label,
+and players must match their answers to the correct labeled fields. Diese Runde belohnt sowohl Wissen als auch Schlussfolgerung!
 
 ---
 
@@ -27,10 +27,10 @@ und Spieler müssen ihre Antworten den korrekten markierten Feldern zuordnen. Di
 
 ## 📝 Wie es funktioniert
 
-- Während die Fragen gestellt werden, sehen Spieler eine Liste von Antwortfeldern – eins für jede Frage.
-- **Die Antwortfelder sind nicht in der Reihenfolge des Quiz** – stattdessen sind sie alphabetisch nach Etikett sortiert.
+- As questions are asked, players see a list of answer fields - one for each question.
+- **The answer fields are not in quiz order** - instead, they’re sorted alphabetically by label.
 - Spieler müssen ihre Antworten den richtigen markierten Feldern zuordnen (z. B. muss die Antwort auf die Frage "Bear" unter dem Etikett "B" eingetragen werden).
-- Antworten können jederzeit bis zum Ende der Runde geändert werden – Spieler können Antworten zwischen Feldern tauschen, wenn sie ihre Fehler bemerken.
+- Answers can be changed at any time until the round finishes - players can switch answers between fields as they realize their mistakes.
 
 ---
 
