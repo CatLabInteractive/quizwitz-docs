@@ -5,7 +5,7 @@ title: Pause
 
 # ⏸️ Pause
 
-**Pause** ist eine spezielle Spielrunde, die das Quiz für eine Pause unterbricht – ideal zum Dehnen, Plaudern oder für Sponsorenwerbung.
+**Intermission** is a special event round that pauses the quiz for a break - ideal for stretching, chatting, or promoting sponsors.
 
 ---
 
@@ -23,7 +23,7 @@ title: Pause
 ## 🖼️ Anhänge
 
 - Du kannst in den Rundeneinstellungen Bilder, Logos oder Videos hochladen.
-- Während der Unterbrechung werden diese Anhänge in einem Karussell auf dem Spielbildschirm gezeigt – ideal für Sponsor-Logos, Nachrichten oder Werbevideos.
+- During the intermission, these attachments will be shown in a carousel on the game screen - great for sponsor logos, messages, or promotional videos.
 - Anhänge werden während der ganzen Pause wiederholt abgespielt.
 
 ---
