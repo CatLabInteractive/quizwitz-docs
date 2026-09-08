@@ -5,7 +5,7 @@ title: Offene Frage
 
 # 💬 Offene Frage
 
-Eine offene Frage lässt Spieler ihre Antwort frei mit der Tastatur eingeben. Dieser Modus eignet sich perfekt für Fragen, bei denen du schriftliche Antworten möchtest – zum Beispiel Namen, Zahlen oder kurze Erklärungen.
+Eine offene Frage lässt Spieler ihre Antwort frei mit der Tastatur eingeben. This mode is perfect for questions where you want written responses - for example, names, numbers, or short explanations.
 
 ---
 
@@ -41,7 +41,7 @@ Die Punktevergabe bei offenen Fragen ist fair gestaltet, auch für langsamere Ti
 
 - **Zeitbasierte Punktevergabe** teilt die verfügbaren Punkte in Blöcke und nicht in eine strikte Millisekunden-Abrechnung.
 - Zum Beispiel gibt eine Antwort im ersten Block (z.B. in den ersten 5 Sekunden) volle Punkte; der nächste Block gibt 80 % und so weiter. Das hilft, die Strafe für langsames Tippen zu verringern.
-- Standardmäßig hängen nur **25 %** der Punkte von der Geschwindigkeit ab – die restlichen **75 %** sind fest, sodass alle, die richtig antworten, die meisten Punkte bekommen, unabhängig von ihrer Tippgeschwindigkeit.
+- By default, only **25%** of the points depend on speed - the remaining **75%** is fixed, so everyone who answers correctly gets most of the points, regardless of typing speed.
 
 > ⚙️ **Tipp:** Du kannst das Punkteverhalten und andere Einstellungen weiter unter den [Rundenoptionen](../editor/008-round-options.md) anpassen.
 
