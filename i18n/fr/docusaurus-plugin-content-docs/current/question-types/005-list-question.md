@@ -5,7 +5,7 @@ title: Question de liste
 
 # 📝 Question de liste
 
-Une **question de liste** demande aux joueurs de fournir plusieurs bonnes réponses issues d'une liste plus étendue — parfait pour des consignes comme « Listez les 5 premiers présidents des États-Unis d'Amérique » ou « Nommez trois éléments du tableau périodique. »
+A **List question** asks players to provide several correct answers from a larger list - perfect for prompts like “List the first 5 presidents of the United States of America” or “Name three elements in the periodic table.”
 
 ---
 
@@ -18,7 +18,7 @@ Une **question de liste** demande aux joueurs de fournir plusieurs bonnes répon
 - **Question :** Indiquez clairement ce que vous voulez que les joueurs listent.
 - **Éléments à lister :** Saisissez toutes les réponses correctes possibles.
   - Marquez certains comme **« Donnés »** pour les afficher en exemple à l'écran ; ils n'ont PAS besoin d'être répondus.
-  - L'ordre n'a **pas** d'importance — les joueurs peuvent saisir les réponses correctes dans n'importe quel ordre.
+  - Order does **not** matter - players can enter correct answers in any order.
 - **Réponse du joueur :** Les joueurs doivent fournir un nombre défini de réponses (par ex. entre 1 et 5). Des points sont attribués pour chaque réponse correcte soumise.
 - **Pièces jointes :** Ajoutez images, audio ou vidéo pour le contexte. Remplissez la mention d’attribution si vous publiez.
 
@@ -43,7 +43,7 @@ Une **question de liste** demande aux joueurs de fournir plusieurs bonnes répon
   - Les points disponibles sont divisés en tranches de temps (pas au milliseconde).  
     Par exemple : plein de points dans la première tranche, 80 % dans la suivante, etc.
   - **Seuls 25 %** des points dépendent de la rapidité.  
-    Les autres **75 %** sont fixes — même les joueurs plus lents obtiennent la majorité des points s’ils répondent correctement.
+    The other **75%** is fixed - so even slower typers get most of the points if they answer correctly.
   - Cela réduit la pénalité liée à la vitesse de frappe et rend le score plus équitable pour tous.
 
 Pour plus de détails, voyez [options de score des manches](../editor/008-round-options.md#scoring).
