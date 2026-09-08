@@ -61,4 +61,4 @@ Egy Aktivitás körben elszakadhatsz a hagyományos kvízkérdésektől, és kre
 
 ---
 
-Az Aktivitás kör tökéletes interaktív kihívásokhoz, párbajokhoz vagy kreatív feladatokhoz — remek módja annak, hogy energiát és változatosságot vigyél a QuizWitz eseményedbe!
+The Activity round is perfect for interactive challenges, duels, or creative tasks - a great way to add energy and variety to your QuizWitz event!
