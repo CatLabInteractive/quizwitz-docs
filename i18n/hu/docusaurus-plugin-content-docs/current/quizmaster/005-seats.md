@@ -13,7 +13,7 @@ A QuizWitz PRO játékokhoz **aktív férőhelyek** szükségesek, hogy a játé
 
 - Minden csatlakozott **játékosnak vagy csapatnak** egy PRO játékban **1 aktív férőhelyre** van szüksége.
 - Rendezhetsz játékokat **egyéni játékosokkal** vagy **egy eszközt megosztó csapatokkal** — mindegyik egy férőhelynek számít.
-- **Party Game and Single player games** do **not** require seats and are ideal for casual play with friends or family.
+- **A Party játék és az egyjátékos játékok** **nem** igényelnek seatet, és ideálisak baráti vagy családi kötetlen játékhoz.
 
 ---
 
@@ -49,7 +49,7 @@ Egyszeri vagy alkalmi eseményekhez licencvásárlás helyett **használat alap�
 
 - A férőhelyeket **QuizWitz kreditekkel** aktiválod, amelyeket előre megvásárolhatsz.
 - **Mennyiségi kedvezmények** érhetők el, ha nagy tételben vásárolsz krediteket.
-- Each **PRO license** includes a **value of free credits**.
+- Minden **PRO licenc** tartalmaz **ingyenes kreditek formájában megjelenő értéket**.
 - Ha nem vagy biztos benne, hány játékos fog csatlakozni:
   - Megvárhatod, amíg **mindenki csatlakozik**, és csak utána aktiválod a férőhelyeket.
   - Vagy aktiválhatsz a szükségesnél több férőhelyet — a **fel nem használt férőhelyeket lejárat után automatikusan visszatérítjük** kreditekben.
