@@ -35,19 +35,19 @@ Válassz vizuális témát a kvízedhez.
 
 Dobd fel a kvízedet képekkel, hanggal vagy videóval meghatározott helyeken:
 
-- **Kvíz előtt** — A kvíz indulásakor jelenik meg
-- **Kvíz után** — A végső eredményképernyő után játszódik le
-- **Ügyféllogó / alternatív logó** — A kvízfelület egészén megjelenik
-- **Várakozó képernyő** — Élő játékokban a kérdések között jelenik meg (1920×1080-as kép ajánlott)
-- **Háttér** — Opcionális háttércsere (a témától függ)
-- **Csatlakozási képernyő** — A [Live](../quizmaster/001-introduction.md) és [Konferencia](../tutorials/conference-booth) módokban használatos:
-  - **Képek** — Teljes képernyős háttérvizuálok
-  - **Hang** — Ismétlődő zene (max. 15 perc)
-  - **Videó** — 5 percenként játszódik le, hasznos hirdetésekhez vagy instrukciókhoz
+- **Before quiz** - Shown when the quiz starts
+- **After quiz** - Played after the final results screen
+- **Client logo / alternative logo** - Displayed throughout the quiz interface
+- **Wait screen** - Displayed between questions in live games (1920×1080 image recommended)
+- **Background** - Optional background replacement (depends on theme)
+- **Connect screen** - Used in [Live](../quizmaster/001-introduction.md) and [Conference](../tutorials/conference-booth) modes:
+  - **Images** - Fullscreen background visuals
+  - **Audio** - Looped music (max 15 min)
+  - **Video** - Played every 5 minutes, useful for ads or instructions
 
 🎥 Használhatod a [kész oktatóvideóinkat](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC), hogy segíts a játékosoknak csatlakozni.
 
-- **Játék közbeni outro** — (Csak hang) A győztes felfedésének képernyője alatt játszódik le
+- **During game outro** - (Audio only) Plays over the winner reveal screen
 
 📘 Technikai részletekért és ajánlásokért nézd meg a [csatolmányok útmutatóját](../editor/006-attachments.md).
 
@@ -57,12 +57,12 @@ Dobd fel a kvízedet képekkel, hanggal vagy videóval meghatározott helyeken:
 
 Opcionális beállítások a játékmenet és a láthatóság testreszabásához:
 
-- **Többjátékos mód engedélyezése** — Alapértelmezetten BE. Lehetővé teszi a közös játékot a barátokkal
-- **Véletlenszerű fordulósorrend** — Keveri a fordulók sorrendjét
+- **Enable multiplayer** - Default ON. Lehetővé teszi a közös játékot a barátokkal
+- **Random round order** - Shuffle the order of rounds
   > ⚠️ Nem ajánlott, ha [QuizWitz Live](../quizmaster/001-introduction.md) használatára készülsz
-- **A felhasználók értékelhetik a kérdéseket** — A játékosok minden forduló után értékelhetik az egyes kérdéseket
-- **Hozzászólások engedélyezése** — Visszajelzések engedélyezése közzététel után
-- **Gyorsítás, amikor mindenki válaszolt** — Ha be van kapcsolva, a játék továbbugrik, amikor minden játékos válaszolt
+- **Allow users to rate questions** - Lets players rate each question after a round
+- **Enable comments** - Allow feedback after publishing
+- **Speed up when all answered** - If enabled, the game skips ahead when all players have answered
   > ⏱️ Ajánlott **időalapú pontozás** használatakor
 
 ---
