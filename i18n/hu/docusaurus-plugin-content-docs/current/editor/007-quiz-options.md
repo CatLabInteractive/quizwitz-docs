@@ -75,9 +75,9 @@ Megosztási linkeket vagy beágyazási kódot hoz létre haladó játékbeállí
 
 ## 📜 quizmaster szöveg
 
-Add custom quizmaster instructions for:
+Adj egyedi quizmaster utasításokat ehhez:
 
 - **Kvízbevezető**
 - **Kvíz-outro**
 
-These are visible on the [Quizmaster App](../quizmaster/001-introduction.md) when using QuizWitz Live.
+Ezek a [Quizmaster appban](../quizmaster/001-introduction.md) látszanak, amikor QuizWitz Live-ot használsz.
