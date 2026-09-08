@@ -5,7 +5,7 @@ title: Emerald-Theme
 
 # Emerald-Theme
 
-Das Emerald-Theme ist der einfachste Weg, das Aussehen deines QuizWitz-Spiels anzupassen. Standardmäßig ist das Theme ein klarer Blau/Grün-Stil mit lebendigen Optionsfarben, aber durch die Kombination von Quiz-Anhängen und Theme-Modifikatoren kannst du das Aussehen stark verändern.
+Das Emerald-Theme ist der einfachste Weg, das Aussehen deines QuizWitz-Spiels anzupassen. By default, the theme is a clean blue / green style with vivid option colors, but by combining quiz attachments and theme modifiers you can change the way it looks - drastically.
 
 :::tip
 Du kannst unseren [Theme Tester](https://client.quizwitz.com/test.html?theme=emerald) nutzen, um zu sehen, wie deine Einstellungen aussehen werden.
@@ -25,7 +25,7 @@ Du kannst ein Quiz mit dem Emerald-Theme [hier](https://play.quizwitz.com/11486:
 
 ### Quiz-Anhänge
 
-Bei weitem der einfachste Weg, das Aussehen und Gefühl des Spiels zu ändern, ist das Anhängen von Bildern an dein Quiz. Öffne die **Quiz-Einstellungen** und scrolle zum Abschnitt **Anhänge**. Hier kannst du Bilder hochladen, die als Hintergrund, Kundenlogo, Verbindungs- und Wartebildschirme (für Konferenz- und Live-Quizze) verwendet werden – und mehr.
+Bei weitem der einfachste Weg, das Aussehen und Gefühl des Spiels zu ändern, ist das Anhängen von Bildern an dein Quiz. Öffne die **Quiz-Einstellungen** und scrolle zum Abschnitt **Anhänge**. Here you can upload images that will be used as background, client logo, connect - and wait screens (for conference - and live quizzes), and more.
 
 ![Ein Screenshot der Quiz-Anhänge](/images/emerald/quiz-attachments.png)
 
@@ -51,7 +51,7 @@ Alle Musik im Spiel kann ebenfalls durch Anhänge ersetzt werden. Alle Audiodate
 
 ## Emerald Themenmodifikatoren
 
-Zusätzlich zu Anhängen kannst du das Emerald-Theme auch mit **Abfrageparametern** manipulieren. Das sind Parameter, die du zur **Erweiterten Spieloptionen**-URL hinzufügen kannst — und die das Erscheinungsbild des Themes ändern.
+Zusätzlich zu Anhängen kannst du das Emerald-Theme auch mit **Abfrageparametern** manipulieren. These are parameters you can add to the **advanced game options** URL - and they change the look of the theme.
 
 Dafür starten wir mit einem Beispielquiz (ohne Anhänge):  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
@@ -60,7 +60,7 @@ Wenn du das obige Quiz startest, läuft das Spiel im Standard-Emerald-Stil. Lass
 
 :::tip
 Der einfachste Weg, mit diesen Parametern zu experimentieren, ist die Nutzung unseres [Theme Testers](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).  
-Wenn du fertig bist mit dem Experimentieren, kannst du die Parameter in deine erweiterte Spieloptionen-URL kopieren und einfügen.
+When you are done experimenting, you can copy - paste the parameters to your advanced game options URL.
 :::
 
 Die verfügbaren Modifikatoren sind:
@@ -71,8 +71,8 @@ Die verfügbaren Modifikatoren sind:
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
-- optionColors (4 Farben, durch Kommas getrennt)
-- optionBorderColors (4 Farben, durch Kommas getrennt)
+- optionColors (4 colors, comma - separated)
+- optionBorderColors (4 colors, comma - separated)
 
 Außerdem kannst du eine Standardschrift festlegen:
 
@@ -81,7 +81,7 @@ Außerdem kannst du eine Standardschrift festlegen:
 
 Diese Schriften müssen URLs sein, die öffentlich zugängliche Schriftdateien enthalten.
 
-Jeder dieser Modifikatoren kann eine einzelne Farbe im HTML-Hex-Format enthalten (ff0000), oder einen linearen Verlauf, indem mehrere Farben durch einen Bindestrich getrennt werden (– zum Beispiel ff1b6b-45caff). (Beachte, dass das # Symbol nicht hinzugefügt werden sollte.)
+Each of these modifiers can contain a single color in HTML hex format (ff0000), or a linear gradient by providing multiple colors divided by a minus symbol ( - for example ff1b6b-45caff). (Beachte, dass das # Symbol nicht hinzugefügt werden sollte.)
 
 :::note
 Die Abfrageparameter müssen mit einem Fragezeichen ( ? ) beginnen und jeder Parameter muss mit einem Kaufmanns-Und ( & ) getrennt werden. Für weitere Informationen zu Abfrageparametern besuche [Wikipedia](https://de.wikipedia.org/wiki/Query_string).
