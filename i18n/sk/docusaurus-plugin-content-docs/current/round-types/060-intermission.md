@@ -5,7 +5,7 @@ title: Prestávka
 
 # ⏸️ Prestávka
 
-**Prestávka** je špeciálne eventové kolo, ktoré pozastaví kvíz na pauzu – ideálne na pretiahnutie, pokec alebo propagáciu sponzorov.
+**Intermission** is a special event round that pauses the quiz for a break - ideal for stretching, chatting, or promoting sponsors.
 
 ---
 
@@ -23,7 +23,7 @@ title: Prestávka
 ## 🖼️ Prílohy
 
 - V nastaveniach kola môžeš nahrať obrázky, logá alebo videá.
-- Počas prestávky sa tieto prílohy zobrazia na hernej obrazovke v karuseli - skvelé pre logá sponzorov, odkazy alebo propagačné videá.
+- During the intermission, these attachments will be shown in a carousel on the game screen - great for sponsor logos, messages, or promotional videos.
 - Prílohy sa budú prehrávať v slučke počas celej pauzy.
 
 ---
