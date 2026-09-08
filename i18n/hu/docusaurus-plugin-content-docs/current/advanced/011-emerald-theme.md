@@ -5,7 +5,7 @@ title: Emerald téma
 
 # Emerald téma
 
-Az Emerald téma a legegyszerűbb módja annak, hogy testre szabd a QuizWitz játékod kinézetét. Alapértelmezés szerint a téma letisztult kék/zöld stílusú, élénk válaszopció-színekkel, de a kvíz mellékleteinek és a témamódosítóknak a kombinálásával drasztikusan megváltoztathatod a kinézetét.
+Az Emerald téma a legegyszerűbb módja annak, hogy testre szabd a QuizWitz játékod kinézetét. By default, the theme is a clean blue / green style with vivid option colors, but by combining quiz attachments and theme modifiers you can change the way it looks - drastically.
 
 :::tip
 A [téma tesztelőnkkel](https://client.quizwitz.com/test.html?theme=emerald) megnézheted, hogyan fognak kinézni a beállításaid.
@@ -25,7 +25,7 @@ A **Kvízbeállításokban** válaszd ki a **Téma** opciót, és engedélyezd a
 
 ### Kvíz mellékletei
 
-A játék kinézetét és hangulatát messze a legegyszerűbben úgy változtathatod meg, ha képeket csatolsz a kvízedhez. Nyisd meg a **Kvízbeállításokat**, és görgess le a **Mellékletek** szakaszhoz. Itt olyan képeket tölthetsz fel, amelyeket háttérként, klienslogóként, csatlakozási és várakozási képernyőként (konferencia- és élő kvízekhez), valamint más célokra használhatsz.
+A játék kinézetét és hangulatát messze a legegyszerűbben úgy változtathatod meg, ha képeket csatolsz a kvízedhez. Nyisd meg a **Kvízbeállításokat**, és görgess le a **Mellékletek** szakaszhoz. Here you can upload images that will be used as background, client logo, connect - and wait screens (for conference - and live quizzes), and more.
 
 ![Képernyőkép a kvíz mellékleteiről](/images/emerald/quiz-attachments.png)
 
@@ -51,7 +51,7 @@ A játékban minden zene lecserélhető mellékletekkel is. A **kérdés közben
 
 ## Emerald témamódosítók
 
-A mellékletek mellett **query paraméterekkel** is alakíthatod az Emerald témát. Ezek olyan paraméterek, amelyeket hozzáadhatsz a **haladó játékbeállítások** URL-jéhez — és megváltoztatják a téma kinézetét.
+A mellékletek mellett **query paraméterekkel** is alakíthatod az Emerald témát. These are parameters you can add to the **advanced game options** URL - and they change the look of the theme.
 
 Ehhez egy példakvízzel kezdünk (mellékletek nélkül):  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
@@ -60,7 +60,7 @@ Amikor elindítod a fenti kvízt, a játék az alapértelmezett Emerald stílusb
 
 :::tip
 Ezekkel a paraméterekkel a legegyszerűbben a [téma tesztelőnkkel](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b) kísérletezhetsz.  
-Ha végeztél a kísérletezéssel, másold be a paramétereket a haladó játékbeállítások URL-jébe.
+When you are done experimenting, you can copy - paste the parameters to your advanced game options URL.
 :::
 
 Az elérhető módosítók:
@@ -71,8 +71,8 @@ Az elérhető módosítók:
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
-- optionColors (4 szín, vesszővel elválasztva)
-- optionBorderColors (4 szín, vesszővel elválasztva)
+- optionColors (4 colors, comma - separated)
+- optionBorderColors (4 colors, comma - separated)
 
 Emellett beállíthatsz egy alapértelmezett betűtípust is:
 
@@ -81,7 +81,7 @@ Emellett beállíthatsz egy alapértelmezett betűtípust is:
 
 Ezeknek a betűtípusoknak nyilvánosan elérhető betűtípusfájlokra mutató URL-eknek kell lenniük.
 
-Ezek a módosítók tartalmazhatnak egyetlen színt HTML hex formátumban (ff0000), vagy lineáris színátmenetet is, ha több színt adsz meg mínuszjellel elválasztva ( — például ff1b6b-45caff). (Figyelj rá, hogy a # szimbólumot nem kell hozzáadni.)
+Each of these modifiers can contain a single color in HTML hex format (ff0000), or a linear gradient by providing multiple colors divided by a minus symbol ( - for example ff1b6b-45caff). (Figyelj rá, hogy a # szimbólumot nem kell hozzáadni.)
 
 :::note
 A query paramétereknek kérdőjellel kell kezdődniük ( ? ) és minden paramétert és jellel ( & ) kell elválasztani. A query paraméterekről további információt a [wikipedián](https://en.wikipedia.org/wiki/Query_string) találsz.
