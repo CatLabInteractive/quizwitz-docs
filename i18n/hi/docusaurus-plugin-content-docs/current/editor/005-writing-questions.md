@@ -23,10 +23,10 @@ title: सवाल लिखना
 
 ### 🎮 मोड और स्कोरिंग
 
-- **सवाल का प्रकार** — चुनें कि सवाल कैसे खेला जाए (जैसे मल्टीपल चॉइस, ओपन आंसर, पज़ल)  
-  → [सवालों के प्रकार](../question-types/000-question-types.md) में और जानें
-- **पॉइंट्स** — सेट करें कि सही जवाब के कितने पॉइंट्स मिलेंगे
-- **सवाल टाइमर** — स्लाइडर का इस्तेमाल करके समय सीमा एडजस्ट करें
+- **Question type** - Choose how the question is played (e.g. multiple choice, open answer, puzzle)  
+  → Learn more in [question types](../question-types/000-question-types.md)
+- **Points** - Set how many points a correct answer is worth
+- **Question timer** - Adjust the time limit using the slider
 
 ---
 
@@ -34,12 +34,12 @@ title: सवाल लिखना
 
 गेमप्ले के दौरान सवाल कैसे व्यवहार करे, इसे कस्टमाइज़ करें:
 
-- **समय-आधारित स्कोरिंग** — जल्दी जवाब देने वाले खिलाड़ियों को इनाम दें
-- **कई सही जवाब** — एक से ज़्यादा मान्य विकल्पों की अनुमति दें
-- **जवाबों का रैंडम क्रम** — स्क्रीन पर विकल्पों को शफल करें
-- **सबके जवाब देने पर टाइमर रोकें** — सभी जवाब आते ही आगे बढ़ें
-- **सवाल के परिणाम दिखाएँ** — सवाल के बाद फ़ीडबैक दिखाएँ (या इसे बंद करें)
-- **सवाल के बाद परिणाम अनिवार्य करें** — यह सिर्फ़ तब लागू होता है जब फ़ीडबैक आम तौर पर देरी से दिखाया जाता (जैसे, लाइटनिंग राउंड या ओपन सवालों में)। ज्यूरी इंटरैक्शन के बिना स्टैंडर्ड सवालों के लिए, हर सवाल के बाद फ़ीडबैक अपने-आप दिखाया जाता है।
+- **Time-based scoring** - Reward players who answer more quickly
+- **Multiple correct answers** - Allow more than one valid choice
+- **Random answer order** - Shuffle the options on screen
+- **Stop timer when all answered** - Continue as soon as all responses are in
+- **Show question results** - Show feedback after the question (or disable it)
+- **Force results after question** - Only applies when feedback would normally be delayed (e.g., in lightning rounds or open questions). ज्यूरी इंटरैक्शन के बिना स्टैंडर्ड सवालों के लिए, हर सवाल के बाद फ़ीडबैक अपने-आप दिखाया जाता है।
 
 ---
 
@@ -47,9 +47,9 @@ title: सवाल लिखना
 
 ये फ़ील्ड तय करते हैं कि Quizmaster ऐप और गेम स्क्रीन पर क्या दिखेगा:
 
-- **गेम स्क्रीन - सवाल का फ़ीडबैक** - फ़ीडबैक दिखने के बाद सभी खिलाड़ियों को दिखता है
-- **Quizmaster - लंबा सवाल** - सवाल का वह रूप जो क्विज़मास्टर पढ़कर सुनाता है
-- **Quizmaster - लंबा फ़ीडबैक** - वह टेक्स्ट जो क्विज़मास्टर सही जवाब बताने के बाद पढ़ सकता है
+- **Game screen - Question feedback** - Shown to all players after feedback is revealed
+- **Quizmaster - Long question** - A version of the question to be read aloud by the quizmaster
+- **Quizmaster - Long feedback** - Text the quizmaster can read after revealing the correct answer
 
 > 📝 ये फ़ील्ड लाइव प्रेज़ेंटेशन को डायनामिक और पॉलिश्ड महसूस कराने में मदद करते हैं।
 
@@ -61,8 +61,8 @@ title: सवाल लिखना
 
 आप इमेज, वीडियो या ऑडियो से सवालों को बेहतर बना सकते हैं। हर अटैचमेंट को खास समय पर दिखाया जा सकता है:
 
-- **सवाल से पहले / दौरान / बाद में** — सवाल पेश किए जाने के आसपास दिखाया जाता है
-- **फ़ीडबैक से पहले / दौरान / बाद में** — परिणाम दिखाए जाने पर दिखाया जाता है
+- **Before / During / After Question** - Shown around the time the question is presented
+- **Before / During / After Feedback** - Shown when results are revealed
 - ...
 
 > 🧠 अटैचमेंट्स खास तौर पर सस्पेंस बनाने, जवाबों को समझाने या संदर्भ देने के लिए उपयोगी होते हैं।
