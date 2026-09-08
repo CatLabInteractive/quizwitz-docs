@@ -6,7 +6,7 @@ title: Otázka s najlepšou odpoveďou
 # 🎖️ Otázka s najlepšou odpoveďou
 
 Pri type **Otázka s najlepšou odpoveďou** hráči píšu vlastné odpovede na otvorenú otázku.  
-Body prideľuje buď manuálne quizmaster, alebo — ak tam quizmaster nie je — hráči hlasovaním za svoju obľúbenú odpoveď.
+Points are awarded either manually by the quizmaster, or - if there is no quizmaster - by having players vote for their favorite response.
 
 ---
 
