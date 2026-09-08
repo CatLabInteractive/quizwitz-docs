@@ -5,7 +5,7 @@ title: Konferenčný stánok
 
 # Konferenčný stánok
 
-Tento návod ti ukáže, ako spustiť QuizWitz vo svojom konferenčnom stánku — jednoduchý a interaktívny spôsob, ako prilákať návštevníkov a získať kontakty!
+This tutorial will show you how to run QuizWitz at your conference booth - an easy, interactive way to attract visitors and gather leads!
 
 ![Fotka konferenčného stánku Marvel používajúceho QuizWitz](/images/photos/marvel.jpg)
 
@@ -14,19 +14,19 @@ Tento návod ti ukáže, ako spustiť QuizWitz vo svojom konferenčnom stánku �
 ## 📝 Vytvorenie kvízu
 
 Keď pripravuješ kvíz pre konferenčný stánok, mysli na to, že niektorí hráči môžu zostať na viacero hier.  
-Aby to bolo stále svieže, priprav si veľa otázok — dosť na to, aby sa dali náhodne vyberať a každé hranie bolo jedinečné.
+To keep things fresh, make sure you have plenty of questions - enough to randomize and make each playthrough unique.
 
 **Odporúčané nastavenie:**
 
 - 15 otázok rozdelených do 3 kôl
-- Vytvor aspoň 3× toľko otázok pre väčšiu pestrosť — čím viac, tým lepšie!
+- Create at least 3× that many questions for variety - more is better!
 
 ### 🎲 Vytváranie kvízu krok za krokom
 
 1. **Vyber „Kvíz“** v menu Vytvoriť a pomenuj svoj kvíz. Nastav správny jazyk.
 2. **Pridaj 3 kolá** a pomenuj ich (napríklad: Kolo 1, Kolo 2, Kolo 3).
 3. V **nastaveniach kola** (ikona ozubeného kolieska) zapni **„Zobraziť iba x otázok“** a nastav počet na 5.  
-   Zapni aj **„Náhodné poradie otázok“** — inak hra vždy vyberie prvých 5 otázok.  
+   Also enable **“Random question order”** - otherwise the game will always pick the first 5 questions.  
    Zopakuj to pre každé kolo.
 
 ![Snímka obrazovky nastavení kola pre konferenčný stánok](/images/tutorials/conference/round_settings.png)
@@ -35,7 +35,7 @@ Aby to bolo stále svieže, priprav si veľa otázok — dosť na to, aby sa dal
    Môžeš [napísať otázky](../editor/005-writing-questions.md) alebo použiť tlačidlo Import a rýchlo pridať obsah z Excelu.
 
 :::tip
-Použi veľa obrázkov a videoklipov — hra vďaka nim bude oveľa zábavnejšia!
+Use lots of images and video clips - they make the game much more entertaining!
 :::
 
 ---
@@ -54,7 +54,7 @@ Najrýchlejší spôsob, ako spustiť konferenčný kvíz:
 2. Zvoľ **Spustiť konferenčný režim**.
 
 V tomto režime sa hráči pripájajú telefónmi na odkaz na hru zobrazený na hernej obrazovke.  
-Keď sú všetci pripravení, hostiteľ stánku stlačí Enter — a hra sa spustí automaticky.  
+When everyone is ready, the booth host presses Enter - and the game runs automatically.  
 Po skončení hry ťa stlačenie Enter vráti rovno na obrazovku pripojenia pre ďalšiu skupinu.
 
 ---
@@ -67,7 +67,7 @@ Získaš jedinečný odkaz so všetkými vybranými možnosťami.
 
 - **Pýtať si e-mail hráčov:**  
   Zbieraj e-maily návštevníkov pre svoj stánok! Ak to zapneš, nezabudni nastaviť aj svoju **URL adresu zásad ochrany osobných údajov**.
-- Pri spúšťaní hry cez odkaz s pokročilými možnosťami sa môže zobraziť výzva na prihlásenie pred štartom — skontroluje sa tým tvoj obsah a licencie.
+- When launching a game via the advanced options link, you may be prompted to log in before starting - this checks your content and licenses.
 
 ![Snímka obrazovky pokročilých nastavení hry](/images/tutorials/conference/advanced_game_settings.png)
 
