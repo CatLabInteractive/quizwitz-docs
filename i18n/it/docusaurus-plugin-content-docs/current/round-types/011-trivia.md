@@ -5,7 +5,7 @@ title: Trivia (round normale)
 
 # ❓ Trivia (round normale)
 
-Il round **Trivia** è il tipo di round classico e predefinito in QuizWitz. Presenta una serie di domande a tutti i giocatori — ideale per cultura generale, quiz a tema o round di riscaldamento.
+Il round **Trivia** è il tipo di round classico e predefinito in QuizWitz. It presents a series of questions to all players - ideal for general knowledge, themed quizzes, or warm-up rounds.
 
 ---
 
