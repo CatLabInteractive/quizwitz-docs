@@ -23,9 +23,9 @@ Každá stránka vysvětluje, kdy se tyto přílohy během hraní zobrazují.
 
 Tady je obecný (neúplný) seznam kompatibilních formátů:
 
-- **Obrázky** — `.png`, `.jpeg`, `.gif` (neanimované). Doporučeno Full HD (1920×1080)
-- **Audio** — Podporována je většina běžných formátů
-- **Video** — Podporována je většina běžných formátů
+- **Images** - `.png`, `.jpeg`, `.gif` (non-animated). Doporučeno Full HD (1920×1080)
+- **Audio** - Most standard formats are supported
+- **Video** - Most standard formats are supported
 
 > 🔊 ⏱️ Audio a video přílohy by neměly být **delší než 15 minut**.
 
@@ -35,8 +35,8 @@ Tady je obecný (neúplný) seznam kompatibilních formátů:
 
 Každá příloha může mít název a volitelné uvedení autora/zdroje:
 
-- **Název** — Zobrazuje se quizmaster v [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); pomáhá s organizací příloh
-- **Uvedení autora/zdroje** — Zobrazuje se hráčům jako informace o autorství nebo zdroji. Mělo by jít o **jméno držitele práv**.
+- **Name** - Displayed to the quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); helps in organizing attachments
+- **Attribution** - Shown to players as credit or source information. Mělo by jít o **jméno držitele práv**.
 
 > ⚠️ Aby bylo možné **publikovat** Round-About nebo Quiz, **všechny přílohy musí mít vyplněné platné uvedení autora/zdroje**. Bez toho nelze tvůj záznam zveřejnit.
 
@@ -46,8 +46,8 @@ Každá příloha může mít název a volitelné uvedení autora/zdroje:
 
 Některá místa pro přílohy podporují **efekty**, které vizuály odhalují postupněji:
 
-- **Žádný** — Soubor se zobrazí tak, jak je
-- **Efekt reflektoru** — Postupně v čase odhaluje části obrázku pomocí pohyblivého reflektoru, který se během postupu zvětšuje
+- **None** - The file is shown as-is
+- **Spotlight effect** - Gradually reveals parts of the image over time with a moving spotlight that expands as it progresses
 
 To je obzvlášť účinné u hádanek nebo pomalého odhalování během úvodů či dramatických momentů.
 
