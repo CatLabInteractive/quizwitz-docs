@@ -3,16 +3,16 @@ id: introduction
 title: Introductie
 ---
 
-# 🎤 QuizWitz Live – Introductie
+# 🎤 QuizWitz Live - Introduction
 
 ## Een quiz hosten met QuizWitz Live
 
-Het eerste ingrediënt voor een succesvol QuizWitz Live evenement is een boeiende quizmaster – iemand die het spel leidt en de energie hoog houdt. De quizmaster stuurt de voortgang van de quiz, leest de vragen luidop voor, en voegt dat extra beetje pit toe om het publiek te vermaken.
+The first ingredient for a successful QuizWitz Live event is an engaging quizmaster - someone who controls the game and keeps the energy high. De quizmaster stuurt de voortgang van de quiz, leest de vragen luidop voor, en voegt dat extra beetje pit toe om het publiek te vermaken.
 
 Om de volledige controle over je evenement te nemen, gebruik de **Quizmaster App**, speciaal ontworpen voor QuizWitz Live.  
 Je kunt QuizWitz Live direct vanuit de quiz-editor starten door te klikken op **‘Start QuizWitz Live’**.
 
-> 💡 **Let op:** De Quizmaster App is een **webapp** — je hoeft niets te installeren. Ga simpelweg naar [**quizwitz.tv**](https://quizwitz.tv) in je browser om het te gebruiken op je smart device.
+> 💡 **Note:** The Quizmaster App is a **web app** - there's nothing to install. Ga simpelweg naar [**quizwitz.tv**](https://quizwitz.tv) in je browser om het te gebruiken op je smart device.
 
 ---
 
@@ -20,7 +20,7 @@ Je kunt QuizWitz Live direct vanuit de quiz-editor starten door te klikken op **
 
 Zorg voor een soepele en professionele quizervaring door te zorgen voor:
 
-- **Een groot scherm of projector** dat het spelscherm toont — of een **livestream** die voor alle spelers toegankelijk is
+- **A large screen or projector** showing the game screen - or a **livestream** accessible to all players
 - **Een tablet of laptop** voor de quizmaster om het spel te besturen en het script hardop voor te lezen
 - **Een laptop of tablet** voor de jury (indien nodig) om open antwoorden te beoordelen
 - **Een smart device per speler of team** (bijv. smartphone of tablet) om antwoorden in te dienen
