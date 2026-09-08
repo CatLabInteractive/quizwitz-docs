@@ -5,7 +5,7 @@ title: Szünet
 
 # ⏸️ Szünet
 
-A **Szünet** egy különleges eseménykör, amely pihenőre megállítja a kvízt — ideális nyújtózkodásra, beszélgetésre vagy szponzorok népszerűsítésére.
+**Intermission** is a special event round that pauses the quiz for a break - ideal for stretching, chatting, or promoting sponsors.
 
 ---
 
@@ -23,7 +23,7 @@ A **Szünet** egy különleges eseménykör, amely pihenőre megállítja a kví
 ## 🖼️ Mellékletek
 
 - A kör beállításaiban képeket, logókat vagy videókat tölthetsz fel.
-- A szünet alatt ezek a mellékletek körhintában jelennek meg a játékképernyőn - remek szponzorlogókhoz, üzenetekhez vagy promóciós videókhoz.
+- During the intermission, these attachments will be shown in a carousel on the game screen - great for sponsor logos, messages, or promotional videos.
 - A mellékletek a szünet teljes ideje alatt ismétlődnek.
 
 ---
