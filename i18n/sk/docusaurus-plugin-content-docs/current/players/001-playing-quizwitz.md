@@ -85,7 +85,7 @@ Vyber si:
 
 QuizWitz sa pokúsi preskočiť otázky, ktoré si už videl/a.
 
-![Hrať moju zbierku – krok 2](/images/play-my-collection-step2.png)
+![Hrať moju zbierku - krok 2](/images/play-my-collection-step2.png)
 
 ---
 
