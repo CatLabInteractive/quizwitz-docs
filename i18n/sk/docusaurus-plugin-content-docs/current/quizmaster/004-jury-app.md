@@ -3,7 +3,7 @@ id: jury-app
 title: Aplikácia poroty
 ---
 
-# 🧑‍⚖️ Aplikácia poroty - kontrola otvorených odpovedí v QuizWitz Live
+# 🧑‍⚖️ Jury App - Reviewing open answers in QuizWitz Live
 
 Ak tvoj kvíz obsahuje **otázky s otvorenou odpoveďou**, na ručnú kontrolu a bodovanie odpovedí budeš potrebovať **aplikáciu poroty**.
 
@@ -19,20 +19,20 @@ Ako otvoriť aplikáciu poroty:
 2. Na inom zariadení choď na [**quizwitz.tv**](https://quizwitz.tv)
 3. Zadaj **kód poroty** a otvor aplikáciu
 
-> 💡 Aplikáciu poroty otvoríš v akomkoľvek prehliadači - je to webová aplikácia, netreba nič inštalovať.
+> 💡 You can open the Jury App on any browser - it's a web app, no installation required.
 
 Vo vnútri ponúka aplikácia poroty niekoľko užitočných nástrojov:
 
-- **Hodnotenie otázok** — Výsledky otvorených otázok sa zobrazia po dokončení otázky.
-  - Hra na porotu **nečaká**, kým skončí — iba ak ide o **poslednú otázku kola** alebo ak nastavenia kvízu hovoria inak.
+- **Judge questions** - Open question results will appear once a question is completed.
+  - The game does **not wait** for the jury to finish - unless it’s the **last question of the round** or the quiz settings say otherwise.
   - Po vyhodnotení sa výsledky zobrazia **po ďalšej otázke**.
 
-- **Úprava skóre** — Ručne pridaj alebo odober body jednotlivým hráčom či tímom.
+- **Edit scores** - Grant or revoke points manually per player or team.
 
-- **Ovládanie hry** — Uprav časovače otázok alebo v prípade potreby pridaj oneskorenia streamu.
+- **Game control** - Adjust question timers or add streaming delays if needed.
   > Nastavenie oneskorenia livestreamu nájdeš v návode [**ako hostovať kvíz QuizWitz Live na Twitchi**](../tutorials/040-livestreaming.md)
 
-- **Správa** — Vygeneruj kompletnú správu o hre s výsledkami a odpoveďami hráčov.
+- **Report** - Generate a full game report with results and player answers.
 
 ![Snímka aplikácie poroty v stave čakania](/images/jury-app-waiting.png)
 
@@ -54,7 +54,7 @@ QuizWitz **automaticky rozpozná presné zhody** a označí ich ako správne. Č
 - Fonetických zhôd
 - Bežných pravopisných variantov
 
-> 🎙️ QuizWitz bol navrhnutý s ohľadom na fonetickú zhodu — konečné rozhodnutie je však vždy na porotcoch.
+> 🎙️ QuizWitz was designed with phonetic matching in mind - but the final decision is always up to the judges.
 
 ---
 
