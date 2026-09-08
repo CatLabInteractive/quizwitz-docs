@@ -7,7 +7,7 @@ title: Quizmaster-App
 
 Als Quizmaster hast du die volle Kontrolle über das QuizWitz Live-Spiel. Das Wichtigste, was du wissen musst, ist Folgendes:
 
-> Das Spiel **schreitet erst voran, wenn du klickst** — es bewegt sich nichts auf dem Spielbildschirm, bis du es sagst.
+> The game **only progresses when you click** - nothing moves on the game screen until you tell it to.
 
 Das gibt dir volle Kontrolle über das Tempo und Timing, aber das bedeutet auch, dass du viel tippen wirst. Lass uns durchgehen, wie die App funktioniert.
 
@@ -36,13 +36,13 @@ Jede Frage hat einen eigenen Bildschirm in der Quizmaster-App:
 
 Du siehst:
 
-- **Fragenummer** – z.B. `1.1` bedeutet die erste Frage der ersten Runde
-- **Fragentyp** – wie Multiple Choice, mit entsprechenden Wertungsmodifikatoren
-- **Lange Version der Frage** – zum laut Vorlesen für dich
-- **Frageninformationen** – einschließlich Timer-Dauer und verfügbaren Punkten
-- **Kurzfrage** — die Version, die auf dem Spielbildschirm angezeigt wird
-- **Frage starten-Button** – startet sofort den Timer
-- **Mögliche Antworten** – in der richtigen Reihenfolge angezeigt (bei Multiple Choice)
+- **Question number** - e.g. `1.1` means the first question of the first round
+- **Question type** - such as Multiple Choice, with relevant scoring modifiers
+- **Long version of the question** - for you to read out loud
+- **Question info** - including timer duration and available points
+- **Short question** - the version shown on the game screen
+- **Start question button** - immediately starts the timer
+- **Possible answers** - displayed in the correct order (for multiple choice)
 
 Die Frage bleibt in deiner App sichtbar, bis entweder:
 
@@ -55,7 +55,7 @@ Die Frage bleibt in deiner App sichtbar, bis entweder:
 
 ### ✅ Feedback zur Frage
 
-Nachdem eine Frage endet, wird die richtige Antwort bekannt gegeben. Was du siehst, hängt vom Fragentyp ab – dieses Beispiel zeigt einen Multiple Choice Ergebnisbildschirm:
+Nachdem eine Frage endet, wird die richtige Antwort bekannt gegeben. What you see depends on the question type - this example shows a multiple choice result screen:
 
 ![Quizmaster-App - Frage Feedback](/images/quizmaster-app-question-feedback.png)
 
@@ -64,10 +64,10 @@ Beinhaltet:
 - **Fragenummer**
 - **Kurzer Fragentext**
 - **Korrekte Antwort**
-- **Antwortverteilung** – in Zahlen und Prozentsätzen
-- **Ausführliches Feedback** – zusätzliche Infos zum Lautvorlesen
-- **Weiter-Button** – geht zur nächsten Frage
-- **Schnellste 100 Antworten** – unten auf dem Bildschirm angezeigt
+- **Answer spread** - in numbers and percentages
+- **Long feedback** - extra info to read aloud
+- **Continue button** - advances to the next question
+- **Fastest 100 answers** - shown at the bottom of the screen
 
 ---
 
@@ -93,14 +93,14 @@ Spieler sehen **ihre eigene Position** auf ihrem Gerät während des Abschlussbi
 
 ### 🏆 Das Ende des Quiz
 
-Am Ende des Quiz ist es Zeit für eine **Siegerehrungsparty** – mit Konfetti und Spieler-Emojis, die über den Bildschirm fliegen.
+At the end of the quiz, it’s time for a **winner reveal party** - complete with confetti and player emojis flying across the screen.
 
 ![QuizWitz - Spielausklang-Spielbildschirm](/images/game-outro.png)
 
 - Die Standard-Einstellung zeigt die **Top 12 Spieler**
 - Du kannst einstellen, wie viele Spieler angezeigt werden, in den **erweiterten Spieleinstellungen**
 
-> 🎉 Fun-Tipp: Das Emoji, das deine Spieler wählen, wird über den Bildschirm tanzen – selbst wenn es die lächelnde Kacke ist.
+> 🎉 Fun tip: The emoji your players choose will dance around the screen - even if they picked the smiling turd.
 
 ---
 
