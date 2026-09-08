@@ -11,12 +11,12 @@ title: Игра на QuizWitz
 
 ## 🎯 Избери какво да играеш
 
-Започни, като разгледаш наличните **Round-Abouts** — кратки тематични рундове с куиз въпроси. Използвай менюто в горната част на екрана, за да разгледаш:
+Start by browsing the available **Round-Abouts** - short themed rounds of quiz questions. Използвай менюто в горната част на екрана, за да разгледаш:
 
-- **Ново** — Открий най-новите Round-Abouts
-- **Моята колекция** — Достъп до всичко, което си запазил или създал
-- **Събери** — Намери Round-Abouts, създадени от общността
-- **Бърза игра** — Влез направо в случаен избор
+- **New** - Discover the latest Round-Abouts
+- **My Collection** - Access everything you've saved or created
+- **Collect** - Find Round-Abouts made by the community
+- **Quick Play** - Jump into a random selection
 
 ![Горна навигационна лента на QuizWitz](/images/top-menu-play.png)
 
@@ -39,13 +39,13 @@ title: Игра на QuizWitz
 - Бинго игри
 - ...
 
-Можеш да организираш, играеш или премахваш елементи по всяко време. Това е твоята лична библиотека — изгради я както ти харесва!
+Можеш да организираш, играеш или премахваш елементи по всяко време. This is your personal library - build it how you like!
 
 ---
 
 ## 🧠 Избери Round-About
 
-**Round-About** е малък тематичен набор от въпроси - както подсказва името, един рунд по _една_ тема. Ако играеш само един, ще получиш кратка игра със 7 случайни въпроса.
+A **Round-About** is a small, themed round of questions - as the name says, a round _about_ a subject. Ако играеш само един, ще получиш кратка игра със 7 случайни въпроса.
 
 За да разгледаш Round-About по-подробно:
 
@@ -63,7 +63,7 @@ title: Игра на QuizWitz
 - Кликни върху **Добави към моята колекция** в Round-About
 - Или кликни върху **иконата със звезда** на плочката на Round-About
 
-За да премахнеш някой по-късно, просто кликни отново върху звездата — сега ще пише **Премахни от моята колекция**.
+To remove one later, just click the star again - it’ll now say **Remove from my collection**.
 
 ![Добавяне на Round-About към твоята колекция](/images/add-to-collection.png)
 
@@ -80,7 +80,7 @@ title: Игра на QuizWitz
 
 Избери:
 
-- **Режим на игра** — Самостоятелен играч или Парти игра
+- **Game mode** - Single Player or Party Game
 - **Кои Round-Abouts** да включиш в сесията си
 
 QuizWitz ще се опита да пропусне въпросите, които вече си виждал.
@@ -107,17 +107,17 @@ QuizWitz ще се опита да пропусне въпросите, коит
 
 Играй с приятели, като използват собствените си телефони или таблети:
 
-> 📺 Увери се, че екранът на играта се вижда - използвай общ дисплей или споделяне на екрана
+> 📺 Make sure the game screen is visible - use a shared display or screen share
 
 1. Кликни върху **Старт**, след това **Парти игра**
 2. Играчите следват инструкциите на екрана, за да се присъединят
 3. Кликни върху **Започни куиза**, когато всички са готови
 
-След като куизът започне, **играта върви автоматично** - въпросите се появяват, таймерите отброяват, точките се събират, без намеса на водещия.
+Once the quiz starts, **the game runs automatically** - questions appear, timers count down, and scores are tallied without any host intervention.
 
 > ⏸️ Нужна ти е пауза? Премести мишката към долната част на екрана на играта и ще се появи бутон за **пауза**. Паузата е единственият начин да прекъснеш Парти игра.
 >
-> Искаш сам да контролираш темпото - да решаваш кога започва всеки въпрос? Това е възможно само с [**QuizWitz Live**](../quizmaster/001-introduction.md) и Quizmaster App.
+> Want to control the pacing of the game yourself - deciding when each question starts? Това е възможно само с [**QuizWitz Live**](../quizmaster/001-introduction.md) и Quizmaster App.
 
 ![Начален екран на QuizWitz](/images/quizwitz-start-screen.png)  
 ![Начален екран на QuizWitz за парти игра](/images/quizwitz-start-screen-party.png)  
