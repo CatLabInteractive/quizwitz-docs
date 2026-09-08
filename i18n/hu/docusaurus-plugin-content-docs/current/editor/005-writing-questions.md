@@ -23,10 +23,10 @@ Kattints a kérdés bal felső sarkában lévő **fogaskerék ikonra** a teljes 
 
 ### 🎮 Mód és pontozás
 
-- **Kérdéstípus** — Válaszd ki, hogyan játsszák le a kérdést (pl. feleletválasztós, nyílt válasz, puzzle)  
-  → Tudj meg többet a [kérdéstípusokról](../question-types/000-question-types.md)
-- **Pontok** — Állítsd be, hány pontot ér egy helyes válasz
-- **Kérdés időzítője** — Állítsd be az időkorlátot a csúszkával
+- **Question type** - Choose how the question is played (e.g. multiple choice, open answer, puzzle)  
+  → Learn more in [question types](../question-types/000-question-types.md)
+- **Points** - Set how many points a correct answer is worth
+- **Question timer** - Adjust the time limit using the slider
 
 ---
 
@@ -34,12 +34,12 @@ Kattints a kérdés bal felső sarkában lévő **fogaskerék ikonra** a teljes 
 
 Szabd testre, hogyan viselkedjen a kérdés játék közben:
 
-- **Időalapú pontozás** — Jutalmazd azokat a játékosokat, akik gyorsabban válaszolnak
-- **Több helyes válasz** — Engedélyezz egynél több érvényes választási lehetőséget
-- **Véletlenszerű válaszsorrend** — Keverd meg a képernyőn megjelenő opciókat
-- **Időzítő leállítása, ha mindenki válaszolt** — Folytatás, amint minden válasz beérkezett
-- **Kérdés eredményeinek megjelenítése** — Visszajelzés megjelenítése a kérdés után (vagy kikapcsolása)
-- **Eredmények kényszerített megjelenítése a kérdés után** — Csak akkor érvényes, ha a visszajelzés normál esetben késleltetve jelenne meg (pl. villámkörökben vagy nyílt kérdéseknél). Zsűri-interakció nélküli alap kérdéseknél a visszajelzés automatikusan megjelenik minden kérdés után.
+- **Time-based scoring** - Reward players who answer more quickly
+- **Multiple correct answers** - Allow more than one valid choice
+- **Random answer order** - Shuffle the options on screen
+- **Stop timer when all answered** - Continue as soon as all responses are in
+- **Show question results** - Show feedback after the question (or disable it)
+- **Force results after question** - Only applies when feedback would normally be delayed (e.g., in lightning rounds or open questions). Zsűri-interakció nélküli alap kérdéseknél a visszajelzés automatikusan megjelenik minden kérdés után.
 
 ---
 
@@ -47,9 +47,9 @@ Szabd testre, hogyan viselkedjen a kérdés játék közben:
 
 Ezek a mezők határozzák meg, mi jelenik meg a Quizmaster appban és a játékképernyőn:
 
-- **Játékképernyő - kérdés visszajelzése** - minden játékos látja, miután a visszajelzés megjelent
-- **Quizmaster - hosszú kérdés** - a kérdés azon változata, amelyet a quizmaster felolvas
-- **Quizmaster - hosszú visszajelzés** - szöveg, amelyet a quizmaster a helyes válasz felfedése után olvashat fel
+- **Game screen - Question feedback** - Shown to all players after feedback is revealed
+- **Quizmaster - Long question** - A version of the question to be read aloud by the quizmaster
+- **Quizmaster - Long feedback** - Text the quizmaster can read after revealing the correct answer
 
 > 📝 Ezek a mezők segítenek abban, hogy az élő előadások dinamikusnak és profinak hassanak.
 
@@ -61,8 +61,8 @@ Ezek a mezők határozzák meg, mi jelenik meg a Quizmaster appban és a játék
 
 Képekkel, videóval vagy hanggal teheted izgalmasabbá a kérdéseket. Minden melléklet megjeleníthető konkrét időpontokban:
 
-- **Kérdés előtt / közben / után** — A kérdés megjelenítése körüli időszakban látható
-- **Visszajelzés előtt / közben / után** — Az eredmények felfedésekor látható
+- **Before / During / After Question** - Shown around the time the question is presented
+- **Before / During / After Feedback** - Shown when results are revealed
 - ...
 
 > 🧠 A mellékletek különösen hasznosak a feszültség fokozására, a válaszok szemléltetésére vagy kontextus megadására.
