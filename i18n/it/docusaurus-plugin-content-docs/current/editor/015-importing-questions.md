@@ -47,14 +47,14 @@ Per creare rapidamente molte domande in una volta sola, usa la scheda **Importa 
 
 Ogni riga deve contenere le seguenti colonne in questo ordine esatto:
 
-1. **Domanda breve** — Visualizzata sullo schermo del giocatore
+1. **Short question** - Displayed on the player screen
 2. **Risposta corretta**
 3. **Risposta errata 1** (lascia vuoto per le domande aperte)
 4. **Risposta errata 2**
 5. **Risposta errata 3**
-6. **Feedback breve** — Visualizzato sullo schermo del giocatore dopo la risposta
-7. **Domanda lunga** _(facoltativa)_ — Visualizzata sullo schermo del quizmaster
-8. **Feedback lungo** _(facoltativo)_ — Spiegazione da far leggere ad alta voce al quizmaster
+6. **Short feedback** - Displayed on the player screen after answering
+7. **Long question** _(optional)_ - Displayed on the quizmaster screen
+8. **Long feedback** _(optional)_ - Explanation for the quizmaster to read aloud
 
 > 📌 Le ultime due colonne vengono usate solo in [QuizWitz Live](../quizmaster/001-introduction.md), ma devono comunque essere incluse (anche se lasciate vuote).
 
