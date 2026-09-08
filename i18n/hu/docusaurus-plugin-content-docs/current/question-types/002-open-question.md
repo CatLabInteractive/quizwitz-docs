@@ -5,7 +5,7 @@ title: Nyitott kérdés
 
 # 💬 Nyitott kérdés
 
-A nyitott kérdésnél a játékosok szabadon begépelhetik a válaszukat a billentyűzetükkel. Ez a mód tökéletes olyan kérdésekhez, ahol írásos válaszokat szeretnél — például neveket, számokat vagy rövid magyarázatokat.
+A nyitott kérdésnél a játékosok szabadon begépelhetik a válaszukat a billentyűzetükkel. This mode is perfect for questions where you want written responses - for example, names, numbers, or short explanations.
 
 ---
 
@@ -41,7 +41,7 @@ A nyitott kérdések pontozása úgy lett kialakítva, hogy igazságos legyen, m
 
 - Az **időalapú pontozás** blokkokra osztja az elérhető pontokat, nem pedig szigorú ezredmásodperc-alapú visszaszámlálásra.
 - Például ha az első blokkban válaszolsz (pl. az első 5 másodpercben), teljes pontszám jár; a következő blokk 80%-ot ad, és így tovább. Ez segít csökkenteni a lassabban gépelők hátrányát.
-- Alapértelmezés szerint a pontoknak csak **25%**-a függ a gyorsaságtól — a maradék **75%** fix, így mindenki, aki helyesen válaszol, megkapja a pontok nagy részét, a gépelési sebességtől függetlenül.
+- By default, only **25%** of the points depend on speed - the remaining **75%** is fixed, so everyone who answers correctly gets most of the points, regardless of typing speed.
 
 > ⚙️ **Tipp:** A pontozás működését és más beállításokat tovább finomíthatsz a [Forduló beállításai](../editor/008-round-options.md) résznél.
 
