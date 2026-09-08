@@ -25,13 +25,13 @@ Para configurar as opções de uma ronda, clica no ícone de engrenagem no paine
 
 As seguintes opções estão disponíveis para a maioria dos tipos de ronda:
 
-- **Mostrar apenas _X_ perguntas** — Limita a ronda a um número específico de perguntas
-- **Ordem aleatória das perguntas** — Baralha a ordem das perguntas dentro da ronda
-- **Mostrar introdução da ronda** — Apresenta um título animado antes de a ronda começar
-- **Mostrar encerramento da ronda (pontuação provisória)** — Revela as classificações no fim da ronda
-- **Agrupar todo o feedback num único ecrã** — Reúne o feedback das perguntas num só bloco depois de a ronda terminar
-- **Mostrar todo o feedback das perguntas no fim da ronda** — Adia o feedback das perguntas até a ronda terminar
-- **Forçar feedback depois de cada pergunta individual** — Garante feedback imediato
+- **Only show _X_ questions** - Limits the round to a specific number of questions
+- **Random question order** - Shuffle the question order within the round
+- **Show round intro** - Display an animated title before the round begins
+- **Show round outro (interim score)** - Reveal rankings at the end of the round
+- **Group all feedback in a single screen** - Collect question feedback in one block after the round ends
+- **Show all question feedback at the end of the round** - Delay question feedback until the round ends
+- **Force feedback after each individual question** - Ensure immediate feedback
   > ⚠️ Isto só tem efeito em tipos de ronda e de pergunta em que o feedback normalmente seria adiado, como perguntas abertas ou rondas relâmpago.
 
 📘 Consulta os [tipos de pergunta](../question-types/000-question-types.md) para mais informações sobre o momento e o comportamento do feedback.
@@ -42,11 +42,11 @@ As seguintes opções estão disponíveis para a maioria dos tipos de ronda:
 
 O QuizWitz oferece pontuação flexível para manter tudo justo e envolvente para todos os jogadores.
 
-- **Pontuação baseada no tempo** — Os jogadores ganham mais pontos por respostas mais rápidas.
+- **Time-based scoring** - Players earn more points for faster answers.
   - Para a maioria dos tipos de pergunta, os pontos baseados no tempo diminuem **continuamente por microssegundo**: quanto mais rápido responderes, mais pontos ganhas.
   - Para **perguntas abertas**, os pontos baseados no tempo são divididos em blocos. Por exemplo: as respostas no primeiro bloco (por exemplo, nos primeiros segundos) ganham **100%** da parte baseada no tempo, o bloco seguinte ganha **80%**, e assim por diante. Isto ajuda a equilibrar as coisas para quem escreve mais devagar.
 
-- **Percentagem fixa de pontos na pontuação baseada no tempo** — Tu controlas quanto da pontuação total é influenciado pela rapidez.
+- **Fixed percentage of points on time-based scoring** - You control how much of the total score is influenced by speed.
   - Por predefinição, **75%** dos pontos são fixos (toda a gente que responde corretamente recebe estes pontos, independentemente da rapidez).
   - Só os restantes **25%** são influenciados pela rapidez com que os jogadores respondem.
 
@@ -66,10 +66,10 @@ Podes adicionar um **texto de introdução** personalizado que aparecerá soment
 
 Melhora a tua ronda com multimédia mostrado em momentos específicos:
 
-- **Antes da ronda** — Mostrado depois da animação de introdução da ronda
-- **Depois da ronda** — Mostrado depois do encerramento da ronda
-- **Antes do encerramento da ronda** — Mostrado depois da última pergunta, mesmo antes do encerramento
-- **Durante o encerramento da ronda** — _(apenas áudio)_ Toca enquanto as classificações são apresentadas
+- **Before round** - Displayed after the round intro animation
+- **After round** - Shown after the round outro
+- **Before round outro** - Shown after the last question, just before the outro
+- **During round outro** - _(audio only)_ Plays while rankings are displayed
 - ...
 
 📘 Para tipos de ficheiro suportados e dicas de utilização, consulta o [guia de anexos](../editor/006-attachments.md).
