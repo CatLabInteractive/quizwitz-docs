@@ -61,4 +61,4 @@ Un round Attività ti permette di allontanarti dalle classiche domande del quiz 
 
 ---
 
-Il round Attività è perfetto per sfide interattive, duelli o compiti creativi: un ottimo modo per aggiungere energia e varietà al tuo evento QuizWitz!
+The Activity round is perfect for interactive challenges, duels, or creative tasks - a great way to add energy and variety to your QuizWitz event!
