@@ -5,7 +5,7 @@ title: कॉन्फ़्रेंस बूथ
 
 # कॉन्फ़्रेंस बूथ
 
-यह ट्यूटोरियल आपको दिखाएगा कि अपने कॉन्फ़्रेंस बूथ पर QuizWitz कैसे चलाएँ — विज़िटर्स को आकर्षित करने और लीड्स इकट्ठा करने का एक आसान, इंटरैक्टिव तरीका!
+This tutorial will show you how to run QuizWitz at your conference booth - an easy, interactive way to attract visitors and gather leads!
 
 ![QuizWitz का इस्तेमाल करते हुए Marvel कॉन्फ़्रेंस बूथ की फ़ोटो](/images/photos/marvel.jpg)
 
@@ -14,19 +14,19 @@ title: कॉन्फ़्रेंस बूथ
 ## 📝 क्विज़ बनाना
 
 कॉन्फ़्रेंस बूथ के लिए क्विज़ बनाते समय ध्यान रखें कि कुछ खिलाड़ी कई गेम्स तक रुक सकते हैं।  
-चीज़ों को मज़ेदार बनाए रखने के लिए, पक्का करें कि आपके पास ढेर सारे सवाल हों — इतने कि उन्हें रैंडम किया जा सके और हर बार खेलना अलग लगे।
+To keep things fresh, make sure you have plenty of questions - enough to randomize and make each playthrough unique.
 
 **सुझाया गया सेटअप:**
 
 - 15 सवालों को 3 राउंड में बाँटें
-- वैरायटी के लिए कम से कम 3× इतने सवाल बनाएँ — जितने ज़्यादा, उतना बेहतर!
+- Create at least 3× that many questions for variety - more is better!
 
 ### 🎲 चरण-दर-चरण क्विज़ बनाना
 
 1. Create मेनू में **“Quiz” चुनें** और अपने क्विज़ को एक नाम दें। सही भाषा सेट करें।
 2. **3 राउंड जोड़ें** और उन्हें नाम दें (उदाहरण के लिए: Round 1, Round 2, Round 3)।
 3. **Round settings** (कॉग आइकन) में, **“Only show x questions”** चालू करें और संख्या 5 सेट करें।  
-   **“Random question order”** भी चालू करें — वरना गेम हमेशा पहले 5 सवाल ही चुनेगा।  
+   Also enable **“Random question order”** - otherwise the game will always pick the first 5 questions.  
    हर राउंड के लिए इसे दोहराएँ।
 
 ![कॉन्फ़्रेंस बूथ के लिए राउंड सेटिंग्स का स्क्रीनशॉट](/images/tutorials/conference/round_settings.png)
@@ -35,7 +35,7 @@ title: कॉन्फ़्रेंस बूथ
    आप [सवाल लिख सकते हैं](../editor/005-writing-questions.md) या Excel से कंटेंट जल्दी जोड़ने के लिए Import बटन इस्तेमाल कर सकते हैं।
 
 :::tip
-ढेर सारी इमेजेज़ और वीडियो क्लिप्स इस्तेमाल करें — ये गेम को और भी ज़्यादा मनोरंजक बना देते हैं!
+Use lots of images and video clips - they make the game much more entertaining!
 :::
 
 ---
@@ -54,7 +54,7 @@ title: कॉन्फ़्रेंस बूथ
 2. **कॉन्फ़्रेंस मोड शुरू करो** चुनो।
 
 इस मोड में खिलाड़ी अपने फ़ोन से गेम स्क्रीन पर दिख रहे गेम लिंक से जुड़ते हैं।  
-जब सभी तैयार हों, तो बूथ होस्ट Enter दबाता है — और गेम अपने-आप चलने लगता है।  
+When everyone is ready, the booth host presses Enter - and the game runs automatically.  
 गेम खत्म होने के बाद, Enter दबाने से आप अगले ग्रुप के लिए सीधे कनेक्शन स्क्रीन पर वापस आ जाते हैं।
 
 ---
@@ -67,7 +67,7 @@ title: कॉन्फ़्रेंस बूथ
 
 - **Ask players’ email:**  
   अपने बूथ के लिए विज़िटर्स के ईमेल इकट्ठा करें! अगर आप इसे चालू करते हैं, तो अपनी **Privacy Policy URL** भी सेट करना न भूलें।
-- एडवांस्ड विकल्पों वाले लिंक से गेम लॉन्च करते समय, शुरू करने से पहले आपको लॉग इन करने के लिए कहा जा सकता है — इससे आपका कंटेंट और लाइसेंस जाँचे जाते हैं।
+- When launching a game via the advanced options link, you may be prompted to log in before starting - this checks your content and licenses.
 
 ![एडवांस्ड गेम सेटिंग्स का स्क्रीनशॉट](/images/tutorials/conference/advanced_game_settings.png)
 
