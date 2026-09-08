@@ -34,7 +34,7 @@ La **manche Multiquestion** donne aux joueurs (ou équipes) la liberté de chois
 ## 💡 Astuces
 
 - Proposez un mélange de questions faciles et difficiles pour plus de stratégie.
-- Utilisez les libellés de façon créative — des thèmes mystères ou amusants peuvent renforcer l'engagement.
+- Use labels creatively - mystery or fun themes can boost engagement.
 - Récompensez les audacieux avec des questions à points plus élevés.
 
 ---
