@@ -31,7 +31,7 @@ title: सूची प्रश्न
 - **Given विकल्प:** इन्हें प्रश्न के अंदर उदाहरणों की तरह इस्तेमाल करें।
 - **सुधार:**
   - **अपने-आप सुधार फ़ोर्स करें:** सक्षम होने पर, QuizWitz सभी जवाब अपने-आप जांचता है (छोटी टाइपो और बदलावों को स्वीकार करते हुए)। जूरी की ज़रूरत नहीं।
-  - **Manual review:** When not enabled, each provided answer must be reviewed by the [Jury App](../quizmaster/004-jury-app.md).
+  - **हाथ से समीक्षा:** जब यह चालू न हो, तो हर दिए गए जवाब की [जूरी ऐप](../quizmaster/004-jury-app.md) से समीक्षा करानी होती है।
 
 ---
 
@@ -59,4 +59,4 @@ title: सूची प्रश्न
 
 ---
 
-For more, see [Jury App documentation](../quizmaster/004-jury-app.md).
+ज़्यादा जानकारी के लिए [जूरी ऐप का दस्तावेज़](../quizmaster/004-jury-app.md) देखो।
