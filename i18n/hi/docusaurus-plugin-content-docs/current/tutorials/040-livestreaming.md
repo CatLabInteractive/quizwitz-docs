@@ -5,7 +5,7 @@ title: लाइवस्ट्रीम क्विज़
 
 # 📺 लाइवस्ट्रीम क्विज़ होस्ट करना
 
-QuizWitz Live के साथ, **Twitch**, **YouTube Live**, या **Facebook Live** जैसे प्लेटफ़ॉर्म पर पूरी तरह इंटरैक्टिव लाइवस्ट्रीम क्विज़ होस्ट करना आसान है — बड़े दर्शकों के लिए भी। यह गाइड आपको सेटअप, देरी सँभालने और प्रेज़ेंटेशन की बेहतरीन प्रैक्टिसेज़ के बारे में बताती है।
+With QuizWitz Live, it’s easy to host a fully interactive livestream quiz on platforms like **Twitch**, **YouTube Live**, or **Facebook Live** - even for large audiences. यह गाइड आपको सेटअप, देरी सँभालने और प्रेज़ेंटेशन की बेहतरीन प्रैक्टिसेज़ के बारे में बताती है।
 
 > 🧭 अगर Quizmaster ऐप तुम्हारे लिए नया है, तो [**क्विज़मास्टर स्टार्टअप गाइड**](../quizmaster/002-startup.md) से शुरू करो।
 
@@ -17,7 +17,7 @@ quizmaster आपके इवेंट का दिल होता है। 
 
 गेम चलाने के लिए **Quizmaster ऐप** इस्तेमाल करो। क्विज़ एडिटर से **QuizWitz Live शुरू करें** पर क्लिक करके QuizWitz Live लॉन्च करें।
 
-> 💡 Quizmaster ऐप एक **वेब ऐप** है - कोई इंस्टॉलेशन नहीं। बस अपने क्विज़मास्टर डिवाइस पर [**quizwitz.tv**](https://quizwitz.tv) पर जाओ और **क्विज़मास्टर कोड** डालो।
+> 💡 The Quizmaster App is a **web app** - there’s no installation. बस अपने क्विज़मास्टर डिवाइस पर [**quizwitz.tv**](https://quizwitz.tv) पर जाओ और **क्विज़मास्टर कोड** डालो।
 
 हम **टैबलेट या स्मार्टफ़ोन** इस्तेमाल करने की सलाह देते हैं ताकि quizmaster शो के दौरान आराम से घूम सके।
 
@@ -27,17 +27,17 @@ quizmaster आपके इवेंट का दिल होता है। 
 
 QuizWitz Live शुरू करते समय तुम्हें चुनना होगा कि खिलाड़ी कैसे जुड़ेंगे:
 
-- **टीम कोड** - हर खिलाड़ी या टीम को एक अनोखा कोड मिलता है। पहले से रजिस्टर किए गए टीम इवेंट्स के लिए उपयोगी।
-- **साझा गेम कोड** - सभी खिलाड़ियों के लिए एक ही साझा गेम कोड। खुले रजिस्ट्रेशन वाली लाइवस्ट्रीम्स के लिए सबसे अच्छा।
+- **Team codes** - Players or teams each receive a unique code. पहले से रजिस्टर किए गए टीम इवेंट्स के लिए उपयोगी।
+- **Single game code** - One shared game code for all players. खुले रजिस्ट्रेशन वाली लाइवस्ट्रीम्स के लिए सबसे अच्छा।
 
 > livestream के लिए हमेशा **साझा गेम कोड** चुनो और _ऐड-हॉक गेम शुरू करो_ पर क्लिक करो।
 
 क्विज़ लोड होते ही Quizmaster ऐप दिखाता है:
 
-- **क्विज़मास्टर कोड** - क्विज़मास्टर के लिए
-- **Jury Code** — ओपन सवालों की समीक्षा के लिए
-- **Regie Code** — विज़ुअल्स/ऑडियो नियंत्रित करने के लिए
-- **Game Code** — प्लेयर्स के शामिल होने के लिए
+- **Quizmaster code** - for the quizmaster
+- **Jury Code** - for reviewing open questions
+- **Regie Code** - for controlling visuals/audio
+- **Game Code** - for players to join
 
 अब आपकी गेम स्क्रीन **कनेक्ट स्क्रीन** दिखाती है, जिसे आपको अपने दर्शकों के लिए स्ट्रीम करना चाहिए।
 
@@ -47,7 +47,7 @@ QuizWitz Live शुरू करते समय तुम्हें चु�
 
 अपना क्विज़ स्ट्रीम करने के लिए, ब्रॉडकास्टिंग सॉफ़्टवेयर इस्तेमाल करें। हम सलाह देते हैं:
 
-- **OBS Studio** (Open Broadcast Software) — मुफ़्त और पावरफ़ुल
+- **OBS Studio** (Open Broadcast Software) - free and powerful
 - विकल्प: Streamlabs, vMix, या Zoom/Meet के नेटिव विकल्प
 
 अगर आप Zoom या Google Meet जैसे **मीटिंग सॉफ़्टवेयर** इस्तेमाल कर रहे हैं:
@@ -58,7 +58,7 @@ QuizWitz Live शुरू करते समय तुम्हें चु�
 
 **Twitch, YouTube Live, या Facebook Live** के लिए, आपको **स्ट्रीमिंग देरी** (यानी ट्रांसकोडिंग देरी) महसूस होगी।
 
-> ✅ बेहतरीन नतीजों के लिए हम **Twitch** की सलाह देते हैं — यह लगातार लो-लेटेंसी परफ़ॉर्मेंस और अच्छा व्यूअर सिंक देता है।
+> ✅ We recommend **Twitch** for best results - it consistently offers low-latency performance and good viewer sync.
 
 ---
 
@@ -68,7 +68,7 @@ QuizWitz Live शुरू करते समय तुम्हें चु�
 
 ऐसे करें:
 
-1. अपना स्ट्रीम प्रीव्यू शुरू करें — अभी लाइव जाने की ज़रूरत नहीं है
+1. Start your stream preview - no need to go live yet
 2. [**quizwitz.tv**](https://quizwitz.tv) पर अपना जूरी कोड डालकर **जूरी ऐप** खोलो
 3. **गेम कंट्रोल** पर जाएँ
 4. अपनी लाइवस्ट्रीम किसी दूसरी विंडो में, आवाज़ के साथ खोलें
@@ -88,15 +88,15 @@ QuizWitz Live शुरू करते समय तुम्हें चु�
 
 - अपनी Twitch स्ट्रीम शुरू करें
 - **क्विज़ शुरू करने** के लिए Quizmaster ऐप इस्तेमाल करो
-- QuizWitz बैकग्राउंड में टाइमिंग संभाल लेगा — सवालों के बीच रुकने की ज़रूरत नहीं है
+- QuizWitz will handle timing in the background - no need to pause between questions
 
 ---
 
 ## 💡 लाइवस्ट्रीम प्रेज़ेंटेशन टिप्स
 
-- **क्विज़मास्टर को देरी वाली स्ट्रीम मत देखने दो** - अजीब ठहराव से बचने के लिए उसे सिर्फ़ लाइव Quizmaster ऐप इस्तेमाल करना चाहिए।
+- **Do not let the quizmaster watch the delayed stream** - they should use only the live Quizmaster App to avoid awkward pauses.
 
-- दर्शकों से बातचीत करने के लिए, किसी अलग स्क्रीन पर **लाइव कमेंट्स** मॉनिटर करें — वीडियो फ़ीड नहीं।
+- To interact with the audience, monitor **live comments** on a separate screen - not the video feed.
 
 - OBS सीन अपने-आप स्विच करना चाहते हैं? इस्तेमाल करें:  
   [`https://regie.catlab.eu/obs.html`](https://regie.catlab.eu/obs.html)
@@ -104,10 +104,10 @@ QuizWitz Live शुरू करते समय तुम्हें चु�
 - गेम के दौरान MIDI डिवाइस ट्रिगर करना चाहते हैं? आज़माएँ:  
   [`https://regie.catlab.eu/midi.html`](https://regie.catlab.eu/midi.html)
 
-- और टूल्स ढूँढ रहे हैं? [**regie.catlab.eu**](https://regie.catlab.eu) पर जाएँ — ऑटोमेशन, सीन स्विचिंग, इफ़ेक्ट्स और बहुत कुछ के लिए अतिरिक्त यूटिलिटीज़ वाला एक केंद्रीय हब।
+- और टूल्स ढूँढ रहे हैं? Visit [**regie.catlab.eu**](https://regie.catlab.eu) - a central hub with additional utilities for automation, scene switching, effects, and more.
 
 > सभी टूल के लिए Quizmaster ऐप से मिला तुम्हारा **रेजी कोड** ज़रूरी है।
 
 ---
 
-आप लाइव जाने के लिए तैयार हैं! Twitch बड़े पैमाने के क्विज़ इवेंट्स होस्ट करने के लिए एक स्मूद, रिस्पॉन्सिव प्लेटफ़ॉर्म देता है। इसे QuizWitz Live के साथ मिलाएँ — और आपकी क्विज़ नाइट सबको प्रभावित करने के लिए तैयार है।
+आप लाइव जाने के लिए तैयार हैं! Twitch बड़े पैमाने के क्विज़ इवेंट्स होस्ट करने के लिए एक स्मूद, रिस्पॉन्सिव प्लेटफ़ॉर्म देता है। Combine that with QuizWitz Live - and your quiz night is set to impress.
