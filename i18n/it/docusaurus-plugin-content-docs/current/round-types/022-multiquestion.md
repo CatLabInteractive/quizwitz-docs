@@ -34,7 +34,7 @@ Il round **Domanda multipla** dà ai giocatori (o ai team) la libertà di scegli
 ## 💡 Consigli
 
 - Offri un mix di domande facili e difficili per aggiungere strategia.
-- Usa le etichette in modo creativo: temi misteriosi o divertenti possono aumentare il coinvolgimento.
+- Use labels creatively - mystery or fun themes can boost engagement.
 - Premia chi ama rischiare con domande che valgono più punti.
 
 ---
