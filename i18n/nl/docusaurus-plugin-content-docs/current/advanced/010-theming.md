@@ -21,7 +21,7 @@ Having a graphic designer draw the theme and someone else assemble it in Animate
 
 ## 🧪 Thema testtool
 
-Als je klaar bent om je thema te testen, **zip dan de inhoud van je ontwerpmap** ( — niet de map zelf; als je de zip opent, moet je je bestanden zien en niet alleen een map — ) en upload deze naar onze [thema-tester](https://themes.quizwitz.com/). Dit geeft je een live preview van hoe je thema eruit zal zien in het spel.
+When you're ready to test your theme, **zip the contents of your design folder** ( - not the folder itself; when you open the zip, you should see your files, not just a single folder - ) and upload it to our [theme tester](https://themes.quizwitz.com/). Dit geeft je een live preview van hoe je thema eruit zal zien in het spel.
 
 Mail na het testen de zipfile naar ons en we koppelen het aan je account zodat je je thema kunt selecteren en gebruiken in je quizzes.
 
@@ -42,7 +42,7 @@ Alle ontwerpen moeten het QuizWitz-logo bevatten.
 | Introductie spel                                    | Animatie vóór het spel.                                                                   | Wacht-scherm.                                         |
 | Introductie ronde                                   | Animatie vóór elke ronde.                                                                 | Wacht-scherm.                                         |
 | Vragen                                              |                                                                                                           |                                                                       |
-| Bijlage                                             | Volledig scherm weergave van bijlage ( — voor/na vragen of rondes — ). | Wacht-scherm.                                         |
+| Bijlage                                             | Fullscreen attachment view ( - before/after questions or rounds - ).   | Wacht-scherm.                                         |
 | Vraag: meerkeuze zonder bijlage     | Vraag + 4 meerkeuze opties.                                                               | Meerkeuze antwoorden scherm.                          |
 | Vraag: meerkeuze met bijlage        | Vraag + 4 meerkeuze opties + een visuele bijlage.                                         | Meerkeuze antwoorden scherm.                          |
 | Vraag: open vraag zonder bijlage    | Alleen de vraag.                                                                          | Tekstinvoer en verzendknop.                           |
