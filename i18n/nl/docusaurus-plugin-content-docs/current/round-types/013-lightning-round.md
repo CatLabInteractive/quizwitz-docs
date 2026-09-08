@@ -5,7 +5,7 @@ title: Bliksemronde
 
 # ⚡ Bliksemronde
 
-De **Bliksemronde** draait helemaal om snelheid en spanning. Spelers beantwoorden een snelle reeks vragen met zeer korte timers — allemaal met doorlopende timer muziek voor maximale energie en spanning.
+De **Bliksemronde** draait helemaal om snelheid en spanning. Players answer a rapid series of questions with very short timers - all set to continuous timer music for maximum energy and tension.
 
 ---
 
@@ -29,7 +29,7 @@ Zie [ronde-opties](../editor/008-round-options.md) voor details over het instell
 
 ---
 
-## 🎵 Bijlagen — Aftel muziek
+## 🎵 Attachments - Countdown music
 
 - Je kunt een **ronde-bijlage** instellen in het vakje “Afspelen tijdens de aftelling van de vraag.”  
   Je kunt een **ronde-bijlage** instellen in het vakje “Afspelen tijdens de aftelling van de vraag.”\
