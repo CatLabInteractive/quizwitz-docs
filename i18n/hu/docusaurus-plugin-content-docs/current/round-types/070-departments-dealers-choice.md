@@ -25,8 +25,8 @@ A **Részleg Dealer’s Choice** egy interaktív kör típus, ahol egy adott ré
   - Legmagasabb rangú először
   - Véletlenszerű
 - **Osztó részlege:**
-  - _Csak az osztó játszhat_ — Csak a kiválasztott osztó válaszol a kérdésre
-  - _Az osztó részlegének összes játékosa játszhat_ — A részlegen belül mindenki válaszolhat és pontot szerezhet
+  - _Only dealer may play_ - Only the selected dealer answers the question
+  - _All players in dealer’s department may play_ - Everyone in the department can answer and score points
 - **Osztó bónusza:**  
   Állíts be bónuszszázalékot az osztónak (ha engedélyezve van).
 
