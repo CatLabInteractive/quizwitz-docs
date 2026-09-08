@@ -53,7 +53,7 @@ Než kolo začne, QuizWitz určí dealera jednou z těchto možností:
 
 - Jako první jde nejvýše umístěný hráč
 - Jako první jde nejníže umístěný hráč
-- Náhodně – dealer je vybrán náhodně
+- Náhodně - dealer je vybrán náhodně
 
 > Pořadí se uzamkne **na začátku kola**.
 
