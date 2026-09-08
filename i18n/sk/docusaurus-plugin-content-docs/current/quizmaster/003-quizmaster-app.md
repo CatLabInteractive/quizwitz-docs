@@ -7,7 +7,7 @@ title: Quizmaster App
 
 Ako quizmaster máš hru QuizWitz Live plne pod kontrolou. Najdôležitejšie je vedieť toto:
 
-> Hra **postupuje len vtedy, keď klikneš** - na hernej obrazovke sa nič nepohne, kým to nepovieš.
+> The game **only progresses when you click** - nothing moves on the game screen until you tell it to.
 
 Vďaka tomu máš tempo a načasovanie úplne pod kontrolou, ale zároveň to znamená, že budeš veľa ťukať. Poďme si prejsť, ako aplikácia funguje.
 
@@ -36,13 +36,13 @@ Každá otázka má v Quizmaster App vlastnú obrazovku:
 
 Uvidíš:
 
-- **Číslo otázky** — napr. `1.1` znamená začiatočnú otázku úvodného kola
-- **Typ otázky** — napríklad výber z viacerých možností, spolu s príslušnými úpravami bodovania
-- **Dlhá verzia otázky** — aby si ju mohol prečítať nahlas
-- **Informácie o otázke** — vrátane trvania časovača a dostupných bodov
-- **Krátka otázka** - verzia zobrazená na hernej obrazovke
-- **Tlačidlo na spustenie otázky** — okamžite spustí časovač
-- **Možné odpovede** — zobrazené v správnom poradí (pri výbere z viacerých možností)
+- **Question number** - e.g. `1.1` means the first question of the first round
+- **Question type** - such as Multiple Choice, with relevant scoring modifiers
+- **Long version of the question** - for you to read out loud
+- **Question info** - including timer duration and available points
+- **Short question** - the version shown on the game screen
+- **Start question button** - immediately starts the timer
+- **Possible answers** - displayed in the correct order (for multiple choice)
 
 Otázka zostane v tvojej aplikácii viditeľná, kým nenastane jedno z tohto:
 
@@ -55,7 +55,7 @@ Otázka zostane v tvojej aplikácii viditeľná, kým nenastane jedno z tohto:
 
 ### ✅ Spätná väzba k otázke
 
-Po skončení otázky sa odhalí správna odpoveď. To, čo uvidíš, závisí od typu otázky — tento príklad zobrazuje obrazovku výsledku pri výbere z viacerých možností:
+Po skončení otázky sa odhalí správna odpoveď. What you see depends on the question type - this example shows a multiple choice result screen:
 
 ![Quizmaster App - spätná väzba k otázke](/images/quizmaster-app-question-feedback.png)
 
@@ -64,10 +64,10 @@ Obsahuje:
 - **Číslo otázky**
 - **Krátky text otázky**
 - **Správna odpoveď**
-- **Rozloženie odpovedí** — v číslach a percentách
-- **Dlhá spätná väzba** — ďalšie informácie, ktoré môžeš prečítať nahlas
-- **Tlačidlo Pokračovať** — posunie hru na ďalšiu otázku
-- **Najrýchlejších 100 odpovedí** — zobrazených v spodnej časti obrazovky
+- **Answer spread** - in numbers and percentages
+- **Long feedback** - extra info to read aloud
+- **Continue button** - advances to the next question
+- **Fastest 100 answers** - shown at the bottom of the screen
 
 ---
 
@@ -93,14 +93,14 @@ Hráči počas záveru uvidia na svojom zariadení **svoju vlastnú pozíciu**.
 
 ### 🏆 Koniec kvízu
 
-Na konci kvízu prichádza čas na **párty s odhalením víťaza** — aj s konfetami a hráčskymi emoji lietajúcimi po obrazovke.
+At the end of the quiz, it’s time for a **winner reveal party** - complete with confetti and player emojis flying across the screen.
 
 ![QuizWitz - herná obrazovka so záverom hry](/images/game-outro.png)
 
 - Predvolené nastavenie zobrazuje **12 najlepších hráčov**
 - V **pokročilých nastaveniach hry** si môžeš prispôsobiť, koľko hráčov sa zobrazí
 
-> 🎉 Zábavný tip: Emoji, ktoré si tvoji hráči vyberú, bude tancovať po obrazovke — aj keď si vybrali usmiate hovienko.
+> 🎉 Fun tip: The emoji your players choose will dance around the screen - even if they picked the smiling turd.
 
 ---
 
