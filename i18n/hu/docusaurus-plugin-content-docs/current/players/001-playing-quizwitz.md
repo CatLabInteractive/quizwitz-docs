@@ -11,12 +11,12 @@ title: QuizWitz játék
 
 ## 🎯 Válaszd ki, mivel szeretnél játszani
 
-Kezdd az elérhető **Round-Abouts** böngészésével — ezek rövid, tematikus kvízkérdés-körök. A képernyő tetején lévő menüvel fedezheted fel ezeket:
+Start by browsing the available **Round-Abouts** - short themed rounds of quiz questions. A képernyő tetején lévő menüvel fedezheted fel ezeket:
 
-- **Új** — Fedezd fel a legújabb Round-Abouts tartalmakat
-- **Saját gyűjteményem** — Hozzáférés mindenhez, amit mentettél vagy létrehoztál
-- **Gyűjtés** — Keress a közösség által készített Round-Abouts tartalmakat
-- **Gyors játék** — Ugorj bele egy véletlenszerű válogatásba
+- **New** - Discover the latest Round-Abouts
+- **My Collection** - Access everything you've saved or created
+- **Collect** - Find Round-Abouts made by the community
+- **Quick Play** - Jump into a random selection
 
 ![QuizWitz felső navigációs sáv](/images/top-menu-play.png)
 
@@ -39,13 +39,13 @@ Ebbe beletartoznak:
 - Bingók
 - ...
 
-Bármikor rendszerezheted, lejátszhatod vagy eltávolíthatod az elemeket. Ez a saját személyes könyvtárad — építsd fel úgy, ahogy neked tetszik!
+Bármikor rendszerezheted, lejátszhatod vagy eltávolíthatod az elemeket. This is your personal library - build it how you like!
 
 ---
 
 ## 🧠 Válassz egy Round-Aboutot
 
-A **Round-About** egy kicsi, tematikus kérdéskör - ahogy a neve is mondja, egy forduló _egy_ témáról. Ha csak eggyel játszol, egy rövid játékot kapsz 7 véletlenszerű kérdéssel.
+A **Round-About** is a small, themed round of questions - as the name says, a round _about_ a subject. Ha csak eggyel játszol, egy rövid játékot kapsz 7 véletlenszerű kérdéssel.
 
 Ha részletesebben szeretnél megnézni egy Round-Aboutot:
 
@@ -63,7 +63,7 @@ Szeretnél több Round-Aboutból egy teljes kvízjátékot építeni? Így csin�
 - Kattints a **Hozzáadás a gyűjteményemhez** gombra a Round-Abouton belül
 - Vagy kattints a **csillag ikonra** a Round-About csempéjén
 
-Ha később el szeretnéd távolítani, csak kattints újra a csillagra — ekkor már az lesz rajta, hogy **Eltávolítás a gyűjteményemből**.
+To remove one later, just click the star again - it’ll now say **Remove from my collection**.
 
 ![Round-About hozzáadása a gyűjteményedhez](/images/add-to-collection.png)
 
@@ -80,7 +80,7 @@ Amikor készen állsz:
 
 Válassz:
 
-- **Játékmód** — Egyjátékos vagy társas játék
+- **Game mode** - Single Player or Party Game
 - **Mely Round-Abouts** kerüljenek be a játékmenetedbe
 
 A QuizWitz megpróbálja kihagyni azokat a kérdéseket, amelyeket már láttál.
@@ -107,17 +107,17 @@ Amint elindul a játék, válaszd ki a módot:
 
 Játssz a barátaiddal a saját telefonjaik vagy táblagépeik használatával:
 
-> 📺 Győződj meg róla, hogy a játékképernyő látható - használj közös kijelzőt vagy képernyőmegosztást
+> 📺 Make sure the game screen is visible - use a shared display or screen share
 
 1. Kattints a **Start** gombra, majd a **Társas játék** elemre
 2. A játékosok a képernyőn megjelenő utasításokat követve csatlakoznak
 3. Kattints a **Kvíz indítása** gombra, amikor mindenki készen áll
 
-Amint a kvíz elindul, **a játék automatikusan fut** - a kérdések megjelennek, az időzítők visszaszámolnak, a pontok összeadódnak, házigazdai beavatkozás nélkül.
+Once the quiz starts, **the game runs automatically** - questions appear, timers count down, and scores are tallied without any host intervention.
 
 > ⏸️ Szünetre van szükséged? Vidd az egeret a játékképernyő aljára, és megjelenik egy **szünet** gomb. A szüneteltetés az egyetlen módja egy Party játék megszakításának.
 >
-> Magad szeretnéd irányítani a játék tempóját - eldönteni, mikor induljon az egyes kérdés? Ez csak a [**QuizWitz Live**](../quizmaster/001-introduction.md) és a Quizmaster app segítségével lehetséges.
+> Want to control the pacing of the game yourself - deciding when each question starts? Ez csak a [**QuizWitz Live**](../quizmaster/001-introduction.md) és a Quizmaster app segítségével lehetséges.
 
 ![QuizWitz kezdőképernyő](/images/quizwitz-start-screen.png)  
 ![QuizWitz kezdőképernyő társas játékhoz](/images/quizwitz-start-screen-party.png)  
