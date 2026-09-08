@@ -13,6 +13,10 @@ QuizWitz थीम **Adobe Animate** का इस्तेमाल करक�
 
 इसे प्रोफ़ेशनल्स पर छोड़ना पसंद करेंगे? हमें [support@catlab.be](mailto:support@catlab.be) पर ईमेल भेजें, और हम आपके डिज़ाइन को इस्तेमाल के लिए तैयार QuizWitz थीम में बदलने का अनुमान दे सकते हैं।
 
+:::tip
+Having a graphic designer draw the theme and someone else assemble it in Animate is a common arrangement. The [theme design guide](012-theme-design-guide.md) describes what the designer has to deliver for that to work.
+:::
+
 ---
 
 ## 🧪 थीम टेस्ट टूल
