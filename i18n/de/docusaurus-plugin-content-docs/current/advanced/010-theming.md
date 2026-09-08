@@ -13,6 +13,10 @@ QuizWitz-Themes werden mit **Adobe Animate** erstellt. Du kannst eine [Theme-Vor
 
 Du möchtest es lieber den Profis überlassen? Sende uns eine E-Mail an [support@catlab.be](mailto:support@catlab.be) und wir erstellen dir ein Angebot, um dein Design in ein einsatzbereites QuizWitz-Theme zu verwandeln.
 
+:::tip
+Having a graphic designer draw the theme and someone else assemble it in Animate is a common arrangement. The [theme design guide](012-theme-design-guide.md) describes what the designer has to deliver for that to work.
+:::
+
 ---
 
 ## 🧪 Theme-Test-Tool
