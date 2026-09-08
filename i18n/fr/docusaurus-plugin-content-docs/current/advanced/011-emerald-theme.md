@@ -33,7 +33,7 @@ De loin, la façon la plus simple de changer l'aspect et l'ambiance du jeu est d
 
 Vous pouvez également télécharger des images ou vidéos qui seront diffusées avant et après le jeu. Cela s'applique aussi aux manches : trouvez une image que vous souhaitez utiliser comme introduction de manche, allez dans les **paramètres de la manche**, désactivez **Afficher l'introduction de la manche** pour masquer l'introduction par défaut, et téléchargez votre image ou vidéo en tant que **Afficher avant la manche**. Lorsque la manche commence, l'image ou la vidéo s'affichera à la place de l'introduction par défaut.
 
-Pièces jointes de la manche
+![Une capture d'écran des pièces jointes de la manche](/images/emerald/round-settings.png)
 
 :::tip
 Utilisez des images et vidéos en résolution 1920 x 1080 pour de meilleurs résultats.

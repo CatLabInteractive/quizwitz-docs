@@ -14,7 +14,7 @@ Lefagyott a játékod? Véletlenül bezáródott a lap? A [**QuizWitz Live**](qu
 
 Ha a játékod összeomlik, lefagy, akadozik, vagy bármilyen okból megszakad — legyen az böngészőhiba, rendszer-újraindítás vagy egy lap véletlen bezárása — könnyedén folytathatod a munkamenetet.
 
-Just **reopen the same browser tab** you were using to display the **game screen**. Ez az a képernyő, amelyet kivetítesz vagy streamelsz a közönségednek.
+Egyszerűen **nyisd meg újra ugyanazt a böngészőlapot**, amelyen a **játékképernyőt** jelenítetted meg. Ez az a képernyő, amelyet kivetítesz vagy streamelsz a közönségednek.
 
 Amikor betölt:
 

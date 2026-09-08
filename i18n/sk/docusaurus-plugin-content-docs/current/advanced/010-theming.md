@@ -14,7 +14,7 @@ Témy QuizWitz sa vytvárajú pomocou **Adobe Animate**. Ako východiskový bod 
 Radšej to necháš na profesionálov? Pošli nám e-mail na [support@catlab.be](mailto:support@catlab.be) a pripravíme ti odhad, koľko bude stáť premena tvojho návrhu na hotovú tému QuizWitz pripravenú na použitie.
 
 :::tip
-Having a graphic designer draw the theme and someone else assemble it in Animate is a common arrangement. The [theme design guide](012-theme-design-guide.md) describes what the designer has to deliver for that to work.
+Bežné usporiadanie je, že tému nakreslí grafik a niekto iný ju poskladá v Animate. [Sprievodca návrhom témy](012-theme-design-guide.md) opisuje, čo na to musí grafik dodať.
 :::
 
 ---
@@ -35,10 +35,10 @@ Všetky vlastné dizajny musia obsahovať logo QuizWitz.
 
 ## 🖥️ Prehľad obrazoviek
 
-| Fáza                                                                        | Game screen                                                                                                    | Zariadenie hráča (tablet/telefón)                 |
+| Fáza                                                                        | Herná obrazovka                                                                                                | Zariadenie hráča (tablet/telefón)                 |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | Obrazovka pripojenia                                                        |                                                                                                                |                                                                      |
-| Čakacia obrazovka                                                           | Logo kvízu. Displayed while the quizmaster is reading the question.            | Citát, ktorý hráča nabáda, aby pozorne počúval.      |
+| Čakacia obrazovka                                                           | Logo kvízu. Zobrazuje sa, kým quizmaster číta otázku.                          | Citát, ktorý hráča nabáda, aby pozorne počúval.      |
 | Úvod hry                                                                    | Animácia pred hrou.                                                                            | Čakacia obrazovka.                                   |
 | Úvod kola                                                                   | Animácia pred každým kolom.                                                                    | Čakacia obrazovka.                                   |
 | Otázky                                                                      |                                                                                                                |                                                                      |

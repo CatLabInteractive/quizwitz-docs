@@ -21,18 +21,18 @@ QuizWitz Live játékot indíthatsz a kvízszerkesztőből vagy közvetlenül a 
 
 ---
 
-## 🔐 Connecting with the quizmaster code
+## 🔐 Csatlakozás a quizmaster kóddal
 
-Once launched, your screen will display a **quizmaster code**. **Ne oszd meg ezt a kódot a játékosokkal** — ezzel kapcsolod a prezentációs eszközödet a játékhoz.
+Az indítás után a képernyődön megjelenik egy **quizmaster kód**. **Ne oszd meg ezt a kódot a játékosokkal** — ezzel kapcsolod a prezentációs eszközödet a játékhoz.
 
-- Visit [quizwitz.tv](https://quizwitz.tv) on your quizmaster device and enter the quizmaster code.
+- A quizmaster eszközödön nyisd meg a [quizwitz.tv](https://quizwitz.tv) oldalt, és írd be a quizmaster kódot.
 - Megjelenik a **Quizmaster App felülete**, ahol te irányítod a játékot.
 - A mobilitás miatt **táblagépet vagy okostelefont** ajánlunk, de egy laptop is megteszi.  
   ![QuizWitz PRO kapcsolódási képernyő](/images/quizwitz-pro-connect-token.png)
 
-After connecting, the quizmaster code disappears from the screen. You’re now ready to show the game screen on a projector or start your livestream.
+A csatlakozás után a quizmaster kód eltűnik a képernyőről. Most már készen állsz, hogy a játékképernyőt projektorra tedd, vagy elindítsd a livestreamet.
 
-> ⚠️ **Heads up!** If the game screen is not actively in focus — for example, if you switch tabs or minimize it — the game will **automatically pause**.  
+> ⚠️ **Figyelem!** Ha a játékképernyő nincs aktívan előtérben - például lapot váltasz vagy kicsinyíted -, a játék **automatikusan szünetel**.  
 > Amikor ez történik:
 >
 > - A **Quizmaster App is szünetel**
@@ -45,7 +45,7 @@ After connecting, the quizmaster code disappears from the screen. You’re now r
 
 Kapcsolódás után két játékmód közül választhatsz:
 
-![Quizmaster App - select mode](/images/quizmaster-app-select-mode.png)
+![Quizmaster app - módválasztás](/images/quizmaster-app-select-mode.png)
 
 ### Csapatkódok
 
@@ -68,14 +68,14 @@ Kapcsolódás után két játékmód közül választhatsz:
 **Csapatkódok** használatakor először csapatokat kell létrehoznod a Quizmaster Appban:
 
 - Adj hozzá csapatneveket
-- Press **‘Generate Codes’** to create access codes  
-  ![Quizmaster App - create teams](/images/quizmaster-app-create-teams.png)
+- Nyomd meg a **‘Generate Codes’** gombot a belépőkódok létrehozásához  
+  ![Quizmaster app - csapatok létrehozása](/images/quizmaster-app-create-teams.png)
 
 Előre is **lefoglalhatsz kódokat** — erről bővebben a tippek és trükkök részben olvashatsz.
 
 Mindenképp **mentsd el a következő kódokat**:
 
-- **Quizmaster code** — to control the quiz
+- **Quizmaster kód** - a kvíz irányításához
 - **Zsűrikód** — kézi pontszám-korrekciókhoz
 - **Regie-kód** — a vizuális és technikai elemek irányításához
 
@@ -83,16 +83,16 @@ Küldd el a csapatkódokat a játékosaidnak e-mailben, vagy add oda nekik nyomt
 
 Ha készen állsz, kattints a **„Kvíz betöltése”** gombra, várd meg, amíg az elemek betöltődnek, majd kattints az **„Indítás”** gombra a kezdéshez.
 
-![Quizmaster App - get team codes](/images/quizmaster-app-create-teams2.png)
+![Quizmaster app - csapatkódok lekérése](/images/quizmaster-app-create-teams2.png)
 
 ---
 
 ## 👤 Kvíz vezetése egyetlen játékkóddal
 
-With the **Single game code** scheme:
+A **Közös játékkód** sémával:
 
-- You’ll receive the quizmaster, jury, and regie codes, plus one game code for players.
-- The game code appears on the game screen — **display or stream it to your audience**.
+- Megkapod a quizmaster, a zsűri és a rendezői kódot, valamint egy játékkódot a játékosoknak.
+- A játékkód megjelenik a játékképernyőn - **mutasd meg vagy streameld a közönségednek**.
 - A játékosok bármikor csatlakozhatnak, amíg el nem éritek az aktív Seats limitet.
 
 Amint a játékosaid bent vannak:
@@ -108,8 +108,8 @@ Amint a játékosaid bent vannak:
 Indítás előtt ellenőrizned kell, mennyi seats áll rendelkezésedre.
 
 - A játékmód kiválasztása után megjelenik egy áttekintés
-- If you need more seats, activate them at [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
-  ![Quizmaster App - activate seats](/images/quizmaster-app-seats.png)
+- Ha több seatre van szükséged, aktiváld őket itt: [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
+  ![Quizmaster app - seats aktiválása](/images/quizmaster-app-seats.png)
 
 ---
 
@@ -117,6 +117,6 @@ Indítás előtt ellenőrizned kell, mennyi seats áll rendelkezésedre.
 
 Ha a beállítás kész, nyomd meg a **„Kvíz indítása”** gombot a Quizmaster Appban a játék elindításához.
 
-![Quizmaster App - start quiz](/images/quizmaster-app-start-quiz.png)
+![Quizmaster app - kvíz indítása](/images/quizmaster-app-start-quiz.png)
 
 Most már készen állsz arra, hogy egy zökkenőmentes QuizWitz Live élménnyel szórakoztasd a közönségedet!

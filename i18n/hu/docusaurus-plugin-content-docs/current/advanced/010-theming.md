@@ -14,7 +14,7 @@ A QuizWitz témák **Adobe Animate** segítségével készülnek. Kiindulópontk
 Inkább a profikra bíznád? Írj nekünk e-mailt a [support@catlab.be](mailto:support@catlab.be) címre, és adunk egy becslést arra, mennyibe kerül a dizájnod kész, használatra kész QuizWitz témává alakítása.
 
 :::tip
-Having a graphic designer draw the theme and someone else assemble it in Animate is a common arrangement. The [theme design guide](012-theme-design-guide.md) describes what the designer has to deliver for that to work.
+Bevett felállás, hogy a témát egy grafikus rajzolja meg, és valaki más rakja össze Animate-ben. A [témakészítési útmutató](012-theme-design-guide.md) leírja, mit kell ehhez a grafikusnak leadnia.
 :::
 
 ---
@@ -35,10 +35,10 @@ Minden egyedi dizájnnak tartalmaznia kell a QuizWitz logót.
 
 ## 🖥️ Képernyőáttekintés
 
-| Szakasz                                                           | Game screen                                                                                                      | Játékos eszköze (tablet/telefon)                           |
+| Szakasz                                                           | Játékképernyő                                                                                                    | Játékos eszköze (tablet/telefon)                           |
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | Csatlakozási képernyő                                             |                                                                                                                  |                                                                               |
-| Várakozási képernyő                                               | A kvíz logója. Displayed while the quizmaster is reading the question.           | Egy idézet, ami arra ösztönzi a játékost, hogy figyeljen oda. |
+| Várakozási képernyő                                               | A kvíz logója. Akkor látszik, amíg a quizmaster felolvassa a kérdést.            | Egy idézet, ami arra ösztönzi a játékost, hogy figyeljen oda. |
 | Játékbevezető                                                     | Animáció a játék előtt.                                                                          | Várakozási képernyő.                                          |
 | Fordulóbevezető                                                   | Animáció minden forduló előtt.                                                                   | Várakozási képernyő.                                          |
 | Kérdések                                                          |                                                                                                                  |                                                                               |

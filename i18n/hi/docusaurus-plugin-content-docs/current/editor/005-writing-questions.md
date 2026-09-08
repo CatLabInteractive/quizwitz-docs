@@ -43,13 +43,13 @@ title: सवाल लिखना
 
 ---
 
-### 🎤 Quizmaster content
+### 🎤 क्विज़मास्टर सामग्री
 
-These fields control what appears on the Quizmaster App and game screen:
+ये फ़ील्ड तय करते हैं कि Quizmaster ऐप और गेम स्क्रीन पर क्या दिखेगा:
 
-- **Game screen - Question feedback** — Shown to all players after feedback is revealed
-- **Quizmaster - Long question** — A version of the question to be read aloud by the quizmaster
-- **Quizmaster - Long feedback** — Text the quizmaster can read after revealing the correct answer
+- **गेम स्क्रीन - सवाल का फ़ीडबैक** - फ़ीडबैक दिखने के बाद सभी खिलाड़ियों को दिखता है
+- **Quizmaster - लंबा सवाल** - सवाल का वह रूप जो क्विज़मास्टर पढ़कर सुनाता है
+- **Quizmaster - लंबा फ़ीडबैक** - वह टेक्स्ट जो क्विज़मास्टर सही जवाब बताने के बाद पढ़ सकता है
 
 > 📝 ये फ़ील्ड लाइव प्रेज़ेंटेशन को डायनामिक और पॉलिश्ड महसूस कराने में मदद करते हैं।
 
@@ -70,7 +70,7 @@ These fields control what appears on the Quizmaster App and game screen:
 आप हर स्लॉट में **कई अटैचमेंट्स** जोड़ सकते हैं।
 
 > ⚡ **[QuizWitz Live (PRO)](../quizmaster/001-introduction.md) में:** quizmaster हर पल कौन-सा अटैचमेंट दिखाना है, यह चुन सकता है।  
-> 🎮 **In games without a quizmaster (Party Game, Conference mode, Single player):** all attachments in a given slot are shown at once.
+> 🎮 **बिना क्विज़मास्टर वाले गेम में (पार्टी गेम, कॉन्फ़्रेंस मोड, सिंगल प्लेयर):** उस स्लॉट के सभी अटैचमेंट एक साथ दिखते हैं।
 
 📘 समर्थित फ़ाइल प्रकारों, टाइमिंग टिप्स और सीमाओं के बारे में [अटैचमेंट्स गाइड](../editor/006-attachments.md) में और जानें।
 

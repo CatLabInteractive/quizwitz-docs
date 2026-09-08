@@ -20,7 +20,7 @@ A QuizWitz Live-ot közvetlenül a kvízszerkesztőből indíthatod el a **„Qu
 
 A gördülékeny és profi kvízélményhez győződj meg róla, hogy van nálad:
 
-- **A large screen or projector** showing the game screen — or a **livestream** accessible to all players
+- **Nagy képernyő vagy projektor**, amely a játékképernyőt mutatja - vagy egy minden játékos számára elérhető **livestream**
 - **Egy tablet vagy laptop** a quizmaster számára, hogy irányítsa a játékot és hangosan felolvassa a forgatókönyvet
 - **Egy laptop vagy tablet** a zsűrinek (ha szükséges), hogy értékelje a nyílt válaszos kérdéseket
 - **Játékosonként vagy csapatonként egy smart device** (pl. okostelefon vagy tablet) a válaszok beküldéséhez

@@ -5,7 +5,7 @@ title: Dealer's Choice
 
 # 🃏 Dealer's Choice
 
-The **Dealer’s Choice** round in QuizWitz adds a strategic twist to your quiz.
+A QuizWitz **Dealer's Choice** fordulója stratégiai csavart visz a kvízedbe.
 Az egyik játékos **kiválaszthatja a következő kérdés kategóriáját**, ami előnyt adhat neki – és akár bónuszt is! Így állíthatod be és játszhatod:
 
 ---
@@ -21,7 +21,7 @@ Ebben a körben **egy játékos lesz az "osztó"**, és ő választja ki a köve
 
 ## 🏷️ Kategóriák hozzárendelése a kérdésekhez
 
-Each question in the Dealer’s Choice round needs a **unique label**, which acts as the category the dealer sees and selects from.
+A Dealer's Choice forduló minden kérdéséhez kell egy **egyedi címke**, amely kategóriaként jelenik meg, és amelyek közül a dealer választ.
 
 Például:
 
@@ -52,7 +52,7 @@ A kör kezdete előtt a QuizWitz az alábbi lehetőségek egyikével határozza 
 
 - A legmagasabban rangsorolt játékos kezd
 - A legalacsonyabban rangsorolt játékos kezd
-- Véletlenszerűen – az osztó véletlenszerűen kerül kiválasztásra
+- Véletlenszerűen - a dealer véletlenszerűen kerül kiválasztásra
 
 > A rangsorok **a kör elején** rögzülnek.
 
@@ -73,5 +73,5 @@ A kör kezdete előtt a QuizWitz az alábbi lehetőségek egyikével határozza 
 
 ---
 
-The Dealer’s Choice round encourages interaction and gives players a bit of control, while still rewarding quick and correct answers. Szuper módja annak, hogy mindenki aktív maradjon!
+A Dealer's Choice forduló ösztönzi az interakciót, és egy kis irányítást ad a játékosoknak, miközben továbbra is a gyors és helyes válaszokat jutalmazza. Szuper módja annak, hogy mindenki aktív maradjon!
 

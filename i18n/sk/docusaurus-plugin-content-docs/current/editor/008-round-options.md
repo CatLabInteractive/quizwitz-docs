@@ -58,7 +58,7 @@ Tieto možnosti bodovania nájdeš v paneli možností kola pri úprave kola.
 
 ## 📜 Pokyny pre quizmaster
 
-You can add a custom **round introduction text** that will appear only on the [Quizmaster App](../quizmaster/001-introduction.md) at the start of the round. Use this to brief the quizmaster or add a personal touch.
+Môžeš pridať vlastný **úvodný text kola**, ktorý sa na začiatku kola zobrazí len v [Quizmaster App](../quizmaster/001-introduction.md). Použi to na inštruktáž quizmastera alebo na osobný podpis.
 
 ---
 

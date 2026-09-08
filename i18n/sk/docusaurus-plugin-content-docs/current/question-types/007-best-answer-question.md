@@ -14,17 +14,17 @@ Body prideľuje buď manuálne quizmaster, alebo — ak tam quizmaster nie je �
 
 - **Hráči odpovedajú:** Každý hráč napíše svoju odpoveď na otvorenú otázku.
 - **Bodovanie:**
-  - In **QuizWitz Live** (with a quizmaster), the quizmaster reviews all answers and assigns points to the best one(s).
-  - In games without a quizmaster (Party Game, Conference mode), players vote for the answer they think is best. Odpoveď(e) s najväčším počtom hlasov získajú body.
+  - V **QuizWitz Live** (s quizmasterom) quizmaster skontroluje všetky odpovede a pridelí body tej najlepšej (alebo viacerým).
+  - V hrách bez quizmastera (Párty hra, konferenčný režim) hráči hlasujú za odpoveď, ktorú považujú za najlepšiu. Odpoveď(e) s najväčším počtom hlasov získajú body.
 
 ---
 
 ## 💡 Tipy na otázky s najlepšou odpoveďou
 
 - Používaj kreatívne, otvorené otázky, ktoré pozývajú k originálnym alebo vtipným odpovediam.
-- In QuizWitz Live, the quizmaster can award points for creativity, accuracy, or humor.
-- In games without a quizmaster, voting encourages players to read each other's answers and adds a fun social element.
+- V QuizWitz Live môže quizmaster udeliť body za kreativitu, presnosť alebo humor.
+- V hrách bez quizmastera hlasovanie podnecuje hráčov, aby si čítali odpovede ostatných, a pridáva zábavný spoločenský prvok.
 
 ---
 
-> 📚 For more on how voting or manual scoring works, see the [Jury App documentation](../quizmaster/004-jury-app.md).
+> 📚 Viac o tom, ako funguje hlasovanie alebo ručné bodovanie, nájdeš v [dokumentácii aplikácie poroty](../quizmaster/004-jury-app.md).

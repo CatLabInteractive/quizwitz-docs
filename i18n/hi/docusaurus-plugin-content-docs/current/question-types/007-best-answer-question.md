@@ -14,17 +14,17 @@ title: सबसे अच्छे उत्तर वाला सवाल
 
 - **खिलाड़ी जवाब देते हैं:** हर खिलाड़ी खुले सवाल का अपना जवाब टाइप करता है।
 - **स्कोरिंग:**
-  - In **QuizWitz Live** (with a quizmaster), the quizmaster reviews all answers and assigns points to the best one(s).
-  - In games without a quizmaster (Party Game, Conference mode), players vote for the answer they think is best. जिस जवाब(जवाबों) को सबसे ज़्यादा वोट मिलते हैं, उन्हें अंक मिलते हैं।
+  - **QuizWitz Live में** (क्विज़मास्टर के साथ) क्विज़मास्टर सभी जवाब देखता है और सबसे अच्छे जवाब या जवाबों को पॉइंट्स देता है।
+  - बिना क्विज़मास्टर वाले गेम में (पार्टी गेम, कॉन्फ़्रेंस मोड) खिलाड़ी उस जवाब के लिए वोट करते हैं जो उन्हें सबसे अच्छा लगता है। जिस जवाब(जवाबों) को सबसे ज़्यादा वोट मिलते हैं, उन्हें अंक मिलते हैं।
 
 ---
 
 ## 💡 सबसे अच्छे उत्तर वाले सवालों के लिए टिप्स
 
 - ऐसे रचनात्मक, खुले सवाल इस्तेमाल करें जो मौलिक या मज़ेदार जवाबों को आमंत्रित करें।
-- In QuizWitz Live, the quizmaster can award points for creativity, accuracy, or humor.
-- In games without a quizmaster, voting encourages players to read each other's answers and adds a fun social element.
+- QuizWitz Live में क्विज़मास्टर रचनात्मकता, सटीकता या हास्य के लिए इनाम दे सकता है।
+- बिना क्विज़मास्टर वाले गेम में वोटिंग खिलाड़ियों को एक-दूसरे के जवाब पढ़ने के लिए प्रेरित करती है और एक मज़ेदार सामाजिक पहलू जोड़ती है।
 
 ---
 
-> 📚 For more on how voting or manual scoring works, see the [Jury App documentation](../quizmaster/004-jury-app.md).
+> 📚 वोटिंग और हाथ से स्कोरिंग के बारे में ज़्यादा जानने के लिए [जूरी ऐप का दस्तावेज़](../quizmaster/004-jury-app.md) देखो।

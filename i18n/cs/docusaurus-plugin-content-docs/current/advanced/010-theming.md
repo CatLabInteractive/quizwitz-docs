@@ -14,7 +14,7 @@ Motivy QuizWitz se vytvářejí pomocí **Adobe Animate**. Jako výchozí bod si
 Radši to necháš na profesionálech? Pošli nám e-mail na [support@catlab.be](mailto:support@catlab.be) a připravíme odhad, za kolik tvůj návrh převedeme do hotového motivu QuizWitz připraveného k použití.
 
 :::tip
-Having a graphic designer draw the theme and someone else assemble it in Animate is a common arrangement. The [theme design guide](012-theme-design-guide.md) describes what the designer has to deliver for that to work.
+Běžné uspořádání je, že téma nakreslí grafik a někdo jiný ho složí v Animate. [Průvodce návrhem témat](012-theme-design-guide.md) popisuje, co k tomu musí grafik dodat.
 :::
 
 ---

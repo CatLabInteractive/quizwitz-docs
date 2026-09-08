@@ -20,7 +20,7 @@ QuizWitz Live môžeš spustiť priamo z editora kvízu kliknutím na **„Start
 
 Aby bol kvíz plynulý a pôsobil profesionálne, uisti sa, že máš:
 
-- **A large screen or projector** showing the game screen — or a **livestream** accessible to all players
+- **Veľká obrazovka alebo projektor** zobrazujúci hernú obrazovku - alebo **livestream** dostupný všetkým hráčom
 - **Tablet alebo notebook** pre quizmaster, aby mohol ovládať hru a čítať scenár nahlas
 - **Notebook alebo tablet** pre porotu (ak je potrebná) na hodnotenie otázok s otvorenou odpoveďou
 - **Jeden smart device na hráča alebo tím** (napr. smartfón alebo tablet) na odosielanie odpovedí

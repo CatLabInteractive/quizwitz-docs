@@ -3,10 +3,10 @@ id: traditional-ct
 title: पारंपरिक (CT)
 ---
 
-# 📝🧵 Traditional - Common Thread
+# 📝🧵 पारंपरिक - साझा सूत्र
 
-A **Traditional - Common Thread** round works just like a [traditional round](030-traditional.md), but with a twist:  
-At the end of the round, the **last question** (“What was the common thread?”) को पहले जाँचा और दिखाया जाता है। इससे quizmaster बाकी जवाब दिखाने से पहले उस कड़ी को हाइलाइट कर सकता है।
+**पारंपरिक - साझा सूत्र** राउंड बिल्कुल [पारंपरिक राउंड](030-traditional.md) की तरह काम करता है, बस एक मोड़ के साथ:  
+राउंड के अंत में **आख़िरी सवाल** („साझा सूत्र क्या था?“) को पहले जाँचा और दिखाया जाता है। इससे quizmaster बाकी जवाब दिखाने से पहले उस कड़ी को हाइलाइट कर सकता है।
 
 ---
 

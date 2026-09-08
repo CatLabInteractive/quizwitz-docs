@@ -1,6 +1,6 @@
 ---
 id: round-types
-title: Round types
+title: राउंड प्रकार
 ---
 
 # राउंड प्रकार
@@ -18,10 +18,10 @@ title: Round types
 
 ये राउंड साधारण सवाल-जवाब वाले सवालों से थोड़ा ज़्यादा इंटरैक्टिव अनुभव देते हैं।
 
-- [Piece of Pie](021-piece-of-pie.md)
+- [पाई का टुकड़ा](021-piece-of-pie.md)
 - [मल्टीक्वेश्चन](022-multiquestion.md)
 - [स्ट्राइक](023-strike.md)
-- [Dealer's Choice](024-dealers-choice.md)
+- [डीलर्स चॉइस](024-dealers-choice.md)
 
 ## 🍺 पारंपरिक
 
@@ -46,5 +46,5 @@ title: Round types
 
 इन राउंड प्रकारों में, आप खास **विभाग** चुन सकते हैं, जो दूसरे विभागों के खिलाफ खेलते हैं।
 
-- [Department — Dealer's Choice](070-departments-dealers-choice.md)
+- [विभाग - डीलर्स चॉइस](070-departments-dealers-choice.md)
 - [विभाग — एलिमिनेशन](071-departments-elimination.md)

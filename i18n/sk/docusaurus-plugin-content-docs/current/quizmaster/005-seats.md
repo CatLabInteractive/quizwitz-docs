@@ -13,7 +13,7 @@ Hry QuizWitz PRO vyžadujú na pripojenie hráčov **aktívne Seats**. Seats sú
 
 - Každý pripojený **hráč alebo tím** v PRO hre vyžaduje **1 aktívny Seat**.
 - Môžeš hostiť hry s **jednotlivými hráčmi** alebo **tímami zdieľajúcimi jedno zariadenie** — každý sa počíta ako jeden Seat.
-- **Party Game and Single player games** do **not** require seats and are ideal for casual play with friends or family.
+- **Párty hra a hry pre jedného hráča** seats **nevyžadujú** a sú ideálne na nenáročné hranie s priateľmi alebo rodinou.
 
 ---
 
@@ -49,7 +49,7 @@ Na jednorazové alebo príležitostné podujatia môžeš namiesto kúpy licenci
 
 - Seats sa aktivujú pomocou **kreditov QuizWitz**, ktoré si môžeš kúpiť vopred.
 - Pri nákupe kreditov vo väčšom množstve sú dostupné **množstevné zľavy**.
-- Each **PRO license** includes a **value of free credits**.
+- Každá **PRO licencia** obsahuje **hodnotu vo forme kreditov zdarma**.
 - Ak si nie si istý, koľko hráčov sa pripojí:
   - Môžeš **počkať, kým sa všetci pripoja**, a až potom aktivovať Seats.
   - Alebo aktivuj viac Seats, než potrebuješ — **nevyužité Seats sa po vypršaní platnosti automaticky vrátia** v kreditoch.

@@ -43,13 +43,13 @@ title: Писане на въпроси
 
 ---
 
-### 🎤 Quizmaster content
+### 🎤 Съдържание за quizmaster
 
-These fields control what appears on the Quizmaster App and game screen:
+Тези полета определят какво се показва в Quizmaster App и на екрана на играта:
 
-- **Game screen - Question feedback** — Shown to all players after feedback is revealed
-- **Quizmaster - Long question** — A version of the question to be read aloud by the quizmaster
-- **Quizmaster - Long feedback** — Text the quizmaster can read after revealing the correct answer
+- **Екран на играта - обратна връзка за въпроса** - вижда се от всички играчи след показване на обратната връзка
+- **Quizmaster - дълъг въпрос** - версията на въпроса, която quizmaster чете на глас
+- **Quizmaster - дълга обратна връзка** - текст, който quizmaster може да прочете, след като разкрие верния отговор
 
 > 📝 Тези полета помагат презентациите на живо да изглеждат динамични и изпипани.
 
@@ -70,7 +70,7 @@ These fields control what appears on the Quizmaster App and game screen:
 Можеш да добавиш **няколко прикачени файла** във всеки слот.
 
 > ⚡ **В [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** quizmaster може да избере кой прикачен файл да се показва във всеки момент.  
-> 🎮 **In games without a quizmaster (Party Game, Conference mode, Single player):** all attachments in a given slot are shown at once.
+> 🎮 **В игри без quizmaster (Парти игра, конферентен режим, Един играч):** всички прикачени файлове в даден слот се показват едновременно.
 
 📘 Научи повече за поддържаните типове файлове, съвети за тайминг и ограничения в [ръководството за прикачени файлове](../editor/006-attachments.md).
 

@@ -43,7 +43,7 @@ Estos seats son ideales para eventos recurrentes, configuraciones de equipos gra
 
 ---
 
-## 💳 Pago por uso y créditos
+## 💳 Pay-as-you-go y créditos
 
 Para eventos únicos u ocasionales, puedes activar **seats de pago por uso** en lugar de comprar una licencia. Esto te da flexibilidad sin compromiso a largo plazo.
 
@@ -58,7 +58,7 @@ Para eventos únicos u ocasionales, puedes activar **seats de pago por uso** en 
 
 ## ⏳ Duración de los seats (pago por uso)
 
-- Los **seats de pago por uso** permanecen activos durante **48 horas** tras su activación.
+- Los **seats Pay-as-you-go** permanecen activos durante **48 horas** tras su activación.
 - Dentro de ese tiempo, puedes:
   - Realizar **múltiples quizzes o sesiones**
   - **Probar** tu quiz con grupos grandes

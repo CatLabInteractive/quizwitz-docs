@@ -29,7 +29,7 @@ title: Отворен въпрос
 - **Няколко приети отговора:** Добави алтернативни изписвания, съкращения или синоними за по-гъвкава автоматична корекция.
 - **Точкова оценка според времето:** Награждавай по-бързите отговори (виж „Точкуване“ по-долу).
 - **Принудителна автоматична корекция:** Активирай това, за да позволиш на играта автоматично да отбелязва правилните отговори според предоставения от теб списък.
-  - If not enabled (the default for most live games), open answers must be reviewed and scored manually using the [Jury App](../quizmaster/004-jury-app.md).
+  - Когато не е включено (по подразбиране за повечето live игри), отворените отговори трябва да се преглеждат и оценяват ръчно в [приложението за жури](../quizmaster/004-jury-app.md).
 
 За повече за тези опции виж [писане на въпроси](../editor/005-writing-questions.md).
 
@@ -49,11 +49,11 @@ title: Отворен въпрос
 
 ## 🧑‍⚖️ Преглед от жури в QuizWitz Live
 
-In **QuizWitz Live**, open questions generally require a manual review with the [Jury App](../quizmaster/004-jury-app.md):
+**В QuizWitz Live** отворените въпроси обикновено изискват ръчен преглед в [приложението за жури](../quizmaster/004-jury-app.md):
 
-- The Jury App lets jury members accept, reject, or adjust scoring for open answers.
+- Приложението за жури позволява на членовете на журито да приемат, отхвърлят или коригират точките за отворени отговори.
 - Фонетичното и алтернативното съвпадение помага, но човешката преценка е ключова за честно точкуване и креативност.
-- For full instructions and features, see the [Jury App documentation](../quizmaster/004-jury-app.md).
+- За пълното ръководство и функциите виж [документацията на приложението за жури](../quizmaster/004-jury-app.md).
 
 ---
 

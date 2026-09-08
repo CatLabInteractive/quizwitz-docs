@@ -21,7 +21,7 @@ title: Vyřazování oddělení
 
 ---
 
-> Vyřazování oddělení ti umožní pořádat vyřazovací části v rámci skupiny nebo oddělení – ideální pro turnaje nebo tematické soutěže.
+> Vyřazování oddělení ti umožní pořádat vyřazovací části v rámci skupiny nebo oddělení - ideální pro turnaje nebo tematické soutěže.
 
 ---
 

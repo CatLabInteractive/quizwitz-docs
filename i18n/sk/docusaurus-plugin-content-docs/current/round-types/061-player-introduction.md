@@ -5,13 +5,13 @@ title: Predstavenie hráčov
 
 # 🙋‍♂️ Predstavenie hráčov
 
-**Player introduction** is a special event that simply displays the **names and selected emojis of all players or teams** on the game screen.
+**Predstavenie hráčov** je špeciálna udalosť, ktorá na hernej obrazovke jednoducho zobrazí **mená a vybrané emoji všetkých hráčov alebo tímov**.
 
 ---
 
 ## 📝 Ako to funguje
 
-- At this point in the quiz, each participant’s **name** and chosen **emoji** will appear on the game screen.
+- V tomto bode kvízu sa na hernej obrazovke objaví **meno** každého účastníka a jeho zvolené **emoji**.
 - Často sa to používa na začiatku udalosti, po prestávke alebo pred finálovým kolom, aby sa účastníci predstavili alebo oslávili.
 
 ---

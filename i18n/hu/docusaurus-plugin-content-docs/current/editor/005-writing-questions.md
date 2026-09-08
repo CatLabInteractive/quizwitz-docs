@@ -43,13 +43,13 @@ Szabd testre, hogyan viselkedjen a kérdés játék közben:
 
 ---
 
-### 🎤 Quizmaster content
+### 🎤 Quizmaster tartalom
 
-These fields control what appears on the Quizmaster App and game screen:
+Ezek a mezők határozzák meg, mi jelenik meg a Quizmaster appban és a játékképernyőn:
 
-- **Game screen - Question feedback** — Shown to all players after feedback is revealed
-- **Quizmaster - Long question** — A version of the question to be read aloud by the quizmaster
-- **Quizmaster - Long feedback** — Text the quizmaster can read after revealing the correct answer
+- **Játékképernyő - kérdés visszajelzése** - minden játékos látja, miután a visszajelzés megjelent
+- **Quizmaster - hosszú kérdés** - a kérdés azon változata, amelyet a quizmaster felolvas
+- **Quizmaster - hosszú visszajelzés** - szöveg, amelyet a quizmaster a helyes válasz felfedése után olvashat fel
 
 > 📝 Ezek a mezők segítenek abban, hogy az élő előadások dinamikusnak és profinak hassanak.
 
@@ -70,7 +70,7 @@ Képekkel, videóval vagy hanggal teheted izgalmasabbá a kérdéseket. Minden m
 Minden helyre **több mellékletet** is hozzáadhatsz.
 
 > ⚡ **A [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) verzióban:** a quizmaster kiválaszthatja, melyik melléklet jelenjen meg az egyes pillanatokban.  
-> 🎮 **In games without a quizmaster (Party Game, Conference mode, Single player):** all attachments in a given slot are shown at once.
+> 🎮 **Quizmaster nélküli játékokban (Party játék, konferencia mód, Egyjátékos):** az adott slot összes melléklete egyszerre jelenik meg.
 
 📘 Tudj meg többet a támogatott fájltípusokról, az időzítési tippekről és a korlátozásokról a [mellékletek útmutatójában](../editor/006-attachments.md).
 

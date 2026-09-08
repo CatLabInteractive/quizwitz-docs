@@ -52,7 +52,7 @@ Bevor die Runde beginnt, bestimmt QuizWitz den Dealer mit einer dieser Optionen:
 
 - Der höchstplatzierte Spieler beginnt
 - Der niedrigstplatzierte Spieler beginnt
-- Zufällig – Der Dealer wird zufällig ausgewählt
+- Zufällig - Der Dealer wird zufällig ausgewählt
 
 > Die Rangliste wird **zu Beginn der Runde** festgelegt.
 

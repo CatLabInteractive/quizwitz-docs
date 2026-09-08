@@ -11,19 +11,19 @@ title: इंटरमिशन
 
 ## 📝 यह कैसे काम करता है
 
-- During an intermission, the game screen is paused and a timer is shown.
-- **In Conference mode and Party Games:**  
-  The intermission ends when someone presses **Enter** on the game screen.
+- ब्रेक के दौरान गेम स्क्रीन रुक जाती है और एक टाइमर दिखता है।
+- **कॉन्फ़्रेंस मोड और पार्टी गेम में:**  
+  ब्रेक तब ख़त्म होता है जब कोई गेम स्क्रीन पर **Enter** दबाता है।
 - **QuizWitz Live गेम्स में:**  
   quizmaster अपने डिवाइस (टैबलेट या स्मार्टफ़ोन) से इंटरमिशन खत्म करता है।  
-  The Quizmaster App displays a timer so the quizmaster can see how long the intermission has lasted.
+  Quizmaster ऐप एक टाइमर दिखाता है, ताकि क्विज़मास्टर देख सके कि ब्रेक कितनी देर से चल रहा है।
 
 ---
 
 ## 🖼️ अटैचमेंट्स
 
 - आप राउंड सेटिंग्स में इमेज, लोगो या वीडियो अपलोड कर सकते हैं।
-- During the intermission, these attachments will be shown in a carousel on the game screen—great for sponsor logos, messages, or promotional videos.
+- ब्रेक के दौरान ये अटैचमेंट गेम स्क्रीन पर एक कैरोसेल में दिखते हैं - स्पॉन्सर लोगो, संदेश या प्रचार वीडियो के लिए बढ़िया।
 - ब्रेक की अवधि तक अटैचमेंट्स लूप में चलते रहेंगे।
 
 ---

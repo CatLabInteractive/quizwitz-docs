@@ -3,10 +3,10 @@ id: traditional-ct
 title: Hagyományos (CT)
 ---
 
-# 📝🧵 Traditional - Common Thread
+# 📝🧵 Hagyományos - Közös szál
 
-A **Traditional - Common Thread** round works just like a [traditional round](030-traditional.md), but with a twist:  
-At the end of the round, the **last question** (“What was the common thread?”) kerül először kiértékelésre és megjelenítésre. Így a quizmaster kiemelheti az összefüggést, mielőtt felfedné a többi választ.
+A **Hagyományos - Közös szál** forduló ugyanúgy működik, mint egy [hagyományos forduló](030-traditional.md), egy csavarral:  
+A forduló végén az **utolsó kérdés** („Mi volt a közös szál?”) kerül először kiértékelésre és megjelenítésre. Így a quizmaster kiemelheti az összefüggést, mielőtt felfedné a többi választ.
 
 ---
 

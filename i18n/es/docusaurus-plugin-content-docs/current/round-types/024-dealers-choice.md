@@ -52,7 +52,7 @@ Antes de que comience la ronda, QuizWitz determina el dealer utilizando una de e
 
 - El jugador mejor clasificado va primero
 - El jugador peor clasificado va primero
-- Al azar – el dealer se elige aleatoriamente
+- Al azar - el dealer se elige aleatoriamente
 
 > Las clasificaciones se bloquean **al inicio de la ronda**.
 

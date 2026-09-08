@@ -78,9 +78,9 @@ title: Създаване на куизове
 
 ![Връзки за игра на куиз](/images/quiz-playlinks.png)
 
-- **[Play Party Game](../players/001-playing-quizwitz.md)** — A casual quiz experience to enjoy with friends on the same screen or via screenshare. The game runs automatically; the host can pause it, but has no further control over the pacing.
-- **[Start QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Launch a professional live quiz event using the Quizmaster App. This is the **only mode where the quizmaster controls the pacing** of the game.
-- **[Start Conference mode (PRO)](../tutorials/050-conference-booth.md)** — Host a conference-style quiz for larger audiences with assigned seating, team codes, and production tools. Like Party Games, conference games run automatically.
+- **[Стартирай Парти игра](../players/001-playing-quizwitz.md)** - непринудено куиз изживяване с приятели, на един екран или чрез споделяне на екрана. Играта се движи автоматично; водещият може да я постави на пауза, но иначе няма контрол върху темпото.
+- **[Стартирай QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** - професионално живо куиз събитие с Quizmaster App. Това е **единственият режим, в който quizmaster контролира темпото на играта**.
+- **[Стартирай конферентен режим (PRO)](../tutorials/050-conference-booth.md)** - куиз в стил конференция за по-голяма публика, с определени места, кодове за отбори и продукционни инструменти. Също като Парти игрите, конферентните игри вървят автоматично.
 
 ---
 

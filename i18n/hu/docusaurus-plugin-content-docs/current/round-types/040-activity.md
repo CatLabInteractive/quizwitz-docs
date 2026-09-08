@@ -9,7 +9,7 @@ Egy Aktivitás körben elszakadhatsz a hagyományos kvízkérdésektől, és kre
 
 ---
 
-![Game screen for Activity round](/images/round-modes/activity-main-screen.png)
+![Játékképernyő az Aktivitás fordulóhoz](/images/round-modes/activity-main-screen.png)
 
 ---
 
@@ -33,7 +33,7 @@ Egy Aktivitás körben elszakadhatsz a hagyományos kvízkérdésektől, és kre
 
 - **Párbaj eszközök:** A quizmaster gyorsműveleteket érhet el az aktivitás közben, például csengőt, gongot, harangokat és időzítőket.
 - **Egyéni pontok:** A pontokat kézzel is beírhatod minden csapatnak, vagy gyorsművelet-gombokkal kiválaszthatod a nyertest.
-- **Mellékletek:** Adj hozzá képeket, hangot vagy videót az aktivitás elmagyarázásához vagy példák bemutatásához. The quizmaster can display these on the game screen during the activity.
+- **Mellékletek:** Adj hozzá képeket, hangot vagy videót az aktivitás elmagyarázásához vagy példák bemutatásához. A quizmaster ezeket az aktivitás alatt megjelenítheti a játékképernyőn.
 
 ---
 

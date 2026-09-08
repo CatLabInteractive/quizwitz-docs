@@ -21,18 +21,18 @@ title: Стартиране
 
 ---
 
-## 🔐 Connecting with the quizmaster code
+## 🔐 Свързване с quizmaster код
 
-Once launched, your screen will display a **quizmaster code**. **Не споделяй този код с играчите** — той се използва, за да свърже устройството за презентация с играта.
+След стартиране на екрана ти се показва **quizmaster код**. **Не споделяй този код с играчите** — той се използва, за да свърже устройството за презентация с играта.
 
-- Visit [quizwitz.tv](https://quizwitz.tv) on your quizmaster device and enter the quizmaster code.
+- На устройството си за quizmaster отвори [quizwitz.tv](https://quizwitz.tv) и въведи quizmaster кода.
 - Ще се появи **интерфейсът на Quizmaster App**, откъдето управляваш играта.
 - Препоръчваме **таблет или смартфон** за повече мобилност, но и лаптоп върши работа.  
   ![Екран за свързване на QuizWitz PRO](/images/quizwitz-pro-connect-token.png)
 
-After connecting, the quizmaster code disappears from the screen. You’re now ready to show the game screen on a projector or start your livestream.
+След свързването quizmaster кодът изчезва от екрана. Вече си готов да прожектираш екрана на играта или да пуснеш livestream.
 
-> ⚠️ **Heads up!** If the game screen is not actively in focus — for example, if you switch tabs or minimize it — the game will **automatically pause**.  
+> ⚠️ **Внимание!** Ако екранът на играта не е активно на преден план - например смениш раздела или го минимизираш - играта автоматично **влиза в пауза**.  
 > Когато това се случи:
 >
 > - **Quizmaster App също спира на пауза**
@@ -45,7 +45,7 @@ After connecting, the quizmaster code disappears from the screen. You’re now r
 
 След като се свържеш, избери между два режима на игра:
 
-![Quizmaster App - select mode](/images/quizmaster-app-select-mode.png)
+![Quizmaster App - избор на режим](/images/quizmaster-app-select-mode.png)
 
 ### Екипни кодове
 
@@ -68,14 +68,14 @@ After connecting, the quizmaster code disappears from the screen. You’re now r
 Когато използваш **екипни кодове**, първо ще създадеш екипи в Quizmaster App:
 
 - Добави имена на екипи
-- Press **‘Generate Codes’** to create access codes  
-  ![Quizmaster App - create teams](/images/quizmaster-app-create-teams.png)
+- Натисни бутона **‘Generate Codes’**, за да създадеш кодове за достъп  
+  ![Quizmaster App - създаване на отбори](/images/quizmaster-app-create-teams.png)
 
 Можеш също да **резервираш кодове предварително** — повече за това има в раздела със съвети и трикове.
 
 Не забравяй да **запазиш следните кодове**:
 
-- **Quizmaster code** — to control the quiz
+- **Quizmaster код** - за управление на куиза
 - **Jury Code** — за ръчни корекции на резултата
 - **Regie Code** — за управление на визуалните и техническите елементи
 
@@ -83,16 +83,16 @@ After connecting, the quizmaster code disappears from the screen. You’re now r
 
 Когато си готов, кликни върху **‘Зареди куиза’**, изчакай ресурсите да се заредят и после кликни върху **‘Старт’**, за да започнеш.
 
-![Quizmaster App - get team codes](/images/quizmaster-app-create-teams2.png)
+![Quizmaster App - извличане на кодове за отбори](/images/quizmaster-app-create-teams2.png)
 
 ---
 
 ## 👤 Водене с един общ код за игра
 
-With the **Single game code** scheme:
+Със схемата **Споделен код за игра**:
 
-- You’ll receive the quizmaster, jury, and regie codes, plus one game code for players.
-- The game code appears on the game screen — **display or stream it to your audience**.
+- Получаваш quizmaster кода, кода за жури и режисьорския код, плюс един код за игра за играчите.
+- Кодът за игра се показва на екрана на играта - **покажи го или го стриймвай на публиката си**.
 - Играчите могат да се включват по всяко време, докато лимитът ти за активни Seats не бъде достигнат.
 
 Когато играчите вече са вътре:
@@ -108,8 +108,8 @@ With the **Single game code** scheme:
 Преди да започнеш, трябва да провериш наличните си Seats.
 
 - След като избереш режим на игра, ще се появи общ преглед
-- If you need more seats, activate them at [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
-  ![Quizmaster App - activate seats](/images/quizmaster-app-seats.png)
+- Ако ти трябват още seats, активирай ги на [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
+  ![Quizmaster App - активиране на seats](/images/quizmaster-app-seats.png)
 
 ---
 
@@ -117,6 +117,6 @@ With the **Single game code** scheme:
 
 След като настройката е готова, натисни **‘Стартирай куиза’** в Quizmaster App, за да започнеш играта.
 
-![Quizmaster App - start quiz](/images/quizmaster-app-start-quiz.png)
+![Quizmaster App - стартиране на куиза](/images/quizmaster-app-start-quiz.png)
 
 Вече си готов да забавляваш аудиторията си с безпроблемно QuizWitz Live преживяване!
