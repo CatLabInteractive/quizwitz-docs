@@ -34,7 +34,7 @@ A **Többkérdéses** forduló szabadságot ad a játékosoknak (vagy csapatokna
 ## 💡 Tippek
 
 - Kínálj könnyű és nehéz kérdésekből álló keveréket, hogy több stratégiai lehetőség legyen.
-- Használd kreatívan a címkéket — a rejtélyes vagy vicces témák növelhetik az elköteleződést.
+- Use labels creatively - mystery or fun themes can boost engagement.
 - Jutalmazd a kockáztatni szeretőket magasabb pontszámú kérdésekkel.
 
 ---
