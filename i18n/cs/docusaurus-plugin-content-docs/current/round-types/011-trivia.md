@@ -5,7 +5,7 @@ title: Trivia (běžné kolo)
 
 # ❓ Trivia (běžné kolo)
 
-Kolo **Trivia** je klasický, výchozí typ kola v QuizWitz. Všem hráčům nabídne sérii otázek — ideální pro všeobecné znalosti, tematické kvízy nebo zahřívací kola.
+Kolo **Trivia** je klasický, výchozí typ kola v QuizWitz. It presents a series of questions to all players - ideal for general knowledge, themed quizzes, or warm-up rounds.
 
 ---
 
