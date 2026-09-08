@@ -5,7 +5,7 @@ title: क्विज़ बनाएँ
 
 # 🧠 पूरा क्विज़ बनाएँ
 
-प्लेयर्स या इवेंट्स के लिए पूरा क्विज़ अनुभव बनाना चाहते हो? यह गाइड तुम्हें कई राउंड्स का इस्तेमाल करके पूरा क्विज़ बनाने में मदद करती है — इसमें तुम्हारे अपने सवाल या तुम्हारे कलेक्ट किए हुए Round-Abouts भी शामिल हो सकते हैं।
+प्लेयर्स या इवेंट्स के लिए पूरा क्विज़ अनुभव बनाना चाहते हो? This guide walks you through creating a full quiz using multiple rounds - including your own questions or Round-Abouts you've collected.
 
 ---
 
@@ -23,7 +23,7 @@ title: क्विज़ बनाएँ
 ## ✏️ शीर्षक और भाषा
 
 अपने क्विज़ को एक शीर्षक दें और मुख्य भाषा चुनें।  
-ज़रूरत हो तो बाद में **अनुवाद** जोड़ सकते हो — सब कुछ पहले से तय करने की ज़रूरत नहीं है।
+You can add **translations** later if needed - no need to decide everything upfront.
 
 ---
 
@@ -53,8 +53,8 @@ title: क्विज़ बनाएँ
 
 हर राउंड के अपने नियम और फ़ॉर्मैट हो सकते हैं। एडवांस्ड गाइड्स में और जानें:
 
-- [राउंड के प्रकार](../round-types/000-round-types.md) — कॉन्फ़िगर करें कि राउंड कैसे काम करता है (जैसे, लाइटनिंग राउंड, पज़ल राउंड)
-- [सवालों के प्रकार](../question-types/000-question-types.md) — हर सवाल का फ़ॉर्मैट और स्कोरिंग एडजस्ट करें
+- [Round types](../round-types/000-round-types.md) - Configure how a round behaves (e.g., lightning round, puzzle round)
+- [Question types](../question-types/000-question-types.md) - Adjust the format and scoring for each question
 
 ---
 
@@ -66,7 +66,7 @@ title: क्विज़ बनाएँ
 - कभी भी **टेस्ट करें और खेलें**
 - शेयर करने के लिए तैयार होने पर अपना क्विज़ **प्रकाशित करें**
 
-> 📢 क्विज़ प्रकाशित करने के लिए, उसमें **कम से कम 14 सवाल** होने चाहिए। प्रकाशित होने के बाद, यह कम्युनिटी के लिए उपलब्ध हो जाता है — लेकिन ज़रूरत पड़ने पर तुम इसे बाद में अनपब्लिश कर सकते हो।
+> 📢 क्विज़ प्रकाशित करने के लिए, उसमें **कम से कम 14 सवाल** होने चाहिए। Once published, it becomes available to the community - but you can unpublish it later if needed.
 
 > 📝 **प्रकाशित करना पूरी तरह वैकल्पिक है।** तुम किसी भी क्विज़ या Round-About को प्रकाशित किए बिना निजी तौर पर खेल सकते हो। यह निजी इस्तेमाल, टेस्टिंग या प्राइवेट इवेंट्स के लिए बढ़िया है।
 
@@ -78,9 +78,9 @@ title: क्विज़ बनाएँ
 
 ![क्विज़ प्लेलिंक्स](/images/quiz-playlinks.png)
 
-- **[पार्टी गेम शुरू करो](../players/001-playing-quizwitz.md)** - दोस्तों के साथ आरामदेह क्विज़ अनुभव, एक स्क्रीन पर या स्क्रीन शेयरिंग के ज़रिए। गेम अपने आप चलता है; होस्ट इसे रोक सकता है, लेकिन उसके अलावा रफ़्तार पर उसका कोई नियंत्रण नहीं होता।
-- **[QuizWitz Live शुरू करो (PRO)](../quizmaster/001-introduction.md)** - Quizmaster ऐप के साथ पेशेवर लाइव क्विज़ इवेंट। यह **इकलौता ऐसा मोड है जिसमें गेम की रफ़्तार क्विज़मास्टर तय करता है**।
-- **[कॉन्फ़्रेंस मोड शुरू करो (PRO)](../tutorials/050-conference-booth.md)** - बड़ी ऑडियंस के लिए कॉन्फ़्रेंस-शैली का क्विज़, तय सीटों, टीम कोड और प्रोडक्शन टूल के साथ। पार्टी गेम की तरह, कॉन्फ़्रेंस गेम अपने आप चलते हैं।
+- **[Play Party Game](../players/001-playing-quizwitz.md)** - A casual quiz experience to enjoy with friends on the same screen or via screenshare. गेम अपने आप चलता है; होस्ट इसे रोक सकता है, लेकिन उसके अलावा रफ़्तार पर उसका कोई नियंत्रण नहीं होता।
+- **[Start QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** - Launch a professional live quiz event using the Quizmaster App. यह **इकलौता ऐसा मोड है जिसमें गेम की रफ़्तार क्विज़मास्टर तय करता है**।
+- **[Start Conference mode (PRO)](../tutorials/050-conference-booth.md)** - Host a conference-style quiz for larger audiences with assigned seating, team codes, and production tools. पार्टी गेम की तरह, कॉन्फ़्रेंस गेम अपने आप चलते हैं।
 
 ---
 
@@ -88,8 +88,8 @@ title: क्विज़ बनाएँ
 
 पूरे क्विज़ का रन-थ्रू सिम्युलेट करना चाहते हो? एडवांस्ड टेस्टिंग टूल्स का इस्तेमाल करें:
 
-- **Simulate** — बॉट्स के साथ टेस्ट प्लेथ्रू चलाएँ (कोई प्रेज़ेंटेशन नहीं)
-- **Simulate Live** — बॉट्स के साथ पूरा [QuizWitz Live](../quizmaster/001-introduction.md) सेशन सिम्युलेट करें, जिसमें Quizmaster, जूरी और प्लेयर व्यूज़ शामिल हैं
+- **Simulate** - Run a test playthrough with bots (no presentation)
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) session with bots, including Quizmaster, Jury, and Player views
 
 ---
 
