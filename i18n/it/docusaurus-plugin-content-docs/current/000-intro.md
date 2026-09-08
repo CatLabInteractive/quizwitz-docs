@@ -13,7 +13,7 @@ title: Introduzione
 - Ospitare eventi quiz professionali con strumenti live
 - Creare i tuoi quiz, round, playlist e altro ancora
 
-Che tu sia qui per rilassarti, presentare o creare — abbiamo tutto quello che ti serve.
+Whether you're here to relax, present, or build - we've got you covered.
 
 Prenditi un momento per esplorare i diversi ruoli e strumenti disponibili. Ci vorrà solo un minuto.
 
@@ -23,11 +23,11 @@ Prenditi un momento per esplorare i diversi ruoli e strumenti disponibili. Ci vo
 
 Questa guida è divisa in sezioni in base a come usi QuizWitz:
 
-- [**Guida del giocatore**](players/001-playing-quizwitz.md) — Scopri come raccogliere, giocare e divertirti con i quiz
-- [**Guida del Quizmaker**](editor/002-for-the-quizmakers.md) — Crea le tue domande, i tuoi round e quiz completi
-- [**Guida del quizmaster**](quizmaster/001-introduction.md) — Ospita una partita live usando QuizWitz Live
+- [**Player Guide**](players/001-playing-quizwitz.md) - Learn how to collect, play, and enjoy quizzes
+- [**Quizmaker Guide**](editor/002-for-the-quizmakers.md) - Build your own questions, rounds, and full quizzes
+- [**Quizmaster Guide**](quizmaster/001-introduction.md) - Host a live game using QuizWitz Live
 
-Esplora le sezioni più adatte al tuo ruolo — o tutte, se sei curioso!
+Explore the sections that fit your role - or all of them if you're curious!
 
 ---
 
