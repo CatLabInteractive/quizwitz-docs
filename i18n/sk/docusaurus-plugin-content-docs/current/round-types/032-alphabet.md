@@ -5,8 +5,8 @@ title: Abeceda
 
 # 🔤 Abeceda
 
-Kolo **Abeceda** je [Tradičné kolo](030-traditional.md) s malým zvratom — každej otázke je priradené jedinečné označenie
-a hráči musia priradiť svoje odpovede k správnym označeným poliam. Toto kolo odmeňuje vedomosti aj dedukciu!
+An **Alphabet** round is a [Traditional round](030-traditional.md) with a twist - each question is assigned a unique label,
+and players must match their answers to the correct labeled fields. Toto kolo odmeňuje vedomosti aj dedukciu!
 
 ---
 
@@ -27,10 +27,10 @@ a hráči musia priradiť svoje odpovede k správnym označeným poliam. Toto ko
 
 ## 📝 Ako to funguje
 
-- Keď sa otázky kladú, hráči vidia zoznam polí na odpovede — jedno pre každú otázku.
-- **Polia na odpovede nie sú v poradí kvízu** — namiesto toho sú zoradené abecedne podľa označenia.
+- As questions are asked, players see a list of answer fields - one for each question.
+- **The answer fields are not in quiz order** - instead, they’re sorted alphabetically by label.
 - Hráči musia priradiť svoje odpovede k správnym označeným poliam (napr. odpoveď na otázku "Medveď" musí byť zadaná pod označením "M").
-- Odpovede je možné meniť kedykoľvek, kým sa kolo neskončí — hráči môžu presúvať odpovede medzi poľami, keď si uvedomia svoje chyby.
+- Answers can be changed at any time until the round finishes - players can switch answers between fields as they realize their mistakes.
 
 ---
 
