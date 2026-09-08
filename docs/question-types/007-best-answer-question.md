@@ -6,7 +6,7 @@ title: Best answer question
 # 🎖️ Best answer question
 
 In the **Best answer question** type, players write their own answers to an open-ended question.  
-Points are awarded either manually by the quizmaster, or - if there is no quizmaster - by having players vote for their favorite response.
+Points are awarded either manually by the quizmaster, or—if there is no quizmaster—by having players vote for their favorite response.
 
 ---
 
