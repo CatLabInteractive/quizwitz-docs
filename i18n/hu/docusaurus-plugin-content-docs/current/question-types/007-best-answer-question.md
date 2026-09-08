@@ -14,17 +14,17 @@ A pontokat vagy manuálisan a quizmaster osztja ki, vagy – ha nincs quizmaster
 
 - **A játékosok válaszolnak:** Minden játékos beírja a válaszát a nyitott kérdésre.
 - **Pontozás:**
-  - In **QuizWitz Live** (with a quizmaster), the quizmaster reviews all answers and assigns points to the best one(s).
-  - In games without a quizmaster (Party Game, Conference mode), players vote for the answer they think is best. A legtöbb szavazatot kapó válasz(ok) kapják a pontokat.
+  - **QuizWitz Live-ban** (quizmasterrel) a quizmaster nézi át az összes választ, és a legjobbnak vagy legjobbaknak ad pontot.
+  - Quizmaster nélküli játékokban (Party játék, konferencia mód) a játékosok szavaznak arra a válaszra, amelyet a legjobbnak tartanak. A legtöbb szavazatot kapó válasz(ok) kapják a pontokat.
 
 ---
 
 ## 💡 Tippek a legjobb válasz kérdésekhez
 
 - Használj kreatív, nyitott kérdéseket, amelyek eredeti vagy vicces válaszokra ösztönöznek.
-- In QuizWitz Live, the quizmaster can award points for creativity, accuracy, or humor.
-- In games without a quizmaster, voting encourages players to read each other's answers and adds a fun social element.
+- QuizWitz Live-ban a quizmaster kreativitásért, pontosságért vagy humorért is adhat pontot.
+- Quizmaster nélküli játékokban a szavazás arra ösztönzi a játékosokat, hogy elolvassák egymás válaszait, és jó kis közösségi élményt ad.
 
 ---
 
-> 📚 For more on how voting or manual scoring works, see the [Jury App documentation](../quizmaster/004-jury-app.md).
+> 📚 A szavazásról és a kézi pontozásról bővebben lásd a [zsűri app dokumentációját](../quizmaster/004-jury-app.md).
