@@ -3,9 +3,9 @@ id: startup
 title: Start-up
 ---
 
-# 🚀 Start-up — Ein Quiz mit QuizWitz Live veranstalten
+# 🚀 Start-up - Hosting a Quiz with QuizWitz Live
 
-Willkommen bei QuizWitz Live — die professionelle Art, Quizze für Teams, Livestreams und Präsenzveranstaltungen zu veranstalten. Folge dieser Anleitung, um dein Quiz mit der Quizmaster-App zum Laufen zu bringen.
+Welcome to QuizWitz Live - the professional way to host quizzes for teams, livestreams, and in-person events. Folge dieser Anleitung, um dein Quiz mit der Quizmaster-App zum Laufen zu bringen.
 
 ---
 
@@ -23,7 +23,7 @@ Du kannst ein QuizWitz Live-Spiel aus dem Quiz-Editor oder direkt aus deiner Qui
 
 ## 🔐 Verbindung mit dem Quizmaster-Code
 
-Einmal gestartet, zeigt dein Bildschirm einen **Quizmaster-Code** an. **Teile diesen Code nicht mit den Spielern** – er dient dazu, dein Präsentationsgerät mit dem Spiel zu verbinden.
+Einmal gestartet, zeigt dein Bildschirm einen **Quizmaster-Code** an. **Do not share this code with players** - it's used to connect your presentation device to the game.
 
 - Besuche [quizwitz.tv](https://quizwitz.tv) auf deinem Quizmaster-Gerät und gib den Quizmaster-Code ein.
 - Die **Quizmaster-App-Oberfläche** erscheint, mit der du das Spiel steuerst.
@@ -32,7 +32,7 @@ Einmal gestartet, zeigt dein Bildschirm einen **Quizmaster-Code** an. **Teile di
 
 Nach der Verbindung verschwindet der Quizmaster-Code vom Bildschirm. Du bist jetzt bereit, den Spielbildschirm auf einem Projektor zu zeigen oder deinen Livestream zu starten.
 
-> ⚠️ **Achtung!** Wenn der Spielbildschirm nicht aktiv im Fokus ist — zum Beispiel wenn du zwischen Tabs wechselst oder ihn minimierst — pausiert das Spiel **automatisch**.  
+> ⚠️ **Heads up!** If the game screen is not actively in focus - for example, if you switch tabs or minimize it - the game will **automatically pause**.  
 > Wenn das passiert:
 >
 > - Die **Quizmaster-App pausiert ebenfalls**
@@ -51,13 +51,13 @@ Sobald du verbunden bist, wähle zwischen zwei Spielmodi:
 
 - Jedes Team erhält einen **einzigartigen Code**, der auf mehreren Geräten geöffnet werden kann.
 - Am besten für **vorregistrierte Team-Quizze**, bei denen die Teamnamen im Voraus bekannt sind.
-- Erlaubt Gerätewechsel — hilfreich, wenn mitten im Quiz der Akku leer wird.
+- Allows device switching - helpful if a battery dies mid-quiz.
 
 ### Geteilter Spielcode
 
 - Alle treten mit **einem gemeinsamen Spielcode** bei.
 - Ideal für zwanglose oder offene Events.
-- Keine Voranmeldung nötig — Spieler können jederzeit beitreten, bis alle aktiven Seats belegt sind.
+- No pre-registration required - players can join anytime, until all active seats are filled.
 
 > Stelle sicher, dass du eingeloggt bist, um auf deine Quizinhalte zuzugreifen.
 
@@ -71,13 +71,13 @@ Wenn du **Team-Codes** benutzt, erstellst du zuerst Teams in der Quizmaster-App:
 - Drücke **Code generieren** um Zugangscodes  
   zu erstellen![Quizmaster-App - Teams erstellen](/images/quizmaster-app-create-teams.png)
 
-Du kannst auch **Codes im Voraus reservieren** — mehr dazu im Tipps & Tricks Abschnitt.
+You can also **reserve codes in advance** - more on that in the tips & tricks section.
 
 Speichere unbedingt die folgenden Codes:
 
-- **Quizmaster-Code** — um das Quiz zu steuern
-- **Jury-Code** — für manuelle Punktanpassungen
-- **Regie-Code** — zur Steuerung von visuellen und technischen Elementen
+- **Quizmaster code** - to control the quiz
+- **Jury Code** - for manual score adjustments
+- **Regie Code** - to control visual and technical elements
 
 Sende Team-Codes per E-Mail oder als Ausdruck an deine Spieler.
 
@@ -92,7 +92,7 @@ Wenn bereit, klicke **‘Quiz laden’**, warte, bis alles geladen ist, und klic
 Mit dem Schema **Geteilter Spielcode**:
 
 - Du erhältst den Quizmaster-Code, den Jury-Code und den Regie-Code sowie einen Spielcode für die Spieler.
-- Der Spielcode erscheint auf dem Spielbildschirm — **zeige ihn an dein Publikum**.
+- The game code appears on the game screen - **display or stream it to your audience**.
 - Spieler können jederzeit beitreten, bis deine aktiven Seats voll sind.
 
 Sobald deine Spieler angemeldet sind:
