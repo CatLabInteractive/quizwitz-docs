@@ -5,7 +5,7 @@ title: Обща нишка
 
 # 🧵 Обща нишка
 
-Рундът **Обща нишка** е специална вариация на класическия рунд с любопитни въпроси. В този рунд играчите отговарят на поредица от обикновени въпроси, но уловката е, че всички отговори са тайно свързани от една основна тема или връзка — „общата нишка“.
+Рундът **Обща нишка** е специална вариация на класическия рунд с любопитни въпроси. In this round, players answer a series of regular questions, but the twist is that all answers are secretly connected by a single underlying theme or link - the “common thread.”
 
 ---
 
