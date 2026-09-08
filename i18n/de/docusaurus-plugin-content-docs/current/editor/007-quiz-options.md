@@ -35,19 +35,19 @@ Wähle ein visuelles Theme für dein Quiz aus.
 
 Verleihe deinem Quiz mit Bildern, Audio oder Video in bestimmten Slots mehr Ausdruck:
 
-- **Vor dem Quiz** — Wird beim Start des Quiz angezeigt
-- **Nach dem Quiz** — Wird nach dem Ergebnisbildschirm abgespielt
-- **Kundenlogo / alternatives Logo** — Wird während der gesamten Quiz-Oberfläche angezeigt
-- **Wartebildschirm** — Wird zwischen den Fragen in Live-Spielen angezeigt (1920×1080 Bild empfohlen)
-- **Hintergrund** — Optionaler Hintergrundersatz (abhängig vom Theme)
-- **Verbindungsbildschirm** — Verwendet in den Modi [Live](../quizmaster/001-introduction.md) und [Konferenz](../tutorials/conference-booth):
-  - **Bilder** — Vollbild-Hintergrundbilder
-  - **Audio** — Schleifenmusik (max. 15 Min.)
-  - **Video** — Wird alle 5 Minuten abgespielt, nützlich für Werbung oder Anweisungen
+- **Before quiz** - Shown when the quiz starts
+- **After quiz** - Played after the final results screen
+- **Client logo / alternative logo** - Displayed throughout the quiz interface
+- **Wait screen** - Displayed between questions in live games (1920×1080 image recommended)
+- **Background** - Optional background replacement (depends on theme)
+- **Connect screen** - Used in [Live](../quizmaster/001-introduction.md) and [Conference](../tutorials/conference-booth) modes:
+  - **Images** - Fullscreen background visuals
+  - **Audio** - Looped music (max 15 min)
+  - **Video** - Played every 5 minutes, useful for ads or instructions
 
 🎥 Du kannst unsere [fertigen Anleitungsvideos](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) nutzen, um Spielern den Einstieg zu erleichtern.
 
-- **Outro während des Spiels** — (nur Audio) Wird über dem Gewinnerbildschirm abgespielt
+- **During game outro** - (Audio only) Plays over the winner reveal screen
 
 📘 Für technische Details und Empfehlungen sieh die [Anhänge-Anleitung](../editor/006-attachments.md) an.
 
@@ -57,12 +57,12 @@ Verleihe deinem Quiz mit Bildern, Audio oder Video in bestimmten Slots mehr Ausd
 
 Optionale Einstellungen zur Anpassung des Spielablaufs und der Sichtbarkeit:
 
-- **Mehrspieler aktivieren** — Standardmäßig AN. Ermöglicht Spielen als Gruppe mit Freunden
-- **Zufällige Rundenreihenfolge** — Mischt die Reihenfolge der Runden
+- **Enable multiplayer** - Default ON. Ermöglicht Spielen als Gruppe mit Freunden
+- **Random round order** - Shuffle the order of rounds
   > ⚠️ Nicht empfohlen bei Vorbereitung auf [QuizWitz Live](../quizmaster/001-introduction.md)
-- **Benutzern erlauben, Fragen zu bewerten** — Spieler können nach einer Runde jede Frage bewerten
-- **Kommentare aktivieren** — Ermöglicht Feedback nach der Veröffentlichung
-- **Beschleunigen, wenn alle geantwortet haben** — Ist diese Option aktiviert, springt das Spiel vor, wenn alle Spieler geantwortet haben
+- **Allow users to rate questions** - Lets players rate each question after a round
+- **Enable comments** - Allow feedback after publishing
+- **Speed up when all answered** - If enabled, the game skips ahead when all players have answered
   > ⏱️ Empfohlen bei Verwendung von **zeitbasierter Wertung**
 
 ---
