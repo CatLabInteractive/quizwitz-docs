@@ -6,7 +6,8 @@ title: Dealer's Choice
 # 🃏 Dealer's Choice
 
 A QuizWitz **Dealer's Choice** fordulója stratégiai csavart visz a kvízedbe.
-Az egyik játékos **kiválaszthatja a következő kérdés kategóriáját**, ami előnyt adhat neki – és akár bónuszt is! Így állíthatod be és játszhatod:
+One of the players gets to **choose the next question category**, giving them a potential
+edge - and possibly a bonus! Így állíthatod be és játszhatod:
 
 ---
 
@@ -25,10 +26,10 @@ A Dealer's Choice forduló minden kérdéséhez kell egy **egyedi címke**, amel
 
 Például:
 
-- `Állatok – Könnyű`
-- `Állatok – Nehéz`
-- `Történelem – Érdekességek`
-- `Filmek – Akcióklasszikusok`
+- `Animals - Easy`
+- `Animals - Hard`
+- `History - Fun Facts`
+- `Movies - Action Classics`
 
 > Még ha a kérdéseknek van is közös témájuk, a címkéik akkor is legyenek egyediek, hogy a játékosok egyértelműen felismerhessék és kiválaszthassák őket.
 
