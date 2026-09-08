@@ -35,19 +35,19 @@ title: क्विज़ विकल्प
 
 अपनी क्विज़ को खास स्लॉट्स में विज़ुअल, ऑडियो या वीडियो से बेहतर बनाएँ:
 
-- **क्विज़ से पहले** — क्विज़ शुरू होने पर दिखाया जाता है
-- **क्विज़ के बाद** — अंतिम परिणाम स्क्रीन के बाद चलाया जाता है
-- **क्लाइंट लोगो / वैकल्पिक लोगो** — पूरी क्विज़ इंटरफ़ेस में दिखाया जाता है
-- **वेट स्क्रीन** — लाइव गेम्स में सवालों के बीच दिखाई जाती है (1920×1080 इमेज सुझाई गई है)
-- **बैकग्राउंड** — वैकल्पिक बैकग्राउंड बदलाव (थीम पर निर्भर करता है)
-- **कनेक्ट स्क्रीन** — [Live](../quizmaster/001-introduction.md) और [Conference](../tutorials/conference-booth) मोड्स में इस्तेमाल होती है:
-  - **इमेज** — फ़ुलस्क्रीन बैकग्राउंड विज़ुअल्स
-  - **ऑडियो** — लूप में चलने वाला संगीत (अधिकतम 15 मिनट)
-  - **वीडियो** — हर 5 मिनट में चलाया जाता है, विज्ञापनों या निर्देशों के लिए उपयोगी
+- **Before quiz** - Shown when the quiz starts
+- **After quiz** - Played after the final results screen
+- **Client logo / alternative logo** - Displayed throughout the quiz interface
+- **Wait screen** - Displayed between questions in live games (1920×1080 image recommended)
+- **Background** - Optional background replacement (depends on theme)
+- **Connect screen** - Used in [Live](../quizmaster/001-introduction.md) and [Conference](../tutorials/conference-booth) modes:
+  - **Images** - Fullscreen background visuals
+  - **Audio** - Looped music (max 15 min)
+  - **Video** - Played every 5 minutes, useful for ads or instructions
 
 🎥 खिलाड़ियों को कनेक्ट करने में मदद करने के लिए आप हमारे [तैयार निर्देशात्मक वीडियो](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) इस्तेमाल कर सकते हैं।
 
-- **गेम के दौरान आउट्रो** — (सिर्फ़ ऑडियो) विजेता दिखाने वाली स्क्रीन पर चलता है
+- **During game outro** - (Audio only) Plays over the winner reveal screen
 
 📘 तकनीकी जानकारी और सुझावों के लिए [अटैचमेंट्स गाइड](../editor/006-attachments.md) देखें।
 
@@ -57,12 +57,12 @@ title: क्विज़ विकल्प
 
 गेमप्ले और विज़िबिलिटी को कस्टमाइज़ करने के लिए वैकल्पिक सेटिंग्स:
 
-- **मल्टीप्लेयर सक्षम करें** — डिफ़ॉल्ट रूप से चालू। दोस्तों के साथ पार्टी प्ले की सुविधा देता है
-- **राउंड का रैंडम क्रम** — राउंड्स के क्रम को शफ़ल करें
+- **Enable multiplayer** - Default ON. दोस्तों के साथ पार्टी प्ले की सुविधा देता है
+- **Random round order** - Shuffle the order of rounds
   > ⚠️ [QuizWitz Live](../quizmaster/001-introduction.md) के लिए तैयारी करते समय सुझाया नहीं जाता
-- **उपयोगकर्ताओं को सवाल रेट करने दें** — खिलाड़ियों को हर राउंड के बाद प्रत्येक सवाल रेट करने देता है
-- **टिप्पणियाँ सक्षम करें** — पब्लिश करने के बाद फ़ीडबैक की अनुमति दें
-- **सभी के जवाब देने पर तेज़ करें** — सक्षम होने पर, सभी खिलाड़ियों के जवाब दे देने के बाद गेम आगे स्किप कर जाता है
+- **Allow users to rate questions** - Lets players rate each question after a round
+- **Enable comments** - Allow feedback after publishing
+- **Speed up when all answered** - If enabled, the game skips ahead when all players have answered
   > ⏱️ **समय-आधारित स्कोरिंग** इस्तेमाल करते समय सुझाया गया
 
 ---
