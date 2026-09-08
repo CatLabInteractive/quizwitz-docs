@@ -23,9 +23,9 @@ Each page explains when these attachments are shown during gameplay.
 
 Here is a general (non-exhaustive) list of compatible formats:
 
-- **Images** - `.png`, `.jpeg`, `.gif` (non-animated). Full HD (1920×1080) recommended
-- **Audio** - Most standard formats are supported
-- **Video** - Most standard formats are supported
+- **Images** — `.png`, `.jpeg`, `.gif` (non-animated). Full HD (1920×1080) recommended
+- **Audio** — Most standard formats are supported
+- **Video** — Most standard formats are supported
 
 > 🔊 ⏱️ Audio and video attachments should be **no longer than 15 minutes** in duration.
 
@@ -35,8 +35,8 @@ Here is a general (non-exhaustive) list of compatible formats:
 
 Each attachment can have a name and optional attribution:
 
-- **Name** - Displayed to the quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); helps in organizing attachments
-- **Attribution** - Shown to players as credit or source information. This should be the **name of the rights holder**.
+- **Name** — Displayed to the quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); helps in organizing attachments
+- **Attribution** — Shown to players as credit or source information. This should be the **name of the rights holder**.
 
 > ⚠️ In order to **publish** a Round-About or Quiz, **all attachments must have a valid attribution** filled in. Without this, your entry cannot be made public.
 
@@ -47,8 +47,8 @@ Each attachment can have a name and optional attribution:
 
 Some attachment slots support **effects** to reveal visuals more gradually:
 
-- **None** - The file is shown as-is
-- **Spotlight effect** - Gradually reveals parts of the image over time with a moving spotlight that expands as it progresses
+- **None** — The file is shown as-is
+- **Spotlight effect** — Gradually reveals parts of the image over time with a moving spotlight that expands as it progresses
 
 This is especially effective for puzzles or slow reveals during intros or dramatic moments.
 
