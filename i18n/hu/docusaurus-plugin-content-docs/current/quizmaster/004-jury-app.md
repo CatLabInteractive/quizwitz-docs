@@ -1,27 +1,27 @@
 ---
 id: jury-app
-title: Jury App
+title: Zsűri app
 ---
 
-# 🧑‍⚖️ Jury App — Reviewing open answers in QuizWitz Live
+# 🧑‍⚖️ Zsűri app - nyílt válaszok átnézése QuizWitz Live-ban
 
-If your quiz includes **open answer questions**, you'll need to use the **Jury App** to manually review and score responses.
+Ha a kvízedben vannak **nyílt válaszos kérdések**, a válaszok kézi átnézéséhez és pontozásához a **zsűri appot** kell használnod.
 
 ---
 
-## 🗂️ Using the Jury App
+## 🗂️ A zsűri app használata
 
-The Jury App is a separate interface used by jury members to evaluate answers and manage scoring.
+A zsűri app egy külön felület, amelyet a zsűritagok a válaszok értékelésére és a pontozás kezelésére használnak.
 
-To open the Jury App:
+A zsűri app megnyitása:
 
 1. A kvíz elején létrejön egy **Jury Code**.
-2. On a separate device, go to [**quizwitz.tv**](https://quizwitz.tv)
+2. Egy másik eszközön menj a [**quizwitz.tv**](https://quizwitz.tv) oldalra
 3. Add meg a **Jury Code**-ot az app eléréséhez
 
-> 💡 You can open the Jury App on any browser — it's a web app, no installation required.
+> 💡 A zsűri appot bármelyik böngészőben megnyithatod - webalkalmazás, nem kell telepíteni.
 
-Once inside, the Jury App provides several useful tools:
+Odabent a zsűri app több hasznos eszközt kínál:
 
 - **Kérdések értékelése** — A nyílt kérdések eredményei akkor jelennek meg, amikor egy kérdés lezárult.
   - A játék **nem várja meg**, amíg a zsűri végez — kivéve, ha ez a **forduló utolsó kérdése**, vagy a kvíz beállításai mást írnak elő.
@@ -34,19 +34,19 @@ Once inside, the Jury App provides several useful tools:
 
 - **Jelentés** — Készíts teljes játékjelentést eredményekkel és játékosválaszokkal.
 
-![Screenshot of the Jury App in Pending state](/images/jury-app-waiting.png)
+![Képernyőkép a zsűri appról várakozó állapotban](/images/jury-app-waiting.png)
 
 ---
 
 ## ✅ Nyílt kérdések értékelése
 
-After each open question, the Jury App displays all submitted answers. A zsűritagoknak ezt kell tenniük:
+Minden nyílt kérdés után a zsűri app megjeleníti az összes beadott választ. A zsűritagoknak ezt kell tenniük:
 
 1. Nézzenek át minden választ alaposan
 2. Pipálják be a jelölőnégyzetet minden **elfogadható** válasz mellett
 3. Kattintsanak a **„Confirm”** gombra az eredmények véglegesítéséhez
 
-![Screenshot of the Jury App in the Judging state](/images/jury-app-judging.png)
+![Képernyőkép a zsűri appról értékelő állapotban](/images/jury-app-judging.png)
 
 A QuizWitz **automatikusan felismeri a pontos egyezéseket**, és helyesként jelöli őket. A zsűritagok feladata átnézni:
 
@@ -58,4 +58,4 @@ A QuizWitz **automatikusan felismeri a pontos egyezéseket**, és helyesként je
 
 ---
 
-With the Jury App, you can fairly assess open responses, adjust scores, and ensure a balanced quiz experience for all players.
+A zsűri appal igazságosan értékelheted a nyílt válaszokat, módosíthatod a pontokat, és minden játékosnak kiegyensúlyozott kvízélményt biztosíthatsz.
