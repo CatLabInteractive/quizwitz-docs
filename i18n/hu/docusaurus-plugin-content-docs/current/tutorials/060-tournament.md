@@ -5,7 +5,7 @@ title: Verseny
 
 # Verseny
 
-Ez az útmutató megmutatja, hogyan használd a QuizWitz Verseny módját. A Verseny mód lehetővé teszi, hogy a játékosok akkor csatlakozzanak és játsszanak a kvízeddel, amikor csak szeretnének — a saját eszközükön. A pontszámaik egy globális ranglistán lesznek rögzítve, amelyet megjeleníthetsz a helyszíneden.
+Ez az útmutató megmutatja, hogyan használd a QuizWitz Verseny módját. Tournament mode lets players join and play your quiz whenever they want - on their own device. A pontszámaik egy globális ranglistán lesznek rögzítve, amelyet megjeleníthetsz a helyszíneden.
 
 ---
 
@@ -16,7 +16,7 @@ Versenykvíz készítésekor legyen rövid és izgalmas. Ha a látogatóknak tú
 
 ### 🎲 Véletlenszerű kérdésválasztás
 
-Állítsd be, hogy a játék véletlenszerű kérdéscsomagot válasszon a készletedből, így minden végigjátszás egyedi lesz — a visszatérő játékosok pedig más kérdéseket kapnak.
+Make the game select a random set of questions from your pool, so every playthrough feels unique - and returning players get different questions.
 
 **Beállítási példa:**
 
@@ -43,8 +43,8 @@ A versenyeket csak a **Speciális játékbeállítások** menüből lehet elind�
 
 Most két linket kapsz:
 
-- **Játékoslink** — Oszd meg ezt a játékosaiddal (vagy hagyd, hogy beolvassák a QR-kódot a ranglistáról).
-- **Ranglistalink** — Nyisd meg ezt egy kijelzőn a helyszíneden, hogy megjelenjen az élő rangsor és a QR-kód, amelyet a játékosok beolvashatnak a csatlakozáshoz.
+- **Player link** - Share this with your players (or let them scan the QR code from the leaderboard).
+- **Leaderboard link** - Open this on a display at your venue to show the live rankings and the QR code players can scan to join.
 
 ---
 
@@ -65,6 +65,6 @@ Amint az első játékosok befejezik a játékaikat, a pontszámaik élőben meg
 
 ## 📧 E-mailes megerősítés
 
-Kapsz egy e-mailt is, amely tartalmazza a játékos- és ranglistalinket is — praktikus, hogy ne veszítsd el őket!
+You'll also get an email containing both the player and leaderboard links - handy so you don't lose them!
 
 ![Képernyőkép a verseny e-mailről](/images/tutorials/tournament/tournament-email.png)
