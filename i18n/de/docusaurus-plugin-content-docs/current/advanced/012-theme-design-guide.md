@@ -13,7 +13,7 @@ Sie richtet sich an Grafikdesigner und geht davon aus, dass Design und Animate-P
 Wenn du nur Farben, Schriften und Hintergründe ändern möchtest, brauchst du nichts davon - passe stattdessen das [Emerald-Theme](/docs/advanced/emerald-theme) an.
 :::
 
-:::info[See it running]
+:::info[In Aktion ansehen]
 Jeder hier beschriebene Bildschirm lässt sich mit Beispieldaten live im **Theme-Tester** unter [client.quizwitz.com/test.html](https://client.quizwitz.com/test.html) durchspielen. Er lädt ein Theme und bietet ein Menü mit Testbildschirmen: Fragen mit und ohne Anhang, die Antwortverteilung für eine kleine und eine große Gruppe, die Rangliste, die Runden-Intros, den Verbindungsbildschirm mit und ohne Kundenlogo und so weiter. Hänge `?theme=emerald` an die Adresse an, um das [Emerald-Theme](/docs/advanced/emerald-theme) zu sehen. Wer das Theme baut, prüft es während des Zusammenbaus auf derselben Seite.
 :::
 
@@ -249,7 +249,7 @@ Daraus folgt:
 - **Die Fragendauer steht nicht fest.** Sie wird pro Quiz eingestellt - oft zwanzig bis dreißig Sekunden, sie kann aber kürzer oder länger sein. Deine Animation wird gedehnt oder gestaucht, damit sie passt. Gestalte einen _Verlauf_, keine Animation über eine feste Sekundenzahl.
 - **Keine Zahlen und keine Ticks pro Sekunde.** Ein Timer, der „20, 19, 18…“ herunterzählt, stimmt nicht mehr, sobald sich die Dauer ändert.
 - **Die letzten Sekunden sind der spannendste Moment des Spiels.** Es hilft, wenn der Verlauf zum Ende hin deutlicher oder drängender wird.
-- **Auf einen Blick von der Rückseite des Zimmers**.
+- **Aus der letzten Reihe lesbar**, auf einen Blick.
 - **Mehrere Timer sind erlaubt.** Ein Balken oben und ein Ring bei der Frage werden beide angesteuert, solange jeder `timer` heißt.
 
 Liefere den Timer als Folge von Keyframes oder als Beschreibung des Verlaufs - „der Balken läuft von rechts nach links leer und wechselt von Grün zu Rot“ genügt.
