@@ -17,9 +17,9 @@ If you only want to change colours, fonts and backgrounds, you do not need any o
 
 ## What you are designing
 
-QuizWitz is played by a room. There are always two screens in play:
+A game of QuizWitz is played by a whole room at once, and two screens are always involved:
 
-- **The shared screen** — a beamer or TV, 1920 × 1080. Questions, answers, the spread of given answers, the standings. This is what you design.
+- **The shared screen** — a projector or TV, 1920 × 1080. Questions, answers, how the room's answers were spread, the standings. This is what you design.
 - **Each player's phone**, where they type their answer. That is a web page with a fixed layout; it is styled from your colours and fonts, not laid out by you.
 
 A theme is the complete visual skin of the shared screen: background, typography, colour, the way a question with four options is presented, how the standings build up, how a round is announced.
@@ -28,11 +28,11 @@ A theme is the complete visual skin of the shared screen: background, typography
 
 ## Seven frames
 
-The game has roughly twenty-five screen situations, but most are variants of the same layout. **You design seven frames; the rest is derived from them.** That is not a shortcut — it is how the engine works. A screen with no artwork of its own falls back to a general frame.
+The game has roughly twenty-five distinct screen states, but most are variants of the same layout. **You design seven frames; the rest is derived from them.** That is not a shortcut — it is how the engine works. A screen with no artwork of its own falls back to a general frame.
 
 | # | Frame | What is on it | What is derived from it |
 |---|---|---|---|
-| **1** | **General frame** | The background, a header title and an empty content area below it. The visual template for the whole theme. | Thirteen screen situations: round explanation, standings, player introduction, multiple-choice variants, long questions, seat warnings, settings. |
+| **1** | **General frame** | The background, a header title and an empty content area below it. The visual template for the whole theme. | Thirteen screen states: round explanation, standings, player introduction, multiple-choice variants, long questions, seat warnings, settings. |
 | **2** | **Connect screen** | What the room sees to join: five lines of instruction, room for a join code or QR code, and a list of players trickling in. | Also the waiting screen shown while the quizmaster reads the question aloud. |
 | **3** | **Question screen** | The question, a timer, four answer options, a feedback line. The screen the room looks at longest. | — |
 | **4** | **Question with media** | The same, arranged around an image or video. May be a different composition from frame 3. | Also the full-screen media variant, and media shown between questions. |
@@ -42,7 +42,7 @@ The game has roughly twenty-five screen situations, but most are variants of the
 
 ### What is decided for you
 
-- **The individual controls.** Buttons in their four states, the correct and wrong symbols, the scrollbar, checkboxes and selects are derived from what appears in your seven frames. Make sure a button appears somewhere so its style can be taken from it.
+- **The individual controls.** Buttons in their four states, the correct and wrong symbols, the scrollbar, checkboxes and selects are derived from what appears in your seven frames. Make sure a button appears somewhere, so there is a style to take them from.
 - **The players' phones.** A fixed HTML layout, styled from your colour list and fonts.
 - **Which screens fall back to the general frame, and how.**
 - **How the six categories map onto the round intro artwork.**
@@ -50,19 +50,19 @@ The game has roughly twenty-five screen situations, but most are variants of the
 
 ### A character is optional
 
-The stock QuizWitz theme has a character that talks and reacts. Nothing requires one: the theme validator only warns about the `ted` element, it does not fail without it. The [Emerald theme](/docs/advanced/emerald-theme) ships without a character, and dropping it removes the most expensive animation work — lip sync, eyes, arms.
+The stock QuizWitz theme has a character that talks and reacts. Nothing requires one: the theme validator only warns about the `ted` element; it does not fail without it. The [Emerald theme](/docs/advanced/emerald-theme) ships without a character, and dropping it removes the most expensive animation work — lip sync, eyes, arms.
 
-Without a character, the round intro becomes a graphic, typographic or illustrative moment. Two approaches keep it affordable: one composition with a colour or icon variant per category, or a single universal announcement with only the round name changing. Six genuinely different intros is a lot of work for a few seconds of screen time.
+Without a character, the round intro becomes a graphic, typographic or illustrative moment. Two approaches keep the work in proportion: one composition with a colour or icon variant per category, or a single universal announcement with only the round name changing. Six genuinely different intros is a lot of work for a few seconds of screen time.
 
 ---
 
-## How these frames look today
+## What these frames look like in practice
 
-The screens below come from an existing theme. They are here to show **what happens on each screen**, not as a style reference.
+The screens below come from an existing theme. They are here to show **what happens on each screen**; they are not a style reference.
 
 ### Frame 1 — the general frame
 
-Two very different game moments on the same template: a question picker and a points ladder. This is how much work that one frame does for you, and why its content area needs to be roomy and neutral.
+Two very different game moments on the same template: a question picker and a points ladder. It shows how much work that one frame does for you, and why its content area needs to be roomy and neutral.
 
 ![The general frame with a three-row question picker](/images/theme-design/frame1-general-multiquestion.png)
 
@@ -70,7 +70,7 @@ Two very different game moments on the same template: a question picker and a po
 
 ### Frame 2 — connect and waiting
 
-With a client logo beside the join code, and without, where the theme's own artwork carries the screen:
+With a client logo beside the join code, and without one, where the theme's own artwork carries the screen:
 
 ![Connect screen with a client logo](/images/theme-design/frame2-connect.png)
 
@@ -108,7 +108,7 @@ Media on its own, filling the screen:
 
 ### Frame 5 — the answer screen
 
-This screen has three moments. First the spread, with nothing marked yet:
+This screen goes through three moments. First the spread, with nothing marked yet:
 
 ![Answer screen showing the spread](/images/theme-design/frame5-answer-mc-spread.png)
 
@@ -157,17 +157,17 @@ None of these limit your visual design. They are about how the file is built.
 ### Format
 
 - **1920 × 1080 pixels**, exactly. One frame per screen.
-- Work **vector-based** where you can. Where you use raster (photos, textures): at least 2× display size.
+- Work **in vector** where you can. Where you use raster (photos, textures): at least 2× display size.
 - The game runs at **24 frames per second**. Relevant if you supply motion ideas.
-- Keep a **5% margin** at the edges free of essential information. Beamers crop.
+- Keep a **5% margin** at the edges free of essential information. Projectors crop.
 
 ### Layer structure — the rule that matters most
 
 **Anything that can move, appear or change value sits on its own named layer.** Nothing merged, nothing flattened.
 
-Concretely: the four answer options are four separate layers, not one. The timer is separate from the background. A button and its label are two elements. A player row is one group that can be duplicated.
+In practice: the four answer options are four separate layers, not one. The timer is separate from the background. A button and its label are two elements. A player row is one group that can be duplicated.
 
-What may be merged: purely decorative background build-up that works as a single still image.
+What may be merged: purely decorative background artwork that works as a single still image.
 
 This is the one rule that genuinely hurts when it is not followed — the artwork then has to be pulled apart or redrawn, which is exactly the cost this arrangement is meant to avoid.
 
@@ -189,7 +189,7 @@ This is where designing for QuizWitz differs most from ordinary design work.
 
 **You do not set a font size. You draw a box.**
 
-All text is drawn live by a component that receives two things: a string, and the rectangle you drew. It then finds **the largest font size at which that string, wrapped across lines, still fits inside the box**. Too long, and it shrinks. Short, and it grows until the box is full.
+All text is drawn live by a component that receives two things: a string, and the rectangle you drew. It then finds **the largest font size at which that string, wrapped across lines, still fits inside the box**. A long string shrinks to fit; a short one grows until the box is full.
 
 ![A picker where three lines of different length each get a different font size](/images/theme-design/frame1-general-multiquestion.png)
 
@@ -198,14 +198,14 @@ Three rows, three identical boxes — and three completely different font sizes,
 What follows from that:
 
 - **The same question looks different in another game.** A six-word question appears large and screen-filling; a thirty-five-word one appears small across five lines, in exactly the same box. Both have to look right.
-- **Design every text box twice.** Fill it once with a very short sample and once with a very long one, and check the composition holds in both. As a rule of thumb: an answer option runs from one to about eight words, a question from five to forty, a player name from two to twenty characters.
+- **Design every text box twice.** Fill it once with a very short sample and once with a very long one, and check that the composition holds in both. As a rule of thumb: an answer option runs from one to about eight words, a question from five to forty, a player name from two to twenty characters.
 - **Do not count on a fixed number of lines.** A title that is "always on one line" does not exist here.
-- **Do not optically align text with anything else.** Text that has to meet a rule or a shape will drift as soon as it is shorter or longer. Use boxes that are roomy enough and an alignment (left, centred, right) instead of exact positions.
+- **Do not optically align text with anything else.** Text that has to line up with a rule or a shape will drift as soon as it is shorter or longer. Use boxes that are roomy enough and an alignment (left, centred, right) instead of exact positions.
 - **The box is a maximum, not a promise.** You design its proportions; the fill varies.
-- **Eleven languages.** German compounds are long, so is Finnish. A box that is tight in English falls back to an unreadably small size in German.
+- **Eleven languages.** German compounds are long, and Hungarian is no kinder. A box that is tight in English drops to an unreadably small size in German.
 - **Emoji can appear inside text.** Players pick one next to their team name, and a question or an option can contain one — sometimes an option is nothing but an emoji. They are drawn in colour and are taller than the letters around them.
 
-What we need to know per text box: where it is, how big, how it is aligned, which colour and which font. Not: at what point size.
+What the build needs to know about each text box: where it is, how big it is, how it is aligned, which colour and which font. Not: at what point size.
 
 Two things follow that you can use: a large box with short text becomes a strong typographic composition by itself, and a box you deliberately make narrow and tall forces text into a column. You can use the fitting as a design device — you just should not design against it.
 
@@ -223,12 +223,12 @@ What follows:
 - **Legible from the back of the room**, at a glance.
 - **Multiple timers are allowed.** A bar at the top and a ring near the question are both driven, as long as each is named `timer`.
 
-Supply the timer as a series of key frames or as a description of the progression — "the bar drains right to left and shifts from green to red" is enough.
+Supply the timer as a series of keyframes or as a description of the progression — "the bar drains right to left and shifts from green to red" is enough.
 
 ### Fonts
 
 - **Fonts must be embeddable.** The `.ttf` or `.otf` file is needed, plus a licence that allows embedding in an application. A font licensed only as a webfont, or only for print, cannot be used. Check this before designing with it; it is an expensive correction afterwards.
-- Fonts with unusually large or unusual ascenders can be adjusted, but flag it if you use one.
+- Fonts with unusually large ascenders or descenders can be compensated for, but flag it if you use one.
 
 ### Colour as a list
 
@@ -240,7 +240,7 @@ Gradients are allowed: give them as two hex values.
 
 ### The QuizWitz logo
 
-Custom designs include the QuizWitz logo. Point out a place where it sits without disturbing the design.
+Custom designs include the QuizWitz logo. Reserve a place for it where it does not get in the way of the design.
 
 ---
 
@@ -248,9 +248,9 @@ Custom designs include the QuizWitz logo. Point out a place where it sits withou
 
 ### Source file — Illustrator preferred
 
-**Adobe Illustrator (`.ai`) is preferred, and there is a concrete reason.** The theme is built in Adobe Animate, which imports Illustrator files directly and converts your layers into Animate layers or separate symbols, keeping the layer names and leaving the vectors editable. That is exactly the step that keeps the work cheap.
+**Adobe Illustrator (`.ai`) is preferred, and there is a concrete reason.** The theme is built in Adobe Animate, which imports Illustrator files directly and converts your layers into Animate layers or separate symbols, keeping the layer names and leaving the vectors editable. That is exactly the step that saves the artwork from being rebuilt by hand.
 
-Figma or Photoshop is possible, but know the cost: with Figma everything goes through SVG and PNG export, and that is precisely where the layer structure needed here is lost. If you do use Figma, supply **each element separately as SVG**, with filenames matching the layer names, so it can be compensated for by hand. Photoshop imports into Animate with its layers intact like Illustrator, but yields raster instead of vector.
+Figma or Photoshop is possible, but know the cost: with Figma everything goes through SVG and PNG export, and that is precisely where the layer structure needed here is lost. If you do use Figma, supply **each element separately as SVG**, with filenames matching the layer names, so the structure can be rebuilt by hand. Photoshop imports into Animate with its layers intact, like Illustrator, but gives you raster instead of vector.
 
 If you are faster in Figma, use it for the concept phase and deliver the final version in Illustrator.
 
@@ -259,7 +259,7 @@ File structure:
 - One artboard per screen, each exactly 1920 × 1080, named after the frames above.
 - Reusable parts (button, player row, answer option, timer) as **symbols** or components, not as loose copies.
 - Layer names in English, without spaces: `question`, `option1` to `option4`, `timer`, `feedback`, `header`, `background`, `playerScore`.
-- Colours and text styles as named swatches, not set per object.
+- Colours as named swatches and text as named styles, rather than set on each object individually.
 
 ### Exports
 
@@ -269,7 +269,7 @@ File structure:
 
 ### Half a page of notes
 
-A short accompanying text: what the idea is, how the options should appear, what moves and what stays still. Not a ten-page design rationale — whoever builds the theme needs to know what to build.
+A short written note: what the idea is, how the options should appear, what moves and what stays still. Not a ten-page design rationale — whoever builds the theme needs to know what to build.
 
 Motion ideas may be described or supplied as a rough animatic.
 
