@@ -3,9 +3,9 @@ id: startup
 title: Primeiros passos
 ---
 
-# 🚀 Primeiros passos — Como conduzir um quiz com QuizWitz Live
+# 🚀 Start-up - Hosting a Quiz with QuizWitz Live
 
-Boas-vindas ao QuizWitz Live — a forma profissional de conduzir quizzes para equipas, transmissões ao vivo e eventos presenciais. Segue este guia para colocar o teu quiz no ar usando a app Quizmaster.
+Welcome to QuizWitz Live - the professional way to host quizzes for teams, livestreams, and in-person events. Segue este guia para colocar o teu quiz no ar usando a app Quizmaster.
 
 ---
 
@@ -23,7 +23,7 @@ Podes iniciar um jogo do QuizWitz Live a partir do editor de quiz ou diretamente
 
 ## 🔐 Ligar com o código de quizmaster
 
-Depois de iniciado, o teu ecrã vai mostrar um **código de quizmaster**. **Não partilhes este código com os jogadores** — é usado para ligar o dispositivo de apresentação ao jogo.
+Depois de iniciado, o teu ecrã vai mostrar um **código de quizmaster**. **Do not share this code with players** - it's used to connect your presentation device to the game.
 
 - Visita [quizwitz.tv](https://quizwitz.tv) no teu dispositivo de quizmaster e introduz o código de quizmaster.
 - Vai aparecer uma **interface da app Quizmaster**, onde controlas o jogo.
@@ -32,7 +32,7 @@ Depois de iniciado, o teu ecrã vai mostrar um **código de quizmaster**. **Não
 
 Depois de ligares, o código de quizmaster desaparece do ecrã. Agora estás pronto para mostrar o ecrã do jogo num projetor ou começar a tua transmissão em direto.
 
-> ⚠️ **Atenção!** Se o ecrã do jogo não estiver ativamente em foco — por exemplo, se mudares de separador ou o minimizares — o jogo vai **pausar automaticamente**.  
+> ⚠️ **Heads up!** If the game screen is not actively in focus - for example, if you switch tabs or minimize it - the game will **automatically pause**.  
 > Quando isso acontecer:
 >
 > - A **app Quizmaster também pausa**
@@ -51,13 +51,13 @@ Depois de ligares, escolhe entre dois modos de jogo:
 
 - Cada equipa recebe um **código único**, que pode ser aberto em vários dispositivos.
 - Ideal para **quizzes com equipas pré-registadas**, quando já sabes os nomes das equipas com antecedência.
-- Permite trocar de dispositivo — útil se a bateria acabar no meio do quiz.
+- Allows device switching - helpful if a battery dies mid-quiz.
 
 ### Código de jogo partilhado
 
 - Todos entram usando um único **Código do Jogo partilhado**.
 - Ideal para eventos casuais ou de acesso aberto.
-- Não é necessário pré-registo — os jogadores podem entrar a qualquer momento, até todos os Seats ativos estarem preenchidos.
+- No pre-registration required - players can join anytime, until all active seats are filled.
 
 > Garante que tens sessão iniciada para aceder ao conteúdo do teu quiz.
 
@@ -71,13 +71,13 @@ Ao usar **códigos de equipa**, primeiro vais criar as equipas na app Quizmaster
 - Prime **'Gerar códigos'** para criar códigos de acesso  
   ![Quizmaster App - criar equipas](/images/quizmaster-app-create-teams.png)
 
-Também podes **reservar códigos com antecedência** — falamos mais sobre isso na secção de dicas e truques.
+You can also **reserve codes in advance** - more on that in the tips & tricks section.
 
 Não te esqueças de **guardar os seguintes códigos**:
 
-- **Código de quizmaster** — para controlar o quiz
-- **Código do Júri** — para ajustes manuais de pontuação
-- **Código Regie** — para controlar elementos visuais e técnicos
+- **Quizmaster code** - to control the quiz
+- **Jury Code** - for manual score adjustments
+- **Regie Code** - to control visual and technical elements
 
 Envia os códigos de equipa aos jogadores por e-mail ou em materiais impressos.
 
@@ -92,7 +92,7 @@ Quando estiveres pronto, clica em **'Carregar quiz'**, espera que os conteúdos 
 Com o esquema **Código de jogo partilhado**:
 
 - Vais receber os códigos de quizmaster, júri e regie, mais um código de jogo para os jogadores.
-- O código do jogo aparece no ecrã do jogo — **mostra-o ou transmite-o para o teu público**.
+- The game code appears on the game screen - **display or stream it to your audience**.
 - Os jogadores podem entrar a qualquer momento até ao limite de Seats ativos ser atingido.
 
 Quando os teus jogadores já estiverem dentro:
