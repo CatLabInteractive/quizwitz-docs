@@ -23,9 +23,9 @@ Minden oldal elmagyarázza, hogy ezek a mellékletek mikor jelennek meg játék 
 
 Íme egy általános (nem teljes) lista a kompatibilis formátumokról:
 
-- **Képek** — `.png`, `.jpeg`, `.gif` (nem animált). Full HD (1920×1080) ajánlott
-- **Hang** — A legtöbb szabványos formátum támogatott
-- **Videó** — A legtöbb szabványos formátum támogatott
+- **Images** - `.png`, `.jpeg`, `.gif` (non-animated). Full HD (1920×1080) ajánlott
+- **Audio** - Most standard formats are supported
+- **Video** - Most standard formats are supported
 
 > 🔊 ⏱️ A hang- és videómellékletek hossza **legfeljebb 15 perc** lehet.
 
@@ -35,8 +35,8 @@ Minden oldal elmagyarázza, hogy ezek a mellékletek mikor jelennek meg játék 
 
 Minden melléklethez tartozhat név és opcionális forrásmegjelölés:
 
-- **Név** — A quizmaster számára jelenik meg a [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) felületén; segít a mellékletek rendszerezésében
-- **Forrásmegjelölés** — A játékosoknak kreditként vagy forrásinformációként jelenik meg. Ennek a **jogtulajdonos nevének** kell lennie.
+- **Name** - Displayed to the quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); helps in organizing attachments
+- **Attribution** - Shown to players as credit or source information. Ennek a **jogtulajdonos nevének** kell lennie.
 
 > ⚠️ Ahhoz, hogy **közzétegyél** egy Round-Aboutot vagy kvízt, **minden melléklethez érvényes forrásmegjelölést** kell megadni. Enélkül a bejegyzésed nem tehető nyilvánossá.
 
@@ -46,8 +46,8 @@ Minden melléklethez tartozhat név és opcionális forrásmegjelölés:
 
 Néhány melléklethely támogatja az **effekteket**, hogy a vizuális elemek fokozatosabban jelenjenek meg:
 
-- **Nincs** — A fájl változatlanul jelenik meg
-- **Reflektorfény-effekt** — Idővel fokozatosan fedi fel a kép részeit egy mozgó reflektorfénnyel, amely haladás közben egyre nagyobb lesz
+- **None** - The file is shown as-is
+- **Spotlight effect** - Gradually reveals parts of the image over time with a moving spotlight that expands as it progresses
 
 Ez különösen hatásos fejtörőknél, vagy intrók és drámai pillanatok alatti lassú felfedéseknél.
 
