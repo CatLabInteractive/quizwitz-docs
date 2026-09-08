@@ -25,13 +25,13 @@ Per configurare le opzioni di un round, clicca sull’icona a forma di ingranagg
 
 Le seguenti opzioni sono disponibili per la maggior parte dei tipi di round:
 
-- **Mostra solo _X_ domande** — Limita il round a un numero specifico di domande
-- **Ordine casuale delle domande** — Mescola l’ordine delle domande all’interno del round
-- **Mostra intro del round** — Mostra un titolo animato prima dell’inizio del round
-- **Mostra outro del round (punteggio intermedio)** — Rivela le classifiche alla fine del round
-- **Raggruppa tutti i feedback in un’unica schermata** — Raccoglie i feedback delle domande in un unico blocco al termine del round
-- **Mostra tutti i feedback delle domande alla fine del round** — Rimanda i feedback delle domande fino al termine del round
-- **Forza il feedback dopo ogni singola domanda** — Assicura un feedback immediato
+- **Only show _X_ questions** - Limits the round to a specific number of questions
+- **Random question order** - Shuffle the question order within the round
+- **Show round intro** - Display an animated title before the round begins
+- **Show round outro (interim score)** - Reveal rankings at the end of the round
+- **Group all feedback in a single screen** - Collect question feedback in one block after the round ends
+- **Show all question feedback at the end of the round** - Delay question feedback until the round ends
+- **Force feedback after each individual question** - Ensure immediate feedback
   > ⚠️ Questo ha effetto solo nei tipi di round e di domanda in cui il feedback altrimenti verrebbe rimandato, come le domande aperte o i round lampo.
 
 📘 Consulta [tipi di domanda](../question-types/000-question-types.md) per maggiori informazioni su tempi e comportamento del feedback.
@@ -42,11 +42,11 @@ Le seguenti opzioni sono disponibili per la maggior parte dei tipi di round:
 
 QuizWitz offre un sistema di punteggio flessibile per rendere tutto equo e coinvolgente per tutti i giocatori.
 
-- **Punteggio basato sul tempo** — I giocatori guadagnano più punti rispondendo più velocemente.
+- **Time-based scoring** - Players earn more points for faster answers.
   - Per la maggior parte dei tipi di domanda, i punti basati sul tempo diminuiscono **continuamente per microsecondo**: più rispondi in fretta, più punti ottieni.
   - Per le **domande aperte**, i punti basati sul tempo sono divisi in blocchi. Per esempio: le risposte nel primo blocco (ad es. i primi secondi) ottengono il **100%** della parte basata sul tempo, il blocco successivo ottiene l’**80%**, e così via. Questo aiuta a rendere il gioco più equilibrato per chi digita più lentamente.
 
-- **Percentuale fissa di punti nel punteggio basato sul tempo** — Controlli quanto del punteggio totale è influenzato dalla velocità.
+- **Fixed percentage of points on time-based scoring** - You control how much of the total score is influenced by speed.
   - Per impostazione predefinita, il **75%** dei punti è fisso (tutti quelli che rispondono correttamente ricevono questi punti, indipendentemente dalla velocità).
   - Solo il restante **25%** è influenzato dalla rapidità con cui i giocatori rispondono.
 
@@ -66,10 +66,10 @@ Puoi aggiungere un **testo di introduzione arrotondato** personalizzato che appa
 
 Arricchisci il tuo round con contenuti multimediali mostrati in momenti specifici:
 
-- **Prima del round** — Mostrato dopo l’animazione di intro del round
-- **Dopo il round** — Mostrato dopo l’outro del round
-- **Prima dell’outro del round** — Mostrato dopo l’ultima domanda, appena prima dell’outro
-- **Durante l’outro del round** — _(solo audio)_ Viene riprodotto mentre vengono mostrate le classifiche
+- **Before round** - Displayed after the round intro animation
+- **After round** - Shown after the round outro
+- **Before round outro** - Shown after the last question, just before the outro
+- **During round outro** - _(audio only)_ Plays while rankings are displayed
 - ...
 
 📘 Per i tipi di file supportati e consigli d’uso, consulta la [guida agli allegati](../editor/006-attachments.md).
