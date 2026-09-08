@@ -45,14 +45,14 @@ Položky můžeš kdykoli uspořádat, hrát nebo odebrat. Tohle je tvoje osobn�
 
 ## 🧠 Vyber Round-About
 
-**Kolo O kolem** je malé, motivované kolo otázek — jak říká jméno, kolo _O předmětu_ věci. Když si zahraješ jen jeden, dostaneš krátkou hru se 7 náhodnými otázkami.
+**Round-About** je malé tematické kolo otázek - jak název říká, kolo _o_ jednom tématu. Když si zahraješ jen jeden, dostaneš krátkou hru se 7 náhodnými otázkami.
 
 Chceš-li si Round-About prohlédnout podrobněji:
 
 - Klikni na jeho **obrázek**, **název** nebo **ikonu komentářů**
 - Klikni na **Hrát** a pusť se rovnou do hry
 
-![QuizWitz - Podrobnosti o okolí](/images/round-about-details.png)
+![QuizWitz - detaily Round-Aboutu](/images/round-about-details.png)
 
 ---
 
@@ -85,7 +85,7 @@ Vyber:
 
 QuizWitz se pokusí přeskočit otázky, které už jsi viděl/a.
 
-![Hrát moji kolekci – krok 2](/images/play-my-collection-step2.png)
+![Hrát moji kolekci - krok 2](/images/play-my-collection-step2.png)
 
 ---
 
