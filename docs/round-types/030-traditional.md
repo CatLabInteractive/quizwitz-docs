@@ -5,7 +5,7 @@ title: Traditional
 
 # 📝 Traditional
 
-A **Traditional** round simulates the classic pub quiz format, where players can change their answers until the end of the round - just like handing in your answer sheet at the pub!
+A **Traditional** round simulates the classic pub quiz format, where players can change their answers until the end of the round—just like handing in your answer sheet at the pub!
 
 ---
 
