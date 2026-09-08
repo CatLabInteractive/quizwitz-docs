@@ -26,9 +26,11 @@ A theme is the complete visual skin of the shared screen: background, typography
 
 ---
 
-## Seven frames
+## Nine screens and an element sheet
 
-The game has roughly twenty-five distinct screen states, but most are variants of the same layout. **You design seven frames; the rest is derived from them.** That is not a shortcut - it is how the engine works. A screen with no artwork of its own falls back to a general frame.
+The game has roughly twenty-five distinct screen states, but most are variants of the same layout. A screen with no artwork of its own falls back to a general frame, so you do not design twenty-five things.
+
+What you do design is **nine screens and one sheet of elements**. The sheet matters as much as the screens: a fall-back screen still needs furniture inside its content area - a panel, a row, a rule - and that furniture is a design decision, not something that can be inferred from a background.
 
 | # | Frame | What is on it | What is derived from it |
 |---|---|---|---|
@@ -39,14 +41,35 @@ The game has roughly twenty-five distinct screen states, but most are variants o
 | **5** | **Answer screen** | Which answer was correct, how the room's answers were spread across the options, and a feedback line. | Also the answer screen for open questions and for questions with media. |
 | **6** | **Standings and winner** | A list of players with name, score and position. Supply the **player row** as a separate, reusable element - it is repeated six to ten times. | Both the standings between rounds and the final winner. |
 | **7** | **Round intro** | A short announcement per round category. There are six categories: science & technology, nature, entertainment & music, sport, art, history. | All six categories. |
+| **8** | **Question picker** | The general frame with a list of questions to choose from, each with a difficulty label, the question and its points. The engine looks for its own symbol here, so this is a real screen rather than a fall-back. | - |
+| **9** | **Long question** | The general frame carrying one long block of text. Same reason: its own symbol. | - |
+| **10** | **Element sheet** | Not a screen. The building blocks the fall-back screens are assembled from, and the controls: see below. | Everything that fills a content area, and every button, symbol and control in the game. |
+
+### The element sheet
+
+Two groups of elements, on one sheet, each drawn once and reused everywhere.
+
+**Content building blocks.** These fill the content area of the general frame. The eleven screens that fall back to it are assembled from these, so whatever you draw here decides how all eleven look:
+
+- a **panel**: fill, border, corner radius - the container a list or a block of text sits in
+- a **list row**: the repeating unit of any list, with its own background or none
+- a **separator**: the rule between rows, where there is no panel
+- a **label and value pair**: a short label on the left, a value on the right
+
+**Controls.** Drawn once, used on every screen:
+
+- a **button** in its four states: rest, hover, pressed, disabled
+- the **correct** and **wrong** symbols
+- a **scrollbar**, a **checkbox**, a **select**
+- where the **QuizWitz logo** sits
 
 ### What is decided for you
 
-- **The individual controls.** Buttons in their four states, the correct and wrong symbols, the scrollbar, checkboxes and selects are derived from what appears in your seven frames. Make sure a button appears somewhere, so there is a style to take them from.
 - **The players' phones.** A fixed HTML layout, styled from your colour list and fonts.
 - **Which screens fall back to the general frame, and how.**
 - **How the six categories map onto the round intro artwork.**
 - **All timing and animation duration.**
+- **The handful of things the engine draws itself.** Some furniture is drawn in code rather than taken from the theme - the rules between rows on the points ladder, for instance. Those take their colour from the list in **Colour as a list** and nothing else, so that list is the only control you have over them.
 
 ### A character is optional
 
@@ -58,7 +81,7 @@ Without a character, the round intro becomes a graphic, typographic or illustrat
 
 ## What these frames look like in practice
 
-The screens below come from an existing theme. They are here to show **what happens on each screen**; they are not a style reference.
+The screens below come from an existing theme. They are here to show **which elements appear on each screen and when**. They are not a reference for style *or* layout: where this theme puts its question, its options and its timer is its own decision, and yours can differ completely. Read them for what has to be present, not for where it goes.
 
 ### Frame 1 - the general frame
 
@@ -70,11 +93,11 @@ Look at how little they have in common. The picker puts its three rows inside a 
 
 ![The general frame with a five-level points ladder](/images/theme-design/frame1-general-strikeladder.png)
 
-So do not design the content area as a composition. Design it as an empty, neutral, roomy zone that survives a bordered panel, a bare list and a table of rows equally well. A background that is busy in the middle, or a header that only works with a panel tucked right underneath it, is where this breaks.
+That panel and those rules are design decisions, and they are yours to make - they come from the **element sheet**, not from this frame. What this frame has to do is hold them: design the content area as an empty, neutral, roomy zone that works with a bordered panel, a bare list and a table of rows alike. A background that is busy in the middle, or a header that only works with a panel tucked right underneath it, is where that breaks.
 
 ### Frame 2 - connect and waiting
 
-With a client logo beside the join code, and without one, where the theme's own artwork carries the screen:
+The connect screen has to carry the join instructions, room for a code or QR code and a list of players. Where those go is open; this theme puts the code left and a logo right. Here it is with a client logo, and without one, where the theme's own artwork carries the screen:
 
 ![Connect screen with a client logo](/images/theme-design/frame2-connect.png)
 
@@ -86,7 +109,7 @@ The waiting screen is a separate composition rather than a variant of the connec
 
 ### Frame 3 - the question screen
 
-Four options, the question above, the timer in the middle. Note that an option can consist of nothing but an emoji.
+The question, four options and a timer all have to be on this screen. Their arrangement is entirely yours - this theme happens to put the question on top and the timer in the middle, but a timer along the top edge and options in a column would be just as valid. Note that an option can consist of nothing but an emoji.
 
 ![Question screen with four text options](/images/theme-design/frame3-question-options.png)
 
@@ -102,7 +125,7 @@ The moment time runs out. The feedback balloon appears over the screen and the t
 
 ### Frame 4 - media
 
-The same parts, rearranged around a media area, with the options to the left and right:
+The same parts with a media area added, which usually means rearranging rather than shrinking. This theme moves the options to the left and right of the image; splitting them below it, or overlaying them, is equally open:
 
 ![Question screen with an image in the middle](/images/theme-design/frame4-question-attachment.png)
 
@@ -257,6 +280,8 @@ main colour, accent colour, background, default text colour, header text colour,
 
 Gradients are allowed: give them as two hex values.
 
+A few of these are the *only* handle on parts the engine draws itself, so they are worth deciding rather than defaulting: **separator** (the rules between rows where there is no panel), **dialog**, **active**, **inactive** and **selected**. If you leave them out they fall back to the default text colour, which is rarely what you want.
+
 ### The QuizWitz logo
 
 Custom designs include the QuizWitz logo. Reserve a place for it where it does not get in the way of the design.
@@ -296,11 +321,13 @@ Motion ideas may be described or supplied as a rough animatic.
 
 ## Appendix - symbol names
 
-For completeness, and for anyone who wants to know exactly where their artwork ends up. **You do not need to read this to do the work**; the seven frames above are enough. Using these names as layer names saves a translation step.
+For completeness, and for anyone who wants to know exactly where their artwork ends up. **You do not need to read this to do the work**; the nine screens and the element sheet above are enough. Using these names as layer names saves a translation step.
 
 | Frame | Symbol name | Required parts |
 |---|---|---|
 | 1. General frame | `GeneralPurposeScreen`, `GeneralPurposeScreenWithHeader` | `header.text`, content area |
+| 8. Question picker | `MultiQuestionScreen` | `header.text`, `questions` (placeholder) |
+| 9. Long question | `LongQuestionScreen` | `header.text`, content area |
 | 2. Connect screen | `PresentationConnectScreen` | `instructions.line1` to `line5` |
 | 2b. Waiting screen | `PendingScreen` | `header.text` |
 | 3. Question screen | `QuestionScreen` | `question.text`, `timer`, `feedback.text`, `option1` to `option4`, frame labels `showOptions` and `showFeedback` |
