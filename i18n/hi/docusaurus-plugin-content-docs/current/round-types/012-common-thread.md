@@ -5,7 +5,7 @@ title: साझा सूत्र
 
 # 🧵 साझा सूत्र
 
-**साझा सूत्र** राउंड क्लासिक ट्रिविया राउंड का एक खास वैरिएशन है। इस राउंड में, प्लेयर आम सवालों की एक सीरीज़ के जवाब देते हैं, लेकिन ट्विस्ट यह है कि सभी जवाब चुपके से एक ही छिपी हुई थीम या लिंक से जुड़े होते हैं — यानी “साझा सूत्र।”
+**साझा सूत्र** राउंड क्लासिक ट्रिविया राउंड का एक खास वैरिएशन है। In this round, players answer a series of regular questions, but the twist is that all answers are secretly connected by a single underlying theme or link - the “common thread.”
 
 ---
 
