@@ -75,9 +75,9 @@ title: Опции на куиза
 
 ## 📜 Копие за quizmaster
 
-Add custom quizmaster instructions for:
+Дай конкретни инструкции за quizmaster относно:
 
 - **Въведение на куиза**
 - **Аутро на куиза**
 
-These are visible on the [Quizmaster App](../quizmaster/001-introduction.md) when using QuizWitz Live.
+Те се виждат в [Quizmaster App](../quizmaster/001-introduction.md), когато използваш QuizWitz Live.
