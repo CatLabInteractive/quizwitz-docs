@@ -5,7 +5,7 @@ title: Round-About बनाएँ
 
 # 🧠 Round-About बनाएँ
 
-**Round-About** QuizWitz की मुख्य क्विज़ यूनिट है — एक थीम वाले सवालों का सेट, जिसे रैंडम क्रम में दिखाया जाता है। आप अपना खुद का बना सकते हैं और निजी तौर पर खेल सकते हैं, या इसे प्रकाशित करके समुदाय के साथ शेयर कर सकते हैं।
+A **Round-About** is the core quiz unit in QuizWitz - a themed set of questions presented in random order. आप अपना खुद का बना सकते हैं और निजी तौर पर खेल सकते हैं, या इसे प्रकाशित करके समुदाय के साथ शेयर कर सकते हैं।
 
 ---
 
@@ -24,9 +24,9 @@ title: Round-About बनाएँ
 
 अपने Round-About को साफ़-साफ़ ये देकर शुरू करें:
 
-- **Title** — कुछ आकर्षक या वर्णनात्मक
-- **Language** — वह भाषा जिसमें आपके सवाल लिखे गए हैं
-- **Category** — खिलाड़ियों को बाद में आपका Round-About ढूँढने में मदद करती है
+- **Title** - something catchy or descriptive
+- **Language** - the language your questions are written in
+- **Category** - helps players find your Round-About later
 
 > 🔒 इसे खेलने के लिए आपको अपना Round-About प्रकाशित करने की ज़रूरत नहीं है। इसे निजी रखें या जब शेयर करने के लिए तैयार हों, तब प्रकाशित करें।
 
@@ -42,7 +42,7 @@ title: Round-About बनाएँ
 - अपनी प्रगति को बार-बार सेव करें
 - आप किसी भी समय अपने Round-About को टेस्ट करके खेल सकते हैं
 
-> 📢 **अपना Round-About प्रकाशित करने के लिए**, आपको **कम से कम 14 सवालों** की ज़रूरत होगी। एक बार प्रकाशित होने पर, यह पूरे QuizWitz समुदाय को दिखाई देता है — लेकिन ज़रूरत पड़ने पर आप बाद में इसे अनपब्लिश कर सकते हैं।
+> 📢 **अपना Round-About प्रकाशित करने के लिए**, आपको **कम से कम 14 सवालों** की ज़रूरत होगी। Once published, it becomes visible to the entire QuizWitz community - but you can unpublish it later if needed.
 
 क्या आप एक साथ बहुत सारे सवाल जोड़ना चाहते हैं? **Import questions** फ़ीचर का इस्तेमाल करें और सब कुछ सही फ़ॉर्मैट करने के लिए दिए गए निर्देशों का पालन करें।
 
@@ -54,9 +54,9 @@ title: Round-About बनाएँ
 
 **Details** सेक्शन में, आपको अतिरिक्त कॉन्फ़िगरेशन विकल्प मिलेंगे:
 
-- **Translate** — अपने Round-About का किसी दूसरी भाषा में अनुवादित वर्शन बनाएँ
-- **Category** — अपने Round-About की श्रेणी चुनें या अपडेट करें
-- **Round type** — चुनें कि खिलाड़ियों को सवाल कैसे दिखाए जाएँ। आप कॉन्फ़िगर कर सकते हैं:
+- **Translate** - Create a translated version of your Round-About in another language
+- **Category** - Choose or update your Round-About’s category
+- **Round type** - Select how questions are presented to players. आप कॉन्फ़िगर कर सकते हैं:
   - मल्टीपल चॉइस
   - ओपन सवाल
   - लाइटनिंग राउंड
@@ -68,4 +68,4 @@ title: Round-About बनाएँ
 
 ---
 
-जब आप अपने कंटेंट से खुश हों, तो प्रकाशित करें — और अपना Round-About दुनिया के साथ शेयर करें!
+When you're happy with your content, hit publish - and share your Round-About with the world!
