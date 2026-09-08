@@ -7,7 +7,7 @@ title: Quizmaster App
 
 Als quizmaster heb je volledige controle over het QuizWitz Live spel. Het belangrijkste om te weten is dit:
 
-> Het spel **gaat alleen verder wanneer jij klikt** — er gebeurt niets op het spelscherm tot jij het zegt.
+> The game **only progresses when you click** - nothing moves on the game screen until you tell it to.
 
 Dit geeft je volledige controle over tempo en timing, maar betekent ook dat je veel zult tikken. Laten we stap voor stap door de werking van de app lopen.
 
@@ -36,13 +36,13 @@ Elke vraag heeft een eigen scherm in de Quizmaster App:
 
 Je ziet:
 
-- **Vraagnummer** — bijvoorbeeld `1.1` betekent de eerste vraag van de eerste ronde
-- **Vraagtype** — zoals Multiple Choice, met bijbehorende scoremodifiers
-- **Lange versie van de vraag** — om hardop voor te lezen
-- **Vraaginfo** — inclusief timerduur en beschikbare punten
-- **Korte vraag** — de versie die op het spelscherm wordt getoond
-- **Start vraag knop** — start direct de timer
-- **Mogelijke antwoorden** — weergegeven in de juiste volgorde (voor multiple choice)
+- **Question number** - e.g. `1.1` means the first question of the first round
+- **Question type** - such as Multiple Choice, with relevant scoring modifiers
+- **Long version of the question** - for you to read out loud
+- **Question info** - including timer duration and available points
+- **Short question** - the version shown on the game screen
+- **Start question button** - immediately starts the timer
+- **Possible answers** - displayed in the correct order (for multiple choice)
 
 De vraag blijft zichtbaar in jouw app totdat:
 
@@ -55,7 +55,7 @@ De vraag blijft zichtbaar in jouw app totdat:
 
 ### ✅ Reactie op een vraag
 
-Na afloop van een vraag wordt het juiste antwoord getoond. Wat je ziet hangt af van het vraagtype — dit voorbeeld toont een multiple choice resultaat scherm:
+Na afloop van een vraag wordt het juiste antwoord getoond. What you see depends on the question type - this example shows a multiple choice result screen:
 
 ![Quizmaster App - vraagfeedback](/images/quizmaster-app-question-feedback.png)
 
@@ -64,10 +64,10 @@ Bevat:
 - **Vraagnummer**
 - **Korte vraagtekst**
 - **Correct antwoord**
-- **Verdeling antwoorden** — in aantal en percentage
-- **Lange feedback** — extra info om voor te lezen
-- **Doorgaan knop** — gaat door naar de volgende vraag
-- **Snelste 100 antwoorden** — wordt onderaan het scherm getoond
+- **Answer spread** - in numbers and percentages
+- **Long feedback** - extra info to read aloud
+- **Continue button** - advances to the next question
+- **Fastest 100 answers** - shown at the bottom of the screen
 
 ---
 
@@ -93,14 +93,14 @@ Spelers zien **hun eigen positie** op hun apparaat tijdens de afsluiting.
 
 ### 🏆 Het einde van de quiz
 
-Aan het einde van de quiz is het tijd voor een **winnaarsfeestje** — compleet met confetti en emoji's van spelers die over het scherm vliegen.
+At the end of the quiz, it’s time for a **winner reveal party** - complete with confetti and player emojis flying across the screen.
 
 ![QuizWitz - spel-outro op het spelscherm](/images/game-outro.png)
 
 - De standaardinstelling toont de **top 12 spelers**
 - Je kunt instellen hoeveel spelers er zichtbaar zijn in de **geavanceerde spelinstellingen**
 
-> 🎉 Leuk weetje: De emoji die je spelers kiezen danst rond het scherm — zelfs als ze de lachende drol hebben gekozen.
+> 🎉 Fun tip: The emoji your players choose will dance around the screen - even if they picked the smiling turd.
 
 ---
 
