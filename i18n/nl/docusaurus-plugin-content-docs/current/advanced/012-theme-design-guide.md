@@ -75,7 +75,7 @@ Twee groepen elementen, op één blad, elk één keer getekend en overal hergebr
 
 ### Een personage is optioneel
 
-Het standaardthema van QuizWitz heeft een personage dat praat en reageert. Niets vereist er een: de themavalidator waarschuwt alleen over het `ted`-element; hij faalt niet zonder. Het [Emerald-thema](/docs/advanced/emerald-theme) wordt zonder personage geleverd, en het weglaten ervan schrapt het duurste animatiewerk - lipsync, ogen, armen.
+Het standaardthema van QuizWitz heeft een personage dat praat en reageert. Dat is niet vereist: de theme validator waarschuwt als het ted-element niet bestaat, maar gaat er niet door falen. Het [Emerald-thema](/docs/advanced/emerald-theme) wordt zonder personage geleverd, en het weglaten ervan schrapt het duurste animatiewerk - lipsync, ogen, armen.
 
 Zonder personage wordt de ronde-intro een grafisch, typografisch of illustratief moment. Twee aanpakken houden het werk in verhouding: één compositie met een kleur- of icoonvariant per categorie, of één universele aankondiging waarbij alleen de rondenaam verandert. Zes echt verschillende intro's is veel werk voor een paar seconden schermtijd.
 
