@@ -5,7 +5,7 @@ title: Toernooi
 
 # Toernooi
 
-Deze handleiding laat je zien hoe je de QuizWitz Toernooi modus kunt gebruiken. Toernooi modus laat spelers samenkomen en je quiz spelen wanneer ze dat willen - op hun eigen apparaat. Hun scores worden bijgehouden op een centraal scorebord dat je op je locatie kunt tonen.
+Deze handleiding laat je zien hoe je de QuizWitz Toernooi modus kunt gebruiken. Tournament mode lets players join and play your quiz whenever they want - on their own device. Hun scores worden bijgehouden op een centraal scorebord dat je op je locatie kunt tonen.
 
 ---
 
@@ -16,7 +16,7 @@ Houd het kort en boeiend bij het bouwen van een toernooi. Als bezoekers teveel t
 
 ### 🎲 Willekeurige vraagselectie
 
-Laat het spel een willekeurige set vragen uit je pool kiezen, zodat elke keer spelen uniek aanvoelt — en terugkerende spelers verschillende vragen krijgen.
+Make the game select a random set of questions from your pool, so every playthrough feels unique - and returning players get different questions.
 
 **Voorbeeld setup:**
 
@@ -43,8 +43,8 @@ Toernooien kunnen alleen gestart worden vanuit het **Geavanceerde spelopties** m
 
 Je krijgt nu twee links:
 
-- **Speler link** — Deel deze met je spelers (of laat ze de QR-code van de ranglijst scannen).
-- **Ranglijst link** — Open deze op een scherm in je locatie om de live rangschikking te tonen en de QR-code die spelers kunnen scannen om mee te doen.
+- **Player link** - Share this with your players (or let them scan the QR code from the leaderboard).
+- **Leaderboard link** - Open this on a display at your venue to show the live rankings and the QR code players can scan to join.
 
 ---
 
@@ -65,6 +65,6 @@ Zodra de eerste spelers hun spellen hebben beëindigd, verschijnen hun scores li
 
 ## 📧 E-mailbevestiging
 
-Je krijgt ook een e-mail met zowel de speler- als ranglijst-links — handig zodat je ze niet kwijtraakt!
+You'll also get an email containing both the player and leaderboard links - handy so you don't lose them!
 
 ![Een screenshot van de toernooi e-mail](/images/tutorials/tournament/tournament-email.png)
