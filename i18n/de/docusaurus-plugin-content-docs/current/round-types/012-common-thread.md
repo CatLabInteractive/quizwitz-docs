@@ -5,7 +5,7 @@ title: Gemeinsamer Faden
 
 # 🧵 Gemeinsamer Faden
 
-Die **Gemeinsamer Faden**-Runde ist eine besondere Variante der klassischen Trivia-Runde. In dieser Runde beantworten Spieler eine Reihe von regulären Fragen, aber der Clou ist, dass alle Antworten heimlich durch ein einziges zugrundeliegendes Thema oder eine Verbindung verbunden sind – der „gemeinsame Faden“.
+Die **Gemeinsamer Faden**-Runde ist eine besondere Variante der klassischen Trivia-Runde. In this round, players answer a series of regular questions, but the twist is that all answers are secretly connected by a single underlying theme or link - the “common thread.”
 
 ---
 
