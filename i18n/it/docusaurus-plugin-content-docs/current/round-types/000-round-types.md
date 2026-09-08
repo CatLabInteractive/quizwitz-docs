@@ -5,7 +5,7 @@ title: Tipi di round
 
 # Tipi di round
 
-Il tipo di round influenza il modo in cui il gioco mostra le domande ai giocatori — e come i giocatori guadagnano punti.  
+The round type influences the way the game shows the questions to the players - and how players earn points.  
 Nei quiz, puoi cambiare il tipo di round nel campo di selezione **Tipo di round** in alto al centro dello schermo.
 
 ## 🧠 Round normali
@@ -29,12 +29,12 @@ Per chiunque voglia organizzare pub quiz tradizionali in cui i giocatori possono
 Questi tipi di round simulano la "consegna dei fogli" dopo ogni round.
 
 - [Tradizionale](030-traditional.md)
-- [Tradizionale — Filo conduttore](031-traditional-ct.md)
+- [Traditional - Common thread](031-traditional-ct.md)
 - [Alfabeto](032-alphabet.md)
 
 ## 🎉 Eventi live
 
-Questi tipi di round non contengono domande — ma influenzano invece l'esito del gioco.
+These round types do not contain any questions - but instead influence the outcome of the game.
 
 - [Attività](040-activity.md)
 - [Intervallo](060-intermission.md)
@@ -46,5 +46,5 @@ Questi tipi di round non contengono domande — ma influenzano invece l'esito de
 
 In questi tipi di round, puoi selezionare specifici **reparti** che giocano contro altri reparti.
 
-- [Reparto — Dealer's Choice](070-departments-dealers-choice.md)
-- [Reparto — Eliminazione](071-departments-elimination.md)
+- [Department - Dealer's Choice](070-departments-dealers-choice.md)
+- [Department - Elimination](071-departments-elimination.md)
