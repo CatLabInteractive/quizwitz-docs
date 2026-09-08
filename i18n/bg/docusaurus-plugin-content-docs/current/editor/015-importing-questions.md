@@ -47,14 +47,14 @@ title: Импортиране на въпроси
 
 Всеки ред трябва да съдържа следните колони в точно този ред:
 
-1. **Кратък въпрос** — Показва се на екрана на играча
+1. **Short question** - Displayed on the player screen
 2. **Правилен отговор**
 3. **Грешен отговор 1** (остави празно за отворени въпроси)
 4. **Грешен отговор 2**
 5. **Грешен отговор 3**
-6. **Кратка обратна връзка** — Показва се на екрана на играча след отговор
-7. **Дълъг въпрос** _(по избор)_ — Показва се на екрана на quizmaster
-8. **Дълга обратна връзка** _(по избор)_ — Обяснение, което quizmaster да прочете на глас
+6. **Short feedback** - Displayed on the player screen after answering
+7. **Long question** _(optional)_ - Displayed on the quizmaster screen
+8. **Long feedback** _(optional)_ - Explanation for the quizmaster to read aloud
 
 > 📌 Последните две колони се използват само в [QuizWitz Live](../quizmaster/001-introduction.md), но въпреки това трябва да бъдат включени (дори ако са оставени празни).
 
