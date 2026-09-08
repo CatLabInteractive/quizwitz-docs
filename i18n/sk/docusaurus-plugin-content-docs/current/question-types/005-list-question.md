@@ -5,7 +5,7 @@ title: Otázka so zoznamom
 
 # 📝 Otázka so zoznamom
 
-**Otázka so zoznamom** vyzýva hráčov, aby uviedli viacero správnych odpovedí z väčšieho zoznamu — ideálna pre zadania ako „Vymenuj prvých 5 prezidentov Spojených štátov amerických“ alebo „Pomenuj tri prvky v periodickej tabuľke.“.
+A **List question** asks players to provide several correct answers from a larger list - perfect for prompts like “List the first 5 presidents of the United States of America” or “Name three elements in the periodic table.”
 
 ---
 
@@ -18,7 +18,7 @@ title: Otázka so zoznamom
 - **Otázka:** Jasne uveď, čo majú hráči vymenovať.
 - **Položky zoznamu:** Zadaj všetky možné správne odpovede.
   - Niektoré označ ako **„Zadané“**, aby sa na obrazovke zobrazili ako príklady; na tieto sa NEMUSÍ odpovedať.
-  - Na poradí **nezáleží** — hráči môžu zadávať správne odpovede v ľubovoľnom poradí.
+  - Order does **not** matter - players can enter correct answers in any order.
 - **Vstup hráča:** Hráči musia zadať stanovený počet odpovedí (napr. medzi 1 a 5). Body sa udeľujú za každú správnu odpoveď, ktorú odošlú.
 - **Prílohy:** Pridaj obrázky, zvuk alebo video pre kontext. Ak otázku publikuješ, vyplň atribúciu.
 
@@ -43,7 +43,7 @@ title: Otázka so zoznamom
   - Dostupné body sa rozdelia do časových blokov (nie podľa milisekúnd).  
     Napríklad: plný počet bodov v prvom bloku, 80 % v ďalšom a tak ďalej.
   - Od rýchlosti závisí **iba 25 %** bodov.  
-    Zvyšných **75 %** je fixných — takže aj pomalší pisári získajú väčšinu bodov, ak odpovedia správne.
+    The other **75%** is fixed - so even slower typers get most of the points if they answer correctly.
   - Tým sa znižuje penalizácia za rýchlosť písania a bodovanie je férovejšie pre všetkých.
 
 Podrobnosti nájdeš v časti [možnosti bodovania kola](../editor/008-round-options.md#scoring).
