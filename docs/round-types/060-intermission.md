@@ -5,7 +5,7 @@ title: Intermission
 
 # ⏸️ Intermission
 
-**Intermission** is a special event round that pauses the quiz for a break - ideal for stretching, chatting, or promoting sponsors.
+**Intermission** is a special event round that pauses the quiz for a break—ideal for stretching, chatting, or promoting sponsors.
 
 ---
 
@@ -23,7 +23,7 @@ title: Intermission
 ## 🖼️ Attachments
 
 - You can upload images, logos, or videos in the round settings.
-- During the intermission, these attachments will be shown in a carousel on the game screen - great for sponsor logos, messages, or promotional videos.
+- During the intermission, these attachments will be shown in a carousel on the game screen—great for sponsor logos, messages, or promotional videos.
 - Attachments will loop for the duration of the break.
 
 ---
