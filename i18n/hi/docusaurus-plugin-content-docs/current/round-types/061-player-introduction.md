@@ -16,7 +16,7 @@ title: खिलाड़ी परिचय
 
 ---
 
-> खिलाड़ी परिचय माहौल बनाने, झिझक दूर करने, और क्विज़ अनुभव को पर्सनल बनाने में मदद करते हैं—खासकर लाइव और टीम-आधारित इवेंट में!
+> Player introductions help set the mood, break the ice, and personalize the quiz experience - especially in live and team-based events!
 
 ---
 
