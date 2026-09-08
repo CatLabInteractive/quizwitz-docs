@@ -21,7 +21,7 @@ Having a graphic designer draw the theme and someone else assemble it in Animate
 
 ## 🧪 Strumento di test del tema
 
-Quando sei pronto a testare il tuo tema, **comprimi in zip il contenuto della cartella del tuo design** ( — non la cartella stessa; quando apri lo zip, dovresti vedere i tuoi file, non solo una singola cartella — ) e caricalo nel nostro [tester dei temi](https://themes.quizwitz.com/). Così ottieni un'anteprima live di come apparirà il tuo tema nel gioco.
+When you're ready to test your theme, **zip the contents of your design folder** ( - not the folder itself; when you open the zip, you should see your files, not just a single folder - ) and upload it to our [theme tester](https://themes.quizwitz.com/). Così ottieni un'anteprima live di come apparirà il tuo tema nel gioco.
 
 Dopo il test, inviaci il file zip via email e lo collegheremo al tuo account, così potrai selezionare e usare il tuo tema nei tuoi quiz.
 
@@ -35,25 +35,25 @@ Tutti i design personalizzati devono includere il logo QuizWitz.
 
 ## 🖥️ Panoramica delle schermate
 
-| Fase                                                               | Schermata di gioco                                                                                          | Dispositivo del giocatore (Tablet/Telefono)                     |
-| ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Schermata di connessione                                           |                                                                                                             |                                                                                    |
-| Schermata di attesa                                                | Logo del quiz. Mostrato mentre il quizmaster sta leggendo la domanda.       | Una citazione che invita il giocatore ad ascoltare con attenzione. |
-| Intro del gioco                                                    | Animazione prima del gioco.                                                                 | Schermata di attesa.                                               |
-| Intro del round                                                    | Animazione prima di ogni round.                                                             | Schermata di attesa.                                               |
-| Domande                                                            |                                                                                                             |                                                                                    |
-| Allegato                                                           | Vista a schermo intero dell'allegato ( — prima/dopo domande o round — ). | Schermata di attesa.                                               |
-| Domanda: scelta multipla senza allegato            | Domanda + 4 opzioni a scelta multipla.                                                      | Schermata di risposta a scelta multipla.                           |
-| Domanda: scelta multipla con allegato              | Domanda + 4 opzioni a scelta multipla + un allegato visivo.                                 | Schermata di risposta a scelta multipla.                           |
-| Domanda: domanda aperta senza allegato             | Solo la domanda.                                                                            | Campo di testo e pulsante di invio.                                |
-| Domanda: domanda aperta con allegato               | La domanda + un allegato visivo.                                                            | Campo di testo e pulsante di invio.                                |
-| Attività: team scelti                              | Il nome di un'attività.                                                                     | Schermata di attesa o schermata "sei stato selezionato".           |
-| Riscontro                                                          |                                                                                                             |                                                                                    |
-| Feedback della domanda: scelta multipla            | La domanda, le opzioni corrette e la distribuzione delle risposte.                          | Corretto / sbagliato + punti ottenuti.                             |
-| Feedback della domanda: domanda aperta             | La domanda, le opzioni corrette e la % di risposte corrette.                                | Corretto / sbagliato + punti ottenuti.                             |
-| Feedback della domanda: domanda aperta + allegato  | La domanda, le opzioni corrette, la distribuzione delle risposte e un allegato visivo.      | Corretto / sbagliato + punti ottenuti.                             |
-| Feedback della domanda: scelta multipla + allegato | La domanda, le opzioni corrette, la distribuzione delle risposte e un allegato visivo.      | Corretto / sbagliato + punti ottenuti.                             |
-| Feedback dell'attività                                             | I team selezionati per un'attività.                                                         | Schermata di attesa o corretto/sbagliato.                          |
-| Classifica dei giocatori                                           |                                                                                                             |                                                                                    |
-| Outro del round                                                    | Top 10 di tutti i giocatori.                                                                | Posizione attuale e punti totali.                                  |
-| Outro del gioco                                                    | Conto alla rovescia dal 10° al 1° posto, poi top 10 finale.                                 | Posizione finale e punti totali.                                   |
+| Fase                                                               | Schermata di gioco                                                                                      | Dispositivo del giocatore (Tablet/Telefono)                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Schermata di connessione                                           |                                                                                                         |                                                                                    |
+| Schermata di attesa                                                | Logo del quiz. Mostrato mentre il quizmaster sta leggendo la domanda.   | Una citazione che invita il giocatore ad ascoltare con attenzione. |
+| Intro del gioco                                                    | Animazione prima del gioco.                                                             | Schermata di attesa.                                               |
+| Intro del round                                                    | Animazione prima di ogni round.                                                         | Schermata di attesa.                                               |
+| Domande                                                            |                                                                                                         |                                                                                    |
+| Allegato                                                           | Fullscreen attachment view ( - before/after questions or rounds - ). | Schermata di attesa.                                               |
+| Domanda: scelta multipla senza allegato            | Domanda + 4 opzioni a scelta multipla.                                                  | Schermata di risposta a scelta multipla.                           |
+| Domanda: scelta multipla con allegato              | Domanda + 4 opzioni a scelta multipla + un allegato visivo.                             | Schermata di risposta a scelta multipla.                           |
+| Domanda: domanda aperta senza allegato             | Solo la domanda.                                                                        | Campo di testo e pulsante di invio.                                |
+| Domanda: domanda aperta con allegato               | La domanda + un allegato visivo.                                                        | Campo di testo e pulsante di invio.                                |
+| Attività: team scelti                              | Il nome di un'attività.                                                                 | Schermata di attesa o schermata "sei stato selezionato".           |
+| Riscontro                                                          |                                                                                                         |                                                                                    |
+| Feedback della domanda: scelta multipla            | La domanda, le opzioni corrette e la distribuzione delle risposte.                      | Corretto / sbagliato + punti ottenuti.                             |
+| Feedback della domanda: domanda aperta             | La domanda, le opzioni corrette e la % di risposte corrette.                            | Corretto / sbagliato + punti ottenuti.                             |
+| Feedback della domanda: domanda aperta + allegato  | La domanda, le opzioni corrette, la distribuzione delle risposte e un allegato visivo.  | Corretto / sbagliato + punti ottenuti.                             |
+| Feedback della domanda: scelta multipla + allegato | La domanda, le opzioni corrette, la distribuzione delle risposte e un allegato visivo.  | Corretto / sbagliato + punti ottenuti.                             |
+| Feedback dell'attività                                             | I team selezionati per un'attività.                                                     | Schermata di attesa o corretto/sbagliato.                          |
+| Classifica dei giocatori                                           |                                                                                                         |                                                                                    |
+| Outro del round                                                    | Top 10 di tutti i giocatori.                                                            | Posizione attuale e punti totali.                                  |
+| Outro del gioco                                                    | Conto alla rovescia dal 10° al 1° posto, poi top 10 finale.                             | Posizione finale e punti totali.                                   |
