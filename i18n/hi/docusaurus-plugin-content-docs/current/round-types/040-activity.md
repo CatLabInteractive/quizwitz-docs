@@ -61,4 +61,4 @@ title: गतिविधि
 
 ---
 
-गतिविधि राउंड इंटरैक्टिव चुनौतियों, ड्यूल्स या रचनात्मक टास्क के लिए परफ़ेक्ट है — अपने QuizWitz इवेंट में ऊर्जा और विविधता जोड़ने का शानदार तरीका!
+The Activity round is perfect for interactive challenges, duels, or creative tasks - a great way to add energy and variety to your QuizWitz event!
