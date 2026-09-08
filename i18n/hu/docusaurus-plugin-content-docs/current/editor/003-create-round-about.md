@@ -5,7 +5,7 @@ title: Round-About létrehozása
 
 # 🧠 Round-About létrehozása
 
-A **Round-About** a QuizWitz alapvető kvízegysége — egy tematikus kérdéscsomag, amely véletlenszerű sorrendben jelenik meg. Létrehozhatod a sajátodat, és játszhatsz vele privátban, vagy közzéteheted, hogy megoszd a közösséggel.
+A **Round-About** is the core quiz unit in QuizWitz - a themed set of questions presented in random order. Létrehozhatod a sajátodat, és játszhatsz vele privátban, vagy közzéteheted, hogy megoszd a közösséggel.
 
 ---
 
@@ -24,9 +24,9 @@ A főmenüből:
 
 Kezdd azzal, hogy adsz a Round-Aboutodnak egy világos:
 
-- **Cím** — valami figyelemfelkeltőt vagy leírót
-- **Nyelv** — az a nyelv, amelyen a kérdéseid íródtak
-- **Kategória** — segít a játékosoknak később megtalálni a Round-Aboutodat
+- **Title** - something catchy or descriptive
+- **Language** - the language your questions are written in
+- **Category** - helps players find your Round-About later
 
 > 🔒 Nem kell közzétenned a Round-Aboutodat ahhoz, hogy játssz vele. Tartsd privátként, vagy tedd közzé, amikor készen állsz a megosztásra.
 
@@ -42,7 +42,7 @@ Kattints az **Új kérdés hozzáadása** gombra, hogy elkezdd létrehozni a kv�
 - Mentsd gyakran a haladásodat
 - Bármikor tesztelheted és játszhatod a Round-Aboutodat
 
-> 📢 **A Round-Aboutod közzétételéhez** **legalább 14 kérdésre** lesz szükséged. Miután közzétetted, láthatóvá válik az egész QuizWitz közösség számára — de később szükség esetén visszavonhatod a közzétételt.
+> 📢 **A Round-Aboutod közzétételéhez** **legalább 14 kérdésre** lesz szükséged. Once published, it becomes visible to the entire QuizWitz community - but you can unpublish it later if needed.
 
 Tömegesen szeretnél kérdéseket hozzáadni? Használd a **Kérdések importálása** funkciót, és kövesd az utasításokat, hogy minden megfelelően legyen formázva.
 
@@ -54,9 +54,9 @@ Tömegesen szeretnél kérdéseket hozzáadni? Használd a **Kérdések importá
 
 A **Részletek** szakaszban további konfigurációs lehetőségeket találsz:
 
-- **Fordítás** — Hozz létre egy lefordított változatot a Round-Aboutodból egy másik nyelven
-- **Kategória** — Válaszd ki vagy frissítsd a Round-Aboutod kategóriáját
-- **Körtípus** — Válaszd ki, hogyan jelenjenek meg a kérdések a játékosoknak. Beállíthatod:
+- **Translate** - Create a translated version of your Round-About in another language
+- **Category** - Choose or update your Round-About’s category
+- **Round type** - Select how questions are presented to players. Beállíthatod:
   - Feleletválasztós
   - Nyílt kérdések
   - Villámkörök
@@ -68,4 +68,4 @@ A **Részletek** szakaszban további konfigurációs lehetőségeket találsz:
 
 ---
 
-Ha elégedett vagy a tartalmaddal, nyomj a közzétételre — és oszd meg a Round-Aboutodat a világgal!
+When you're happy with your content, hit publish - and share your Round-About with the world!
