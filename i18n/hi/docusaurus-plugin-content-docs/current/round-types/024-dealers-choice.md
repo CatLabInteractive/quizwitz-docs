@@ -1,11 +1,11 @@
 ---
 id: dealers-choice
-title: Dealer's Choice
+title: डीलर्स चॉइस
 ---
 
-# 🃏 Dealer's Choice
+# 🃏 डीलर्स चॉइस
 
-The **Dealer’s Choice** round in QuizWitz adds a strategic twist to your quiz.
+QuizWitz का **डीलर्स चॉइस** राउंड तुम्हारे क्विज़ में रणनीति का तड़का लगाता है।
 खिलाड़ियों में से एक को **अगली सवाल कैटेगरी चुनने** का मौका मिलता है, जिससे उन्हें संभावित
 बढ़त मिलती है—और शायद बोनस भी! इसे सेट अप करने और खेलने का तरीका यह है:
 
@@ -22,7 +22,7 @@ The **Dealer’s Choice** round in QuizWitz adds a strategic twist to your quiz.
 
 ## 🏷️ सवालों को कैटेगरी असाइन करना
 
-Each question in the Dealer’s Choice round needs a **unique label**, which acts as the category the dealer sees and selects from.
+डीलर्स चॉइस राउंड के हर सवाल को एक **अनोखे टैग** की ज़रूरत होती है, जो उस कैटेगरी के रूप में दिखता है जिसमें से डीलर चुनता है।
 
 उदाहरण के लिए:
 
@@ -74,5 +74,5 @@ Each question in the Dealer’s Choice round needs a **unique label**, which act
 
 ---
 
-The Dealer’s Choice round encourages interaction and gives players a bit of control, while still rewarding quick and correct answers. यह सभी को जोड़े रखने का शानदार तरीका है!
+डीलर्स चॉइस राउंड बातचीत को बढ़ावा देता है और खिलाड़ियों को थोड़ा नियंत्रण देता है, जबकि तेज़ और सही जवाबों को इनाम मिलता रहता है। यह सभी को जोड़े रखने का शानदार तरीका है!
 
