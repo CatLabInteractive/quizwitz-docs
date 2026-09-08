@@ -6,7 +6,7 @@ title: Introduction
 # 🛠️ Quizmaker’s guide
 
 Welcome to the guide for quiz creators!  
-On QuizWitz, you can build and organize your own quiz content — or collect and remix content made by others.
+On QuizWitz, you can build and organize your own quiz content - or collect and remix content made by others.
 
 ---
 
@@ -14,8 +14,8 @@ On QuizWitz, you can build and organize your own quiz content — or collect and
 
 As a quizmaker, you can work with:
 
-- **Round-Abouts** — Small, themed collections of questions shown in random order
-- **Full Quizzes** — Custom quizzes, combining multiple Round-Abouts in a specific sequence
+- **Round-Abouts** - Small, themed collections of questions shown in random order
+- **Full Quizzes** - Custom quizzes, combining multiple Round-Abouts in a specific sequence
 
 You can also **collect Round-Abouts** created by other members and include them in your own quizzes.
 

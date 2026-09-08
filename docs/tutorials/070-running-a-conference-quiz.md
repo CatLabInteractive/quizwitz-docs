@@ -5,7 +5,7 @@ title: Running a conference quiz
 
 # Running a conference quiz
 
-This guide walks you through everything you need to know to run a QuizWitz quiz at a conference booth or event — from opening the quiz link to the final leaderboard.
+This guide walks you through everything you need to know to run a QuizWitz quiz at a conference booth or event - from opening the quiz link to the final leaderboard.
 
 ---
 
@@ -16,7 +16,7 @@ Before you start, make sure you have:
 - A stable internet connection
 - The quiz URL (provided to you in advance)
 - A laptop connected to the screen that players will watch
-- **Google Chrome** — other browsers like Safari or Edge may not work correctly
+- **Google Chrome** - other browsers like Safari or Edge may not work correctly
 
 ---
 
@@ -27,7 +27,7 @@ Before you start, make sure you have:
 
 2. A black loading screen appears showing a percentage. This only takes a few seconds.
 
-3. Once loaded, the game screen appears. If prompted to log in, click **Login** — a second tab will open.  
+3. Once loaded, the game screen appears. If prompted to log in, click **Login** - a second tab will open.  
    - Click **Login** on the sign-in page and enter the credentials provided to you.  
    - After signing in, the tab closes automatically and the quiz finishes loading.
 
@@ -38,7 +38,7 @@ Before you start, make sure you have:
    The quiz is now ready to play on the game screen.
 
 :::tip
-To exit fullscreen at any time — for example, to switch to another window — press **Esc**.
+To exit fullscreen at any time - for example, to switch to another window - press **Esc**.
 :::
 
 ---
@@ -47,8 +47,8 @@ To exit fullscreen at any time — for example, to switch to another window — 
 
 To play again after a completed game, you have a few options:
 
-- **Reload the page** — click the reload icon in Chrome's toolbar (you may need to press Esc first to exit fullscreen).
-- **Press S** — after the quiz ends, pressing **S** on the keyboard brings you back to the start screen.
+- **Reload the page** - click the reload icon in Chrome's toolbar (you may need to press Esc first to exit fullscreen).
+- **Press S** - after the quiz ends, pressing **S** on the keyboard brings you back to the start screen.
 
 If a pop-up appears asking whether you want to start a new game, click **Yes, start new game**.
 

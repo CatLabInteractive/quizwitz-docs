@@ -3,16 +3,16 @@ id: seats
 title: Seats
 ---
 
-# 🎟️ QuizWitz PRO – How seats work
+# 🎟️ QuizWitz PRO - How seats work
 
-QuizWitz PRO games require **active seats** to connect players. Seats are a flexible, pay-as-you-go or license-based system that scales with your needs — perfect for pub quizzes, livestreams, and professional quiz events.
+QuizWitz PRO games require **active seats** to connect players. Seats are a flexible, pay-as-you-go or license-based system that scales with your needs - perfect for pub quizzes, livestreams, and professional quiz events.
 
 ---
 
 ## 🧑‍🤝‍🧑 What are seats?
 
 - Each connected **player or team** in a PRO game requires **1 active seat**.
-- You can host games with **individual players** or **teams sharing one device** — each counts as one seat.
+- You can host games with **individual players** or **teams sharing one device** - each counts as one seat.
 - **Party Game and Single player games** do **not** require seats and are ideal for casual play with friends or family.
 
 ---
@@ -27,7 +27,7 @@ QuizWitz PRO games require **active seats** to connect players. Seats are a flex
 
 ## 💼 QuizWitz PRO licenses
 
-If you host quizzes regularly, a **QuizWitz PRO license** gives you **permanently active seats** that are always available — no need to activate them manually.
+If you host quizzes regularly, a **QuizWitz PRO license** gives you **permanently active seats** that are always available - no need to activate them manually.
 
 Available license tiers include:
 
@@ -39,7 +39,7 @@ Available license tiers include:
 
 These seats are ideal for recurring events, larger team setups, or professional venues.
 
-> ⚠️ **Important**: If you need to host a quiz with **more players than your license allows**, you must **activate pay-as-you-go seats** for the full number of players. The seats from your license are not added to your activated seats — they are **replaced** entirely.
+> ⚠️ **Important**: If you need to host a quiz with **more players than your license allows**, you must **activate pay-as-you-go seats** for the full number of players. The seats from your license are not added to your activated seats - they are **replaced** entirely.
 
 ---
 
@@ -52,7 +52,7 @@ For one-time or occasional events, you can activate **pay-as-you-go seats** inst
 - Each **PRO license** includes a **value of free credits**.
 - If you're unsure how many players will join:
     - You can **wait until everyone connects** before activating seats.
-    - Or, activate more seats than needed — **unused seats are automatically refunded** in credits after they expire.
+    - Or, activate more seats than needed - **unused seats are automatically refunded** in credits after they expire.
 
 ---
 
@@ -80,4 +80,4 @@ For one-time or occasional events, you can activate **pay-as-you-go seats** inst
 
 ---
 
-QuizWitz PRO gives you flexible and professional tools to run events of any size — whether you activate seats on demand or rely on a PRO license for always-on access.
+QuizWitz PRO gives you flexible and professional tools to run events of any size - whether you activate seats on demand or rely on a PRO license for always-on access.

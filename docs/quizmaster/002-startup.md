@@ -3,9 +3,9 @@ id: startup
 title: Start-up
 ---
 
-# 🚀 Start-up — Hosting a Quiz with QuizWitz Live
+# 🚀 Start-up - Hosting a Quiz with QuizWitz Live
 
-Welcome to QuizWitz Live — the professional way to host quizzes for teams, livestreams, and in-person events. Follow this guide to get your quiz up and running using the Quizmaster App.
+Welcome to QuizWitz Live - the professional way to host quizzes for teams, livestreams, and in-person events. Follow this guide to get your quiz up and running using the Quizmaster App.
 
 ---
 
@@ -23,7 +23,7 @@ You can start a QuizWitz Live game from the quiz editor or directly from your qu
 
 ## 🔐 Connecting with the quizmaster code
 
-Once launched, your screen will display a **quizmaster code**. **Do not share this code with players** — it's used to connect your presentation device to the game.
+Once launched, your screen will display a **quizmaster code**. **Do not share this code with players** - it's used to connect your presentation device to the game.
 
 - Visit [quizwitz.tv](https://quizwitz.tv) on your quizmaster device and enter the quizmaster code.
 - A **Quizmaster App interface** will appear, where you control the game.
@@ -32,7 +32,7 @@ Once launched, your screen will display a **quizmaster code**. **Do not share th
 
 After connecting, the quizmaster code disappears from the screen. You’re now ready to show the game screen on a projector or start your livestream.
 
-> ⚠️ **Heads up!** If the game screen is not actively in focus — for example, if you switch tabs or minimize it — the game will **automatically pause**.  
+> ⚠️ **Heads up!** If the game screen is not actively in focus - for example, if you switch tabs or minimize it - the game will **automatically pause**.  
 > When this happens:
 > - The **Quizmaster App also pauses**
 > - To resume, first make sure the **game screen is active again**
@@ -50,13 +50,13 @@ Once connected, choose between two game modes:
 
 - Each team gets a **unique code**, which can be opened on multiple devices.
 - Best for **pre-registered team quizzes** where you know the team names in advance.
-- Allows device switching — helpful if a battery dies mid-quiz.
+- Allows device switching - helpful if a battery dies mid-quiz.
 
 ### Single game code
 
 - Everyone joins using **one shared Game Code**.
 - Ideal for casual or open-access events.
-- No pre-registration required — players can join anytime, until all active seats are filled.
+- No pre-registration required - players can join anytime, until all active seats are filled.
 
 > Make sure you're logged in to access your quiz content.
 
@@ -70,13 +70,13 @@ When using **Team codes**, you will first create teams in the Quizmaster App:
 - Press **‘Generate Codes’** to create access codes  
   ![Quizmaster App - create teams](/images/quizmaster-app-create-teams.png)
 
-You can also **reserve codes in advance** — more on that in the tips & tricks section.
+You can also **reserve codes in advance** - more on that in the tips & tricks section.
 
 Be sure to **save the following codes**:
 
-- **Quizmaster code** — to control the quiz
-- **Jury Code** — for manual score adjustments
-- **Regie Code** — to control visual and technical elements
+- **Quizmaster code** - to control the quiz
+- **Jury Code** - for manual score adjustments
+- **Regie Code** - to control visual and technical elements
 
 Send team codes to your players via email or printouts.
 
@@ -91,7 +91,7 @@ When ready, click **‘Load quiz’**, wait for assets to load, and then click *
 With the **Single game code** scheme:
 
 - You’ll receive the quizmaster, jury, and regie codes, plus one game code for players.
-- The game code appears on the game screen — **display or stream it to your audience**.
+- The game code appears on the game screen - **display or stream it to your audience**.
 - Players can join any time until your active seat limit is reached.
 
 Once your players are in:

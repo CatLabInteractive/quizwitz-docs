@@ -5,7 +5,7 @@ title: Lightning round
 
 # ⚡ Lightning round
 
-The **Lightning round** is all about speed and excitement. Players answer a rapid series of questions with very short timers — all set to continuous timer music for maximum energy and tension.
+The **Lightning round** is all about speed and excitement. Players answer a rapid series of questions with very short timers - all set to continuous timer music for maximum energy and tension.
 
 ---
 
@@ -29,7 +29,7 @@ See [round options](../editor/008-round-options.md) for details on configuring f
 
 ---
 
-## 🎵 Attachments — Countdown music
+## 🎵 Attachments - Countdown music
 
 - You can set a **Round Attachment** in the slot “Play during question countdown.”  
   This audio attachment will play **continuously** as the countdown music during the entire lightning round, only stopping after the last question.
