@@ -58,6 +58,6 @@ Je to obzvlášť účinné pri hádankách alebo pomalom odhaľovaní počas ú
 Niektoré miesta umožňujú pridať **viac príloh**. To, ako sa správajú, závisí od herného režimu:
 
 > ⚡ **V [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** quizmaster má plnú kontrolu a môže rozhodnúť, kedy počas hrania zobraziť alebo skryť prílohy.  
-> 🎮 **In games without a quizmaster (Party Game, Conference mode, Single player):** All attachments within a slot are shown **simultaneously**.
+> 🎮 **V hrách bez quizmastera (Párty hra, konferenčný režim, Jeden hráč):** všetky prílohy v rámci slotu sa zobrazia **súčasne**.
 
 Podrobnosti o načasovaní a správaní jednotlivých miest nájdeš v prepojenej dokumentácii pre [otázky](../editor/015-importing-questions.md), [kolá](../editor/008-round-options.md) a [kvízy](../editor/007-quiz-options.md).
