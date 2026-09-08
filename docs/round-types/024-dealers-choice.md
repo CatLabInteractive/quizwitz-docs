@@ -7,7 +7,7 @@ title: Dealer's Choice
 
 The **Dealer’s Choice** round in QuizWitz adds a strategic twist to your quiz. 
 One of the players gets to **choose the next question category**, giving them a potential 
-edge - and possibly a bonus! Here's how to set it up and play:
+edge—and possibly a bonus! Here's how to set it up and play:
 
 ---
 
@@ -25,10 +25,10 @@ In this round, **one player becomes the "dealer"** and selects the next category
 Each question in the Dealer’s Choice round needs a **unique label**, which acts as the category the dealer sees and selects from.
 
 For example:
-- `Animals - Easy`
-- `Animals - Hard`
-- `History - Fun Facts`
-- `Movies - Action Classics`
+- `Animals – Easy`
+- `Animals – Hard`
+- `History – Fun Facts`
+- `Movies – Action Classics`
 
 > Even if questions share a general theme, their labels should still be unique so players can clearly identify and choose them.
 
