@@ -6,7 +6,7 @@ title: Inleiding
 # 🛠️ Gids voor quizmakers
 
 Welkom bij de gids voor quizmakers!  
-Op QuizWitz kun je je eigen quizinhoud maken en organiseren — of inhoud verzamelen en remixen die door anderen is gemaakt.
+On QuizWitz, you can build and organize your own quiz content - or collect and remix content made by others.
 
 ---
 
@@ -14,8 +14,8 @@ Op QuizWitz kun je je eigen quizinhoud maken en organiseren — of inhoud verzam
 
 Als quizmaker werk je met:
 
-- **Round-Abouts** — Kleine, thematische verzameling vragen die in willekeurige volgorde worden getoond
-- **Volledige quizzen** — Aangepaste quizzen, die meerdere Round-Abouts in een specifieke volgorde combineren
+- **Round-Abouts** - Small, themed collections of questions shown in random order
+- **Full Quizzes** - Custom quizzes, combining multiple Round-Abouts in a specific sequence
 
 Je kunt ook **Round-Abouts verzamelen** die door andere leden zijn gemaakt en deze in je eigen quizzen opnemen.
 
