@@ -3,7 +3,7 @@ id: jury-app
 title: App Giuria
 ---
 
-# 🧑‍⚖️ App della Giuria — Riesame delle risposte aperte in QuizWitz Live
+# 🧑‍⚖️ Jury App - Reviewing open answers in QuizWitz Live
 
 Se il tuo quiz include **domande di risposta aperte**, dovrai utilizzare l'**App Giuria** per rivedere manualmente e valutare le risposte.
 
@@ -19,20 +19,20 @@ Per aprire l'App della Giuria:
 2. Su un dispositivo separato, vai su [**quizwitz.tv**](https://quizwitz.tv)
 3. Inserisci il **Codice giuria** per accedere all'app
 
-> 💡 È possibile aprire l'App della Giuria su qualsiasi browser — si tratta di una web app, nessuna installazione richiesta.
+> 💡 You can open the Jury App on any browser - it's a web app, no installation required.
 
 Una volta all'interno, l'App della Giuria fornisce diversi strumenti utili:
 
-- **Valuta le domande** — I risultati delle domande aperte appariranno una volta completata la domanda.
-  - Il gioco **non aspetta** che la giuria finisca, a meno che non sia l'**ultima domanda del round** o che le impostazioni del quiz dicano diversamente.
+- **Judge questions** - Open question results will appear once a question is completed.
+  - The game does **not wait** for the jury to finish - unless it’s the **last question of the round** or the quiz settings say otherwise.
   - Una volta valutati, i risultati appaiono **dopo la domanda successiva**.
 
-- **Modifica i punteggi** — Assegna o revoca manualmente punti per giocatore o team.
+- **Edit scores** - Grant or revoke points manually per player or team.
 
-- **Controllo del gioco** — Regola i timer delle domande o aggiungi ritardi dello streaming, se necessario.
+- **Game control** - Adjust question timers or add streaming delays if needed.
   > Per configurare il ritardo della diretta streaming, vedi [**come ospitare un quiz QuizWitz Live su Twitch**](../tutorials/040-livestreaming.md)
 
-- **Report** — Genera un report completo della partita con risultati e risposte dei giocatori.
+- **Report** - Generate a full game report with results and player answers.
 
 ![Screenshot of the Jury App in Pending state](/images/jury-app-waiting.png)
 
@@ -54,7 +54,7 @@ QuizWitz **rileverà automaticamente le corrispondenze esatte** e le segnerà co
 - Corrispondenze fonetiche
 - Variazioni ortografiche comuni
 
-> 🎙️ QuizWitz è stato progettato pensando alla corrispondenza fonetica, ma la decisione finale spetta sempre ai giudici.
+> 🎙️ QuizWitz was designed with phonetic matching in mind - but the final decision is always up to the judges.
 
 ---
 
