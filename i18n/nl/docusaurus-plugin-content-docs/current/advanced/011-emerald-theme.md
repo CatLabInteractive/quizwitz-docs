@@ -5,7 +5,7 @@ title: Emerald-thema
 
 # Emerald-thema
 
-Het Emerald-thema is de makkelijkste manier om het uiterlijk van je QuizWitz game aan te passen. Standaard is het thema een frisse blauw / groene stijl met levendige keuropties, maar door quizbijlagen en thema-aanpassingen te combineren kun je het uiterlijk volledig naar wens veranderen.
+Het Emerald-thema is de makkelijkste manier om het uiterlijk van je QuizWitz game aan te passen. By default, the theme is a clean blue / green style with vivid option colors, but by combining quiz attachments and theme modifiers you can change the way it looks - drastically.
 
 :::tip
 Je kunt onze [thematester](https://client.quizwitz.com/test.html?theme=emerald) gebruiken om te zien hoe jouw instellingen eruitzien.
@@ -25,7 +25,7 @@ Je kunt een quiz testen met het Emerald-thema [hier](https://play.quizwitz.com/1
 
 ### Quizbijlagen
 
-De simpelste manier om het uiterlijk en het gevoel van de game te veranderen is door afbeeldingen toe te voegen aan je quiz. Open de **Quizinstellingen** en scroll naar het onderdeel **Bijlagen**. Hier kun je afbeeldingen uploaden die gebruikt worden als achtergrond, klantlogo, connect- en wacht-schermen (voor conferentie- en live-quizzes), en nog meer.
+De simpelste manier om het uiterlijk en het gevoel van de game te veranderen is door afbeeldingen toe te voegen aan je quiz. Open de **Quizinstellingen** en scroll naar het onderdeel **Bijlagen**. Here you can upload images that will be used as background, client logo, connect - and wait screens (for conference - and live quizzes), and more.
 
 ![Een screenshot van de quizbijlagen](/images/emerald/quiz-attachments.png)
 
@@ -51,7 +51,7 @@ Alle muziek in de game kan ook vervangen worden door bijlagen. Alle audiobestand
 
 ## Emerald-thema aanpassers
 
-Naast bijlagen kun je het Emerald-thema ook aanpassen met **query parameters**. Dit zijn parameters die je kunt toevoegen aan de URL van de **geavanceerde spelopties** om het uiterlijk van het thema aan te passen.
+Naast bijlagen kun je het Emerald-thema ook aanpassen met **query parameters**. These are parameters you can add to the **advanced game options** URL - and they change the look of the theme.
 
 Hiervoor starten we met een voorbeeldquiz (zonder bijlagen):\
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
@@ -60,7 +60,7 @@ Als je bovenstaande quiz start, krijg je de game in de standaard Emerald-stijl. 
 
 :::tip
 De makkelijkste manier om te experimenteren met deze parameters is met onze [thematester](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).  
-Ben je klaar met experimenteren, dan kun je de parameters gewoon kopiëren en plakken naar de URL van je geavanceerde spelopties.
+When you are done experimenting, you can copy - paste the parameters to your advanced game options URL.
 :::
 
 De beschikbare aanpassers zijn:
@@ -71,8 +71,8 @@ De beschikbare aanpassers zijn:
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
-- optionColors (4 kleuren, komma-gescheiden)
-- optionBorderColors (4 kleuren, komma-gescheiden)
+- optionColors (4 colors, comma - separated)
+- optionBorderColors (4 colors, comma - separated)
 
 Daarnaast kun je een standaardlettertype instellen:
 
@@ -81,7 +81,7 @@ Daarnaast kun je een standaardlettertype instellen:
 
 Deze lettertypes moeten URL's zijn naar publiek toegankelijke fontbestanden.
 
-Elk van deze aanpassers kan een enkele kleur bevatten in HTML-hexformaat (ff0000), of een lineaire gradient door meerdere kleuren te geven gescheiden door een minteken (zoals ff1b6b-45caff). (Let op: het # symbool mag niet gebruikt worden.)
+Each of these modifiers can contain a single color in HTML hex format (ff0000), or a linear gradient by providing multiple colors divided by a minus symbol ( - for example ff1b6b-45caff). (Let op: het # symbool mag niet gebruikt worden.)
 
 :::note
 De query parameters moeten beginnen met een vraagteken (?) ) en elke parameter moet gescheiden worden met een ampersand (&). Voor meer informatie over query parameters, bekijk [wikipedia](https://en.wikipedia.org/wiki/Query_string).
