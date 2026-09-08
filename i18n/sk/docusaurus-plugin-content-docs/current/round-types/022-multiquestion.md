@@ -34,7 +34,7 @@ Kolo **Viacotázka** dáva hráčom (alebo tímom) slobodu vybrať si, na ktorú
 ## 💡 Tipy
 
 - Ponúkni kombináciu ľahkých a ťažkých otázok, aby bolo v hre viac stratégie.
-- Používaj štítky kreatívne — tajomné alebo zábavné témy môžu zvýšiť zapojenie hráčov.
+- Use labels creatively - mystery or fun themes can boost engagement.
 - Odmeň riskujúcich hráčov otázkami s vyšším počtom bodov.
 
 ---
