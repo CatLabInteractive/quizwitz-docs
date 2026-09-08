@@ -5,7 +5,7 @@ title: Vedomostné otázky (bežné kolo)
 
 # ❓ Vedomostné otázky (bežné kolo)
 
-Kolo **Vedomostné otázky** je klasický, predvolený typ kola v QuizWitz. Všetkým hráčom zobrazí sériu otázok — ideálne na všeobecné vedomosti, tematické kvízy alebo zahrievacie kolá.
+Kolo **Vedomostné otázky** je klasický, predvolený typ kola v QuizWitz. It presents a series of questions to all players - ideal for general knowledge, themed quizzes, or warm-up rounds.
 
 ---
 
