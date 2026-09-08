@@ -61,4 +61,4 @@ Une manche Activité vous permet de vous éloigner des questions de quiz standar
 
 ---
 
-La manche Activité est parfaite pour les défis interactifs, les duels ou les tâches créatives — un excellent moyen d’ajouter de l’énergie et de la variété à votre événement QuizWitz !
+The Activity round is perfect for interactive challenges, duels, or creative tasks - a great way to add energy and variety to your QuizWitz event!
