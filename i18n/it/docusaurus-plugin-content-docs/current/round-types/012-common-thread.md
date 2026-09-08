@@ -5,7 +5,7 @@ title: Filo conduttore
 
 # 🧵 Filo conduttore
 
-Il round **Filo conduttore** è una variante speciale del classico round di Trivia. In questo round, i giocatori rispondono a una serie di domande normali, ma il colpo di scena è che tutte le risposte sono collegate in segreto da un unico tema o legame di fondo: il “filo conduttore”.
+Il round **Filo conduttore** è una variante speciale del classico round di Trivia. In this round, players answer a series of regular questions, but the twist is that all answers are secretly connected by a single underlying theme or link - the “common thread.”
 
 ---
 
