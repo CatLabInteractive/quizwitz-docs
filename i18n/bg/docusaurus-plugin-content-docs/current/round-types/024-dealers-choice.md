@@ -5,7 +5,7 @@ title: Dealer's Choice
 
 # 🃏 Dealer's Choice
 
-The **Dealer’s Choice** round in QuizWitz adds a strategic twist to your quiz.
+Рундът **Dealer's Choice** в QuizWitz добавя стратегически обрат към куиза ти.
 Един от играчите може да **избере категорията на следващия въпрос**, което му дава потенциално
 предимство — а може би и бонус! Ето как да го настроиш и играеш:
 
@@ -22,7 +22,7 @@ The **Dealer’s Choice** round in QuizWitz adds a strategic twist to your quiz.
 
 ## 🏷️ Задаване на категории към въпросите
 
-Each question in the Dealer’s Choice round needs a **unique label**, which acts as the category the dealer sees and selects from.
+Всеки въпрос в рунд Dealer's Choice се нуждае от **уникален таг**, който се показва като категория, от която дилърът избира.
 
 Например:
 
@@ -74,5 +74,5 @@ Each question in the Dealer’s Choice round needs a **unique label**, which act
 
 ---
 
-The Dealer’s Choice round encourages interaction and gives players a bit of control, while still rewarding quick and correct answers. Това е страхотен начин да държиш всички ангажирани!
+Рундът Dealer's Choice насърчава взаимодействието и дава на играчите малко контрол, като същевременно продължава да награждава бързите и верни отговори. Това е страхотен начин да държиш всички ангажирани!
 
