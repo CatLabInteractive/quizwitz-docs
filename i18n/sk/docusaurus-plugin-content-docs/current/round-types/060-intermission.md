@@ -11,19 +11,19 @@ title: Prestávka
 
 ## 📝 Ako to funguje
 
-- During an intermission, the game screen is paused and a timer is shown.
-- **In Conference mode and Party Games:**  
-  The intermission ends when someone presses **Enter** on the game screen.
+- Počas prestávky je herná obrazovka pozastavená a zobrazuje sa časomiera.
+- **V konferenčnom režime a Párty hrách:**  
+  Prestávka sa skončí, keď niekto na hernej obrazovke stlačí **Enter**.
 - **V hrách QuizWitz Live:**  
   quizmaster ukončí prestávku zo svojho zariadenia (tabletu alebo smartfónu).  
-  The Quizmaster App displays a timer so the quizmaster can see how long the intermission has lasted.
+  Quizmaster App zobrazuje časomieru, aby quizmaster videl, ako dlho prestávka trvá.
 
 ---
 
 ## 🖼️ Prílohy
 
 - V nastaveniach kola môžeš nahrať obrázky, logá alebo videá.
-- During the intermission, these attachments will be shown in a carousel on the game screen—great for sponsor logos, messages, or promotional videos.
+- Počas prestávky sa tieto prílohy zobrazia na hernej obrazovke v karuseli - skvelé pre logá sponzorov, odkazy alebo propagačné videá.
 - Prílohy sa budú prehrávať v slučke počas celej pauzy.
 
 ---
