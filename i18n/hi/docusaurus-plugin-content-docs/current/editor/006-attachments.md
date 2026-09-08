@@ -23,9 +23,9 @@ title: अटैचमेंट
 
 यहाँ संगत फ़ॉर्मैट की एक सामान्य (पूरी नहीं) सूची है:
 
-- **इमेज** — `.png`, `.jpeg`, `.gif` (नॉन-एनिमेटेड)। Full HD (1920×1080) सुझाया गया है
-- **ऑडियो** — ज़्यादातर मानक फ़ॉर्मैट समर्थित हैं
-- **वीडियो** — ज़्यादातर मानक फ़ॉर्मैट समर्थित हैं
+- **Images** - `.png`, `.jpeg`, `.gif` (non-animated). Full HD (1920×1080) सुझाया गया है
+- **Audio** - Most standard formats are supported
+- **Video** - Most standard formats are supported
 
 > 🔊 ⏱️ ऑडियो और वीडियो अटैचमेंट की अवधि **15 मिनट से ज़्यादा नहीं** होनी चाहिए।
 
@@ -35,8 +35,8 @@ title: अटैचमेंट
 
 हर अटैचमेंट का एक नाम और वैकल्पिक क्रेडिट हो सकता है:
 
-- **नाम** — [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) में quizmaster को दिखाया जाता है; अटैचमेंट को व्यवस्थित करने में मदद करता है
-- **क्रेडिट** — खिलाड़ियों को श्रेय या स्रोत जानकारी के रूप में दिखाया जाता है। यह **अधिकार धारक का नाम** होना चाहिए।
+- **Name** - Displayed to the quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); helps in organizing attachments
+- **Attribution** - Shown to players as credit or source information. यह **अधिकार धारक का नाम** होना चाहिए।
 
 > ⚠️ किसी Round-About या क्विज़ को **प्रकाशित** करने के लिए, **सभी अटैचमेंट में वैध क्रेडिट** भरा होना चाहिए। इसके बिना, आपकी एंट्री सार्वजनिक नहीं की जा सकती।
 
@@ -46,8 +46,8 @@ title: अटैचमेंट
 
 कुछ अटैचमेंट स्लॉट विज़ुअल्स को धीरे-धीरे दिखाने के लिए **इफ़ेक्ट** सपोर्ट करते हैं:
 
-- **कोई नहीं** — फ़ाइल जैसी है वैसी ही दिखाई जाती है
-- **स्पॉटलाइट इफ़ेक्ट** — चलती हुई स्पॉटलाइट के साथ समय के साथ इमेज के हिस्सों को धीरे-धीरे दिखाता है, जो आगे बढ़ने पर फैलती जाती है
+- **None** - The file is shown as-is
+- **Spotlight effect** - Gradually reveals parts of the image over time with a moving spotlight that expands as it progresses
 
 यह पज़ल्स या इंट्रो और नाटकीय पलों में धीमे रिवील के लिए खास तौर पर असरदार है।
 
