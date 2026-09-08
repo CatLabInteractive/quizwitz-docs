@@ -5,7 +5,7 @@ title: Villámkör
 
 # ⚡ Villámkör
 
-A **Villámkör** a sebességről és az izgalomról szól. A játékosok gyors egymásutánban válaszolnak kérdésekre, nagyon rövid időzítőkkel — mindezt folyamatos időzítőzenével, a maximális energia és feszültség érdekében.
+A **Villámkör** a sebességről és az izgalomról szól. Players answer a rapid series of questions with very short timers - all set to continuous timer music for maximum energy and tension.
 
 ---
 
@@ -29,7 +29,7 @@ A visszajelzések időzítésének beállításáról további részleteket a [k
 
 ---
 
-## 🎵 Mellékletek — Visszaszámláló zene
+## 🎵 Attachments - Countdown music
 
 - Beállíthatsz egy **Körmellékletet** a „Lejátszás a kérdés-visszaszámlálás alatt” helyre.  
   Ez a hangmelléklet **folyamatosan** szól visszaszámláló zeneként a teljes villámkör alatt, és csak az utolsó kérdés után áll le.
