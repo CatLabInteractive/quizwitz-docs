@@ -6,13 +6,13 @@ sidebar_position: 1000
 
 # ⚠️ लाइव क्रैश रिकवरी
 
-क्या आपका गेम फ्रीज़ हो गया? क्या टैब गलती से बंद हो गया? [**QuizWitz Live**](quizmaster/001-introduction.md) में एक बिल्ट-इन रिकवरी सिस्टम शामिल है, जो आपकी प्रगति खोए बिना आपको फिर से ट्रैक पर आने में मदद करता है।
+क्या आपका गेम फ्रीज़ हो गया? क्या टैब गलती से बंद हो गया? [**QuizWitz Live**](quizmaster/001-introduction.md) includes a built-in recovery system to help you get back on track - without losing your progress.
 
 ---
 
 ## 🔄 गेम रिकवरी कैसे काम करती है
 
-अगर आपका गेम क्रैश हो जाए, अटक जाए, या किसी भी वजह से बाधित हो जाए — चाहे वह ब्राउज़र की समस्या हो, सिस्टम रीस्टार्ट हो, या टैब गलती से बंद हो गया हो — आप सेशन को आसानी से फिर से शुरू कर सकते हैं।
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the session easily.
 
 बस वही ब्राउज़र टैब **फिर से खोलो** जिसमें तुमने **गेम स्क्रीन** दिखाई थी। यह वही स्क्रीन है जिसे आप अपने दर्शकों के लिए प्रोजेक्ट या स्ट्रीम करते हैं।
 
@@ -48,7 +48,7 @@ sidebar_position: 1000
 ## 💡 जानने लायक बात
 
 - रिकवरी केवल तभी काम करती है जब आप **उसी ब्राउज़र में उसी गेम स्क्रीन पर वापस लौटते हैं**
-- किसी अलग पेज पर **न** जाएँ — गेम होस्ट करने के लिए जिस **सटीक URL** का उपयोग कर रहे थे, उसे फिर से खोलें
+- Do **not** navigate to a different page - reopen the **exact URL** you were using to host the game
 - यह फ़ीचर इनसे रिकवर करने में मदद करता है:
   - ब्राउज़र क्रैश
   - क्विज़ के बीच में फ्रीज़ या अटक जाना
@@ -56,4 +56,4 @@ sidebar_position: 1000
 
 ---
 
-गेम रिकवरी के साथ, आप आत्मविश्वास से होस्ट कर सकते हैं — यह जानते हुए कि अगर कुछ गलत भी हो जाए, तो आप ठीक वहीं से आगे बढ़ सकते हैं जहाँ आपने छोड़ा था।
+With game recovery, you can host confidently - knowing that even if something goes wrong, you can pick up right where you left off.
