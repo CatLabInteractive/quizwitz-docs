@@ -61,4 +61,4 @@ Kolo Aktivita ťa nechá na chvíľu odísť od štandardných kvízových otáz
 
 ---
 
-Kolo Aktivita je ideálne na interaktívne výzvy, duely alebo kreatívne úlohy — skvelý spôsob, ako dodať tvojej QuizWitz akcii energiu a rozmanitosť!
+The Activity round is perfect for interactive challenges, duels, or creative tasks - a great way to add energy and variety to your QuizWitz event!
