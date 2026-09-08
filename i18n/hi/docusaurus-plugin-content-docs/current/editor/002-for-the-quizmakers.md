@@ -6,7 +6,7 @@ title: परिचय
 # 🛠️ क्विज़मेकर की गाइड
 
 क्विज़ क्रिएटर्स की गाइड में आपका स्वागत है!  
-QuizWitz पर, आप अपना खुद का क्विज़ कंटेंट बना और व्यवस्थित कर सकते हैं — या दूसरों द्वारा बनाए गए कंटेंट को इकट्ठा करके रीमिक्स कर सकते हैं।
+On QuizWitz, you can build and organize your own quiz content - or collect and remix content made by others.
 
 ---
 
@@ -14,8 +14,8 @@ QuizWitz पर, आप अपना खुद का क्विज़ कं�
 
 एक क्विज़मेकर के तौर पर, आप इनके साथ काम कर सकते हैं:
 
-- **Round-Abouts** — सवालों के छोटे, थीम-आधारित कलेक्शन, जो रैंडम क्रम में दिखाए जाते हैं
-- **Full Quizzes** — कस्टम क्विज़, जिनमें कई Round-Abouts को एक खास क्रम में जोड़ा जाता है
+- **Round-Abouts** - Small, themed collections of questions shown in random order
+- **Full Quizzes** - Custom quizzes, combining multiple Round-Abouts in a specific sequence
 
 आप दूसरे सदस्यों द्वारा बनाए गए **Round-Abouts इकट्ठा** भी कर सकते हैं और उन्हें अपने क्विज़ में शामिल कर सकते हैं।
 
