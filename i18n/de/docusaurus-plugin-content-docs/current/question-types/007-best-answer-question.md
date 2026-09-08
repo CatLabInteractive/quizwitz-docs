@@ -6,7 +6,7 @@ title: Beste-Antwort-Frage
 # 🎖️ Beste-Antwort-Frage
 
 Beim Fragetyp **Beste-Antwort-Frage** schreiben die Spieler ihre eigenen Antworten auf eine offene Frage.  
-Punkte werden entweder manuell vom quizmaster vergeben oder—wenn kein quizmaster vorhanden ist—indem die Spieler für ihre Lieblingsantwort abstimmen.
+Points are awarded either manually by the quizmaster, or - if there is no quizmaster - by having players vote for their favorite response.
 
 ---
 
