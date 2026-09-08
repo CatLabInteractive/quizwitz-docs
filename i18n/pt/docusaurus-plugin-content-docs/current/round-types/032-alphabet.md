@@ -5,8 +5,8 @@ title: Alfabeto
 
 # 🔤 Alfabeto
 
-Uma ronda de **Alfabeto** é uma [Ronda tradicional](030-traditional.md) com um toque especial: cada pergunta recebe uma etiqueta única,
-e os jogadores devem associar as suas respostas aos campos etiquetados corretos. Esta ronda recompensa tanto o conhecimento quanto a dedução!
+An **Alphabet** round is a [Traditional round](030-traditional.md) with a twist - each question is assigned a unique label,
+and players must match their answers to the correct labeled fields. Esta ronda recompensa tanto o conhecimento quanto a dedução!
 
 ---
 
@@ -27,10 +27,10 @@ e os jogadores devem associar as suas respostas aos campos etiquetados corretos.
 
 ## 📝 Como funciona
 
-- À medida que as perguntas são feitas, os jogadores veem uma lista de campos de resposta — um para cada pergunta.
-- **Os campos de resposta não estão na ordem do quiz** — em vez disso, são ordenados alfabeticamente por etiqueta.
+- As questions are asked, players see a list of answer fields - one for each question.
+- **The answer fields are not in quiz order** - instead, they’re sorted alphabetically by label.
 - Os jogadores devem associar as suas respostas aos campos etiquetados corretos (por exemplo, a resposta para a pergunta "Bear" deve ser inserida sob a etiqueta "B").
-- As respostas podem ser alteradas a qualquer momento até a ronda terminar — os jogadores podem trocar respostas entre os campos quando percebem os seus erros.
+- Answers can be changed at any time until the round finishes - players can switch answers between fields as they realize their mistakes.
 
 ---
 
