@@ -5,7 +5,7 @@ title: Bleskové kolo
 
 # ⚡ Bleskové kolo
 
-**Bleskové kolo** je celé o rýchlosti a napätí. Hráči odpovedajú na rýchlu sériu otázok s veľmi krátkymi časovačmi — a popritom nepretržite hrá hudba časovača pre maximum energie a napätia.
+**Bleskové kolo** je celé o rýchlosti a napätí. Players answer a rapid series of questions with very short timers - all set to continuous timer music for maximum energy and tension.
 
 ---
 
@@ -29,7 +29,7 @@ Podrobnosti o nastavení načasovania spätnej väzby nájdeš v časti [možnos
 
 ---
 
-## 🎵 Prílohy — hudba odpočítavania
+## 🎵 Attachments - Countdown music
 
 - Môžeš nastaviť **prílohu kola** v slote „Prehrať počas odpočítavania otázky“.  
   Táto zvuková príloha sa bude prehrávať **nepretržite** ako hudba odpočítavania počas celého bleskového kola a zastaví sa až po poslednej otázke.
