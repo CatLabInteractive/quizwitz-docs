@@ -3,16 +3,16 @@ id: seats
 title: Seats
 ---
 
-# 🎟️ QuizWitz PRO – Így működik a Seats
+# 🎟️ QuizWitz PRO - How seats work
 
-A QuizWitz PRO játékokhoz **aktív férőhelyek** szükségesek, hogy a játékosok csatlakozni tudjanak. A Seats egy rugalmas, használat alapú vagy licencalapú rendszer, amely az igényeiddel együtt skálázódik — tökéletes kocsmakvízekhez, élő közvetítésekhez és profi kvízeseményekhez.
+A QuizWitz PRO játékokhoz **aktív férőhelyek** szükségesek, hogy a játékosok csatlakozni tudjanak. Seats are a flexible, pay-as-you-go or license-based system that scales with your needs - perfect for pub quizzes, livestreams, and professional quiz events.
 
 ---
 
 ## 🧑‍🤝‍🧑 Mik azok a férőhelyek?
 
 - Minden csatlakozott **játékosnak vagy csapatnak** egy PRO játékban **1 aktív férőhelyre** van szüksége.
-- Rendezhetsz játékokat **egyéni játékosokkal** vagy **egy eszközt megosztó csapatokkal** — mindegyik egy férőhelynek számít.
+- You can host games with **individual players** or **teams sharing one device** - each counts as one seat.
 - **A Party játék és az egyjátékos játékok** **nem** igényelnek seatet, és ideálisak baráti vagy családi kötetlen játékhoz.
 
 ---
@@ -27,7 +27,7 @@ A QuizWitz PRO játékokhoz **aktív férőhelyek** szükségesek, hogy a játé
 
 ## 💼 QuizWitz PRO licencek
 
-Ha rendszeresen tartasz kvízeket, egy **QuizWitz PRO licenc** **állandóan aktív férőhelyeket** ad, amelyek mindig elérhetők — nem kell őket kézzel aktiválnod.
+If you host quizzes regularly, a **QuizWitz PRO license** gives you **permanently active seats** that are always available - no need to activate them manually.
 
 Az elérhető licencszintek:
 
@@ -39,7 +39,7 @@ Az elérhető licencszintek:
 
 Ezek a férőhelyek ideálisak ismétlődő eseményekhez, nagyobb csapatos felállásokhoz vagy profi helyszínekhez.
 
-> ⚠️ **Fontos**: Ha olyan kvízt kell tartanod, ahol **több játékos van, mint amennyit a licenced enged**, akkor **használat alapú férőhelyeket kell aktiválnod** a teljes játékosszámra. A licencedhez tartozó férőhelyek nem adódnak hozzá az aktivált férőhelyeidhez — hanem **teljes egészében lecserélődnek**.
+> ⚠️ **Fontos**: Ha olyan kvízt kell tartanod, ahol **több játékos van, mint amennyit a licenced enged**, akkor **használat alapú férőhelyeket kell aktiválnod** a teljes játékosszámra. The seats from your license are not added to your activated seats - they are **replaced** entirely.
 
 ---
 
@@ -52,7 +52,7 @@ Egyszeri vagy alkalmi eseményekhez licencvásárlás helyett **használat alap�
 - Minden **PRO licenc** tartalmaz **ingyenes kreditek formájában megjelenő értéket**.
 - Ha nem vagy biztos benne, hány játékos fog csatlakozni:
   - Megvárhatod, amíg **mindenki csatlakozik**, és csak utána aktiválod a férőhelyeket.
-  - Vagy aktiválhatsz a szükségesnél több férőhelyet — a **fel nem használt férőhelyeket lejárat után automatikusan visszatérítjük** kreditekben.
+  - Or, activate more seats than needed - **unused seats are automatically refunded** in credits after they expire.
 
 ---
 
@@ -80,4 +80,4 @@ Egyszeri vagy alkalmi eseményekhez licencvásárlás helyett **használat alap�
 
 ---
 
-A QuizWitz PRO rugalmas és professzionális eszközöket ad bármilyen méretű esemény lebonyolításához — akár igény szerint aktiválsz férőhelyeket, akár PRO licencre támaszkodsz az állandó hozzáféréshez.
+QuizWitz PRO gives you flexible and professional tools to run events of any size - whether you activate seats on demand or rely on a PRO license for always-on access.
