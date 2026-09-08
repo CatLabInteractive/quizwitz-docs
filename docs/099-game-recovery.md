@@ -6,13 +6,13 @@ sidebar_position: 1000
 
 # ⚠️ Live Crash Recovery
 
-Did your game freeze? Did the tab close by accident? [**QuizWitz Live**](quizmaster/001-introduction.md) includes a built-in recovery system to help you get back on track - without losing your progress.
+Did your game freeze? Did the tab close by accident? [**QuizWitz Live**](quizmaster/001-introduction.md) includes a built-in recovery system to help you get back on track — without losing your progress.
 
 ---
 
 ## 🔄 How game recovery works
 
-If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the session easily.
+If your game crashes, hangs, or is interrupted for any reason — whether it’s a browser issue, system restart, or accidental tab closure — you can resume the session easily.
 
 Just **reopen the same browser tab** you were using to display the **game screen**. This is the screen you project or stream to your audience.
 
@@ -48,7 +48,7 @@ You can also choose to **start a new game** instead.
 ## 💡 Good to know
 
 - Recovery only works if you **return to the same game screen in the same browser**
-- Do **not** navigate to a different page - reopen the **exact URL** you were using to host the game
+- Do **not** navigate to a different page — reopen the **exact URL** you were using to host the game
 - This feature helps recover from:
   - Browser crashes
   - Freezing or hanging mid-quiz
@@ -56,4 +56,4 @@ You can also choose to **start a new game** instead.
 
 ---
 
-With game recovery, you can host confidently - knowing that even if something goes wrong, you can pick up right where you left off.
+With game recovery, you can host confidently — knowing that even if something goes wrong, you can pick up right where you left off.
