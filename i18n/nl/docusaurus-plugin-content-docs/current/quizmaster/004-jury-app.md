@@ -3,7 +3,7 @@ id: jury-app
 title: Jury App
 ---
 
-# 🧑‍⚖️ Jury App — open antwoorden beoordelen in QuizWitz Live
+# 🧑‍⚖️ Jury App - Reviewing open answers in QuizWitz Live
 
 Als je quiz **open vragen** bevat, heb je de **Jury App** nodig om de antwoorden handmatig te beoordelen en te scoren.
 
@@ -19,20 +19,20 @@ Zo open je de Jury App:
 2. Ga op een apart apparaat naar [**quizwitz.tv**](https://quizwitz.tv)
 3. Voer de **Jury Code** in om toegang te krijgen tot de app
 
-> 💡 Je kunt de Jury App in elke browser openen — het is een webapp, er hoeft niets geïnstalleerd te worden.
+> 💡 You can open the Jury App on any browser - it's a web app, no installation required.
 
 Eenmaal binnen biedt de Jury App verschillende handige hulpmiddelen:
 
-- **Beoordeel vragen** — Resultaten van open vragen verschijnen zodra een vraag is afgerond.
-  - Het spel wacht **niet** op de jury om klaar te zijn — tenzij het de **laatste vraag van de ronde** is of de quizinstellingen anders aangeven.
+- **Judge questions** - Open question results will appear once a question is completed.
+  - The game does **not wait** for the jury to finish - unless it’s the **last question of the round** or the quiz settings say otherwise.
   - Na beoordeling verschijnen de resultaten **na de volgende vraag**.
 
-- **Pas scores aan** — Ken handmatig punten toe of haal ze weg per speler of team.
+- **Edit scores** - Grant or revoke points manually per player or team.
 
-- **Spelbeheer** — Pas vraag timers aan of voeg streamvertragingen toe indien nodig.
+- **Game control** - Adjust question timers or add streaming delays if needed.
   > For livestream delay setup, see [**how to host a QuizWitz Live quiz on Twitch**](../tutorials/livestream-tutorial)
 
-- **Rapport** — Maak een volledig spelrapport met resultaten en spelersantwoorden.
+- **Report** - Generate a full game report with results and player answers.
 
 ![Screenshot van de Jury App in wachtende toestand](/images/jury-app-waiting.png)
 
@@ -54,7 +54,7 @@ QuizWitz zal **automatisch exacte overeenkomsten herkennen** en markeren als cor
 - Fonemische overeenkomsten
 - Veelvoorkomende spellingvariaties
 
-> 🎙️ QuizWitz is ontworpen met fonetische matching in gedachten — maar de uiteindelijke beslissing ligt altijd bij de juryleden.
+> 🎙️ QuizWitz was designed with phonetic matching in mind - but the final decision is always up to the judges.
 
 ---
 
