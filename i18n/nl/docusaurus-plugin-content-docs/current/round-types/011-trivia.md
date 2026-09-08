@@ -5,7 +5,7 @@ title: Trivia (reguliere ronde)
 
 # ❓ Trivia (reguliere ronde)
 
-De **Trivia** ronde is het klassieke, standaard type ronde in QuizWitz. Het presenteert een reeks vragen aan alle spelers — ideaal voor algemene kennis, thematische quizzes, of opwarmrondes.
+De **Trivia** ronde is het klassieke, standaard type ronde in QuizWitz. It presents a series of questions to all players - ideal for general knowledge, themed quizzes, or warm-up rounds.
 
 ---
 
