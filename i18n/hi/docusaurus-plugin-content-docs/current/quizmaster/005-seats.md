@@ -3,16 +3,16 @@ id: seats
 title: Seats
 ---
 
-# 🎟️ QuizWitz PRO – Seats कैसे काम करते हैं
+# 🎟️ QuizWitz PRO - How seats work
 
-QuizWitz PRO गेम्स में खिलाड़ियों को कनेक्ट करने के लिए **सक्रिय seats** चाहिए होते हैं। Seats एक लचीला, pay-as-you-go या लाइसेंस-आधारित सिस्टम है, जो आपकी ज़रूरतों के साथ स्केल करता है — पब क्विज़, लाइवस्ट्रीम और प्रोफेशनल क्विज़ इवेंट्स के लिए एकदम सही।
+QuizWitz PRO गेम्स में खिलाड़ियों को कनेक्ट करने के लिए **सक्रिय seats** चाहिए होते हैं। Seats are a flexible, pay-as-you-go or license-based system that scales with your needs - perfect for pub quizzes, livestreams, and professional quiz events.
 
 ---
 
 ## 🧑‍🤝‍🧑 Seats क्या होते हैं?
 
 - PRO गेम में हर कनेक्टेड **खिलाड़ी या टीम** के लिए **1 सक्रिय seat** चाहिए होता है।
-- आप **अलग-अलग खिलाड़ियों** या **एक डिवाइस शेयर करने वाली टीमों** के साथ गेम होस्ट कर सकते हैं — हर एक को एक seat माना जाता है।
+- You can host games with **individual players** or **teams sharing one device** - each counts as one seat.
 - **पार्टी गेम और सिंगल प्लेयर गेम** के लिए seats की ज़रूरत **नहीं** होती और ये दोस्तों या परिवार के साथ आरामदेह खेल के लिए बढ़िया हैं।
 
 ---
@@ -27,7 +27,7 @@ QuizWitz PRO गेम्स में खिलाड़ियों को क
 
 ## 💼 QuizWitz PRO लाइसेंस
 
-अगर आप नियमित रूप से क्विज़ होस्ट करते हैं, तो **QuizWitz PRO लाइसेंस** आपको **स्थायी रूप से सक्रिय seats** देता है, जो हमेशा उपलब्ध रहते हैं — उन्हें मैन्युअली सक्रिय करने की ज़रूरत नहीं होती।
+If you host quizzes regularly, a **QuizWitz PRO license** gives you **permanently active seats** that are always available - no need to activate them manually.
 
 उपलब्ध लाइसेंस टियर में शामिल हैं:
 
@@ -39,7 +39,7 @@ QuizWitz PRO गेम्स में खिलाड़ियों को क
 
 ये seats बार-बार होने वाले इवेंट्स, बड़ी टीम सेटअप्स या प्रोफेशनल वेन्यूज़ के लिए आदर्श हैं।
 
-> ⚠️ **ज़रूरी**: अगर आपको अपने लाइसेंस में अनुमति से **ज़्यादा खिलाड़ियों** वाला क्विज़ होस्ट करना है, तो आपको खिलाड़ियों की पूरी संख्या के लिए **pay-as-you-go seats सक्रिय** करने होंगे। आपके लाइसेंस के seats आपके सक्रिय किए गए seats में जोड़े नहीं जाते — उन्हें पूरी तरह **बदल** दिया जाता है।
+> ⚠️ **ज़रूरी**: अगर आपको अपने लाइसेंस में अनुमति से **ज़्यादा खिलाड़ियों** वाला क्विज़ होस्ट करना है, तो आपको खिलाड़ियों की पूरी संख्या के लिए **pay-as-you-go seats सक्रिय** करने होंगे। The seats from your license are not added to your activated seats - they are **replaced** entirely.
 
 ---
 
@@ -52,7 +52,7 @@ QuizWitz PRO गेम्स में खिलाड़ियों को क
 - हर **PRO लाइसेंस** में **मुफ़्त क्रेडिट के रूप में मूल्य** शामिल होता है।
 - अगर आपको पक्का नहीं है कि कितने खिलाड़ी जुड़ेंगे:
   - Seats सक्रिय करने से पहले आप **सबके कनेक्ट होने तक इंतज़ार** कर सकते हैं।
-  - या, ज़रूरत से ज़्यादा seats सक्रिय कर दें — **इस्तेमाल न हुए seats अपने-आप रिफंड** होकर उनकी अवधि खत्म होने के बाद क्रेडिट्स में वापस मिल जाते हैं।
+  - Or, activate more seats than needed - **unused seats are automatically refunded** in credits after they expire.
 
 ---
 
@@ -80,4 +80,4 @@ QuizWitz PRO गेम्स में खिलाड़ियों को क
 
 ---
 
-QuizWitz PRO आपको किसी भी आकार के इवेंट चलाने के लिए लचीले और प्रोफेशनल टूल्स देता है — चाहे आप ज़रूरत पड़ने पर seats सक्रिय करें या हमेशा-ऑन एक्सेस के लिए PRO लाइसेंस पर निर्भर रहें।
+QuizWitz PRO gives you flexible and professional tools to run events of any size - whether you activate seats on demand or rely on a PRO license for always-on access.
