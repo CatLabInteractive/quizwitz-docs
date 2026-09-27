@@ -5,7 +5,7 @@ title: Rondetypes
 
 # Rondetypes
 
-Het soort ronde beïnvloedt hoe het spel de vragen aan spelers toont — en hoe spelers punten verdienen.  
+The round type influences the way the game shows the questions to the players - and how players earn points.  
 In quizzen kun je het rondetype wijzigen in het selectieveld **Rondetype** bovenaan in het midden van het scherm.
 
 ## 🧠 Normale rondes
@@ -22,6 +22,7 @@ Deze rondes bieden iets meer interactie dan simpele vraag-en-antwoord rondes.
 - [Multivraag](022-multiquestion.md)
 - [Strike](023-strike.md)
 - [Dealer's Choice](024-dealers-choice.md)
+- [First come first served](025-first-come-first-served.md)
 
 ## 🍺 Traditioneel
 
@@ -29,12 +30,12 @@ Voor iedereen die traditionele kroegquizzen wil organiseren, waarbij spelers hun
 Deze rondetypes simuleren het "inleveren van de antwoordbladen" na elke ronde.
 
 - [Traditioneel](030-traditional.md)
-- [Traditioneel - Rode draad](031-traditional-ct.md)
+- [Traditional - Common thread](031-traditional-ct.md)
 - [Alfabet](032-alphabet.md)
 
 ## 🎉 Live evenementen
 
-Deze rondetypes bevatten geen vragen — maar beïnvloeden het verloop van het spel.
+These round types do not contain any questions - but instead influence the outcome of the game.
 
 - [Activiteit](040-activity.md)
 - [Pauze](060-intermission.md)
@@ -46,5 +47,5 @@ Deze rondetypes bevatten geen vragen — maar beïnvloeden het verloop van het s
 
 In deze rondetypes kun je specifieke **afdelingen** selecteren die tegen andere afdelingen spelen.
 
-- [Afdelingen - Dealer's Choice](070-departments-dealers-choice.md)
-- [Afdelingen - Eliminatie](071-departments-elimination.md)
+- [Department - Dealer's Choice](070-departments-dealers-choice.md)
+- [Department - Elimination](071-departments-elimination.md)
