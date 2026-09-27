@@ -17,6 +17,7 @@ Ezek a leggyakoribb kérdéstípusok. Könnyű megérteni és játszani velük.
 - [Feleletválasztós](001-multiple-choice.md) (alapértelmezett)
 - [Sorrendbe rendezős kérdés](003-order-question.md)
 - [Képtérképes kérdés](004-image-map.md)
+- [Grid question](008-grid-question.md)
 
 ## Nyílt kérdések
 
