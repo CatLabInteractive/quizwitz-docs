@@ -22,6 +22,7 @@ These rounds offer a bit more interactivity than simple ask-and-answer questions
 - [Multiquestion](022-multiquestion.md)
 - [Strike](023-strike.md)
 - [Dealer's Choice](024-dealers-choice.md)
+- [First come first served](025-first-come-first-served.md)
 
 ## 🍺 Traditional
 
