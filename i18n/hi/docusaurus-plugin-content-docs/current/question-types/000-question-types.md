@@ -17,6 +17,7 @@ QuizWitz अलग-अलग प्रश्न प्रकारों को 
 - [बहुविकल्पीय](001-multiple-choice.md) (डिफ़ॉल्ट)
 - [क्रम वाला प्रश्न](003-order-question.md)
 - [इमेज मैप प्रश्न](004-image-map.md)
+- [Grid question](008-grid-question.md)
 
 ## खुले प्रश्न
 
