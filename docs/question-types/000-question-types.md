@@ -15,6 +15,7 @@ These are the most common question types. They are easy to understand and play.
 * [Multiple choice](001-multiple-choice.md) (default)
 * [Order question](003-order-question.md)
 * [Image map question](004-image-map.md)
+* [Grid question](008-grid-question.md)
 
 ## Open questions
 Open questions require players to type in their answers.
