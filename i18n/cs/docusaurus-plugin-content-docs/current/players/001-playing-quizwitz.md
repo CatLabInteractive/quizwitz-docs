@@ -11,12 +11,12 @@ Vítej v QuizWitz! Ať už hraješ sám/sama, nebo s přáteli, tenhle průvodce
 
 ## 🎯 Vyber si, co chceš hrát
 
-Začni procházením dostupných **Round-Abouts** — krátkých tematických kol s kvízovými otázkami. K prozkoumání použij nabídku v horní části obrazovky:
+Začni procházením dostupných **Round-Abouts** - krátkých tematických kol s kvízovými otázkami. K prozkoumání použij nabídku v horní části obrazovky:
 
-- **Nové** — Objev nejnovější Round-Abouts
-- **Moje kolekce** — Získej přístup ke všemu, co sis uložil/a nebo vytvořil/a
-- **Sbírat** — Najdi Round-Abouts vytvořené komunitou
-- **Rychlá hra** — Pusť se do náhodného výběru
+- **Nové** - Objev nejnovější Round-Abouts
+- **Moje kolekce** - Získej přístup ke všemu, co sis uložil/a nebo vytvořil/a
+- **Sbírat** - Najdi Round-Abouts vytvořené komunitou
+- **Rychlá hra** - Pusť se do náhodného výběru
 
 ![Horní navigační lišta QuizWitz](/images/top-menu-play.png)
 
@@ -39,7 +39,7 @@ Patří sem:
 - Binga
 - …
 
-Položky můžeš kdykoli uspořádat, hrát nebo odebrat. Tohle je tvoje osobní knihovna — sestav si ji přesně podle sebe!
+Položky můžeš kdykoli uspořádat, hrát nebo odebrat. Tohle je tvoje osobní knihovna - sestav si ji přesně podle sebe!
 
 ---
 
@@ -63,7 +63,7 @@ Chceš si z více Round-Abouts sestavit plnohodnotnou kvízovou hru? Tady je pos
 - Uvnitř Round-About klikni na **Přidat do mojí kolekce**
 - Nebo klikni na **ikonu hvězdičky** na kartě Round-About
 
-Pokud ho budeš chtít později odebrat, stačí znovu kliknout na hvězdičku — teď bude říkat **Odebrat z mojí kolekce**.
+Pokud ho budeš chtít později odebrat, stačí znovu kliknout na hvězdičku - teď bude říkat **Odebrat z mojí kolekce**.
 
 ![Přidání Round-About do tvé kolekce](/images/add-to-collection.png)
 
@@ -80,7 +80,7 @@ Až budeš připravený/á:
 
 Vyber:
 
-- **Režim hry** — Jeden hráč nebo Párty hra
+- **Herní režim** - Jeden hráč nebo Party hra
 - **Které Round-Abouts** chceš zahrnout do své herní relace
 
 QuizWitz se pokusí přeskočit otázky, které už jsi viděl/a.
@@ -107,17 +107,17 @@ Jakmile hra začne, vyber si režim:
 
 Hraj s přáteli pomocí jejich vlastních telefonů nebo tabletů:
 
-> :Television: Ujistěte se, že je obrazovka viditelná – použijte sdílenou obrazovku nebo sdílenou obrazovku
+> 📺 Ujisti se, že je herní obrazovka vidět - použij sdílený displej nebo sdílení obrazovky
 
 1. Klikni na **Start** a pak na **Párty hra**
 2. Hráči se připojí podle pokynů na obrazovce
 3. Až budou všichni připraveni, klikni na **Spustit kvíz**
 
-Jakmile kvíz začne, **hra se spustí automaticky** — objeví se otázky, počítají se časovače a skóre se snáší bez jakéhokoliv zásahu hostitele.
+Jakmile kvíz začne, **hra běží automaticky** - objevují se otázky, odpočítávají se časovače a skóre se sčítá bez jakéhokoli zásahu hostitele.
 
 > ⏸️ Potřebujete zlom? Přesuňte myší na konec obrazovky hry a objeví se tlačítko **pozastavit**. Pozastavení je jediný způsob, jak přerušit hru Party Game.
 >
-> Chceš ovládat pacení hry sami - rozhodovat, kdy každá otázka začne? To je jen možné s [**QuizWitz Live**](../quizmaster/001-introduction.md) a Quizmaster aplikací.
+> Chceš tempo hry řídit sám/sama - a rozhodovat, kdy která otázka začne? To je jen možné s [**QuizWitz Live**](../quizmaster/001-introduction.md) a Quizmaster aplikací.
 
 ![Úvodní obrazovka QuizWitz](/images/quizwitz-start-screen.png)  
 ![Úvodní obrazovka QuizWitz pro párty hru](/images/quizwitz-start-screen-party.png)  
