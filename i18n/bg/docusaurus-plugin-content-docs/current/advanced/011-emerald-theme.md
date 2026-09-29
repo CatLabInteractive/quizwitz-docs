@@ -5,7 +5,7 @@ title: Тема Emerald
 
 # Тема Emerald
 
-Темата Emerald е най-лесният начин да персонализираш изгледа на твоята QuizWitz игра. По подразбиране темата е в изчистен синьо-зелен стил с ярки цветове за опциите, но като комбинираш прикачени файлове към quiz-а и модификатори на темата, можеш да промениш вида ѝ — драстично.
+Темата Emerald е най-лесният начин да персонализираш изгледа на твоята QuizWitz игра. By default, the theme is a clean blue / green style with vivid option colors, but by combining quiz attachments and theme modifiers you can change the way it looks - drastically.
 
 :::tip
 Можеш да използваш нашия [тестер за теми](https://client.quizwitz.com/test.html?theme=emerald), за да видиш как ще изглеждат настройките ти.
@@ -25,7 +25,7 @@ title: Тема Emerald
 
 ### Прикачени файлове към quiz-а
 
-Определено най-лесният начин да промениш изгледа и усещането на играта е като прикачиш изображения към твоя quiz. Отвори **Настройки на quiz-а** и превърти надолу до секцията **Прикачени файлове**. Тук можеш да качваш изображения, които ще се използват като фон, клиентско лого, екрани за свързване — и изчакване (за конферентни — и live quiz-ове), и още.
+Определено най-лесният начин да промениш изгледа и усещането на играта е като прикачиш изображения към твоя quiz. Отвори **Настройки на quiz-а** и превърти надолу до секцията **Прикачени файлове**. Here you can upload images that will be used as background, client logo, connect - and wait screens (for conference - and live quizzes), and more.
 
 ![Екранна снимка на прикачените файлове към quiz-а](/images/emerald/quiz-attachments.png)
 
@@ -51,7 +51,7 @@ title: Тема Emerald
 
 ## Модификатори на темата Emerald
 
-Освен прикачени файлове, можеш също да променяш темата Emerald с **параметри на заявката**. Това са параметри, които можеш да добавиш към URL адреса на **разширените опции на играта** — и те променят изгледа на темата.
+Освен прикачени файлове, можеш също да променяш темата Emerald с **параметри на заявката**. These are parameters you can add to the **advanced game options** URL - and they change the look of the theme.
 
 За това ще започнем с примерен quiz (без никакви прикачени файлове):  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
@@ -60,7 +60,7 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 
 :::tip
 Най-лесният начин да експериментираш с тези параметри е като използваш нашия [тестер за теми](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).  
-Когато приключиш с експериментите, можеш да копираш — поставиш параметрите в URL адреса на разширените опции на играта.
+When you are done experimenting, you can copy - paste the parameters to your advanced game options URL.
 :::
 
 Наличните модификатори са:
@@ -71,8 +71,8 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
-- optionColors (4 цвята, разделени със запетая)
-- optionBorderColors (4 цвята, разделени със запетая)
+- optionColors (4 colors, comma - separated)
+- optionBorderColors (4 colors, comma - separated)
 
 Освен това можеш да зададеш шрифт по подразбиране:
 
@@ -81,7 +81,7 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 
 Тези шрифтове трябва да са URL адреси към публично достъпни файлове с шрифтове.
 
-Всеки от тези модификатори може да съдържа един цвят в HTML hex формат (ff0000) или линеен градиент, като се предоставят няколко цвята, разделени със знак минус ( — например ff1b6b-45caff). (Имай предвид, че символът # не трябва да се добавя.)
+Each of these modifiers can contain a single color in HTML hex format (ff0000), or a linear gradient by providing multiple colors divided by a minus symbol ( - for example ff1b6b-45caff). (Имай предвид, че символът # не трябва да се добавя.)
 
 :::note
 Параметрите на заявката трябва да започват с въпросителен знак ( ? ) и всеки параметър трябва да бъде разделен с амперсанд ( & ). За повече информация относно параметрите на заявката посети [wikipedia](https://en.wikipedia.org/wiki/Query_string).
