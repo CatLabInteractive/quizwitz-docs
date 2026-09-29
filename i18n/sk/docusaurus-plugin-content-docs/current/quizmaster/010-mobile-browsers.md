@@ -3,7 +3,7 @@ id: mobile
 title: Mobilné prehliadače
 ---
 
-# 📱 Mobilné prehliadače — obmedzenia pri hostovaní
+# 📱 Mobilné prehliadače - obmedzenia pri hostovaní
 
 QuizWitz je optimalizovaný na používanie na **stolných počítačoch a notebookoch**. Hoci je technicky možné hostovať hry **QuizWitz Live** alebo **Conference** na tablete či smartfóne, **neodporúčame** používať zariadenia s **Androidom** alebo **iOS** na spúšťanie hry.
 
@@ -41,4 +41,4 @@ Pre najlepší výkon a stabilitu:
 
 ---
 
-Pri hostovaní je spoľahlivé nastavenie kľúčové — mobilné zariadenia používaj len ako poslednú možnosť.
+Pri hostovaní je spoľahlivé nastavenie kľúčové - mobilné zariadenia používaj len ako poslednú možnosť.
