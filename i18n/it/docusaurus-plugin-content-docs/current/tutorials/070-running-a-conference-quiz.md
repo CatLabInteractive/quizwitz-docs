@@ -5,7 +5,7 @@ title: Eseguire un quiz di conferenza
 
 # Eseguire un quiz di conferenza
 
-Questa guida ti porta attraverso tutto ciò che devi sapere per eseguire un quiz QuizWitz in uno stand per conferenze o un evento, dall'apertura del link al quiz fino alla classifica finale.
+Questa guida ti spiega tutto ciò che devi sapere per gestire un quiz QuizWitz in uno stand di una conferenza o a un evento - dall'apertura del link del quiz fino alla classifica finale.
 
 ---
 
@@ -16,7 +16,7 @@ Prima di iniziare, assicurati di avere:
 - Una connessione internet stabile
 - L'URL del quiz (fornito in anticipo)
 - Un computer portatile collegato allo schermo che i giocatori guarderanno
-- **Google Chrome** — altri browser come Safari o Edge potrebbero non funzionare correttamente
+- **Google Chrome** - altri browser come Safari o Edge potrebbero non funzionare correttamente
 
 ---
 
@@ -27,7 +27,7 @@ Prima di iniziare, assicurati di avere:
 
 2. Viene visualizzata una schermata di caricamento nero che mostra una percentuale. Questo richiede solo pochi secondi.
 
-3. Una volta caricato, appare la schermata di gioco. Se richiesto di accedere, fare clic su **Login** — verrà aperta una seconda scheda.
+3. Una volta caricato, appare la schermata di gioco. Se ti viene chiesto di accedere, clicca su **Login** - si aprirà una seconda scheda.
    - Clicca su **Accedi** nella pagina di accesso e inserisci le credenziali fornite.
    - Dopo l'accesso, la scheda si chiude automaticamente e il quiz termina il caricamento.
 
@@ -38,7 +38,7 @@ Prima di iniziare, assicurati di avere:
    Il quiz è ora pronto a giocare sulla schermata di gioco.
 
 :::tip
-Per uscire dallo schermo intero in qualsiasi momento — per esempio, passare a un'altra finestra — premere **Esc**.
+Per uscire dallo schermo intero in qualsiasi momento - per esempio, per passare a un'altra finestra - premi **Esc**.
 :::
 
 ---
@@ -47,8 +47,8 @@ Per uscire dallo schermo intero in qualsiasi momento — per esempio, passare a 
 
 Per giocare di nuovo dopo un gioco completato, hai alcune opzioni:
 
-- **Ricarica la pagina** — fai clic sull'icona di ricarica nella barra degli strumenti di Chrome (potresti aver bisogno di premere Esc prima per uscire dallo schermo intero).
-- **Premere S** — dopo la fine del quiz, premendo **S** sulla tastiera si riporta alla schermata iniziale.
+- **Ricarica la pagina** - fai clic sull'icona di ricarica nella barra degli strumenti di Chrome (potresti aver bisogno di premere Esc prima per uscire dallo schermo intero).
+- **Premi S** - al termine del quiz, premendo **S** sulla tastiera torni alla schermata iniziale.
 
 Se appare un pop-up che chiede se vuoi avviare una nuova partita, clicca **Sì, avvia una nuova partita**.
 
