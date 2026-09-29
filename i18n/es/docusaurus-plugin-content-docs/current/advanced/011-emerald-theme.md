@@ -5,7 +5,7 @@ title: Tema Emerald
 
 # Tema Emerald
 
-El tema Emerald es la forma más fácil de personalizar la apariencia de tu juego QuizWitz. Por defecto, el tema es un estilo limpio azul / verde con colores de opciones vivos, pero combinando los adjuntos del quiz y los modificadores del tema puedes cambiar drásticamente su apariencia.
+El tema Emerald es la forma más fácil de personalizar la apariencia de tu juego QuizWitz. By default, the theme is a clean blue / green style with vivid option colors, but by combining quiz attachments and theme modifiers you can change the way it looks - drastically.
 
 :::tip
 Puedes usar nuestro [probador de tema](https://client.quizwitz.com/test.html?theme=emerald) para ver cómo se verán tus ajustes.
@@ -25,7 +25,7 @@ Puedes probar un quiz usando el tema Emerald [aquí](https://play.quizwitz.com/1
 
 ### Adjuntos del quiz
 
-Sin duda, la forma más fácil de cambiar la apariencia y sensación del juego es adjuntando imágenes a tu quiz. Abre las **Configuraciones de Quiz** y desplázate hasta la sección de **Adjuntos**. Aquí puedes subir imágenes que se usarán como fondo, logo del cliente, pantallas de conexión, espera (para quizzes en conferencias y en vivo), y más.
+Sin duda, la forma más fácil de cambiar la apariencia y sensación del juego es adjuntando imágenes a tu quiz. Abre las **Configuraciones de Quiz** y desplázate hasta la sección de **Adjuntos**. Here you can upload images that will be used as background, client logo, connect - and wait screens (for conference - and live quizzes), and more.
 
 ![Una captura de pantalla de los adjuntos del quiz](/images/emerald/quiz-attachments.png)
 
@@ -51,7 +51,7 @@ Toda la música en el juego también puede ser reemplazada con adjuntos. Cualqui
 
 ## Modificadores del tema Emerald
 
-Además de los adjuntos, también puedes manipular el tema Emerald con **parámetros de consulta**. Estos son parámetros que puedes añadir a la URL de las **opciones avanzadas del juego** — y cambian la apariencia del tema.
+Además de los adjuntos, también puedes manipular el tema Emerald con **parámetros de consulta**. These are parameters you can add to the **advanced game options** URL - and they change the look of the theme.
 
 Para esto, empezaremos con un quiz de ejemplo (sin adjuntos):  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
@@ -60,7 +60,7 @@ Cuando inicies el quiz anterior, el juego estará en el estilo Emerald predeterm
 
 :::tip
 La forma más fácil de experimentar con estos parámetros es usando nuestro [probador de tema](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).  
-Cuando hayas terminado de experimentar, puedes copiar y pegar los parámetros a la URL de las opciones avanzadas del juego.
+When you are done experimenting, you can copy - paste the parameters to your advanced game options URL.
 :::
 
 Los modificadores disponibles son:
@@ -71,8 +71,8 @@ Los modificadores disponibles son:
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
-- optionColors (4 colores, separados por comas)
-- optionBorderColors (4 colores, separados por comas)
+- optionColors (4 colors, comma - separated)
+- optionBorderColors (4 colors, comma - separated)
 
 Además, puedes establecer una fuente predeterminada:
 
@@ -81,7 +81,7 @@ Además, puedes establecer una fuente predeterminada:
 
 Estas fuentes deben ser URLs a archivos de fuentes públicos disponibles.
 
-Cada uno de estos modificadores puede contener un solo color en formato hexadecimal HTML (ff0000) o un degradado lineal proporcionando múltiples colores divididos por un símbolo menos ( — por ejemplo ff1b6b-45caff). (Ten en cuenta que el símbolo # no debe añadirse.)
+Each of these modifiers can contain a single color in HTML hex format (ff0000), or a linear gradient by providing multiple colors divided by a minus symbol ( - for example ff1b6b-45caff). (Ten en cuenta que el símbolo # no debe añadirse.)
 
 :::note
 Los parámetros de consulta deben comenzar con un signo de interrogación ( ? ) y cada parámetro debe estar separado por un ampersand ( & ). Para más información sobre parámetros de consulta, visita [wikipedia](https://en.wikipedia.org/wiki/Query_string).
