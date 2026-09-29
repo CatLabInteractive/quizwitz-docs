@@ -21,7 +21,7 @@ Bežné usporiadanie je, že tému nakreslí grafik a niekto iný ju poskladá v
 
 ## 🧪 Nástroj na testovanie témy
 
-Keď budeš pripravený otestovať svoju tému, **zazipuj obsah priečinka s návrhom** ( — nie samotný priečinok; keď otvoríš zip, mal by si vidieť svoje súbory, nie iba jeden priečinok — ) a nahraj ho do nášho [testera tém](https://themes.quizwitz.com/). Získaš tak živý náhľad toho, ako bude tvoja téma vyzerať v hre.
+Keď budeš pripravený otestovať svoju tému, **zazipuj obsah priečinka s návrhom** ( - nie samotný priečinok; keď otvoríš zip, mal by si vidieť svoje súbory, nie iba jeden priečinok - ) a nahraj ho do nášho [testera tém](https://themes.quizwitz.com/). Získaš tak živý náhľad toho, ako bude tvoja téma vyzerať v hre.
 
 Po otestovaní nám pošli zip súbor e-mailom a my ho prepojíme s tvojím účtom, aby si si mohol tému vybrať a používať ju vo svojich kvízoch.
 
@@ -42,7 +42,7 @@ Všetky vlastné dizajny musia obsahovať logo QuizWitz.
 | Úvod hry                                                                    | Animácia pred hrou.                                                                            | Čakacia obrazovka.                                   |
 | Úvod kola                                                                   | Animácia pred každým kolom.                                                                    | Čakacia obrazovka.                                   |
 | Otázky                                                                      |                                                                                                                |                                                                      |
-| Príloha                                                                     | Zobrazenie prílohy na celú obrazovku ( — pred/po otázkach alebo kolách — ). | Čakacia obrazovka.                                   |
+| Príloha                                                                     | Zobrazenie prílohy na celú obrazovku ( - pred/po otázkach alebo kolách - ). | Čakacia obrazovka.                                   |
 | Otázka: výber z viacerých možností bez prílohy              | Otázka + 4 možnosti výberu.                                                                    | Obrazovka odpovede s výberom z viacerých možností.   |
 | Otázka: výber z viacerých možností s prílohou               | Otázka + 4 možnosti výberu + vizuálna príloha.                                                 | Obrazovka odpovede s výberom z viacerých možností.   |
 | Otázka: otvorená otázka bez prílohy                         | Iba otázka.                                                                                    | Textové pole a tlačidlo odoslania.                   |
