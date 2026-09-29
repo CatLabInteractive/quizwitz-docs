@@ -1,52 +1,52 @@
 ---
 id: grid-question
-title: Grid question
+title: Mriežková otázka
 ---
 
-# 🔲 Grid question
+# 🔲 Mriežková otázka
 
-In a **Grid question**, all answer options are shown as a grid of cells. Players select every cell they think is correct - for example "Select all the countries in South America" or "Which of these animals are mammals?"
-
----
-
-## 📝 How it works
-
-- **Question:** Clearly state what players should select.
-- **Options:** Enter all the cells of the grid, and mark every correct one. The options are arranged in a square grid on the player's device and on the game screen.
-- **Player input:** Players tap cells to select or deselect them, up to the maximum number of answers. When the minimum and maximum number of answers are the same, the answer is sent as soon as that many cells are selected.
-- **Wrong cells cost nothing:** selecting a wrong cell doesn't take points away.
-- **Feedback:** After answering, players see which cells were correct.
+V **mriežkovej otázke** sa všetky možnosti odpovede zobrazia ako mriežka políčok. Hráči vyberú každé políčko, ktoré považujú za správne - napríklad „Vyber všetky krajiny v Južnej Amerike“ alebo „Ktoré z týchto zvierat sú cicavce?“
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Ako to funguje
 
-- **Minimum and maximum answers:** Define how many cells a player may select. By default the maximum is the number of correct options.
-- **Points are awarded:**
-  - _For each correct answer_ (default) - players earn the question's points for every correct cell they select.
-  - _Only with the minimum number of correct answers_ - players earn the question's points once, when they select at least the minimum number of correct cells.
-
-> ⚠️ When you choose _Only with the minimum number of correct answers_, set the minimum answers to at least 1. Without a minimum, every answer - even an empty one - earns the full points.
-
-See [writing questions](../editor/005-writing-questions.md) for general question settings.
+- **Otázka:** Jasne uveď, čo majú hráči vybrať.
+- **Možnosti:** Zadaj všetky políčka mriežky a označ každé správne. Možnosti sú na zariadení hráča aj na hernej obrazovke usporiadané do štvorcovej mriežky.
+- **Vstup hráča:** Hráči ťukaním políčka vyberajú alebo ich výber rušia, až do maximálneho počtu odpovedí. Keď sú minimálny a maximálny počet odpovedí rovnaké, odpoveď sa odošle hneď, ako je vybraný príslušný počet políčok.
+- **Nesprávne políčka nič nestoja:** výber nesprávneho políčka body neuberá.
+- **Spätná väzba:** Po odpovedi hráči vidia, ktoré políčka boli správne.
 
 ---
 
-## 🏆 Scoring
+## ⚙️ Rozšírené nastavenia
 
-Grid questions use **time-based scoring** by default: faster answers earn more points, but most of the points are fixed.
-You can turn off time-based scoring per question.
+- **Minimálny a maximálny počet odpovedí:** Urči, koľko políčok môže hráč vybrať. Predvolene sa maximum rovná počtu správnych možností.
+- **Body sa udeľujú:**
+  - _Za každú správnu odpoveď_ (predvolené) - hráči získajú body za otázku za každé správne políčko, ktoré vyberú.
+  - _Iba pri minimálnom počte správnych odpovedí_ - hráči získajú body za otázku raz, keď vyberú aspoň minimálny počet správnych políčok.
 
-See [Scoring options in round settings](../editor/008-round-options.md#scoring) for details.
+> ⚠️ Keď zvolíš _Iba pri minimálnom počte správnych odpovedí_, nastav minimálny počet odpovedí aspoň na 1. Bez minima získa plný počet bodov každá odpoveď - aj prázdna.
 
----
-
-## 💡 Tips for great grid questions
-
-- **Keep the grid readable:** short option texts work best. Nine or sixteen cells make a neat square.
-- **Add convincing wrong cells:** since wrong cells cost nothing, the challenge is in finding all the right ones.
-- **Tell players how many to find:** mention it in the question, or set the minimum and maximum answers to the same number.
+Všeobecné nastavenia otázok nájdeš v časti [písanie otázok](../editor/005-writing-questions.md).
 
 ---
 
-Grid questions are perfect for "select all that apply" challenges!
+## 🏆 Bodovanie
+
+Mriežkové otázky predvolene používajú **bodovanie podľa času**: rýchlejšie odpovede získajú viac bodov, ale väčšina bodov je fixná.
+Bodovanie podľa času môžeš vypnúť pre každú otázku zvlášť.
+
+Podrobnosti nájdeš v časti [Možnosti bodovania v nastaveniach kola](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Tipy na skvelé mriežkové otázky
+
+- **Udržuj mriežku čitateľnú:** najlepšie fungujú krátke texty možností. Deväť alebo šestnásť políčok vytvorí úhľadný štvorec.
+- **Pridaj presvedčivé nesprávne políčka:** keďže nesprávne políčka nič nestoja, výzva spočíva v nájdení všetkých správnych.
+- **Povedz hráčom, koľko ich majú nájsť:** uveď to v otázke alebo nastav minimálny a maximálny počet odpovedí na rovnaké číslo.
+
+---
+
+Mriežkové otázky sú ideálne na výzvy typu „vyber všetko, čo platí“!
