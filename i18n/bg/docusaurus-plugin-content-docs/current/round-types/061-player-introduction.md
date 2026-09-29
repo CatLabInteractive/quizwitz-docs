@@ -16,7 +16,7 @@ title: Представяне на играчите
 
 ---
 
-> Представянията на играчите помагат да се създаде настроение, да се разчупи ледът и да се персонализира quiz изживяването — особено при събития на живо и отборни събития!
+> Player introductions help set the mood, break the ice, and personalize the quiz experience - especially in live and team-based events!
 
 ---
 
