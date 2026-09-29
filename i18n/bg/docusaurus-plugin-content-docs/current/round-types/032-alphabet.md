@@ -5,8 +5,8 @@ title: Азбука
 
 # 🔤 Азбука
 
-Рунд **Азбука** е [Традиционен рунд](030-traditional.md) с обрат — на всеки въпрос се задава уникален етикет,
-а играчите трябва да съпоставят отговорите си с правилните полета с етикети. Този рунд награждава както знанията, така и дедукцията!
+An **Alphabet** round is a [Traditional round](030-traditional.md) with a twist - each question is assigned a unique label,
+and players must match their answers to the correct labeled fields. Този рунд награждава както знанията, така и дедукцията!
 
 ---
 
@@ -27,10 +27,10 @@ title: Азбука
 
 ## 📝 Как работи
 
-- Докато се задават въпросите, играчите виждат списък с полета за отговори — по едно за всеки въпрос.
-- **Полетата за отговори не са в реда на quiz** — вместо това са сортирани по азбучен ред според етикета.
+- As questions are asked, players see a list of answer fields - one for each question.
+- **The answer fields are not in quiz order** - instead, they’re sorted alphabetically by label.
 - Играчите трябва да съпоставят отговорите си с правилните полета с етикети (напр. отговорът за въпрос "Bear" трябва да се въведе под етикет "B").
-- Отговорите могат да се променят по всяко време, докато рундът приключи — играчите могат да разменят отговори между полетата, когато осъзнаят грешките си.
+- Answers can be changed at any time until the round finishes - players can switch answers between fields as they realize their mistakes.
 
 ---
 
