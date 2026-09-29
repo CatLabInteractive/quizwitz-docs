@@ -3,16 +3,16 @@ id: introduction
 title: Bevezetés
 ---
 
-# 🎤 QuizWitz Live – Bevezetés
+# 🎤 QuizWitz Live - Bevezetés
 
 ## Kvíz vezetése a QuizWitz Live-val
 
-Egy sikeres QuizWitz Live esemény első hozzávalója egy magával ragadó quizmaster — valaki, aki irányítja a játékot, és végig magasan tartja a hangulatot. A quizmaster vezeti a kvíz menetét, hangosan felolvassa a kérdéseket, és hozzáadja azt az extra szikrát, amitől a közönség igazán jól szórakozik.
+Egy sikeres QuizWitz Live esemény első hozzávalója egy magával ragadó quizmaster - valaki, aki irányítja a játékot, és végig magasan tartja a hangulatot. A quizmaster vezeti a kvíz menetét, hangosan felolvassa a kérdéseket, és hozzáadja azt az extra szikrát, amitől a közönség igazán jól szórakozik.
 
 Ha teljes irányítást szeretnél az eseményed felett, használd a **Quizmaster App**ot, amelyet kifejezetten a QuizWitz Live-hoz terveztünk.  
 A QuizWitz Live-ot közvetlenül a kvízszerkesztőből indíthatod el a **„QuizWitz Live indítása”** gombra kattintva.
 
-> 💡 **Megjegyzés:** A Quizmaster App egy **webalkalmazás** — semmit sem kell telepítened. Egyszerűen nyisd meg a [**quizwitz.tv**](https://quizwitz.tv) oldalt a böngésződben, hogy hozzáférj a smart device-eden.
+> 💡 **Megjegyzés:** A Quizmaster App egy **webalkalmazás** - semmit sem kell telepítened. Egyszerűen nyisd meg a [**quizwitz.tv**](https://quizwitz.tv) oldalt a böngésződben, hogy hozzáférj a smart device-eden.
 
 ---
 
