@@ -1,40 +1,40 @@
 ---
 id: first-come-first-served
-title: First come first served
+title: Premier arrivé, premier servi
 ---
 
-# 🏃 First come first served
+# 🏃 Premier arrivé, premier servi
 
-In a **First come first served** round, speed is everything. The fastest correct answer earns the most points, and every correct answer after it earns a little less.
-
----
-
-## 📝 How it works
-
-- Questions are asked one by one, just like in a [Trivia](011-trivia.md) round.
-- When a question ends, all correct answers are ranked from fastest to slowest.
-- **The fastest correct player or team gets the full points** of the question.
-- **Every next correct answer gets a smaller share.** Each place down the ranking loses the question's points divided by the number of players or teams in the game.
-  - Example: a question is worth 1000 points and 10 teams are playing. The fastest correct team gets 1000 points, the second 900, the third 800, and so on.
-- Wrong answers earn no points and don't take a place in the ranking.
+Dans une manche **Premier arrivé, premier servi**, la vitesse est primordiale. La bonne réponse la plus rapide rapporte le plus de points, et chaque bonne réponse suivante en rapporte un peu moins.
 
 ---
 
-## ⚙️ Settings
+## 📝 Comment ça marche
 
-- **Question types:** every question type can be used.
-- **Time-based scoring:** the ranking already rewards speed. If time-based scoring is also enabled, it is applied on top of each share. Turn it off in the question settings if you only want the ranking to count.
-
-For more about scoring, see the [scoring section](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips
-
-- **Use questions with one clear answer:** players race to be first, so there should be no doubt about what is correct.
-- **Keep questions short:** the round is about reacting quickly, not about reading long texts.
-- **Mix it with slower rounds:** a speed round is a great change of pace after a Traditional or Common Thread round.
+- Les questions sont posées une par une, comme dans une manche [Trivia](011-trivia.md).
+- À la fin d'une question, toutes les bonnes réponses sont classées de la plus rapide à la plus lente.
+- **Le joueur ou l'équipe la plus rapide à répondre correctement obtient tous les points** de la question.
+- **Chaque bonne réponse suivante obtient une part plus petite.** Chaque place perdue dans le classement retire les points de la question divisés par le nombre de joueurs ou d'équipes dans la partie.
+  - Exemple : une question vaut 1000 points et 10 équipes jouent. L'équipe la plus rapide à répondre correctement obtient 1000 points, la deuxième 900, la troisième 800, et ainsi de suite.
+- Les mauvaises réponses ne rapportent aucun point et n'occupent aucune place dans le classement.
 
 ---
 
-For more on round settings, see [Round options](../editor/008-round-options.md).
+## ⚙️ Paramètres
+
+- **Types de questions :** tous les types de questions peuvent être utilisés.
+- **Score basé sur le temps :** le classement récompense déjà la vitesse. Si le score basé sur le temps est également activé, il s'applique en plus de chaque part. Désactivez-le dans les paramètres de la question si vous voulez que seul le classement compte.
+
+Pour en savoir plus sur le score, consultez la [section sur le score](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Astuces
+
+- **Utilisez des questions avec une seule réponse claire :** les joueurs font la course pour être les premiers, il ne doit donc y avoir aucun doute sur la bonne réponse.
+- **Gardez des questions courtes :** la manche consiste à réagir vite, pas à lire de longs textes.
+- **Alternez avec des manches plus lentes :** une manche de vitesse apporte un excellent changement de rythme après une manche Traditionnel ou Fil conducteur.
+
+---
+
+Pour en savoir plus sur les paramètres de manche, consultez [Options de manche](../editor/008-round-options.md).
