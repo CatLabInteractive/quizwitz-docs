@@ -5,7 +5,7 @@ title: Pause
 
 # ⏸️ Pause
 
-**Pause** ist eine spezielle Spielrunde, die das Quiz für eine Pause unterbricht – ideal zum Dehnen, Plaudern oder für Sponsorenwerbung.
+**Pause** ist eine spezielle Spielrunde, die das Quiz für eine Pause unterbricht - ideal zum Dehnen, Plaudern oder für Sponsorenwerbung.
 
 ---
 
@@ -23,7 +23,7 @@ title: Pause
 ## 🖼️ Anhänge
 
 - Du kannst in den Rundeneinstellungen Bilder, Logos oder Videos hochladen.
-- Während der Unterbrechung werden diese Anhänge in einem Karussell auf dem Spielbildschirm gezeigt – ideal für Sponsor-Logos, Nachrichten oder Werbevideos.
+- Während der Unterbrechung werden diese Anhänge in einem Karussell auf dem Spielbildschirm gezeigt - ideal für Sponsor-Logos, Nachrichten oder Werbevideos.
 - Anhänge werden während der ganzen Pause wiederholt abgespielt.
 
 ---

@@ -23,10 +23,10 @@ Clicca sull'**icona a forma di ingranaggio** nell'angolo in alto a sinistra di u
 
 ### 🎮 Modalità e punteggio
 
-- **Tipo di domanda** — Scegli come viene giocata la domanda (ad es. scelta multipla, risposta aperta, puzzle)  
+- **Tipo di domanda** - Scegli come viene giocata la domanda (ad es. scelta multipla, risposta aperta, puzzle)  
   → Scopri di più in [tipi di domanda](../question-types/000-question-types.md)
-- **Punti** — Imposta quanti punti vale una risposta corretta
-- **Timer della domanda** — Regola il limite di tempo usando il cursore
+- **Punti** - Imposta quanti punti vale una risposta corretta
+- **Timer della domanda** - Regola il limite di tempo usando il cursore
 
 ---
 
@@ -34,12 +34,12 @@ Clicca sull'**icona a forma di ingranaggio** nell'angolo in alto a sinistra di u
 
 Personalizza come si comporta la domanda durante la partita:
 
-- **Punteggio basato sul tempo** — Premia i giocatori che rispondono più rapidamente
-- **Più risposte corrette** — Consenti più di una scelta valida
-- **Ordine casuale delle risposte** — Mescola le opzioni sullo schermo
-- **Ferma il timer quando tutti hanno risposto** — Continua appena sono arrivate tutte le risposte
-- **Mostra i risultati della domanda** — Mostra un feedback dopo la domanda (oppure disattivalo)
-- **Forza i risultati dopo la domanda** — Si applica solo quando il feedback normalmente verrebbe posticipato (ad es. nei round lampo o nelle domande aperte). Per le domande standard senza interazione della giuria, il feedback viene mostrato automaticamente dopo ogni domanda.
+- **Punteggio basato sul tempo** - Premia i giocatori che rispondono più rapidamente
+- **Più risposte corrette** - Consenti più di una scelta valida
+- **Ordine casuale delle risposte** - Mescola le opzioni sullo schermo
+- **Ferma il timer quando tutti hanno risposto** - Continua appena sono arrivate tutte le risposte
+- **Mostra i risultati della domanda** - Mostra un feedback dopo la domanda (oppure disattivalo)
+- **Forza i risultati dopo la domanda** - Si applica solo quando il feedback normalmente verrebbe posticipato (ad es. nei round lampo o nelle domande aperte). Per le domande standard senza interazione della giuria, il feedback viene mostrato automaticamente dopo ogni domanda.
 
 ---
 
@@ -47,9 +47,9 @@ Personalizza come si comporta la domanda durante la partita:
 
 Questi campi controllano ciò che appare sulla schermata Quizmaster App e gioco:
 
-- **Schermata del gioco - Feedback delle domande** — Mostrata a tutti i giocatori dopo che il feedback è stato rivelato
-- **Quizmaster - Domanda lunga** — Una versione della domanda da leggere ad alta voce dal quizmaster
-- **Quizmaster - Feedback lungo** — Testo che il quizmaster può leggere dopo aver rivelato la risposta corretta
+- **Schermo di gioco - Feedback della domanda** - Mostrato a tutti i giocatori dopo che il feedback è stato rivelato
+- **Quizmaster - Domanda lunga** - Una versione della domanda da leggere ad alta voce dal quizmaster
+- **Quizmaster - Feedback lungo** - Testo che il quizmaster può leggere dopo aver rivelato la risposta corretta
 
 > 📝 Questi campi aiutano a rendere le presentazioni live dinamiche e curate.
 
@@ -61,8 +61,8 @@ Questi campi controllano ciò che appare sulla schermata Quizmaster App e gioco:
 
 Puoi arricchire le domande con immagini, video o audio. Ogni allegato può essere mostrato in momenti specifici:
 
-- **Prima / Durante / Dopo la domanda** — Mostrato nel momento in cui la domanda viene presentata
-- **Prima / Durante / Dopo il feedback** — Mostrato quando i risultati vengono rivelati
+- **Prima / Durante / Dopo la domanda** - Mostrato nel momento in cui la domanda viene presentata
+- **Prima / Durante / Dopo il feedback** - Mostrato quando i risultati vengono rivelati
 - ...
 
 > 🧠 Gli allegati sono particolarmente utili per creare suspense, illustrare le risposte o dare contesto.

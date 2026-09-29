@@ -5,7 +5,7 @@ title: Trivia (manche régulière)
 
 # ❓ Trivia (manche régulière)
 
-La manche **Trivia** est le type de manche classique et par défaut dans QuizWitz. Elle présente une série de questions à tous les joueurs — idéale pour les connaissances générales, les quiz thématiques ou les manches d’échauffement.
+La manche **Trivia** est le type de manche classique et par défaut dans QuizWitz. Elle présente une série de questions à tous les joueurs - idéale pour les connaissances générales, les quiz thématiques ou les manches d’échauffement.
 
 ---
 

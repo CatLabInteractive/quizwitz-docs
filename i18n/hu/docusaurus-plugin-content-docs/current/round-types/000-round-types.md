@@ -5,7 +5,7 @@ title: Fordulótípusok
 
 # Fordulótípusok
 
-A fordulótípus befolyásolja, hogyan jeleníti meg a játék a kérdéseket a játékosoknak — és hogyan szereznek pontokat a játékosok.  
+A fordulótípus befolyásolja, hogyan jeleníti meg a játék a kérdéseket a játékosoknak - és hogyan szereznek pontokat a játékosok.  
 A kvízekben a fordulótípust a képernyő felső középső részén található **Fordulótípus** legördülő mezőben módosíthatod.
 
 ## 🧠 Normál fordulók
@@ -22,6 +22,7 @@ Ezek a fordulók kicsit több interaktivitást kínálnak, mint az egyszerű ké
 - [Többkérdéses](022-multiquestion.md)
 - [Strike](023-strike.md)
 - [Dealer's Choice](024-dealers-choice.md)
+- [Aki először válaszol](025-first-come-first-served.md)
 
 ## 🍺 Hagyományos
 
@@ -29,12 +30,12 @@ Mindenkinek, aki hagyományos pubkvízeket szeretne szervezni, ahol a játékoso
 Ezek a fordulótípusok azt szimulálják, mintha minden forduló után „beadnák a papírokat”.
 
 - [Hagyományos](030-traditional.md)
-- [Hagyományos — Közös szál](031-traditional-ct.md)
+- [Hagyományos - Közös szál](031-traditional-ct.md)
 - [Ábécé](032-alphabet.md)
 
 ## 🎉 Élő események
 
-Ezek a fordulótípusok nem tartalmaznak kérdéseket — ehelyett a játék kimenetelét befolyásolják.
+Ezek a fordulótípusok nem tartalmaznak kérdéseket - ehelyett a játék kimenetelét befolyásolják.
 
 - [Tevékenység](040-activity.md)
 - [Szünet](060-intermission.md)
@@ -47,4 +48,4 @@ Ezek a fordulótípusok nem tartalmaznak kérdéseket — ehelyett a játék kim
 Ezekben a fordulótípusokban kiválaszthatsz konkrét **részlegeket**, amelyek más részlegek ellen játszanak.
 
 - [Részleg - Dealer's Choice](070-departments-dealers-choice.md)
-- [Részleg — Kiesés](071-departments-elimination.md)
+- [Részleg - Kiesés](071-departments-elimination.md)

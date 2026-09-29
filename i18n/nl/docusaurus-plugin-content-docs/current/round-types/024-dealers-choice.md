@@ -6,7 +6,7 @@ title: Dealer's Choice
 # 🃏 Dealer's Choice
 
 De **Dealer's Choice**-ronde in QuizWitz geeft je quiz een strategische twist.
-Een van de spelers mag **de volgende vraagcategorie kiezen**, wat hen een potentieel voordeel geeft—en misschien een bonus! Zo stel je het in en speel je het:
+Een van de spelers mag **de volgende vraagcategorie kiezen**, wat hen een potentieel voordeel geeft - en misschien een bonus! Zo stel je het in en speel je het:
 
 ---
 
@@ -25,10 +25,10 @@ Elke vraag in de Dealer's Choice-ronde heeft een **uniek label** nodig, dat dien
 
 Bijvoorbeeld:
 
-- `Dieren – Makkelijk`
-- `Dieren – Moeilijk`
-- `Geschiedenis – Leuke feiten`
-- `Films – Actieklassiekers`
+- `Dieren - Makkelijk`
+- `Dieren - Moeilijk`
+- `Geschiedenis - Leuke feiten`
+- `Films - Actieklassiekers`
 
 > Zelfs als vragen een algemeen thema delen, moeten hun labels uniek zijn zodat spelers ze duidelijk kunnen herkennen en kiezen.
 

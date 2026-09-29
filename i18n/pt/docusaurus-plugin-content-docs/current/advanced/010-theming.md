@@ -14,14 +14,14 @@ Os temas QuizWitz são criados usando o **Adobe Animate**. Podes descarregar um 
 Prefere deixar isso com os profissionais? Envia um e-mail para [support@catlab.be](mailto:support@catlab.be) e podemos preparar uma estimativa para transformar o teu design num tema QuizWitz pronto a usar.
 
 :::tip
-Having a graphic designer draw the theme and someone else assemble it in Animate is a common arrangement. The [theme design guide](012-theme-design-guide.md) describes what the designer has to deliver for that to work.
+É comum um designer gráfico desenhar o tema e outra pessoa montá-lo no Animate. O [guia de design de temas](012-theme-design-guide.md) descreve o que o designer tem de entregar para que isso funcione.
 :::
 
 ---
 
 ## 🧪 Ferramenta de teste de tema
 
-Quando estiveres pronto para testar o teu tema, **compacta o conteúdo da tua pasta de design** ( — não a pasta em si; ao abrires o zip, deves ver os teus ficheiros, não apenas uma única pasta — ) e envia para o nosso [testador de temas](https://themes.quizwitz.com/). Isso dá-te uma pré-visualização ao vivo de como o teu tema vai aparecer no jogo.
+Quando estiveres pronto para testar o teu tema, **compacta o conteúdo da tua pasta de design** ( - não a pasta em si; ao abrires o zip, deves ver os teus ficheiros, não apenas uma única pasta - ) e envia para o nosso [testador de temas](https://themes.quizwitz.com/). Isso dá-te uma pré-visualização ao vivo de como o teu tema vai aparecer no jogo.
 
 Depois de testares, envia-nos o ficheiro zip por e-mail e vamos associá-lo à tua conta para que possas selecionar e usar o teu tema nos teus quizzes.
 
@@ -42,7 +42,7 @@ Todos os designs personalizados devem incluir o logo QuizWitz.
 | Introdução do jogo                                             | Animação antes do jogo.                                                                               | Ecrã de espera.                                       |
 | Introdução da ronda                                            | Animação antes de cada ronda.                                                                         | Ecrã de espera.                                       |
 | Perguntas                                                      |                                                                                                                       |                                                                       |
-| Anexo                                                          | Visualização do anexo em ecrã inteiro ( — antes/depois de perguntas ou rondas — ). | Ecrã de espera.                                       |
+| Anexo                                                          | Visualização do anexo em ecrã inteiro ( - antes/depois de perguntas ou rondas - ). | Ecrã de espera.                                       |
 | Pergunta: múltipla escolha sem anexo           | Pergunta + 4 opções de múltipla escolha.                                                              | Ecrã de resposta de múltipla escolha.                 |
 | Pergunta: múltipla escolha com anexo           | Pergunta + 4 opções de múltipla escolha + um anexo visual.                                            | Ecrã de resposta de múltipla escolha.                 |
 | Pergunta: pergunta aberta sem anexo            | Apenas a pergunta.                                                                                    | Entrada de texto e botão de enviar.                   |

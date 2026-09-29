@@ -25,8 +25,8 @@ title: Abteilung Dealer's Choice
   - Höchster Rang zuerst
   - Zufällig
 - **Dealer-Abteilung:**
-  - _Nur der Dealer darf spielen_ — Nur der ausgewählte Dealer beantwortet die Frage
-  - _Alle Spieler in der Abteilung des Dealers dürfen spielen_ — Jeder in der Abteilung kann antworten und Punkte erzielen
+  - _Nur der Dealer darf spielen_ - Nur der ausgewählte Dealer beantwortet die Frage
+  - _Alle Spieler in der Abteilung des Dealers dürfen spielen_ - Jeder in der Abteilung kann antworten und Punkte erzielen
 - **Dealer-Bonus:**  
   Lege einen Bonusprozentsatz für den Dealer fest (falls aktiviert).
 

@@ -61,4 +61,4 @@ Eine Aktivitätsrunde erlaubt es dir, von den klassischen Quizfragen zu einem kr
 
 ---
 
-Die Aktivitätsrunde ist perfekt für interaktive Challenges, Duelle oder kreative Aufgaben – eine tolle Möglichkeit, deinem QuizWitz-Event Energie und Abwechslung zu verleihen!
+Die Aktivitätsrunde ist perfekt für interaktive Challenges, Duelle oder kreative Aufgaben - eine tolle Möglichkeit, deinem QuizWitz-Event Energie und Abwechslung zu verleihen!

@@ -36,13 +36,13 @@ Minden kérdésnek saját képernyője van a Quizmaster appban:
 
 Ezt fogod látni:
 
-- **Kérdésszám** — pl. az `1.1` a nyitóforduló nyitókérdését jelenti
-- **Kérdéstípus** — például feleletválasztós, a hozzá tartozó pontozási módosítókkal
-- **A kérdés hosszú változata** — ezt olvasd fel hangosan
-- **Kérdésinfó** — többek között az időzítő hosszával és a megszerezhető pontokkal
+- **Kérdésszám** - pl. az `1.1` a nyitóforduló nyitókérdését jelenti
+- **Kérdéstípus** - például feleletválasztós, a hozzá tartozó pontozási módosítókkal
+- **A kérdés hosszú változata** - ezt olvasd fel hangosan
+- **Kérdésinfó** - többek között az időzítő hosszával és a megszerezhető pontokkal
 - **Rövid kérdés** - a játékképernyőn megjelenő változat
-- **Kérdés indítása gomb** — azonnal elindítja az időzítőt
-- **Lehetséges válaszok** — a megfelelő sorrendben jelennek meg (feleletválasztós kérdésnél)
+- **Kérdés indítása gomb** - azonnal elindítja az időzítőt
+- **Lehetséges válaszok** - a megfelelő sorrendben jelennek meg (feleletválasztós kérdésnél)
 
 A kérdés addig marad látható az alkalmazásodban, amíg:
 
@@ -55,7 +55,7 @@ A kérdés addig marad látható az alkalmazásodban, amíg:
 
 ### ✅ Kérdés-visszajelzés
 
-Miután egy kérdés véget ér, kiderül a helyes válasz. Az, hogy mit látsz, a kérdéstípustól függ — ez a példa egy feleletválasztós eredményképernyőt mutat:
+Miután egy kérdés véget ér, kiderül a helyes válasz. Az, hogy mit látsz, a kérdéstípustól függ - ez a példa egy feleletválasztós eredményképernyőt mutat:
 
 ![Quizmaster app - kérdés visszajelzése](/images/quizmaster-app-question-feedback.png)
 
@@ -64,10 +64,10 @@ Tartalmazza:
 - **Kérdésszám**
 - **Rövid kérdésszöveg**
 - **Helyes válasz**
-- **Válaszok megoszlása** — számokban és százalékban
-- **Hosszú visszajelzés** — extra infó, amit felolvashatsz
-- **Folytatás gomb** — továbblép a következő kérdésre
-- **100 leggyorsabb válasz** — a képernyő alján jelenik meg
+- **Válaszok megoszlása** - számokban és százalékban
+- **Hosszú visszajelzés** - extra infó, amit felolvashatsz
+- **Folytatás gomb** - továbblép a következő kérdésre
+- **100 leggyorsabb válasz** - a képernyő alján jelenik meg
 
 ---
 
@@ -93,14 +93,14 @@ A játékosok a lezárás alatt **a saját helyezésüket** fogják látni az es
 
 ### 🏆 A kvíz vége
 
-A kvíz végén jöhet a **győztesleleplező buli** — konfettivel és a képernyőn repkedő játékos-emojikkal.
+A kvíz végén jöhet a **győztesleleplező buli** - konfettivel és a képernyőn repkedő játékos-emojikkal.
 
 ![QuizWitz - játék záró játékképernyő](/images/game-outro.png)
 
 - Az alapértelmezett beállítás a **legjobb 12 játékost** mutatja
 - A **haladó játékbeállításokban** testreszabhatod, hány játékos jelenjen meg
 
-> 🎉 Vicces tipp: A játékosaid által választott emoji körbetáncolja a képernyőt — még akkor is, ha a mosolygó kakit választották.
+> 🎉 Vicces tipp: A játékosaid által választott emoji körbetáncolja a képernyőt - még akkor is, ha a mosolygó kakit választották.
 
 ---
 

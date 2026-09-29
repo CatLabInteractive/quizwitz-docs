@@ -5,7 +5,7 @@ title: Stand de conférence
 
 # Stand de conférence
 
-Ce tutoriel vous montrera comment gérer QuizWitz à votre stand de conférence — un moyen facile et interactif d'attirer les visiteurs et de recueillir des prospects !
+Ce tutoriel vous montrera comment gérer QuizWitz à votre stand de conférence - un moyen facile et interactif d'attirer les visiteurs et de recueillir des prospects !
 
 ![Une photo d'un stand Marvel utilisant QuizWitz](/images/photos/marvel.jpg)
 
@@ -14,19 +14,19 @@ Ce tutoriel vous montrera comment gérer QuizWitz à votre stand de conférence 
 ## 📝 Création du quiz
 
 Lorsque vous créez un quiz pour un stand de conférence, gardez à l'esprit que certains joueurs peuvent rester pour plusieurs parties.  
-Pour garder de la fraîcheur, assurez-vous d'avoir plein de questions — suffisamment pour les randomiser et rendre chaque partie unique.
+Pour garder de la fraîcheur, assurez-vous d'avoir plein de questions - suffisamment pour les randomiser et rendre chaque partie unique.
 
 **Configuration recommandée :**
 
 - 15 questions réparties en 3 manches
-- Créez au moins 3× plus de questions pour varier — plus c'est mieux !
+- Créez au moins 3× plus de questions pour varier - plus c'est mieux !
 
 ### 🎲 Création pas-à-pas du quiz
 
 1. **Choisissez « Quiz »** dans le menu Créer et donnez un nom à votre quiz. Définissez la langue correcte.
 2. **Ajoutez 3 manches** et nommez-les (par exemple : Manche 1, Manche 2, Manche 3).
 3. Dans les **Paramètres de la manche** (icône engrenage), activez **« Afficher uniquement x questions »** et réglez le nombre à 5.  
-   Activez aussi **« Ordre des questions aléatoire »** — sinon le jeu prendra toujours les 5 premières questions.  
+   Activez aussi **« Ordre des questions aléatoire »** - sinon le jeu prendra toujours les 5 premières questions.  
    Répétez pour chaque manche.
 
 ![Capture d'écran des paramètres de manche pour un stand de conférence](/images/tutorials/conference/round_settings.png)
@@ -35,7 +35,7 @@ Pour garder de la fraîcheur, assurez-vous d'avoir plein de questions — suffis
    Vous pouvez [écrire des questions](../editor/005-writing-questions.md) ou utiliser le bouton Importer pour ajouter rapidement du contenu depuis Excel.
 
 :::tip
-Utilisez beaucoup d'images et de clips vidéo — ils rendent le jeu bien plus divertissant !
+Utilisez beaucoup d'images et de clips vidéo - ils rendent le jeu bien plus divertissant !
 :::
 
 ---
@@ -54,7 +54,7 @@ Le moyen le plus rapide de lancer votre quiz de conférence :
 2. Sélectionnez **Démarrer le mode conférence**.
 
 Dans ce mode, les joueurs utilisent leur téléphone pour se connecter au lien de jeu sur l'écran de jeu.  
-Quand tout le monde est prêt, l'hôte du stand appuie sur Entrée — et le jeu démarre automatiquement.  
+Quand tout le monde est prêt, l'hôte du stand appuie sur Entrée - et le jeu démarre automatiquement.  
 À la fin du jeu, appuyer sur Entrée vous ramène directement à l'écran de connexion pour le groupe suivant.
 
 ---
@@ -67,7 +67,7 @@ Vous recevrez un lien unique avec toutes vos options choisies.
 
 - **Demander l'email des joueurs :**  
   Recueillez les emails des visiteurs de votre stand ! Si vous activez cela, pensez à aussi définir votre **URL de politique de confidentialité**.
-- Quand vous lancez une partie via le lien d'options avancées, on peut vous demander de vous connecter avant de commencer — cela vérifie votre contenu et licences.
+- Quand vous lancez une partie via le lien d'options avancées, on peut vous demander de vous connecter avant de commencer - cela vérifie votre contenu et licences.
 
 ![Capture d'écran des paramètres avancés de jeu](/images/tutorials/conference/advanced_game_settings.png)
 

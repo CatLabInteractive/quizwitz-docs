@@ -5,7 +5,7 @@ title: Emerald-thema
 
 # Emerald-thema
 
-Het Emerald-thema is de makkelijkste manier om het uiterlijk van je QuizWitz game aan te passen. Standaard is het thema een frisse blauw / groene stijl met levendige keuropties, maar door quizbijlagen en thema-aanpassingen te combineren kun je het uiterlijk volledig naar wens veranderen.
+Het Emerald-thema is de makkelijkste manier om het uiterlijk van je QuizWitz game aan te passen. Standaard heeft het thema een frisse blauw-groene stijl met levendige optiekleuren, maar door quizbijlagen en thema-aanpassingen te combineren kun je het uiterlijk ingrijpend veranderen.
 
 :::tip
 Je kunt onze [thematester](https://client.quizwitz.com/test.html?theme=emerald) gebruiken om te zien hoe jouw instellingen eruitzien.
@@ -25,7 +25,7 @@ Je kunt een quiz testen met het Emerald-thema [hier](https://play.quizwitz.com/1
 
 ### Quizbijlagen
 
-De simpelste manier om het uiterlijk en het gevoel van de game te veranderen is door afbeeldingen toe te voegen aan je quiz. Open de **Quizinstellingen** en scroll naar het onderdeel **Bijlagen**. Hier kun je afbeeldingen uploaden die gebruikt worden als achtergrond, klantlogo, connect- en wacht-schermen (voor conferentie- en live-quizzes), en nog meer.
+De simpelste manier om het uiterlijk en het gevoel van de game te veranderen is door afbeeldingen toe te voegen aan je quiz. Open de **Quizinstellingen** en scroll naar het onderdeel **Bijlagen**. Hier kun je afbeeldingen uploaden die gebruikt worden als achtergrond, klantlogo, aanmeld- en wachtschermen (voor conferentie- en live-quizzen), en meer.
 
 ![Een screenshot van de quizbijlagen](/images/emerald/quiz-attachments.png)
 
@@ -51,7 +51,7 @@ Alle muziek in de game kan ook vervangen worden door bijlagen. Alle audiobestand
 
 ## Emerald-thema aanpassers
 
-Naast bijlagen kun je het Emerald-thema ook aanpassen met **query parameters**. Dit zijn parameters die je kunt toevoegen aan de URL van de **geavanceerde spelopties** om het uiterlijk van het thema aan te passen.
+Naast bijlagen kun je het Emerald-thema ook aanpassen met **query parameters**. Dit zijn parameters die je kunt toevoegen aan de URL van de **geavanceerde spelopties** - en ze veranderen het uiterlijk van het thema.
 
 Hiervoor starten we met een voorbeeldquiz (zonder bijlagen):\
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
@@ -71,8 +71,8 @@ De beschikbare aanpassers zijn:
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
-- optionColors (4 kleuren, komma-gescheiden)
-- optionBorderColors (4 kleuren, komma-gescheiden)
+- optionColors (4 kleuren, kommagescheiden)
+- optionBorderColors (4 kleuren, kommagescheiden)
 
 Daarnaast kun je een standaardlettertype instellen:
 

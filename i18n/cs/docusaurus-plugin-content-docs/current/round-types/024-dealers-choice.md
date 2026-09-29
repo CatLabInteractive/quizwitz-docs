@@ -7,7 +7,7 @@ title: Volba obchodníka
 
 **Volba obchodníka** v QuizWitzu přidá ke tvému kvízu strategický kroužek.
 Jeden z hráčů si může **vybrat kategorii další otázky**, což mu dá potenciální
-výhodu — a možná i bonus! Tady je návod, jak to nastavit a hrát:
+výhodu - a možná i bonus! Tady je návod, jak to nastavit a hrát:
 
 ---
 
@@ -26,10 +26,10 @@ Každá otázka v kole výběru obchodníka potřebuje **jedinečný štítek**,
 
 Například:
 
-- `Zvířata – lehké`
-- `Zvířata – těžké`
-- `Historie – zajímavosti`
-- `Filmy – akční klasiky`
+- `Zvířata - Snadné`
+- `Zvířata - Těžké`
+- `Historie - Zajímavosti`
+- `Filmy - Akční klasika`
 
 > I když mají otázky společné obecné téma, jejich štítky by měly být pořád jedinečné, aby je hráči mohli jasně rozpoznat a vybrat.
 

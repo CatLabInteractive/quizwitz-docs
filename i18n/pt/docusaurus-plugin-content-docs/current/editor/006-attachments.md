@@ -23,9 +23,9 @@ Cada página explica quando estes anexos são mostrados durante o jogo.
 
 Aqui tens uma lista geral (não exaustiva) de formatos compatíveis:
 
-- **Imagens** — `.png`, `.jpeg`, `.gif` (não animado). Full HD (1920×1080) recomendado
-- **Áudio** — A maioria dos formatos padrão é suportada
-- **Vídeo** — A maioria dos formatos padrão é suportada
+- **Imagens** - `.png`, `.jpeg`, `.gif` (não animado). Full HD (1920×1080) recomendado
+- **Áudio** - A maioria dos formatos padrão é suportada
+- **Vídeo** - A maioria dos formatos padrão é suportada
 
 > 🔊 ⏱️ Os anexos de áudio e vídeo devem ter uma duração **máxima de 15 minutos**.
 
@@ -35,8 +35,8 @@ Aqui tens uma lista geral (não exaustiva) de formatos compatíveis:
 
 Cada anexo pode ter um nome e uma atribuição opcional:
 
-- **Nome** — Mostrado ao quizmaster em [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); ajuda a organizar os anexos
-- **Atribuição** — Mostrada aos jogadores como crédito ou informação sobre a fonte. Deve ser o **nome do titular dos direitos**.
+- **Nome** - Mostrado ao quizmaster em [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); ajuda a organizar os anexos
+- **Atribuição** - Mostrada aos jogadores como crédito ou informação sobre a fonte. Deve ser o **nome do titular dos direitos**.
 
 > ⚠️ Para **publicar** um Round-About ou Quiz, **todos os anexos têm de ter uma atribuição válida** preenchida. Sem isto, a tua entrada não pode ser tornada pública.
 
@@ -46,8 +46,8 @@ Cada anexo pode ter um nome e uma atribuição opcional:
 
 Alguns espaços de anexos suportam **efeitos** para revelar elementos visuais de forma mais gradual:
 
-- **Nenhum** — O ficheiro é mostrado tal como está
-- **Efeito de holofote** — Revela gradualmente partes da imagem ao longo do tempo com um holofote em movimento que se expande à medida que avança
+- **Nenhum** - O ficheiro é mostrado tal como está
+- **Efeito de holofote** - Revela gradualmente partes da imagem ao longo do tempo com um holofote em movimento que se expande à medida que avança
 
 Isto é especialmente eficaz para puzzles ou revelações lentas durante introduções ou momentos dramáticos.
 

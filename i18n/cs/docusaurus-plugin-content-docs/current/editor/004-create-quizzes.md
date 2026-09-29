@@ -5,7 +5,7 @@ title: Vytváření kvízů
 
 # 🧠 Vytvoř celý kvíz
 
-Chceš vytvořit kompletní kvízový zážitek pro hráče nebo události? Tento průvodce tě provede vytvořením celého kvízu pomocí více kol — včetně vlastních otázek nebo Round-Abouts, které sis nasbíral/a.
+Chceš vytvořit kompletní kvízový zážitek pro hráče nebo události? Tento průvodce tě provede vytvořením celého kvízu pomocí více kol - včetně vlastních otázek nebo Round-Abouts, které sis nasbíral/a.
 
 ---
 
@@ -23,7 +23,7 @@ Z hlavní nabídky:
 ## ✏️ Název a jazyk
 
 Dej svému kvízu název a vyber hlavní jazyk.  
-**Překlady** můžeš v případě potřeby přidat později — nemusíš rozhodovat o všem hned na začátku.
+**Překlady** můžeš v případě potřeby přidat později - nemusíš rozhodovat o všem hned na začátku.
 
 ---
 
@@ -53,8 +53,8 @@ V hlavním editoru můžeš:
 
 Každé kolo může mít vlastní pravidla a formát. Další informace najdeš v pokročilých průvodcích:
 
-- [Typy kol](../round-types/000-round-types.md) — Nastav, jak se kolo chová (např. bleskové kolo, hádankové kolo)
-- [Typy otázek](../question-types/000-question-types.md) — Uprav formát a bodování každé otázky
+- [Typy kol](../round-types/000-round-types.md) - Nastav, jak se kolo chová (např. bleskové kolo, hádankové kolo)
+- [Typy otázek](../question-types/000-question-types.md) - Uprav formát a bodování každé otázky
 
 ---
 
@@ -66,7 +66,7 @@ Nezapomeň:
 - Kdykoli ho **otestovat a zahrát si ho**
 - Až bude připravený ke sdílení, **publikovat** ho
 
-> 📢 Aby šel kvíz publikovat, musí obsahovat **alespoň 14 otázek**. Po publikování bude dostupný komunitě — ale v případě potřeby ho můžeš později z publikace stáhnout.
+> 📢 Aby šel kvíz publikovat, musí obsahovat **alespoň 14 otázek**. Po zveřejnění bude dostupný komunitě - ale v případě potřeby jeho zveřejnění můžeš později zrušit.
 
 > 📝 **Publikování je zcela volitelné.** Jakýkoli kvíz nebo Round-About si můžeš zahrát soukromě bez publikování. Skvělé pro osobní použití, testování nebo soukromé události.
 
@@ -78,9 +78,9 @@ Až budeš připravený/připravená kvíz otestovat nebo spustit, stiskni tlač
 
 ![Odkazy pro hraní kvízu](/images/quiz-playlinks.png)
 
-- **[Hrajte stranu](../players/001-playing-quizwitz.md)** — příležitostný zážitek z kvízu s přáteli na stejné obrazovce nebo prostřednictvím sdílení obrazovky. Hra běží automaticky; hostitel ji může zastavit, ale nemá žádnou další kontrolu nad pacemi.
-- **[Start QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Spustit profesionální kvíz s použitím aplikace Quizmaster Tohle je **jediný režim, kde kvízmistr ovládá pacing** hry.
-- **[Režim spuštění konference (PRO)](../tutorials/050-conference-booth.md)** — Uspořádání kvízu ve stylu konference pro větší publikum s přiřazenými místy, týmovými kódy a výrobními nástroji. Stejně jako Party Games, konferenční hry běží automaticky.
+- **[Hrát Party hru](../players/001-playing-quizwitz.md)** - Nenucený kvízový zážitek s přáteli na stejné obrazovce nebo přes sdílení obrazovky. Hra běží automaticky; hostitel ji může zastavit, ale nemá žádnou další kontrolu nad pacemi.
+- **[Spustit QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** - Spusť profesionální živou kvízovou akci pomocí Quizmaster App. Tohle je **jediný režim, kde kvízmistr ovládá pacing** hry.
+- **[Spustit konferenční režim (PRO)](../tutorials/050-conference-booth.md)** - Hostuj kvíz v konferenčním stylu pro větší publikum s přiřazenými místy, týmovými kódy a produkčními nástroji. Stejně jako Party Games, konferenční hry běží automaticky.
 
 ---
 
@@ -88,8 +88,8 @@ Až budeš připravený/připravená kvíz otestovat nebo spustit, stiskni tlač
 
 Chceš nasimulovat celý průběh kvízu? Použij pokročilé nástroje pro testování:
 
-- **Simulovat** — Spusť testovací průchod s boty (bez prezentace)
-- **Simulovat Live** — Nasimuluj celou relaci [QuizWitz Live](../quizmaster/001-introduction.md) s boty, včetně zobrazení pro Quizmaster, porotu a hráče
+- **Simulovat** - Spusť testovací průchod s boty (bez prezentace)
+- **Simulovat Live** - Nasimuluj celou hru [QuizWitz Live](../quizmaster/001-introduction.md) s boty, včetně zobrazení pro quizmastera, porotu a hráče
 
 ---
 

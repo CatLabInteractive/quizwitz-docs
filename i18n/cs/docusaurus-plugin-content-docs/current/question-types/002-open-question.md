@@ -5,7 +5,7 @@ title: Otevřená otázka
 
 # 💬 Otevřená otázka
 
-Otevřená otázka umožňuje hráčům volně napsat odpověď pomocí klávesnice. Tenhle režim je ideální pro otázky, u kterých chceš písemné odpovědi — třeba jména, čísla nebo krátká vysvětlení.
+Otevřená otázka umožňuje hráčům volně napsat odpověď pomocí klávesnice. Tenhle režim je ideální pro otázky, u kterých chceš písemné odpovědi - třeba jména, čísla nebo krátká vysvětlení.
 
 ---
 
@@ -41,7 +41,7 @@ Bodování otevřených otázek je navržené tak, aby bylo férové i pro pomal
 
 - **Bodování podle času** dělí dostupné body do bloků, nejde o striktní odpočet po milisekundách.
 - Například odpověď v prvním bloku (např. prvních 5 sekund) dá plný počet bodů; další blok dá 80 % a tak dál. To pomáhá snížit penalizaci pro pomalejší písaře.
-- Ve výchozím nastavení závisí na rychlosti jen **25 %** bodů — zbývajících **75 %** je pevných, takže každý, kdo odpoví správně, získá většinu bodů bez ohledu na rychlost psaní.
+- Ve výchozím nastavení závisí na rychlosti jen **25 %** bodů - zbývajících **75 %** je pevných, takže každý, kdo odpoví správně, získá většinu bodů bez ohledu na rychlost psaní.
 
 > ⚙️ **Tip:** Chování bodování a další nastavení můžeš ještě upravit v části [Možnosti kola](../editor/008-round-options.md).
 

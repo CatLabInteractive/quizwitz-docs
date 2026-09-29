@@ -61,4 +61,4 @@ Egy Aktivitás körben elszakadhatsz a hagyományos kvízkérdésektől, és kre
 
 ---
 
-Az Aktivitás kör tökéletes interaktív kihívásokhoz, párbajokhoz vagy kreatív feladatokhoz — remek módja annak, hogy energiát és változatosságot vigyél a QuizWitz eseményedbe!
+Az Aktivitás forduló tökéletes interaktív kihívásokhoz, párbajokhoz vagy kreatív feladatokhoz - remek módja annak, hogy energiát és változatosságot vigyél a QuizWitz eseményedbe!

@@ -11,12 +11,12 @@ Benvenuto su QuizWitz! Che tu stia giocando da solo o con gli amici, questa guid
 
 ## 🎯 Scegli a cosa giocare
 
-Inizia esplorando i **Round-Abouts** disponibili — brevi round a tema con domande quiz. Usa il menu in alto sullo schermo per esplorare:
+Inizia esplorando i **Round-Abouts** disponibili - brevi round a tema con domande quiz. Usa il menu in alto sullo schermo per esplorare:
 
-- **Novità** — Scopri gli ultimi Round-Abouts
-- **La mia raccolta** — Accedi a tutto ciò che hai salvato o creato
-- **Raccogli** — Trova Round-Abouts creati dalla community
-- **Partita veloce** — Entra subito in una selezione casuale
+- **Novità** - Scopri gli ultimi Round-Abouts
+- **La mia collezione** - Accedi a tutto ciò che hai salvato o creato
+- **Raccogli** - Trova Round-Abouts creati dalla community
+- **Partita veloce** - Entra subito in una selezione casuale
 
 ![Barra di navigazione superiore di QuizWitz](/images/top-menu-play.png)
 
@@ -39,13 +39,13 @@ Questo include:
 - Bingo
 - ...
 
-Puoi organizzare, giocare o rimuovere elementi in qualsiasi momento. Questa è la tua libreria personale — costruiscila come preferisci!
+Puoi organizzare, giocare o rimuovere elementi in qualsiasi momento. Questa è la tua libreria personale - costruiscila come preferisci!
 
 ---
 
 ## 🧠 Scegli un Round-About
 
-Un **Round-About** è un piccolo round di domande a tema — come dice il nome, un round _circa_ un soggetto. Giocarne anche solo uno ti darà una partita breve con 7 domande casuali.
+Un **Round-About** è un piccolo round di domande a tema - come dice il nome, un round _su_ un argomento. Giocarne anche solo uno ti darà una partita breve con 7 domande casuali.
 
 Per esplorare un Round-About più nel dettaglio:
 
@@ -63,7 +63,7 @@ Vuoi creare una partita quiz completa usando più Round-Abouts? Ecco come fare:
 - Clicca su **Aggiungi alla mia raccolta** dentro il Round-About
 - Oppure clicca sull'**icona a stella** nella scheda del Round-About
 
-Per rimuoverne uno più tardi, clicca di nuovo sulla stella — ora dirà **Rimuovi dalla mia raccolta**.
+Per rimuoverne uno più tardi, clicca di nuovo sulla stella - ora dirà **Rimuovi dalla mia collezione**.
 
 ![Aggiungi un Round-About alla tua raccolta](/images/add-to-collection.png)
 
@@ -80,7 +80,7 @@ Quando sei pronto:
 
 Scegli:
 
-- **Modalità di gioco** — Giocatore singolo o Party Game
+- **Modalità di gioco** - Giocatore singolo o Party Game
 - **Quali Round-Abouts** includere nella tua sessione
 
 QuizWitz proverà a saltare le domande che hai già visto.
@@ -107,17 +107,17 @@ Una volta iniziata la partita, scegli la modalità:
 
 Gioca con gli amici usando i loro telefoni o tablet:
 
-> 📺 Assicurarsi che la schermata di gioco sia visibile — utilizzare un display condiviso o condivisione dello schermo
+> 📺 Assicurati che lo schermo di gioco sia visibile - usa un display condiviso o la condivisione dello schermo
 
 1. Clicca su **Avvia**, poi scegli **Party Game**
 2. I giocatori seguono le istruzioni sullo schermo per partecipare
 3. Clicca su **Avvia quiz** quando tutti sono pronti
 
-Una volta che il quiz ha inizio, **il gioco è in esecuzione automaticamente** — le domande, il conteggio alla rovescia, e i punteggi sono allineati senza alcun intervento dell'host.
+Una volta iniziato il quiz, **la partita procede automaticamente** - le domande appaiono, i timer scorrono e i punteggi vengono calcolati senza alcun intervento del conduttore.
 
 > ⏸️ Hai bisogno di una pausa? Sposta il mouse in fondo alla schermata di gioco e apparirà un pulsante **pausa**. La pausa è l'unico modo per interrompere un Party Game.
 >
-> Vuoi controllare il ritmo del gioco da solo — decidere quando ogni domanda inizia? È possibile solo con [**QuizWitz Live**](../quizmaster/001-introduction.md) e l'app Quizmaster.
+> Vuoi controllare tu il ritmo della partita - decidendo quando inizia ogni domanda? È possibile solo con [**QuizWitz Live**](../quizmaster/001-introduction.md) e l'app Quizmaster.
 
 ![Schermata iniziale di QuizWitz](/images/quizwitz-start-screen.png)  
 ![Schermata iniziale Party Game di QuizWitz](/images/quizwitz-start-screen-party.png)  

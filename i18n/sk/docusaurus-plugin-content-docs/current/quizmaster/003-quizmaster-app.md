@@ -36,13 +36,13 @@ Každá otázka má v Quizmaster App vlastnú obrazovku:
 
 Uvidíš:
 
-- **Číslo otázky** — napr. `1.1` znamená začiatočnú otázku úvodného kola
-- **Typ otázky** — napríklad výber z viacerých možností, spolu s príslušnými úpravami bodovania
-- **Dlhá verzia otázky** — aby si ju mohol prečítať nahlas
-- **Informácie o otázke** — vrátane trvania časovača a dostupných bodov
+- **Číslo otázky** - napr. `1.1` znamená prvú otázku prvého kola
+- **Typ otázky** - napríklad výber z viacerých možností, spolu s príslušnými úpravami bodovania
+- **Dlhá verzia otázky** - aby si ju mohol prečítať nahlas
+- **Informácie o otázke** - vrátane trvania časovača a dostupných bodov
 - **Krátka otázka** - verzia zobrazená na hernej obrazovke
-- **Tlačidlo na spustenie otázky** — okamžite spustí časovač
-- **Možné odpovede** — zobrazené v správnom poradí (pri výbere z viacerých možností)
+- **Tlačidlo na spustenie otázky** - okamžite spustí časovač
+- **Možné odpovede** - zobrazené v správnom poradí (pri výbere z viacerých možností)
 
 Otázka zostane v tvojej aplikácii viditeľná, kým nenastane jedno z tohto:
 
@@ -55,7 +55,7 @@ Otázka zostane v tvojej aplikácii viditeľná, kým nenastane jedno z tohto:
 
 ### ✅ Spätná väzba k otázke
 
-Po skončení otázky sa odhalí správna odpoveď. To, čo uvidíš, závisí od typu otázky — tento príklad zobrazuje obrazovku výsledku pri výbere z viacerých možností:
+Po skončení otázky sa odhalí správna odpoveď. To, čo uvidíš, závisí od typu otázky - tento príklad zobrazuje obrazovku výsledku pri výbere z viacerých možností:
 
 ![Quizmaster App - spätná väzba k otázke](/images/quizmaster-app-question-feedback.png)
 
@@ -64,10 +64,10 @@ Obsahuje:
 - **Číslo otázky**
 - **Krátky text otázky**
 - **Správna odpoveď**
-- **Rozloženie odpovedí** — v číslach a percentách
-- **Dlhá spätná väzba** — ďalšie informácie, ktoré môžeš prečítať nahlas
-- **Tlačidlo Pokračovať** — posunie hru na ďalšiu otázku
-- **Najrýchlejších 100 odpovedí** — zobrazených v spodnej časti obrazovky
+- **Rozloženie odpovedí** - v číslach a percentách
+- **Dlhá spätná väzba** - ďalšie informácie, ktoré môžeš prečítať nahlas
+- **Tlačidlo Pokračovať** - posunie hru na ďalšiu otázku
+- **Najrýchlejších 100 odpovedí** - zobrazených v spodnej časti obrazovky
 
 ---
 
@@ -93,14 +93,14 @@ Hráči počas záveru uvidia na svojom zariadení **svoju vlastnú pozíciu**.
 
 ### 🏆 Koniec kvízu
 
-Na konci kvízu prichádza čas na **párty s odhalením víťaza** — aj s konfetami a hráčskymi emoji lietajúcimi po obrazovke.
+Na konci kvízu prichádza čas na **párty s odhalením víťaza** - aj s konfetami a hráčskymi emoji lietajúcimi po obrazovke.
 
 ![QuizWitz - herná obrazovka so záverom hry](/images/game-outro.png)
 
 - Predvolené nastavenie zobrazuje **12 najlepších hráčov**
 - V **pokročilých nastaveniach hry** si môžeš prispôsobiť, koľko hráčov sa zobrazí
 
-> 🎉 Zábavný tip: Emoji, ktoré si tvoji hráči vyberú, bude tancovať po obrazovke — aj keď si vybrali usmiate hovienko.
+> 🎉 Zábavný tip: Emoji, ktoré si tvoji hráči vyberú, bude tancovať po obrazovke - aj keď si vybrali usmiate hovienko.
 
 ---
 

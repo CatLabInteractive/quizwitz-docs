@@ -6,7 +6,7 @@ title: Dealer's Choice
 # 🃏 Dealer's Choice
 
 La ronda de **Dealer's Choice** en QuizWitz añade un giro estratégico a tu quiz.
-Uno de los jugadores puede **elegir la próxima categoría de pregunta**, dándole una posible ventaja —¡y posiblemente un bono! Así es como configurarlo y jugar:
+Uno de los jugadores puede **elegir la próxima categoría de pregunta**, lo que le da una posible ventaja - ¡y posiblemente un bonus! Así es como configurarlo y jugar:
 
 ---
 
@@ -25,10 +25,10 @@ Cada pregunta en la ronda de Dealer's Choice necesita una **etiqueta única**, q
 
 Por ejemplo:
 
-- `Animales – Fácil`
-- `Animales – Difícil`
-- `Historia – Datos curiosos`
-- `Películas – Clásicos de acción`
+- `Animales - Fácil`
+- `Animales - Difícil`
+- `Historia - Datos curiosos`
+- `Películas - Clásicos de acción`
 
 > Aunque las preguntas compartan un tema general, sus etiquetas deben ser únicas para que los jugadores las identifiquen y elijan claramente.
 

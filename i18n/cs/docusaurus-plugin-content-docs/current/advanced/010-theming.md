@@ -21,7 +21,7 @@ Běžné uspořádání je, že téma nakreslí grafik a někdo jiný ho složí
 
 ## 🧪 Nástroj pro testování motivu
 
-Až budeš chtít svůj motiv otestovat, **zazipuj obsah složky s návrhem** ( — ne samotnou složku; když zip otevřeš, měly by se zobrazit tvoje soubory, ne jen jedna složka — ) a nahraj ho do našeho [testeru motivů](https://themes.quizwitz.com/). Získáš tak živý náhled toho, jak bude tvůj motiv ve hře vypadat.
+Až budeš chtít svůj motiv otestovat, **zazipuj obsah složky s návrhem** ( - ne samotnou složku; když zip otevřeš, měly by se zobrazit tvoje soubory, ne jen jedna složka - ) a nahraj ho do našeho [testeru motivů](https://themes.quizwitz.com/). Získáš tak živý náhled toho, jak bude tvůj motiv ve hře vypadat.
 
 Po otestování nám zip soubor pošli e-mailem a my ho propojíme s tvým účtem, abys mohl/a svůj motiv vybrat a používat ve svých kvízech.
 
@@ -42,7 +42,7 @@ Všechny vlastní návrhy musí obsahovat logo QuizWitz.
 | Úvod hry                                                          | Animace před hrou.                                                                            | Čekací obrazovka.                               |
 | Úvod kola                                                         | Animace před každým kolem.                                                                    | Čekací obrazovka.                               |
 | Otázky                                                            |                                                                                                               |                                                                 |
-| Příloha                                                           | Zobrazení přílohy na celou obrazovku ( — před/po otázkách nebo kolech — ). | Čekací obrazovka.                               |
+| Příloha                                                           | Zobrazení přílohy na celou obrazovku ( - před/po otázkách nebo kolech - ). | Čekací obrazovka.                               |
 | Otázka: výběr z možností bez přílohy              | Otázka + 4 možnosti výběru.                                                                   | Obrazovka odpovědi s výběrem z možností.        |
 | Otázka: výběr z možností s přílohou               | Otázka + 4 možnosti výběru + vizuální příloha.                                                | Obrazovka odpovědi s výběrem z možností.        |
 | Otázka: otevřená otázka bez přílohy               | Pouze otázka.                                                                                 | Textové pole a tlačítko pro odeslání.           |

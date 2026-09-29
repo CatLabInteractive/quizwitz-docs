@@ -16,7 +16,7 @@ title: Spieler Einführung
 
 ---
 
-> Spieler Vorstellungen helfen, die Stimmung zu setzen, das Eis zu brechen und das Quiz-Erlebnis zu personalisieren – besonders bei Live- und Team-Events!
+> Spielervorstellungen helfen, die Stimmung zu setzen, das Eis zu brechen und das Quiz-Erlebnis zu personalisieren - besonders bei Live- und Team-Events!
 
 ---
 

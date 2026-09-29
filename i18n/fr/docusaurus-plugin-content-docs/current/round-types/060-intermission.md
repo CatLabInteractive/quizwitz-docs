@@ -5,7 +5,7 @@ title: Pause
 
 # ⏸️ Pause
 
-**La pause** est une manche spéciale qui interrompt le quiz — idéale pour s'étirer, discuter ou promouvoir des sponsors.
+**La pause** est une manche spéciale qui interrompt le quiz - idéale pour s'étirer, discuter ou promouvoir des sponsors.
 
 ---
 
@@ -23,7 +23,7 @@ title: Pause
 ## 🖼️ Pièces jointes
 
 - Vous pouvez télécharger des images, logos ou vidéos dans les paramètres de la manche.
-- Au cours de la pause, ces pièces jointes seront affichées dans un carrousel sur l'écran du jeu, ce qui est idéal pour les logos des commanditaires, les messages ou les vidéos promotionnelles.
+- Pendant la pause, ces pièces jointes sont affichées dans un carrousel sur l'écran de jeu - idéal pour les logos des sponsors, les messages ou les vidéos promotionnelles.
 - Les pièces jointes tourneront en boucle pendant toute la durée de la pause.
 
 ---

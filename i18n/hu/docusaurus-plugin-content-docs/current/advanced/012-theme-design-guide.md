@@ -7,14 +7,14 @@ title: Témakészítési útmutató
 
 A [témák](/docs/advanced/theming) leírják, hogyan épül fel egy QuizWitz-téma: Adobe Animate-ben, CreateJS-könyvtárként exportálva. Ez az oldal az azt megelőző lépésről szól - a téma **megtervezéséről**.
 
-It is written for a graphic designer, and it assumes that design and Animate production are done by different people. Few designers still work in Adobe Animate, so a designer usually delivers artwork and someone else assembles the theme. That works well, as long as the artwork arrives in a shape the build can use. Ez az oldal ezt a formát írja le, és egyben a leadandó anyagok listájaként is szolgál, amikor árajánlatot kérsz egy grafikustól.
+Grafikusoknak szól, és abból indul ki, hogy a tervezést és az Animate-es kivitelezést különböző emberek végzik. Kevés grafikus dolgozik még Adobe Animate-ben, ezért általában a grafikus leadja a grafikát, és valaki más rakja össze belőle a témát. Ez jól működik, feltéve, hogy a grafika olyan formában érkezik, amellyel az építés dolgozni tud. Ez az oldal ezt a formát írja le, és egyben a leadandó anyagok listájaként is szolgál, amikor árajánlatot kérsz egy grafikustól.
 
-The page has four parts:
+Az oldal négy részből áll:
 
-1. [What you are designing](#what-you-are-designing) - the screens a theme covers.
-2. [The eight frames](#eight-frames-and-an-element-sheet) and [the element sheet](#the-element-sheet), one by one, with screenshots.
-3. [Design rules](#design-rules) - how the file has to be built so the engine can use it.
-4. [What to hand over](#what-to-hand-over) - source file, deliverables and order of work.
+1. [Mit tervezel](#what-you-are-designing) - a képernyők, amelyeket egy téma lefed.
+2. [A nyolc keret](#eight-frames-and-an-element-sheet) és [az elemlap](#the-element-sheet), egyenként, képernyőképekkel.
+3. [Tervezési szabályok](#design-rules) - hogyan kell felépíteni a fájlt, hogy a motor használni tudja.
+4. [Mit kell leadni](#what-to-hand-over) - forrásfájl, leadandó anyagok és a munka sorrendje.
 
 :::tip
 Ha csak a színeket, a betűtípusokat és a hátteret akarod megváltoztatni, ebből semmire nincs szükséged - inkább az [Emerald témát](/docs/advanced/emerald-theme) szabd testre.
@@ -37,32 +37,32 @@ A téma a játékképernyő teljes vizuális burka: háttér, tipográfia, szín
 
 ---
 
-## Eight frames and an element sheet
+## Nyolc keret és egy elemlap
 
-A játéknak több tucat különálló képernyőállapota van, de a legtöbb ugyanannak az elrendezésnek a változata. **You design eight frames and one sheet of elements; the rest is derived from them.** That is not a shortcut - it is how the engine works. Az a képernyő, amelynek nincs saját grafikája, egy általános keretre esik vissza.
+A játéknak több tucat különálló képernyőállapota van, de a legtöbb ugyanannak az elrendezésnek a változata. **Nyolc keretet és egy elemlapot tervezel; a többi ezekből származik.** Ez nem rövidítés - így működik a motor. Az a képernyő, amelynek nincs saját grafikája, egy általános keretre esik vissza.
 
-The sheet matters as much as the frames: a fall-back screen still needs furniture inside its content area - a panel, a row, a rule.
+Az elemlap ugyanannyira számít, mint a keretek: egy visszaeső képernyőnek is kell berendezés a tartalomterületén belül - egy panel, egy sor, egy vonal.
 
-| # | Keret                                                           | Also covers                                                               |
-| - | --------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 1 | [General frame](#frame-1---the-general-frame)                   | Thirteen screen states with no artwork of their own                       |
-| 2 | [Connect screen](#frame-2---the-connect-screen)                 | Draw it twice: with a client logo and without one         |
-| 3 | [Waiting screen](#frame-3---the-waiting-screen)                 | -                                                                         |
-| 4 | [Question screen](#frame-4---the-question-screen)               | -                                                                         |
-| 5 | [Question with attachment](#frame-5---question-with-attachment) | The full-screen attachment, and attachments shown between questions       |
-| 6 | [Answer screen](#frame-6---the-answer-screen)                   | The answer screen for open questions and for questions with an attachment |
-| 7 | [Standings and winner](#frame-7---standings-and-winner)         | The standings between rounds and the final winner                         |
-| 8 | [Round intro](#frame-8---the-round-intro)                       | All six round categories                                                  |
+| # | Keret                                                      | Ezeket is lefedi                                                          |
+| - | ---------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 1 | [Általános keret](#frame-1---the-general-frame)            | Tizenhárom képernyőállapot saját grafika nélkül                           |
+| 2 | [Csatlakozási képernyő](#frame-2---the-connect-screen)     | Rajzold meg kétszer: ügyféllogóval és anélkül             |
+| 3 | [Várakozó képernyő](#frame-3---the-waiting-screen)         | -                                                                         |
+| 4 | [Kérdésképernyő](#frame-4---the-question-screen)           | -                                                                         |
+| 5 | [Kérdés melléklettel](#frame-5---question-with-attachment) | A teljes képernyős melléklet és a kérdések között megjelenő mellékletek   |
+| 6 | [Válaszképernyő](#frame-6---the-answer-screen)             | A válaszképernyő nyílt kérdésekhez és melléklettel rendelkező kérdésekhez |
+| 7 | [Rangsor és győztes](#frame-7---standings-and-winner)      | A fordulók közötti rangsor és a végső győztes                             |
+| 8 | [Fordulóintró](#frame-8---the-round-intro)                 | Mind a hat fordulókategória                                               |
 
-:::note[About the screenshots]
-Az alábbi képernyők egy létező témából származnak. They show **which elements appear on each screen and when**. Sem a stílusra, sem az elrendezésre nem referenciák: hogy ez a téma hova teszi a kérdését, a válaszlehetőségeit és az időzítőjét, az a saját döntése, és a tiéd ettől teljesen eltérhet.
+:::note[A képernyőképekről]
+Az alábbi képernyők egy létező témából származnak. Azt mutatják meg, **mely elemek jelennek meg az egyes képernyőkön, és mikor**. Sem a stílusra, sem az elrendezésre nem referenciák: hogy ez a téma hova teszi a kérdését, a válaszlehetőségeit és az időzítőjét, az a saját döntése, és a tiéd ettől teljesen eltérhet.
 :::
 
 ### Keret 1 - az általános keret
 
-**What is on it:** the background, a header title and an empty content area below it. It is not a finished composition but the frame the rest is built inside.
+**Mi van rajta:** a háttér, egy fejléccím és alatta egy üres tartalomterület. Nem kész kompozíció, hanem a keret, amelyen belül a többi felépül.
 
-**What it covers:** thirteen screen states - round explanation, standings, player introduction, multiple-choice variants, long questions, seat warnings, settings. Each fills the content area its own way with elements from the [element sheet](#the-element-sheet), so the frame has to hold things that look nothing alike. A kérdésválasztó és a hosszú kérdés kaphat saját kompozíciót, ha úgy szeretnéd; egyébként ezt a keretet használják.
+**Mit fed le:** tizenhárom képernyőállapotot - fordulómagyarázat, rangsor, játékosbemutató, feleletválasztós változatok, hosszú kérdések, seat-figyelmeztetések, beállítások. Mindegyik a maga módján tölti ki a tartalomterületet az [elemlap](#the-element-sheet) elemeivel, ezért a keretnek egymásra egyáltalán nem hasonlító dolgokat is el kell bírnia. A kérdésválasztó és a hosszú kérdés kaphat saját kompozíciót, ha úgy szeretnéd; egyébként ezt a keretet használják.
 
 Két játékpillanat ugyanazon a kereten: egy kérdésválasztó és egy pontlétra.
 
@@ -72,34 +72,34 @@ Két játékpillanat ugyanazon a kereten: egy kérdésválasztó és egy pontlé
 
 Nézd meg, milyen kevés bennük a közös. A választó a három sorát keretvonalas panelbe teszi; a létrának egyáltalán nincs panelje, csak vékony vonalakkal elválasztott sorai. Ami a kettőben közös, az a háttér és a fölöttük lévő fejlécsáv - minden, ami ez alatt van, az egyes képernyőhöz tartozik, és a játék tölti ki, nem te.
 
-That panel and those rules come from the [element sheet](#the-element-sheet), not from this frame. Amit ennek a keretnek tennie kell, az az, hogy elbírja őket: a tartalomterületet üres, semleges, tágas zónaként tervezd meg, amely ugyanúgy működik keretvonalas panellel, csupasz listával és sortáblázattal is. Egy középen zsúfolt háttér, vagy egy olyan fejléc, amely csak közvetlenül alá bújtatott panellel működik, ott törik el ez.
+Az a panel és azok a vonalak az [elemlapról](#the-element-sheet) származnak, nem erről a keretről. Amit ennek a keretnek tennie kell, az az, hogy elbírja őket: a tartalomterületet üres, semleges, tágas zónaként tervezd meg, amely ugyanúgy működik keretvonalas panellel, csupasz listával és sortáblázattal is. Egy középen zsúfolt háttér, vagy egy olyan fejléc, amely csak közvetlenül alá bújtatott panellel működik, ott törik el ez.
 
-### Frame 2 - the connect screen
+### Keret 2 - a csatlakozási képernyő
 
-**What is on it:** everything the room needs in order to join.
+**Mi van rajta:** minden, amire a teremnek a csatlakozáshoz szüksége van.
 
-- five lines of instruction
-- a join code and a QR code, both generated by the engine - reserve a square for the QR code
-- a line with the number of connected players
-- a list of players trickling in
+- öt sornyi útmutatás
+- egy csatlakozási kód és egy QR-kód, mindkettőt a motor generálja - tarts fenn egy négyzetet a QR-kódnak
+- egy sor a csatlakozott játékosok számával
+- a szállingózva érkező játékosok listája
 
-**Draw it twice:** with a client logo beside the join code, and without one, where the theme's own artwork carries the screen.
+**Rajzold meg kétszer:** ügyféllogóval a csatlakozási kód mellett, és anélkül, amikor a téma saját grafikája viszi a képernyőt.
 
 ![Csatlakozási képernyő ügyféllogóval](/images/theme-design/frame2-connect.png)
 
 ![Csatlakozási képernyő ügyféllogó nélkül](/images/theme-design/frame2-connect-nologo.png)
 
-### Frame 3 - the waiting screen
+### Keret 3 - a várakozó képernyő
 
-**What is on it:** almost nothing - the quiz's own logo, or the theme's artwork.
+**Mi van rajta:** szinte semmi - a kvíz saját logója vagy a téma grafikája.
 
-It shares only a background with the connect screen, so design it as its own composition. It stays up while the quizmaster reads a question aloud, which puts it on screen longer than almost anything else in the game. It deserves more attention than an empty screen usually gets.
+A csatlakozási képernyővel csak a háttere közös, ezért önálló kompozícióként tervezd meg. Addig marad a képernyőn, amíg a quizmaster felolvas egy kérdést, így hosszabb ideig látható, mint szinte bármi más a játékban. Több figyelmet érdemel, mint amennyit egy üres képernyő általában kap.
 
 ![Várakozó képernyő](/images/theme-design/frame2-pending.png)
 
-### Frame 4 - the question screen
+### Keret 4 - a kérdésképernyő
 
-**What is on it:** the question, a timer, four answer options and a feedback line. This is the screen the room looks at longest. Note that an option can consist of nothing but an emoji:
+**Mi van rajta:** a kérdés, egy időzítő, négy válaszlehetőség és egy visszajelzési sor. Ezt a képernyőt nézi a terem a legtovább. Figyelj rá, hogy egy válaszlehetőség akár csak egy emojiból is állhat:
 
 ![Kérdésképernyő négy szöveges válaszlehetőséggel](/images/theme-design/frame3-question-options.png)
 
@@ -113,13 +113,13 @@ Az a pillanat, amikor lejár az idő. A visszajelzési buborék megjelenik a ké
 
 ![Kérdésképernyő a lejárt idő állapotában](/images/theme-design/frame3-question-timeout.png)
 
-### Frame 5 - question with attachment
+### Keret 5 - kérdés melléklettel
 
-**What is on it:** the same parts as frame 4, arranged around an image or video. It may be a different composition. A mellékletet a rendszer az általad rajzolt dobozba illeszti, ezért fekvő és álló képnek egyaránt elfogadhatóan kell kinéznie benne.
+**Mi van rajta:** ugyanazok a részek, mint a 4. keretben, egy kép vagy videó köré rendezve. Lehet eltérő kompozíció is. A mellékletet a rendszer az általad rajzolt dobozba illeszti, ezért fekvő és álló képnek egyaránt elfogadhatóan kell kinéznie benne.
 
-**What it covers:** the full-screen attachment, and attachments shown between questions.
+**Mit fed le:** a teljes képernyős mellékletet és a kérdések között megjelenő mellékleteket.
 
-Here with the options to the left and right of the attachment:
+Itt a válaszlehetőségekkel a melléklet bal és jobb oldalán:
 
 ![Kérdésképernyő középen egy képpel](/images/theme-design/frame4-question-attachment.png)
 
@@ -127,13 +127,13 @@ Egy melléklet önmagában, a képernyőt kitöltve:
 
 ![Teljes képernyős melléklet](/images/theme-design/frame4-attachment-fullscreen.png)
 
-### Frame 6 - the answer screen
+### Keret 6 - a válaszképernyő
 
-**What is on it:** which answer was correct, how the room's answers were spread across the options, and a feedback line.
+**Mi van rajta:** melyik válasz volt helyes, hogyan oszlottak meg a terem válaszai a válaszlehetőségek között, és egy visszajelzési sor.
 
-**What it covers:** the answer screen for open questions and for questions with an attachment.
+**Mit fed le:** a válaszképernyőt nyílt kérdésekhez és melléklettel rendelkező kérdésekhez.
 
-The screen goes through three moments. Először a megoszlás, még jelölés nélkül:
+A képernyő három pillanaton megy keresztül. Először a megoszlás, még jelölés nélkül:
 
 ![Válaszképernyő a megoszlással](/images/theme-design/frame5-answer-mc-spread.png)
 
@@ -153,35 +153,35 @@ Nyílt kérdésnél a diagram azt mutatja, hány játékos találta el:
 
 ![Válaszképernyő nyílt kérdés esetén](/images/theme-design/frame5-answer-open.png)
 
-### Frame 7 - standings and winner
+### Keret 7 - rangsor és győztes
 
-**What is on it:** a list of players with position, avatar, name and score. Supply the **player row** as a separate, reusable element: it is repeated six times by default, up to ten.
+**Mi van rajta:** a játékosok listája helyezéssel, avatarral, névvel és pontszámmal. A **játékossort** külön, újrafelhasználható elemként add le: alapértelmezés szerint hatszor ismétlődik, legfeljebb tízszer.
 
-**What it covers:** the standings between rounds and the final winner.
+**Mit fed le:** a fordulók közötti rangsort és a végső győztest.
 
-The standings after a round, with six player rows:
+A rangsor egy forduló után, hat játékossorral:
 
 ![Rangsor hat játékossorral](/images/theme-design/frame6-roundoutro.png)
 
-A záró visszaszámlálás egyszerre egy játékost nevez meg, az utolsó helytől az elsőig - helyezés, pontszám és csapatnév a reflektorfényben. This is also where the [flying emoji](#flying-emoji-land-on-top-of-everything) are heaviest:
+A záró visszaszámlálás egyszerre egy játékost nevez meg, az utolsó helytől az elsőig - helyezés, pontszám és csapatnév a reflektorfényben. Itt a legsűrűbbek a [repülő emojik](#flying-emoji-land-on-top-of-everything) is:
 
 ![A győzteseket visszaszámláló képernyő egy játékost megnevezve](/images/theme-design/frame6-winner-countdown.png)
 
 ![A végső rangsor](/images/theme-design/frame6-winner.png)
 
-### Frame 8 - the round intro
+### Keret 8 - a fordulóintró
 
-**What is on it:** a short announcement per round category. Hat kategória van: tudomány és technika, természet, szórakozás és zene, sport, művészet, történelem.
+**Mi van rajta:** egy rövid bejelentés fordulókategóriánként. Hat kategória van: tudomány és technika, természet, szórakozás és zene, sport, művészet, történelem.
 
-**What it covers:** all six categories. One design may serve several of them.
+**Mit fed le:** mind a hat kategóriát. Egy terv többet is kiszolgálhat közülük.
 
-Here, one composition with a variant per category:
+Itt egy kompozíció kategóriánként egy változattal:
 
 ![Fordulóintró a természet kategóriához](/images/theme-design/frame7-roundintro-nature.png)
 
 ![Fordulóintró a tudomány kategóriához](/images/theme-design/frame7-roundintro-science.png)
 
-**A character is optional.** The stock QuizWitz theme has one that talks and reacts; the [Emerald theme](/docs/advanced/emerald-theme) ships without, and dropping it removes the most expensive animation work - lip sync, eyes, arms.
+**A figura opcionális.** Az alap QuizWitz-témában van egy, amely beszél és reagál; az [Emerald téma](/docs/advanced/emerald-theme) figura nélkül érkezik, és ha elhagyod, azzal a legdrágább animációs munka is kiesik - szájszinkron, szemek, karok.
 
 Figura nélkül a fordulóintróból grafikai, tipográfiai vagy illusztratív pillanat lesz. Két megközelítés tartja arányban a munkát: egy kompozíció kategóriánként egy szín- vagy ikonváltozattal, vagy egyetlen univerzális bejelentés, amelyben csak a forduló neve változik. Hat valóban különböző intró sok munka néhány másodpercnyi képernyőidőért.
 
@@ -209,8 +209,8 @@ Két elemcsoport egy lapon, mindegyik egyszer megrajzolva és mindenhol újrafel
 
 ## Amit eldöntöttek helyetted
 
-- **The players' phones.** A fixed HTML layout.
-- **The handful of things the engine draws itself** - the rules between rows on the points ladder, the highlighted row in the question picker, the QR code. Their colours come from [Colour as a list](#colour-as-a-list).
+- **A játékosok telefonjai.** Rögzített HTML-elrendezés.
+- **Az a néhány dolog, amit a motor maga rajzol** - a sorok közötti vonalak a pontlétrán, a kiemelt sor a kérdésválasztóban, a QR-kód. A színüket a [Szín mint lista](#colour-as-a-list) részből kapják.
 - **Mely képernyők esnek vissza az általános keretre, és hogyan.**
 - **Hogyan feleltethető meg a hat kategória a fordulóintró grafikájának.** Ez a hozzárendelés egy konfigurációs beállítás, tehát egy intró több kategóriához is újrafelhasználható.
 - **Minden időzítés és minden animációhossz.**
@@ -233,12 +233,12 @@ Ezek közül egyik sem korlátozza a vizuális tervedet. Arról szólnak, hogyan
 
 **Minden, ami mozoghat, megjelenhet vagy értéket válthat, saját, elnevezett rétegen van.** Semmi összevonva, semmi lapítva.
 
-In practice:
+A gyakorlatban:
 
-- the four answer options are four separate layers, not one
-- the timer is separate from the background
-- a button and its label are two elements
-- a player row is one group that can be duplicated
+- a négy válaszlehetőség négy külön réteg, nem egy
+- az időzítő külön van a háttértől
+- egy gomb és a felirata két elem
+- egy játékossor egyetlen csoport, amely megkettőzhető
 
 Amit össze lehet vonni: a tisztán dekoratív háttérgrafika, amely egyetlen állóképként működik.
 
@@ -248,13 +248,13 @@ Ez az az egyetlen szabály, amelynek a megszegése tényleg fáj - a grafikát i
 
 A motor HTML5-vászonra rajzol. Ezeket **bele kell égetni a képbe**, vagy el kell hagyni:
 
-| Effect                                                                   | What to do instead          |
-| ------------------------------------------------------------------------ | --------------------------- |
-| Live blur, drop shadows and glow as filters                              | Supply them as artwork      |
-| Blend modes (multiply, screen, overlay)               | Resolve them to flat colour |
-| Rétegeffektek és korrekciós rétegek                                      | Bake them in                |
-| Színátmenet a szövegen **belül**, vagy karakterenkénti körvonalas szöveg | Leave them out              |
-| Képkockánként változó maszkok                                            | Leave them out              |
+| Effekt                                                                   | Mit tegyél helyette                  |
+| ------------------------------------------------------------------------ | ------------------------------------ |
+| Élő elmosás, vetett árnyék és ragyogás szűrőként                         | Add le őket grafikaként              |
+| Keverési módok (szorzás, szitanyomás, átfedés)        | Alakítsd át őket egyszínű kitöltéssé |
+| Rétegeffektek és korrekciós rétegek                                      | Égesd bele őket a képbe              |
+| Színátmenet a szövegen **belül**, vagy karakterenkénti körvonalas szöveg | Hagyd el őket                        |
+| Képkockánként változó maszkok                                            | Hagyd el őket                        |
 
 Az alakzatokban lévő színátmenetek rendben vannak. Az átlátszóság rendben van. Az állandó grafikaként megadott árnyékok rendben vannak.
 
@@ -279,13 +279,13 @@ Ebből az következik:
 - **Tizenkét nyelv.** A német összetett szavak hosszúak, és a magyar sem kegyesebb. Az a doboz, amely angolul szűk, németül olvashatatlanul kicsi méretre esik vissza.
 - **A szövegen belül emojik is megjelenhetnek.** A játékosok egyet választanak a csapatnevük mellé, és egy kérdés vagy egy válaszlehetőség is tartalmazhat egyet - néha egy válaszlehetőség nem más, mint egy emoji. Színesen vannak megrajzolva, és magasabbak a körülöttük lévő betűknél.
 
-**What the build needs to know about each text box:** where it is, how big it is, how it is aligned, which colour and which font. Nem azt: hány pontos.
+**Amit az építésnek tudnia kell minden szövegdobozról:** hol van, mekkora, hogyan van igazítva, milyen színű és milyen betűtípusú. Nem azt: hány pontos.
 
-**You can use this.** A large box with short text becomes a strong typographic composition by itself, and a box you deliberately make narrow and tall forces text into a column. Use the fitting as a design device; just do not design against it.
+**Ezt ki is használhatod.** Egy nagy doboz rövid szöveggel önmagában is erős tipográfiai kompozícióvá válik, egy szándékosan keskenyre és magasra rajzolt doboz pedig oszlopba kényszeríti a szöveget. Használd az illesztést tervezési eszközként; csak ne tervezz ellene.
 
 ### Az időzítő - kötelező, és animáció
 
-**Every question screen has a timer**; the room has to see how much time is left.
+**Minden kérdésképernyőn van időzítő**; a teremnek látnia kell, mennyi idő van még hátra.
 
 **Az időzítő nem számláló szám, hanem animáció, amelynek a lejátszófejét a motor mozgatja.** Egy „tele” állapotból „üres” állapotba tartó folyamatot tervezel - kiürülő sáv, bezáruló gyűrű, homokóra, zsugorodó vonal. A motor pontosan olyan sebességgel játssza le ezt az animációt, hogy az utolsó képkocka egybeessen a kérdés végével.
 
@@ -301,7 +301,7 @@ Az időzítőt kulcsképkockák sorozataként vagy a folyamat leírásaként add
 
 ### A repülő emojik mindenre ráérkeznek
 
-Minden játékos választ egy emojit belépéskor, a játék pedig szétdobálja ezeket az emojikat a képernyőn. They are drawn by the engine on a layer above the theme. **Itt neked nincs mit tervezned** - de van mi köré tervezni, mert nem ritka díszítésről van szó.
+Minden játékos választ egy emojit belépéskor, a játék pedig szétdobálja ezeket az emojikat a képernyőn. A motor rajzolja őket, a téma fölötti rétegen. **Itt neked nincs mit tervezned** - de van mi köré tervezni, mert nem ritka díszítésről van szó.
 
 Három pillanatban jelennek meg:
 
@@ -314,7 +314,7 @@ Ez a következőt jelenti a tervezés szempontjából:
 - **Tartsd a rangsor- és győzteseképernyők alsó harmadát szabadon minden apró vagy fontos dologtól.** A visszaszámlálás alatt ott lent tényleg zsúfolt.
 - **Számíts rá, hogy ütni fognak a palettáddal.** Teljes színes emojik ezek a Unicode-tábla minden szegletéből, és egyik téma sem uralja őket. Az a terv, amely csak szűk színtartományban áll össze, ezekben a másodpercekben esetlegesnek fog tűnni.
 - **Az elhajítás le van tiltva, amíg kép vagy videó látszik**, így a mellékletes képernyők tiszták maradnak.
-- **The whole layer can be switched off per game**, so do not build a composition that depends on them being there either.
+- **Az egész réteg játékonként kikapcsolható**, ezért olyan kompozíciót se építs, amely attól függ, hogy ott vannak.
 
 ### Betűtípusok
 
@@ -325,20 +325,20 @@ Ez a következőt jelenti a tervezés szempontjából:
 
 A téma egy konfigurációs fájlból olvassa be a színlistát, és a játékosok telefonjai ugyanebből a listából kapják a stílusukat. A palettádat **elnevezett listaként** add le, ne csak a grafikában szereplő színekként:
 
-| Where                       | Colours                                                                                                                                                                                                                                                                |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Game screen**             | Main colour, accent colour, background, panel or container colour, timer background, default text colour, header text colour, question text colour, button text, dialog and explanation text, player name and score text, the colour for correct, the colour for wrong |
-| **The four answer options** | For each option: a background colour, a border colour, and one flat colour for the phones and the charts                                                                                                                                               |
-| **Players' phones**         | Background, text colour, outline colour, option outline colour, and the background and text colour of the answer container                                                                                                                                             |
+| Hol                        | Színek                                                                                                                                                                                                                                                                      |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Játékképernyő**          | Fő szín, kiemelő szín, háttér, panel- vagy tárolószín, az időzítő háttere, alapértelmezett szövegszín, fejlécszöveg színe, kérdésszöveg színe, gombfelirat, párbeszéd- és magyarázatszöveg, játékosnév és pontszám szövege, a helyes válasz színe, a helytelen válasz színe |
+| **A négy válaszlehetőség** | Válaszlehetőségenként: egy háttérszín, egy keretszín, és egy egyszínű szín a telefonokhoz és a diagramokhoz                                                                                                                                                 |
+| **A játékosok telefonjai** | Háttér, szövegszín, körvonalszín, a válaszlehetőségek körvonalszíne, valamint a választároló háttér- és szövegszíne                                                                                                                                                         |
 
 A játékképernyőn megengedettek a színátmenetek: két hexadecimális értékként add meg őket.
 
-A few colours are the _only_ handle on parts the engine draws itself, so they are worth deciding rather than defaulting:
+Néhány szín az _egyetlen_ fogódzó azokhoz a részekhez, amelyeket a motor maga rajzol, ezért érdemes ezeket tudatosan eldönteni, ahelyett hogy az alapértéken hagynád őket:
 
-- the **separator** - the rules between rows where there is no panel, and on the points ladder
-- the **active**, **inactive** and **selected** states of a row in the question picker
-- the **dialog** text
-- the **front and back of the QR code**
+- az **elválasztó** - a sorok közötti vonalak ott, ahol nincs panel, és a pontlétrán
+- egy sor **aktív**, **inaktív** és **kiválasztott** állapota a kérdésválasztóban
+- a **párbeszéd** szövege
+- a **QR-kód előtere és háttere**
 
 Ha kihagyod őket, beépített alapértékekre esnek vissza - fehér, szürke, piros, fekete és fehér -, amelyek ritkán illenek egy tervhez.
 
@@ -352,17 +352,17 @@ Az egyedi tervek tartalmazzák a QuizWitz-logót. Tarts fenn neki helyet ott, ah
 
 ### Forrásfájl - lehetőleg Illustrator
 
-The theme is built in Adobe Animate, and what Animate can import decides how much of your work survives the hand-over intact:
+A téma Adobe Animate-ben készül, és az, hogy mit tud importálni az Animate, dönti el, a munkádból mennyi éli túl épen az átadást:
 
-| Tool                                             | What happens on import                                                                                                                                                                                                                                                                                    | Use it for                                 |
-| ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| **Adobe Illustrator** (`.ai`) | Animate imports it directly and converts your layers into Animate layers or separate symbols, keeping the layer names and leaving the vectors editable. Pontosan ez az a lépés, amely megmenti a grafikát attól, hogy kézzel kelljen újraépíteni.                         | **Preferred** for the final deliverable    |
-| **Adobe Photoshop**                              | Imports with its layers intact, like Illustrator, but gives raster instead of vector.                                                                                                                                                                                                     | Possible                                   |
-| **Figma**                                        | Everything goes through SVG and PNG export, and that is precisely where the layer structure needed here is lost. Ha mégis Figmát használsz, **minden elemet külön SVG-ként** adj le, a rétegnevekkel egyező fájlnevekkel, hogy a szerkezet kézzel visszaállítható legyen. | The concept phase, if you are faster in it |
+| Eszköz                                           | Mi történik importáláskor                                                                                                                                                                                                                                                                                  | Mire használd                               |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| **Adobe Illustrator** (`.ai`) | Az Animate közvetlenül importálja, és a rétegeidet Animate-rétegekké vagy különálló szimbólumokká alakítja, megtartva a rétegneveket és szerkeszthetőn hagyva a vektorokat. Pontosan ez az a lépés, amely megmenti a grafikát attól, hogy kézzel kelljen újraépíteni.      | **Ajánlott** a végleges leadandó anyaghoz   |
+| **Adobe Photoshop**                              | Az Illustratorhoz hasonlóan a rétegeivel együtt importálódik, de vektor helyett rasztert ad.                                                                                                                                                                                               | Lehetséges                                  |
+| **Figma**                                        | Minden SVG- és PNG-exporton keresztül megy, és pontosan itt vész el az a rétegszerkezet, amelyre itt szükség van. Ha mégis Figmát használsz, **minden elemet külön SVG-ként** adj le, a rétegnevekkel egyező fájlnevekkel, hogy a szerkezet kézzel visszaállítható legyen. | A koncepciófázishoz, ha abban gyorsabb vagy |
 
 Fájlszerkezet:
 
-- One artboard per screen, named after the frames above.
+- Képernyőnként egy rajztábla, a fenti keretek szerint elnevezve.
 - Az újrafelhasználható részek (gomb, játékossor, válaszlehetőség, időzítő) **szimbólumként** vagy komponensként, nem különálló másolatokként.
 - Rétegnevek angolul, szóközök nélkül: `question`, `option1`-től `option4`-ig, `timer`, `feedback`, `header`, `background`, `playerScore`.
 - A színek elnevezett színmintaként, a szöveg elnevezett stílusként, ne objektumonként külön beállítva.
@@ -371,24 +371,24 @@ Fájlszerkezet:
 
 1. A **forrásfájl**, a fentiek szerint felépítve.
 2. **Minden keret PNG-ként**, 1920 × 1080 - referencia arról, hogyan kell kinéznie. A második kerethez az ügyféllogós és a logó nélküli változat is.
-3. **The element sheet** as one artboard: the [content building blocks and the controls](#the-element-sheet).
+3. **Az elemlap** egyetlen rajztáblaként: a [tartalmi építőelemek és a vezérlők](#the-element-sheet).
 4. **Minden különálló grafikai elem átlátszó PNG-ként, 2×-es méretben**, egy mappában, a rétegnévvel egyező fájlnévvel.
 5. **Az időzítő** kulcsképkockákként vagy a folyamat írásos leírásaként.
 6. **A betűtípusok** `.ttf` vagy `.otf` formátumban, licencigazolással.
-7. **The colour list** from [Colour as a list](#colour-as-a-list), as hex values.
+7. **A színlista** a [Szín mint lista](#colour-as-a-list) rész szerint, hexadecimális értékekként.
 8. **Fél oldalnyi jegyzet**: mi az ötlet, hogyan jelenjenek meg a válaszlehetőségek, mi mozog és mi marad állva. Nem tízoldalas tervezői indoklás - aki a témát építi, azt kell tudnia, mit építsen. A mozgásötletek leírhatók, vagy durva animatikként is leadhatók.
 
 ### A munka sorrendje
 
-1. **Frame 4, the question screen, together with the element sheet.** Get both approved before the rest. Between them they carry the timer, the options, the panel and every control, so they settle the style of the whole theme.
-2. **Frames 1 to 3.** They follow naturally from the first two.
-3. **Frames 6 to 8** come last.
+1. **A 4. keret, a kérdésképernyő, az elemlappal együtt.** Mindkettőt hagyasd jóvá, mielőtt a többibe belekezdenél. Együtt hordozzák az időzítőt, a válaszlehetőségeket, a panelt és minden vezérlőt, így ezek határozzák meg az egész téma stílusát.
+2. **Az 1-3. keret.** Ezek természetes módon következnek az első kettőből.
+3. **A 6-8. keret** jön utoljára.
 
 ---
 
 ## Függelék - szimbólumnevek
 
-A teljesség kedvéért, és annak, aki pontosan tudni akarja, hova kerül a grafikája. **You do not need to read this to do the work**; the eight frames and the element sheet above are enough. Ha ezeket a neveket használod rétegnévként, azzal megspórolsz egy fordítási lépést.
+A teljesség kedvéért, és annak, aki pontosan tudni akarja, hova kerül a grafikája. **A munkához nem kell elolvasnod**; a fenti nyolc keret és az elemlap elég. Ha ezeket a neveket használod rétegnévként, azzal megspórolsz egy fordítási lépést.
 
 | Keret                                             | Szimbólumnév                                                                                                                              | Kötelező részek                                                                                                                                                                                        |
 | ------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -409,7 +409,7 @@ A teljesség kedvéért, és annak, aki pontosan tudni akarja, hova kerül a gra
 
 Az alapértelmezett téma fordulóintró-szimbólumainak neve `RoundIntroScienceAndTech`, `RoundIntroFloraAndFauna`, `RoundIntroTedMusic`, `RoundIntroTedSport` és `RoundIntroTedCultHist`; a művészet és a történelem az utolsón osztozik. A „Ted” ezekben a nevekben az eredeti téma figurájának maradványa, és nem jelenti azt, hogy figurának kellene bennük szerepelnie.
 
-Every element with `.text` after it is a fitted text box as described under [How text behaves](#how-text-behaves): a rectangle the engine fills itself. A `timer` elem saját idővonallal rendelkező filmklip; a motor beolvassa a képkockaszámát, és az eltelt idővel arányosan mozgatja a lejátszófejet, másodpercenként legfeljebb 24-szer.
+Minden elem, amelynek a neve után `.text` áll, illesztett szövegdoboz, ahogy a [Hogyan viselkedik a szöveg](#how-text-behaves) rész leírja: egy téglalap, amelyet a motor maga tölt ki. A `timer` elem saját idővonallal rendelkező filmklip; a motor beolvassa a képkockaszámát, és az eltelt idővel arányosan mozgatja a lejátszófejet, másodpercenként legfeljebb 24-szer.
 
 ### Mit vesz át a konfigurációs fájl a tervedből
 

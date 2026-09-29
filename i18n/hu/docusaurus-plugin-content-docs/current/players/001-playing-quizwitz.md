@@ -11,12 +11,12 @@ title: QuizWitz játék
 
 ## 🎯 Válaszd ki, mivel szeretnél játszani
 
-Kezdd az elérhető **Round-Abouts** böngészésével — ezek rövid, tematikus kvízkérdés-körök. A képernyő tetején lévő menüvel fedezheted fel ezeket:
+Kezdd az elérhető **Round-Aboutok** böngészésével - ezek rövid, tematikus kvízkérdés-fordulók. A képernyő tetején lévő menüvel fedezheted fel ezeket:
 
-- **Új** — Fedezd fel a legújabb Round-Abouts tartalmakat
-- **Saját gyűjteményem** — Hozzáférés mindenhez, amit mentettél vagy létrehoztál
-- **Gyűjtés** — Keress a közösség által készített Round-Abouts tartalmakat
-- **Gyors játék** — Ugorj bele egy véletlenszerű válogatásba
+- **Új** - Fedezd fel a legújabb Round-Aboutokat
+- **Saját gyűjteményem** - Hozzáférés mindenhez, amit mentettél vagy létrehoztál
+- **Gyűjtés** - Keress a közösség által készített Round-Aboutokat
+- **Gyors játék** - Ugorj bele egy véletlenszerű válogatásba
 
 ![QuizWitz felső navigációs sáv](/images/top-menu-play.png)
 
@@ -39,7 +39,7 @@ Ebbe beletartoznak:
 - Bingók
 - ...
 
-Bármikor rendszerezheted, lejátszhatod vagy eltávolíthatod az elemeket. Ez a saját személyes könyvtárad — építsd fel úgy, ahogy neked tetszik!
+Bármikor rendszerezheted, lejátszhatod vagy eltávolíthatod az elemeket. Ez a saját személyes könyvtárad - építsd fel úgy, ahogy neked tetszik!
 
 ---
 
@@ -63,7 +63,7 @@ Szeretnél több Round-Aboutból egy teljes kvízjátékot építeni? Így csin�
 - Kattints a **Hozzáadás a gyűjteményemhez** gombra a Round-Abouton belül
 - Vagy kattints a **csillag ikonra** a Round-About csempéjén
 
-Ha később el szeretnéd távolítani, csak kattints újra a csillagra — ekkor már az lesz rajta, hogy **Eltávolítás a gyűjteményemből**.
+Ha később el szeretnéd távolítani, csak kattints újra a csillagra - ekkor már az lesz rajta, hogy **Eltávolítás a gyűjteményemből**.
 
 ![Round-About hozzáadása a gyűjteményedhez](/images/add-to-collection.png)
 
@@ -80,7 +80,7 @@ Amikor készen állsz:
 
 Válassz:
 
-- **Játékmód** — Egyjátékos vagy társas játék
+- **Játékmód** - Egyjátékos vagy Party játék
 - **Mely Round-Abouts** kerüljenek be a játékmenetedbe
 
 A QuizWitz megpróbálja kihagyni azokat a kérdéseket, amelyeket már láttál.

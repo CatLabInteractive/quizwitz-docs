@@ -5,7 +5,7 @@ title: Tradiční
 
 # 📝 Tradiční
 
-**Tradiční** kolo simuluje klasický formát hospodského kvízu, kdy hráči můžou měnit své odpovědi až do konce kola – stejně jako když v hospodě odevzdáváš odpovědní arch!
+**Tradiční** kolo simuluje klasický formát hospodského kvízu, kdy hráči můžou měnit své odpovědi až do konce kola - stejně jako když v hospodě odevzdáváš odpovědní arch!
 
 ---
 

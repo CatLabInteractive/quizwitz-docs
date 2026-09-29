@@ -3,7 +3,7 @@ id: jury-app
 title: App do Júri
 ---
 
-# 🧑‍⚖️ App do Júri — A rever respostas abertas no QuizWitz Live
+# 🧑‍⚖️ App do Júri - A rever respostas abertas no QuizWitz Live
 
 Se o teu quiz incluir **perguntas de resposta aberta**, vais precisar de usar a **App do Júri** para rever e pontuar respostas manualmente.
 
@@ -19,20 +19,20 @@ Para abrir a App do Júri:
 2. Num dispositivo separado, vai a [**quizwitz.tv**](https://quizwitz.tv)
 3. Introduz o **Código do júri** para aceder ao app
 
-> 💡 Podes abrir a App do Júri em qualquer navegador — é uma aplicação web, sem necessidade de instalação.
+> 💡 Podes abrir a App do Júri em qualquer navegador - é uma aplicação web, sem necessidade de instalação.
 
 Depois de entrares, a App do Júri disponibiliza várias ferramentas úteis:
 
-- **Avaliar perguntas** — Os resultados das perguntas abertas vão aparecer assim que uma pergunta for concluída.
-  - O jogo **não espera** que o júri termine — a menos que seja a **última pergunta da ronda** ou que as definições do quiz indiquem o contrário.
+- **Avaliar perguntas** - Os resultados das perguntas abertas vão aparecer assim que uma pergunta for concluída.
+  - O jogo **não espera** que o júri termine - a menos que seja a **última pergunta da ronda** ou que as definições do quiz indiquem o contrário.
   - Depois de avaliados, os resultados aparecem **após a pergunta seguinte**.
 
-- **Editar pontuações** — Atribui ou retira pontos manualmente por jogador ou equipa.
+- **Editar pontuações** - Atribui ou retira pontos manualmente por jogador ou equipa.
 
-- **Controlo do jogo** — Ajusta os temporizadores das perguntas ou adiciona atrasos de streaming, se necessário.
+- **Controlo do jogo** - Ajusta os temporizadores das perguntas ou adiciona atrasos de streaming, se necessário.
   > Para configurar o atraso de livestream, vê [**como apresentar um quiz QuizWitz Live na Twitch**](../tutorials/040-livestreaming.md)
 
-- **Relatório** — Gera um relatório completo do jogo com resultados e respostas dos jogadores.
+- **Relatório** - Gera um relatório completo do jogo com resultados e respostas dos jogadores.
 
 ![Captura de ecrã da App do Júri no estado pendente](/images/jury-app-waiting.png)
 
@@ -54,7 +54,7 @@ O QuizWitz vai **detetar automaticamente correspondências exatas** e marcá-las
 - Correspondências fonéticas
 - Variações comuns de ortografia
 
-> 🎙️ O QuizWitz foi pensado para correspondências fonéticas — mas a decisão final cabe sempre aos jurados.
+> 🎙️ O QuizWitz foi pensado para correspondências fonéticas - mas a decisão final cabe sempre aos jurados.
 
 ---
 

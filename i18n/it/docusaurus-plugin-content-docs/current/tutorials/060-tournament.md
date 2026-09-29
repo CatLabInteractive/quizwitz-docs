@@ -5,7 +5,7 @@ title: Torneo
 
 # Torneo
 
-Questo tutorial ti mostrerà come usare la modalità Torneo di QuizWitz. La modalità Torneo permette ai giocatori di partecipare e giocare al tuo quiz quando vogliono — sul loro dispositivo. I loro punteggi vengono registrati in una classifica globale che puoi mostrare nel tuo locale.
+Questo tutorial ti mostrerà come usare la modalità Torneo di QuizWitz. La modalità Torneo permette ai giocatori di partecipare e giocare al tuo quiz quando vogliono - sul loro dispositivo. I loro punteggi vengono registrati in una classifica globale che puoi mostrare nel tuo locale.
 
 ---
 
@@ -16,7 +16,7 @@ Quando crei un quiz per un torneo, mantienilo breve e coinvolgente. Se i visitat
 
 ### 🎲 Selezione casuale delle domande
 
-Fai selezionare al gioco un set casuale di domande dal tuo gruppo, così ogni partita sembra unica — e i giocatori che tornano ricevono domande diverse.
+Fai selezionare al gioco un set casuale di domande dal tuo gruppo, così ogni partita sembra unica - e i giocatori che tornano ricevono domande diverse.
 
 **Esempio di configurazione:**
 
@@ -43,8 +43,8 @@ I tornei possono essere avviati solo dal menu **Opzioni di gioco avanzate**.
 
 Ora riceverai due link:
 
-- **Link giocatore** — Condividilo con i tuoi giocatori (o lascia che scansionino il codice QR dalla classifica).
-- **Link classifica** — Aprilo su uno schermo nel tuo locale per mostrare la classifica live e il codice QR che i giocatori possono scansionare per partecipare.
+- **Link giocatore** - Condividilo con i tuoi giocatori (o lascia che scansionino il codice QR dalla classifica).
+- **Link classifica** - Aprilo su uno schermo nel tuo locale per mostrare la classifica live e il codice QR che i giocatori possono scansionare per partecipare.
 
 ---
 
@@ -65,6 +65,6 @@ Una volta che i primi giocatori finiscono le loro partite, i loro punteggi verra
 
 ## 📧 Conferma via email
 
-Riceverai anche un'email con entrambi i link, quello per i giocatori e quello della classifica — comodo, così non li perdi!
+Riceverai anche un'email con entrambi i link, quello per i giocatori e quello della classifica - comodo, così non li perdi!
 
 ![Uno screenshot dell'email del torneo](/images/tutorials/tournament/tournament-email.png)

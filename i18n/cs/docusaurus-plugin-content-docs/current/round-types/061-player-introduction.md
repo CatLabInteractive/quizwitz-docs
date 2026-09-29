@@ -16,7 +16,7 @@ title: Představení hráčů
 
 ---
 
-> Představení hráčů pomáhá navodit atmosféru, prolomit ledy a přizpůsobit zážitek z kvízu na míru — hlavně u živých a týmových akcí!
+> Představení hráčů pomáhá navodit atmosféru, prolomit ledy a přizpůsobit zážitek z kvízu na míru - hlavně u živých a týmových akcí!
 
 ---
 

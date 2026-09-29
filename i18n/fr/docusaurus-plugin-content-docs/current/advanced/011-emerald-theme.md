@@ -51,7 +51,7 @@ Toute la musique dans le jeu peut également être remplacée par des pièces jo
 
 ## Modificateurs du thème Emerald
 
-En plus des pièces jointes, vous pouvez aussi manipuler le thème Emerald avec des **paramètres de requête**. Ce sont des paramètres que vous pouvez ajouter à l'URL des **options avancées du jeu** — ils modifient l'apparence du thème.
+En plus des pièces jointes, vous pouvez aussi manipuler le thème Emerald avec des **paramètres de requête**. Ce sont des paramètres que vous pouvez ajouter à l'URL des **options avancées du jeu** - ils modifient l'apparence du thème.
 
 Pour cela, nous commencerons avec un quiz exemple (sans pièces jointes) :  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
@@ -60,7 +60,7 @@ Lorsque vous démarrez ce quiz, le jeu sera dans le style Emerald par défaut. C
 
 :::tip
 La façon la plus simple d'expérimenter avec ces paramètres est d'utiliser notre [testeur de thème](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).  
-Une fois que vous avez fini d'expérimenter, vous pouvez copier–coller les paramètres dans l'URL des options avancées de votre jeu.
+Une fois que vous avez fini d'expérimenter, vous pouvez copier - coller les paramètres dans l'URL des options avancées de votre jeu.
 :::
 
 Les modificateurs disponibles sont :
@@ -81,7 +81,7 @@ De plus, vous pouvez définir une police par défaut :
 
 Ces polices doivent être des URL vers des fichiers de polices accessibles publiquement.
 
-Chacun de ces modificateurs peut contenir une seule couleur au format hexadécimal HTML (ff0000), ou un dégradé linéaire en fournissant plusieurs couleurs séparées par un tiret ( – par exemple ff1b6b-45caff). (Notez que le symbole # ne doit pas être ajouté.)
+Chacun de ces modificateurs peut contenir une seule couleur au format hexadécimal HTML (ff0000), ou un dégradé linéaire en fournissant plusieurs couleurs séparées par un tiret ( - par exemple ff1b6b-45caff). (Notez que le symbole # ne doit pas être ajouté.)
 
 :::note
 Les paramètres de requête doivent commencer par un point d'interrogation ( ? ) et chaque paramètre doit être séparé par un esperluette ( & ). Pour plus d'informations sur les paramètres de requête, visitez [wikipedia](https://fr.wikipedia.org/wiki/URI_Query).

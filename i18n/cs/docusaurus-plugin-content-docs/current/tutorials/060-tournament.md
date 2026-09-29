@@ -5,7 +5,7 @@ title: Turnaj
 
 # Turnaj
 
-Tenhle návod ti ukáže, jak používat režim turnaje v QuizWitz. Režim turnaje umožní hráčům připojit se a hrát tvůj kvíz kdykoli chtějí — na vlastním zařízení. Jejich skóre se zaznamená do globálního žebříčku, který můžeš zobrazit ve svém podniku.
+Tenhle návod ti ukáže, jak používat režim turnaje v QuizWitz. Turnajový režim umožní hráčům připojit se a hrát tvůj kvíz kdykoli chtějí - na vlastním zařízení. Jejich skóre se zaznamená do globálního žebříčku, který můžeš zobrazit ve svém podniku.
 
 ---
 
@@ -16,7 +16,7 @@ Když vytváříš turnajový kvíz, udrž ho krátký a zábavný. Pokud budou 
 
 ### 🎲 Náhodný výběr otázek
 
-Nastav hru tak, aby vybírala náhodnou sadu otázek z tvého fondu, takže každý průchod bude působit jedinečně — a vracející se hráči dostanou jiné otázky.
+Nastav hru tak, aby vybírala náhodnou sadu otázek z tvého fondu, takže každý průchod bude působit jedinečně - a vracející se hráči dostanou jiné otázky.
 
 **Příklad nastavení:**
 
@@ -43,8 +43,8 @@ Turnaje lze spustit pouze z nabídky **Pokročilé možnosti hry**.
 
 Teď obdržíš dva odkazy:
 
-- **Odkaz pro hráče** — Sdílej ho se svými hráči (nebo je nech naskenovat QR kód ze žebříčku).
-- **Odkaz na žebříček** — Otevři ho na obrazovce ve svém podniku, aby se zobrazilo živé pořadí a QR kód, který mohou hráči naskenovat a připojit se.
+- **Odkaz pro hráče** - Sdílej ho se svými hráči (nebo je nech naskenovat QR kód ze žebříčku).
+- **Odkaz na žebříček** - Otevři ho na obrazovce ve svém podniku, aby se zobrazilo živé pořadí a QR kód, který mohou hráči naskenovat a připojit se.
 
 ---
 
@@ -65,6 +65,6 @@ Jakmile první hráči dokončí své hry, jejich skóre se zobrazí živě:
 
 ## 📧 Potvrzení e-mailem
 
-Dostaneš také e-mail s odkazy pro hráče i na žebříček — hodí se, abys je neztratil!
+Dostaneš také e-mail s odkazy pro hráče i na žebříček - hodí se, abys je neztratil/a!
 
 ![Snímek obrazovky e-mailu k turnaji](/images/tutorials/tournament/tournament-email.png)

@@ -5,7 +5,7 @@ title: Vytvor Round-About
 
 # 🧠 Vytvor Round-About
 
-**Round-About** je hlavná kvízová jednotka v QuizWitz — tematická sada otázok zobrazovaných v náhodnom poradí. Môžeš si vytvoriť vlastný a hrať súkromne, alebo ho publikovať a zdieľať s komunitou.
+**Round-About** je hlavná kvízová jednotka v QuizWitz - tematická sada otázok zobrazovaných v náhodnom poradí. Môžeš si vytvoriť vlastný a hrať súkromne, alebo ho publikovať a zdieľať s komunitou.
 
 ---
 
@@ -24,9 +24,9 @@ Z hlavného menu:
 
 Začni tým, že svojmu Round-About dáš jasný:
 
-- **Názov** — niečo chytľavé alebo výstižné
-- **Jazyk** — jazyk, v ktorom sú napísané tvoje otázky
-- **Kategória** — pomôže hráčom neskôr nájsť tvoj Round-About
+- **Názov** - niečo chytľavé alebo výstižné
+- **Jazyk** - jazyk, v ktorom sú napísané tvoje otázky
+- **Kategória** - pomôže hráčom neskôr nájsť tvoj Round-About
 
 > 🔒 Svoj Round-About nemusíš publikovať, aby si ho mohol hrať. Nechaj ho súkromný alebo ho publikuj, keď ho budeš chcieť zdieľať.
 
@@ -42,7 +42,7 @@ Klikni na **Pridať novú otázku** a začni vytvárať obsah svojho kvízu.
 - Priebežne si ukladaj postup
 - Svoj Round-About môžeš kedykoľvek otestovať a hrať
 
-> 📢 **Na publikovanie svojho Round-About** budeš potrebovať **aspoň 14 otázok**. Po publikovaní bude viditeľný celej komunite QuizWitz — ale ak bude treba, neskôr ho môžeš zrušiť z publikovania.
+> 📢 **Na publikovanie svojho Round-About** budeš potrebovať **aspoň 14 otázok**. Po publikovaní bude viditeľný celej komunite QuizWitz - ale ak bude treba, neskôr ho môžeš zrušiť z publikovania.
 
 Chceš pridať otázky hromadne? Použi funkciu **Importovať otázky** a postupuj podľa pokynov, aby bolo všetko správne naformátované.
 
@@ -54,9 +54,9 @@ Chceš pridať otázky hromadne? Použi funkciu **Importovať otázky** a postup
 
 V časti **Podrobnosti** nájdeš ďalšie možnosti konfigurácie:
 
-- **Preložiť** — vytvor preloženú verziu svojho Round-About v inom jazyku
-- **Kategória** — vyber alebo aktualizuj kategóriu svojho Round-About
-- **Typ kola** — vyber, ako sa otázky zobrazia hráčom. Môžeš nastaviť:
+- **Preložiť** - vytvor preloženú verziu svojho Round-About v inom jazyku
+- **Kategória** - vyber alebo aktualizuj kategóriu svojho Round-About
+- **Typ kola** - vyber, ako sa otázky zobrazia hráčom. Môžeš nastaviť:
   - Výber z možností
   - Otvorené otázky
   - Bleskové kolá
@@ -68,4 +68,4 @@ V časti **Podrobnosti** nájdeš ďalšie možnosti konfigurácie:
 
 ---
 
-Keď budeš so svojím obsahom spokojný, klikni na publikovať — a zdieľaj svoj Round-About so svetom!
+Keď budeš so svojím obsahom spokojný, klikni na publikovať - a zdieľaj svoj Round-About so svetom!

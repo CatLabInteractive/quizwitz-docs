@@ -7,7 +7,7 @@ title: Quizmaster App
 
 En tant que quizmaster, vous contrôlez entièrement le jeu QuizWitz Live. La chose la plus importante à savoir est la suivante :
 
-> Le jeu **ne progresse que lorsque vous cliquez** — rien ne bouge sur l'écran de jeu jusqu'à ce que vous le disiez.
+> Le jeu **ne progresse que lorsque vous cliquez** - rien ne bouge sur l'écran de jeu jusqu'à ce que vous le disiez.
 
 Cela vous donne un contrôle total sur le rythme et le timing, mais cela signifie aussi que vous taperez beaucoup. Voyons comment l'application fonctionne.
 
@@ -36,13 +36,13 @@ Chaque question a son propre écran dans la Quizmaster App :
 
 Vous verrez :
 
-- **Numéro de question** — par exemple `1.1` signifie la première question de la première manche
-- **Type de question** — comme choix multiple, avec les modificateurs de score correspondants
-- **Version longue de la question** — pour que vous puissiez la lire à haute voix
-- **Infos sur la question** — durée du minuteur et points disponibles
-- **Question courte** — la version affichée sur l'écran de jeu
-- **Bouton de démarrage de la question** — lance immédiatement le minuteur
-- **Réponses possibles** — affichées dans le bon ordre (pour les choix multiples)
+- **Numéro de question** - par exemple `1.1` signifie la première question de la première manche
+- **Type de question** - comme choix multiple, avec les modificateurs de score correspondants
+- **Version longue de la question** - pour que vous puissiez la lire à haute voix
+- **Infos sur la question** - durée du minuteur et points disponibles
+- **Question courte** - la version affichée sur l'écran de jeu
+- **Bouton de démarrage de la question** - lance immédiatement le minuteur
+- **Réponses possibles** - affichées dans le bon ordre (pour les choix multiples)
 
 La question restera visible dans votre application jusqu’à :
 
@@ -55,7 +55,7 @@ La question restera visible dans votre application jusqu’à :
 
 ### ✅ Feedback sur la question
 
-Après la fin d'une question, la bonne réponse est dévoilée. Ce que vous voyez dépend du type de question — cet exemple montre un écran de résultats pour un choix multiple :
+Après la fin d'une question, la bonne réponse est dévoilée. Ce que vous voyez dépend du type de question - cet exemple montre un écran de résultats pour un choix multiple :
 
 ![Quizmaster App - question feedback](/images/quizmaster-app-question-feedback.png)
 
@@ -64,10 +64,10 @@ Comprend :
 - **Numéro de question**
 - **Texte court de la question**
 - **Bonne réponse**
-- **Répartition des réponses** — en nombres et pourcentages
-- **Explication détaillée** — informations supplémentaires à lire à haute voix
-- **Bouton Continuer** — passe à la question suivante
-- **100 réponses les plus rapides** — affichées en bas de l'écran
+- **Répartition des réponses** - en nombres et pourcentages
+- **Explication détaillée** - informations supplémentaires à lire à haute voix
+- **Bouton Continuer** - passe à la question suivante
+- **100 réponses les plus rapides** - affichées en bas de l'écran
 
 ---
 
@@ -93,14 +93,14 @@ Les joueurs voient **leur propre position** sur leur appareil pendant la fin de 
 
 ### 🏆 La fin du quiz
 
-À la fin du quiz, c’est l’heure de la **fête de révélation du gagnant** — avec confettis et emojis des joueurs qui volent à l'écran.
+À la fin du quiz, c’est l’heure de la **fête de révélation du gagnant** - avec confettis et emojis des joueurs qui volent à l'écran.
 
 ![QuizWitz - game outro game screen](/images/game-outro.png)
 
 - Le paramètre par défaut affiche les **12 meilleurs joueurs**
 - Vous pouvez personnaliser le nombre de joueurs affichés dans les **paramètres avancés du jeu**
 
-> 🎉 Astuce amusante : L'emoji que vos joueurs choisissent dansera à l'écran — même s'ils ont choisi le caca souriant.
+> 🎉 Astuce amusante : L'emoji que vos joueurs choisissent dansera à l'écran - même s'ils ont choisi le caca souriant.
 
 ---
 

@@ -5,7 +5,7 @@ title: Abeceda
 
 # 🔤 Abeceda
 
-Kolo **Abeceda** je [Tradiční kolo](030-traditional.md) s malým zvratem – každé otázce je přiřazen jedinečný štítek
+Kolo **Abeceda** je [Tradiční kolo](030-traditional.md) s malým zvratem - každé otázce je přiřazen jedinečný štítek
 a hráči musí přiřadit své odpovědi ke správným označeným polím. Tohle kolo odměňuje znalosti i dedukci!
 
 ---
@@ -27,10 +27,10 @@ a hráči musí přiřadit své odpovědi ke správným označeným polím. Tohl
 
 ## 📝 Jak to funguje
 
-- Jakmile jsou otázky pokládány, hráči vidí seznam polí pro odpovědi — jedno pro každou otázku.
-- **Pole pro odpovědi nejsou v pořadí kvízu** — místo toho jsou seřazena abecedně podle štítku.
+- Jakmile jsou otázky pokládány, hráči vidí seznam polí pro odpovědi - jedno pro každou otázku.
+- **Pole pro odpovědi nejsou v pořadí kvízu** - místo toho jsou seřazena abecedně podle štítku.
 - Hráči musí přiřadit své odpovědi ke správným označeným polím (např. odpověď na otázku "Bear" musí být zadána pod štítkem "B").
-- Odpovědi lze měnit kdykoli až do konce kola — hráči mohou přesouvat odpovědi mezi poli, když si uvědomí své chyby.
+- Odpovědi lze měnit kdykoli až do konce kola - hráči mohou přesouvat odpovědi mezi poli, když si uvědomí své chyby.
 
 ---
 

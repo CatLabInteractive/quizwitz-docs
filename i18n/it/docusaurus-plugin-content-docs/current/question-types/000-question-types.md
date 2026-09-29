@@ -17,6 +17,7 @@ Questi sono i tipi di domanda più comuni. Sono facili da capire e da giocare.
 - [Scelta multipla](001-multiple-choice.md) (predefinito)
 - [Domanda di ordinamento](003-order-question.md)
 - [Domanda con mappa immagine](004-image-map.md)
+- [Domanda a griglia](008-grid-question.md)
 
 ## Domande aperte
 

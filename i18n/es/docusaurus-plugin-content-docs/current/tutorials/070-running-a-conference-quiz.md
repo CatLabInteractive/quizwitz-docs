@@ -16,7 +16,7 @@ Antes de empezar, asegúrate de que tienes:
 - Una conexión a internet estable
 - La URL del quiz (proporcionada de antemano)
 - Un portátil conectado a la pantalla que los jugadores verán
-- **Google Chrome** — es posible que otros navegadores como Safari o Edge no funcionen correctamente
+- **Google Chrome** - es posible que otros navegadores como Safari o Edge no funcionen correctamente
 
 ---
 
@@ -27,7 +27,7 @@ Antes de empezar, asegúrate de que tienes:
 
 2. Aparece una pantalla de carga negra que muestra un porcentaje. Esto sólo tarda unos segundos.
 
-3. Una vez cargado, aparece la pantalla de juego. Si se te pide que inicies sesión, haz clic en **Iniciar sesión** — se abrirá una segunda pestaña.
+3. Una vez cargado, aparece la pantalla de juego. Si se te pide que inicies sesión, haz clic en **Iniciar sesión** - se abrirá una segunda pestaña.
    - Haz clic en **Iniciar sesión** en la página de inicio de sesión e introduce las credenciales que se te proporcionaron.
    - Después de iniciar sesión, la pestaña se cierra automáticamente y el quiz termina de cargar.
 
@@ -38,7 +38,7 @@ Antes de empezar, asegúrate de que tienes:
    El quiz está listo para jugarse en la pantalla de juego.
 
 :::tip
-Para salir de pantalla completa en cualquier momento — por ejemplo, para cambiar a otra ventana — pulsa **Esc**.
+Para salir de pantalla completa en cualquier momento - por ejemplo, para cambiar a otra ventana - pulsa **Esc**.
 :::
 
 ---
@@ -47,8 +47,8 @@ Para salir de pantalla completa en cualquier momento — por ejemplo, para cambi
 
 Para jugar de nuevo después de completar una partida, tienes algunas opciones:
 
-- **Recarga la página** — haz clic en el icono de recarga en la barra de herramientas de Chrome (puede que necesites pulsar Esc primero para salir de pantalla completa).
-- **Presiona S** — después de que el quiz termine, presionando **S** en el teclado te trae de vuelta a la pantalla de inicio.
+- **Recarga la página** - haz clic en el icono de recarga en la barra de herramientas de Chrome (puede que necesites pulsar Esc primero para salir de pantalla completa).
+- **Pulsa S** - cuando el quiz termine, al pulsar **S** en el teclado vuelves a la pantalla de inicio.
 
 Si aparece un pop-up preguntando si quieres iniciar un nuevo juego, haz clic en **Sí, iniciar un nuevo juego**.
 

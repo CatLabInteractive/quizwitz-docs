@@ -3,7 +3,7 @@ id: introduction
 title: Introduzione
 ---
 
-# 🎤 QuizWitz Live – Introduzione
+# 🎤 QuizWitz Live - Introduzione
 
 ## Condurre un quiz con QuizWitz Live
 
@@ -20,7 +20,7 @@ Puoi avviare QuizWitz Live direttamente dall’editor del quiz cliccando su **�
 
 Per garantire un’esperienza di quiz fluida e professionale, assicurati di avere:
 
-- **Un grande schermo o proiettore** che mostra la schermata di gioco — o un **livestream** accessibile a tutti i giocatori
+- **Un grande schermo o proiettore** che mostra lo schermo di gioco - o un **livestream** accessibile a tutti i giocatori
 - **Un tablet o un portatile** per il quizmaster, per controllare il gioco e leggere il copione ad alta voce
 - **Un portatile o un tablet** per la giuria (se necessario), per valutare le domande a risposta aperta
 - **Uno smart device per giocatore o team** (ad es. smartphone o tablet) per inviare le risposte

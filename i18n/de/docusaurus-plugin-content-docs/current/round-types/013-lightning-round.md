@@ -5,7 +5,7 @@ title: Blitzrunde
 
 # ⚡ Blitzrunde
 
-Die **Blitzrunde** dreht sich ganz um Geschwindigkeit und Spannung. Spieler beantworten eine schnelle Serie von Fragen mit sehr kurzen Timern – alles begleitet von durchgehender Timer-Musik für maximale Energie und Spannung.
+Die **Blitzrunde** dreht sich ganz um Geschwindigkeit und Spannung. Spieler beantworten eine schnelle Serie von Fragen mit sehr kurzen Timern - alles begleitet von durchgehender Timer-Musik für maximale Energie und Spannung.
 
 ---
 
@@ -29,7 +29,7 @@ Siehe [Rundeneinstellungen](../editor/008-round-options.md) für Details zur Kon
 
 ---
 
-## 🎵 Anhänge — Countdown-Musik
+## 🎵 Anhänge - Countdown-Musik
 
 - Du kannst einen **Runden-Anhang** im Slot „Während des Frage-Countdowns abspielen“ einstellen.  
   Dieser Audioanhang wird **durchgehend** als Countdown-Musik während der gesamten Blitzrunde abgespielt und stoppt erst nach der letzten Frage.

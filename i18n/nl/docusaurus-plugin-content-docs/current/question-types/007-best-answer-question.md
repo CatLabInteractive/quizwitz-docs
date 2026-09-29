@@ -8,7 +8,7 @@ title: Beste antwoord vraag
 In gewone spellen (zonder host) stemmen spelers op het antwoord dat zij het beste vinden.\
 Het antwoord/de antwoorden met de meeste stemmen krijgen de punten.\
 Het antwoord/de antwoorden met de meeste stemmen krijgen de punten.  
-Het antwoord/de antwoorden met de meeste stemmen krijgen de punten.
+Punten worden handmatig toegekend door de quizmaster, of - als er geen quizmaster is - doordat spelers stemmen op hun favoriete antwoord.
 
 ---
 

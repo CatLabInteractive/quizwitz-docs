@@ -16,7 +16,7 @@ Al crear un quiz para torneo, mantenlo corto y entretenido. Si los visitantes ne
 
 ### 🎲 Selección aleatoria de preguntas
 
-Haz que el juego seleccione un conjunto aleatorio de preguntas de tu reserva para que cada partida sea única — y los jugadores que regresen tengan preguntas diferentes.
+Haz que el juego seleccione un conjunto aleatorio de preguntas de tu reserva para que cada partida sea única - y los jugadores que regresen tengan preguntas diferentes.
 
 **Ejemplo de configuración:**
 
@@ -43,8 +43,8 @@ Los torneos solo pueden iniciarse desde el menú de **Opciones avanzadas del jue
 
 Ahora recibirás dos enlaces:
 
-- **Enlace para jugadores** — Compártelo con tus jugadores (o que escaneen el código QR desde la tabla de clasificación).
-- **Enlace de la tabla de clasificación** — Ábrelo en una pantalla en tu local para mostrar las clasificaciones en vivo y el código QR que los jugadores pueden escanear para unirse.
+- **Enlace para jugadores** - Compártelo con tus jugadores (o que escaneen el código QR desde la tabla de clasificación).
+- **Enlace de la tabla de clasificación** - Ábrelo en una pantalla en tu local para mostrar las clasificaciones en vivo y el código QR que los jugadores pueden escanear para unirse.
 
 ---
 
@@ -65,6 +65,6 @@ Una vez que los primeros jugadores terminen sus partidas, sus puntuaciones se mo
 
 ## 📧 Confirmación por correo electrónico
 
-También recibirás un correo electrónico con ambos enlaces, para jugadores y tabla de clasificación — ¡muy útil para no perderlos!
+También recibirás un correo electrónico con ambos enlaces, para jugadores y tabla de clasificación - ¡muy útil para no perderlos!
 
 ![Una captura del correo del torneo](/images/tutorials/tournament/tournament-email.png)

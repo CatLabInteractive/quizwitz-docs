@@ -5,7 +5,7 @@ title: Ronda relámpago
 
 # ⚡ Ronda relámpago
 
-La **ronda relámpago** se trata de velocidad y emoción. Los jugadores responden a una serie rápida de preguntas con temporizadores muy cortos — todo acompañado de música continua de temporizador para máxima energía y tensión.
+La **ronda relámpago** se trata de velocidad y emoción. Los jugadores responden a una serie rápida de preguntas con temporizadores muy cortos - todo acompañado de música continua de temporizador para máxima energía y tensión.
 
 ---
 
@@ -29,7 +29,7 @@ Consulta las [opciones de ronda](../editor/008-round-options.md) para detalles s
 
 ---
 
-## 🎵 Adjuntos — Música de cuenta regresiva
+## 🎵 Adjuntos - Música de cuenta regresiva
 
 - Puedes establecer un **Adjunto de Ronda** en la ranura "Reproducir durante la cuenta regresiva de la pregunta".  
   Este adjunto de audio se reproducirá **continuamente** como música de cuenta regresiva durante toda la ronda relámpago, deteniéndose solo después de la última pregunta.

@@ -5,7 +5,7 @@ title: Tradicional
 
 # 📝 Tradicional
 
-Una ronda **Tradicional** simula el formato clásico de quiz de pub, donde los jugadores pueden cambiar sus respuestas hasta el final de la ronda—¡igual que entregar tu hoja de respuestas en el pub!
+Una ronda **Tradicional** simula el formato clásico de quiz de pub, donde los jugadores pueden cambiar sus respuestas hasta el final de la ronda - ¡igual que entregar tu hoja de respuestas en el pub!
 
 ---
 

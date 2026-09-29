@@ -5,7 +5,7 @@ title: Traditionnel
 
 # 📝 Traditionnel
 
-Une manche **Traditionnel** simule le format classique du quiz de pub, où les joueurs peuvent changer leurs réponses jusqu'à la fin de la manche — comme si vous rendiez votre feuille de réponses au pub !
+Une manche **Traditionnel** simule le format classique du quiz de pub, où les joueurs peuvent changer leurs réponses jusqu'à la fin de la manche - comme si vous rendiez votre feuille de réponses au pub !
 
 ---
 

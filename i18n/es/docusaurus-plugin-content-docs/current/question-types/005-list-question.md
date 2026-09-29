@@ -18,7 +18,7 @@ Una **pregunta de lista** pide a los jugadores que proporcionen varias respuesta
 - **Pregunta:** Expresa claramente lo que quieres que los jugadores enumeren.
 - **Elementos de la lista:** Ingresa todas las respuestas correctas posibles.
   - Marca algunas como **‘Dadas’** para mostrarlas como ejemplos en pantalla; estas NO necesitan ser respondidas.
-  - El orden **no** importa — los jugadores pueden ingresar las respuestas correctas en cualquier orden.
+  - El orden **no** importa - los jugadores pueden ingresar las respuestas correctas en cualquier orden.
 - **Entrada del jugador:** Los jugadores deben proporcionar un número determinado de respuestas (por ejemplo, entre 1 y 5). Se otorgan puntos por cada respuesta correcta que envíen.
 - **Adjuntos:** Añade imágenes, audio o video para contexto. Completa la atribución si vas a publicar.
 
@@ -43,7 +43,7 @@ Una **pregunta de lista** pide a los jugadores que proporcionen varias respuesta
   - Los puntos disponibles se dividen en bloques de tiempo (no por milisegundo).  
     Por ejemplo: puntos completos en el primer bloque, 80% en el siguiente, y así sucesivamente.
   - **Solo el 25%** de los puntos dependen de la velocidad.  
-    El otro **75%** es fijo — así que incluso quienes escriben más lento obtienen la mayoría de los puntos si responden correctamente.
+    El otro **75%** es fijo - así que incluso quienes escriben más lento obtienen la mayoría de los puntos si responden correctamente.
   - Esto reduce la penalización por velocidad de escritura y hace que la puntuación sea más justa para todos.
 
 Para más detalles, consulta las [opciones de puntuación de rondas](../editor/008-round-options.md#scoring).

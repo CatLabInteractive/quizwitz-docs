@@ -23,10 +23,10 @@ Kliknutím na **ikonu ozubeného kolečka** v levém horním rohu otázky otevř
 
 ### 🎮 Režim a bodování
 
-- **Typ otázky** — Vyber, jak se otázka bude hrát (např. výběr z možností, otevřená odpověď, hádanka)  
-  → Zjisti víc v části [typy otázek](../question-types/000-question-types.md)
-- **Body** — Nastav, kolik bodů má správná odpověď hodnotu
-- **Časovač otázky** — Uprav časový limit pomocí posuvníku
+- **Typ otázky** - Vyber, jak se otázka bude hrát (např. výběr z možností, otevřená odpověď, hádanka)  
+  → Více se dozvíš v [typech otázek](../question-types/000-question-types.md)
+- **Body** - Nastav, kolik bodů má správná odpověď hodnotu
+- **Časovač otázky** - Uprav časový limit pomocí posuvníku
 
 ---
 
@@ -34,12 +34,12 @@ Kliknutím na **ikonu ozubeného kolečka** v levém horním rohu otázky otevř
 
 Přizpůsob, jak se otázka chová během hraní:
 
-- **Bodování podle času** — Odměň hráče, kteří odpoví rychleji
-- **Více správných odpovědí** — Povol víc než jednu platnou možnost
-- **Náhodné pořadí odpovědí** — Promíchej možnosti na obrazovce
-- **Zastavit časovač, když všichni odpověděli** — Pokračuj hned, jakmile dorazí všechny odpovědi
-- **Zobrazit výsledky otázky** — Zobraz zpětnou vazbu po otázce (nebo ji vypni)
-- **Vynutit výsledky po otázce** — Platí jen tehdy, když by zpětná vazba normálně byla odložená (např. v bleskových kolech nebo u otevřených otázek). U standardních otázek bez interakce s porotou se zpětná vazba zobrazuje automaticky po každé otázce.
+- **Bodování podle času** - Odměň hráče, kteří odpoví rychleji
+- **Více správných odpovědí** - Povol víc než jednu platnou možnost
+- **Náhodné pořadí odpovědí** - Promíchej možnosti na obrazovce
+- **Zastavit časovač, když všichni odpověděli** - Pokračuj hned, jakmile dorazí všechny odpovědi
+- **Zobrazit výsledky otázky** - Zobraz zpětnou vazbu po otázce (nebo ji vypni)
+- **Vynutit výsledky po otázce** - Platí jen tehdy, když by zpětná vazba normálně byla odložená (např. v bleskových kolech nebo u otevřených otázek). U standardních otázek bez interakce s porotou se zpětná vazba zobrazuje automaticky po každé otázce.
 
 ---
 
@@ -47,9 +47,9 @@ Přizpůsob, jak se otázka chová během hraní:
 
 Tato pole určují to, co se objeví na Quizmaster aplikaci a obrazovce hry:
 
-- **Obrazovka hry - Zpětná vazba k otázce** — Zobrazeno všem hráčům po odhalení zpětné vazby
-- **Kvízmistr - Dlouhá otázka** - Verze otázky, která má být nahlas přečtena kvízem.
-- **Kvíz - dlouhá zpětná vazba** - Text na kvízu může být přečten po odhalení správné odpovědi
+- **Herní obrazovka - Zpětná vazba k otázce** - Zobrazí se všem hráčům po odhalení zpětné vazby
+- **Quizmaster - Dlouhá otázka** - Verze otázky, kterou quizmaster přečte nahlas
+- **Quizmaster - Dlouhá zpětná vazba** - Text, který může quizmaster přečíst po odhalení správné odpovědi
 
 > 📝 Tato pole pomáhají, aby živé prezentace působily dynamicky a uhlazeně.
 
@@ -61,8 +61,8 @@ Tato pole určují to, co se objeví na Quizmaster aplikaci a obrazovce hry:
 
 Otázky můžeš vylepšit obrázky, videem nebo zvukem. Každou přílohu můžeš zobrazit v konkrétních chvílích:
 
-- **Před otázkou / Během otázky / Po otázce** — Zobrazí se v době, kdy je otázka prezentována
-- **Před zpětnou vazbou / Během zpětné vazby / Po zpětné vazbě** — Zobrazí se při odhalení výsledků
+- **Před otázkou / Během otázky / Po otázce** - Zobrazí se v době, kdy je otázka prezentována
+- **Před zpětnou vazbou / Během zpětné vazby / Po zpětné vazbě** - Zobrazí se při odhalení výsledků
 - ...
 
 > 🧠 Přílohy se obzvlášť hodí pro budování napětí, ilustrování odpovědí nebo doplnění kontextu.

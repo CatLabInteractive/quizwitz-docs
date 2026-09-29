@@ -5,7 +5,7 @@ title: Ein Konferenz-Quiz ausführen
 
 # Ein Konferenz-Quiz ausführen
 
-Dieser Leitfaden führt dich durch alles, was du wissen musst, um ein QuizWitz-Quiz an einem Konferenzstand oder einer Veranstaltung durchzuführen – vom Öffnen des Quiz-Links bis zur finalen Rangliste.
+Dieser Leitfaden führt dich durch alles, was du wissen musst, um ein QuizWitz-Quiz an einem Konferenzstand oder einer Veranstaltung durchzuführen - vom Öffnen des Quiz-Links bis zur finalen Rangliste.
 
 ---
 
@@ -16,7 +16,7 @@ Bevor du beginnst, stelle sicher, dass du Folgendes hast:
 - Eine stabile Internetverbindung
 - Die Quiz-URL (vorab bereitgestellt)
 - Ein Laptop, der mit dem Bildschirm verbunden ist, den die Spieler beobachten werden
-- **Google Chrome** — Andere Browser wie Safari oder Edge funktionieren möglicherweise nicht korrekt
+- **Google Chrome** - andere Browser wie Safari oder Edge funktionieren möglicherweise nicht korrekt
 
 ---
 
@@ -27,7 +27,7 @@ Bevor du beginnst, stelle sicher, dass du Folgendes hast:
 
 2. Ein schwarzer Ladebildschirm zeigt einen Prozentsatz an. Dies dauert nur wenige Sekunden.
 
-3. Einmal geladen, erscheint der Spielbildschirm. Wenn du aufgefordert wirst, dich anzumelden, klicke auf **Anmelden** — ein zweiter Tab öffnet sich.
+3. Einmal geladen, erscheint der Spielbildschirm. Wenn du aufgefordert wirst, dich einzuloggen, klicke auf **Einloggen** - ein zweiter Tab öffnet sich.
    - Klicke auf der Anmeldeseite auf **Anmelden** und gib die dir zur Verfügung gestellten Anmeldedaten ein.
    - Nach dem Einloggen schließt der Tab automatisch und das Quiz wird geladen.
 
@@ -38,7 +38,7 @@ Bevor du beginnst, stelle sicher, dass du Folgendes hast:
    Das Quiz ist nun bereit auf dem Spielbildschirm zu spielen.
 
 :::tip
-Um den Vollbildmodus jederzeit zu beenden — zum Beispiel, um zu einem anderen Fenster zu wechseln — drücke **Esc**.
+Um den Vollbildmodus jederzeit zu beenden - zum Beispiel, um zu einem anderen Fenster zu wechseln - drücke **Esc**.
 :::
 
 ---
@@ -47,8 +47,8 @@ Um den Vollbildmodus jederzeit zu beenden — zum Beispiel, um zu einem anderen 
 
 Um nach einem abgeschlossenen Spiel erneut zu spielen, hast du einige Möglichkeiten:
 
-- **Lade die Seite neu** — klicke auf das Neuladen-Symbol in der Chrome-Symbolleiste (du musst Esc zuerst drücken, um Vollbild zu beenden).
-- **Drücke S** — nachdem das Quiz beendet ist, bringt dich das Drücken von **S** auf der Tastatur zurück zum Startbildschirm.
+- **Lade die Seite neu** - klicke auf das Neuladen-Symbol in der Chrome-Symbolleiste (eventuell musst du zuerst Esc drücken, um den Vollbildmodus zu beenden).
+- **Drücke S** - nachdem das Quiz beendet ist, bringt dich das Drücken von **S** auf der Tastatur zurück zum Startbildschirm.
 
 Wenn ein Pop-up erscheint und fragt, ob du ein neues Spiel starten möchtest, klicke **Ja, starte neues Spiel**.
 

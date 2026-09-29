@@ -23,16 +23,16 @@ Ako otvoriť aplikáciu poroty:
 
 Vo vnútri ponúka aplikácia poroty niekoľko užitočných nástrojov:
 
-- **Hodnotenie otázok** — Výsledky otvorených otázok sa zobrazia po dokončení otázky.
-  - Hra na porotu **nečaká**, kým skončí — iba ak ide o **poslednú otázku kola** alebo ak nastavenia kvízu hovoria inak.
+- **Hodnotenie otázok** - Výsledky otvorených otázok sa zobrazia po dokončení otázky.
+  - Hra na porotu **nečaká**, kým skončí - iba ak ide o **poslednú otázku kola** alebo ak nastavenia kvízu hovoria inak.
   - Po vyhodnotení sa výsledky zobrazia **po ďalšej otázke**.
 
-- **Úprava skóre** — Ručne pridaj alebo odober body jednotlivým hráčom či tímom.
+- **Úprava skóre** - Ručne pridaj alebo odober body jednotlivým hráčom či tímom.
 
-- **Ovládanie hry** — Uprav časovače otázok alebo v prípade potreby pridaj oneskorenia streamu.
+- **Ovládanie hry** - Uprav časovače otázok alebo v prípade potreby pridaj oneskorenia streamu.
   > Nastavenie oneskorenia livestreamu nájdeš v návode [**ako hostovať kvíz QuizWitz Live na Twitchi**](../tutorials/040-livestreaming.md)
 
-- **Správa** — Vygeneruj kompletnú správu o hre s výsledkami a odpoveďami hráčov.
+- **Správa** - Vygeneruj kompletnú správu o hre s výsledkami a odpoveďami hráčov.
 
 ![Snímka aplikácie poroty v stave čakania](/images/jury-app-waiting.png)
 
@@ -54,7 +54,7 @@ QuizWitz **automaticky rozpozná presné zhody** a označí ich ako správne. Č
 - Fonetických zhôd
 - Bežných pravopisných variantov
 
-> 🎙️ QuizWitz bol navrhnutý s ohľadom na fonetickú zhodu — konečné rozhodnutie je však vždy na porotcoch.
+> 🎙️ QuizWitz bol navrhnutý s ohľadom na fonetickú zhodu - konečné rozhodnutie je však vždy na porotcoch.
 
 ---
 

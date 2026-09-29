@@ -3,16 +3,16 @@ id: introduction
 title: Úvod
 ---
 
-# 🎤 QuizWitz Live – úvod
+# 🎤 QuizWitz Live - úvod
 
 ## Pořádání kvízu s QuizWitz Live
 
-První ingrediencí úspěšné akce QuizWitz Live je poutavý quizmaster — někdo, kdo řídí hru a udržuje energii na vysoké úrovni. Quizmaster řídí průběh kvízu, čte otázky nahlas a dodává tu extra jiskru, která pobaví publikum.
+První ingrediencí úspěšné akce QuizWitz Live je poutavý quizmaster - někdo, kdo řídí hru a udržuje energii na vysoké úrovni. Quizmaster řídí průběh kvízu, čte otázky nahlas a dodává tu extra jiskru, která pobaví publikum.
 
 Chceš-li mít svou akci plně pod kontrolou, použij **aplikaci Quizmaster**, navrženou speciálně pro QuizWitz Live.  
 QuizWitz Live můžeš spustit přímo z editoru kvízu kliknutím na **„Start QuizWitz Live“**.
 
-> 💡 **Poznámka:** Aplikace Quizmaster je **webová aplikace** — není potřeba nic instalovat. Jednoduše přejdi v prohlížeči na [**quizwitz.tv**](https://quizwitz.tv) a otevři ji na svém smart device.
+> 💡 **Poznámka:** Quizmaster App je **webová aplikace** - není potřeba nic instalovat. Jednoduše přejdi v prohlížeči na [**quizwitz.tv**](https://quizwitz.tv) a otevři ji na svém smart device.
 
 ---
 
@@ -20,7 +20,7 @@ QuizWitz Live můžeš spustit přímo z editoru kvízu kliknutím na **„Start
 
 Aby byl kvíz plynulý a působil profesionálně, ujisti se, že máš:
 
-- **Obrazovka nebo projektor** zobrazující obrazovku hry — nebo **dobytek** přístupné všem hráčům
+- **Velká obrazovka nebo projektor** zobrazující herní obrazovku - nebo **livestream** přístupný všem hráčům
 - **Tablet nebo notebook** pro quizmaster, aby mohl ovládat hru a číst scénář nahlas
 - **Notebook nebo tablet** pro porotu (pokud je potřeba), aby mohla hodnotit otázky s otevřenou odpovědí
 - **Jeden smart device na hráče nebo tým** (např. smartphone nebo tablet) pro odesílání odpovědí

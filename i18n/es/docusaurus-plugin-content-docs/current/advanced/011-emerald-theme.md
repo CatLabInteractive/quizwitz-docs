@@ -51,7 +51,7 @@ Toda la música en el juego también puede ser reemplazada con adjuntos. Cualqui
 
 ## Modificadores del tema Emerald
 
-Además de los adjuntos, también puedes manipular el tema Emerald con **parámetros de consulta**. Estos son parámetros que puedes añadir a la URL de las **opciones avanzadas del juego** — y cambian la apariencia del tema.
+Además de los adjuntos, también puedes manipular el tema Emerald con **parámetros de consulta**. Estos son parámetros que puedes añadir a la URL de las **opciones avanzadas del juego** - y cambian la apariencia del tema.
 
 Para esto, empezaremos con un quiz de ejemplo (sin adjuntos):  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
@@ -81,7 +81,7 @@ Además, puedes establecer una fuente predeterminada:
 
 Estas fuentes deben ser URLs a archivos de fuentes públicos disponibles.
 
-Cada uno de estos modificadores puede contener un solo color en formato hexadecimal HTML (ff0000) o un degradado lineal proporcionando múltiples colores divididos por un símbolo menos ( — por ejemplo ff1b6b-45caff). (Ten en cuenta que el símbolo # no debe añadirse.)
+Cada uno de estos modificadores puede contener un solo color en formato hexadecimal HTML (ff0000) o un degradado lineal indicando varios colores separados por un signo menos (por ejemplo, ff1b6b-45caff). (Ten en cuenta que el símbolo # no debe añadirse.)
 
 :::note
 Los parámetros de consulta deben comenzar con un signo de interrogación ( ? ) y cada parámetro debe estar separado por un ampersand ( & ). Para más información sobre parámetros de consulta, visita [wikipedia](https://en.wikipedia.org/wiki/Query_string).

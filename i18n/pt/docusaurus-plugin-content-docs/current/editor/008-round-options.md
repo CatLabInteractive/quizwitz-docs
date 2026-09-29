@@ -25,13 +25,13 @@ Para configurar as opções de uma ronda, clica no ícone de engrenagem no paine
 
 As seguintes opções estão disponíveis para a maioria dos tipos de ronda:
 
-- **Mostrar apenas _X_ perguntas** — Limita a ronda a um número específico de perguntas
-- **Ordem aleatória das perguntas** — Baralha a ordem das perguntas dentro da ronda
-- **Mostrar introdução da ronda** — Apresenta um título animado antes de a ronda começar
-- **Mostrar encerramento da ronda (pontuação provisória)** — Revela as classificações no fim da ronda
-- **Agrupar todo o feedback num único ecrã** — Reúne o feedback das perguntas num só bloco depois de a ronda terminar
-- **Mostrar todo o feedback das perguntas no fim da ronda** — Adia o feedback das perguntas até a ronda terminar
-- **Forçar feedback depois de cada pergunta individual** — Garante feedback imediato
+- **Mostrar apenas _X_ perguntas** - Limita a ronda a um número específico de perguntas
+- **Ordem aleatória das perguntas** - Baralha a ordem das perguntas dentro da ronda
+- **Mostrar introdução da ronda** - Apresenta um título animado antes de a ronda começar
+- **Mostrar encerramento da ronda (pontuação provisória)** - Revela as classificações no fim da ronda
+- **Agrupar todo o feedback num único ecrã** - Reúne o feedback das perguntas num só bloco depois de a ronda terminar
+- **Mostrar todo o feedback das perguntas no fim da ronda** - Adia o feedback das perguntas até a ronda terminar
+- **Forçar feedback depois de cada pergunta individual** - Garante feedback imediato
   > ⚠️ Isto só tem efeito em tipos de ronda e de pergunta em que o feedback normalmente seria adiado, como perguntas abertas ou rondas relâmpago.
 
 📘 Consulta os [tipos de pergunta](../question-types/000-question-types.md) para mais informações sobre o momento e o comportamento do feedback.
@@ -42,11 +42,11 @@ As seguintes opções estão disponíveis para a maioria dos tipos de ronda:
 
 O QuizWitz oferece pontuação flexível para manter tudo justo e envolvente para todos os jogadores.
 
-- **Pontuação baseada no tempo** — Os jogadores ganham mais pontos por respostas mais rápidas.
+- **Pontuação baseada no tempo** - Os jogadores ganham mais pontos por respostas mais rápidas.
   - Para a maioria dos tipos de pergunta, os pontos baseados no tempo diminuem **continuamente por microssegundo**: quanto mais rápido responderes, mais pontos ganhas.
   - Para **perguntas abertas**, os pontos baseados no tempo são divididos em blocos. Por exemplo: as respostas no primeiro bloco (por exemplo, nos primeiros segundos) ganham **100%** da parte baseada no tempo, o bloco seguinte ganha **80%**, e assim por diante. Isto ajuda a equilibrar as coisas para quem escreve mais devagar.
 
-- **Percentagem fixa de pontos na pontuação baseada no tempo** — Tu controlas quanto da pontuação total é influenciado pela rapidez.
+- **Percentagem fixa de pontos na pontuação baseada no tempo** - Tu controlas quanto da pontuação total é influenciado pela rapidez.
   - Por predefinição, **75%** dos pontos são fixos (toda a gente que responde corretamente recebe estes pontos, independentemente da rapidez).
   - Só os restantes **25%** são influenciados pela rapidez com que os jogadores respondem.
 
@@ -66,10 +66,10 @@ Podes adicionar um **texto de introdução** personalizado que aparecerá soment
 
 Melhora a tua ronda com multimédia mostrado em momentos específicos:
 
-- **Antes da ronda** — Mostrado depois da animação de introdução da ronda
-- **Depois da ronda** — Mostrado depois do encerramento da ronda
-- **Antes do encerramento da ronda** — Mostrado depois da última pergunta, mesmo antes do encerramento
-- **Durante o encerramento da ronda** — _(apenas áudio)_ Toca enquanto as classificações são apresentadas
+- **Antes da ronda** - Mostrado depois da animação de introdução da ronda
+- **Depois da ronda** - Mostrado depois do encerramento da ronda
+- **Antes do encerramento da ronda** - Mostrado depois da última pergunta, mesmo antes do encerramento
+- **Durante o encerramento da ronda** - _(apenas áudio)_ Toca enquanto as classificações são apresentadas
 - ...
 
 📘 Para tipos de ficheiro suportados e dicas de utilização, consulta o [guia de anexos](../editor/006-attachments.md).

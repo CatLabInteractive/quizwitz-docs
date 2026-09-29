@@ -6,7 +6,7 @@ title: Introduzione
 # 🛠️ Guida per chi crea quiz
 
 Benvenuto nella guida per i creatori di quiz!  
-Su QuizWitz puoi creare e organizzare i tuoi contenuti per quiz — oppure raccogliere e remixare contenuti creati da altri.
+Su QuizWitz puoi creare e organizzare i tuoi contenuti per quiz - oppure raccogliere e remixare contenuti creati da altri.
 
 ---
 
@@ -14,8 +14,8 @@ Su QuizWitz puoi creare e organizzare i tuoi contenuti per quiz — oppure racco
 
 Come creatore di quiz, puoi lavorare con:
 
-- **Round-Abouts** — Piccole raccolte tematiche di domande mostrate in ordine casuale
-- **Full Quiz** — Quiz personalizzati, che combinano più Round-Abouts in una sequenza specifica
+- **Round-Abouts** - Piccole raccolte tematiche di domande mostrate in ordine casuale
+- **Quiz completi** - Quiz personalizzati, che combinano più Round-About in una sequenza specifica
 
 Puoi anche **raccogliere Round-Abouts** creati da altri membri e includerli nei tuoi quiz.
 

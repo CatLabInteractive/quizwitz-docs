@@ -3,16 +3,16 @@ id: introduction
 title: Úvod
 ---
 
-# 🎤 QuizWitz Live – Úvod
+# 🎤 QuizWitz Live - Úvod
 
 ## Organizovanie kvízu s QuizWitz Live
 
-Prvou ingredienciou úspešného podujatia QuizWitz Live je pútavý quizmaster — niekto, kto riadi hru a udržiava energiu na vysokej úrovni. The quizmaster vedie priebeh kvízu, číta otázky nahlas a pridáva tú správnu iskru, aby zabavil publikum.
+Prvou ingredienciou úspešného podujatia QuizWitz Live je pútavý quizmaster - niekto, kto riadi hru a udržiava energiu na vysokej úrovni. The quizmaster vedie priebeh kvízu, číta otázky nahlas a pridáva tú správnu iskru, aby zabavil publikum.
 
 Ak chceš mať svoje podujatie úplne pod kontrolou, použi **Quizmaster App**, navrhnutú špeciálne pre QuizWitz Live.  
 QuizWitz Live môžeš spustiť priamo z editora kvízu kliknutím na **„Start QuizWitz Live“**.
 
-> 💡 **Poznámka:** Quizmaster App je **webová aplikácia** — netreba nič inštalovať. Stačí vo svojom prehliadači prejsť na [**quizwitz.tv**](https://quizwitz.tv) a získaš k nej prístup na svojom smart device.
+> 💡 **Poznámka:** Quizmaster App je **webová aplikácia** - netreba nič inštalovať. Stačí vo svojom prehliadači prejsť na [**quizwitz.tv**](https://quizwitz.tv) a získaš k nej prístup na svojom smart device.
 
 ---
 

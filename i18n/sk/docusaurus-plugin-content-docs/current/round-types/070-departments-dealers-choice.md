@@ -25,8 +25,8 @@ title: Voľba dílera oddelenia
   - Najvyššie umiestnení ako prví
   - Náhodne
 - **Dílerovo oddelenie:**
-  - _Hrať môže iba díler_ — Na otázku odpovedá iba vybraný díler
-  - _Hrať môžu všetci hráči v dílerovom oddelení_ — Každý v oddelení môže odpovedať a získavať body
+  - _Hrať môže iba dealer_ - Na otázku odpovedá iba vybraný dealer
+  - _Hrať môžu všetci hráči v oddelení dealera_ - Každý v oddelení môže odpovedať a získavať body
 - **Bonus dílera:**  
   Nastav percentuálny bonus pre dílera (ak je povolený).
 

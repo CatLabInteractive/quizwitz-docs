@@ -47,14 +47,14 @@ Pokud chceš rychle vytvořit mnoho otázek najednou, použij kartu **Import z t
 
 Každý řádek musí obsahovat následující sloupce přesně v tomto pořadí:
 
-1. **Krátká otázka** — Zobrazí se na obrazovce hráče
+1. **Krátká otázka** - Zobrazí se na obrazovce hráče
 2. **Správná odpověď**
 3. **Špatná odpověď 1** (u otevřených otázek nech prázdné)
 4. **Špatná odpověď 2**
 5. **Špatná odpověď 3**
-6. **Krátká zpětná vazba** — Zobrazí se na obrazovce hráče po odpovědi
-7. **Dlouhá otázka** _(volitelné)_ — Zobrazí se na obrazovce quizmaster
-8. **Dlouhá zpětná vazba** _(volitelné)_ — Vysvětlení, které quizmaster přečte nahlas
+6. **Krátká zpětná vazba** - Zobrazí se na obrazovce hráče po odpovědi
+7. **Dlouhá otázka** _(volitelné)_ - Zobrazí se na obrazovce quizmastera
+8. **Dlouhá zpětná vazba** _(volitelné)_ - Vysvětlení, které quizmaster přečte nahlas
 
 > 📌 Poslední dva sloupce se používají pouze v [QuizWitz Live](../quizmaster/001-introduction.md), ale i tak musí být zahrnuté (i když zůstanou prázdné).
 

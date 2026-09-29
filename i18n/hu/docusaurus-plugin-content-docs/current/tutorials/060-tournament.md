@@ -5,7 +5,7 @@ title: Verseny
 
 # Verseny
 
-Ez az útmutató megmutatja, hogyan használd a QuizWitz Verseny módját. A Verseny mód lehetővé teszi, hogy a játékosok akkor csatlakozzanak és játsszanak a kvízeddel, amikor csak szeretnének — a saját eszközükön. A pontszámaik egy globális ranglistán lesznek rögzítve, amelyet megjeleníthetsz a helyszíneden.
+Ez az útmutató megmutatja, hogyan használd a QuizWitz Verseny módját. A Verseny mód lehetővé teszi, hogy a játékosok akkor csatlakozzanak és játsszanak a kvízeddel, amikor csak szeretnének - a saját eszközükön. A pontszámaik egy globális ranglistán lesznek rögzítve, amelyet megjeleníthetsz a helyszíneden.
 
 ---
 
@@ -16,7 +16,7 @@ Versenykvíz készítésekor legyen rövid és izgalmas. Ha a látogatóknak tú
 
 ### 🎲 Véletlenszerű kérdésválasztás
 
-Állítsd be, hogy a játék véletlenszerű kérdéscsomagot válasszon a készletedből, így minden végigjátszás egyedi lesz — a visszatérő játékosok pedig más kérdéseket kapnak.
+Állítsd be, hogy a játék véletlenszerű kérdéscsomagot válasszon a készletedből, így minden végigjátszás egyedi lesz - a visszatérő játékosok pedig más kérdéseket kapnak.
 
 **Beállítási példa:**
 
@@ -43,8 +43,8 @@ A versenyeket csak a **Speciális játékbeállítások** menüből lehet elind�
 
 Most két linket kapsz:
 
-- **Játékoslink** — Oszd meg ezt a játékosaiddal (vagy hagyd, hogy beolvassák a QR-kódot a ranglistáról).
-- **Ranglistalink** — Nyisd meg ezt egy kijelzőn a helyszíneden, hogy megjelenjen az élő rangsor és a QR-kód, amelyet a játékosok beolvashatnak a csatlakozáshoz.
+- **Játékoslink** - Oszd meg ezt a játékosaiddal (vagy hagyd, hogy beolvassák a QR-kódot a ranglistáról).
+- **Ranglistalink** - Nyisd meg ezt egy kijelzőn a helyszíneden, hogy megjelenjen az élő rangsor és a QR-kód, amelyet a játékosok beolvashatnak a csatlakozáshoz.
 
 ---
 
@@ -65,6 +65,6 @@ Amint az első játékosok befejezik a játékaikat, a pontszámaik élőben meg
 
 ## 📧 E-mailes megerősítés
 
-Kapsz egy e-mailt is, amely tartalmazza a játékos- és ranglistalinket is — praktikus, hogy ne veszítsd el őket!
+Kapsz egy e-mailt is, amely tartalmazza a játékos- és ranglistalinket is - praktikus, hogy ne veszítsd el őket!
 
 ![Képernyőkép a verseny e-mailről](/images/tutorials/tournament/tournament-email.png)

@@ -5,7 +5,7 @@ title: Téma Emerald
 
 # Motív Emerald
 
-Motív Emerald je najjednoduchší spôsob, ako si prispôsobiť vzhľad tvojej hry v QuizWitz. Predvolene má motív čistý modro-zelený štýl s výraznými farbami možností, ale kombinovaním príloh kvízu a modifikátorov motívu môžeš jeho vzhľad zmeniť — poriadne výrazne.
+Motív Emerald je najjednoduchší spôsob, ako si prispôsobiť vzhľad tvojej hry v QuizWitz. Predvolene má motív čistý modro-zelený štýl s výraznými farbami možností, ale kombinovaním príloh kvízu a modifikátorov motívu môžeš jeho vzhľad zmeniť - poriadne výrazne.
 
 :::tip
 Môžeš použiť náš [tester motívu](https://client.quizwitz.com/test.html?theme=emerald), aby si videl/a, ako budú tvoje nastavenia vyzerať.
@@ -51,7 +51,7 @@ Všetku hudbu v hre môžeš tiež nahradiť prílohami. Všetky zvukové súbor
 
 ## Modifikátory motívu Emerald
 
-Okrem príloh môžeš motív Emerald upravovať aj pomocou **query parameters**. Sú to parametre, ktoré môžeš pridať do URL **pokročilých možností hry** — a zmenia vzhľad motívu.
+Okrem príloh môžeš motív Emerald upravovať aj pomocou **query parameters**. Sú to parametre, ktoré môžeš pridať do URL **pokročilých možností hry** - a zmenia vzhľad motívu.
 
 Na to začneme s ukážkovým kvízom (bez akýchkoľvek príloh):  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default

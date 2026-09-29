@@ -5,7 +5,7 @@ title: Messestand
 
 # Messestand
 
-Dieses Tutorial zeigt dir, wie du QuizWitz an deinem Messestand einsetzt — eine einfache, interaktive Möglichkeit, Besucher anzuziehen und Leads zu sammeln!
+Dieses Tutorial zeigt dir, wie du QuizWitz an deinem Messestand einsetzt - eine einfache, interaktive Möglichkeit, Besucher anzuziehen und Leads zu sammeln!
 
 ![Ein Foto eines Marvel-Messestands, der QuizWitz verwendet](/images/photos/marvel.jpg)
 
@@ -14,19 +14,19 @@ Dieses Tutorial zeigt dir, wie du QuizWitz an deinem Messestand einsetzt — ein
 ## 📝 Das Quiz erstellen
 
 Wenn du ein Quiz für einen Messestand erstellst, bedenke, dass manche Spieler vielleicht für mehrere Spiele bleiben.  
-Damit es spannend bleibt, solltest du viele Fragen haben — genug, um sie zu randomisieren und jedes Spiel einzigartig zu machen.
+Damit es spannend bleibt, solltest du viele Fragen haben - genug, um sie zu randomisieren und jedes Spiel einzigartig zu machen.
 
 **Empfohlene Einstellung:**
 
 - 15 Fragen aufgeteilt auf 3 Runden
-- Erstelle mindestens 3× so viele Fragen für mehr Abwechslung — mehr ist besser!
+- Erstelle mindestens 3× so viele Fragen für mehr Abwechslung - mehr ist besser!
 
 ### 🎲 Schritt-für-Schritt Quiz-Erstellung
 
 1. **Wähle im Erstellen-Menü "Quiz"** und gib deinem Quiz einen Namen. Stelle die richtige Sprache ein.
 2. **Füge 3 Runden hinzu** und benenne sie (z. B.: Runde 1, Runde 2, Runde 3).
 3. In den **Rundeneinstellungen** (Zahnrad-Symbol) aktiviere **„Nur x Fragen anzeigen“** und setze die Zahl auf 5.  
-   Aktiviere auch **„Zufällige Frage(n) Reihenfolge“** — sonst wählt das Spiel immer die ersten 5 Fragen aus.  
+   Aktiviere auch **„Zufällige Fragenreihenfolge“** - sonst wählt das Spiel immer die ersten 5 Fragen aus.  
    Wiederhole das für jede Runde.
 
 ![Screenshot der Rundeneinstellungen für einen Messestand](/images/tutorials/conference/round_settings.png)
@@ -35,7 +35,7 @@ Damit es spannend bleibt, solltest du viele Fragen haben — genug, um sie zu ra
    Du kannst [Fragen schreiben](../editor/005-writing-questions.md) oder den Import-Button nutzen, um schnell Inhalte aus Excel hinzuzufügen.
 
 :::tip
-Nutze viele Bilder und Videos — das macht das Spiel viel unterhaltsamer!
+Nutze viele Bilder und Videos - das macht das Spiel viel unterhaltsamer!
 :::
 
 ---
@@ -54,7 +54,7 @@ Der schnellste Weg, dein Messestand-Quiz zu starten:
 2. Wähle **Konferenzmodus starten**.
 
 In diesem Modus verwenden Spieler ihre Handys, um sich mit dem Spiellink auf dem Spielbildschirm zu verbinden.  
-Wenn alle bereit sind, drückt der Standbetreiber Enter — und das Spiel läuft automatisch.  
+Wenn alle bereit sind, drückt der Standbetreiber Enter - und das Spiel läuft automatisch.  
 Nach Spielende bringt dich ein weiterer Enter-Druck zurück zum Verbindungsbildschirm für die nächste Gruppe.
 
 ---
@@ -67,7 +67,7 @@ Du erhältst einen einzigartigen Link mit all deinen gewählten Optionen.
 
 - **Frage nach der E-Mail der Spieler:**  
   Erfasse E-Mails von Besuchern für deinen Messestand! Wenn du das aktivierst, stelle unbedingt auch deine **Datenschutzerklärung-URL** ein.
-- Beim Starten eines Spiels über den erweiterten Link wirst du eventuell aufgefordert, dich einzuloggen — das prüft deinen Inhalt und deine Lizenzen.
+- Beim Starten eines Spiels über den erweiterten Link wirst du eventuell aufgefordert, dich einzuloggen - das prüft deinen Inhalt und deine Lizenzen.
 
 ![Screenshot der erweiterten Spieleinstellungen](/images/tutorials/conference/advanced_game_settings.png)
 

@@ -16,7 +16,7 @@ title: Introduction du joueur
 
 ---
 
-> Les introductions des joueurs aident à créer l’ambiance, briser la glace et personnaliser l’expérience du quiz — surtout dans les événements en direct et en équipe !
+> Les introductions des joueurs aident à créer l’ambiance, briser la glace et personnaliser l’expérience du quiz - surtout dans les événements en direct et en équipe !
 
 ---
 

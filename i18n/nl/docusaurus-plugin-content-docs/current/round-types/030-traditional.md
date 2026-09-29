@@ -5,7 +5,7 @@ title: Traditioneel
 
 # 📝 Traditioneel
 
-Een **Traditionele** ronde simuleert het klassieke pubquiz-formaat, waar spelers hun antwoorden kunnen aanpassen tot het einde van de ronde—net zoals het inleveren van je antwoordformulier in de kroeg!
+Een **Traditionele** ronde simuleert het klassieke pubquizformaat, waarbij spelers hun antwoorden kunnen aanpassen tot het einde van de ronde - net zoals het inleveren van je antwoordformulier in de kroeg!
 
 ---
 

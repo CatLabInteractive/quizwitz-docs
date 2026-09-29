@@ -3,7 +3,7 @@ id: jury-app
 title: Aplikace Porota
 ---
 
-# :jude: Jury App - Přehled otevřených odpovědí v QuizWitz Live
+# 🧑‍⚖️ Jury App - kontrola otevřených odpovědí v QuizWitz Live
 
 Pokud tvůj kvíz obsahuje **otevřené otázky k odpovědi**, budeš muset použít **aplikaci pro porodu** pro ruční kontrolu a skórování odpovědí.
 
@@ -19,20 +19,20 @@ Otevření aplikace Jura:
 2. Na samostatném zařízení, přejděte na [**quizwitz.tv**](https://quizwitz.tv)
 3. Zadej **kód poroty** a otevři aplikaci
 
-> 💡 Aplikace Jury můžete otevřít v libovolném prohlížeči — je to webová aplikace, není vyžadována žádná instalace.
+> 💡 Jury App můžeš otevřít v libovolném prohlížeči - je to webová aplikace, není potřeba nic instalovat.
 
 Aplikace Jury nabízí několik užitečných nástrojů:
 
-- **Hodnocení otázek** — výsledky otevřených otázek se zobrazí po dokončení otázky.
-  - Hra na dokončení poroty **nečeká** — pokud nejde o **poslední otázku kola** nebo pokud nastavení kvízu neurčuje jinak.
+- **Hodnocení otázek** - Výsledky otevřených otázek se zobrazí po dokončení otázky.
+  - Hra na dokončení poroty **nečeká** - pokud nejde o **poslední otázku kola** nebo pokud nastavení kvízu neurčuje jinak.
   - Po vyhodnocení se výsledky zobrazí **po další otázce**.
 
-- **Úprava skóre** — ručně přidávej nebo odebírej body jednotlivým hráčům nebo týmům.
+- **Úprava skóre** - Ručně přidávej nebo odebírej body jednotlivým hráčům nebo týmům.
 
-- **Ovládání hry** — podle potřeby uprav časovače otázek nebo přidej zpoždění streamu.
+- **Ovládání hry** - Podle potřeby uprav časovače otázek nebo přidej zpoždění streamu.
   > Nastavení zpoždění livestreamu najdeš v článku [**jak hostovat kvíz QuizWitz Live na Twitchi**](../tutorials/040-livestreaming.md)
 
-- **Report** — vygeneruj kompletní report hry s výsledky a odpověďmi hráčů.
+- **Report** - Vygeneruj kompletní report hry s výsledky a odpověďmi hráčů.
 
 ![Screenshot aplikace Jury v nevyřízeném stavu](/images/jury-app-waiting.png)
 
@@ -54,7 +54,7 @@ QuizWitz **automaticky rozpozná přesné shody** a označí je jako správné. 
 - Fonetických shod
 - Běžných variant pravopisu
 
-> 🎙️ QuizWitz byl navržen s ohledem na fonetické shody — konečné rozhodnutí je ale vždy na porotcích.
+> 🎙️ QuizWitz byl navržen s ohledem na fonetické shody - konečné rozhodnutí je ale vždy na porotcích.
 
 ---
 

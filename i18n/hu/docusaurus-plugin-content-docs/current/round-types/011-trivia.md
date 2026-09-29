@@ -5,7 +5,7 @@ title: Kvíz (normál kör)
 
 # ❓ Kvíz (normál kör)
 
-A **Kvíz** kör a QuizWitz klasszikus, alapértelmezett körtípusa. Egy kérdéssorozatot jelenít meg minden játékosnak — ideális általános műveltségi, tematikus kvízekhez vagy bemelegítő körökhöz.
+A **Kvíz** kör a QuizWitz klasszikus, alapértelmezett körtípusa. Egy kérdéssorozatot jelenít meg minden játékosnak - ideális általános műveltségi, tematikus kvízekhez vagy bemelegítő fordulókhoz.
 
 ---
 

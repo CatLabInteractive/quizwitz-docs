@@ -5,7 +5,7 @@ title: Rundungstypen
 
 # Rundentypen
 
-Der Rundentyp beeinflusst, wie das Spiel die Fragen den Spielern zeigt — und wie die Spieler Punkte verdienen.  
+Der Rundentyp beeinflusst, wie das Spiel die Fragen den Spielern zeigt - und wie die Spieler Punkte verdienen.  
 In Quizzen kannst du den Rundentyp im Auswahlfeld **Rundentyp** oben in der Mitte des Bildschirms ändern.
 
 ## 🧠 Reguläre Runden
@@ -22,6 +22,7 @@ Diese Runden bieten etwas mehr Interaktivität als einfache Frage-Antwort-Runden
 - [Mehrfachfrage](022-multiquestion.md)
 - [Strike](023-strike.md)
 - [Dealer's Choice](024-dealers-choice.md)
+- [Wer zuerst kommt, mahlt zuerst](025-first-come-first-served.md)
 
 ## 🍺 Traditionell
 
@@ -29,12 +30,12 @@ Für alle, die traditionelle Pub-Quizze organisieren möchten, bei denen Spieler
 Diese Rundentypen simulieren das "Abgeben der Zettel" nach jeder Runde.
 
 - [Traditionell](030-traditional.md)
-- [Traditionell — Gemeinsamer Faden](031-traditional-ct.md)
+- [Traditionell - Gemeinsamer Faden](031-traditional-ct.md)
 - [Alphabet](032-alphabet.md)
 
 ## 🎉 Live-Events
 
-Diese Rundentypen enthalten keine Fragen — beeinflussen stattdessen den Spielverlauf.
+Diese Rundentypen enthalten keine Fragen - beeinflussen stattdessen den Spielverlauf.
 
 - [Aktivität](040-activity.md)
 - [Pause](060-intermission.md)
@@ -46,5 +47,5 @@ Diese Rundentypen enthalten keine Fragen — beeinflussen stattdessen den Spielv
 
 In diesen Rundentypen kannst du bestimmte **Abteilungen** auswählen, die gegeneinander spielen.
 
-- [Abteilungen — Dealer's Choice](070-departments-dealers-choice.md)
-- [Abteilung — Elimination](071-departments-elimination.md)
+- [Abteilungen - Dealer's Choice](070-departments-dealers-choice.md)
+- [Abteilungen - Elimination](071-departments-elimination.md)

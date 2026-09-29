@@ -5,7 +5,7 @@ title: Pregunta abierta
 
 # 💬 Pregunta abierta
 
-Una pregunta abierta permite a los jugadores escribir su respuesta libremente usando su teclado. Este modo es perfecto para preguntas donde quieres respuestas escritas — por ejemplo, nombres, números, o explicaciones cortas.
+Una pregunta abierta permite a los jugadores escribir su respuesta libremente usando su teclado. Este modo es perfecto para preguntas donde quieres respuestas escritas - por ejemplo, nombres, números, o explicaciones cortas.
 
 ---
 
@@ -41,7 +41,7 @@ La puntuación en preguntas abiertas está diseñada para ser justa, incluso par
 
 - **Puntuación basada en tiempo** divide los puntos disponibles en bloques, no en una cuenta regresiva estricta por milisegundos.
 - Por ejemplo, responder en el primer bloque (p.ej. primeros 5 segundos) da puntos completos; el siguiente bloque da 80%, y así sucesivamente. Esto ayuda a reducir la penalización para quienes escriben despacio.
-- Por defecto, solo el **25%** de los puntos dependen de la velocidad — el restante **75%** es fijo, así que todos los que respondan correctamente obtienen la mayor parte de los puntos, sin importar la velocidad de escritura.
+- Por defecto, solo el **25%** de los puntos dependen de la velocidad - el restante **75%** es fijo, así que todos los que respondan correctamente obtienen la mayor parte de los puntos, sin importar la velocidad de escritura.
 
 > ⚙️ **Consejo:** Puedes ajustar más el comportamiento de la puntuación y otras configuraciones en las [opciones de ronda](../editor/008-round-options.md).
 

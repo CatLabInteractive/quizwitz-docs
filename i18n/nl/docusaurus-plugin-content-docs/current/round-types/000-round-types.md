@@ -5,7 +5,7 @@ title: Rondetypes
 
 # Rondetypes
 
-Het soort ronde beïnvloedt hoe het spel de vragen aan spelers toont — en hoe spelers punten verdienen.  
+Het rondetype bepaalt hoe het spel de vragen aan spelers toont - en hoe spelers punten verdienen.  
 In quizzen kun je het rondetype wijzigen in het selectieveld **Rondetype** bovenaan in het midden van het scherm.
 
 ## 🧠 Normale rondes
@@ -22,6 +22,7 @@ Deze rondes bieden iets meer interactie dan simpele vraag-en-antwoord rondes.
 - [Multivraag](022-multiquestion.md)
 - [Strike](023-strike.md)
 - [Dealer's Choice](024-dealers-choice.md)
+- [Wie het eerst komt, wie het eerst maalt](025-first-come-first-served.md)
 
 ## 🍺 Traditioneel
 
@@ -34,7 +35,7 @@ Deze rondetypes simuleren het "inleveren van de antwoordbladen" na elke ronde.
 
 ## 🎉 Live evenementen
 
-Deze rondetypes bevatten geen vragen — maar beïnvloeden het verloop van het spel.
+Deze rondetypes bevatten geen vragen - maar beïnvloeden het verloop van het spel.
 
 - [Activiteit](040-activity.md)
 - [Pauze](060-intermission.md)

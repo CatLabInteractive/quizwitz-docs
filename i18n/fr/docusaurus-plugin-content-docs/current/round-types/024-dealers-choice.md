@@ -6,7 +6,7 @@ title: Dealer's Choice
 # 🃏 Dealer's Choice
 
 La manche **Dealer's Choice** dans QuizWitz ajoute une touche stratégique à votre quiz.
-Un des joueurs peut **choisir la catégorie de la prochaine question**, ce qui lui donne un avantage potentiel — et peut-être un bonus ! Voici comment le configurer et y jouer :
+Un des joueurs peut **choisir la catégorie de la prochaine question**, ce qui lui donne un avantage potentiel - et peut-être un bonus ! Voici comment le configurer et y jouer :
 
 ---
 
@@ -25,10 +25,10 @@ Chaque question de la manche Dealer's Choice a besoin d'une **étiquette unique*
 
 Par exemple :
 
-- `Animaux – Facile`
-- `Animaux – Difficile`
-- `Histoire – Anecdotes`
-- `Films – Classiques d’action`
+- `Animaux - Facile`
+- `Animaux - Difficile`
+- `Histoire - Anecdotes`
+- `Films - Classiques d’action`
 
 > Même si les questions partagent un thème général, leurs étiquettes doivent être uniques pour que les joueurs puissent clairement les identifier et les choisir.
 

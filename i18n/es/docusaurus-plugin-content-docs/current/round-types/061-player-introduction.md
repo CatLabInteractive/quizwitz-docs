@@ -16,7 +16,7 @@ La **introducción del jugador** es un evento especial que simplemente muestra l
 
 ---
 
-> Las introducciones de los jugadores ayudan a crear el ambiente, romper el hielo y personalizar la experiencia del quiz—¡especialmente en eventos en vivo y por equipos!
+> Las introducciones de los jugadores ayudan a crear el ambiente, romper el hielo y personalizar la experiencia del quiz - ¡especialmente en eventos en vivo y por equipos!
 
 ---
 

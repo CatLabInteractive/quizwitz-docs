@@ -23,16 +23,16 @@ A zsűri app megnyitása:
 
 Odabent a zsűri app több hasznos eszközt kínál:
 
-- **Kérdések értékelése** — A nyílt kérdések eredményei akkor jelennek meg, amikor egy kérdés lezárult.
-  - A játék **nem várja meg**, amíg a zsűri végez — kivéve, ha ez a **forduló utolsó kérdése**, vagy a kvíz beállításai mást írnak elő.
+- **Kérdések értékelése** - A nyílt kérdések eredményei akkor jelennek meg, amikor egy kérdés lezárult.
+  - A játék **nem várja meg**, amíg a zsűri végez - kivéve, ha ez a **forduló utolsó kérdése**, vagy a kvíz beállításai mást írnak elő.
   - Az értékelés után az eredmények **a következő kérdés után** jelennek meg.
 
-- **Pontszámok szerkesztése** — Adj vagy vonj vissza pontokat kézzel, játékosonként vagy csapatonként.
+- **Pontszámok szerkesztése** - Adj vagy vonj vissza pontokat kézzel, játékosonként vagy csapatonként.
 
-- **Játékvezérlés** — Szükség esetén állítsd a kérdések időzítőit, vagy adj hozzá streamelési késleltetést.
+- **Játékvezérlés** - Szükség esetén állítsd a kérdések időzítőit, vagy adj hozzá streamelési késleltetést.
   > Az élő közvetítés késleltetésének beállításához lásd: [**hogyan vezess QuizWitz Live kvízt Twitchen**](../tutorials/040-livestreaming.md)
 
-- **Jelentés** — Készíts teljes játékjelentést eredményekkel és játékosválaszokkal.
+- **Jelentés** - Készíts teljes játékjelentést eredményekkel és játékosválaszokkal.
 
 ![Képernyőkép a zsűri appról várakozó állapotban](/images/jury-app-waiting.png)
 
@@ -54,7 +54,7 @@ A QuizWitz **automatikusan felismeri a pontos egyezéseket**, és helyesként je
 - Fonetikus egyezéseket
 - Gyakori helyesírási változatokat
 
-> 🎙️ A QuizWitz a fonetikus egyezések figyelembevételével készült — de a végső döntés mindig a zsűrié.
+> 🎙️ A QuizWitz a fonetikus egyezések figyelembevételével készült - de a végső döntés mindig a zsűrié.
 
 ---
 

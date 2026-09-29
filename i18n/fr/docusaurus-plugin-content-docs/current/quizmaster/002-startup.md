@@ -3,9 +3,9 @@ id: startup
 title: Start-up
 ---
 
-# 🚀 Start-up — Organiser un Quiz avec QuizWitz Live
+# 🚀 Démarrage - Organiser un quiz avec QuizWitz Live
 
-Bienvenue sur QuizWitz Live — la manière professionnelle d'organiser des quiz pour des équipes, des livestreams et des événements en personne. Suivez ce guide pour démarrer votre quiz avec la Quizmaster App.
+Bienvenue sur QuizWitz Live - la manière professionnelle d'organiser des quiz pour des équipes, des livestreams et des événements en personne. Suivez ce guide pour démarrer votre quiz avec la Quizmaster App.
 
 ---
 
@@ -23,7 +23,7 @@ Vous pouvez démarrer une partie QuizWitz Live depuis l’éditeur de quiz ou di
 
 ## 🔐 Connexion avec le code quizmaster
 
-Une fois lancé, votre écran affichera un **code quizmaster**. **Ne partagez pas ce code avec les joueurs** — il sert à connecter votre appareil de présentation au jeu.
+Une fois lancé, votre écran affichera un **code quizmaster**. **Ne partagez pas ce code avec les joueurs** - il sert à connecter votre appareil de présentation au jeu.
 
 - Visitez [quizwitz.tv](https://quizwitz.tv) sur votre appareil quizmaster et entrez le code quizmaster.
 - Une interface de la **Quizmaster App** apparaîtra, où vous contrôlez le jeu.
@@ -32,7 +32,7 @@ Une fois lancé, votre écran affichera un **code quizmaster**. **Ne partagez pa
 
 Après la connexion, le code quizmaster disparaît de l'écran. Vous êtes maintenant prêt à montrer l'écran de jeu sur un projecteur ou à démarrer votre livestream.
 
-> ⚠️ **Attention !** Si l'écran de jeu n'est pas au premier plan — par exemple, si vous changez d'onglet ou le réduisez — le jeu **se mettra automatiquement en pause**.  
+> ⚠️ **Attention !** Si l'écran de jeu n'est pas au premier plan - par exemple, si vous changez d'onglet ou le réduisez - le jeu **se mettra automatiquement en pause**.  
 > Quand cela arrive :
 >
 > - La **Quizmaster App se met également en pause**
@@ -51,13 +51,13 @@ Une fois connecté, choisissez entre deux modes de jeu :
 
 - Chaque équipe reçoit un **code unique**, qui peut être ouvert sur plusieurs appareils.
 - Idéal pour des quiz avec équipes pré-enregistrées où vous connaissez les noms d’équipe à l’avance.
-- Permet le changement d'appareil — utile si une batterie tombe à plat pendant le quiz.
+- Permet le changement d'appareil - utile si une batterie tombe à plat pendant le quiz.
 
 ### Code de jeu partagé
 
 - Tout le monde rejoint avec **un seul Code de jeu partagé**.
 - Idéal pour les événements occasionnels ou en accès libre.
-- Aucune préinscription requise — les joueurs peuvent rejoindre à tout moment, jusqu'à ce que tous les Seats actifs soient occupés.
+- Aucune préinscription requise - les joueurs peuvent rejoindre à tout moment, jusqu'à ce que tous les Seats actifs soient occupés.
 
 > Assurez-vous d’être connecté pour accéder à votre contenu de quiz.
 
@@ -70,13 +70,13 @@ Quand vous utilisez les **Codes d'équipe**, vous commencerez par créer des éq
 - Ajoutez les noms des équipes
 - Appuyez sur **'Générer des Codes'** pour créer des codes d'accès  \n![Quizmaster App - create teams](/images/quizmaster-app-create-teams.png)
 
-Vous pouvez aussi **réserver les codes à l’avance** — plus d’infos dans la section astuces et conseils.
+Vous pouvez aussi **réserver les codes à l’avance** - plus d’infos dans la section astuces et conseils.
 
 Veillez à **sauvegarder les codes suivants** :
 
-- **Code Quizmaster** — pour contrôler le quiz
-- **Code du jury** — pour des ajustements manuels des scores
-- **Code Régie** — pour gérer les aspects visuels et techniques
+- **Code quizmaster** - pour contrôler le quiz
+- **Code du jury** - pour des ajustements manuels des scores
+- **Code régie** - pour gérer les aspects visuels et techniques
 
 Envoyez les codes d’équipe à vos joueurs par email ou via des impressions.
 
@@ -91,7 +91,7 @@ Lorsque vous êtes prêt, cliquez sur **‘Charger le quiz’**, attendez que le
 Avec le schéma **Code de jeu partagé** :
 
 - Vous recevrez le code quizmaster, le code du jury et le code régie, plus un code de jeu pour les joueurs.
-- Le code de jeu apparaît sur l'écran de jeu — **affichez-le ou diffusez-le à votre public**.
+- Le code de jeu apparaît sur l'écran de jeu - **affichez-le ou diffusez-le à votre public**.
 - Les joueurs peuvent rejoindre à tout moment jusqu’à ce que la limite de Seats actifs soit atteinte.
 
 Une fois vos joueurs connectés :

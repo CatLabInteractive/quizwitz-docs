@@ -25,8 +25,8 @@ title: Departamento - Dealer's Choice
   - Primero el de clasificación más alta
   - Aleatorio
 - **Departamento del dealer:**
-  - _Solo el dealer puede jugar_ — Solo el dealer seleccionado responde la pregunta
-  - _Todos los jugadores del departamento del dealer pueden jugar_ — Todos en el departamento pueden responder y sumar puntos
+  - _Solo el dealer puede jugar_ - Solo el dealer seleccionado responde la pregunta
+  - _Todos los jugadores del departamento del dealer pueden jugar_ - Todos en el departamento pueden responder y sumar puntos
 - **Bonificación del dealer:**  
   Establece un porcentaje de bonificación para el dealer (si está activado).
 

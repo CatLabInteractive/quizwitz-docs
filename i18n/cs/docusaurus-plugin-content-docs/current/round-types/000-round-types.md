@@ -5,7 +5,7 @@ title: Typy kol
 
 # Typy kol
 
-Typ kola ovlivňuje, jak hra zobrazuje otázky hráčům — a jak hráči získávají body.  
+Typ kola ovlivňuje, jak hra zobrazuje otázky hráčům - a jak hráči získávají body.  
 V kvízech můžeš typ kola změnit v rozbalovacím poli **Typ kola** uprostřed nahoře na obrazovce.
 
 ## 🧠 Běžná kola
@@ -22,6 +22,7 @@ Tahle kola nabízejí o něco víc interaktivity než jednoduché otázky a odpo
 - [Víceotázek](022-multiquestion.md)
 - [Strike](023-strike.md)
 - [Volba obchodníka](024-dealers-choice.md)
+- [Kdo dřív přijde, ten dřív bere](025-first-come-first-served.md)
 
 ## 🍺 Tradiční
 
@@ -29,12 +30,12 @@ Pro každého, kdo chce pořádat tradiční hospodské kvízy, kde hráči mů�
 Tyhle typy kol simulují „odevzdání papírů“ po každém kole.
 
 - [Tradiční](030-traditional.md)
-- [Tradiční — společné téma](031-traditional-ct.md)
+- [Tradiční - Společné téma](031-traditional-ct.md)
 - [Abeceda](032-alphabet.md)
 
 ## 🎉 Živé události
 
-Tyhle typy kol neobsahují žádné otázky — místo toho ale ovlivňují výsledek hry.
+Tyhle typy kol neobsahují žádné otázky - místo toho ale ovlivňují výsledek hry.
 
 - [Aktivita](040-activity.md)
 - [Přestávka](060-intermission.md)
@@ -46,5 +47,5 @@ Tyhle typy kol neobsahují žádné otázky — místo toho ale ovlivňují výs
 
 V těchto typech kol můžeš vybrat konkrétní **oddělení**, která hrají proti jiným oddělením.
 
-- [Department — Dealer's Choice](070-departments-dealers-choice.md)
-- [Oddělení — vyřazování](071-departments-elimination.md)
+- [Oddělení - Dealer's Choice](070-departments-dealers-choice.md)
+- [Oddělení - Eliminace](071-departments-elimination.md)

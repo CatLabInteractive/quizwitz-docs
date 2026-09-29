@@ -3,9 +3,9 @@ id: startup
 title: Inicio
 ---
 
-# 🚀 Inicio — Organizando un Quiz con QuizWitz Live
+# 🚀 Inicio - Organizando un Quiz con QuizWitz Live
 
-Bienvenido a QuizWitz Live — la forma profesional de organizar quizzes para equipos, transmisiones en vivo y eventos presenciales. Sigue esta guía para poner tu quiz en marcha usando la Quizmaster App.
+Bienvenido a QuizWitz Live - la forma profesional de organizar quizzes para equipos, transmisiones en vivo y eventos presenciales. Sigue esta guía para poner tu quiz en marcha usando la Quizmaster App.
 
 ---
 
@@ -23,7 +23,7 @@ Puedes comenzar un juego QuizWitz Live desde el editor de quiz o directamente de
 
 ## 🔐 Conectando con el código de quizmaster
 
-Una vez iniciado, tu pantalla mostrará un **código de quizmaster**. **No compartas este código con los jugadores** — se usa para conectar tu dispositivo de presentación con el juego.
+Una vez iniciado, tu pantalla mostrará un **código de quizmaster**. **No compartas este código con los jugadores** - se usa para conectar tu dispositivo de presentación con el juego.
 
 - Visita [quizwitz.tv](https://quizwitz.tv) en tu dispositivo de quizmaster e introduce el código de quizmaster.
 - Aparecerá una **interfaz de la Quizmaster App**, desde donde controlas el juego.
@@ -32,7 +32,7 @@ Una vez iniciado, tu pantalla mostrará un **código de quizmaster**. **No compa
 
 Después de conectarte, el código de quizmaster desaparece de la pantalla. Ahora estás listo para mostrar la pantalla del juego en un proyector o iniciar tu transmisión en vivo.
 
-> ⚠️ **¡Atención!** Si la pantalla del juego no está activa en primer plano — por ejemplo, si cambias de pestaña o la minimizas — el juego se **pausará automáticamente**.  
+> ⚠️ **¡Atención!** Si la pantalla del juego no está activa en primer plano - por ejemplo, si cambias de pestaña o la minimizas - el juego se **pausará automáticamente**.  
 > Cuando esto ocurra:
 >
 > - La **Quizmaster App también se pausa**
@@ -51,13 +51,13 @@ Una vez conectado, elige entre dos modos de juego:
 
 - Cada equipo recibe un **código único**, que se puede abrir en varios dispositivos.
 - Ideal para **quizzes con equipos preinscritos** donde conoces los nombres de los equipos de antemano.
-- Permite cambiar de dispositivo — útil si la batería se agota durante el quiz.
+- Permite cambiar de dispositivo - útil si la batería se agota durante el quiz.
 
 ### Código de juego compartido
 
 - Todos se unen usando **un único Código de Juego compartido**.
 - Ideal para eventos casuales o de acceso abierto.
-- No se requiere preinscripción — los jugadores pueden unirse en cualquier momento, hasta que se llenen todos los Seats activos.
+- No se requiere preinscripción - los jugadores pueden unirse en cualquier momento, hasta que se llenen todos los Seats activos.
 
 > Asegúrate de haber iniciado sesión para acceder a tu contenido de quiz.
 
@@ -71,13 +71,13 @@ Al usar **códigos de equipo**, primero crearás equipos en la Quizmaster App:
 - Presiona **'Generar Códigos'** para crear códigos de acceso  
   ![Quizmaster App - create teams](/images/quizmaster-app-create-teams.png)
 
-También puedes **reservar códigos con anticipación** — más detalles en la sección de tips y trucos.
+También puedes **reservar códigos con anticipación** - más detalles en la sección de tips y trucos.
 
 Asegúrate de **guardar los siguientes códigos**:
 
-- **Código de quizmaster** — para controlar el quiz
-- **Código del jurado** — para ajustes manuales de puntuación
-- **Código regie** — para controlar elementos visuales y técnicos
+- **Código de quizmaster** - para controlar el quiz
+- **Código del jurado** - para ajustes manuales de puntuación
+- **Código regie** - para controlar elementos visuales y técnicos
 
 Envía los códigos de equipo a tus jugadores por correo electrónico o impresos.
 

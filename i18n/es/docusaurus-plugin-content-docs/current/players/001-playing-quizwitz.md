@@ -11,12 +11,12 @@ title: Jugando a QuizWitz
 
 ## 🎯 Elige qué jugar
 
-Comienza explorando los **Round-Abouts** disponibles — rondas temáticas cortas de preguntas de quiz. Usa el menú en la parte superior de la pantalla para explorar:
+Comienza explorando los **Round-Abouts** disponibles - rondas temáticas cortas de preguntas de quiz. Usa el menú en la parte superior de la pantalla para explorar:
 
-- **Nuevo** — Descubre los últimos Round-Abouts
-- **Mi Colección** — Accede a todo lo que has guardado o creado
-- **Coleccionar** — Encuentra Round-Abouts creados por la comunidad
-- **Juego Rápido** — Sumérgete en una selección aleatoria
+- **Nuevo** - Descubre los últimos Round-Abouts
+- **Mi Colección** - Accede a todo lo que has guardado o creado
+- **Coleccionar** - Encuentra Round-Abouts creados por la comunidad
+- **Juego Rápido** - Sumérgete en una selección aleatoria
 
 ![Barra de navegación superior de QuizWitz](/images/top-menu-play.png)
 
@@ -39,13 +39,13 @@ Esto incluye:
 - Bingos
 - ...
 
-Puedes organizar, jugar o eliminar elementos en cualquier momento. Esta es tu biblioteca personal — ¡créala a tu manera!
+Puedes organizar, jugar o eliminar elementos en cualquier momento. Esta es tu biblioteca personal - ¡créala a tu manera!
 
 ---
 
 ## 🧠 Elige un Round-About
 
-Un **Round-About** es una pequeña ronda temática de preguntas — como el nombre dice, una ronda _sobre_ un tema. Jugar solamente uno te dará un juego corto con 7 preguntas aleatorias.
+Un **Round-About** es una pequeña ronda temática de preguntas - como el nombre dice, una ronda _sobre_ un tema. Jugar solamente uno te dará un juego corto con 7 preguntas aleatorias.
 
 Para explorar un Round-About con más detalle:
 
@@ -63,7 +63,7 @@ Para explorar un Round-About con más detalle:
 - Haz clic en **Añadir a mi colección** dentro del Round-About
 - O haz clic en el **icono de estrella** en el recuadro del Round-About
 
-Para eliminar uno después, solo haz clic en la estrella otra vez — ahora dirá **Quitar de mi colección**.
+Para eliminar uno después, solo haz clic en la estrella otra vez - ahora dirá **Quitar de mi colección**.
 
 ![Añadir un Round-About a tu colección](/images/add-to-collection.png)
 
@@ -80,7 +80,7 @@ Cuando estés listo:
 
 Elige:
 
-- **Modo de juego** — Un jugador o Juego en grupo
+- **Modo de juego** - Un jugador o Juego en grupo
 - **Qué Round-Abouts** incluir en tu sesión
 
 QuizWitz intentará saltar preguntas que ya has visto.
@@ -112,7 +112,7 @@ Juega con amigos usando sus propios teléfonos o tablets:
 2. Los jugadores siguen las instrucciones en pantalla para unirse
 3. Haz clic en **Iniciar quiz** cuando todos estén listos
 
-Una vez que el quiz comience, **el juego se ejecuta automáticamente** — aparecen preguntas, los temporizadores cuentan hacia atrás y las puntuaciones se calculan sin intervención del anfitrión.
+Una vez que el quiz comience, **el juego se ejecuta automáticamente** - aparecen preguntas, los temporizadores cuentan hacia atrás y las puntuaciones se calculan sin intervención del anfitrión.
 
 > ⏸️ ¿Necesitas un descanso? Mueve el ratón a la parte inferior de la pantalla del juego y aparecerá un botón de **pausa**. La pausa es la única manera de interrumpir un Juego en grupo.
 >

@@ -5,7 +5,7 @@ title: Tournoi
 
 # Tournoi
 
-Ce tutoriel vous montrera comment utiliser le mode tournoi de QuizWitz. Le mode tournoi permet aux joueurs de rejoindre et de jouer à votre quiz quand ils veulent — sur leur propre appareil. Leurs scores sont enregistrés sur un classement mondial que vous pouvez afficher dans votre lieu.
+Ce tutoriel vous montrera comment utiliser le mode tournoi de QuizWitz. Le mode tournoi permet aux joueurs de rejoindre et de jouer à votre quiz quand ils veulent - sur leur propre appareil. Leurs scores sont enregistrés sur un classement mondial que vous pouvez afficher dans votre lieu.
 
 ---
 
@@ -16,7 +16,7 @@ Lorsque vous créez un quiz de tournoi, gardez-le court et engageant. Si les vis
 
 ### 🎲 Sélection aléatoire des questions
 
-Faites en sorte que le jeu sélectionne un ensemble aléatoire de questions dans votre banque de questions, ainsi chaque partie est unique — et les joueurs qui reviennent obtiennent des questions différentes.
+Faites en sorte que le jeu sélectionne un ensemble aléatoire de questions dans votre banque de questions, ainsi chaque partie est unique - et les joueurs qui reviennent obtiennent des questions différentes.
 
 **Exemple de configuration :**
 
@@ -43,8 +43,8 @@ Les tournois ne peuvent être lancés qu’à partir du menu **Options de jeu av
 
 Vous recevrez maintenant deux liens :
 
-- **Lien joueur** — Partagez-le avec vos joueurs (ou laissez-les scanner le QR code du classement).
-- **Lien classement** — Ouvrez-le sur un écran dans votre lieu pour afficher le classement en direct et le QR code que les joueurs peuvent scanner pour rejoindre.
+- **Lien joueur** - Partagez-le avec vos joueurs (ou laissez-les scanner le code QR du classement).
+- **Lien classement** - Ouvrez-le sur un écran dans votre lieu pour afficher le classement en direct et le code QR que les joueurs peuvent scanner pour rejoindre.
 
 ---
 
@@ -65,6 +65,6 @@ Une fois que les premiers joueurs ont terminé leurs parties, leurs scores seron
 
 ## 📧 Confirmation par e-mail
 
-Vous recevrez également un e-mail contenant les liens joueur et classement — pratique pour ne pas les perdre !
+Vous recevrez également un e-mail contenant les liens joueur et classement - pratique pour ne pas les perdre !
 
 ![Une capture d’écran de l’e-mail du tournoi](/images/tutorials/tournament/tournament-email.png)

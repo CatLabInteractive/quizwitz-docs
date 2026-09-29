@@ -5,7 +5,7 @@ title: Prestávka
 
 # ⏸️ Prestávka
 
-**Prestávka** je špeciálne eventové kolo, ktoré pozastaví kvíz na pauzu – ideálne na pretiahnutie, pokec alebo propagáciu sponzorov.
+**Prestávka** je špeciálne eventové kolo, ktoré pozastaví kvíz na pauzu - ideálne na pretiahnutie, pokec alebo propagáciu sponzorov.
 
 ---
 

@@ -23,10 +23,10 @@ Klikni na **ikonu ozubeného kolieska** v ľavom hornom rohu otázky a otvoríš
 
 ### 🎮 Režim a bodovanie
 
-- **Typ otázky** — Vyber, ako sa otázka bude hrať (napr. výber z možností, otvorená odpoveď, puzzle)  
+- **Typ otázky** - Vyber, ako sa otázka bude hrať (napr. výber z možností, otvorená odpoveď, puzzle)  
   → Viac sa dozvieš v časti [typy otázok](../question-types/000-question-types.md)
-- **Body** — Nastav, koľko bodov má správna odpoveď hodnotu
-- **Časovač otázky** — Uprav časový limit pomocou posuvníka
+- **Body** - Nastav, koľko bodov má správna odpoveď hodnotu
+- **Časovač otázky** - Uprav časový limit pomocou posuvníka
 
 ---
 
@@ -34,12 +34,12 @@ Klikni na **ikonu ozubeného kolieska** v ľavom hornom rohu otázky a otvoríš
 
 Prispôsob, ako sa otázka správa počas hrania:
 
-- **Bodovanie podľa času** — Odmeň hráčov, ktorí odpovedajú rýchlejšie
-- **Viac správnych odpovedí** — Povoľ viac než jednu platnú možnosť
-- **Náhodné poradie odpovedí** — Zamiešaj možnosti na obrazovke
-- **Zastaviť časovač, keď všetci odpovedali** — Pokračuj hneď, ako sú odoslané všetky odpovede
-- **Zobraziť výsledky otázky** — Zobraz spätnú väzbu po otázke (alebo ju vypni)
-- **Vynútiť výsledky po otázke** — Platí iba vtedy, keď by sa spätná väzba normálne zobrazila neskôr (napr. v bleskových kolách alebo pri otvorených otázkach). Pri štandardných otázkach bez interakcie s porotou sa spätná väzba zobrazuje automaticky po každej otázke.
+- **Bodovanie podľa času** - Odmeň hráčov, ktorí odpovedajú rýchlejšie
+- **Viac správnych odpovedí** - Povoľ viac než jednu platnú možnosť
+- **Náhodné poradie odpovedí** - Zamiešaj možnosti na obrazovke
+- **Zastaviť časovač, keď všetci odpovedali** - Pokračuj hneď, ako sú odoslané všetky odpovede
+- **Zobraziť výsledky otázky** - Zobraz spätnú väzbu po otázke (alebo ju vypni)
+- **Vynútiť výsledky po otázke** - Platí iba vtedy, keď by sa spätná väzba normálne zobrazila neskôr (napr. v bleskových kolách alebo pri otvorených otázkach). Pri štandardných otázkach bez interakcie s porotou sa spätná väzba zobrazuje automaticky po každej otázke.
 
 ---
 
@@ -61,8 +61,8 @@ Tieto polia určujú, čo sa zobrazí v Quizmaster App a na hernej obrazovke:
 
 Otázky môžeš vylepšiť obrázkami, videom alebo zvukom. Každá príloha sa môže zobraziť v konkrétnych momentoch:
 
-- **Pred / Počas / Po otázke** — Zobrazí sa približne v čase, keď je otázka predstavená
-- **Pred / Počas / Po spätnej väzbe** — Zobrazí sa, keď sa odhalia výsledky
+- **Pred / Počas / Po otázke** - Zobrazí sa približne v čase, keď je otázka predstavená
+- **Pred / Počas / Po spätnej väzbe** - Zobrazí sa, keď sa odhalia výsledky
 - ...
 
 > 🧠 Prílohy sú obzvlášť užitočné na budovanie napätia, ilustrovanie odpovedí alebo doplnenie kontextu.

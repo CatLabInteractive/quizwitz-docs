@@ -14,14 +14,14 @@ I temi QuizWitz vengono creati usando **Adobe Animate**. Puoi scaricare un [mode
 Preferisci lasciarlo fare ai professionisti? Mandaci un'email a [support@catlab.be](mailto:support@catlab.be) e potremo prepararti un preventivo per trasformare il tuo design in un tema QuizWitz pronto all'uso.
 
 :::tip
-Having a graphic designer draw the theme and someone else assemble it in Animate is a common arrangement. The [theme design guide](012-theme-design-guide.md) describes what the designer has to deliver for that to work.
+È un'organizzazione comune che un grafico disegni il tema e che qualcun altro lo assembli in Animate. La [guida alla progettazione dei temi](012-theme-design-guide.md) descrive che cosa deve consegnare il grafico perché questo funzioni.
 :::
 
 ---
 
 ## 🧪 Strumento di test del tema
 
-Quando sei pronto a testare il tuo tema, **comprimi in zip il contenuto della cartella del tuo design** ( — non la cartella stessa; quando apri lo zip, dovresti vedere i tuoi file, non solo una singola cartella — ) e caricalo nel nostro [tester dei temi](https://themes.quizwitz.com/). Così ottieni un'anteprima live di come apparirà il tuo tema nel gioco.
+Quando sei pronto a testare il tuo tema, **comprimi in zip il contenuto della cartella del tuo design** ( - non la cartella stessa; quando apri lo zip, dovresti vedere i tuoi file, non solo una singola cartella - ) e caricalo nel nostro [tester dei temi](https://themes.quizwitz.com/). Così ottieni un'anteprima live di come apparirà il tuo tema nel gioco.
 
 Dopo il test, inviaci il file zip via email e lo collegheremo al tuo account, così potrai selezionare e usare il tuo tema nei tuoi quiz.
 
@@ -42,7 +42,7 @@ Tutti i design personalizzati devono includere il logo QuizWitz.
 | Intro del gioco                                                    | Animazione prima del gioco.                                                                 | Schermata di attesa.                                               |
 | Intro del round                                                    | Animazione prima di ogni round.                                                             | Schermata di attesa.                                               |
 | Domande                                                            |                                                                                                             |                                                                                    |
-| Allegato                                                           | Vista a schermo intero dell'allegato ( — prima/dopo domande o round — ). | Schermata di attesa.                                               |
+| Allegato                                                           | Vista a schermo intero dell'allegato ( - prima/dopo domande o round - ). | Schermata di attesa.                                               |
 | Domanda: scelta multipla senza allegato            | Domanda + 4 opzioni a scelta multipla.                                                      | Schermata di risposta a scelta multipla.                           |
 | Domanda: scelta multipla con allegato              | Domanda + 4 opzioni a scelta multipla + un allegato visivo.                                 | Schermata di risposta a scelta multipla.                           |
 | Domanda: domanda aperta senza allegato             | Solo la domanda.                                                                            | Campo di testo e pulsante di invio.                                |

@@ -61,4 +61,4 @@ Una ronda de Actividad te permite alejarte de las preguntas estándar del quiz p
 
 ---
 
-La ronda de Actividad es perfecta para retos interactivos, duelos o tareas creativas — ¡una excelente forma de añadir energía y variedad a tu evento QuizWitz!
+La ronda de Actividad es perfecta para retos interactivos, duelos o tareas creativas - ¡una excelente forma de añadir energía y variedad a tu evento QuizWitz!

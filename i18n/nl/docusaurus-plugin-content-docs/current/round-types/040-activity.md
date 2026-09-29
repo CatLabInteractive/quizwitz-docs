@@ -61,4 +61,4 @@ Een Activiteitenronde laat je even wegstappen van standaard quizvragen voor een 
 
 ---
 
-De Activiteitronde is perfect voor interactieve uitdagingen, duels of creatieve opdrachten — een geweldige manier om energie en variatie toe te voegen aan je QuizWitz evenement!
+De Activiteitronde is perfect voor interactieve uitdagingen, duels of creatieve opdrachten - een geweldige manier om energie en variatie toe te voegen aan je QuizWitz evenement!

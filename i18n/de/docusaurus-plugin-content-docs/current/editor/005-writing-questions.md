@@ -23,10 +23,10 @@ Klicke auf das **Zahnrad-Symbol** oben links bei einer Frage, um das volle Einst
 
 ### 🎮 Modus & Punktevergabe
 
-- **Fragetyp** — Wähle, wie die Frage gespielt wird (z. B. Multiple Choice, offene Antwort, Puzzle)  
+- **Fragetyp** - Wähle, wie die Frage gespielt wird (z. B. Multiple Choice, offene Antwort, Puzzle)  
   → Erfahre mehr unter [Fragetypen](../question-types/000-question-types.md)
-- **Punkte** — Lege fest, wie viele Punkte eine richtige Antwort wert ist
-- **Frage-Timer** — Stelle mit dem Schieberegler das Zeitlimit ein
+- **Punkte** - Lege fest, wie viele Punkte eine richtige Antwort wert ist
+- **Frage-Timer** - Stelle mit dem Schieberegler das Zeitlimit ein
 
 ---
 
@@ -34,12 +34,12 @@ Klicke auf das **Zahnrad-Symbol** oben links bei einer Frage, um das volle Einst
 
 Passe an, wie sich die Frage während des Spiels verhält:
 
-- **Punktevergabe nach Zeit** — Belohne Spieler, die schneller antworten
-- **Mehrere richtige Antworten** — Erlaube mehr als eine gültige Antwortmöglichkeit
-- **Zufällige Antwortreihenfolge** — Mische die Optionen auf dem Bildschirm
-- **Timer stoppen, wenn alle geantwortet haben** — Gehe weiter, sobald alle Antworten eingegangen sind
-- **Frageergebnisse anzeigen** — Zeige Feedback nach der Frage (oder deaktiviere es)
-- **Ergebnisse nach der Frage erzwingen** — Gilt nur, wenn Feedback normalerweise verzögert wäre (z. B. in Blitzrunden oder bei offenen Fragen). Bei Standardfragen ohne Jury-Interaktion wird Feedback automatisch nach jeder Frage angezeigt.
+- **Punktevergabe nach Zeit** - Belohne Spieler, die schneller antworten
+- **Mehrere richtige Antworten** - Erlaube mehr als eine gültige Antwortmöglichkeit
+- **Zufällige Antwortreihenfolge** - Mische die Optionen auf dem Bildschirm
+- **Timer stoppen, wenn alle geantwortet haben** - Gehe weiter, sobald alle Antworten eingegangen sind
+- **Frageergebnisse anzeigen** - Zeige Feedback nach der Frage (oder deaktiviere es)
+- **Ergebnisse nach der Frage erzwingen** - Gilt nur, wenn Feedback normalerweise verzögert wäre (z. B. in Blitzrunden oder bei offenen Fragen). Bei Standardfragen ohne Jury-Interaktion wird Feedback automatisch nach jeder Frage angezeigt.
 
 ---
 
@@ -47,9 +47,9 @@ Passe an, wie sich die Frage während des Spiels verhält:
 
 Diese Felder kontrollieren, was auf der Quizmaster-App und dem Spielbildschirm erscheint:
 
-- **Spielbildschirm - Feedback zur Frage** — Wird allen Spielern nach dem Feedback angezeigt
-- **Quizmaster - Lange Frage** — Eine Version der Frage, die vom Quizmaster vorgelesen werden soll
-- **Quizmaster - Langes Feedback** — Text der Quizmaster lesen kann, nachdem die richtige Antwort aufgedeckt wurde
+- **Spielbildschirm - Feedback zur Frage** - Wird allen Spielern nach dem Feedback angezeigt
+- **Quizmaster - Lange Frage** - Eine Version der Frage, die vom Quizmaster vorgelesen werden soll
+- **Quizmaster - Langes Feedback** - Text, den der Quizmaster vorlesen kann, nachdem die richtige Antwort aufgedeckt wurde
 
 > 📝 Diese Felder sorgen dafür, dass Live-Präsentationen dynamisch und professionell wirken.
 
@@ -61,8 +61,8 @@ Diese Felder kontrollieren, was auf der Quizmaster-App und dem Spielbildschirm e
 
 Du kannst Fragen mit Bildern, Videos oder Audio ergänzen. Jeder Anhang kann zu bestimmten Zeitpunkten angezeigt werden:
 
-- **Vor / Während / Nach der Frage** — Wird rund um die Zeit gezeigt, wenn die Frage gestellt wird
-- **Vor / Während / Nach dem Feedback** — Wird gezeigt, wenn Ergebnisse offenbart werden
+- **Vor / Während / Nach der Frage** - Wird rund um die Zeit gezeigt, wenn die Frage gestellt wird
+- **Vor / Während / Nach dem Feedback** - Wird gezeigt, wenn Ergebnisse offenbart werden
 - ...
 
 > 🧠 Anhänge sind besonders nützlich, um Spannung aufzubauen, Antworten zu veranschaulichen oder Kontext zu liefern.

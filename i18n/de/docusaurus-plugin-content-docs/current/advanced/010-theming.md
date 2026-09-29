@@ -14,14 +14,14 @@ QuizWitz-Themes werden mit **Adobe Animate** erstellt. Du kannst eine [Theme-Vor
 Du möchtest es lieber den Profis überlassen? Sende uns eine E-Mail an [support@catlab.be](mailto:support@catlab.be) und wir erstellen dir ein Angebot, um dein Design in ein einsatzbereites QuizWitz-Theme zu verwandeln.
 
 :::tip
-Having a graphic designer draw the theme and someone else assemble it in Animate is a common arrangement. The [theme design guide](012-theme-design-guide.md) describes what the designer has to deliver for that to work.
+Dass ein Grafikdesigner das Theme zeichnet und jemand anderes es in Animate zusammenbaut, ist eine gängige Arbeitsteilung. Der [Leitfaden für das Theme-Design](012-theme-design-guide.md) beschreibt, was der Designer dafür liefern muss.
 :::
 
 ---
 
 ## 🧪 Theme-Test-Tool
 
-Wenn du bereit bist, dein Theme zu testen, **zippe den Inhalt deines Design-Ordners** (— nicht den Ordner selbst; wenn du die ZIP öffnest, solltest du deine Dateien sehen, und nicht nur einen einzelnen Ordner —) und lade es auf unseren [Theme-Tester](https://themes.quizwitz.com/) hoch. So erhältst du eine Live-Vorschau, wie dein Theme im Spiel aussehen wird.
+Wenn du bereit bist, dein Theme zu testen, **zippe den Inhalt deines Design-Ordners** ( - nicht den Ordner selbst; wenn du die ZIP öffnest, solltest du deine Dateien sehen, und nicht nur einen einzelnen Ordner - ) und lade es auf unseren [Theme-Tester](https://themes.quizwitz.com/) hoch. So erhältst du eine Live-Vorschau, wie dein Theme im Spiel aussehen wird.
 
 Nach dem Testen sende uns die ZIP-Datei per E-Mail zu, und wir verknüpfen sie mit deinem Konto, damit du dein Theme in deinen Quizzen auswählen und verwenden kannst.
 
@@ -42,7 +42,7 @@ Alle benutzerdefinierten Designs müssen das QuizWitz-Logo enthalten.
 | Spiel-Einführung                                         | Animation vor dem Spiel.                                                               | Wartebildschirm.                                        |
 | Runden-Einführung                                        | Animation vor jeder Runde.                                                             | Wartebildschirm.                                        |
 | Fragen                                                   |                                                                                                        |                                                                         |
-| Anhang                                                   | Anhangansicht im Vollbild (— vor/nach Fragen oder Runden —).        | Wartebildschirm.                                        |
+| Anhang                                                   | Anhangansicht im Vollbild ( - vor/nach Fragen oder Runden - ).      | Wartebildschirm.                                        |
 | Frage: Multiple Choice ohne Anhang       | Frage + 4 Multiple-Choice-Optionen.                                                    | Multiple-Choice-Antwortbildschirm.                      |
 | Frage: Multiple Choice mit Anhang        | Frage + 4 Multiple-Choice-Optionen + ein visueller Anhang.                             | Multiple-Choice-Antwortbildschirm.                      |
 | Frage: Offene Frage ohne Anhang          | Nur die Frage.                                                                         | Texteingabe- und Absenden-Schaltfläche.                 |

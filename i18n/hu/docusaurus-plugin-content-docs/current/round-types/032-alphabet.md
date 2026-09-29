@@ -27,10 +27,10 @@ Az **Ábécé** forduló egy csavarral feldobott [Hagyományos forduló](030-tra
 
 ## 📝 Hogyan működik
 
-- Ahogy elhangzanak a kérdések, a játékosok egy válaszmező-listát látnak — minden kérdéshez egyet.
-- **A válaszmezők nem a kvíz sorrendjében vannak** — ehelyett címke szerint ábécérendbe vannak rendezve.
+- Ahogy elhangzanak a kérdések, a játékosok egy válaszmező-listát látnak - minden kérdéshez egyet.
+- **A válaszmezők nem a kvíz sorrendjében vannak** - ehelyett címke szerint ábécérendbe vannak rendezve.
 - A játékosoknak a válaszaikat a megfelelő címkézett mezőkhöz kell párosítaniuk (pl. a "Bear" kérdésre adott választ a "B" címke alá kell beírni).
-- A válaszok bármikor módosíthatók, amíg a forduló véget nem ér — a játékosok áttehetik a válaszokat a mezők között, amikor rájönnek a hibáikra.
+- A válaszok bármikor módosíthatók, amíg a forduló véget nem ér - a játékosok áttehetik a válaszokat a mezők között, amikor rájönnek a hibáikra.
 
 ---
 

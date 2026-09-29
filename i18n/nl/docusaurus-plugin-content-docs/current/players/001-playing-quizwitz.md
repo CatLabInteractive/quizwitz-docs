@@ -11,12 +11,12 @@ Welkom bij QuizWitz! Of je nu solo speelt of met vrienden, deze gids helpt je op
 
 ## 🎯 Kies wat je wilt spelen
 
-Begin met het bekijken van de beschikbare **Round-Abouts** — korte, thematische rondes met quizvragen. Gebruik het menu bovenaan het scherm om te verkennen:
+Begin met het bekijken van de beschikbare **Round-Abouts** - korte, thematische rondes met quizvragen. Gebruik het menu bovenaan het scherm om te verkennen:
 
-- **Nieuw** — Ontdek de nieuwste Round-Abouts
-- **Mijn Collectie** — Toegang tot alles wat je hebt opgeslagen of gemaakt
-- **Verzamel** — Vind Round-Abouts gemaakt door de community
-- **Snel Spelen** — Begin met een willekeurige selectie
+- **Nieuw** - Ontdek de nieuwste Round-Abouts
+- **Mijn collectie** - Toegang tot alles wat je hebt opgeslagen of gemaakt
+- **Verzamel** - Vind Round-Abouts gemaakt door de community
+- **Snel spelen** - Begin met een willekeurige selectie
 
 ![QuizWitz top navigatiebalk](/images/top-menu-play.png)
 
@@ -39,13 +39,13 @@ Dit omvat:
 - Bingos
 - ...
 
-Je kunt items altijd organiseren, spelen of verwijderen. Dit is je persoonlijke bibliotheek — bouw 'm zoals jij wilt!
+Je kunt items altijd organiseren, spelen of verwijderen. Dit is je persoonlijke bibliotheek - bouw 'm zoals jij wilt!
 
 ---
 
 ## 🧠 Kies een Round-About
 
-Een **Round-About** is een kleine, thematische ronde met vragen — zoals de naam zegt: een ronde _over_ (about) een onderwerp. Het spelen van slechts één geeft je een kort spel met 7 willekeurige vragen.
+Een **Round-About** is een kleine, thematische ronde met vragen - zoals de naam zegt: een ronde _over_ (about) een onderwerp. Het spelen van slechts één geeft je een kort spel met 7 willekeurige vragen.
 
 Om een Round-About in meer detail te bekijken:
 
@@ -63,7 +63,7 @@ Wil je een volledige quiz maken van meerdere Round-Abouts? Zo doe je dat:
 - Klik op **Toevoegen aan mijn collectie** binnen de Round-About
 - Of klik op het **sterren-icoon** op de Round-About tegel
 
-Om er later één te verwijderen, klik je nogmaals op de ster — het zal nu zeggen **Verwijderen uit mijn collectie**.
+Om er later één te verwijderen, klik je nogmaals op de ster - het zal nu zeggen **Verwijderen uit mijn collectie**.
 
 ![Voeg een Round-About toe aan je collectie](/images/add-to-collection.png)
 
@@ -80,7 +80,7 @@ Wanneer je klaar bent:
 
 Kies:
 
-- **Spelmodus** — Single player of Party Game
+- **Spelmodus** - Single player of Party Game
 - **Welke Round-Abouts** je wilt opnemen in je sessie
 
 QuizWitz zal proberen vragen te vermijden die je al hebt gezien.
@@ -107,17 +107,17 @@ Als je spel begint, kies je je modus:
 
 Speel met vrienden via hun eigen telefoons of tablets:
 
-> 📺 Zorg dat het spelscherm zichtbaar is — gebruik een gedeeld scherm of deel je scherm
+> 📺 Zorg dat het spelscherm zichtbaar is - gebruik een gedeeld scherm of deel je scherm
 
 1. Klik op **Start**, en dan **Party Game**
 2. Spelers volgen de instructies op het scherm om mee te doen
 3. Klik op **Start quiz** als iedereen klaar is
 
-Zodra de quiz start, **verloopt het spel automatisch** — vragen verschijnen, timers tellen af en scores worden bijgehouden zonder dat de host iets hoeft te doen.
+Zodra de quiz start, **verloopt het spel automatisch** - vragen verschijnen, timers tellen af en scores worden bijgehouden zonder dat de host iets hoeft te doen.
 
 > ⏸️ Een pauze nodig? Beweeg je muis naar de onderkant van het spelscherm en er verschijnt een **pauzeknop**. Pauzeren is de enige manier om een Party Game te onderbreken.
 >
-> Wil je zelf het tempo van het spel bepalen — en beslissen wanneer elke vraag begint? Dat kan alleen met [**QuizWitz Live**](../quizmaster/001-introduction.md) en de Quizmaster App.
+> Wil je zelf het tempo van het spel bepalen - en beslissen wanneer elke vraag begint? Dat kan alleen met [**QuizWitz Live**](../quizmaster/001-introduction.md) en de Quizmaster App.
 
 ![QuizWitz start screen](/images/quizwitz-start-screen.png)\
 ![QuizWitz start screen party](/images/quizwitz-start-screen-party.png)\

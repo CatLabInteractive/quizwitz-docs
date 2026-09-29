@@ -3,9 +3,9 @@ id: startup
 title: Indulás
 ---
 
-# 🚀 Indulás — kvíz vezetése a QuizWitz Live segítségével
+# 🚀 Indulás - kvíz vezetése a QuizWitz Live segítségével
 
-Üdv a QuizWitz Live-ban — ez a profi módja annak, hogy kvízeket tarts csapatoknak, élő közvetítésekhez és személyes eseményeken. Kövesd ezt az útmutatót, hogy a Quizmaster App segítségével gyorsan elindítsd a kvízedet.
+Üdv a QuizWitz Live-ban - ez a profi módja annak, hogy kvízeket tarts csapatoknak, élő közvetítésekhez és személyes eseményeken. Kövesd ezt az útmutatót, hogy a Quizmaster App segítségével gyorsan elindítsd a kvízedet.
 
 ---
 
@@ -23,7 +23,7 @@ QuizWitz Live játékot indíthatsz a kvízszerkesztőből vagy közvetlenül a 
 
 ## 🔐 Csatlakozás a quizmaster kóddal
 
-Az indítás után a képernyődön megjelenik egy **quizmaster kód**. **Ne oszd meg ezt a kódot a játékosokkal** — ezzel kapcsolod a prezentációs eszközödet a játékhoz.
+Az indítás után a képernyődön megjelenik egy **quizmaster kód**. **Ne oszd meg ezt a kódot a játékosokkal** - ezzel kapcsolod a prezentációs eszközödet a játékhoz.
 
 - A quizmaster eszközödön nyisd meg a [quizwitz.tv](https://quizwitz.tv) oldalt, és írd be a quizmaster kódot.
 - Megjelenik a **Quizmaster App felülete**, ahol te irányítod a játékot.
@@ -51,13 +51,13 @@ Kapcsolódás után két játékmód közül választhatsz:
 
 - Minden csapat kap egy **egyedi kódot**, amely több eszközön is megnyitható.
 - A legjobb választás **előre regisztrált csapatkvízekhez**, amikor előre tudod a csapatneveket.
-- Lehetővé teszi az eszközváltást — jól jön, ha a kvíz közben lemerül egy akkumulátor.
+- Lehetővé teszi az eszközváltást - jól jön, ha a kvíz közben lemerül egy akkumulátor.
 
 ### Egyetlen játékkód
 
 - Mindenki **egy közös Játékkóddal** csatlakozik.
 - Ideális laza hangulatú vagy nyílt hozzáférésű eseményekhez.
-- Nincs szükség előzetes regisztrációra — a játékosok bármikor csatlakozhatnak, amíg be nem telik az aktív Seats-keret.
+- Nincs szükség előzetes regisztrációra - a játékosok bármikor csatlakozhatnak, amíg be nem telik az összes aktív seat.
 
 > Győződj meg róla, hogy be vagy jelentkezve, hogy hozzáférj a kvíztartalmaidhoz.
 
@@ -71,13 +71,13 @@ Kapcsolódás után két játékmód közül választhatsz:
 - Nyomd meg a **‘Generate Codes’** gombot a belépőkódok létrehozásához  
   ![Quizmaster app - csapatok létrehozása](/images/quizmaster-app-create-teams.png)
 
-Előre is **lefoglalhatsz kódokat** — erről bővebben a tippek és trükkök részben olvashatsz.
+Előre is **lefoglalhatsz kódokat** - erről bővebben a tippek és trükkök részben olvashatsz.
 
 Mindenképp **mentsd el a következő kódokat**:
 
 - **Quizmaster kód** - a kvíz irányításához
-- **Zsűrikód** — kézi pontszám-korrekciókhoz
-- **Regie-kód** — a vizuális és technikai elemek irányításához
+- **Zsűrikód** - kézi pontszám-korrekciókhoz
+- **Rendezői kód** - a vizuális és technikai elemek irányításához
 
 Küldd el a csapatkódokat a játékosaidnak e-mailben, vagy add oda nekik nyomtatva.
 
