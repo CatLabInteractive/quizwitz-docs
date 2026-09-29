@@ -1,52 +1,52 @@
 ---
 id: grid-question
-title: Grid question
+title: Rács kérdés
 ---
 
-# 🔲 Grid question
+# 🔲 Rács kérdés
 
-In a **Grid question**, all answer options are shown as a grid of cells. Players select every cell they think is correct - for example "Select all the countries in South America" or "Which of these animals are mammals?"
-
----
-
-## 📝 How it works
-
-- **Question:** Clearly state what players should select.
-- **Options:** Enter all the cells of the grid, and mark every correct one. The options are arranged in a square grid on the player's device and on the game screen.
-- **Player input:** Players tap cells to select or deselect them, up to the maximum number of answers. When the minimum and maximum number of answers are the same, the answer is sent as soon as that many cells are selected.
-- **Wrong cells cost nothing:** selecting a wrong cell doesn't take points away.
-- **Feedback:** After answering, players see which cells were correct.
+A **rács kérdésben** az összes válaszlehetőség cellák rácsaként jelenik meg. A játékosok minden olyan cellát kijelölnek, amelyet helyesnek gondolnak - például „Jelöld ki az összes dél-amerikai országot” vagy „Ezek közül melyik állatok emlősök?”
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Hogyan működik
 
-- **Minimum and maximum answers:** Define how many cells a player may select. By default the maximum is the number of correct options.
-- **Points are awarded:**
-  - _For each correct answer_ (default) - players earn the question's points for every correct cell they select.
-  - _Only with the minimum number of correct answers_ - players earn the question's points once, when they select at least the minimum number of correct cells.
-
-> ⚠️ When you choose _Only with the minimum number of correct answers_, set the minimum answers to at least 1. Without a minimum, every answer - even an empty one - earns the full points.
-
-See [writing questions](../editor/005-writing-questions.md) for general question settings.
+- **Kérdés:** Fogalmazd meg egyértelműen, mit kell kijelölniük a játékosoknak.
+- **Válaszlehetőségek:** Add meg a rács összes celláját, és jelöld meg az összes helyeset. A válaszlehetőségek négyzetes rácsban jelennek meg a játékos eszközén és a játékképernyőn.
+- **Játékosi bevitel:** A játékosok koppintással jelölik ki a cellákat vagy szüntetik meg a kijelölésüket, legfeljebb a válaszok maximális számáig. Ha a válaszok minimális és maximális száma megegyezik, a válasz elküldődik, amint ennyi cella ki van jelölve.
+- **A helytelen cellák nem kerülnek semmibe:** egy helytelen cella kijelölése nem von le pontot.
+- **Visszajelzés:** Válaszadás után a játékosok látják, mely cellák voltak helyesek.
 
 ---
 
-## 🏆 Scoring
+## ⚙️ Kibővített beállítások
 
-Grid questions use **time-based scoring** by default: faster answers earn more points, but most of the points are fixed.
-You can turn off time-based scoring per question.
+- **Minimum és maximum válaszok:** Határozd meg, hány cellát jelölhet ki egy játékos. Alapértelmezés szerint a maximum a helyes válaszlehetőségek száma.
+- **Pontozás módja:**
+  - _Minden helyes válaszért_ (alapértelmezett) - a játékosok minden kijelölt helyes celláért megkapják a kérdés pontjait.
+  - _Csak a minimális számú helyes válasz esetén_ - a játékosok egyszer kapják meg a kérdés pontjait, ha legalább a minimális számú helyes cellát kijelölik.
 
-See [Scoring options in round settings](../editor/008-round-options.md#scoring) for details.
+> ⚠️ Ha a _Csak a minimális számú helyes válasz esetén_ lehetőséget választod, állítsd a minimális válaszszámot legalább 1-re. Minimum nélkül minden válasz - még az üres is - a teljes pontszámot éri.
 
----
-
-## 💡 Tips for great grid questions
-
-- **Keep the grid readable:** short option texts work best. Nine or sixteen cells make a neat square.
-- **Add convincing wrong cells:** since wrong cells cost nothing, the challenge is in finding all the right ones.
-- **Tell players how many to find:** mention it in the question, or set the minimum and maximum answers to the same number.
+Az általános kérdésbeállításokért lásd a [kérdések írása](../editor/005-writing-questions.md) részt.
 
 ---
 
-Grid questions are perfect for "select all that apply" challenges!
+## 🏆 Pontozás
+
+A rács kérdések alapértelmezés szerint **időalapú pontozást** használnak: a gyorsabb válaszok több pontot érnek, de a pontok nagy része fix.
+Az időalapú pontozás kérdésenként kikapcsolható.
+
+Részletekért lásd a [forduló beállításainak pontozási lehetőségeit](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Tippek jó rács kérdésekhez
+
+- **Tartsd olvashatónak a rácsot:** a rövid válaszszövegek működnek a legjobban. Kilenc vagy tizenhat cellából szép négyzet lesz.
+- **Adj hozzá meggyőző helytelen cellákat:** mivel a helytelen cellák nem kerülnek semmibe, a kihívás abban rejlik, hogy mindegyik helyeset megtalálják.
+- **Mondd meg a játékosoknak, hányat kell megtalálniuk:** említsd meg a kérdésben, vagy állítsd a minimális és maximális válaszszámot ugyanarra az értékre.
+
+---
+
+A rács kérdések tökéletesek a „jelölj ki mindent, ami illik” típusú kihívásokhoz!
