@@ -5,7 +5,7 @@ title: Spoločná niť
 
 # 🧵 Spoločná niť
 
-Kolo **Spoločná niť** je špeciálna variácia klasického vedomostného kola. V tomto kole hráči odpovedajú na sériu bežných otázok, ale háčik je v tom, že všetky odpovede sú tajne prepojené jednou spoločnou témou alebo súvislosťou — „spoločnou niťou“.
+Kolo **Spoločná niť** je špeciálna variácia klasického vedomostného kola. V tomto kole hráči odpovedajú na sériu bežných otázok, ale háčik je v tom, že všetky odpovede sú tajne prepojené jednou spoločnou témou alebo súvislosťou - „spoločnou niťou“.
 
 ---
 
