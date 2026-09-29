@@ -6,13 +6,13 @@ sidebar_position: 1000
 
 # ⚠️ Obnovení po pádu živé hry
 
-Zamrzla ti hra? Zavřela se ti karta omylem? [**QuizWitz Live**](quizmaster/001-introduction.md) obsahuje vestavěný systém obnovení, který ti pomůže vrátit se zpátky do hry — bez ztráty postupu.
+Zamrzla ti hra? Zavřela se ti karta omylem? [**QuizWitz Live**](quizmaster/001-introduction.md) obsahuje vestavěný systém obnovení, který ti pomůže vrátit se zpátky do hry - bez ztráty postupu.
 
 ---
 
 ## 🔄 Jak funguje obnovení hry
 
-Pokud hra spadne, zasekne se nebo se z jakéhokoli důvodu přeruší — ať už kvůli problému s prohlížečem, restartu systému nebo náhodnému zavření karty — můžeš relaci snadno obnovit.
+Pokud hra spadne, zasekne se nebo se z jakéhokoli důvodu přeruší - ať už kvůli problému s prohlížečem, restartu systému nebo náhodnému zavření karty - můžeš hru snadno obnovit.
 
 Jen **znovu otevřete stejnou záložku prohlížeče**, kterou jste použili k zobrazení **obrazovky hry**. To je obrazovka, kterou promítáš nebo streamuješ svému publiku.
 
@@ -48,7 +48,7 @@ Místo toho můžeš také zvolit **spuštění nové hry**.
 ## 💡 Dobré vědět
 
 - Obnovení funguje jen tehdy, když se **vrátíš na stejnou herní obrazovku ve stejném prohlížeči**
-- **Nepřecházej** na jinou stránku — znovu otevři **přesnou URL adresu**, kterou jsi používal/a k hostování hry
+- **Nepřecházej** na jinou stránku - znovu otevři **přesnou URL adresu**, kterou jsi používal/a k hostování hry
 - Tato funkce pomáhá obnovit hru při:
   - Pádech prohlížeče
   - Zamrznutí nebo zaseknutí uprostřed kvízu
@@ -56,4 +56,4 @@ Místo toho můžeš také zvolit **spuštění nové hry**.
 
 ---
 
-Díky obnovení hry můžeš hostovat s jistotou — s vědomím, že i když se něco pokazí, můžeš navázat přesně tam, kde jsi skončil/a.
+Díky obnovení hry můžeš hostovat s jistotou - s vědomím, že i když se něco pokazí, můžeš navázat přesně tam, kde jsi skončil/a.
