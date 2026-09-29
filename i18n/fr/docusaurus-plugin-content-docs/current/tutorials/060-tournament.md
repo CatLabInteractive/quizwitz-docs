@@ -5,7 +5,7 @@ title: Tournoi
 
 # Tournoi
 
-Ce tutoriel vous montrera comment utiliser le mode tournoi de QuizWitz. Le mode tournoi permet aux joueurs de rejoindre et de jouer à votre quiz quand ils veulent — sur leur propre appareil. Leurs scores sont enregistrés sur un classement mondial que vous pouvez afficher dans votre lieu.
+Ce tutoriel vous montrera comment utiliser le mode tournoi de QuizWitz. Tournament mode lets players join and play your quiz whenever they want - on their own device. Leurs scores sont enregistrés sur un classement mondial que vous pouvez afficher dans votre lieu.
 
 ---
 
@@ -16,7 +16,7 @@ Lorsque vous créez un quiz de tournoi, gardez-le court et engageant. Si les vis
 
 ### 🎲 Sélection aléatoire des questions
 
-Faites en sorte que le jeu sélectionne un ensemble aléatoire de questions dans votre banque de questions, ainsi chaque partie est unique — et les joueurs qui reviennent obtiennent des questions différentes.
+Make the game select a random set of questions from your pool, so every playthrough feels unique - and returning players get different questions.
 
 **Exemple de configuration :**
 
@@ -43,8 +43,8 @@ Les tournois ne peuvent être lancés qu’à partir du menu **Options de jeu av
 
 Vous recevrez maintenant deux liens :
 
-- **Lien joueur** — Partagez-le avec vos joueurs (ou laissez-les scanner le QR code du classement).
-- **Lien classement** — Ouvrez-le sur un écran dans votre lieu pour afficher le classement en direct et le QR code que les joueurs peuvent scanner pour rejoindre.
+- **Player link** - Share this with your players (or let them scan the QR code from the leaderboard).
+- **Leaderboard link** - Open this on a display at your venue to show the live rankings and the QR code players can scan to join.
 
 ---
 
@@ -65,6 +65,6 @@ Une fois que les premiers joueurs ont terminé leurs parties, leurs scores seron
 
 ## 📧 Confirmation par e-mail
 
-Vous recevrez également un e-mail contenant les liens joueur et classement — pratique pour ne pas les perdre !
+You'll also get an email containing both the player and leaderboard links - handy so you don't lose them!
 
 ![Une capture d’écran de l’e-mail du tournoi](/images/tutorials/tournament/tournament-email.png)
