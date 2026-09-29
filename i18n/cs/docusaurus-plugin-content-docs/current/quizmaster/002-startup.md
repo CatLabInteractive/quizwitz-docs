@@ -57,7 +57,7 @@ Po připojení si vyber ze dvou herních režimů:
 
 - Všichni se připojí pomocí **jednoho sdíleného Game Code**.
 - Ideální pro neformální nebo volně přístupné akce.
-- No pre-registration required - players can join anytime, until all active seats are filled.
+- Není potřeba žádná předběžná registrace - hráči se můžou připojit kdykoli, dokud nejsou obsazená všechna aktivní seats.
 
 > Ujisti se, že jsi přihlášený/á, abys měl/a přístup ke svému obsahu kvízů.
 
@@ -71,13 +71,13 @@ Při použití **týmových kódů** nejdřív vytvoříš týmy v Quizmaster Ap
 - Stiskněte **'Generovat kódy'** pro vytvoření přístupových kódů  
   ![Quizmaster App - vytvořit týmy](/images/quizmaster-app-create-teams.png)
 
-You can also **reserve codes in advance** - more on that in the tips & tricks section.
+Můžeš si také **rezervovat kódy dopředu** - víc o tom najdeš v sekci tipy a triky.
 
 Nezapomeň si **uložit následující kódy**:
 
-- **Quizmaster code** - to control the quiz
-- **Jury Code** - for manual score adjustments
-- **Regie Code** - to control visual and technical elements
+- **Kód quizmastera** - pro ovládání kvízu
+- **Kód poroty** - pro ruční úpravy skóre
+- **Kód režie** - pro ovládání vizuálních a technických prvků
 
 Pošli týmové kódy hráčům e-mailem nebo jim je vytiskni.
 
@@ -92,7 +92,7 @@ Pokud je připraveno, klikněte na **'Načíst kvíz'**, počkejte na načtení 
 S **Jednotným kódem hry** schématu:
 
 - Obdržíte kvíza, porost a regie kódy, plus jeden herní kód pro hráče.
-- The game code appears on the game screen - **display or stream it to your audience**.
+- Kód hry se zobrazí na herní obrazovce - **ukaž ho nebo ho vysílej svému publiku**.
 - Hráči se můžou připojit kdykoli, dokud nebude dosažen tvůj limit aktivních seats.
 
 Jakmile jsou hráči uvnitř:
