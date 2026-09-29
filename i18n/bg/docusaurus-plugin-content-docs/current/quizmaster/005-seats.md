@@ -3,16 +3,16 @@ id: seats
 title: Seats
 ---
 
-# 🎟️ QuizWitz PRO – Как работят Seats
+# 🎟️ QuizWitz PRO - How seats work
 
-Игрите QuizWitz PRO изискват **активни Seats**, за да свързват играчи. Seats са гъвкава система с плащане според ползването или базирана на лиценз, която се мащабира според нуждите ти — идеална за куизове в пъбове, livestreams и професионални куиз събития.
+Игрите QuizWitz PRO изискват **активни Seats**, за да свързват играчи. Seats are a flexible, pay-as-you-go or license-based system that scales with your needs - perfect for pub quizzes, livestreams, and professional quiz events.
 
 ---
 
 ## 🧑‍🤝‍🧑 Какво са Seats?
 
 - Всеки свързан **играч или отбор** в PRO игра изисква **1 активен seat**.
-- Можеш да организираш игри с **индивидуални играчи** или **отбори, които споделят едно устройство** — всеки се брои като един seat.
+- You can host games with **individual players** or **teams sharing one device** - each counts as one seat.
 - **Парти игрите и игрите с един играч** **не** изискват seats и са идеални за непринудена игра с приятели или семейство.
 
 ---
@@ -27,7 +27,7 @@ title: Seats
 
 ## 💼 Лицензи QuizWitz PRO
 
-Ако организираш куизове редовно, **лиценз QuizWitz PRO** ти дава **постоянно активни Seats**, които са винаги налични — няма нужда да ги активираш ръчно.
+If you host quizzes regularly, a **QuizWitz PRO license** gives you **permanently active seats** that are always available - no need to activate them manually.
 
 Наличните лицензионни нива включват:
 
@@ -39,7 +39,7 @@ title: Seats
 
 Тези Seats са идеални за повтарящи се събития, по-големи отборни настройки или професионални места за провеждане.
 
-> ⚠️ **Важно**: Ако трябва да организираш куиз с **повече играчи, отколкото лицензът ти позволява**, трябва да **активираш Seats с плащане според ползването** за пълния брой играчи. Seats от лиценза ти не се добавят към активираните ти Seats — те се **заменят** изцяло.
+> ⚠️ **Важно**: Ако трябва да организираш куиз с **повече играчи, отколкото лицензът ти позволява**, трябва да **активираш Seats с плащане според ползването** за пълния брой играчи. The seats from your license are not added to your activated seats - they are **replaced** entirely.
 
 ---
 
@@ -52,7 +52,7 @@ title: Seats
 - Всеки **PRO лиценз** включва **стойност под формата на безплатни кредити**.
 - Ако не си сигурен колко играчи ще се включат:
   - Можеш да **изчакаш всички да се свържат**, преди да активираш Seats.
-  - Или активирай повече Seats, отколкото са нужни — **неизползваните Seats автоматично се възстановяват** като кредити след изтичането им.
+  - Or, activate more seats than needed - **unused seats are automatically refunded** in credits after they expire.
 
 ---
 
@@ -80,4 +80,4 @@ title: Seats
 
 ---
 
-QuizWitz PRO ти дава гъвкави и професионални инструменти за провеждане на събития от всякакъв размер — независимо дали активираш Seats при нужда, или разчиташ на PRO лиценз за постоянен достъп.
+QuizWitz PRO gives you flexible and professional tools to run events of any size - whether you activate seats on demand or rely on a PRO license for always-on access.
