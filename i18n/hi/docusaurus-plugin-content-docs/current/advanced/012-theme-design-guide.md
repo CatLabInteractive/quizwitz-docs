@@ -7,14 +7,14 @@ title: थीम डिज़ाइन गाइड
 
 [थीमिंग](/docs/advanced/theming) बताती है कि QuizWitz थीम कैसे बनाई जाती है: Adobe Animate में, CreateJS लाइब्रेरी के रूप में एक्सपोर्ट करके. यह पेज उससे पहले वाले कदम के बारे में है - थीम को **डिज़ाइन** करने के बारे में.
 
-It is written for a graphic designer, and it assumes that design and Animate production are done by different people. Few designers still work in Adobe Animate, so a designer usually delivers artwork and someone else assembles the theme. That works well, as long as the artwork arrives in a shape the build can use. यह पेज उसी रूप का वर्णन करता है, और साथ ही उन चीज़ों की सूची भी है जो आप किसी डिज़ाइनर से कोटेशन माँगते समय माँगेंगे.
+यह एक ग्राफ़िक डिज़ाइनर के लिए लिखा गया है, और यह मानकर चलता है कि डिज़ाइन और Animate प्रोडक्शन अलग-अलग लोग करते हैं. अब कम ही डिज़ाइनर Adobe Animate में काम करते हैं, इसलिए आम तौर पर डिज़ाइनर आर्टवर्क देता है और कोई और थीम जोड़ता है. यह अच्छी तरह चलता है, बशर्ते आर्टवर्क ऐसे रूप में आए जिसे बिल्ड इस्तेमाल कर सके. यह पेज उसी रूप का वर्णन करता है, और साथ ही उन चीज़ों की सूची भी है जो आप किसी डिज़ाइनर से कोटेशन माँगते समय माँगेंगे.
 
-The page has four parts:
+इस पेज के चार हिस्से हैं:
 
-1. [What you are designing](#what-you-are-designing) - the screens a theme covers.
-2. [The eight frames](#eight-frames-and-an-element-sheet) and [the element sheet](#the-element-sheet), one by one, with screenshots.
-3. [Design rules](#design-rules) - how the file has to be built so the engine can use it.
-4. [What to hand over](#what-to-hand-over) - source file, deliverables and order of work.
+1. [आप क्या डिज़ाइन कर रहे हैं](#what-you-are-designing) - वे स्क्रीन जो एक थीम में आती हैं.
+2. [आठ फ़्रेम](#eight-frames-and-an-element-sheet) और [एलिमेंट शीट](#the-element-sheet), एक-एक करके, स्क्रीनशॉट के साथ.
+3. [डिज़ाइन के नियम](#design-rules) - फ़ाइल कैसे बनी होनी चाहिए ताकि इंजन उसे इस्तेमाल कर सके.
+4. [क्या सौंपना है](#what-to-hand-over) - स्रोत फ़ाइल, सौंपी जाने वाली चीज़ें और काम का क्रम.
 
 :::tip
 अगर आप सिर्फ़ रंग, फ़ॉन्ट और बैकग्राउंड बदलना चाहते हैं, तो आपको इनमें से कुछ भी नहीं चाहिए - इसके बजाय [Emerald थीम](/docs/advanced/emerald-theme) को अपने हिसाब से बदलें.
@@ -37,32 +37,32 @@ QuizWitz का एक गेम पूरा हॉल एक साथ खे�
 
 ---
 
-## Eight frames and an element sheet
+## आठ फ़्रेम और एक एलिमेंट शीट
 
-गेम में दर्जनों अलग-अलग स्क्रीन अवस्थाएँ हैं, लेकिन ज़्यादातर एक ही लेआउट के रूप हैं. **You design eight frames and one sheet of elements; the rest is derived from them.** That is not a shortcut - it is how the engine works. जिस स्क्रीन का अपना आर्टवर्क नहीं होता, वह सामान्य फ़्रेम पर लौट आती है.
+गेम में दर्जनों अलग-अलग स्क्रीन अवस्थाएँ हैं, लेकिन ज़्यादातर एक ही लेआउट के रूप हैं. **आप आठ फ़्रेम और एलिमेंट की एक शीट डिज़ाइन करते हैं; बाकी सब उन्हीं से निकलता है.** यह कोई शॉर्टकट नहीं है - इंजन इसी तरह काम करता है. जिस स्क्रीन का अपना आर्टवर्क नहीं होता, वह सामान्य फ़्रेम पर लौट आती है.
 
-The sheet matters as much as the frames: a fall-back screen still needs furniture inside its content area - a panel, a row, a rule.
+शीट उतनी ही मायने रखती है जितने फ़्रेम: सामान्य फ़्रेम पर लौटने वाली स्क्रीन को भी अपने कॉन्टेंट एरिया में सामान चाहिए - एक पैनल, एक रो, एक लकीर.
 
-| # | फ़्रेम                                                          | Also covers                                                               |
-| - | --------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 1 | [General frame](#frame-1---the-general-frame)                   | Thirteen screen states with no artwork of their own                       |
-| 2 | [Connect screen](#frame-2---the-connect-screen)                 | Draw it twice: with a client logo and without one         |
-| 3 | [Waiting screen](#frame-3---the-waiting-screen)                 | -                                                                         |
-| 4 | [Question screen](#frame-4---the-question-screen)               | -                                                                         |
-| 5 | [Question with attachment](#frame-5---question-with-attachment) | The full-screen attachment, and attachments shown between questions       |
-| 6 | [Answer screen](#frame-6---the-answer-screen)                   | The answer screen for open questions and for questions with an attachment |
-| 7 | [Standings and winner](#frame-7---standings-and-winner)         | The standings between rounds and the final winner                         |
-| 8 | [Round intro](#frame-8---the-round-intro)                       | All six round categories                                                  |
+| # | फ़्रेम                                                    | इसमें यह भी आता है                                                    |
+| - | --------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1 | [सामान्य फ़्रेम](#frame-1---the-general-frame)            | तेरह स्क्रीन अवस्थाएँ जिनका अपना आर्टवर्क नहीं है                     |
+| 2 | [कनेक्ट स्क्रीन](#frame-2---the-connect-screen)           | इसे दो बार बनाएँ: क्लाइंट लोगो के साथ और उसके बिना    |
+| 3 | [वेटिंग स्क्रीन](#frame-3---the-waiting-screen)           | -                                                                     |
+| 4 | [सवाल स्क्रीन](#frame-4---the-question-screen)            | -                                                                     |
+| 5 | [अटैचमेंट वाला सवाल](#frame-5---question-with-attachment) | पूरी स्क्रीन वाला अटैचमेंट, और सवालों के बीच दिखाए जाने वाले अटैचमेंट |
+| 6 | [जवाब स्क्रीन](#frame-6---the-answer-screen)              | ओपन सवालों और अटैचमेंट वाले सवालों की जवाब स्क्रीन                    |
+| 7 | [रैंकिंग और विजेता](#frame-7---standings-and-winner)      | राउंड के बीच की रैंकिंग और आख़िरी विजेता                              |
+| 8 | [राउंड इंट्रो](#frame-8---the-round-intro)                | राउंड की सभी छह कैटेगरी                                               |
 
-:::note[About the screenshots]
-नीचे दी गई स्क्रीन एक मौजूदा थीम से हैं. They show **which elements appear on each screen and when**. ये न शैली की और _न ही_ लेआउट की मिसाल हैं: यह थीम अपना सवाल, अपने विकल्प और अपना टाइमर कहाँ रखती है, यह उसका अपना फ़ैसला है, और आपका बिलकुल अलग हो सकता है.
+:::note[स्क्रीनशॉट के बारे में]
+नीचे दी गई स्क्रीन एक मौजूदा थीम से हैं. ये दिखाती हैं कि **हर स्क्रीन पर कौन-से एलिमेंट और कब दिखते हैं**. ये न शैली की और _न ही_ लेआउट की मिसाल हैं: यह थीम अपना सवाल, अपने विकल्प और अपना टाइमर कहाँ रखती है, यह उसका अपना फ़ैसला है, और आपका बिलकुल अलग हो सकता है.
 :::
 
 ### फ़्रेम 1 - सामान्य फ़्रेम
 
-**What is on it:** the background, a header title and an empty content area below it. It is not a finished composition but the frame the rest is built inside.
+**इस पर क्या है:** बैकग्राउंड, एक हेडर शीर्षक और उसके नीचे एक खाली कॉन्टेंट एरिया. यह कोई पूरी रचना नहीं, बल्कि वह फ़्रेम है जिसके अंदर बाकी सब बनता है.
 
-**What it covers:** thirteen screen states - round explanation, standings, player introduction, multiple-choice variants, long questions, seat warnings, settings. Each fills the content area its own way with elements from the [element sheet](#the-element-sheet), so the frame has to hold things that look nothing alike. सवाल पिकर और लंबे सवाल को अपनी अलग रचना मिल सकती है, अगर आप चाहें; वरना वे यही फ़्रेम इस्तेमाल करते हैं.
+**इसमें क्या आता है:** तेरह स्क्रीन अवस्थाएँ - राउंड की व्याख्या, रैंकिंग, खिलाड़ी परिचय, बहुविकल्पीय के रूप, लंबे सवाल, Seats की चेतावनियाँ, सेटिंग्स. हर एक कॉन्टेंट एरिया को [एलिमेंट शीट](#the-element-sheet) के एलिमेंट से अपने तरीके से भरती है, इसलिए फ़्रेम को ऐसी चीज़ें सँभालनी होती हैं जो एक-दूसरे से बिलकुल नहीं मिलतीं. सवाल पिकर और लंबे सवाल को अपनी अलग रचना मिल सकती है, अगर आप चाहें; वरना वे यही फ़्रेम इस्तेमाल करते हैं.
 
 एक ही फ़्रेम पर गेम के दो पल: एक सवाल पिकर और एक पॉइंट्स लैडर.
 
@@ -72,34 +72,34 @@ The sheet matters as much as the frames: a fall-back screen still needs furnitur
 
 देखिए कि इनमें कितना कम एक जैसा है. पिकर अपनी तीन पंक्तियाँ किनारे वाले पैनल के अंदर रखता है; लैडर में पैनल है ही नहीं, बस पतली लकीरों से अलग की गई पंक्तियाँ. दोनों में जो साझा है वह बैकग्राउंड और उनके ऊपर की हेडर पट्टी है - उसके नीचे जो कुछ है वह अलग-अलग स्क्रीन का है और उसे गेम भरता है, आप नहीं.
 
-That panel and those rules come from the [element sheet](#the-element-sheet), not from this frame. इस फ़्रेम को बस उन्हें सँभालना है: कॉन्टेंट एरिया को एक खाली, तटस्थ, खुली जगह की तरह डिज़ाइन करें जो किनारे वाले पैनल, सादी सूची और पंक्तियों की तालिका, तीनों के साथ बराबर चले. बीच में भरा-भरा बैकग्राउंड, या ऐसा हेडर जो सिर्फ़ ठीक नीचे लगे पैनल के साथ चलता हो, वहीं यह टूटता है.
+वह पैनल और वे लकीरें [एलिमेंट शीट](#the-element-sheet) से आती हैं, इस फ़्रेम से नहीं. इस फ़्रेम को बस उन्हें सँभालना है: कॉन्टेंट एरिया को एक खाली, तटस्थ, खुली जगह की तरह डिज़ाइन करें जो किनारे वाले पैनल, सादी सूची और पंक्तियों की तालिका, तीनों के साथ बराबर चले. बीच में भरा-भरा बैकग्राउंड, या ऐसा हेडर जो सिर्फ़ ठीक नीचे लगे पैनल के साथ चलता हो, वहीं यह टूटता है.
 
-### Frame 2 - the connect screen
+### फ़्रेम 2 - कनेक्ट स्क्रीन
 
-**What is on it:** everything the room needs in order to join.
+**इस पर क्या है:** वह सब कुछ जो हॉल को जुड़ने के लिए चाहिए.
 
-- five lines of instruction
-- a join code and a QR code, both generated by the engine - reserve a square for the QR code
-- a line with the number of connected players
-- a list of players trickling in
+- निर्देशों की पाँच पंक्तियाँ
+- एक गेम कोड और एक QR कोड, दोनों इंजन बनाता है - QR कोड के लिए एक वर्ग जगह छोड़ें
+- जुड़े हुए खिलाड़ियों की संख्या वाली एक पंक्ति
+- एक-एक करके आते खिलाड़ियों की सूची
 
-**Draw it twice:** with a client logo beside the join code, and without one, where the theme's own artwork carries the screen.
+**इसे दो बार बनाएँ:** गेम कोड के पास क्लाइंट लोगो के साथ, और उसके बिना, जहाँ थीम का अपना आर्टवर्क स्क्रीन को सँभालता है.
 
 ![क्लाइंट लोगो के साथ कनेक्ट स्क्रीन](/images/theme-design/frame2-connect.png)
 
 ![क्लाइंट लोगो के बिना कनेक्ट स्क्रीन](/images/theme-design/frame2-connect-nologo.png)
 
-### Frame 3 - the waiting screen
+### फ़्रेम 3 - वेटिंग स्क्रीन
 
-**What is on it:** almost nothing - the quiz's own logo, or the theme's artwork.
+**इस पर क्या है:** लगभग कुछ नहीं - क्विज़ का अपना लोगो, या थीम का आर्टवर्क.
 
-It shares only a background with the connect screen, so design it as its own composition. It stays up while the quizmaster reads a question aloud, which puts it on screen longer than almost anything else in the game. It deserves more attention than an empty screen usually gets.
+कनेक्ट स्क्रीन के साथ इसका सिर्फ़ बैकग्राउंड साझा है, इसलिए इसे एक अलग रचना के रूप में डिज़ाइन करें. जब क्विज़मास्टर कोई सवाल ज़ोर से पढ़ता है तब यह स्क्रीन पर रहती है, इसलिए यह गेम की लगभग किसी भी दूसरी चीज़ से ज़्यादा देर तक दिखती है. यह किसी खाली स्क्रीन को आम तौर पर मिलने वाले ध्यान से ज़्यादा ध्यान की हक़दार है.
 
 ![वेटिंग स्क्रीन](/images/theme-design/frame2-pending.png)
 
-### Frame 4 - the question screen
+### फ़्रेम 4 - सवाल स्क्रीन
 
-**What is on it:** the question, a timer, four answer options and a feedback line. This is the screen the room looks at longest. Note that an option can consist of nothing but an emoji:
+**इस पर क्या है:** सवाल, एक टाइमर, चार जवाब विकल्प और एक फ़ीडबैक पंक्ति. हॉल इसी स्क्रीन को सबसे ज़्यादा देर तक देखता है. ध्यान दें कि कोई विकल्प सिर्फ़ एक इमोजी भी हो सकता है:
 
 ![चार टेक्स्ट विकल्पों वाली सवाल स्क्रीन](/images/theme-design/frame3-question-options.png)
 
@@ -113,13 +113,13 @@ It shares only a background with the connect screen, so design it as its own com
 
 ![समय ख़त्म होने की अवस्था दिखाती सवाल स्क्रीन](/images/theme-design/frame3-question-timeout.png)
 
-### Frame 5 - question with attachment
+### फ़्रेम 5 - अटैचमेंट वाला सवाल
 
-**What is on it:** the same parts as frame 4, arranged around an image or video. It may be a different composition. अटैचमेंट को आपके बनाए बॉक्स में समाने के लिए स्केल किया जाता है, इसलिए उसमें चौड़ी और लंबी दोनों तरह की तस्वीरें ठीक दिखनी चाहिए.
+**इस पर क्या है:** फ़्रेम 4 वाले ही हिस्से, किसी तस्वीर या वीडियो के इर्द-गिर्द सजे हुए. यह एक अलग रचना हो सकती है. अटैचमेंट को आपके बनाए बॉक्स में समाने के लिए स्केल किया जाता है, इसलिए उसमें चौड़ी और लंबी दोनों तरह की तस्वीरें ठीक दिखनी चाहिए.
 
-**What it covers:** the full-screen attachment, and attachments shown between questions.
+**इसमें क्या आता है:** पूरी स्क्रीन वाला अटैचमेंट, और सवालों के बीच दिखाए जाने वाले अटैचमेंट.
 
-Here with the options to the left and right of the attachment:
+यहाँ विकल्प अटैचमेंट के बाएँ और दाएँ हैं:
 
 ![बीच में तस्वीर के साथ सवाल स्क्रीन](/images/theme-design/frame4-question-attachment.png)
 
@@ -127,13 +127,13 @@ Here with the options to the left and right of the attachment:
 
 ![पूरी स्क्रीन वाला अटैचमेंट](/images/theme-design/frame4-attachment-fullscreen.png)
 
-### Frame 6 - the answer screen
+### फ़्रेम 6 - जवाब स्क्रीन
 
-**What is on it:** which answer was correct, how the room's answers were spread across the options, and a feedback line.
+**इस पर क्या है:** कौन-सा जवाब सही था, हॉल के जवाब विकल्पों में कैसे बँटे, और एक फ़ीडबैक पंक्ति.
 
-**What it covers:** the answer screen for open questions and for questions with an attachment.
+**इसमें क्या आता है:** ओपन सवालों और अटैचमेंट वाले सवालों की जवाब स्क्रीन.
 
-The screen goes through three moments. पहले फैलाव, जिसमें अभी कुछ भी चिह्नित नहीं है:
+यह स्क्रीन तीन पलों से गुज़रती है. पहले फैलाव, जिसमें अभी कुछ भी चिह्नित नहीं है:
 
 ![फैलाव दिखाती जवाब स्क्रीन](/images/theme-design/frame5-answer-mc-spread.png)
 
@@ -153,35 +153,35 @@ The screen goes through three moments. पहले फैलाव, जिस�
 
 ![ओपन सवाल के लिए जवाब स्क्रीन](/images/theme-design/frame5-answer-open.png)
 
-### Frame 7 - standings and winner
+### फ़्रेम 7 - रैंकिंग और विजेता
 
-**What is on it:** a list of players with position, avatar, name and score. Supply the **player row** as a separate, reusable element: it is repeated six times by default, up to ten.
+**इस पर क्या है:** खिलाड़ियों की सूची, स्थान, अवतार, नाम और स्कोर के साथ. **खिलाड़ी रो** को एक अलग, दोबारा इस्तेमाल होने वाले एलिमेंट के रूप में दें: डिफ़ॉल्ट रूप से यह छह बार दोहराई जाती है, ज़्यादा से ज़्यादा दस बार.
 
-**What it covers:** the standings between rounds and the final winner.
+**इसमें क्या आता है:** राउंड के बीच की रैंकिंग और आख़िरी विजेता.
 
-The standings after a round, with six player rows:
+एक राउंड के बाद की रैंकिंग, छह खिलाड़ी रो के साथ:
 
 ![छह खिलाड़ी रो के साथ रैंकिंग](/images/theme-design/frame6-roundoutro.png)
 
-आख़िरी उलटी गिनती एक बार में एक खिलाड़ी का नाम लेती है, आख़िरी स्थान से पहले स्थान तक - स्थान, स्कोर और टीम का नाम रोशनी में. This is also where the [flying emoji](#flying-emoji-land-on-top-of-everything) are heaviest:
+आख़िरी उलटी गिनती एक बार में एक खिलाड़ी का नाम लेती है, आख़िरी स्थान से पहले स्थान तक - स्थान, स्कोर और टीम का नाम रोशनी में. यहीं [उड़ती इमोजी](#flying-emoji-land-on-top-of-everything) सबसे ज़्यादा होती हैं:
 
 ![एक खिलाड़ी का नाम लेती विजेता की उलटी गिनती](/images/theme-design/frame6-winner-countdown.png)
 
 ![आख़िरी रैंकिंग](/images/theme-design/frame6-winner.png)
 
-### Frame 8 - the round intro
+### फ़्रेम 8 - राउंड इंट्रो
 
-**What is on it:** a short announcement per round category. छह कैटेगरी हैं: विज्ञान और तकनीक, प्रकृति, मनोरंजन और संगीत, खेल, कला, इतिहास.
+**इस पर क्या है:** हर राउंड कैटेगरी के लिए एक छोटी घोषणा. छह कैटेगरी हैं: विज्ञान और तकनीक, प्रकृति, मनोरंजन और संगीत, खेल, कला, इतिहास.
 
-**What it covers:** all six categories. One design may serve several of them.
+**इसमें क्या आता है:** सभी छह कैटेगरी. एक डिज़ाइन इनमें से कई के काम आ सकता है.
 
-Here, one composition with a variant per category:
+यहाँ एक रचना, हर कैटेगरी के लिए एक रूप के साथ:
 
 ![प्रकृति कैटेगरी के लिए राउंड इंट्रो](/images/theme-design/frame7-roundintro-nature.png)
 
 ![विज्ञान कैटेगरी के लिए राउंड इंट्रो](/images/theme-design/frame7-roundintro-science.png)
 
-**A character is optional.** The stock QuizWitz theme has one that talks and reacts; the [Emerald theme](/docs/advanced/emerald-theme) ships without, and dropping it removes the most expensive animation work - lip sync, eyes, arms.
+**किरदार वैकल्पिक है.** मूल QuizWitz थीम में एक किरदार है जो बोलता है और प्रतिक्रिया देता है; [Emerald थीम](/docs/advanced/emerald-theme) बिना किरदार के आती है, और उसे हटाने से सबसे महँगा एनिमेशन काम हट जाता है - होंठों का तालमेल, आँखें, बाँहें.
 
 किरदार के बिना राउंड इंट्रो एक ग्राफ़िक, टाइपोग्राफ़िक या चित्रात्मक पल बन जाता है. दो तरीक़े काम को अनुपात में रखते हैं: हर कैटेगरी के लिए एक रंग या आइकॉन रूप वाली एक रचना, या एक ही सार्वभौमिक घोषणा जिसमें सिर्फ़ राउंड का नाम बदलता है. छह सचमुच अलग इंट्रो कुछ सेकंड की स्क्रीन के लिए बहुत काम हैं.
 
@@ -209,8 +209,8 @@ Here, one composition with a variant per category:
 
 ## आपके लिए क्या तय है
 
-- **The players' phones.** A fixed HTML layout.
-- **The handful of things the engine draws itself** - the rules between rows on the points ladder, the highlighted row in the question picker, the QR code. Their colours come from [Colour as a list](#colour-as-a-list).
+- **खिलाड़ियों के फ़ोन.** एक तय HTML लेआउट.
+- **वे गिनी-चुनी चीज़ें जो इंजन ख़ुद बनाता है** - पॉइंट्स लैडर पर पंक्तियों के बीच की लकीरें, सवाल पिकर में हाइलाइट की गई पंक्ति, QR कोड. उनके रंग [रंग एक सूची के रूप में](#colour-as-a-list) से आते हैं.
 - **कौन-सी स्क्रीन सामान्य फ़्रेम पर लौटती हैं, और कैसे.**
 - **छह कैटेगरी राउंड इंट्रो के आर्टवर्क से किस तरह जुड़ती हैं.** यह जोड़ एक कॉन्फ़िगरेशन सेटिंग है, इसलिए एक इंट्रो कई कैटेगरी के लिए दोबारा इस्तेमाल हो सकता है.
 - **सारा समय-निर्धारण और सभी एनिमेशन अवधियाँ.**
@@ -233,12 +233,12 @@ Here, one composition with a variant per category:
 
 **जो कुछ भी हिल सकता है, दिख सकता है या जिसका मान बदल सकता है, वह अपनी अलग नाम वाली लेयर पर होता है.** कुछ भी मिलाया हुआ नहीं, कुछ भी चपटा किया हुआ नहीं.
 
-In practice:
+व्यवहार में:
 
-- the four answer options are four separate layers, not one
-- the timer is separate from the background
-- a button and its label are two elements
-- a player row is one group that can be duplicated
+- चार जवाब विकल्प चार अलग लेयर हैं, एक नहीं
+- टाइमर बैकग्राउंड से अलग है
+- एक बटन और उसका लेबल दो एलिमेंट हैं
+- एक खिलाड़ी रो एक समूह है जिसकी नक़ल बनाई जा सकती है
 
 क्या मिलाया जा सकता है: विशुद्ध सजावटी बैकग्राउंड आर्टवर्क जो एक स्थिर तस्वीर की तरह काम करे.
 
@@ -248,13 +248,13 @@ In practice:
 
 इंजन HTML5 कैनवस पर बनाता है. इन्हें **तस्वीर में पका देना** पड़ता है या छोड़ देना पड़ता है:
 
-| Effect                                                                | What to do instead          |
-| --------------------------------------------------------------------- | --------------------------- |
-| Live blur, drop shadows and glow as filters                           | Supply them as artwork      |
-| Blend modes (multiply, screen, overlay)            | Resolve them to flat colour |
-| लेयर प्रभाव और समायोजन लेयर                                           | Bake them in                |
-| टेक्स्ट के **अंदर** ग्रेडिएंट, या हर अक्षर पर अलग किनारे वाला टेक्स्ट | Leave them out              |
-| हर फ़्रेम पर बदलने वाले मास्क                                         | Leave them out              |
+| प्रभाव                                                                | इसके बजाय क्या करें            |
+| --------------------------------------------------------------------- | ------------------------------ |
+| फ़िल्टर के रूप में लाइव ब्लर, ड्रॉप शैडो और ग्लो                      | इन्हें आर्टवर्क के रूप में दें |
+| ब्लेंड मोड (multiply, screen, overlay)             | इन्हें सपाट रंग में बदल दें    |
+| लेयर प्रभाव और समायोजन लेयर                                           | इन्हें तस्वीर में पका दें      |
+| टेक्स्ट के **अंदर** ग्रेडिएंट, या हर अक्षर पर अलग किनारे वाला टेक्स्ट | इन्हें छोड़ दें                |
+| हर फ़्रेम पर बदलने वाले मास्क                                         | इन्हें छोड़ दें                |
 
 आकृतियों में ग्रेडिएंट ठीक हैं. पारदर्शिता ठीक है. तय आर्टवर्क के रूप में परछाइयाँ ठीक हैं.
 
@@ -279,13 +279,13 @@ In practice:
 - **बारह भाषाएँ.** जर्मन के जोड़ शब्द लंबे होते हैं, और हंगेरियन भी कम दयालु नहीं है. जो बॉक्स अंग्रेज़ी में तंग है, वह जर्मन में न पढ़े जा सकने वाले छोटे आकार पर आ जाता है.
 - **टेक्स्ट के अंदर इमोजी आ सकती हैं.** खिलाड़ी अपनी टीम के नाम के पास एक चुनते हैं, और किसी सवाल या विकल्प में भी एक हो सकती है - कभी-कभी विकल्प सिर्फ़ एक इमोजी ही होता है. वे रंग में बनती हैं और अपने आसपास के अक्षरों से ऊँची होती हैं.
 
-**What the build needs to know about each text box:** where it is, how big it is, how it is aligned, which colour and which font. यह नहीं: किस पॉइंट आकार पर.
+**बिल्ड को हर टेक्स्ट बॉक्स के बारे में क्या जानना है:** वह कहाँ है, कितना बड़ा है, कैसे संरेखित है, कौन-सा रंग और कौन-सा फ़ॉन्ट. यह नहीं: किस पॉइंट आकार पर.
 
-**You can use this.** A large box with short text becomes a strong typographic composition by itself, and a box you deliberately make narrow and tall forces text into a column. Use the fitting as a design device; just do not design against it.
+**आप इसका इस्तेमाल कर सकते हैं.** छोटे टेक्स्ट वाला बड़ा बॉक्स अपने आप में एक दमदार टाइपोग्राफ़िक रचना बन जाता है, और जिस बॉक्स को आप जान-बूझकर पतला और ऊँचा बनाते हैं वह टेक्स्ट को एक कॉलम में ढाल देता है. इस फ़िटिंग को डिज़ाइन के एक औज़ार की तरह इस्तेमाल करें; बस इसके ख़िलाफ़ डिज़ाइन न करें.
 
 ### टाइमर - अनिवार्य, और यह एक एनिमेशन है
 
-**Every question screen has a timer**; the room has to see how much time is left.
+**हर सवाल स्क्रीन पर एक टाइमर होता है**; हॉल को दिखना चाहिए कि कितना समय बचा है.
 
 **टाइमर कोई गिनती करता हुआ अंक नहीं है, बल्कि एक एनिमेशन है जिसका प्लेहेड इंजन चलाता है.** आप "भरे" से "खाली" तक की एक प्रगति डिज़ाइन करते हैं - खाली होती पट्टी, बंद होता छल्ला, रेत घड़ी, सिकुड़ती लकीर. इंजन उस एनिमेशन को ठीक उसी रफ़्तार से चलाता है जिससे आख़िरी फ़्रेम सवाल के अंत के साथ मिले.
 
@@ -301,7 +301,7 @@ In practice:
 
 ### उड़ती इमोजी हर चीज़ के ऊपर आकर गिरती हैं
 
-हर खिलाड़ी जुड़ते समय एक इमोजी चुनता है, और गेम उन इमोजी को स्क्रीन पर उछालता है. They are drawn by the engine on a layer above the theme. **यहाँ आपके लिए डिज़ाइन करने को कुछ नहीं है** - लेकिन इनके इर्द-गिर्द डिज़ाइन करने को ज़रूर कुछ है, क्योंकि ये कोई विरली सजावट नहीं हैं.
+हर खिलाड़ी जुड़ते समय एक इमोजी चुनता है, और गेम उन इमोजी को स्क्रीन पर उछालता है. इन्हें इंजन थीम के ऊपर की एक लेयर पर बनाता है. **यहाँ आपके लिए डिज़ाइन करने को कुछ नहीं है** - लेकिन इनके इर्द-गिर्द डिज़ाइन करने को ज़रूर कुछ है, क्योंकि ये कोई विरली सजावट नहीं हैं.
 
 ये तीन पलों पर दिखती हैं:
 
@@ -314,7 +314,7 @@ In practice:
 - **रैंकिंग और विजेता स्क्रीन के निचले तिहाई हिस्से को छोटी या ज़रूरी हर चीज़ से ख़ाली रखें.** उलटी गिनती के दौरान वहाँ नीचे सचमुच भीड़ हो जाती है.
 - **मान लें कि ये आपके रंग-संयोजन से टकराएँगी.** ये Unicode तालिका के हर कोने से आई पूरे रंगों वाली इमोजी हैं, और कोई थीम इन पर काबू नहीं रखती. जो डिज़ाइन सिर्फ़ तंग रंग दायरे में टिकता है, वह उन सेकंडों में बेतरतीब लगेगा.
 - **जब तक कोई तस्वीर या वीडियो दिख रहा हो तब तक उछालना रोक दिया जाता है**, इसलिए अटैचमेंट वाली स्क्रीन साफ़ रहती हैं.
-- **The whole layer can be switched off per game**, so do not build a composition that depends on them being there either.
+- **पूरी लेयर हर गेम के लिए बंद की जा सकती है**, इसलिए ऐसी रचना भी न बनाएँ जो इनके मौजूद होने पर निर्भर हो.
 
 ### फ़ॉन्ट
 
@@ -325,20 +325,20 @@ In practice:
 
 थीम एक कॉन्फ़िगरेशन फ़ाइल से रंगों की सूची पढ़ती है, और खिलाड़ियों के फ़ोन की स्टाइल भी उसी सूची से आती है. अपना रंग-संयोजन एक **नाम वाली सूची** के रूप में दें, सिर्फ़ आर्टवर्क में रंगों के रूप में नहीं:
 
-| Where                       | Colours                                                                                                                                                                                                                                                                |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Game screen**             | Main colour, accent colour, background, panel or container colour, timer background, default text colour, header text colour, question text colour, button text, dialog and explanation text, player name and score text, the colour for correct, the colour for wrong |
-| **The four answer options** | For each option: a background colour, a border colour, and one flat colour for the phones and the charts                                                                                                                                               |
-| **Players' phones**         | Background, text colour, outline colour, option outline colour, and the background and text colour of the answer container                                                                                                                                             |
+| कहाँ                   | रंग                                                                                                                                                                                                                                                       |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **गेम स्क्रीन**        | मुख्य रंग, एक्सेंट रंग, बैकग्राउंड, पैनल या कंटेनर का रंग, टाइमर का बैकग्राउंड, डिफ़ॉल्ट टेक्स्ट रंग, हेडर टेक्स्ट रंग, सवाल टेक्स्ट रंग, बटन टेक्स्ट, डायलॉग और व्याख्या का टेक्स्ट, खिलाड़ी के नाम और स्कोर का टेक्स्ट, सही के लिए रंग, ग़लत के लिए रंग |
+| **चार जवाब विकल्प**    | हर विकल्प के लिए: एक बैकग्राउंड रंग, एक किनारे का रंग, और फ़ोन और चार्ट के लिए एक सपाट रंग                                                                                                                                                |
+| **खिलाड़ियों के फ़ोन** | बैकग्राउंड, टेक्स्ट रंग, आउटलाइन रंग, विकल्प आउटलाइन रंग, और जवाब कंटेनर का बैकग्राउंड और टेक्स्ट रंग                                                                                                                                                     |
 
 गेम स्क्रीन पर ग्रेडिएंट चल सकते हैं: उन्हें दो हेक्स मानों के रूप में दें.
 
-A few colours are the _only_ handle on parts the engine draws itself, so they are worth deciding rather than defaulting:
+कुछ रंग उन हिस्सों पर आपका _अकेला_ नियंत्रण हैं जिन्हें इंजन ख़ुद बनाता है, इसलिए इन्हें डिफ़ॉल्ट पर छोड़ने के बजाय सोच-समझकर तय करना चाहिए:
 
-- the **separator** - the rules between rows where there is no panel, and on the points ladder
-- the **active**, **inactive** and **selected** states of a row in the question picker
-- the **dialog** text
-- the **front and back of the QR code**
+- **सेपरेटर** - पंक्तियों के बीच की लकीरें जहाँ पैनल नहीं है, और पॉइंट्स लैडर पर
+- सवाल पिकर में किसी पंक्ति की **सक्रिय**, **निष्क्रिय** और **चुनी गई** अवस्थाएँ
+- **डायलॉग** टेक्स्ट
+- **QR कोड का आगे और पीछे का रंग**
 
 अगर आप इन्हें छोड़ देते हैं तो ये अंदर से तय डिफ़ॉल्ट पर लौट जाते हैं - सफ़ेद, धूसर, लाल, काला और सफ़ेद - जो किसी डिज़ाइन से कम ही मेल खाते हैं.
 
@@ -352,17 +352,17 @@ A few colours are the _only_ handle on parts the engine draws itself, so they ar
 
 ### स्रोत फ़ाइल - Illustrator बेहतर
 
-The theme is built in Adobe Animate, and what Animate can import decides how much of your work survives the hand-over intact:
+थीम Adobe Animate में बनती है, और Animate क्या इम्पोर्ट कर सकता है, यही तय करता है कि आपका कितना काम सौंपे जाने के बाद भी सही-सलामत बचता है:
 
-| Tool                                             | What happens on import                                                                                                                                                                                                                                                                                           | Use it for                                 |
-| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| **Adobe Illustrator** (`.ai`) | Animate imports it directly and converts your layers into Animate layers or separate symbols, keeping the layer names and leaving the vectors editable. यही वह क़दम है जो आर्टवर्क को हाथ से दोबारा बनाए जाने से बचाता है.                                                       | **Preferred** for the final deliverable    |
-| **Adobe Photoshop**                              | Imports with its layers intact, like Illustrator, but gives raster instead of vector.                                                                                                                                                                                                            | Possible                                   |
-| **Figma**                                        | Everything goes through SVG and PNG export, and that is precisely where the layer structure needed here is lost. अगर आप फिर भी Figma इस्तेमाल करें, तो **हर एलिमेंट अलग से SVG के रूप में** दें, फ़ाइल के नाम लेयर के नामों से मिलते हुए, ताकि संरचना हाथ से दोबारा बनाई जा सके. | The concept phase, if you are faster in it |
+| टूल                                              | इम्पोर्ट पर क्या होता है                                                                                                                                                                                                                                                                     | इसका इस्तेमाल किसके लिए करें                  |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| **Adobe Illustrator** (`.ai`) | Animate इसे सीधे इम्पोर्ट करता है और आपकी लेयर को Animate लेयर या अलग सिंबल में बदल देता है, लेयर के नाम बनाए रखता है और वेक्टर को संपादन योग्य छोड़ता है. यही वह क़दम है जो आर्टवर्क को हाथ से दोबारा बनाए जाने से बचाता है.                                | आख़िरी सौंपी जाने वाली फ़ाइल के लिए **बेहतर** |
+| **Adobe Photoshop**                              | Illustrator की तरह अपनी लेयर सही-सलामत रखते हुए इम्पोर्ट होता है, लेकिन वेक्टर के बजाय रैस्टर देता है.                                                                                                                                                                       | संभव                                          |
+| **Figma**                                        | सब कुछ SVG और PNG एक्सपोर्ट से होकर जाता है, और ठीक वहीं यहाँ ज़रूरी लेयर संरचना खो जाती है. अगर आप फिर भी Figma इस्तेमाल करें, तो **हर एलिमेंट अलग से SVG के रूप में** दें, फ़ाइल के नाम लेयर के नामों से मिलते हुए, ताकि संरचना हाथ से दोबारा बनाई जा सके. | कॉन्सेप्ट का चरण, अगर आप उसमें तेज़ हैं       |
 
 फ़ाइल की संरचना:
 
-- One artboard per screen, named after the frames above.
+- हर स्क्रीन के लिए एक आर्टबोर्ड, ऊपर दिए फ़्रेमों के नाम पर.
 - दोबारा इस्तेमाल होने वाले हिस्से (बटन, खिलाड़ी रो, जवाब विकल्प, टाइमर) **सिंबल** या कंपोनेंट के रूप में, अलग-अलग नक़लों के रूप में नहीं.
 - लेयर के नाम अंग्रेज़ी में, बिना स्पेस के: `question`, `option1` से `option4` तक, `timer`, `feedback`, `header`, `background`, `playerScore`.
 - रंग नाम वाले स्वैच के रूप में और टेक्स्ट नाम वाली स्टाइल के रूप में, हर वस्तु पर अलग से सेट करने के बजाय.
@@ -371,24 +371,24 @@ The theme is built in Adobe Animate, and what Animate can import decides how muc
 
 1. **स्रोत फ़ाइल**, ऊपर बताए ढंग से बनी हुई.
 2. **हर फ़्रेम PNG के रूप में**, 1920 × 1080 - इस बात की मिसाल कि वह कैसा दिखना चाहिए. फ़्रेम 2 के लिए क्लाइंट लोगो वाला और बिना लोगो वाला, दोनों संस्करण.
-3. **The element sheet** as one artboard: the [content building blocks and the controls](#the-element-sheet).
+3. **एलिमेंट शीट** एक आर्टबोर्ड के रूप में: [कॉन्टेंट की बुनियादी इकाइयाँ और नियंत्रण](#the-element-sheet).
 4. **हर अलग ग्राफ़िक एलिमेंट पारदर्शी PNG के रूप में 2× पर**, एक ही फ़ोल्डर में, फ़ाइल का नाम लेयर के नाम से मिलता हुआ.
 5. **टाइमर** कीफ़्रेम के रूप में या प्रगति के लिखित विवरण के रूप में.
 6. **फ़ॉन्ट** `.ttf` या `.otf` के रूप में, लाइसेंस के प्रमाण के साथ.
-7. **The colour list** from [Colour as a list](#colour-as-a-list), as hex values.
+7. [रंग एक सूची के रूप में](#colour-as-a-list) वाली **रंगों की सूची**, हेक्स मानों के रूप में.
 8. **आधे पन्ने के नोट्स**: विचार क्या है, विकल्प कैसे दिखने चाहिए, क्या हिलता है और क्या स्थिर रहता है. दस पन्नों की डिज़ाइन व्याख्या नहीं - जो थीम बनाता है उसे यह जानना है कि क्या बनाना है. गति के सुझाव लिखकर बताए जा सकते हैं या मोटे एनिमैटिक के रूप में दिए जा सकते हैं.
 
 ### काम का क्रम
 
-1. **Frame 4, the question screen, together with the element sheet.** Get both approved before the rest. Between them they carry the timer, the options, the panel and every control, so they settle the style of the whole theme.
-2. **Frames 1 to 3.** They follow naturally from the first two.
-3. **Frames 6 to 8** come last.
+1. **फ़्रेम 4, सवाल स्क्रीन, एलिमेंट शीट के साथ.** बाकी से पहले दोनों को मंज़ूर करवाएँ. इन दोनों में टाइमर, विकल्प, पैनल और हर नियंत्रण आ जाता है, इसलिए यही पूरी थीम की शैली तय करते हैं.
+2. **फ़्रेम 1 से 3.** ये पहले दो से स्वाभाविक रूप से निकलते हैं.
+3. **फ़्रेम 6 से 8** सबसे आख़िर में आते हैं.
 
 ---
 
 ## परिशिष्ट - सिंबल के नाम
 
-पूर्णता के लिए, और उनके लिए जो ठीक-ठीक जानना चाहते हैं कि उनका आर्टवर्क कहाँ जाता है. **You do not need to read this to do the work**; the eight frames and the element sheet above are enough. इन नामों को लेयर के नाम के रूप में इस्तेमाल करने से एक अनुवाद का क़दम बच जाता है.
+पूर्णता के लिए, और उनके लिए जो ठीक-ठीक जानना चाहते हैं कि उनका आर्टवर्क कहाँ जाता है. **काम करने के लिए आपको इसे पढ़ने की ज़रूरत नहीं है**; ऊपर दिए आठ फ़्रेम और एलिमेंट शीट काफ़ी हैं. इन नामों को लेयर के नाम के रूप में इस्तेमाल करने से एक अनुवाद का क़दम बच जाता है.
 
 | फ़्रेम                                         | सिंबल का नाम                                                                                                                              | ज़रूरी हिस्से                                                                                                                                                                                                      |
 | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -409,7 +409,7 @@ The theme is built in Adobe Animate, and what Animate can import decides how muc
 
 मूल थीम के राउंड इंट्रो सिंबल के नाम `RoundIntroScienceAndTech`, `RoundIntroFloraAndFauna`, `RoundIntroTedMusic`, `RoundIntroTedSport` और `RoundIntroTedCultHist` हैं; कला और इतिहास आख़िरी वाला साझा करते हैं. इन नामों में आया "Ted" मूल थीम के किरदार का बचा हुआ अंश है और इसका मतलब यह नहीं कि उनमें कोई किरदार होना चाहिए.
 
-Every element with `.text` after it is a fitted text box as described under [How text behaves](#how-text-behaves): a rectangle the engine fills itself. `timer` एलिमेंट अपनी टाइमलाइन वाला एक मूवी क्लिप है; इंजन उसके फ़्रेमों की गिनती पढ़ता है और बीते समय के अनुपात में प्लेहेड को चलाता है, सेकंड में ज़्यादा से ज़्यादा 24 बार.
+जिस भी एलिमेंट के बाद `.text` लिखा है, वह एक फ़िट होने वाला टेक्स्ट बॉक्स है, जैसा [टेक्स्ट कैसा बर्ताव करता है](#how-text-behaves) में बताया गया है: एक आयत जिसे इंजन ख़ुद भरता है. `timer` एलिमेंट अपनी टाइमलाइन वाला एक मूवी क्लिप है; इंजन उसके फ़्रेमों की गिनती पढ़ता है और बीते समय के अनुपात में प्लेहेड को चलाता है, सेकंड में ज़्यादा से ज़्यादा 24 बार.
 
 ### कॉन्फ़िगरेशन फ़ाइल आपके डिज़ाइन से क्या लेती है
 
