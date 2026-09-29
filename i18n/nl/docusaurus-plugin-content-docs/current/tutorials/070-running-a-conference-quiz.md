@@ -5,7 +5,7 @@ title: Een conferentiequiz leiden
 
 # Een conferentiequiz leiden
 
-Deze handleiding neemt je mee door alles wat je moet weten om een QuizWitz-quiz op een beursstand of evenement te leiden — van het openen van de quizlink tot het eindklassement.
+Deze handleiding neemt je mee door alles wat je moet weten om een QuizWitz-quiz op een beursstand of evenement te leiden - van het openen van de quizlink tot het eindklassement.
 
 ---
 
@@ -16,7 +16,7 @@ Zorg ervoor dat je het volgende hebt voordat je begint:
 - Een stabiele internetverbinding
 - De quiz-URL (vooraf aan je bezorgd)
 - Een laptop die is aangesloten op het scherm waar de spelers naar kijken
-- **Google Chrome** — andere browsers zoals Safari of Edge werken mogelijk niet goed
+- **Google Chrome** - andere browsers zoals Safari of Edge werken mogelijk niet goed
 
 ---
 
@@ -27,7 +27,7 @@ Zorg ervoor dat je het volgende hebt voordat je begint:
 
 2. Er verschijnt een zwart laadscherm met een percentage. Dit duurt maar een paar seconden.
 
-3. Zodra alles geladen is, verschijnt het spelscherm. Als je gevraagd wordt om in te loggen, klik dan op **Login** — er opent een tweede tabblad.
+3. Zodra alles geladen is, verschijnt het spelscherm. Als je gevraagd wordt om in te loggen, klik dan op **Login** - er opent een tweede tabblad.
    - Klik op **Login** op de aanmeldpagina en voer de inloggegevens in die je hebt gekregen.
    - Na het inloggen sluit het tabblad automatisch en laadt de quiz verder.
 
@@ -38,7 +38,7 @@ Zorg ervoor dat je het volgende hebt voordat je begint:
    De quiz is nu klaar om op het spelscherm gespeeld te worden.
 
 :::tip
-Om volledig scherm te verlaten — bijvoorbeeld om naar een ander venster te gaan — druk je op **Esc**.
+Om volledig scherm te verlaten - bijvoorbeeld om naar een ander venster te gaan - druk je op **Esc**.
 :::
 
 ---
@@ -47,8 +47,8 @@ Om volledig scherm te verlaten — bijvoorbeeld om naar een ander venster te gaa
 
 Om na een afgelopen spel opnieuw te spelen, heb je een paar opties:
 
-- **Herlaad de pagina** — klik op het herlaadpictogram in de werkbalk van Chrome (mogelijk moet je eerst op Esc drukken om volledig scherm te verlaten).
-- **Druk op S** — na afloop van de quiz brengt een druk op **S** je terug naar het startscherm.
+- **Herlaad de pagina** - klik op het herlaadpictogram in de werkbalk van Chrome (mogelijk moet je eerst op Esc drukken om volledig scherm te verlaten).
+- **Druk op S** - na afloop van de quiz brengt een druk op **S** je terug naar het startscherm.
 
 Als er een pop-up verschijnt met de vraag of je een nieuw spel wilt starten, klik dan op **Ja, start een nieuw spel**.
 
