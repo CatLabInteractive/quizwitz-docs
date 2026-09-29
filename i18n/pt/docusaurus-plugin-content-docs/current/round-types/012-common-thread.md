@@ -5,7 +5,7 @@ title: Fio condutor
 
 # 🧵 Fio condutor
 
-A ronda **Fio condutor** é uma variação especial da ronda clássica de Trivia. Nesta ronda, os jogadores respondem a uma série de perguntas normais, mas o truque é que todas as respostas estão secretamente ligadas por um único tema ou ligação por trás — o "fio condutor".
+A ronda **Fio condutor** é uma variação especial da ronda clássica de Trivia. Nesta ronda, os jogadores respondem a uma série de perguntas normais, mas o truque é que todas as respostas estão secretamente ligadas por um único tema ou ligação por trás - o "fio condutor".
 
 ---
 
