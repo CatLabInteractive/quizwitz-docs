@@ -5,7 +5,7 @@ title: Kvízek létrehozása
 
 # 🧠 Teljes kvíz létrehozása
 
-Szeretnél teljes kvízélményt készíteni játékosoknak vagy eseményekre? Ez az útmutató végigvezet egy teljes kvíz létrehozásán több fordulóval — beleértve a saját kérdéseidet vagy az általad összegyűjtött Round-Abouts elemeket is.
+Szeretnél teljes kvízélményt készíteni játékosoknak vagy eseményekre? Ez az útmutató végigvezet egy teljes kvíz létrehozásán több fordulóval - beleértve a saját kérdéseidet vagy az általad összegyűjtött Round-Aboutokat is.
 
 ---
 
@@ -23,7 +23,7 @@ A főmenüből:
 ## ✏️ Cím és nyelv
 
 Adj címet a kvízednek, és válaszd ki a fő nyelvet.  
-Később hozzáadhatsz **fordításokat**, ha szükséges — nem kell mindent előre eldöntened.
+Később hozzáadhatsz **fordításokat**, ha szükséges - nem kell mindent előre eldöntened.
 
 ---
 
@@ -53,8 +53,8 @@ A fő szerkesztőben ezeket teheted:
 
 Minden fordulónak lehetnek saját szabályai és formátuma. Tudj meg többet a haladó útmutatókban:
 
-- [Fordulótípusok](../round-types/000-round-types.md) — Állítsd be, hogyan működjön egy forduló (pl. villámforduló, rejtvényforduló)
-- [Kérdéstípusok](../question-types/000-question-types.md) — Állítsd be az egyes kérdések formátumát és pontozását
+- [Fordulótípusok](../round-types/000-round-types.md) - Állítsd be, hogyan működjön egy forduló (pl. villámkör, rejtvényforduló)
+- [Kérdéstípusok](../question-types/000-question-types.md) - Állítsd be az egyes kérdések formátumát és pontozását
 
 ---
 
@@ -66,7 +66,7 @@ Ne feledd:
 - Bármikor **tesztelheted és játszhatsz vele**
 - **Tedd közzé** a kvízedet, amikor készen áll a megosztásra
 
-> 📢 Egy kvíz közzétételéhez **legalább 14 kérdést** kell tartalmaznia. Miután közzétetted, elérhetővé válik a közösség számára — de később visszavonhatod a közzétételt, ha szükséges.
+> 📢 Egy kvíz közzétételéhez **legalább 14 kérdést** kell tartalmaznia. Miután közzétetted, elérhetővé válik a közösség számára - de később visszavonhatod a közzétételt, ha szükséges.
 
 > 📝 **A közzététel teljesen opcionális.** Bármelyik kvízt vagy Round-About elemet játszhatod privátban, közzététel nélkül. Ez nagyszerű személyes használatra, teszteléshez vagy privát eseményekhez.
 
@@ -88,8 +88,8 @@ Amikor készen állsz tesztelni vagy elindítani a kvízedet, nyomd meg a **Kví
 
 Szeretnél egy teljes kvízmenetet szimulálni? Használd a haladó tesztelési eszközöket:
 
-- **Szimuláció** — Futtass egy teszt játékot botokkal (prezentáció nélkül)
-- **Élő szimuláció** — Szimulálj egy teljes [QuizWitz Live](../quizmaster/001-introduction.md) alkalmat botokkal, beleértve a Quizmaster, a zsűri és a játékos nézeteket
+- **Szimuláció** - Futtass egy teszt játékot botokkal (prezentáció nélkül)
+- **Élő szimuláció** - Szimulálj egy teljes [QuizWitz Live](../quizmaster/001-introduction.md) alkalmat botokkal, beleértve a Quizmaster, a zsűri és a játékos nézeteket
 
 ---
 
