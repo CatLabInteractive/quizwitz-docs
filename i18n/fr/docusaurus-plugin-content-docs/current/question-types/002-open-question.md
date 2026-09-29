@@ -5,7 +5,7 @@ title: Question ouverte
 
 # 💬 Question ouverte
 
-Une question ouverte permet aux joueurs de taper librement leur réponse avec leur clavier. Ce mode est parfait pour les questions où vous souhaitez des réponses écrites — par exemple, des noms, des nombres ou de courtes explications.
+Une question ouverte permet aux joueurs de taper librement leur réponse avec leur clavier. This mode is perfect for questions where you want written responses - for example, names, numbers, or short explanations.
 
 ---
 
@@ -41,7 +41,7 @@ Le système de score pour les questions ouvertes est conçu pour être équitabl
 
 - **Le score basé sur le temps** divise les points disponibles en blocs, pas un décompte strict par milliseconde.
 - Par exemple, répondre durant le premier bloc (par ex. les 5 premières secondes) donne le plein de points ; le bloc suivant donne 80 % des points, et ainsi de suite. Cela aide à réduire la pénalité pour les personnes qui tapent lentement.
-- Par défaut, seulement **25 %** des points dépendent de la vitesse — les **75 %** restants sont fixes, donc tous les joueurs qui répondent correctement obtiennent la majorité des points, quelle que soit leur vitesse de frappe.
+- By default, only **25%** of the points depend on speed - the remaining **75%** is fixed, so everyone who answers correctly gets most of the points, regardless of typing speed.
 
 > ⚙️ **Astuce :** Vous pouvez ajuster davantage le comportement du score et d’autres paramètres dans les [options de manche](../editor/008-round-options.md).
 
