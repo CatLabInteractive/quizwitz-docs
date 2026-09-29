@@ -23,10 +23,10 @@ Cliquez sur l'**icône d'engrenage** en haut à gauche d'une question pour ouvri
 
 ### 🎮 Mode & notation
 
-- **Type de question** — Choisissez comment la question est jouée (ex. choix multiple, réponse ouverte, puzzle)  
-  → En savoir plus dans [types de questions](../question-types/000-question-types.md)
-- **Points** — Définissez combien de points vaut une bonne réponse
-- **Minuteur de la question** — Ajustez la limite de temps avec le curseur
+- **Question type** - Choose how the question is played (e.g. multiple choice, open answer, puzzle)  
+  → Learn more in [question types](../question-types/000-question-types.md)
+- **Points** - Set how many points a correct answer is worth
+- **Question timer** - Adjust the time limit using the slider
 
 ---
 
@@ -34,12 +34,12 @@ Cliquez sur l'**icône d'engrenage** en haut à gauche d'une question pour ouvri
 
 Personnalisez comment la question se comporte pendant la partie :
 
-- **Notation basée sur le temps** — Récompense les joueurs qui répondent plus vite
-- **Plusieurs bonnes réponses** — Autorisez plus d'un choix valide
-- **Ordre aléatoire des réponses** — Mélangez les options à l'écran
-- **Arrêter le minuteur lorsque toutes les réponses sont reçues** — Passez à la suite dès que toutes les réponses sont entrées
-- **Afficher les résultats de la question** — Affichez le feedback après la question (ou désactivez-le)
-- **Forcer l'affichage des résultats après la question** — S'applique uniquement lorsque le feedback serait normalement différé (par ex., dans les manches éclair ou questions ouvertes). Pour les questions standard sans interaction du jury, le feedback est montré automatiquement après chaque question.
+- **Time-based scoring** - Reward players who answer more quickly
+- **Multiple correct answers** - Allow more than one valid choice
+- **Random answer order** - Shuffle the options on screen
+- **Stop timer when all answered** - Continue as soon as all responses are in
+- **Show question results** - Show feedback after the question (or disable it)
+- **Force results after question** - Only applies when feedback would normally be delayed (e.g., in lightning rounds or open questions). Pour les questions standard sans interaction du jury, le feedback est montré automatiquement après chaque question.
 
 ---
 
@@ -47,9 +47,9 @@ Personnalisez comment la question se comporte pendant la partie :
 
 Ces champs contrôlent ce qui apparaît sur la Quizmaster App et l'écran de jeu :
 
-- **Écran de jeu - Feedback de la question** — Affiché à tous les joueurs après la révélation du feedback
-- **Quizmaster - Question longue** — Une version de la question à lire à haute voix par le quizmaster
-- **Quizmaster - Feedback long** — Texte que le quizmaster peut lire après avoir révélé la bonne réponse
+- **Game screen - Question feedback** - Shown to all players after feedback is revealed
+- **Quizmaster - Long question** - A version of the question to be read aloud by the quizmaster
+- **Quizmaster - Long feedback** - Text the quizmaster can read after revealing the correct answer
 
 > 📝 Ces champs aident à rendre les présentations en direct dynamiques et soignées.
 
@@ -61,8 +61,8 @@ Ces champs contrôlent ce qui apparaît sur la Quizmaster App et l'écran de jeu
 
 Vous pouvez enrichir les questions avec des images, vidéos ou sons. Chaque pièce jointe peut être affichée à des moments précis :
 
-- **Avant / Pendant / Après la question** — Affichée autour du moment où la question est présentée
-- **Avant / Pendant / Après le feedback** — Affichée lorsque les résultats sont dévoilés
+- **Before / During / After Question** - Shown around the time the question is presented
+- **Before / During / After Feedback** - Shown when results are revealed
 - ...
 
 > 🧠 Les pièces jointes sont particulièrement utiles pour créer du suspense, illustrer les réponses ou donner du contexte.
