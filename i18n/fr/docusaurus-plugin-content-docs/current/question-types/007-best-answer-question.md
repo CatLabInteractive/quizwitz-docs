@@ -6,7 +6,7 @@ title: Question à meilleure réponse
 # 🎖️ Question à meilleure réponse
 
 Dans le type **question à meilleure réponse**, les joueurs écrivent leurs propres réponses à une question ouverte.  
-Les points sont attribués soit manuellement par le quizmaster, soit — s'il n'y a pas de quizmaster — en faisant voter les joueurs pour leur réponse préférée.
+Points are awarded either manually by the quizmaster, or - if there is no quizmaster - by having players vote for their favorite response.
 
 ---
 
