@@ -27,10 +27,10 @@ e i giocatori devono abbinare le loro risposte ai campi etichettati corretti. Qu
 
 ## 📝 Come funziona
 
-- Man mano che le domande vengono poste, i giocatori vedono un elenco di campi risposta — uno per ogni domanda.
-- **I campi risposta non sono nell'ordine del quiz** — invece, sono ordinati alfabeticamente per etichetta.
+- Man mano che le domande vengono poste, i giocatori vedono un elenco di campi risposta - uno per ogni domanda.
+- **I campi risposta non sono nell'ordine del quiz** - invece, sono ordinati alfabeticamente per etichetta.
 - I giocatori devono abbinare le loro risposte ai campi etichettati corretti (ad es. la risposta alla domanda "Bear" deve essere inserita sotto l'etichetta "B").
-- Le risposte possono essere cambiate in qualsiasi momento finché il round non finisce — i giocatori possono spostare le risposte tra i campi quando si accorgono dei loro errori.
+- Le risposte possono essere cambiate in qualsiasi momento finché il round non finisce - i giocatori possono spostare le risposte tra i campi quando si accorgono dei loro errori.
 
 ---
 
