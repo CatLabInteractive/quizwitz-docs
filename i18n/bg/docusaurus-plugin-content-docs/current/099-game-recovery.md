@@ -6,13 +6,13 @@ sidebar_position: 1000
 
 # ⚠️ Възстановяване при срив на живо
 
-Играта ти замръзна ли? Разделът затвори ли се случайно? [**QuizWitz Live**](quizmaster/001-introduction.md) включва вградена система за възстановяване, която ти помага да се върнеш в играта — без да губиш напредъка си.
+Играта ти замръзна ли? Разделът затвори ли се случайно? [**QuizWitz Live**](quizmaster/001-introduction.md) includes a built-in recovery system to help you get back on track - without losing your progress.
 
 ---
 
 ## 🔄 Как работи възстановяването на играта
 
-Ако играта ти се срине, забие или бъде прекъсната по каквато и да е причина — независимо дали е проблем с браузъра, рестарт на системата или случайно затваряне на раздела — можеш лесно да продължиш сесията.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the session easily.
 
 Просто **отвори отново същия раздел на браузъра**, в който показваше **екрана на играта**. Това е екранът, който прожектираш или стриймваш към аудиторията си.
 
@@ -48,7 +48,7 @@ sidebar_position: 1000
 ## 💡 Добре е да знаеш
 
 - Възстановяването работи само ако **се върнеш към същия екран на играта в същия браузър**
-- **Не** отивай на друга страница — отвори отново **точния URL адрес**, който използваше, за да хостваш играта
+- Do **not** navigate to a different page - reopen the **exact URL** you were using to host the game
 - Тази функция помага за възстановяване при:
   - Сривове на браузъра
   - Замръзване или забиване по средата на quiz
@@ -56,4 +56,4 @@ sidebar_position: 1000
 
 ---
 
-С възстановяването на играта можеш да хостваш уверено — знаейки, че дори ако нещо се обърка, можеш да продължиш точно оттам, където си спрял/а.
+With game recovery, you can host confidently - knowing that even if something goes wrong, you can pick up right where you left off.
