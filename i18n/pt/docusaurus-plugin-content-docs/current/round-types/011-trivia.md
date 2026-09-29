@@ -5,7 +5,7 @@ title: Trivia (ronda normal)
 
 # ❓ Trivia (ronda normal)
 
-A ronda de **Trivia** é o tipo de ronda clássico e padrão no QuizWitz. Ela apresenta uma série de perguntas a todos os jogadores — ideal para conhecimentos gerais, quizzes temáticos ou rondas de aquecimento.
+A ronda de **Trivia** é o tipo de ronda clássico e padrão no QuizWitz. Apresenta uma série de perguntas a todos os jogadores - ideal para conhecimentos gerais, quizzes temáticos ou rondas de aquecimento.
 
 ---
 
