@@ -5,7 +5,7 @@ title: Типове рундове
 
 # Типове рундове
 
-The round type influences the way the game shows the questions to the players - and how players earn points.  
+Типът рунд влияе на начина, по който играта показва въпросите на играчите - и на това как играчите печелят точки.  
 В куизовете можеш да промениш типа рунд в полето за избор **Тип рунд** горе по средата на екрана.
 
 ## 🧠 Обикновени рундове
@@ -22,7 +22,7 @@ The round type influences the way the game shows the questions to the players - 
 - [Мултивъпрос](022-multiquestion.md)
 - [Страйк](023-strike.md)
 - [Dealer's Choice](024-dealers-choice.md)
-- [First come first served](025-first-come-first-served.md)
+- [Първи дошъл, първи обслужен](025-first-come-first-served.md)
 
 ## 🍺 Традиционни
 
@@ -30,12 +30,12 @@ The round type influences the way the game shows the questions to the players - 
 Тези типове рундове симулират "предаването на листите" след всеки рунд.
 
 - [Традиционен](030-traditional.md)
-- [Traditional - Common thread](031-traditional-ct.md)
+- [Традиционен - Обща нишка](031-traditional-ct.md)
 - [Азбука](032-alphabet.md)
 
 ## 🎉 Събития на живо
 
-These round types do not contain any questions - but instead influence the outcome of the game.
+Тези типове рундове не съдържат въпроси - вместо това влияят на изхода от играта.
 
 - [Активност](040-activity.md)
 - [Антракт](060-intermission.md)
@@ -47,5 +47,5 @@ These round types do not contain any questions - but instead influence the outco
 
 В тези типове рундове можеш да избереш конкретни **отдели**, които да играят срещу други отдели.
 
-- [Department - Dealer's Choice](070-departments-dealers-choice.md)
-- [Department - Elimination](071-departments-elimination.md)
+- [Отдели - Dealer's Choice](070-departments-dealers-choice.md)
+- [Отдели - Елиминация](071-departments-elimination.md)
