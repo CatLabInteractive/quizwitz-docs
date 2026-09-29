@@ -5,7 +5,7 @@ title: Pergunta aberta
 
 # 💬 Pergunta aberta
 
-Uma pergunta aberta permite que os jogadores digitem a resposta livremente usando o teclado. Este modo é perfeito para perguntas em que queres respostas escritas — por exemplo, nomes, números ou explicações curtas.
+Uma pergunta aberta permite que os jogadores digitem a resposta livremente usando o teclado. Este modo é perfeito para perguntas em que queres respostas escritas - por exemplo, nomes, números ou explicações curtas.
 
 ---
 
@@ -41,7 +41,7 @@ A pontuação nas perguntas abertas foi pensada para ser justa, mesmo para quem 
 
 - A **pontuação baseada no tempo** divide os pontos disponíveis em blocos, não numa contagem decrescente rígida por milissegundo.
 - Por exemplo, responder no primeiro bloco (por exemplo, nos primeiros 5 segundos) dá a pontuação total; o bloco seguinte dá 80%, e assim por diante. Isto ajuda a reduzir a penalização para quem digita mais devagar.
-- Por predefinição, apenas **25%** dos pontos dependem da velocidade — os restantes **75%** são fixos, por isso toda a gente que responde corretamente recebe a maior parte dos pontos, independentemente da velocidade de digitação.
+- Por predefinição, apenas **25%** dos pontos dependem da velocidade - os restantes **75%** são fixos, por isso toda a gente que responde corretamente recebe a maior parte dos pontos, independentemente da velocidade de digitação.
 
 > ⚙️ **Dica:** Podes ajustar ainda mais o comportamento da pontuação e outras definições nas [Opções da ronda](../editor/008-round-options.md).
 
