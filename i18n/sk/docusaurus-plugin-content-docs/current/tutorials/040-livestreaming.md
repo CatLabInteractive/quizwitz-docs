@@ -5,7 +5,7 @@ title: Livestream kvíz
 
 # 📺 Ako hostovať livestream kvíz
 
-S QuizWitz Live je jednoduché hostovať plne interaktívny livestream kvíz na platformách ako **Twitch**, **YouTube Live** alebo **Facebook Live** — aj pre veľké publikum. Táto príručka ťa prevedie nastavením, prácou s oneskorením a osvedčenými postupmi pri prezentovaní.
+S QuizWitz Live je jednoduché hostovať plne interaktívny livestream kvíz na platformách ako **Twitch**, **YouTube Live** alebo **Facebook Live** - aj pre veľké publikum. Táto príručka ťa prevedie nastavením, prácou s oneskorením a osvedčenými postupmi pri prezentovaní.
 
 > 🧭 Ak si v Quizmaster App nový, začni [**sprievodcom spustením pre quizmastera**](../quizmaster/002-startup.md).
 
@@ -35,9 +35,9 @@ Pri spustení QuizWitz Live si vyberieš, ako sa hráči pripoja:
 Keď sa kvíz načíta, Quizmaster App zobrazí:
 
 - **Kód quizmastera** - pre quizmastera
-- **Kód poroty** — na kontrolu otvorených otázok
-- **Regie kód** — na ovládanie vizuálov/zvuku
-- **Herný kód** — aby sa hráči mohli pripojiť
+- **Kód poroty** - na kontrolu otvorených otázok
+- **Režijný kód** - na ovládanie vizuálov/zvuku
+- **Herný kód** - aby sa hráči mohli pripojiť
 
 Obrazovka hry teraz zobrazuje **obrazovku pripojenia**, ktorú máš streamovať svojmu publiku.
 
@@ -47,7 +47,7 @@ Obrazovka hry teraz zobrazuje **obrazovku pripojenia**, ktorú máš streamovať
 
 Na streamovanie kvízu použi vysielací softvér. Odporúčame:
 
-- **OBS Studio** (Open Broadcast Software) — bezplatný a výkonný
+- **OBS Studio** (Open Broadcast Software) - bezplatný a výkonný
 - Alternatívy: Streamlabs, vMix alebo natívne možnosti pre Zoom/Meet
 
 Ak používaš **softvér na stretnutia**, napríklad Zoom alebo Google Meet:
@@ -58,7 +58,7 @@ Ak používaš **softvér na stretnutia**, napríklad Zoom alebo Google Meet:
 
 Pri **Twitch, YouTube Live alebo Facebook Live** narazíš na **oneskorenie streamu** (tzv. oneskorenie transkódovania).
 
-> ✅ Pre najlepšie výsledky odporúčame **Twitch** — konzistentne ponúka nízku latenciu a dobrú synchronizáciu divákov.
+> ✅ Pre najlepšie výsledky odporúčame **Twitch** - konzistentne ponúka nízku latenciu a dobrú synchronizáciu divákov.
 
 ---
 
@@ -68,7 +68,7 @@ Na vyrovnanie oneskorenia streamu použi **oneskorenie interakcie hráčov** v a
 
 Takto na to:
 
-1. Spusti náhľad streamu — ešte nemusíš ísť naživo
+1. Spusti náhľad streamu - ešte nemusíš ísť naživo
 2. **Aplikáciu poroty** otvoríš zadaním svojho kódu poroty na [**quizwitz.tv**](https://quizwitz.tv)
 3. Prejdi na **Ovládanie hry**
 4. Otvor svoj livestream v inom okne, aj so zvukom
@@ -88,7 +88,7 @@ Keď je oneskorenie nastavené a hráči sú pripojení:
 
 - Spusti svoj stream na Twitch
 - Na **spustenie kvízu** použi Quizmaster App
-- QuizWitz sa postará o časovanie na pozadí — medzi otázkami nemusíš robiť pauzy
+- QuizWitz sa postará o časovanie na pozadí - medzi otázkami nemusíš robiť pauzy
 
 ---
 
@@ -96,7 +96,7 @@ Keď je oneskorenie nastavené a hráči sú pripojení:
 
 - **Nedovoľ quizmasterovi sledovať oneskorený stream** - má používať len živú Quizmaster App, aby sa predišlo trápnym pauzám.
 
-- Ak chceš komunikovať s publikom, sleduj **živé komentáre** na samostatnej obrazovke — nie video prenos.
+- Ak chceš komunikovať s publikom, sleduj **živé komentáre** na samostatnej obrazovke - nie video prenos.
 
 - Chceš automaticky prepínať scény v OBS? Použi:  
   [`https://regie.catlab.eu/obs.html`](https://regie.catlab.eu/obs.html)
@@ -104,10 +104,10 @@ Keď je oneskorenie nastavené a hráči sú pripojení:
 - Chceš počas hry spúšťať MIDI zariadenia? Vyskúšaj:  
   [`https://regie.catlab.eu/midi.html`](https://regie.catlab.eu/midi.html)
 
-- Hľadáš ďalšie nástroje? Navštív [**regie.catlab.eu**](https://regie.catlab.eu) — centrálny hub s ďalšími nástrojmi na automatizáciu, prepínanie scén, efekty a ďalšie veci.
+- Hľadáš ďalšie nástroje? Navštív [**regie.catlab.eu**](https://regie.catlab.eu) - centrálny hub s ďalšími nástrojmi na automatizáciu, prepínanie scén, efekty a ďalšie veci.
 
 > Všetky nástroje vyžadujú tvoj **režijný kód** z Quizmaster App.
 
 ---
 
-Si pripravený ísť naživo! Twitch ponúka plynulú a responzívnu platformu na hostovanie rozsiahlych kvízových podujatí. Skombinuj to s QuizWitz Live — a tvoj kvízový večer určite zaujme.
+Si pripravený ísť naživo! Twitch ponúka plynulú a responzívnu platformu na hostovanie rozsiahlych kvízových podujatí. Skombinuj to s QuizWitz Live - a tvoj kvízový večer určite zaujme.
