@@ -1,40 +1,40 @@
 ---
 id: first-come-first-served
-title: First come first served
+title: Primeiro a chegar, primeiro a ser servido
 ---
 
-# 🏃 First come first served
+# 🏃 Primeiro a chegar, primeiro a ser servido
 
-In a **First come first served** round, speed is everything. The fastest correct answer earns the most points, and every correct answer after it earns a little less.
-
----
-
-## 📝 How it works
-
-- Questions are asked one by one, just like in a [Trivia](011-trivia.md) round.
-- When a question ends, all correct answers are ranked from fastest to slowest.
-- **The fastest correct player or team gets the full points** of the question.
-- **Every next correct answer gets a smaller share.** Each place down the ranking loses the question's points divided by the number of players or teams in the game.
-  - Example: a question is worth 1000 points and 10 teams are playing. The fastest correct team gets 1000 points, the second 900, the third 800, and so on.
-- Wrong answers earn no points and don't take a place in the ranking.
+Numa ronda **Primeiro a chegar, primeiro a ser servido**, a velocidade é tudo. A resposta correta mais rápida ganha mais pontos, e cada resposta correta seguinte ganha um pouco menos.
 
 ---
 
-## ⚙️ Settings
+## 📝 Como funciona
 
-- **Question types:** every question type can be used.
-- **Time-based scoring:** the ranking already rewards speed. If time-based scoring is also enabled, it is applied on top of each share. Turn it off in the question settings if you only want the ranking to count.
-
-For more about scoring, see the [scoring section](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips
-
-- **Use questions with one clear answer:** players race to be first, so there should be no doubt about what is correct.
-- **Keep questions short:** the round is about reacting quickly, not about reading long texts.
-- **Mix it with slower rounds:** a speed round is a great change of pace after a Traditional or Common Thread round.
+- As perguntas são feitas uma a uma, tal como numa ronda de [Trivia](011-trivia.md).
+- Quando uma pergunta termina, todas as respostas corretas são ordenadas da mais rápida para a mais lenta.
+- **O jogador ou a equipa mais rápida a acertar recebe a totalidade dos pontos** da pergunta.
+- **Cada resposta correta seguinte recebe uma parte menor.** Cada lugar abaixo na classificação perde os pontos da pergunta divididos pelo número de jogadores ou equipas no jogo.
+  - Exemplo: uma pergunta vale 1000 pontos e estão a jogar 10 equipas. A equipa mais rápida a acertar recebe 1000 pontos, a segunda 900, a terceira 800, e assim por diante.
+- As respostas erradas não ganham pontos e não ocupam um lugar na classificação.
 
 ---
 
-For more on round settings, see [Round options](../editor/008-round-options.md).
+## ⚙️ Configurações
+
+- **Tipos de pergunta:** pode ser usado qualquer tipo de pergunta.
+- **Pontuação baseada no tempo:** a classificação já recompensa a velocidade. Se a pontuação baseada no tempo também estiver ativada, é aplicada sobre cada parte. Desativa-a nas definições da pergunta se quiseres que só a classificação conte.
+
+Para saber mais sobre pontuação, vê a [secção de pontuação](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Dicas
+
+- **Usa perguntas com uma resposta clara:** os jogadores correm para ser os primeiros, por isso não deve haver dúvidas sobre o que está correto.
+- **Mantém as perguntas curtas:** a ronda é sobre reagir depressa, não sobre ler textos longos.
+- **Combina-a com rondas mais lentas:** uma ronda de velocidade é uma ótima mudança de ritmo depois de uma ronda Tradicional ou de Fio condutor.
+
+---
+
+Para saber mais sobre as definições da ronda, vê [Opções de ronda](../editor/008-round-options.md).
