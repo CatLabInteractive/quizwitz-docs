@@ -5,7 +5,7 @@ title: Criar um Round-About
 
 # 🧠 Criar um Round-About
 
-Um **Round-About** é a unidade principal de quiz no QuizWitz — um conjunto temático de perguntas apresentadas em ordem aleatória. Podes criar o seu próprio e jogar em particular, ou publicá-lo para partilhar com a comunidade.
+Um **Round-About** é a unidade principal de quiz no QuizWitz - um conjunto temático de perguntas apresentadas por ordem aleatória. Podes criar o seu próprio e jogar em particular, ou publicá-lo para partilhar com a comunidade.
 
 ---
 
@@ -24,9 +24,9 @@ No menu principal:
 
 Começa por dar ao teu Round-About um:
 
-- **Título** — algo chamativo ou descritivo
-- **Idioma** — o idioma em que suas perguntas estão escritas
-- **Categoria** — ajuda os jogadores a encontrarem seu Round-About depois
+- **Título** - algo chamativo ou descritivo
+- **Idioma** - o idioma em que as tuas perguntas estão escritas
+- **Categoria** - ajuda os jogadores a encontrarem o teu Round-About mais tarde
 
 > 🔒 Não precisas de publicar o teu Round-About para o jogares. Mantenha-o privado ou publique quando estiver pronto para partilhar.
 
@@ -42,7 +42,7 @@ Clique em **Adicionar nova pergunta** para começar a criar o conteúdo do seu q
 - Salve seu progresso com frequência
 - Podes testar e jogar seu Round-About a qualquer momento
 
-> 📢 **Para publicar seu Round-About**, vais precisar de **pelo menos 14 perguntas**. Depois de publicado, ele fica visível para toda a comunidade QuizWitz — mas podes despublicá-lo depois, se precisar.
+> 📢 **Para publicar seu Round-About**, vais precisar de **pelo menos 14 perguntas**. Depois de publicado, fica visível para toda a comunidade QuizWitz - mas podes despublicá-lo mais tarde, se precisares.
 
 Quer adicionar perguntas em massa? Use o recurso **Importar perguntas** e siga as instruções para formatar tudo corretamente.
 
@@ -54,9 +54,9 @@ Quer adicionar perguntas em massa? Use o recurso **Importar perguntas** e siga a
 
 Na seção **Detalhes**, vais encontrar opções adicionais de configuração:
 
-- **Traduzir** — Crie uma versão traduzida do seu Round-About em outro idioma
-- **Categoria** — Escolha ou atualize a categoria do seu Round-About
-- **Tipo de ronda** — Selecione como as perguntas são apresentadas aos jogadores. Podes configurar:
+- **Traduzir** - Cria uma versão traduzida do teu Round-About noutro idioma
+- **Categoria** - Escolhe ou atualiza a categoria do teu Round-About
+- **Tipo de ronda** - Seleciona como as perguntas são apresentadas aos jogadores. Podes configurar:
   - Múltipla escolha
   - Perguntas abertas
   - Rodadas relâmpago
@@ -68,4 +68,4 @@ Na seção **Detalhes**, vais encontrar opções adicionais de configuração:
 
 ---
 
-Quando estiver satisfeito com seu conteúdo, clica em publicar — e partilhe seu Round-About com o mundo!
+Quando estiveres satisfeito com o teu conteúdo, clica em publicar - e partilha o teu Round-About com o mundo!
