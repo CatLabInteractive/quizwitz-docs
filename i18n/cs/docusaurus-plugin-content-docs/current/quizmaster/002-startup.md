@@ -3,9 +3,9 @@ id: startup
 title: Začínáme
 ---
 
-# 🚀 Začínáme — pořádání kvízu s QuizWitz Live
+# 🚀 Začínáme - hostování kvízu s QuizWitz Live
 
-Vítej v QuizWitz Live — profesionálním způsobu, jak pořádat kvízy pro týmy, livestreamy i akce naživo. Podle tohoto průvodce svůj kvíz snadno rozjedeš pomocí Quizmaster App.
+Vítej v QuizWitz Live - profesionálním způsobu, jak hostovat kvízy pro týmy, livestreamy i akce naživo. Podle tohoto průvodce svůj kvíz snadno rozjedeš pomocí Quizmaster App.
 
 ---
 
@@ -23,7 +23,7 @@ Hru QuizWitz Live můžeš spustit z editoru kvízu nebo přímo ze své kolekce
 
 ## 🔐 Připojuji se k kizmaster kódu
 
-Po spuštění bude vaše obrazovka zobrazena **kvízmaster kód**. **Nesdílej tento kód s hráči** — slouží k připojení prezentačního zařízení ke hře.
+Po spuštění bude vaše obrazovka zobrazena **kvízmaster kód**. **Nesdílej tento kód s hráči** - slouží k připojení tvého prezentačního zařízení ke hře.
 
 - Navštivte [quizwitz.tv](https://quizwitz.tv) na vašem kvízovém zařízení a zadejte kvízový kód.
 - Zobrazí se **rozhraní Quizmaster App**, ve kterém hru ovládáš.
@@ -32,7 +32,7 @@ Po spuštění bude vaše obrazovka zobrazena **kvízmaster kód**. **Nesdílej 
 
 Po připojení zmizí kvízmaster kód z obrazovky. Nyní jste připraveni zobrazit herní obrazovku na projektoru nebo zahájit svůj živý život.
 
-> ⚠️ \*\*Heads up! \* Pokud se obrazovka hry aktivně nezaměřuje — například, pokud přepínáte karty nebo je minimalizujete — hra se **automaticky pozastaví**.  
+> ⚠️ **Pozor!** Pokud herní obrazovka není aktivně v popředí - například když přepneš kartu nebo ji minimalizuješ - hra se **automaticky pozastaví**.  
 > Když se to stane:
 >
 > - Pozastaví se také **Quizmaster App**
@@ -51,13 +51,13 @@ Po připojení si vyber ze dvou herních režimů:
 
 - Každý tým dostane **jedinečný kód**, který lze otevřít na více zařízeních.
 - Nejlepší pro **předem registrované týmové kvízy**, kde znáš názvy týmů dopředu.
-- Umožňuje přepínání zařízení — hodí se, když se uprostřed kvízu vybije baterka.
+- Umožňuje přepínání zařízení - hodí se, když se uprostřed kvízu vybije baterka.
 
 ### Jeden herní kód
 
 - Všichni se připojí pomocí **jednoho sdíleného Game Code**.
 - Ideální pro neformální nebo volně přístupné akce.
-- Není potřeba žádná předběžná registrace — hráči se můžou připojit kdykoli, dokud nejsou obsazená všechna aktivní seats.
+- No pre-registration required - players can join anytime, until all active seats are filled.
 
 > Ujisti se, že jsi přihlášený/á, abys měl/a přístup ke svému obsahu kvízů.
 
@@ -71,13 +71,13 @@ Při použití **týmových kódů** nejdřív vytvoříš týmy v Quizmaster Ap
 - Stiskněte **'Generovat kódy'** pro vytvoření přístupových kódů  
   ![Quizmaster App - vytvořit týmy](/images/quizmaster-app-create-teams.png)
 
-Můžeš si také **rezervovat kódy dopředu** — víc o tom najdeš v sekci tipy a triky.
+You can also **reserve codes in advance** - more on that in the tips & tricks section.
 
 Nezapomeň si **uložit následující kódy**:
 
-- **Kvízový kód** – ovládat kvíz
-- **Jury Code** — pro ruční úpravy skóre
-- **Regie Code** — pro ovládání vizuálních a technických prvků
+- **Quizmaster code** - to control the quiz
+- **Jury Code** - for manual score adjustments
+- **Regie Code** - to control visual and technical elements
 
 Pošli týmové kódy hráčům e-mailem nebo jim je vytiskni.
 
@@ -92,7 +92,7 @@ Pokud je připraveno, klikněte na **'Načíst kvíz'**, počkejte na načtení 
 S **Jednotným kódem hry** schématu:
 
 - Obdržíte kvíza, porost a regie kódy, plus jeden herní kód pro hráče.
-- Herní kód se zobrazí na obrazovce hry — **zobrazit nebo vysílat k vašemu publikaci**.
+- The game code appears on the game screen - **display or stream it to your audience**.
 - Hráči se můžou připojit kdykoli, dokud nebude dosažen tvůj limit aktivních seats.
 
 Jakmile jsou hráči uvnitř:
