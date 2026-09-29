@@ -5,7 +5,7 @@ title: Традиционен
 
 # 📝 Традиционен
 
-**Традиционният** рунд симулира класическия формат на пъб викторина, където играчите могат да променят отговорите си до края на рунда — точно като да предадеш листа си с отговори в пъба!
+A **Traditional** round simulates the classic pub quiz format, where players can change their answers until the end of the round - just like handing in your answer sheet at the pub!
 
 ---
 
