@@ -51,7 +51,7 @@ A játékban minden zene lecserélhető mellékletekkel is. A **kérdés közben
 
 ## Emerald témamódosítók
 
-A mellékletek mellett **query paraméterekkel** is alakíthatod az Emerald témát. Ezek olyan paraméterek, amelyeket hozzáadhatsz a **haladó játékbeállítások** URL-jéhez — és megváltoztatják a téma kinézetét.
+A mellékletek mellett **query paraméterekkel** is alakíthatod az Emerald témát. Ezek olyan paraméterek, amelyeket hozzáadhatsz a **haladó játékbeállítások** URL-jéhez - és megváltoztatják a téma kinézetét.
 
 Ehhez egy példakvízzel kezdünk (mellékletek nélkül):  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
@@ -81,7 +81,7 @@ Emellett beállíthatsz egy alapértelmezett betűtípust is:
 
 Ezeknek a betűtípusoknak nyilvánosan elérhető betűtípusfájlokra mutató URL-eknek kell lenniük.
 
-Ezek a módosítók tartalmazhatnak egyetlen színt HTML hex formátumban (ff0000), vagy lineáris színátmenetet is, ha több színt adsz meg mínuszjellel elválasztva ( — például ff1b6b-45caff). (Figyelj rá, hogy a # szimbólumot nem kell hozzáadni.)
+Ezek a módosítók tartalmazhatnak egyetlen színt HTML hex formátumban (ff0000), vagy lineáris színátmenetet is, ha több színt adsz meg mínuszjellel elválasztva ( - például ff1b6b-45caff). (Figyelj rá, hogy a # szimbólumot nem kell hozzáadni.)
 
 :::note
 A query paramétereknek kérdőjellel kell kezdődniük ( ? ) és minden paramétert és jellel ( & ) kell elválasztani. A query paraméterekről további információt a [wikipedián](https://en.wikipedia.org/wiki/Query_string) találsz.
