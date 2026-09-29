@@ -5,7 +5,7 @@ title: Tradičné
 
 # 📝 Tradičné
 
-**Tradičné** kolo simuluje klasický formát pub kvízu, kde hráči môžu meniť svoje odpovede až do konca kola — presne ako keď v pube odovzdáš hárok s odpoveďami!
+**Tradičné** kolo simuluje klasický formát pub kvízu, kde hráči môžu meniť svoje odpovede až do konca kola - presne ako keď v pube odovzdáš hárok s odpoveďami!
 
 ---
 
