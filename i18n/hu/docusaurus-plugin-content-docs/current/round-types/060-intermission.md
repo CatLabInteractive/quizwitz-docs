@@ -5,7 +5,7 @@ title: Szünet
 
 # ⏸️ Szünet
 
-A **Szünet** egy különleges eseménykör, amely pihenőre megállítja a kvízt — ideális nyújtózkodásra, beszélgetésre vagy szponzorok népszerűsítésére.
+A **Szünet** egy különleges eseményforduló, amely pihenőre megállítja a kvízt - ideális nyújtózkodásra, beszélgetésre vagy szponzorok népszerűsítésére.
 
 ---
 
