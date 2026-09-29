@@ -5,7 +5,7 @@ title: राउंड प्रकार
 
 # राउंड प्रकार
 
-The round type influences the way the game shows the questions to the players - and how players earn points.  
+राउंड प्रकार यह तय करता है कि गेम खिलाड़ियों को सवाल कैसे दिखाता है - और खिलाड़ी पॉइंट्स कैसे कमाते हैं।  
 क्विज़ में, आप स्क्रीन के सबसे ऊपर बीच में मौजूद **राउंड प्रकार** चुनने वाले फ़ील्ड में राउंड प्रकार बदल सकते हैं।
 
 ## 🧠 नियमित राउंड
@@ -22,7 +22,7 @@ The round type influences the way the game shows the questions to the players - 
 - [मल्टीक्वेश्चन](022-multiquestion.md)
 - [स्ट्राइक](023-strike.md)
 - [डीलर्स चॉइस](024-dealers-choice.md)
-- [First come first served](025-first-come-first-served.md)
+- [पहले आओ, पहले पाओ](025-first-come-first-served.md)
 
 ## 🍺 पारंपरिक
 
@@ -30,12 +30,12 @@ The round type influences the way the game shows the questions to the players - 
 ये राउंड प्रकार हर राउंड के बाद "पेपर जमा करने" जैसा अनुभव देते हैं।
 
 - [पारंपरिक](030-traditional.md)
-- [Traditional - Common thread](031-traditional-ct.md)
+- [पारंपरिक - साझा सूत्र](031-traditional-ct.md)
 - [अल्फ़ाबेट](032-alphabet.md)
 
 ## 🎉 लाइव इवेंट्स
 
-These round types do not contain any questions - but instead influence the outcome of the game.
+इन राउंड प्रकारों में कोई सवाल नहीं होते - बल्कि ये गेम के नतीजे को प्रभावित करते हैं।
 
 - [गतिविधि](040-activity.md)
 - [इंटरमिशन](060-intermission.md)
@@ -47,5 +47,5 @@ These round types do not contain any questions - but instead influence the outco
 
 इन राउंड प्रकारों में, आप खास **विभाग** चुन सकते हैं, जो दूसरे विभागों के खिलाफ खेलते हैं।
 
-- [Department - Dealer's Choice](070-departments-dealers-choice.md)
-- [Department - Elimination](071-departments-elimination.md)
+- [विभाग - डीलर्स चॉइस](070-departments-dealers-choice.md)
+- [विभाग - एलिमिनेशन](071-departments-elimination.md)
