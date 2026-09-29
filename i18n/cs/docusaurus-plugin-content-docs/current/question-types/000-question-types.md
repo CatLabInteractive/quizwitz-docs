@@ -17,7 +17,7 @@ Tohle jsou nejběžnější typy otázek. Jsou snadno pochopitelné a hrají se 
 - [Výběr z více možností](001-multiple-choice.md) (výchozí)
 - [Otázka na seřazení](003-order-question.md)
 - [Otázka s obrázkovou mapou](004-image-map.md)
-- [Grid question](008-grid-question.md)
+- [Mřížková otázka](008-grid-question.md)
 
 ## Otevřené otázky
 
