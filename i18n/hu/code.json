@@ -7,38 +7,6 @@
     "message": "Görgess vissza a tetejére",
     "description": "The ARIA label for the back to top button"
   },
-  "theme.blog.archive.title": {
-    "message": "Archívum",
-    "description": "The page & hero title of the blog archive page"
-  },
-  "theme.blog.archive.description": {
-    "message": "Archívum",
-    "description": "The page & hero description of the blog archive page"
-  },
-  "theme.blog.paginator.navAriaLabel": {
-    "message": "Bloglista oldalnavigáció",
-    "description": "The ARIA label for the blog pagination"
-  },
-  "theme.blog.paginator.newerEntries": {
-    "message": "Újabb bejegyzések",
-    "description": "The label used to navigate to the newer blog posts page (previous page)"
-  },
-  "theme.blog.paginator.olderEntries": {
-    "message": "Régebbi bejegyzések",
-    "description": "The label used to navigate to the older blog posts page (next page)"
-  },
-  "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Blogbejegyzés oldalnavigáció",
-    "description": "The ARIA label for the blog posts pagination"
-  },
-  "theme.blog.post.paginator.newerPost": {
-    "message": "Újabb bejegyzés",
-    "description": "The blog post button label to navigate to the newer/previous post"
-  },
-  "theme.blog.post.paginator.olderPost": {
-    "message": "Régebbi bejegyzés",
-    "description": "The blog post button label to navigate to the older/next post"
-  },
   "theme.tags.tagsPageLink": {
     "message": "Összes címke megtekintése",
     "description": "The label of the link targeting the tag list page"
@@ -166,10 +134,6 @@
     "message": "Bezárás",
     "description": "Generic button label to close a dialog, panel, or modal."
   },
-  "theme.blog.sidebar.navAriaLabel": {
-    "message": "Legutóbbi blogbejegyzések navigációja",
-    "description": "The ARIA label for recent posts in the blog sidebar"
-  },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
     "message": "Oldalsáv-kategória kibontása: „{label}”",
     "description": "The ARIA label to expand the sidebar category"
@@ -197,18 +161,6 @@
   "theme.TOCCollapsible.toggleButtonLabel": {
     "message": "Ezen az oldalon",
     "description": "The label used by the button on the collapsible TOC component"
-  },
-  "theme.blog.post.readMore": {
-    "message": "Tovább olvasom",
-    "description": "The label used in blog post item excerpts to link to full blog posts"
-  },
-  "theme.blog.post.readMoreLabel": {
-    "message": "Továbbiak erről: {title}",
-    "description": "The ARIA label for the link to full blog posts from excerpts"
-  },
-  "theme.blog.post.readingTime.plurals": {
-    "message": "Egy perc olvasás|{readingTime} perc olvasás",
-    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.CodeBlock.copy": {
     "message": "Másolás",
@@ -269,30 +221,6 @@
   "theme.docs.sidebar.expandButtonAriaLabel": {
     "message": "Oldalsáv kibontása",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
-  },
-  "theme.blog.post.plurals": {
-    "message": "Egy bejegyzés|{count} bejegyzés",
-    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
-  "theme.blog.tagTitle": {
-    "message": "{nPosts} ezzel a címkével: \"{tagName}\"",
-    "description": "The title of the page for a blog tag"
-  },
-  "theme.blog.author.pageTitle": {
-    "message": "{authorName} - {nPosts}",
-    "description": "The title of the page for a blog author"
-  },
-  "theme.blog.authorsList.pageTitle": {
-    "message": "Szerzők",
-    "description": "The title of the authors page"
-  },
-  "theme.blog.authorsList.viewAll": {
-    "message": "Összes szerző megtekintése",
-    "description": "The label of the link targeting the blog authors page"
-  },
-  "theme.blog.author.noPosts": {
-    "message": "Ez a szerző még nem írt bejegyzést.",
-    "description": "The text for authors with 0 blog post"
   },
   "theme.contentVisibility.unlistedBanner.title": {
     "message": "Nem listázott oldal",

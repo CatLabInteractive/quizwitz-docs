@@ -51,6 +51,8 @@ const config = {
             return `https://github.com/catlabinteractive/quizwitz-docs/edit/main/website/${versionDocsDirPath}/${docPath}`;
           },
         },
+        // The blog lives on www.quizwitz.com/blog; the docs site has none.
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },

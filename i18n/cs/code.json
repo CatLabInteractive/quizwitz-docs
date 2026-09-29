@@ -7,38 +7,6 @@
     "message": "Posunout zpátky nahoru",
     "description": "The ARIA label for the back to top button"
   },
-  "theme.blog.archive.title": {
-    "message": "Archiv",
-    "description": "The page & hero title of the blog archive page"
-  },
-  "theme.blog.archive.description": {
-    "message": "Archiv",
-    "description": "The page & hero description of the blog archive page"
-  },
-  "theme.blog.paginator.navAriaLabel": {
-    "message": "Navigace na stránce se seznamem blogu",
-    "description": "The ARIA label for the blog pagination"
-  },
-  "theme.blog.paginator.newerEntries": {
-    "message": "Novější záznamy",
-    "description": "The label used to navigate to the newer blog posts page (previous page)"
-  },
-  "theme.blog.paginator.olderEntries": {
-    "message": "Starší záznamy",
-    "description": "The label used to navigate to the older blog posts page (next page)"
-  },
-  "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Navigace na stránce blogového příspěvku",
-    "description": "The ARIA label for the blog posts pagination"
-  },
-  "theme.blog.post.paginator.newerPost": {
-    "message": "Novější příspěvek",
-    "description": "The blog post button label to navigate to the newer/previous post"
-  },
-  "theme.blog.post.paginator.olderPost": {
-    "message": "Starší příspěvek",
-    "description": "The blog post button label to navigate to the older/next post"
-  },
   "theme.tags.tagsPageLink": {
     "message": "Zobrazit všechny štítky",
     "description": "The label of the link targeting the tag list page"
@@ -166,10 +134,6 @@
     "message": "Zavřít",
     "description": "Generic button label to close a dialog, panel, or modal."
   },
-  "theme.blog.sidebar.navAriaLabel": {
-    "message": "Navigace nedávnými příspěvky na blogu",
-    "description": "The ARIA label for recent posts in the blog sidebar"
-  },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
     "message": "Rozbalit kategorii postranního panelu „{label}“",
     "description": "The ARIA label to expand the sidebar category"
@@ -197,18 +161,6 @@
   "theme.TOCCollapsible.toggleButtonLabel": {
     "message": "Na této stránce",
     "description": "The label used by the button on the collapsible TOC component"
-  },
-  "theme.blog.post.readMore": {
-    "message": "Číst dál",
-    "description": "The label used in blog post item excerpts to link to full blog posts"
-  },
-  "theme.blog.post.readMoreLabel": {
-    "message": "Přečíst si víc o {title}",
-    "description": "The ARIA label for the link to full blog posts from excerpts"
-  },
-  "theme.blog.post.readingTime.plurals": {
-    "message": "{readingTime} minuta čtení|{readingTime} minuty čtení|{readingTime} minuty čtení|{readingTime} minut čtení",
-    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.CodeBlock.copy": {
     "message": "Kopírovat",
@@ -269,30 +221,6 @@
   "theme.docs.sidebar.expandButtonAriaLabel": {
     "message": "Rozbalit postranní panel",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
-  },
-  "theme.blog.post.plurals": {
-    "message": "{count} příspěvek|{count} příspěvky|{count} příspěvku|{count} příspěvků",
-    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
-  "theme.blog.tagTitle": {
-    "message": "{nPosts} se štítkem \"{tagName}\"",
-    "description": "The title of the page for a blog tag"
-  },
-  "theme.blog.author.pageTitle": {
-    "message": "{authorName} - {nPosts}",
-    "description": "The title of the page for a blog author"
-  },
-  "theme.blog.authorsList.pageTitle": {
-    "message": "Autoři",
-    "description": "The title of the authors page"
-  },
-  "theme.blog.authorsList.viewAll": {
-    "message": "Zobrazit všechny autory",
-    "description": "The label of the link targeting the blog authors page"
-  },
-  "theme.blog.author.noPosts": {
-    "message": "Tenhle autor zatím nenapsal žádné příspěvky.",
-    "description": "The text for authors with 0 blog post"
   },
   "theme.contentVisibility.unlistedBanner.title": {
     "message": "Neveřejná stránka",
