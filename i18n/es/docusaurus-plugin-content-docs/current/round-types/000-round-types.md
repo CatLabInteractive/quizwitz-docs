@@ -5,7 +5,7 @@ title: Tipos de ronda
 
 # Tipos de rondas
 
-The round type influences the way the game shows the questions to the players - and how players earn points.  
+El tipo de ronda influye en la forma en que el juego muestra las preguntas a los jugadores - y cómo los jugadores ganan puntos.  
 En los quizzes, puedes cambiar el tipo de ronda en el campo de selección **Tipo de ronda** en la parte superior central de la pantalla.
 
 ## 🧠 Rondas normales
@@ -22,7 +22,7 @@ Estas rondas ofrecen un poco más de interactividad que las simples preguntas y 
 - [Multiquestion](022-multiquestion.md)
 - [Strike](023-strike.md)
 - [Dealer's Choice](024-dealers-choice.md)
-- [First come first served](025-first-come-first-served.md)
+- [El primero en llegar, primero en ser atendido](025-first-come-first-served.md)
 
 ## 🍺 Tradicional
 
@@ -30,12 +30,12 @@ Para quien quiera organizar quizzes tradicionales de pub donde los jugadores pue
 Estos tipos de ronda simulan "entregar los papeles" después de cada ronda.
 
 - [Tradicional](030-traditional.md)
-- [Traditional - Common thread](031-traditional-ct.md)
+- [Tradicional - Hilo común](031-traditional-ct.md)
 - [Alfabeto](032-alphabet.md)
 
 ## 🎉 Eventos en vivo
 
-These round types do not contain any questions - but instead influence the outcome of the game.
+Estos tipos de ronda no contienen preguntas - sino que influyen en el resultado del juego.
 
 - [Actividad](040-activity.md)
 - [Intermedio](060-intermission.md)
@@ -47,5 +47,5 @@ These round types do not contain any questions - but instead influence the outco
 
 En estos tipos de ronda, puedes seleccionar **departamentos** específicos que compiten contra otros departamentos.
 
-- [Department - Dealer's Choice](070-departments-dealers-choice.md)
-- [Department - Elimination](071-departments-elimination.md)
+- [Departamentos - Dealer's Choice](070-departments-dealers-choice.md)
+- [Departamentos - Eliminación](071-departments-elimination.md)
