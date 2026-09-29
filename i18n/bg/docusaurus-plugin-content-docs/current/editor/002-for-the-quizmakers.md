@@ -6,7 +6,7 @@ title: Въведение
 # 🛠️ Ръководство за създателя на куизове
 
 Добре дошъл в ръководството за създатели на куизове!  
-В QuizWitz можеш да създаваш и организираш собствено съдържание за куизове — или да събираш и ремиксираш съдържание, направено от други.
+On QuizWitz, you can build and organize your own quiz content - or collect and remix content made by others.
 
 ---
 
@@ -14,8 +14,8 @@ title: Въведение
 
 Като създател на куизове можеш да работиш с:
 
-- **Round-Abouts** — малки тематични колекции от въпроси, показвани в произволен ред
-- **Пълни куизове** — персонализирани куизове, комбиниращи няколко Round-Abouts в конкретна последователност
+- **Round-Abouts** - Small, themed collections of questions shown in random order
+- **Full Quizzes** - Custom quizzes, combining multiple Round-Abouts in a specific sequence
 
 Можеш също да **събираш Round-Abouts**, създадени от други членове, и да ги включваш в собствените си куизове.
 
