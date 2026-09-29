@@ -6,7 +6,7 @@ title: Pregunta de mejor respuesta
 # 🎖️ Pregunta de mejor respuesta
 
 En el tipo de **Pregunta de mejor respuesta**, los jugadores escriben sus propias respuestas a una pregunta abierta.  
-Los puntos se otorgan manualmente por el quizmaster, o —si no hay quizmaster— haciendo que los jugadores voten por su respuesta favorita.
+Points are awarded either manually by the quizmaster, or - if there is no quizmaster - by having players vote for their favorite response.
 
 ---
 
