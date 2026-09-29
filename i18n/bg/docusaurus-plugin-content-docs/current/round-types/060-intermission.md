@@ -5,7 +5,7 @@ title: Антракт
 
 # ⏸️ Антракт
 
-**Антракт** е специален рунд-събитие, който спира викторината за почивка — идеално за разтягане, разговори или промотиране на спонсори.
+**Intermission** is a special event round that pauses the quiz for a break - ideal for stretching, chatting, or promoting sponsors.
 
 ---
 
@@ -23,7 +23,7 @@ title: Антракт
 ## 🖼️ Прикачени файлове
 
 - Можеш да качваш изображения, лога или видеа в настройките на рунда.
-- По време на паузата тези прикачени файлове се показват във въртележка на екрана на играта - чудесни за лога на спонсори, съобщения или промоционални видеа.
+- During the intermission, these attachments will be shown in a carousel on the game screen - great for sponsor logos, messages, or promotional videos.
 - Прикачените файлове ще се повтарят през цялата почивка.
 
 ---
