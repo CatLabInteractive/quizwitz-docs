@@ -23,9 +23,9 @@ Jede Seite erklärt, wann diese Anhänge während des Spiels angezeigt werden.
 
 Hier ist eine allgemeine (nicht abschließende) Liste kompatibler Formate:
 
-- **Bilder** — `.png`, `.jpeg`, `.gif` (nicht animiert). Full HD (1920×1080) empfohlen
-- **Audio** — Die meisten Standardformate werden unterstützt
-- **Video** — Die meisten Standardformate werden unterstützt
+- **Bilder** - `.png`, `.jpeg`, `.gif` (nicht animiert). Full HD (1920×1080) empfohlen
+- **Audio** - Die meisten Standardformate werden unterstützt
+- **Video** - Die meisten Standardformate werden unterstützt
 
 > 🔊 ⏱️ Audio- und Videoanhänge sollten **nicht länger als 15 Minuten** dauern.
 
@@ -35,8 +35,8 @@ Hier ist eine allgemeine (nicht abschließende) Liste kompatibler Formate:
 
 Jeder Anhang kann einen Namen und eine optionale Quellenangabe haben:
 
-- **Name** — Wird dem quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) angezeigt; hilft bei der Organisation der Anhänge
-- **Quellenangabe** — Wird den Spielern als Anerkennung oder Quelleninformation angezeigt. Dies sollte der **Name des Rechteinhabers** sein.
+- **Name** - Wird dem Quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) angezeigt; hilft bei der Organisation der Anhänge
+- **Quellenangabe** - Wird den Spielern als Anerkennung oder Quelleninformation angezeigt. Dies sollte der **Name des Rechteinhabers** sein.
 
 > ⚠️ Um ein Round-About oder Quiz zu **veröffentlichen**, **müssen alle Anhänge eine gültige Quellenangabe** enthalten. Ohne diese können deine Einträge nicht öffentlich gemacht werden.
 
@@ -46,8 +46,8 @@ Jeder Anhang kann einen Namen und eine optionale Quellenangabe haben:
 
 Einige Anhangsstellen unterstützen **Effekte**, um visuelle Inhalte nach und nach zu enthüllen:
 
-- **Keine** — Die Datei wird unverändert angezeigt
-- **Spotlight-Effekt** — Enthüllt nach und nach Teile des Bildes mit einem sich bewegenden Spotlight, das sich währenddessen erweitert
+- **Keine** - Die Datei wird unverändert angezeigt
+- **Spotlight-Effekt** - Enthüllt nach und nach Teile des Bildes mit einem sich bewegenden Spotlight, das sich währenddessen erweitert
 
 Dies ist besonders effektiv für Rätsel oder langsame Enthüllungen während Einleitungen oder dramatischen Momenten.
 
