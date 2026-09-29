@@ -1,52 +1,52 @@
 ---
 id: grid-question
-title: Grid question
+title: Gridvraag
 ---
 
-# 🔲 Grid question
+# 🔲 Gridvraag
 
-In a **Grid question**, all answer options are shown as a grid of cells. Players select every cell they think is correct - for example "Select all the countries in South America" or "Which of these animals are mammals?"
-
----
-
-## 📝 How it works
-
-- **Question:** Clearly state what players should select.
-- **Options:** Enter all the cells of the grid, and mark every correct one. The options are arranged in a square grid on the player's device and on the game screen.
-- **Player input:** Players tap cells to select or deselect them, up to the maximum number of answers. When the minimum and maximum number of answers are the same, the answer is sent as soon as that many cells are selected.
-- **Wrong cells cost nothing:** selecting a wrong cell doesn't take points away.
-- **Feedback:** After answering, players see which cells were correct.
+Bij een **gridvraag** worden alle antwoordopties getoond als een raster van vakjes. Spelers selecteren elk vakje dat volgens hen juist is - bijvoorbeeld "Selecteer alle landen in Zuid-Amerika" of "Welke van deze dieren zijn zoogdieren?"
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Hoe het werkt
 
-- **Minimum and maximum answers:** Define how many cells a player may select. By default the maximum is the number of correct options.
-- **Points are awarded:**
-  - _For each correct answer_ (default) - players earn the question's points for every correct cell they select.
-  - _Only with the minimum number of correct answers_ - players earn the question's points once, when they select at least the minimum number of correct cells.
-
-> ⚠️ When you choose _Only with the minimum number of correct answers_, set the minimum answers to at least 1. Without a minimum, every answer - even an empty one - earns the full points.
-
-See [writing questions](../editor/005-writing-questions.md) for general question settings.
+- **Vraag:** Geef duidelijk aan wat spelers moeten selecteren.
+- **Opties:** Voer alle vakjes van het raster in en markeer elk juist vakje. De opties worden in een vierkant raster geplaatst op het apparaat van de speler en op het spelscherm.
+- **Spelerinvoer:** Spelers tikken op vakjes om ze te selecteren of te deselecteren, tot het maximum aantal antwoorden. Als het minimum en maximum aantal antwoorden gelijk zijn, wordt het antwoord verzonden zodra er zoveel vakjes geselecteerd zijn.
+- **Foute vakjes kosten niets:** een fout vakje selecteren kost geen punten.
+- **Feedback:** Na het antwoorden zien spelers welke vakjes juist waren.
 
 ---
 
-## 🏆 Scoring
+## ⚙️ Uitgebreide instellingen
 
-Grid questions use **time-based scoring** by default: faster answers earn more points, but most of the points are fixed.
-You can turn off time-based scoring per question.
+- **Minimum en maximum aantal antwoorden:** Bepaal hoeveel vakjes een speler mag selecteren. Standaard is het maximum gelijk aan het aantal juiste opties.
+- **Punten worden toegekend:**
+  - _Voor elk juist antwoord_ (standaard) - spelers verdienen de punten van de vraag voor elk juist vakje dat ze selecteren.
+  - _Alleen met het minimum aantal juiste antwoorden_ - spelers verdienen de punten van de vraag één keer, wanneer ze minstens het minimum aantal juiste vakjes selecteren.
 
-See [Scoring options in round settings](../editor/008-round-options.md#scoring) for details.
+> ⚠️ Kies je _Alleen met het minimum aantal juiste antwoorden_, stel het minimum aantal antwoorden dan in op minstens 1. Zonder minimum levert elk antwoord - zelfs een leeg antwoord - de volledige punten op.
 
----
-
-## 💡 Tips for great grid questions
-
-- **Keep the grid readable:** short option texts work best. Nine or sixteen cells make a neat square.
-- **Add convincing wrong cells:** since wrong cells cost nothing, the challenge is in finding all the right ones.
-- **Tell players how many to find:** mention it in the question, or set the minimum and maximum answers to the same number.
+Zie [vragen schrijven](../editor/005-writing-questions.md) voor algemene vraaginstellingen.
 
 ---
 
-Grid questions are perfect for "select all that apply" challenges!
+## 🏆 Scoresysteem
+
+Gridvragen gebruiken standaard **tijdgebaseerde scoring**: snellere antwoorden leveren meer punten op, maar het grootste deel van de punten ligt vast.
+Je kunt tijdgebaseerde scoring per vraag uitschakelen.
+
+Zie [scoreopties in de ronde-instellingen](../editor/008-round-options.md#scoring) voor details.
+
+---
+
+## 💡 Tips voor goede gridvragen
+
+- **Houd het raster leesbaar:** korte optieteksten werken het best. Negen of zestien vakjes vormen een mooi vierkant.
+- **Voeg overtuigende foute vakjes toe:** omdat foute vakjes niets kosten, zit de uitdaging in het vinden van alle juiste.
+- **Vertel spelers hoeveel ze er moeten vinden:** vermeld het in de vraag, of stel het minimum en maximum aantal antwoorden in op hetzelfde getal.
+
+---
+
+Gridvragen zijn perfect voor "selecteer alles wat van toepassing is"-uitdagingen!
