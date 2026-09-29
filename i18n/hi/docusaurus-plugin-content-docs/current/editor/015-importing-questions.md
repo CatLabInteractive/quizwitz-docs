@@ -47,14 +47,14 @@ QuizWitz में किसी round में जल्दी से प्र
 
 हर row में नीचे दिए गए columns इसी exact order में होने चाहिए:
 
-1. **छोटा प्रश्न** — player screen पर दिखाया जाता है
+1. **छोटा प्रश्न** - player screen पर दिखाया जाता है
 2. **सही उत्तर**
 3. **गलत उत्तर 1** (open questions के लिए खाली छोड़ें)
 4. **गलत उत्तर 2**
 5. **गलत उत्तर 3**
-6. **छोटा feedback** — जवाब देने के बाद player screen पर दिखाया जाता है
-7. **लंबा प्रश्न** _(optional)_ — quizmaster screen पर दिखाया जाता है
-8. **लंबा feedback** _(optional)_ — quizmaster के ज़ोर से पढ़ने के लिए explanation
+6. **छोटा feedback** - जवाब देने के बाद player screen पर दिखाया जाता है
+7. **लंबा प्रश्न** _(optional)_ - क्विज़मास्टर screen पर दिखाया जाता है
+8. **लंबा feedback** _(optional)_ - क्विज़मास्टर के ज़ोर से पढ़ने के लिए explanation
 
 > 📌 आखिरी दो columns सिर्फ [QuizWitz Live](../quizmaster/001-introduction.md) में इस्तेमाल होते हैं, लेकिन इन्हें फिर भी शामिल करना ज़रूरी है (भले ही खाली छोड़ा हो)।
 
