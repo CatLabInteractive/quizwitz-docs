@@ -5,7 +5,7 @@ title: Tema Emerald
 
 # Tema Emerald
 
-Il tema Emerald è il modo più semplice per personalizzare l'aspetto del tuo gioco QuizWitz. Per impostazione predefinita, il tema ha uno stile pulito blu/verde con colori delle opzioni vivaci, ma combinando gli allegati del quiz e i modificatori del tema puoi cambiarne l'aspetto — anche drasticamente.
+Il tema Emerald è il modo più semplice per personalizzare l'aspetto del tuo gioco QuizWitz. Per impostazione predefinita, il tema ha uno stile pulito blu/verde con colori delle opzioni vivaci, ma combinando gli allegati del quiz e i modificatori del tema puoi cambiarne l'aspetto - anche drasticamente.
 
 :::tip
 Puoi usare il nostro [tester del tema](https://client.quizwitz.com/test.html?theme=emerald) per vedere come appariranno le tue impostazioni.
@@ -51,7 +51,7 @@ Anche tutta la musica del gioco può essere sostituita con allegati. Qualsiasi f
 
 ## Modificatori del tema Emerald
 
-Oltre agli allegati, puoi anche modificare il tema Emerald con i **parametri di query**. Questi sono parametri che puoi aggiungere all'URL delle **opzioni di gioco avanzate** — e cambiano l'aspetto del tema.
+Oltre agli allegati, puoi anche modificare il tema Emerald con i **parametri di query**. Questi sono parametri che puoi aggiungere all'URL delle **opzioni di gioco avanzate** - e cambiano l'aspetto del tema.
 
 Per questo, partiremo da un quiz di esempio (senza allegati):  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
@@ -81,7 +81,7 @@ In più, puoi impostare un font predefinito:
 
 Questi font devono essere URL di file di font disponibili pubblicamente.
 
-Ognuno di questi modificatori può contenere un singolo colore in formato esadecimale HTML (ff0000), oppure un gradiente lineare fornendo più colori separati da un trattino (— per esempio ff1b6b-45caff). (Nota che il simbolo # non deve essere aggiunto.)
+Ognuno di questi modificatori può contenere un singolo colore in formato esadecimale HTML (ff0000), oppure un gradiente lineare fornendo più colori separati da un trattino ( - per esempio ff1b6b-45caff). (Nota che il simbolo # non deve essere aggiunto.)
 
 :::note
 I parametri di query devono iniziare con un punto interrogativo ( ? ) e ogni parametro deve essere separato con una e commerciale ( & ). Per maggiori informazioni sui parametri di query, visita [wikipedia](https://en.wikipedia.org/wiki/Query_string).
