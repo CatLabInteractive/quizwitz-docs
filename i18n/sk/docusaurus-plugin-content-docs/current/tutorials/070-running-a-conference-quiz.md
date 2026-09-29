@@ -5,7 +5,7 @@ title: Ako viesť kvíz na konferencii
 
 # Ako viesť kvíz na konferencii
 
-Tento návod ťa prevedie všetkým, čo potrebuješ vedieť na spustenie kvízu QuizWitz pri konferenčnom stánku alebo na podujatí — od otvorenia odkazu na kvíz až po záverečný rebríček.
+Tento návod ťa prevedie všetkým, čo potrebuješ vedieť na spustenie kvízu QuizWitz pri konferenčnom stánku alebo na podujatí - od otvorenia odkazu na kvíz až po záverečný rebríček.
 
 ---
 
@@ -16,7 +16,7 @@ Skôr než začneš, uisti sa, že máš:
 - Stabilné internetové pripojenie
 - URL kvízu (poskytnutú vopred)
 - Notebook pripojený k obrazovke, ktorú budú hráči sledovať
-- **Google Chrome** — iné prehliadače, napríklad Safari alebo Edge, nemusia fungovať správne
+- **Google Chrome** - iné prehliadače, napríklad Safari alebo Edge, nemusia fungovať správne
 
 ---
 
@@ -27,7 +27,7 @@ Skôr než začneš, uisti sa, že máš:
 
 2. Zobrazí sa čierna načítavacia obrazovka s percentami. Trvá to len pár sekúnd.
 
-3. Po načítaní sa objaví herná obrazovka. Ak sa zobrazí výzva na prihlásenie, klikni na **Login** — otvorí sa druhá karta.
+3. Po načítaní sa objaví herná obrazovka. Ak sa zobrazí výzva na prihlásenie, klikni na **Login** - otvorí sa druhá karta.
    - Na prihlasovacej stránke klikni na **Login** a zadaj prihlasovacie údaje, ktoré si dostal/a.
    - Po prihlásení sa karta automaticky zatvorí a kvíz sa dokončí načítavať.
 
@@ -38,7 +38,7 @@ Skôr než začneš, uisti sa, že máš:
    Kvíz je teraz pripravený na hranie na hernej obrazovke.
 
 :::tip
-Ak chceš kedykoľvek ukončiť režim celej obrazovky — napríklad prepnúť na iné okno — stlač **Esc**.
+Ak chceš kedykoľvek ukončiť režim celej obrazovky - napríklad prepnúť na iné okno - stlač **Esc**.
 :::
 
 ---
@@ -47,8 +47,8 @@ Ak chceš kedykoľvek ukončiť režim celej obrazovky — napríklad prepnúť 
 
 Ak chceš po dokončenej hre hrať znova, máš niekoľko možností:
 
-- **Znovu načítaj stránku** — klikni na ikonu obnovenia v paneli nástrojov Chrome (možno budeš musieť najprv stlačiť Esc, aby si ukončil/a režim celej obrazovky).
-- **Stlač S** — po skončení kvízu ťa stlačenie **S** na klávesnici vráti na úvodnú obrazovku.
+- **Znovu načítaj stránku** - klikni na ikonu obnovenia v paneli nástrojov Chrome (možno budeš musieť najprv stlačiť Esc, aby si ukončil/a režim celej obrazovky).
+- **Stlač S** - po skončení kvízu ťa stlačenie **S** na klávesnici vráti na úvodnú obrazovku.
 
 Ak sa zobrazí vyskakovacie okno s otázkou, či chceš spustiť novú hru, klikni na **Yes, start new game**.
 
