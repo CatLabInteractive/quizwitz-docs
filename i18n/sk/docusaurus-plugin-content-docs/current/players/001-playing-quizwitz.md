@@ -11,12 +11,12 @@ Vitaj v QuizWitz! Či už hráš sólo alebo s priateľmi, tento sprievodca ti p
 
 ## 🎯 Vyber si, čo hrať
 
-Začni prehliadaním dostupných **Round-Abouts** — krátkych tematických kôl kvízových otázok. Použi menu v hornej časti obrazovky a preskúmaj:
+Začni prehliadaním dostupných **Round-Abouts** - krátkych tematických kôl kvízových otázok. Použi menu v hornej časti obrazovky a preskúmaj:
 
-- **Nové** — Objav najnovšie Round-Abouts
-- **Moja zbierka** — Získaj prístup ku všetkému, čo si si uložil/a alebo vytvoril/a
-- **Zbierať** — Nájdi Round-Abouts vytvorené komunitou
-- **Rýchla hra** — Skoč rovno do náhodného výberu
+- **Nové** - Objav najnovšie Round-Abouts
+- **Moja kolekcia** - Získaj prístup ku všetkému, čo si si uložil/a alebo vytvoril/a
+- **Zbierať** - Nájdi Round-Abouts vytvorené komunitou
+- **Rýchla hra** - Skoč rovno do náhodného výberu
 
 ![Horná navigačná lišta QuizWitz](/images/top-menu-play.png)
 
@@ -39,7 +39,7 @@ Patrí sem:
 - Bingá
 - …
 
-Položky môžeš kedykoľvek usporiadať, hrať alebo odstrániť. Toto je tvoja osobná knižnica — zostav si ju, ako sa ti páči!
+Položky môžeš kedykoľvek usporiadať, hrať alebo odstrániť. Toto je tvoja osobná knižnica - zostav si ju, ako sa ti páči!
 
 ---
 
@@ -63,7 +63,7 @@ Chceš si vytvoriť plnú kvízovú hru z viacerých Round-Abouts? Takto na to:
 - Klikni na **Pridať do mojej zbierky** vnútri Round-About
 - Alebo klikni na **ikonu hviezdičky** na dlaždici Round-About
 
-Ak ho chceš neskôr odstrániť, stačí znova kliknúť na hviezdičku — teraz bude písať **Odstrániť z mojej zbierky**.
+Ak ho chceš neskôr odstrániť, stačí znova kliknúť na hviezdičku - teraz bude písať **Odstrániť z mojej kolekcie**.
 
 ![Pridaj Round-About do svojej zbierky](/images/add-to-collection.png)
 
@@ -80,7 +80,7 @@ Keď budeš pripravený/á:
 
 Vyber si:
 
-- **Herný režim** — Jeden hráč alebo Párty hra
+- **Herný režim** - Jeden hráč alebo Párty hra
 - **Ktoré Round-Abouts** zahrnúť do tvojej relácie
 
 QuizWitz sa pokúsi preskočiť otázky, ktoré si už videl/a.
