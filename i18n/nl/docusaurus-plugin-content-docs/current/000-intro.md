@@ -13,7 +13,7 @@ title: Introductie
 - Professionele quiz-evenementen hosten met live tools
 - Je eigen quizzes, rondes, afspeellijsten en meer maken
 
-Of je nu hier bent om te ontspannen, presenteren of bouwen — we hebben de tools voor jou.
+Of je nu hier bent om te ontspannen, presenteren of bouwen - we hebben de tools voor jou.
 
 Neem even de tijd om de verschillende rollen en beschikbare tools te verkennen. Het duurt maar een minuutje.
 
@@ -23,11 +23,11 @@ Neem even de tijd om de verschillende rollen en beschikbare tools te verkennen. 
 
 Deze gids is verdeeld in secties gebaseerd op hoe je QuizWitz gebruikt:
 
-- [**Spelersgids**](players/001-playing-quizwitz.md) — Leer hoe je quizzes verzamelt, speelt en ervan geniet
-- [**Quizmaker Gids**](editor/002-for-the-quizmakers.md) — Bouw je eigen vragen, rondes en complete quizzes
-- [**Quizmaster Gids**](quizmaster/001-introduction.md) — Host een live spel met QuizWitz Live
+- [**Spelersgids**](players/001-playing-quizwitz.md) - Leer hoe je quizzen verzamelt, speelt en ervan geniet
+- [**Quizmakergids**](editor/002-for-the-quizmakers.md) - Bouw je eigen vragen, rondes en complete quizzen
+- [**Quizmastergids**](quizmaster/001-introduction.md) - Host een live spel met QuizWitz Live
 
-Verken de secties die passen bij jouw rol — of allemaal als je nieuwsgierig bent!
+Verken de secties die passen bij jouw rol - of allemaal als je nieuwsgierig bent!
 
 ---
 
