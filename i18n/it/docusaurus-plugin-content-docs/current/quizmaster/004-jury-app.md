@@ -3,7 +3,7 @@ id: jury-app
 title: App Giuria
 ---
 
-# 🧑‍⚖️ App della Giuria — Riesame delle risposte aperte in QuizWitz Live
+# 🧑‍⚖️ App giuria - Valutazione delle risposte aperte in QuizWitz Live
 
 Se il tuo quiz include **domande di risposta aperte**, dovrai utilizzare l'**App Giuria** per rivedere manualmente e valutare le risposte.
 
@@ -19,20 +19,20 @@ Per aprire l'App della Giuria:
 2. Su un dispositivo separato, vai su [**quizwitz.tv**](https://quizwitz.tv)
 3. Inserisci il **Codice giuria** per accedere all'app
 
-> 💡 È possibile aprire l'App della Giuria su qualsiasi browser — si tratta di una web app, nessuna installazione richiesta.
+> 💡 Puoi aprire l'app giuria in qualsiasi browser - è una web app, non serve alcuna installazione.
 
 Una volta all'interno, l'App della Giuria fornisce diversi strumenti utili:
 
-- **Valuta le domande** — I risultati delle domande aperte appariranno una volta completata la domanda.
+- **Valuta le domande** - I risultati delle domande aperte appariranno una volta completata la domanda.
   - Il gioco **non aspetta** che la giuria finisca, a meno che non sia l'**ultima domanda del round** o che le impostazioni del quiz dicano diversamente.
   - Una volta valutati, i risultati appaiono **dopo la domanda successiva**.
 
-- **Modifica i punteggi** — Assegna o revoca manualmente punti per giocatore o team.
+- **Modifica i punteggi** - Assegna o revoca manualmente punti per giocatore o team.
 
-- **Controllo del gioco** — Regola i timer delle domande o aggiungi ritardi dello streaming, se necessario.
+- **Controllo del gioco** - Regola i timer delle domande o aggiungi ritardi dello streaming, se necessario.
   > Per configurare il ritardo della diretta streaming, vedi [**come ospitare un quiz QuizWitz Live su Twitch**](../tutorials/040-livestreaming.md)
 
-- **Report** — Genera un report completo della partita con risultati e risposte dei giocatori.
+- **Report** - Genera un report completo della partita con risultati e risposte dei giocatori.
 
 ![Screenshot of the Jury App in Pending state](/images/jury-app-waiting.png)
 
