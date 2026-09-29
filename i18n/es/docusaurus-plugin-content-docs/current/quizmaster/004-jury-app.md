@@ -3,7 +3,7 @@ id: jury-app
 title: Aplicación del jurado
 ---
 
-# 🧑‍⚖️ Jury App - Reviewing open answers in QuizWitz Live
+# 🧑‍⚖️ App del jurado - Revisar respuestas abiertas en QuizWitz Live
 
 Si tu quiz incluye **preguntas de respuesta abierta**, necesitarás usar la **aplicación del jurado** para revisar y puntuar manualmente las respuestas.
 
@@ -19,20 +19,20 @@ Para abrir la Aplicación del Jurado:
 2. En un dispositivo aparte, ve a [**quizwitz.tv**](https://quizwitz.tv)
 3. Ingresa el **código del jurado** para acceder a la aplicación
 
-> 💡 You can open the Jury App on any browser - it's a web app, no installation required.
+> 💡 Puedes abrir la app del jurado en cualquier navegador - es una aplicación web, no requiere instalación.
 
 Una vez dentro, la aplicación del jurado proporciona varias herramientas útiles:
 
-- **Judge questions** - Open question results will appear once a question is completed.
-  - The game does **not wait** for the jury to finish - unless it’s the **last question of the round** or the quiz settings say otherwise.
+- **Juzgar preguntas** - Los resultados de preguntas abiertas aparecerán una vez que la pregunta se complete.
+  - El juego **no espera** a que el jurado termine - a menos que sea la **última pregunta de la ronda** o las configuraciones del quiz indiquen lo contrario.
   - Una vez juzgado, los resultados aparecen **después de la siguiente pregunta**.
 
-- **Edit scores** - Grant or revoke points manually per player or team.
+- **Editar puntuaciones** - Otorga o revoca puntos manualmente por jugador o equipo.
 
-- **Game control** - Adjust question timers or add streaming delays if needed.
+- **Control del juego** - Ajusta los temporizadores de preguntas o añade retrasos en el streaming si es necesario.
   > Para configurar el retraso en la transmisión en vivo, consulta [**cómo organizar un quiz QuizWitz Live en Twitch**](../tutorials/040-livestreaming.md)
 
-- **Report** - Generate a full game report with results and player answers.
+- **Informe** - Genera un informe completo del juego con resultados y respuestas de jugadores.
 
 ![Captura de pantalla de la aplicación Jury en estado Pendiente](/images/jury-app-waiting.png)
 
@@ -54,7 +54,7 @@ QuizWitz detectará **automáticamente coincidencias exactas** y las marcará co
 - Coincidencias fonéticas
 - Variaciones comunes de ortografía
 
-> 🎙️ QuizWitz was designed with phonetic matching in mind - but the final decision is always up to the judges.
+> 🎙️ QuizWitz se diseñó pensando en la coincidencia fonética - pero la decisión final siempre la tiene el jurado.
 
 ---
 
