@@ -6,7 +6,7 @@ title: Въпрос за най-добър отговор
 # 🎖️ Въпрос за най-добър отговор
 
 При типа **Въпрос за най-добър отговор** играчите пишат свои собствени отговори на отворен въпрос.  
-Точките се присъждат или ръчно от quizmaster, или — ако няма quizmaster — като играчите гласуват за любимия си отговор.
+Points are awarded either manually by the quizmaster, or - if there is no quizmaster - by having players vote for their favorite response.
 
 ---
 
