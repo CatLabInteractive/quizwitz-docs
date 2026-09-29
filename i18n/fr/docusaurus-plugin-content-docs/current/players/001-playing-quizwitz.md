@@ -11,12 +11,12 @@ Bienvenue sur QuizWitz ! Que vous jouiez seul ou entre amis, ce guide vous aider
 
 ## 🎯 Choisissez quoi jouer
 
-Commencez par parcourir les **Round-Abouts** disponibles — de courtes manches thématiques de questions de quiz. Utilisez le menu en haut de l'écran pour explorer :
+Start by browsing the available **Round-Abouts** - short themed rounds of quiz questions. Utilisez le menu en haut de l'écran pour explorer :
 
-- **Nouveau** — Découvrez les derniers Round-Abouts
-- **Ma Collection** — Accédez à tout ce que vous avez sauvegardé ou créé
-- **Collecter** — Trouvez des Round-Abouts créés par la communauté
-- **Jeu Rapide** — Lancez-vous avec une sélection aléatoire
+- **New** - Discover the latest Round-Abouts
+- **My Collection** - Access everything you've saved or created
+- **Collect** - Find Round-Abouts made by the community
+- **Quick Play** - Jump into a random selection
 
 ![QuizWitz top navigation bar](/images/top-menu-play.png)
 
@@ -39,13 +39,13 @@ Cela inclut :
 - Bingos
 - ...
 
-Vous pouvez organiser, jouer ou supprimer des éléments à tout moment. C'est votre bibliothèque personnelle — construisez-la comme vous le souhaitez !
+Vous pouvez organiser, jouer ou supprimer des éléments à tout moment. This is your personal library - build it how you like!
 
 ---
 
 ## 🧠 Choisissez un Round-About
 
-Un **Round-About** est une petite manche de questions sur un thème — comme son nom l'indique, une manche _autour_ d'un sujet. Jouer un seul vous offre une partie courte avec 7 questions aléatoires.
+A **Round-About** is a small, themed round of questions - as the name says, a round _about_ a subject. Jouer un seul vous offre une partie courte avec 7 questions aléatoires.
 
 Pour explorer un Round-About plus en détail :
 
@@ -63,7 +63,7 @@ Vous voulez créer un quiz complet à partir de plusieurs Round-Abouts ? Voici c
 - Cliquez sur **Ajouter à ma collection** dans le Round-About
 - Ou cliquez sur l'**icône étoile** sur la tuile du Round-About
 
-Pour en retirer un plus tard, cliquez à nouveau sur l'étoile — ce sera alors **Supprimer de ma collection**.
+To remove one later, just click the star again - it’ll now say **Remove from my collection**.
 
 ![Add a Round-About to your collection](/images/add-to-collection.png)
 
@@ -80,7 +80,7 @@ Quand vous êtes prêt :
 
 Choisissez :
 
-- **Mode de jeu** — Solo ou Jeu de groupe
+- **Game mode** - Single Player or Party Game
 - **Quels Round-Abouts** inclure dans votre partie
 
 QuizWitz essaiera de passer les questions que vous avez déjà vues.
@@ -107,17 +107,17 @@ Une fois votre partie lancée, choisissez votre mode :
 
 Jouez avec des amis utilisant leurs propres téléphones ou tablettes :
 
-> 📺 Assurez-vous que l'écran de jeu est visible — utilisez un écran partagé ou un partage d'écran
+> 📺 Make sure the game screen is visible - use a shared display or screen share
 
 1. Cliquez sur **Démarrer**, puis **Jeu de groupe**
 2. Les joueurs suivent les instructions à l'écran pour rejoindre
 3. Cliquez sur **Démarrer le quiz** quand tout le monde est prêt
 
-Une fois le quiz lancé, **la partie se déroule automatiquement** — les questions apparaissent, les minuteurs décomptent et les scores sont comptabilisés sans aucune intervention de l'hôte.
+Once the quiz starts, **the game runs automatically** - questions appear, timers count down, and scores are tallied without any host intervention.
 
 > ⏸️ Besoin d'une pause ? Déplacez votre souris au bas de l'écran de jeu et un bouton **pause** apparaîtra. La pause est le seul moyen d'interrompre un Jeu de groupe.
 >
-> Vous voulez contrôler le rythme de la partie vous-même — décider quand chaque question commence ? Ce n'est possible qu'avec [**QuizWitz Live**](../quizmaster/001-introduction.md) et Quizmaster App.
+> Want to control the pacing of the game yourself - deciding when each question starts? Ce n'est possible qu'avec [**QuizWitz Live**](../quizmaster/001-introduction.md) et Quizmaster App.
 
 ![QuizWitz start screen](/images/quizwitz-start-screen.png)  
 ![QuizWitz start screen party](/images/quizwitz-start-screen-party.png)  
