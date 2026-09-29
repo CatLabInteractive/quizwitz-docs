@@ -17,7 +17,7 @@ Ce sont les types de questions les plus courants. Ils sont faciles à comprendre
 - [Choix multiple](001-multiple-choice.md) (par défaut)
 - [Question d'ordre](003-order-question.md)
 - [Question avec carte image](004-image-map.md)
-- [Grid question](008-grid-question.md)
+- [Question grille](008-grid-question.md)
 
 ## Questions ouvertes
 
