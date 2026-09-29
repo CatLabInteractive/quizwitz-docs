@@ -7,14 +7,14 @@ title: Handleiding voor thema-ontwerp
 
 [Thematisering](/docs/advanced/theming) legt uit hoe een QuizWitz-thema gebouwd wordt: in Adobe Animate, geëxporteerd als een CreateJS-bibliotheek. Deze pagina gaat over de stap daarvoor - het **ontwerpen** van het thema.
 
-It is written for a graphic designer, and it assumes that design and Animate production are done by different people. Few designers still work in Adobe Animate, so a designer usually delivers artwork and someone else assembles the theme. That works well, as long as the artwork arrives in a shape the build can use. Deze pagina beschrijft die vorm, en dient meteen als lijst van op te leveren onderdelen wanneer je een ontwerper om een offerte vraagt.
+Ze is geschreven voor een grafisch ontwerper en gaat ervan uit dat het ontwerp en de productie in Animate door verschillende mensen gebeuren. Weinig ontwerpers werken nog in Adobe Animate, dus meestal levert een ontwerper het beeldmateriaal aan en zet iemand anders het thema in elkaar. Dat werkt goed, zolang het beeldmateriaal aankomt in een vorm waarmee de bouw verder kan. Deze pagina beschrijft die vorm, en dient meteen als lijst van op te leveren onderdelen wanneer je een ontwerper om een offerte vraagt.
 
-The page has four parts:
+De pagina bestaat uit vier delen:
 
-1. [What you are designing](#what-you-are-designing) - the screens a theme covers.
-2. [The eight frames](#eight-frames-and-an-element-sheet) and [the element sheet](#the-element-sheet), one by one, with screenshots.
-3. [Design rules](#design-rules) - how the file has to be built so the engine can use it.
-4. [What to hand over](#what-to-hand-over) - source file, deliverables and order of work.
+1. [Wat je ontwerpt](#what-you-are-designing) - de schermen die een thema beslaat.
+2. [De acht frames](#eight-frames-and-an-element-sheet) en [het elementenblad](#the-element-sheet), een voor een, met schermafbeeldingen.
+3. [Ontwerpregels](#design-rules) - hoe het bestand opgebouwd moet zijn zodat de engine het kan gebruiken.
+4. [Wat je aanlevert](#what-to-hand-over) - bronbestand, op te leveren onderdelen en volgorde van het werk.
 
 :::tip
 Wil je alleen kleuren, lettertypen en achtergronden aanpassen, dan heb je dit allemaal niet nodig - pas dan het [Emerald-thema](/docs/advanced/emerald-theme) aan.
@@ -37,32 +37,32 @@ Een thema is de volledige visuele laag van het spelscherm: achtergrond, typograf
 
 ---
 
-## Eight frames and an element sheet
+## Acht frames en een elementenblad
 
-Het spel heeft tientallen verschillende schermtoestanden, maar de meeste zijn varianten van dezelfde opbouw. **You design eight frames and one sheet of elements; the rest is derived from them.** That is not a shortcut - it is how the engine works. Een scherm zonder eigen beeldmateriaal valt terug op een algemeen frame.
+Het spel heeft tientallen verschillende schermtoestanden, maar de meeste zijn varianten van dezelfde opbouw. **Je ontwerpt acht frames en één blad met elementen; de rest wordt daarvan afgeleid.** Dat is geen sluiproute - zo werkt de engine. Een scherm zonder eigen beeldmateriaal valt terug op een algemeen frame.
 
-The sheet matters as much as the frames: a fall-back screen still needs furniture inside its content area - a panel, a row, a rule.
+Het blad is even belangrijk als de frames: een scherm dat terugvalt op het algemene frame heeft nog steeds inrichting nodig in zijn contentvlak - een paneel, een rij, een lijn.
 
-| # | Frame                                                           | Also covers                                                               |
-| - | --------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 1 | [General frame](#frame-1---the-general-frame)                   | Thirteen screen states with no artwork of their own                       |
-| 2 | [Connect screen](#frame-2---the-connect-screen)                 | Draw it twice: with a client logo and without one         |
-| 3 | [Waiting screen](#frame-3---the-waiting-screen)                 | -                                                                         |
-| 4 | [Question screen](#frame-4---the-question-screen)               | -                                                                         |
-| 5 | [Question with attachment](#frame-5---question-with-attachment) | The full-screen attachment, and attachments shown between questions       |
-| 6 | [Answer screen](#frame-6---the-answer-screen)                   | The answer screen for open questions and for questions with an attachment |
-| 7 | [Standings and winner](#frame-7---standings-and-winner)         | The standings between rounds and the final winner                         |
-| 8 | [Round intro](#frame-8---the-round-intro)                       | All six round categories                                                  |
+| # | Frame                                                    | Omvat ook                                                               |
+| - | -------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 1 | [Algemeen frame](#frame-1---the-general-frame)           | Dertien schermtoestanden zonder eigen beeldmateriaal                    |
+| 2 | [Aanmeldscherm](#frame-2---the-connect-screen)           | Teken het twee keer: met en zonder klantlogo            |
+| 3 | [Wachtscherm](#frame-3---the-waiting-screen)             | -                                                                       |
+| 4 | [Vraagscherm](#frame-4---the-question-screen)            | -                                                                       |
+| 5 | [Vraag met bijlage](#frame-5---question-with-attachment) | De schermvullende bijlage, en bijlagen die tussen vragen worden getoond |
+| 6 | [Antwoordscherm](#frame-6---the-answer-screen)           | Het antwoordscherm voor open vragen en voor vragen met een bijlage      |
+| 7 | [Klassement en winnaar](#frame-7---standings-and-winner) | Het klassement tussen rondes en de uiteindelijke winnaar                |
+| 8 | [Ronde-intro](#frame-8---the-round-intro)                | Alle zes rondecategorieën                                               |
 
-:::note[About the screenshots]
-De schermen hieronder komen uit een bestaand thema. They show **which elements appear on each screen and when**. Ze zijn geen referentie voor stijl _of_ opmaak: waar dit thema zijn vraag, zijn opties en zijn timer plaatst, is zijn eigen keuze, en die van jou mag daar volledig van afwijken.
+:::note[Over de schermafbeeldingen]
+De schermen hieronder komen uit een bestaand thema. Ze tonen **welke elementen op elk scherm verschijnen, en wanneer**. Ze zijn geen referentie voor stijl _of_ opmaak: waar dit thema zijn vraag, zijn opties en zijn timer plaatst, is zijn eigen keuze, en die van jou mag daar volledig van afwijken.
 :::
 
 ### Frame 1 - het algemene frame
 
-**What is on it:** the background, a header title and an empty content area below it. It is not a finished composition but the frame the rest is built inside.
+**Wat erop staat:** de achtergrond, een koptitel en een leeg contentvlak daaronder. Het is geen afgewerkte compositie, maar het frame waarbinnen de rest wordt opgebouwd.
 
-**What it covers:** thirteen screen states - round explanation, standings, player introduction, multiple-choice variants, long questions, seat warnings, settings. Each fills the content area its own way with elements from the [element sheet](#the-element-sheet), so the frame has to hold things that look nothing alike. De vraagkeuze en de lange vraag mogen een eigen compositie krijgen als je dat wilt; anders gebruiken ze dit frame.
+**Wat het omvat:** dertien schermtoestanden - ronde-uitleg, klassement, spelerintroductie, varianten van meerkeuzevragen, lange vragen, waarschuwingen over seats, instellingen. Elk vult het contentvlak op zijn eigen manier met elementen van het [elementenblad](#the-element-sheet), dus het frame moet dingen kunnen dragen die totaal niet op elkaar lijken. De vraagkeuze en de lange vraag mogen een eigen compositie krijgen als je dat wilt; anders gebruiken ze dit frame.
 
 Twee spelmomenten op hetzelfde frame: een vraagkeuze en een puntenladder.
 
@@ -72,34 +72,34 @@ Twee spelmomenten op hetzelfde frame: een vraagkeuze en een puntenladder.
 
 Kijk hoe weinig ze gemeen hebben. De vraagkeuze zet haar drie rijen in een paneel met een rand; de ladder heeft helemaal geen paneel, alleen rijen die door dunne lijnen gescheiden worden. Wat de twee delen is de achtergrond en de kopbalk erboven - alles daaronder hoort bij het scherm zelf en wordt door het spel gevuld, niet door jou.
 
-That panel and those rules come from the [element sheet](#the-element-sheet), not from this frame. Wat dit frame moet doen, is ze kunnen dragen: ontwerp het contentvlak als een lege, neutrale, ruime zone die even goed werkt met een paneel met rand, een kale lijst en een tabel met rijen. Een achtergrond die druk is in het midden, of een kopbalk die alleen werkt met een paneel er vlak onder, is waar dat misloopt.
+Dat paneel en die lijnen komen van het [elementenblad](#the-element-sheet), niet van dit frame. Wat dit frame moet doen, is ze kunnen dragen: ontwerp het contentvlak als een lege, neutrale, ruime zone die even goed werkt met een paneel met rand, een kale lijst en een tabel met rijen. Een achtergrond die druk is in het midden, of een kopbalk die alleen werkt met een paneel er vlak onder, is waar dat misloopt.
 
-### Frame 2 - the connect screen
+### Frame 2 - het aanmeldscherm
 
-**What is on it:** everything the room needs in order to join.
+**Wat erop staat:** alles wat de zaal nodig heeft om mee te doen.
 
-- five lines of instruction
-- a join code and a QR code, both generated by the engine - reserve a square for the QR code
-- a line with the number of connected players
-- a list of players trickling in
+- vijf regels instructie
+- een spelcode en een QR-code, allebei gegenereerd door de engine - reserveer een vierkant voor de QR-code
+- een regel met het aantal verbonden spelers
+- een lijst van spelers die binnendruppelen
 
-**Draw it twice:** with a client logo beside the join code, and without one, where the theme's own artwork carries the screen.
+**Teken het twee keer:** met een klantlogo naast de spelcode, en zonder, waarbij het eigen beeldmateriaal van het thema het scherm draagt.
 
 ![Aanmeldscherm met een klantlogo](/images/theme-design/frame2-connect.png)
 
 ![Aanmeldscherm zonder klantlogo](/images/theme-design/frame2-connect-nologo.png)
 
-### Frame 3 - the waiting screen
+### Frame 3 - het wachtscherm
 
-**What is on it:** almost nothing - the quiz's own logo, or the theme's artwork.
+**Wat erop staat:** bijna niets - het eigen logo van de quiz, of het beeldmateriaal van het thema.
 
-It shares only a background with the connect screen, so design it as its own composition. It stays up while the quizmaster reads a question aloud, which puts it on screen longer than almost anything else in the game. It deserves more attention than an empty screen usually gets.
+Het deelt alleen de achtergrond met het aanmeldscherm, dus ontwerp het als een eigen compositie. Het blijft in beeld terwijl de quizmaster een vraag voorleest, waardoor het langer op het scherm staat dan bijna al het andere in het spel. Het verdient meer aandacht dan een leeg scherm gewoonlijk krijgt.
 
 ![Wachtscherm](/images/theme-design/frame2-pending.png)
 
-### Frame 4 - the question screen
+### Frame 4 - het vraagscherm
 
-**What is on it:** the question, a timer, four answer options and a feedback line. This is the screen the room looks at longest. Note that an option can consist of nothing but an emoji:
+**Wat erop staat:** de vraag, een timer, vier antwoordopties en een feedbackregel. Dit is het scherm waar de zaal het langst naar kijkt. Let op: een optie kan uit niets anders dan een emoji bestaan:
 
 ![Vraagscherm met vier tekstopties](/images/theme-design/frame3-question-options.png)
 
@@ -113,13 +113,13 @@ Het moment waarop de tijd om is. De feedbackballon verschijnt over het scherm en
 
 ![Vraagscherm met de melding dat de tijd om is](/images/theme-design/frame3-question-timeout.png)
 
-### Frame 5 - question with attachment
+### Frame 5 - vraag met bijlage
 
-**What is on it:** the same parts as frame 4, arranged around an image or video. It may be a different composition. De bijlage wordt geschaald om binnen het vak te passen dat jij tekent, dus zowel een liggende als een staande afbeelding moet erin acceptabel ogen.
+**Wat erop staat:** dezelfde onderdelen als in frame 4, geschikt rond een afbeelding of video. Het mag een andere compositie zijn. De bijlage wordt geschaald om binnen het vak te passen dat jij tekent, dus zowel een liggende als een staande afbeelding moet erin acceptabel ogen.
 
-**What it covers:** the full-screen attachment, and attachments shown between questions.
+**Wat het omvat:** de schermvullende bijlage, en bijlagen die tussen vragen worden getoond.
 
-Here with the options to the left and right of the attachment:
+Hier met de opties links en rechts van de bijlage:
 
 ![Vraagscherm met een afbeelding in het midden](/images/theme-design/frame4-question-attachment.png)
 
@@ -127,13 +127,13 @@ Een bijlage op zichzelf, schermvullend:
 
 ![Schermvullende bijlage](/images/theme-design/frame4-attachment-fullscreen.png)
 
-### Frame 6 - the answer screen
+### Frame 6 - het antwoordscherm
 
-**What is on it:** which answer was correct, how the room's answers were spread across the options, and a feedback line.
+**Wat erop staat:** welk antwoord juist was, hoe de antwoorden van de zaal over de opties verdeeld waren, en een feedbackregel.
 
-**What it covers:** the answer screen for open questions and for questions with an attachment.
+**Wat het omvat:** het antwoordscherm voor open vragen en voor vragen met een bijlage.
 
-The screen goes through three moments. Eerst de spreiding, met nog niets gemarkeerd:
+Het scherm doorloopt drie momenten. Eerst de spreiding, met nog niets gemarkeerd:
 
 ![Antwoordscherm met de spreiding](/images/theme-design/frame5-answer-mc-spread.png)
 
@@ -153,35 +153,35 @@ Bij een open vraag toont het diagram hoeveel spelers het juist hadden:
 
 ![Antwoordscherm bij een open vraag](/images/theme-design/frame5-answer-open.png)
 
-### Frame 7 - standings and winner
+### Frame 7 - klassement en winnaar
 
-**What is on it:** a list of players with position, avatar, name and score. Supply the **player row** as a separate, reusable element: it is repeated six times by default, up to ten.
+**Wat erop staat:** een lijst van spelers met positie, avatar, naam en score. Lever de **spelersrij** aan als een apart, herbruikbaar element: standaard wordt ze zes keer herhaald, tot maximaal tien.
 
-**What it covers:** the standings between rounds and the final winner.
+**Wat het omvat:** het klassement tussen rondes en de uiteindelijke winnaar.
 
-The standings after a round, with six player rows:
+Het klassement na een ronde, met zes spelersrijen:
 
 ![Klassement met zes spelersrijen](/images/theme-design/frame6-roundoutro.png)
 
-De eindaftelling noemt één speler tegelijk, van de laatste plaats naar de eerste - plaats, score en teamnaam in de schijnwerpers. This is also where the [flying emoji](#flying-emoji-land-on-top-of-everything) are heaviest:
+De eindaftelling noemt één speler tegelijk, van de laatste plaats naar de eerste - plaats, score en teamnaam in de schijnwerpers. Hier zijn de [vliegende emoji](#flying-emoji-land-on-top-of-everything) ook het talrijkst:
 
 ![De aftelling die één speler noemt](/images/theme-design/frame6-winner-countdown.png)
 
 ![Het eindklassement](/images/theme-design/frame6-winner.png)
 
-### Frame 8 - the round intro
+### Frame 8 - de ronde-intro
 
-**What is on it:** a short announcement per round category. Er zijn zes categorieën: wetenschap & techniek, natuur, entertainment & muziek, sport, kunst, geschiedenis.
+**Wat erop staat:** een korte aankondiging per rondecategorie. Er zijn zes categorieën: wetenschap & techniek, natuur, entertainment & muziek, sport, kunst, geschiedenis.
 
-**What it covers:** all six categories. One design may serve several of them.
+**Wat het omvat:** alle zes de categorieën. Eén ontwerp mag er meerdere bedienen.
 
-Here, one composition with a variant per category:
+Hier één compositie met een variant per categorie:
 
 ![Ronde-intro voor de categorie natuur](/images/theme-design/frame7-roundintro-nature.png)
 
 ![Ronde-intro voor de categorie wetenschap](/images/theme-design/frame7-roundintro-science.png)
 
-**A character is optional.** The stock QuizWitz theme has one that talks and reacts; the [Emerald theme](/docs/advanced/emerald-theme) ships without, and dropping it removes the most expensive animation work - lip sync, eyes, arms.
+**Een personage is optioneel.** Het standaardthema van QuizWitz heeft er een dat praat en reageert; het [Emerald-thema](/docs/advanced/emerald-theme) heeft er geen, en zonder personage vervalt het duurste animatiewerk - lipsync, ogen, armen.
 
 Zonder personage wordt de ronde-intro een grafisch, typografisch of illustratief moment. Twee aanpakken houden het werk in verhouding: één compositie met een kleur- of icoonvariant per categorie, of één universele aankondiging waarbij alleen de rondenaam verandert. Zes echt verschillende intro's is veel werk voor een paar seconden schermtijd.
 
@@ -209,8 +209,8 @@ Twee groepen elementen, op één blad, elk één keer getekend en overal hergebr
 
 ## Wat voor jou beslist wordt
 
-- **The players' phones.** A fixed HTML layout.
-- **The handful of things the engine draws itself** - the rules between rows on the points ladder, the highlighted row in the question picker, the QR code. Their colours come from [Colour as a list](#colour-as-a-list).
+- **De telefoons van de spelers.** Een vaste HTML-opmaak.
+- **De handvol dingen die de engine zelf tekent** - de lijnen tussen de rijen op de puntenladder, de gemarkeerde rij in de vraagkeuze, de QR-code. Hun kleuren komen uit [Kleur als lijst](#colour-as-a-list).
 - **Welke schermen op het algemene frame terugvallen, en hoe.**
 - **Hoe de zes categorieën op het beeldmateriaal van de ronde-intro worden afgebeeld.** Die koppeling is een configuratie-instelling, dus één intro kan voor meerdere categorieën hergebruikt worden.
 - **Alle timing en animatieduur.**
@@ -233,12 +233,12 @@ Geen van deze regels beperkt je visuele ontwerp. Ze gaan over hoe het bestand is
 
 **Alles wat kan bewegen, verschijnen of van waarde veranderen, staat op een eigen laag met een eigen naam.** Niets samengevoegd, niets afgevlakt.
 
-In practice:
+In de praktijk:
 
-- the four answer options are four separate layers, not one
-- the timer is separate from the background
-- a button and its label are two elements
-- a player row is one group that can be duplicated
+- de vier antwoordopties zijn vier aparte lagen, niet één
+- de timer staat los van de achtergrond
+- een knop en zijn label zijn twee elementen
+- een spelersrij is één groep die gedupliceerd kan worden
 
 Wat wél samengevoegd mag: puur decoratief achtergrondbeeld dat als één stilstaand beeld werkt.
 
@@ -248,13 +248,13 @@ Dit is de ene regel die echt pijn doet als hij niet gevolgd wordt - het beeldmat
 
 De engine tekent op een HTML5-canvas. Deze moeten **in het beeld ingebakken** worden of achterwege blijven:
 
-| Effect                                                     | What to do instead          |
-| ---------------------------------------------------------- | --------------------------- |
-| Live blur, drop shadows and glow as filters                | Supply them as artwork      |
-| Blend modes (multiply, screen, overlay) | Resolve them to flat colour |
-| Laageffecten en aanpassingslagen                           | Bake them in                |
-| Verlopen **in** tekst, of tekst met een contour per teken  | Leave them out              |
-| Maskers die per frame veranderen                           | Leave them out              |
+| Effect                                                       | Wat je in plaats daarvan doet   |
+| ------------------------------------------------------------ | ------------------------------- |
+| Live vervaging, slagschaduwen en gloed als filters           | Lever ze aan als beeldmateriaal |
+| Overvloeimodi (multiply, screen, overlay) | Zet ze om naar een egale kleur  |
+| Laageffecten en aanpassingslagen                             | Bak ze in                       |
+| Verlopen **in** tekst, of tekst met een contour per teken    | Laat ze weg                     |
+| Maskers die per frame veranderen                             | Laat ze weg                     |
 
 Verlopen in vormen zijn prima. Transparantie is prima. Schaduwen als vast beeld zijn prima.
 
@@ -279,13 +279,13 @@ Wat daaruit volgt:
 - **Twaalf talen.** Duitse samenstellingen zijn lang, en het Hongaars is niet milder. Een vak dat in het Engels krap zit, valt in het Duits terug op een onleesbaar kleine letter.
 - **Emoji kunnen in tekst voorkomen.** Spelers kiezen er een naast hun teamnaam, en een vraag of een optie kan er een bevatten - soms bestaat een optie uit niets anders dan een emoji. Ze worden in kleur getekend en zijn hoger dan de letters eromheen.
 
-**What the build needs to know about each text box:** where it is, how big it is, how it is aligned, which colour and which font. Niet: op welke puntgrootte.
+**Wat wie het thema bouwt over elk tekstvak moet weten:** waar het staat, hoe groot het is, hoe het is uitgelijnd, welke kleur en welk lettertype. Niet: op welke puntgrootte.
 
-**You can use this.** A large box with short text becomes a strong typographic composition by itself, and a box you deliberately make narrow and tall forces text into a column. Use the fitting as a design device; just do not design against it.
+**Je kunt dit benutten.** Een groot vak met korte tekst wordt op zich al een sterke typografische compositie, en een vak dat je bewust smal en hoog maakt, dwingt tekst in een kolom. Gebruik het passend maken als ontwerpmiddel; ontwerp er alleen niet tegenin.
 
 ### De timer - verplicht, en het is een animatie
 
-**Every question screen has a timer**; the room has to see how much time is left.
+**Elk vraagscherm heeft een timer**; de zaal moet kunnen zien hoeveel tijd er nog is.
 
 **De timer is geen aftellend getal maar een animatie waarvan de engine de afspeelkop verplaatst.** Jij ontwerpt een verloop van "vol" naar "leeg" - een balk die leegloopt, een ring die zich sluit, een zandloper, een krimpende lijn. De engine speelt die animatie precies zo snel af dat het laatste beeld samenvalt met het einde van de vraag.
 
@@ -301,7 +301,7 @@ Lever de timer aan als een reeks keyframes of als een beschrijving van het verlo
 
 ### Vliegende emoji komen boven op alles terecht
 
-Elke speler kiest een emoji bij het deelnemen, en het spel gooit die emoji over het scherm. They are drawn by the engine on a layer above the theme. **Hier valt voor jou niets te ontwerpen** - maar er valt wel iets omheen te ontwerpen, want ze zijn geen zeldzame franje.
+Elke speler kiest een emoji bij het deelnemen, en het spel gooit die emoji over het scherm. Ze worden door de engine getekend op een laag boven het thema. **Hier valt voor jou niets te ontwerpen** - maar er valt wel iets omheen te ontwerpen, want ze zijn geen zeldzame franje.
 
 Ze verschijnen op drie momenten:
 
@@ -314,7 +314,7 @@ Wat dat betekent voor het ontwerp:
 - **Houd het onderste derde van de klassement- en winnaarschermen vrij van alles wat klein of cruciaal is.** Tijdens de aftelling is het daar echt druk.
 - **Ga ervan uit dat ze zullen vloeken met je palet.** Het zijn emoji in volle kleur uit alle hoeken van de Unicode-tabel, en geen enkel thema heeft er vat op. Een ontwerp dat alleen standhoudt binnen een strak kleurbereik oogt tijdens die seconden toevallig.
 - **Wegslingeren wordt onderdrukt zolang een afbeelding of video getoond wordt**, dus de bijlageschermen blijven rustig.
-- **The whole layer can be switched off per game**, so do not build a composition that depends on them being there either.
+- **De hele laag kan per spel worden uitgeschakeld**, dus bouw ook geen compositie die ervan afhangt dat ze er zijn.
 
 ### Lettertypen
 
@@ -325,20 +325,20 @@ Wat dat betekent voor het ontwerp:
 
 Het thema leest een kleurenlijst uit een configuratiebestand, en de telefoons van de spelers worden vanuit dezelfde lijst gestyled. Lever je palet aan als een **benoemde lijst**, niet alleen als kleuren in het beeldmateriaal:
 
-| Where                       | Colours                                                                                                                                                                                                                                                                |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Game screen**             | Main colour, accent colour, background, panel or container colour, timer background, default text colour, header text colour, question text colour, button text, dialog and explanation text, player name and score text, the colour for correct, the colour for wrong |
-| **The four answer options** | For each option: a background colour, a border colour, and one flat colour for the phones and the charts                                                                                                                                               |
-| **Players' phones**         | Background, text colour, outline colour, option outline colour, and the background and text colour of the answer container                                                                                                                                             |
+| Waar                         | Kleuren                                                                                                                                                                                                                                                                  |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Spelscherm**               | Hoofdkleur, accentkleur, achtergrond, paneel- of containerkleur, timerachtergrond, standaardtekstkleur, tekstkleur van de kop, tekstkleur van de vraag, knoptekst, tekst van dialogen en uitleg, tekst van spelersnaam en score, de kleur voor juist, de kleur voor fout |
+| **De vier antwoordopties**   | Per optie: een achtergrondkleur, een randkleur en één egale kleur voor de telefoons en de diagrammen                                                                                                                                                     |
+| **Telefoons van de spelers** | Achtergrond, tekstkleur, contourkleur, contourkleur van de opties, en de achtergrond- en tekstkleur van de antwoordcontainer                                                                                                                                             |
 
 Verlopen zijn toegestaan op het spelscherm: geef ze als twee hexwaarden.
 
-A few colours are the _only_ handle on parts the engine draws itself, so they are worth deciding rather than defaulting:
+Een paar kleuren zijn de _enige_ manier om onderdelen te sturen die de engine zelf tekent, dus het loont om ze bewust te kiezen in plaats van de standaardwaarden te laten staan:
 
-- the **separator** - the rules between rows where there is no panel, and on the points ladder
-- the **active**, **inactive** and **selected** states of a row in the question picker
-- the **dialog** text
-- the **front and back of the QR code**
+- de **scheidingslijn** - de lijnen tussen rijen waar geen paneel is, en op de puntenladder
+- de toestanden **actief**, **inactief** en **geselecteerd** van een rij in de vraagkeuze
+- de tekst van **dialogen**
+- de **voor- en achterkant van de QR-code**
 
 Laat je ze weg, dan vallen ze terug op ingebouwde standaardwaarden - wit, grijs, rood, zwart en wit - die zelden bij een ontwerp passen.
 
@@ -352,17 +352,17 @@ Eigen ontwerpen bevatten het QuizWitz-logo. Reserveer er een plek voor waar het 
 
 ### Bronbestand - Illustrator heeft de voorkeur
 
-The theme is built in Adobe Animate, and what Animate can import decides how much of your work survives the hand-over intact:
+Het thema wordt gebouwd in Adobe Animate, en wat Animate kan importeren bepaalt hoeveel van je werk de overdracht ongeschonden overleeft:
 
-| Tool                                             | What happens on import                                                                                                                                                                                                                                                                                                        | Use it for                                 |
-| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| **Adobe Illustrator** (`.ai`) | Animate imports it directly and converts your layers into Animate layers or separate symbols, keeping the layer names and leaving the vectors editable. Dat is precies de stap die voorkomt dat het beeldmateriaal met de hand opnieuw opgebouwd moet worden.                                 | **Preferred** for the final deliverable    |
-| **Adobe Photoshop**                              | Imports with its layers intact, like Illustrator, but gives raster instead of vector.                                                                                                                                                                                                                         | Possible                                   |
-| **Figma**                                        | Everything goes through SVG and PNG export, and that is precisely where the layer structure needed here is lost. Gebruik je toch Figma, lever dan **elk element apart als SVG** aan, met bestandsnamen die overeenkomen met de laagnamen, zodat de structuur met de hand hersteld kan worden. | The concept phase, if you are faster in it |
+| Tool                                             | Wat er bij het importeren gebeurt                                                                                                                                                                                                                                                                                         | Gebruik het voor                              |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| **Adobe Illustrator** (`.ai`) | Animate importeert het rechtstreeks en zet je lagen om in Animate-lagen of aparte symbolen, waarbij de laagnamen behouden blijven en de vectoren bewerkbaar blijven. Dat is precies de stap die voorkomt dat het beeldmateriaal met de hand opnieuw opgebouwd moet worden.                | **Voorkeur** voor de uiteindelijke oplevering |
+| **Adobe Photoshop**                              | Wordt geïmporteerd met de lagen intact, zoals Illustrator, maar levert raster in plaats van vector.                                                                                                                                                                                                       | Mogelijk                                      |
+| **Figma**                                        | Alles gaat via een export naar SVG en PNG, en precies daar gaat de laagstructuur verloren die hier nodig is. Gebruik je toch Figma, lever dan **elk element apart als SVG** aan, met bestandsnamen die overeenkomen met de laagnamen, zodat de structuur met de hand hersteld kan worden. | De conceptfase, als je daar sneller in bent   |
 
 Bestandsstructuur:
 
-- One artboard per screen, named after the frames above.
+- Eén tekengebied per scherm, genoemd naar de frames hierboven.
 - Herbruikbare onderdelen (knop, spelersrij, antwoordoptie, timer) als **symbolen** of componenten, niet als losse kopieën.
 - Laagnamen in het Engels, zonder spaties: `question`, `option1` tot `option4`, `timer`, `feedback`, `header`, `background`, `playerScore`.
 - Kleuren als benoemde stalen en tekst als benoemde stijlen, in plaats van per object ingesteld.
@@ -371,24 +371,24 @@ Bestandsstructuur:
 
 1. Het **bronbestand**, opgebouwd zoals hierboven.
 2. **Elk frame als PNG**, 1920 × 1080 - een referentie voor hoe het eruit moet zien. Voor frame 2 zowel de versie met als de versie zonder klantlogo.
-3. **The element sheet** as one artboard: the [content building blocks and the controls](#the-element-sheet).
+3. **Het elementenblad** als één tekengebied: de [bouwstenen voor content en de bedieningselementen](#the-element-sheet).
 4. **Elk afzonderlijk grafisch element als transparante PNG op 2×**, in één map, met een bestandsnaam die overeenkomt met de laagnaam.
 5. **De timer** als keyframes of als een geschreven beschrijving van het verloop.
 6. **Lettertypen** als `.ttf` of `.otf`, met bewijs van licentie.
-7. **The colour list** from [Colour as a list](#colour-as-a-list), as hex values.
+7. **De kleurenlijst** uit [Kleur als lijst](#colour-as-a-list), als hexwaarden.
 8. **Een halve pagina notities**: wat het idee is, hoe de opties moeten verschijnen, wat beweegt en wat stil blijft staan. Geen ontwerpverantwoording van tien pagina's - wie het thema bouwt, moet weten wat er gebouwd moet worden. Bewegingsideeën mogen beschreven of als ruwe animatic aangeleverd worden.
 
 ### Volgorde van het werk
 
-1. **Frame 4, the question screen, together with the element sheet.** Get both approved before the rest. Between them they carry the timer, the options, the panel and every control, so they settle the style of the whole theme.
-2. **Frames 1 to 3.** They follow naturally from the first two.
-3. **Frames 6 to 8** come last.
+1. **Frame 4, het vraagscherm, samen met het elementenblad.** Laat beide goedkeuren voor de rest. Samen bevatten ze de timer, de opties, het paneel en elk bedieningselement, dus ze leggen de stijl van het hele thema vast.
+2. **Frames 1 tot 3.** Die volgen vanzelf uit de eerste twee.
+3. **Frames 6 tot 8** komen als laatste.
 
 ---
 
 ## Bijlage - symboolnamen
 
-Voor de volledigheid, en voor wie precies wil weten waar zijn beeldmateriaal terechtkomt. **You do not need to read this to do the work**; the eight frames and the element sheet above are enough. Deze namen als laagnamen gebruiken bespaart een vertaalslag.
+Voor de volledigheid, en voor wie precies wil weten waar zijn beeldmateriaal terechtkomt. **Je hoeft dit niet te lezen om het werk te doen**; de acht frames en het elementenblad hierboven volstaan. Deze namen als laagnamen gebruiken bespaart een vertaalslag.
 
 | Frame                                       | Symboolnaam                                                                                                                               | Verplichte onderdelen                                                                                                                                                                                              |
 | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -409,7 +409,7 @@ Voor de volledigheid, en voor wie precies wil weten waar zijn beeldmateriaal ter
 
 De ronde-intro-symbolen van het standaardthema heten `RoundIntroScienceAndTech`, `RoundIntroFloraAndFauna`, `RoundIntroTedMusic`, `RoundIntroTedSport` en `RoundIntroTedCultHist`; kunst en geschiedenis delen de laatste. De "Ted" in die namen is een overblijfsel van het personage uit het oorspronkelijke thema en betekent niet dat er een personage in moet voorkomen.
 
-Every element with `.text` after it is a fitted text box as described under [How text behaves](#how-text-behaves): a rectangle the engine fills itself. Het `timer`-element is een movieclip met een eigen tijdlijn; de engine leest het aantal beelden en verplaatst de afspeelkop evenredig met de verstreken tijd, maximaal 24 keer per seconde.
+Elk element met `.text` erachter is een passend tekstvak zoals beschreven onder [Hoe tekst zich gedraagt](#how-text-behaves): een rechthoek die de engine zelf vult. Het `timer`-element is een movieclip met een eigen tijdlijn; de engine leest het aantal beelden en verplaatst de afspeelkop evenredig met de verstreken tijd, maximaal 24 keer per seconde.
 
 ### Wat het configuratiebestand uit jouw ontwerp haalt
 
