@@ -5,7 +5,7 @@ title: Spuštění konferenčního kvízu
 
 # Spuštění konferenčního kvízu
 
-This guide walks you through everything you need to know to run a QuizWitz quiz at a conference booth or event - from opening the quiz link to the final leaderboard.
+Tento průvodce tě provede vším, co potřebuješ vědět ke spuštění kvízu QuizWitz na konferenčním stánku nebo akci - od otevření odkazu na kvíz až po konečný žebříček.
 
 ---
 
@@ -16,7 +16,7 @@ Než začnete, ujistěte se, že máte:
 - Stabilní připojení k internetu
 - URL kvízu (poskytnuta předem)
 - laptop připojen k obrazovce, kterou budou hráči sledovat
-- **Google Chrome** - other browsers like Safari or Edge may not work correctly
+- **Google Chrome** - ostatní prohlížeče jako Safari nebo Edge nemusí fungovat správně
 
 ---
 
@@ -27,7 +27,7 @@ Než začnete, ujistěte se, že máte:
 
 2. Obrazovka s černým zatížením se zobrazí v procentech. Trvá to jen pár vteřin.
 
-3. Po načtení se zobrazí obrazovka hry. If prompted to log in, click **Login** - a second tab will open.
+3. Po načtení se zobrazí obrazovka hry. Pokud se zobrazí výzva k přihlášení, klikni na **Přihlásit se** - otevře se druhá záložka.
    - Klikněte na **Přihlásit se** na přihlašovací stránce a zadejte zadané přihlašovací údaje.
    - Po přihlášení se panel automaticky uzavře a kvíz dokončí.
 
@@ -38,7 +38,7 @@ Než začnete, ujistěte se, že máte:
    Kvíz je nyní připraven hrát na obrazovce hry.
 
 :::tip
-To exit fullscreen at any time - for example, to switch to another window - press **Esc**.
+Pokud chceš kdykoli opustit celou obrazovku - například kvůli přepnutí do jiného okna - stiskni **Esc**.
 :::
 
 ---
@@ -47,8 +47,8 @@ To exit fullscreen at any time - for example, to switch to another window - pres
 
 Chcete-li hrát znovu po dokončení hry, máte několik možností:
 
-- **Reload the page** - click the reload icon in Chrome's toolbar (you may need to press Esc first to exit fullscreen).
-- **Press S** - after the quiz ends, pressing **S** on the keyboard brings you back to the start screen.
+- **Znovu načti stránku** - klikni na ikonu obnovení na panelu nástrojů Chromu (možná bude nejprve potřeba stisknout Esc pro ukončení celé obrazovky).
+- **Stiskni S** - po skončení kvízu tě stisknutí klávesy **S** vrátí na úvodní obrazovku.
 
 Pokud se objeví vyskakovací okno ptá, zda chcete spustit novou hru, klikněte na **Ano, spustit novou hru**.
 
