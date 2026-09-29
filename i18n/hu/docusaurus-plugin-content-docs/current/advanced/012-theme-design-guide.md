@@ -7,14 +7,14 @@ title: Témakészítési útmutató
 
 A [témák](/docs/advanced/theming) leírják, hogyan épül fel egy QuizWitz-téma: Adobe Animate-ben, CreateJS-könyvtárként exportálva. Ez az oldal az azt megelőző lépésről szól - a téma **megtervezéséről**.
 
-It is written for a graphic designer, and it assumes that design and Animate production are done by different people. Few designers still work in Adobe Animate, so a designer usually delivers artwork and someone else assembles the theme. That works well, as long as the artwork arrives in a shape the build can use. Ez az oldal ezt a formát írja le, és egyben a leadandó anyagok listájaként is szolgál, amikor árajánlatot kérsz egy grafikustól.
+Grafikusoknak szól, és abból indul ki, hogy a tervezést és az Animate-es kivitelezést különböző emberek végzik. Kevés grafikus dolgozik még Adobe Animate-ben, ezért általában a grafikus leadja a grafikát, és valaki más rakja össze belőle a témát. Ez jól működik, feltéve, hogy a grafika olyan formában érkezik, amellyel az építés dolgozni tud. Ez az oldal ezt a formát írja le, és egyben a leadandó anyagok listájaként is szolgál, amikor árajánlatot kérsz egy grafikustól.
 
-The page has four parts:
+Az oldal négy részből áll:
 
-1. [What you are designing](#what-you-are-designing) - the screens a theme covers.
-2. [The eight frames](#eight-frames-and-an-element-sheet) and [the element sheet](#the-element-sheet), one by one, with screenshots.
-3. [Design rules](#design-rules) - how the file has to be built so the engine can use it.
-4. [What to hand over](#what-to-hand-over) - source file, deliverables and order of work.
+1. [Mit tervezel](#what-you-are-designing) - a képernyők, amelyeket egy téma lefed.
+2. [A nyolc keret](#eight-frames-and-an-element-sheet) és [az elemlap](#the-element-sheet), egyenként, képernyőképekkel.
+3. [Tervezési szabályok](#design-rules) - hogyan kell felépíteni a fájlt, hogy a motor használni tudja.
+4. [Mit kell leadni](#what-to-hand-over) - forrásfájl, leadandó anyagok és a munka sorrendje.
 
 :::tip
 Ha csak a színeket, a betűtípusokat és a hátteret akarod megváltoztatni, ebből semmire nincs szükséged - inkább az [Emerald témát](/docs/advanced/emerald-theme) szabd testre.
@@ -37,15 +37,15 @@ A téma a játékképernyő teljes vizuális burka: háttér, tipográfia, szín
 
 ---
 
-## Eight frames and an element sheet
+## Nyolc keret és egy elemlap
 
-A játéknak több tucat különálló képernyőállapota van, de a legtöbb ugyanannak az elrendezésnek a változata. **You design eight frames and one sheet of elements; the rest is derived from them.** That is not a shortcut - it is how the engine works. Az a képernyő, amelynek nincs saját grafikája, egy általános keretre esik vissza.
+A játéknak több tucat különálló képernyőállapota van, de a legtöbb ugyanannak az elrendezésnek a változata. **Nyolc keretet és egy elemlapot tervezel; a többi ezekből származik.** Ez nem rövidítés - így működik a motor. Az a képernyő, amelynek nincs saját grafikája, egy általános keretre esik vissza.
 
-The sheet matters as much as the frames: a fall-back screen still needs furniture inside its content area - a panel, a row, a rule.
+Az elemlap ugyanannyira számít, mint a keretek: egy visszaeső képernyőnek is kell berendezés a tartalomterületén belül - egy panel, egy sor, egy vonal.
 
-| # | Keret                                                           | Also covers                                                               |
+| # | Keret                                                           | Ezeket is lefedi                                                          |
 | - | --------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 1 | [General frame](#frame-1---the-general-frame)                   | Thirteen screen states with no artwork of their own                       |
+| 1 | [Általános keret](#frame-1---the-general-frame)                 | Tizenhárom képernyőállapot saját grafika nélkül                           |
 | 2 | [Connect screen](#frame-2---the-connect-screen)                 | Draw it twice: with a client logo and without one         |
 | 3 | [Waiting screen](#frame-3---the-waiting-screen)                 | -                                                                         |
 | 4 | [Question screen](#frame-4---the-question-screen)               | -                                                                         |
