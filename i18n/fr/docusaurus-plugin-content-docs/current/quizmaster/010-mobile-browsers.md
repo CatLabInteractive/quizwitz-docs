@@ -3,7 +3,7 @@ id: mobile
 title: Navigateurs mobiles
 ---
 
-# 📱 Navigateurs mobiles — limites pour l'organisation d'une partie
+# 📱 Mobile browsers - Hosting limitations
 
 QuizWitz est optimisé pour une utilisation sur **ordinateurs de bureau et portables**. Bien qu'il soit techniquement possible d'organiser des jeux **QuizWitz Live** ou **Conference** sur une tablette ou un smartphone, nous **ne recommandons pas** l'utilisation d'appareils **Android** ou **iOS** pour lancer le jeu.
 
@@ -41,4 +41,4 @@ Pour de meilleures performances et stabilité :
 
 ---
 
-Pour organiser une partie, une installation fiable est essentielle — les appareils mobiles devraient être utilisés seulement en dernier recours.
+For hosting, a reliable setup is key - mobile devices should be used only as a last resort.
