@@ -3,16 +3,16 @@ id: seats
 title: Seats
 ---
 
-# 🎟️ QuizWitz PRO – Jak fungují místa
+# 🎟️ QuizWitz PRO - How seats work
 
-Hry QuizWitz PRO vyžadují pro připojení hráčů **aktivní místa**. Seats jsou flexibilní systém s Pay-as-you-go nebo licencí, který se přizpůsobí tvým potřebám - ideální pro hospodské kvízy, livestreamy i profesionální kvízové akce.
+Hry QuizWitz PRO vyžadují pro připojení hráčů **aktivní místa**. Seats are a flexible, pay-as-you-go or license-based system that scales with your needs - perfect for pub quizzes, livestreams, and professional quiz events.
 
 ---
 
 ## 🧑‍🤝‍🧑 Co jsou místa?
 
 - Každý připojený **hráč nebo tým** ve hře PRO vyžaduje **1 aktivní místo**.
-- Můžeš pořádat hry s **jednotlivými hráči** nebo **týmy sdílejícími jedno zařízení** — každý hráč nebo tým se počítá jako jedno místo.
+- You can host games with **individual players** or **teams sharing one device** - each counts as one seat.
 - **Party Hra a hry jednoho hráče** **nepotřebují** místa a jsou ideální pro neformální hrát s přáteli nebo rodinou.
 
 ---
@@ -27,7 +27,7 @@ Hry QuizWitz PRO vyžadují pro připojení hráčů **aktivní místa**. Seats 
 
 ## 💼 Licence QuizWitz PRO
 
-Pokud pořádáš kvízy pravidelně, **licence QuizWitz PRO** ti poskytne **trvale aktivní místa**, která jsou vždy k dispozici — nemusíš je aktivovat ručně.
+If you host quizzes regularly, a **QuizWitz PRO license** gives you **permanently active seats** that are always available - no need to activate them manually.
 
 Dostupné úrovně licencí zahrnují:
 
@@ -39,7 +39,7 @@ Dostupné úrovně licencí zahrnují:
 
 Tato místa jsou ideální pro opakované akce, větší týmová nastavení nebo profesionální prostory.
 
-> ⚠️ **Důležité**: Pokud potřebuješ uspořádat kvíz s **více hráči, než umožňuje tvoje licence**, musíš **aktivovat místa s průběžným placením** pro plný počet hráčů. Místa z tvé licence se k aktivovaným místům nepřičítají — jsou jimi úplně **nahrazena**.
+> ⚠️ **Důležité**: Pokud potřebuješ uspořádat kvíz s **více hráči, než umožňuje tvoje licence**, musíš **aktivovat místa s průběžným placením** pro plný počet hráčů. The seats from your license are not added to your activated seats - they are **replaced** entirely.
 
 ---
 
@@ -52,7 +52,7 @@ Pro jednorázové nebo občasné akce můžeš místo nákupu licence aktivovat 
 - Každá **PRO licence** obsahuje **hodnotu bezplatných kreditů**.
 - Pokud si nejsi jistý, kolik hráčů se připojí:
   - Před aktivací míst můžeš **počkat, až se všichni připojí**.
-  - Nebo aktivuj více míst, než potřebuješ — **nevyužitá místa se po vypršení platnosti automaticky vrátí** v kreditech.
+  - Or, activate more seats than needed - **unused seats are automatically refunded** in credits after they expire.
 
 ---
 
@@ -80,4 +80,4 @@ Pro jednorázové nebo občasné akce můžeš místo nákupu licence aktivovat 
 
 ---
 
-QuizWitz PRO ti dává flexibilní a profesionální nástroje pro pořádání akcí libovolné velikosti — ať už aktivuješ místa podle potřeby, nebo se spoléháš na licenci PRO s nepřetržitým přístupem.
+QuizWitz PRO gives you flexible and professional tools to run events of any size - whether you activate seats on demand or rely on a PRO license for always-on access.
