@@ -17,7 +17,7 @@ Dies sind die häufigsten Fragetypen. Sie sind leicht zu verstehen und zu spiele
 - [Multiple Choice](001-multiple-choice.md) (Standard)
 - [Sortierfrage](003-order-question.md)
 - [Bildkartenfrage](004-image-map.md)
-- [Grid question](008-grid-question.md)
+- [Rasterfrage](008-grid-question.md)
 
 ## Offene Fragen
 
