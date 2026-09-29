@@ -16,7 +16,7 @@ title: Spelerintroductie
 
 ---
 
-> Spelerintroducties helpen om de sfeer te zetten, het ijs te breken en de quizervaring te personaliseren—vooral bij live en teamgebaseerde evenementen!
+> Spelerintroducties helpen om de sfeer te zetten, het ijs te breken en de quizervaring te personaliseren - vooral bij live en teamgebaseerde evenementen!
 
 ---
 
