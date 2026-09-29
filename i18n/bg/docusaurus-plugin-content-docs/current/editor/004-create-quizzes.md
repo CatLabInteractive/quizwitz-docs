@@ -5,7 +5,7 @@ title: Създаване на куизове
 
 # 🧠 Създай пълен куиз
 
-Искаш да създадеш цялостно куиз преживяване за играчи или събития? Това ръководство ще те преведе през създаването на пълен куиз с няколко рунда — включително със собствени въпроси или Round-Abouts, които си събрал.
+Искаш да създадеш цялостно куиз преживяване за играчи или събития? This guide walks you through creating a full quiz using multiple rounds - including your own questions or Round-Abouts you've collected.
 
 ---
 
@@ -23,7 +23,7 @@ title: Създаване на куизове
 ## ✏️ Заглавие и език
 
 Дай заглавие на куиза си и избери основния език.  
-Можеш да добавиш **преводи** по-късно, ако е нужно — няма нужда да решаваш всичко предварително.
+You can add **translations** later if needed - no need to decide everything upfront.
 
 ---
 
@@ -53,8 +53,8 @@ title: Създаване на куизове
 
 Всеки рунд може да има свои правила и формат. Научи повече в разширените ръководства:
 
-- [Типове рундове](../round-types/000-round-types.md) — Конфигурирай как се държи даден рунд (напр. светкавичен рунд, пъзел рунд)
-- [Типове въпроси](../question-types/000-question-types.md) — Настрой формата и точкуването за всеки въпрос
+- [Round types](../round-types/000-round-types.md) - Configure how a round behaves (e.g., lightning round, puzzle round)
+- [Question types](../question-types/000-question-types.md) - Adjust the format and scoring for each question
 
 ---
 
@@ -66,7 +66,7 @@ title: Създаване на куизове
 - **Тестваш и играеш** по всяко време
 - **Публикуваш** куиза си, когато е готов за споделяне
 
-> 📢 За да публикуваш куиз, той трябва да съдържа **поне 14 въпроса**. След като бъде публикуван, той става достъпен за общността — но можеш да го скриеш от публикация по-късно, ако е нужно.
+> 📢 За да публикуваш куиз, той трябва да съдържа **поне 14 въпроса**. Once published, it becomes available to the community - but you can unpublish it later if needed.
 
 > 📝 **Публикуването е изцяло по избор.** Можеш да играеш всеки куиз или Round-About насаме, без да го публикуваш. Това е чудесно за лична употреба, тестване или частни събития.
 
@@ -78,9 +78,9 @@ title: Създаване на куизове
 
 ![Връзки за игра на куиз](/images/quiz-playlinks.png)
 
-- **[Стартирай Парти игра](../players/001-playing-quizwitz.md)** - непринудено куиз изживяване с приятели, на един екран или чрез споделяне на екрана. Играта се движи автоматично; водещият може да я постави на пауза, но иначе няма контрол върху темпото.
-- **[Стартирай QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** - професионално живо куиз събитие с Quizmaster App. Това е **единственият режим, в който quizmaster контролира темпото на играта**.
-- **[Стартирай конферентен режим (PRO)](../tutorials/050-conference-booth.md)** - куиз в стил конференция за по-голяма публика, с определени места, кодове за отбори и продукционни инструменти. Също като Парти игрите, конферентните игри вървят автоматично.
+- **[Play Party Game](../players/001-playing-quizwitz.md)** - A casual quiz experience to enjoy with friends on the same screen or via screenshare. Играта се движи автоматично; водещият може да я постави на пауза, но иначе няма контрол върху темпото.
+- **[Start QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** - Launch a professional live quiz event using the Quizmaster App. Това е **единственият режим, в който quizmaster контролира темпото на играта**.
+- **[Start Conference mode (PRO)](../tutorials/050-conference-booth.md)** - Host a conference-style quiz for larger audiences with assigned seating, team codes, and production tools. Също като Парти игрите, конферентните игри вървят автоматично.
 
 ---
 
@@ -88,8 +88,8 @@ title: Създаване на куизове
 
 Искаш да симулираш пълно преминаване през куиза? Използвай разширените инструменти за тестване:
 
-- **Simulate** — Стартирай тестово изиграване с ботове (без презентация)
-- **Simulate Live** — Симулирай пълна сесия на [QuizWitz Live](../quizmaster/001-introduction.md) с ботове, включително изгледи за Quizmaster, жури и играч
+- **Simulate** - Run a test playthrough with bots (no presentation)
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) session with bots, including Quizmaster, Jury, and Player views
 
 ---
 
