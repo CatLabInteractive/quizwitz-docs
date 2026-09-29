@@ -5,7 +5,7 @@ title: Турнир
 
 # Турнир
 
-Този урок ще ти покаже как да използваш турнирния режим на QuizWitz. Турнирният режим позволява на играчите да се включат и да играят твоя куиз, когато поискат — на собственото си устройство. Резултатите им се записват в глобална класация, която можеш да показваш на мястото на събитието.
+Този урок ще ти покаже как да използваш турнирния режим на QuizWitz. Tournament mode lets players join and play your quiz whenever they want - on their own device. Резултатите им се записват в глобална класация, която можеш да показваш на мястото на събитието.
 
 ---
 
@@ -16,7 +16,7 @@ title: Турнир
 
 ### 🎲 Случаен избор на въпроси
 
-Нека играта избира случаен набор от въпроси от твоята база, така че всяко изиграване да се усеща уникално — а играчите, които се връщат, да получават различни въпроси.
+Make the game select a random set of questions from your pool, so every playthrough feels unique - and returning players get different questions.
 
 **Примерна настройка:**
 
@@ -43,8 +43,8 @@ title: Турнир
 
 Сега ще получиш два линка:
 
-- **Линк за играчи** — Сподели го с играчите си (или ги остави да сканират QR кода от класацията).
-- **Линк към класацията** — Отвори го на екран на мястото на събитието, за да показваш класирането на живо и QR кода, който играчите могат да сканират, за да се включат.
+- **Player link** - Share this with your players (or let them scan the QR code from the leaderboard).
+- **Leaderboard link** - Open this on a display at your venue to show the live rankings and the QR code players can scan to join.
 
 ---
 
@@ -65,6 +65,6 @@ title: Турнир
 
 ## 📧 Потвърждение по имейл
 
-Ще получиш и имейл, съдържащ както линка за играчи, така и линка към класацията — удобно, за да не ги изгубиш!
+You'll also get an email containing both the player and leaderboard links - handy so you don't lose them!
 
 ![Екранна снимка на имейла за турнира](/images/tutorials/tournament/tournament-email.png)
