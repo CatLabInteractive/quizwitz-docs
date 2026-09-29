@@ -47,14 +47,14 @@ Pour créer rapidement beaucoup de questions en une fois, utilisez l'onglet **Im
 
 Chaque ligne doit contenir les colonnes suivantes dans cet ordre exact :
 
-1. **Question courte** — Affichée à l'écran du joueur
+1. **Short question** - Displayed on the player screen
 2. **Bonne réponse**
 3. **Mauvaise réponse 1** (laissez vide pour les questions ouvertes)
 4. **Mauvaise réponse 2**
 5. **Mauvaise réponse 3**
-6. **Feedback court** — Affiché à l'écran du joueur après la réponse
-7. **Question longue** _(optionnel)_ — Affichée à l'écran du quizmaster
-8. **Feedback long** _(optionnel)_ — Explication que le quizmaster peut lire à voix haute
+6. **Short feedback** - Displayed on the player screen after answering
+7. **Long question** _(optional)_ - Displayed on the quizmaster screen
+8. **Long feedback** _(optional)_ - Explanation for the quizmaster to read aloud
 
 > 📌 Les deux dernières colonnes ne sont utilisées que dans [QuizWitz Live](../quizmaster/001-introduction.md), mais elles doivent toujours être incluses (même si elles sont laissées vides).
 
