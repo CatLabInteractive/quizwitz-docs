@@ -5,7 +5,7 @@ title: Turnier
 
 # Turnier
 
-Dieses Tutorial zeigt dir, wie du den QuizWitz Turniermodus benutzt. Der Turniermodus ermöglicht es Spielern, dein Quiz jederzeit zu starten und zu spielen – auf ihrem eigenen smart device. Ihre Ergebnisse werden auf einer globalen Bestenliste erfasst, die du in deinem Veranstaltungsort anzeigen kannst.
+Dieses Tutorial zeigt dir, wie du den QuizWitz Turniermodus benutzt. Der Turniermodus ermöglicht es Spielern, dein Quiz jederzeit zu starten und zu spielen - auf ihrem eigenen Gerät. Ihre Ergebnisse werden auf einer globalen Bestenliste erfasst, die du in deinem Veranstaltungsort anzeigen kannst.
 
 ---
 
@@ -16,7 +16,7 @@ Beim Erstellen eines Turnier-Quiz halte es kurz und spannend. Wenn Besucher zu v
 
 ### 🎲 Zufällige Fragenauswahl
 
-Lass das Spiel zufällig eine Auswahl von Fragen aus deinem Fragenpool treffen, damit sich jede Spielrunde einzigartig anfühlt – und Rückkehrer andere Fragen bekommen.
+Lass das Spiel zufällig eine Auswahl von Fragen aus deinem Fragenpool treffen, damit sich jede Spielrunde einzigartig anfühlt - und Rückkehrer andere Fragen bekommen.
 
 **Beispiel für die Einrichtung:**
 
@@ -43,8 +43,8 @@ Turniere können nur über das Menü **Erweiterte Spieloptionen** gestartet werd
 
 Du erhältst nun zwei Links:
 
-- **Spielerlink** – Teile diesen mit deinen Spielern (oder lass sie den QR-Code von der Bestenliste scannen).
-- **Bestenlistenlink** – Öffne diesen auf einem Display in deinem Veranstaltungsort, um die Live-Rangliste und den QR-Code anzuzeigen, mit dem Spieler beitreten können.
+- **Spielerlink** - Teile diesen mit deinen Spielern (oder lass sie den QR-Code auf der Rangliste scannen).
+- **Ranglisten-Link** - Öffne diesen auf einem Display an deinem Veranstaltungsort, um die Live-Rangliste und den QR-Code anzuzeigen, mit dem Spieler beitreten können.
 
 ---
 
@@ -65,6 +65,6 @@ Sobald die ersten Spieler ihre Spiele beenden, werden ihre Ergebnisse live angez
 
 ## 📧 E-Mail-Bestätigung
 
-Du erhältst außerdem eine E-Mail mit beiden Links – Spieler- und Bestenlistenlink – praktisch, damit du sie nicht verlierst!
+Du erhältst außerdem eine E-Mail mit dem Spielerlink und dem Ranglisten-Link - praktisch, damit du sie nicht verlierst!
 
 ![Ein Screenshot der Turnier-E-Mail](/images/tutorials/tournament/tournament-email.png)
