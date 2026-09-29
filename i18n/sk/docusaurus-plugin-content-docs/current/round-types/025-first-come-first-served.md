@@ -1,40 +1,40 @@
 ---
 id: first-come-first-served
-title: First come first served
+title: Kto prv príde, ten prv melie
 ---
 
-# 🏃 First come first served
+# 🏃 Kto prv príde, ten prv melie
 
-In a **First come first served** round, speed is everything. The fastest correct answer earns the most points, and every correct answer after it earns a little less.
-
----
-
-## 📝 How it works
-
-- Questions are asked one by one, just like in a [Trivia](011-trivia.md) round.
-- When a question ends, all correct answers are ranked from fastest to slowest.
-- **The fastest correct player or team gets the full points** of the question.
-- **Every next correct answer gets a smaller share.** Each place down the ranking loses the question's points divided by the number of players or teams in the game.
-  - Example: a question is worth 1000 points and 10 teams are playing. The fastest correct team gets 1000 points, the second 900, the third 800, and so on.
-- Wrong answers earn no points and don't take a place in the ranking.
+V kole **Kto prv príde, ten prv melie** je rýchlosť všetko. Najrýchlejšia správna odpoveď získa najviac bodov a každá ďalšia správna odpoveď po nej o niečo menej.
 
 ---
 
-## ⚙️ Settings
+## 📝 Ako to funguje
 
-- **Question types:** every question type can be used.
-- **Time-based scoring:** the ranking already rewards speed. If time-based scoring is also enabled, it is applied on top of each share. Turn it off in the question settings if you only want the ranking to count.
-
-For more about scoring, see the [scoring section](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips
-
-- **Use questions with one clear answer:** players race to be first, so there should be no doubt about what is correct.
-- **Keep questions short:** the round is about reacting quickly, not about reading long texts.
-- **Mix it with slower rounds:** a speed round is a great change of pace after a Traditional or Common Thread round.
+- Otázky sa kladú jedna po druhej, presne ako v kole [Trivia](011-trivia.md).
+- Keď otázka skončí, všetky správne odpovede sa zoradia od najrýchlejšej po najpomalšiu.
+- **Najrýchlejší správne odpovedajúci hráč alebo tím získa plný počet bodov** za otázku.
+- **Každá ďalšia správna odpoveď dostane menší podiel.** Každé miesto nižšie v poradí stratí body za otázku vydelené počtom hráčov alebo tímov v hre.
+  - Príklad: otázka má hodnotu 1000 bodov a hrá 10 tímov. Najrýchlejší správne odpovedajúci tím získa 1000 bodov, druhý 900, tretí 800 a tak ďalej.
+- Nesprávne odpovede nezískajú žiadne body a nezaberajú miesto v poradí.
 
 ---
 
-For more on round settings, see [Round options](../editor/008-round-options.md).
+## ⚙️ Nastavenia
+
+- **Typy otázok:** použiť sa dá každý typ otázky.
+- **Bodovanie podľa času:** poradie už samo odmeňuje rýchlosť. Ak je zapnuté aj bodovanie podľa času, uplatní sa navyše na každý podiel. Ak chceš, aby sa počítalo iba poradie, vypni ho v nastaveniach otázky.
+
+Viac o bodovaní nájdeš v [sekcii bodovania](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Tipy
+
+- **Používaj otázky s jednou jasnou odpoveďou:** hráči súťažia o to, kto bude prvý, takže nesmie byť pochýb o tom, čo je správne.
+- **Udržuj otázky krátke:** kolo je o rýchlej reakcii, nie o čítaní dlhých textov.
+- **Kombinuj ho s pomalšími kolami:** rýchlostné kolo je skvelá zmena tempa po kole Tradičné alebo Spoločná niť.
+
+---
+
+Viac o nastaveniach kola nájdeš v časti [Možnosti kola](../editor/008-round-options.md).
