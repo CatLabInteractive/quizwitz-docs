@@ -13,7 +13,7 @@ title: Въведение
 - Водиш професионални quiz събития с live инструменти
 - Създаваш свои собствени quiz-ове, рундове, плейлисти и още
 
-Whether you're here to relax, present, or build - we've got you covered.
+Независимо дали си тук, за да се отпуснеш, да презентираш или да създаваш - ние сме насреща.
 
 Отдели минутка, за да разгледаш различните роли и наличните инструменти. Ще отнеме само минутка.
 
@@ -23,11 +23,11 @@ Whether you're here to relax, present, or build - we've got you covered.
 
 Това ръководство е разделено на секции според начина, по който използваш QuizWitz:
 
-- [**Player Guide**](players/001-playing-quizwitz.md) - Learn how to collect, play, and enjoy quizzes
-- [**Quizmaker Guide**](editor/002-for-the-quizmakers.md) - Build your own questions, rounds, and full quizzes
-- [**Quizmaster Guide**](quizmaster/001-introduction.md) - Host a live game using QuizWitz Live
+- [**Ръководство за играчи**](players/001-playing-quizwitz.md) - Научи как да събираш, играеш и се забавляваш с куизове
+- [**Ръководство за създатели на куизове**](editor/002-for-the-quizmakers.md) - Създавай свои собствени въпроси, рундове и цели куизове
+- [**Ръководство за quizmaster**](quizmaster/001-introduction.md) - Води live игра с QuizWitz Live
 
-Explore the sections that fit your role - or all of them if you're curious!
+Разгледай секциите, които отговарят на ролята ти - или всички, ако ти е любопитно!
 
 ---
 
