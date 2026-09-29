@@ -17,7 +17,7 @@ Estos son los tipos de preguntas más comunes. Son fáciles de entender y jugar.
 - [Opción múltiple](001-multiple-choice.md) (por defecto)
 - [Pregunta de orden](003-order-question.md)
 - [Pregunta de mapa de imagen](004-image-map.md)
-- [Grid question](008-grid-question.md)
+- [Pregunta de cuadrícula](008-grid-question.md)
 
 ## Preguntas abiertas
 
