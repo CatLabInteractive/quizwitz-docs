@@ -16,7 +16,7 @@ A **játékosbemutató** egy különleges esemény, amely egyszerűen megjelení
 
 ---
 
-> A játékosbemutatók segítenek megalapozni a hangulatot, megtörni a jeget, és személyesebbé tenni a quiz élményét — különösen élő és csapatalapú eseményeken!
+> A játékosbemutatók segítenek megalapozni a hangulatot, megtörni a jeget, és személyesebbé tenni a kvízélményt - különösen élő és csapatalapú eseményeken!
 
 ---
 
