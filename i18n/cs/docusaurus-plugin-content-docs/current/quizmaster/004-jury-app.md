@@ -3,7 +3,7 @@ id: jury-app
 title: Aplikace Porota
 ---
 
-# :jude: Jury App - Přehled otevřených odpovědí v QuizWitz Live
+# 🧑‍⚖️ Jury App - Reviewing open answers in QuizWitz Live
 
 Pokud tvůj kvíz obsahuje **otevřené otázky k odpovědi**, budeš muset použít **aplikaci pro porodu** pro ruční kontrolu a skórování odpovědí.
 
@@ -19,20 +19,20 @@ Otevření aplikace Jura:
 2. Na samostatném zařízení, přejděte na [**quizwitz.tv**](https://quizwitz.tv)
 3. Zadej **kód poroty** a otevři aplikaci
 
-> 💡 Aplikace Jury můžete otevřít v libovolném prohlížeči — je to webová aplikace, není vyžadována žádná instalace.
+> 💡 You can open the Jury App on any browser - it's a web app, no installation required.
 
 Aplikace Jury nabízí několik užitečných nástrojů:
 
-- **Hodnocení otázek** — výsledky otevřených otázek se zobrazí po dokončení otázky.
-  - Hra na dokončení poroty **nečeká** — pokud nejde o **poslední otázku kola** nebo pokud nastavení kvízu neurčuje jinak.
+- **Judge questions** - Open question results will appear once a question is completed.
+  - The game does **not wait** for the jury to finish - unless it’s the **last question of the round** or the quiz settings say otherwise.
   - Po vyhodnocení se výsledky zobrazí **po další otázce**.
 
-- **Úprava skóre** — ručně přidávej nebo odebírej body jednotlivým hráčům nebo týmům.
+- **Edit scores** - Grant or revoke points manually per player or team.
 
-- **Ovládání hry** — podle potřeby uprav časovače otázek nebo přidej zpoždění streamu.
+- **Game control** - Adjust question timers or add streaming delays if needed.
   > Nastavení zpoždění livestreamu najdeš v článku [**jak hostovat kvíz QuizWitz Live na Twitchi**](../tutorials/040-livestreaming.md)
 
-- **Report** — vygeneruj kompletní report hry s výsledky a odpověďmi hráčů.
+- **Report** - Generate a full game report with results and player answers.
 
 ![Screenshot aplikace Jury v nevyřízeném stavu](/images/jury-app-waiting.png)
 
@@ -54,7 +54,7 @@ QuizWitz **automaticky rozpozná přesné shody** a označí je jako správné. 
 - Fonetických shod
 - Běžných variant pravopisu
 
-> 🎙️ QuizWitz byl navržen s ohledem na fonetické shody — konečné rozhodnutí je ale vždy na porotcích.
+> 🎙️ QuizWitz was designed with phonetic matching in mind - but the final decision is always up to the judges.
 
 ---
 
