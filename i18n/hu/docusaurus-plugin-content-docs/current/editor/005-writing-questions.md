@@ -23,10 +23,10 @@ Kattints a kérdés bal felső sarkában lévő **fogaskerék ikonra** a teljes 
 
 ### 🎮 Mód és pontozás
 
-- **Kérdéstípus** — Válaszd ki, hogyan játsszák le a kérdést (pl. feleletválasztós, nyílt válasz, puzzle)  
+- **Kérdéstípus** - Válaszd ki, hogyan játsszák le a kérdést (pl. feleletválasztós, nyílt válasz, puzzle)  
   → Tudj meg többet a [kérdéstípusokról](../question-types/000-question-types.md)
-- **Pontok** — Állítsd be, hány pontot ér egy helyes válasz
-- **Kérdés időzítője** — Állítsd be az időkorlátot a csúszkával
+- **Pontok** - Állítsd be, hány pontot ér egy helyes válasz
+- **Kérdés időzítője** - Állítsd be az időkorlátot a csúszkával
 
 ---
 
@@ -34,12 +34,12 @@ Kattints a kérdés bal felső sarkában lévő **fogaskerék ikonra** a teljes 
 
 Szabd testre, hogyan viselkedjen a kérdés játék közben:
 
-- **Időalapú pontozás** — Jutalmazd azokat a játékosokat, akik gyorsabban válaszolnak
-- **Több helyes válasz** — Engedélyezz egynél több érvényes választási lehetőséget
-- **Véletlenszerű válaszsorrend** — Keverd meg a képernyőn megjelenő opciókat
-- **Időzítő leállítása, ha mindenki válaszolt** — Folytatás, amint minden válasz beérkezett
-- **Kérdés eredményeinek megjelenítése** — Visszajelzés megjelenítése a kérdés után (vagy kikapcsolása)
-- **Eredmények kényszerített megjelenítése a kérdés után** — Csak akkor érvényes, ha a visszajelzés normál esetben késleltetve jelenne meg (pl. villámkörökben vagy nyílt kérdéseknél). Zsűri-interakció nélküli alap kérdéseknél a visszajelzés automatikusan megjelenik minden kérdés után.
+- **Időalapú pontozás** - Jutalmazd azokat a játékosokat, akik gyorsabban válaszolnak
+- **Több helyes válasz** - Engedélyezz egynél több érvényes választási lehetőséget
+- **Véletlenszerű válaszsorrend** - Keverd meg a képernyőn megjelenő opciókat
+- **Időzítő leállítása, ha mindenki válaszolt** - Folytatás, amint minden válasz beérkezett
+- **Kérdés eredményeinek megjelenítése** - Visszajelzés megjelenítése a kérdés után (vagy kikapcsolása)
+- **Eredmények kényszerített megjelenítése a kérdés után** - Csak akkor érvényes, ha a visszajelzés normál esetben késleltetve jelenne meg (pl. villámkörökben vagy nyílt kérdéseknél). Zsűri-interakció nélküli alap kérdéseknél a visszajelzés automatikusan megjelenik minden kérdés után.
 
 ---
 
@@ -61,8 +61,8 @@ Ezek a mezők határozzák meg, mi jelenik meg a Quizmaster appban és a játék
 
 Képekkel, videóval vagy hanggal teheted izgalmasabbá a kérdéseket. Minden melléklet megjeleníthető konkrét időpontokban:
 
-- **Kérdés előtt / közben / után** — A kérdés megjelenítése körüli időszakban látható
-- **Visszajelzés előtt / közben / után** — Az eredmények felfedésekor látható
+- **Kérdés előtt / közben / után** - A kérdés megjelenítése körüli időszakban látható
+- **Visszajelzés előtt / közben / után** - Az eredmények felfedésekor látható
 - ...
 
 > 🧠 A mellékletek különösen hasznosak a feszültség fokozására, a válaszok szemléltetésére vagy kontextus megadására.
