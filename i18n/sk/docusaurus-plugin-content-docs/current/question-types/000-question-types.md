@@ -17,7 +17,7 @@ Toto sú najbežnejšie typy otázok. Sú ľahko pochopiteľné a ľahko sa hraj
 - [Výber z viacerých možností](001-multiple-choice.md) (predvolené)
 - [Otázka na zoradenie](003-order-question.md)
 - [Otázka s obrázkovou mapou](004-image-map.md)
-- [Grid question](008-grid-question.md)
+- [Mriežková otázka](008-grid-question.md)
 
 ## Otvorené otázky
 
