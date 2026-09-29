@@ -1,0 +1,42 @@
+{
+  "link.title.Docs": {
+    "message": "Dokumentation",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "Mer",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Getting started": {
+    "message": "Kom igång",
+    "description": "The label of footer link with label=Getting started linking to /docs/intro"
+  },
+  "link.item.label.Frequently Asked Questions": {
+    "message": "Vanliga frågor",
+    "description": "The label of footer link with label=Frequently Asked Questions linking to /docs/faq"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discord.gg/9HREQjG"
+  },
+  "link.item.label.Facebook": {
+    "message": "Facebook",
+    "description": "Social platform name. Used on share/social links."
+  },
+  "link.item.label.Website": {
+    "message": "Webbplats",
+    "description": "Label for the website URL input field on a profile or publisher settings page."
+  },
+  "link.item.label.Blog": {
+    "message": "Blogg",
+    "description": "Navigation label or content type name for blog posts."
+  },
+  "copyright": {
+    "message": "Copyright © 2025 CatLab Interactive bv. Byggd med Docusaurus.",
+    "description": "The footer copyright"
+  }
+}
