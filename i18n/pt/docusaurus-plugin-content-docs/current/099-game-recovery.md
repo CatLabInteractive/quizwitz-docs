@@ -6,13 +6,13 @@ sidebar_position: 1000
 
 # ⚠️ Recuperação de falhas ao vivo
 
-O teu jogo bloqueou? O separador fechou por acidente? [**QuizWitz Live**](quizmaster/001-introduction.md) inclui um sistema de recuperação integrado para te ajudar a voltar ao normal — sem perderes o teu progresso.
+O teu jogo bloqueou? O separador fechou por acidente? [**QuizWitz Live**](quizmaster/001-introduction.md) inclui um sistema de recuperação integrado para te ajudar a voltar ao normal - sem perderes o teu progresso.
 
 ---
 
 ## 🔄 Como funciona a recuperação do jogo
 
-Se o teu jogo falhar, bloquear ou for interrompido por qualquer motivo — seja um problema do navegador, uma reinicialização do sistema ou o fecho acidental do separador — podes retomar a sessão facilmente.
+Se o teu jogo falhar, bloquear ou for interrompido por qualquer motivo - seja um problema do navegador, uma reinicialização do sistema ou o fecho acidental do separador - podes retomar o jogo facilmente.
 
 Apenas **reabre o mesmo separador do navegador** que estavas a usar para mostrar o **ecrã do jogo**. Este é o ecrã que projetas ou transmites para o teu público.
 
@@ -48,7 +48,7 @@ Também podes escolher **começar um novo jogo**.
 ## 💡 Bom saber
 
 - A recuperação só funciona se **voltares ao mesmo ecrã do jogo no mesmo navegador**
-- **Não** navegues para uma página diferente — reabre o **URL exato** que estavas a usar para organizar o jogo
+- **Não** navegues para uma página diferente - reabre o **URL exato** que estavas a usar para organizar o jogo
 - Esta funcionalidade ajuda a recuperar de:
   - Falhas do navegador
   - Bloqueio ou congelamento a meio do quiz
@@ -56,4 +56,4 @@ Também podes escolher **começar um novo jogo**.
 
 ---
 
-Com a recuperação do jogo, podes organizar com confiança — sabendo que, mesmo que algo corra mal, podes continuar exatamente de onde ficaste.
+Com a recuperação do jogo, podes organizar com confiança - sabendo que, mesmo que algo corra mal, podes continuar exatamente de onde ficaste.
