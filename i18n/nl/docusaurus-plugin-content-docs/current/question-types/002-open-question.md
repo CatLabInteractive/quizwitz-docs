@@ -5,7 +5,7 @@ title: Open vraag
 
 # 💬 Open vraag
 
-Een open vraag laat spelers hun antwoord vrij typen met hun toetsenbord. Deze modus is perfect voor vragen waarbij je schriftelijke antwoorden wilt — bijvoorbeeld namen, cijfers of korte uitleg.
+Een open vraag laat spelers hun antwoord vrij typen met hun toetsenbord. Deze modus is perfect voor vragen waarbij je schriftelijke antwoorden wilt - bijvoorbeeld namen, cijfers of korte uitleg.
 
 ---
 
@@ -41,7 +41,7 @@ De scoring bij open vragen is ontworpen om eerlijk te zijn, ook voor langzamere 
 
 - **Tijdgebonden scoring** deelt de beschikbare punten op in blokken, geen strikte aftelling per milliseconde.
 - Bijvoorbeeld, antwoorden binnen het eerste blok (bijv. de eerste 5 seconden) geeft volledige punten; het volgende blok 80%, enzovoort. Dit helpt de straf voor langzamere typers te verminderen.
-- Standaard hangt slechts **25%** van de punten af van snelheid — de overige **75%** is vast, dus iedereen die correct antwoordt krijgt het grootste deel van de punten, ongeacht typesnelheid.
+- Standaard hangt slechts **25%** van de punten af van snelheid - de overige **75%** is vast, dus iedereen die correct antwoordt krijgt het grootste deel van de punten, ongeacht typesnelheid.
 
 > ⚙️ **Tip:** Je kunt het scoregedrag verder aanpassen en andere instellingen wijzigen in de [Rondeopties](../editor/008-round-options.md).
 
