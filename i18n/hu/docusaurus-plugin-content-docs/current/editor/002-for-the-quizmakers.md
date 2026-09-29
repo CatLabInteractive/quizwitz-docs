@@ -6,7 +6,7 @@ title: Bevezetés
 # 🛠️ Quizmaker útmutatója
 
 Üdv a kvízkészítőknek szóló útmutatóban!  
-A QuizWitzben saját kvíztartalmat készíthetsz és rendszerezhetsz — vagy összegyűjtheted és újrakeverheted mások tartalmait.
+A QuizWitzben saját kvíztartalmat készíthetsz és rendszerezhetsz - vagy összegyűjtheted és újrakeverheted mások tartalmait.
 
 ---
 
@@ -14,8 +14,8 @@ A QuizWitzben saját kvíztartalmat készíthetsz és rendszerezhetsz — vagy �
 
 Kvízkészítőként ezekkel dolgozhatsz:
 
-- **Round-Aboutok** — Kisebb, tematikus kérdésgyűjtemények, amelyek véletlenszerű sorrendben jelennek meg
-- **Teljes kvízek** — Egyedi kvízek, amelyek több Round-Aboutot kombinálnak meghatározott sorrendben
+- **Round-Aboutok** - Kisebb, tematikus kérdésgyűjtemények, amelyek véletlenszerű sorrendben jelennek meg
+- **Teljes kvízek** - Egyedi kvízek, amelyek több Round-Aboutot kombinálnak meghatározott sorrendben
 
 Más tagok által létrehozott **Round-Aboutokat is gyűjthetsz**, és beépítheted őket a saját kvízeidbe.
 
