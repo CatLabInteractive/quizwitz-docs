@@ -17,7 +17,7 @@ Dit zijn de meest voorkomende vraagtypes. Ze zijn makkelijk te begrijpen en te s
 - [Meerkeuzevraag](001-multiple-choice.md) (standaard)
 - [Volgordevraag](003-order-question.md)
 - [Afbeeldingsvraag](004-image-map.md)
-- [Grid question](008-grid-question.md)
+- [Gridvraag](008-grid-question.md)
 
 ## Open vragen
 
