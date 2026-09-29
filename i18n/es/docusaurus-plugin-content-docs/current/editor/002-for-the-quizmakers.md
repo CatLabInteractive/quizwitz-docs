@@ -6,7 +6,7 @@ title: Introducción
 # 🛠️ Guía del creador de quizzes
 
 ¡Bienvenido/a a la guía para creadores de quizzes!  
-On QuizWitz, you can build and organize your own quiz content - or collect and remix content made by others.
+En QuizWitz, puedes crear y organizar tu propio contenido de quizzes - o recopilar y remezclar contenido creado por otros.
 
 ---
 
@@ -14,8 +14,8 @@ On QuizWitz, you can build and organize your own quiz content - or collect and r
 
 Como creador de quizzes, puedes trabajar con:
 
-- **Round-Abouts** - Small, themed collections of questions shown in random order
-- **Full Quizzes** - Custom quizzes, combining multiple Round-Abouts in a specific sequence
+- **Round-Abouts** - Pequeñas colecciones temáticas de preguntas que se muestran en orden aleatorio
+- **Quizzes completos** - Quizzes personalizados que combinan varios Round-Abouts en una secuencia específica
 
 También puedes **recopilar Round-Abouts** creados por otros miembros e incluirlos en tus propios quizzes.
 
