@@ -25,8 +25,8 @@ title: Départements - Dealer's Choice
   - Le plus haut classé en premier
   - Aléatoire
 - **Département du dealer :**
-  - _Seul le dealer peut jouer_ — Seul le dealer sélectionné répond à la question
-  - _Tous les joueurs du département du dealer peuvent jouer_ — Tout le monde dans le département peut répondre et marquer des points
+  - _Only dealer may play_ - Only the selected dealer answers the question
+  - _All players in dealer’s department may play_ - Everyone in the department can answer and score points
 - **Bonus du dealer :**  
   Définissez un pourcentage de bonus pour le dealer (si activé).
 
