@@ -7,14 +7,14 @@ title: Průvodce návrhem motivu
 
 [Motivy](/docs/advanced/theming) vysvětlují, jak se motiv QuizWitz staví: v Adobe Animate, exportovaný jako knihovna CreateJS. Tato stránka se věnuje kroku, který tomu předchází - **návrhu** motivu.
 
-It is written for a graphic designer, and it assumes that design and Animate production are done by different people. Few designers still work in Adobe Animate, so a designer usually delivers artwork and someone else assembles the theme. That works well, as long as the artwork arrives in a shape the build can use. Tato stránka tuto podobu popisuje a zároveň slouží jako seznam podkladů k dodání, když si od grafika vyžádáš cenovou nabídku.
+Je napsaná pro grafického designéra a předpokládá, že návrh a produkci v Animate dělají různí lidé. V Adobe Animate dnes pracuje už jen málo designérů, takže designér obvykle dodá grafiku a motiv sestaví někdo jiný. To funguje dobře, pokud grafika dorazí v podobě, se kterou se při stavbě dá pracovat. Tato stránka tuto podobu popisuje a zároveň slouží jako seznam podkladů k dodání, když si od grafika vyžádáš cenovou nabídku.
 
-The page has four parts:
+Stránka má čtyři části:
 
-1. [What you are designing](#what-you-are-designing) - the screens a theme covers.
-2. [The eight frames](#eight-frames-and-an-element-sheet) and [the element sheet](#the-element-sheet), one by one, with screenshots.
-3. [Design rules](#design-rules) - how the file has to be built so the engine can use it.
-4. [What to hand over](#what-to-hand-over) - source file, deliverables and order of work.
+1. [Co navrhuješ](#what-you-are-designing) - obrazovky, které motiv pokrývá.
+2. [Osm rámců](#eight-frames-and-an-element-sheet) a [list prvků](#the-element-sheet), jeden po druhém, se snímky obrazovky.
+3. [Pravidla návrhu](#design-rules) - jak musí být soubor postavený, aby ho engine mohl použít.
+4. [Co odevzdat](#what-to-hand-over) - zdrojový soubor, podklady k dodání a pořadí práce.
 
 :::tip
 Pokud chceš změnit jen barvy, písma a pozadí, nic z tohoto nepotřebuješ - uprav si místo toho [motiv Emerald](/docs/advanced/emerald-theme).
@@ -37,32 +37,32 @@ Motiv je celý vizuální plášť herní obrazovky: pozadí, typografie, barva,
 
 ---
 
-## Eight frames and an element sheet
+## Osm rámců a list prvků
 
-Hra má desítky odlišných stavů obrazovky, ale většina jsou varianty téhož rozvržení. **You design eight frames and one sheet of elements; the rest is derived from them.** That is not a shortcut - it is how the engine works. Obrazovka bez vlastní grafiky se vrací k obecnému rámci.
+Hra má desítky odlišných stavů obrazovky, ale většina jsou varianty téhož rozvržení. **Navrhneš osm rámců a jeden list prvků; zbytek se z nich odvodí.** Není to zkratka - tak engine funguje. Obrazovka bez vlastní grafiky se vrací k obecnému rámci.
 
-The sheet matters as much as the frames: a fall-back screen still needs furniture inside its content area - a panel, a row, a rule.
+List je stejně důležitý jako rámce: i obrazovka, která se vrací k obecnému rámci, potřebuje ve své obsahové ploše vybavení - panel, řádek, linku.
 
-| # | Rámec                                                           | Also covers                                                               |
-| - | --------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 1 | [General frame](#frame-1---the-general-frame)                   | Thirteen screen states with no artwork of their own                       |
-| 2 | [Connect screen](#frame-2---the-connect-screen)                 | Draw it twice: with a client logo and without one         |
-| 3 | [Waiting screen](#frame-3---the-waiting-screen)                 | -                                                                         |
-| 4 | [Question screen](#frame-4---the-question-screen)               | -                                                                         |
-| 5 | [Question with attachment](#frame-5---question-with-attachment) | The full-screen attachment, and attachments shown between questions       |
-| 6 | [Answer screen](#frame-6---the-answer-screen)                   | The answer screen for open questions and for questions with an attachment |
-| 7 | [Standings and winner](#frame-7---standings-and-winner)         | The standings between rounds and the final winner                         |
-| 8 | [Round intro](#frame-8---the-round-intro)                       | All six round categories                                                  |
+| # | Rámec                                                    | Pokrývá také                                                   |
+| - | -------------------------------------------------------- | -------------------------------------------------------------- |
+| 1 | [Obecný rámec](#frame-1---the-general-frame)             | Třináct stavů obrazovky bez vlastní grafiky                    |
+| 2 | [Obrazovka připojení](#frame-2---the-connect-screen)     | Nakresli ji dvakrát: s logem klienta a bez něj |
+| 3 | [Čekací obrazovka](#frame-3---the-waiting-screen)        | -                                                              |
+| 4 | [Obrazovka otázky](#frame-4---the-question-screen)       | -                                                              |
+| 5 | [Otázka s přílohou](#frame-5---question-with-attachment) | Příloha na celou obrazovku a přílohy zobrazované mezi otázkami |
+| 6 | [Obrazovka odpovědi](#frame-6---the-answer-screen)       | Obrazovka odpovědi pro otevřené otázky a pro otázky s přílohou |
+| 7 | [Pořadí a vítěz](#frame-7---standings-and-winner)        | Pořadí mezi koly a konečný vítěz                               |
+| 8 | [Intro kola](#frame-8---the-round-intro)                 | Všech šest kategorií kol                                       |
 
-:::note[About the screenshots]
-Obrazovky níže pocházejí z existujícího motivu. They show **which elements appear on each screen and when**. Nejsou referencí pro styl _ani_ pro rozvržení: kam tento motiv umisťuje svou otázku, své možnosti a svůj časovač, je jeho vlastní rozhodnutí, a to tvoje se může úplně lišit.
+:::note[O snímcích obrazovky]
+Obrazovky níže pocházejí z existujícího motivu. Ukazují, **které prvky se na které obrazovce objevují a kdy**. Nejsou referencí pro styl _ani_ pro rozvržení: kam tento motiv umisťuje svou otázku, své možnosti a svůj časovač, je jeho vlastní rozhodnutí, a to tvoje se může úplně lišit.
 :::
 
 ### Rámec 1 - obecný rámec
 
-**What is on it:** the background, a header title and an empty content area below it. It is not a finished composition but the frame the rest is built inside.
+**Co na něm je:** pozadí, titulek v záhlaví a pod ním prázdná obsahová plocha. Není to hotová kompozice, ale rámec, uvnitř kterého se staví všechno ostatní.
 
-**What it covers:** thirteen screen states - round explanation, standings, player introduction, multiple-choice variants, long questions, seat warnings, settings. Each fills the content area its own way with elements from the [element sheet](#the-element-sheet), so the frame has to hold things that look nothing alike. Výběr otázek a dlouhá otázka mohou dostat vlastní kompozici, pokud to tak chceš; jinak používají tento rámec.
+**Co pokrývá:** třináct stavů obrazovky - vysvětlení kola, pořadí, představení hráčů, varianty výběru z možností, dlouhé otázky, varování ohledně seats, nastavení. Každý z nich vyplní obsahovou plochu po svém prvky z [listu prvků](#the-element-sheet), takže rámec musí unést věci, které si vůbec nejsou podobné. Výběr otázek a dlouhá otázka mohou dostat vlastní kompozici, pokud to tak chceš; jinak používají tento rámec.
 
 Dva herní momenty na tomtéž rámci: výběr otázek a bodový žebříček.
 
@@ -72,34 +72,34 @@ Dva herní momenty na tomtéž rámci: výběr otázek a bodový žebříček.
 
 Podívej se, jak málo mají společného. Výběr dává své tři řádky do panelu s obrysem; žebříček nemá panel vůbec, jen řádky oddělené tenkými linkami. Co ty dva sdílejí, je pozadí a pruh záhlaví nad nimi - všechno pod tím patří konkrétní obrazovce a vyplňuje to hra, ne ty.
 
-That panel and those rules come from the [element sheet](#the-element-sheet), not from this frame. Co musí tenhle rámec zvládnout, je unést je: navrhni obsahovou plochu jako prázdnou, neutrální a prostornou zónu, která funguje stejně dobře s orámovaným panelem, s holým seznamem i s tabulkou řádků. Pozadí, které je uprostřed rušné, nebo záhlaví, které funguje jen s panelem zastrčeným těsně pod ním, je místo, kde se to láme.
+Ten panel a ty linky pocházejí z [listu prvků](#the-element-sheet), ne z tohoto rámce. Co musí tenhle rámec zvládnout, je unést je: navrhni obsahovou plochu jako prázdnou, neutrální a prostornou zónu, která funguje stejně dobře s orámovaným panelem, s holým seznamem i s tabulkou řádků. Pozadí, které je uprostřed rušné, nebo záhlaví, které funguje jen s panelem zastrčeným těsně pod ním, je místo, kde se to láme.
 
-### Frame 2 - the connect screen
+### Rámec 2 - obrazovka připojení
 
-**What is on it:** everything the room needs in order to join.
+**Co na ní je:** všechno, co sál potřebuje k připojení.
 
-- five lines of instruction
-- a join code and a QR code, both generated by the engine - reserve a square for the QR code
-- a line with the number of connected players
-- a list of players trickling in
+- pět řádků pokynů
+- kód pro připojení a QR kód, oba generované enginem - vyhraď pro QR kód čtverec
+- řádek s počtem připojených hráčů
+- seznam postupně přicházejících hráčů
 
-**Draw it twice:** with a client logo beside the join code, and without one, where the theme's own artwork carries the screen.
+**Nakresli ji dvakrát:** s logem klienta vedle kódu pro připojení a bez něj, kdy obrazovku nese vlastní grafika motivu.
 
 ![Obrazovka připojení s logem klienta](/images/theme-design/frame2-connect.png)
 
 ![Obrazovka připojení bez loga klienta](/images/theme-design/frame2-connect-nologo.png)
 
-### Frame 3 - the waiting screen
+### Rámec 3 - čekací obrazovka
 
-**What is on it:** almost nothing - the quiz's own logo, or the theme's artwork.
+**Co na ní je:** skoro nic - vlastní logo kvízu nebo grafika motivu.
 
-It shares only a background with the connect screen, so design it as its own composition. It stays up while the quizmaster reads a question aloud, which puts it on screen longer than almost anything else in the game. It deserves more attention than an empty screen usually gets.
+S obrazovkou připojení sdílí jen pozadí, takže ji navrhni jako samostatnou kompozici. Zůstává zobrazená, zatímco quizmaster čte otázku nahlas, takže je na obrazovce déle než skoro cokoli jiného ve hře. Zaslouží si víc pozornosti, než jakou prázdná obrazovka obvykle dostává.
 
 ![Čekací obrazovka](/images/theme-design/frame2-pending.png)
 
-### Frame 4 - the question screen
+### Rámec 4 - obrazovka otázky
 
-**What is on it:** the question, a timer, four answer options and a feedback line. This is the screen the room looks at longest. Note that an option can consist of nothing but an emoji:
+**Co na ní je:** otázka, časovač, čtyři možnosti odpovědi a řádek zpětné vazby. Na tuhle obrazovku se sál dívá nejdéle. Všimni si, že možnost může obsahovat jen emoji a nic jiného:
 
 ![Obrazovka otázky se čtyřmi textovými možnostmi](/images/theme-design/frame3-question-options.png)
 
@@ -113,13 +113,13 @@ Okamžik, kdy vyprší čas. Přes obrazovku se objeví bublina zpětné vazby a
 
 ![Obrazovka otázky ve stavu vypršení času](/images/theme-design/frame3-question-timeout.png)
 
-### Frame 5 - question with attachment
+### Rámec 5 - otázka s přílohou
 
-**What is on it:** the same parts as frame 4, arranged around an image or video. It may be a different composition. Příloha se zmenší tak, aby se vešla do rámečku, který nakreslíš, takže v něm musí přijatelně vypadat obrázek na šířku i na výšku.
+**Co na ní je:** stejné části jako v rámci 4, uspořádané kolem obrázku nebo videa. Může jít o jinou kompozici. Příloha se zmenší tak, aby se vešla do rámečku, který nakreslíš, takže v něm musí přijatelně vypadat obrázek na šířku i na výšku.
 
-**What it covers:** the full-screen attachment, and attachments shown between questions.
+**Co pokrývá:** přílohu na celou obrazovku a přílohy zobrazované mezi otázkami.
 
-Here with the options to the left and right of the attachment:
+Tady s možnostmi vlevo a vpravo od přílohy:
 
 ![Obrazovka otázky s obrázkem uprostřed](/images/theme-design/frame4-question-attachment.png)
 
@@ -127,13 +127,13 @@ Příloha sama o sobě, přes celou obrazovku:
 
 ![Příloha na celou obrazovku](/images/theme-design/frame4-attachment-fullscreen.png)
 
-### Frame 6 - the answer screen
+### Rámec 6 - obrazovka odpovědi
 
-**What is on it:** which answer was correct, how the room's answers were spread across the options, and a feedback line.
+**Co na ní je:** která odpověď byla správná, jak se odpovědi sálu rozložily mezi možnosti, a řádek zpětné vazby.
 
-**What it covers:** the answer screen for open questions and for questions with an attachment.
+**Co pokrývá:** obrazovku odpovědi pro otevřené otázky a pro otázky s přílohou.
 
-The screen goes through three moments. Nejdřív rozložení, zatím bez čehokoli označeného:
+Obrazovka prochází třemi momenty. Nejdřív rozložení, zatím bez čehokoli označeného:
 
 ![Obrazovka odpovědi s rozložením](/images/theme-design/frame5-answer-mc-spread.png)
 
@@ -153,35 +153,35 @@ U otevřené otázky graf ukazuje, kolik hráčů ji mělo správně:
 
 ![Obrazovka odpovědi pro otevřenou otázku](/images/theme-design/frame5-answer-open.png)
 
-### Frame 7 - standings and winner
+### Rámec 7 - pořadí a vítěz
 
-**What is on it:** a list of players with position, avatar, name and score. Supply the **player row** as a separate, reusable element: it is repeated six times by default, up to ten.
+**Co na něm je:** seznam hráčů s pozicí, avatarem, jménem a skóre. Dodej **řádek hráče** jako samostatný, opakovaně použitelný prvek: ve výchozím nastavení se opakuje šestkrát, nejvýše desetkrát.
 
-**What it covers:** the standings between rounds and the final winner.
+**Co pokrývá:** pořadí mezi koly a konečného vítěze.
 
-The standings after a round, with six player rows:
+Pořadí po kole se šesti řádky hráčů:
 
 ![Pořadí se šesti řádky hráčů](/images/theme-design/frame6-roundoutro.png)
 
-Závěrečné odpočítávání jmenuje jednoho hráče po druhém, od posledního místa k prvnímu - místo, skóre a název týmu ve světle reflektorů. This is also where the [flying emoji](#flying-emoji-land-on-top-of-everything) are heaviest:
+Závěrečné odpočítávání jmenuje jednoho hráče po druhém, od posledního místa k prvnímu - místo, skóre a název týmu ve světle reflektorů. Tady je také nejvíc [létajících emoji](#flying-emoji-land-on-top-of-everything):
 
 ![Odpočítávání vítěze jmenující jednoho hráče](/images/theme-design/frame6-winner-countdown.png)
 
 ![Konečné pořadí](/images/theme-design/frame6-winner.png)
 
-### Frame 8 - the round intro
+### Rámec 8 - intro kola
 
-**What is on it:** a short announcement per round category. Kategorií je šest: věda a technika, příroda, zábava a hudba, sport, umění, historie.
+**Co na něm je:** krátké ohlášení pro každou kategorii kola. Kategorií je šest: věda a technika, příroda, zábava a hudba, sport, umění, historie.
 
-**What it covers:** all six categories. One design may serve several of them.
+**Co pokrývá:** všech šest kategorií. Jeden návrh může posloužit několika z nich.
 
-Here, one composition with a variant per category:
+Tady jedna kompozice s variantou pro každou kategorii:
 
 ![Intro kola pro kategorii příroda](/images/theme-design/frame7-roundintro-nature.png)
 
 ![Intro kola pro kategorii věda](/images/theme-design/frame7-roundintro-science.png)
 
-**A character is optional.** The stock QuizWitz theme has one that talks and reacts; the [Emerald theme](/docs/advanced/emerald-theme) ships without, and dropping it removes the most expensive animation work - lip sync, eyes, arms.
+**Postava je volitelná.** Standardní motiv QuizWitz má postavu, která mluví a reaguje; [motiv Emerald](/docs/advanced/emerald-theme) je bez ní a její vynechání odstraní nejdražší animační práci - synchronizaci rtů, oči, paže.
 
 Bez postavy se z intra kola stává grafický, typografický nebo ilustrativní moment. Dva přístupy udrží práci v rozumném rozsahu: jedna kompozice s barevnou nebo ikonovou variantou pro každou kategorii, nebo jediné univerzální ohlášení, ve kterém se mění jen název kola. Šest opravdu odlišných inter je hodně práce na pár sekund na obrazovce.
 
@@ -209,8 +209,8 @@ Dvě skupiny prvků na jednom listu, každý nakreslený jednou a používaný v
 
 ## Co je rozhodnuto za tebe
 
-- **The players' phones.** A fixed HTML layout.
-- **The handful of things the engine draws itself** - the rules between rows on the points ladder, the highlighted row in the question picker, the QR code. Their colours come from [Colour as a list](#colour-as-a-list).
+- **Telefony hráčů.** Pevné rozvržení HTML.
+- **Hrstka věcí, které engine kreslí sám** - linky mezi řádky na bodovém žebříčku, zvýrazněný řádek ve výběru otázek, QR kód. Jejich barvy pocházejí z části [Barva jako seznam](#colour-as-a-list).
 - **Které obrazovky se vracejí k obecnému rámci a jak.**
 - **Jak se šest kategorií mapuje na grafiku intra kola.** To přiřazení je nastavení v konfiguraci, takže jedno intro se dá znovu použít pro několik kategorií.
 - **Veškeré časování a všechny délky animací.**
@@ -233,12 +233,12 @@ Dvě skupiny prvků na jednom listu, každý nakreslený jednou a používaný v
 
 **Všechno, co se může hýbat, objevit nebo změnit hodnotu, leží ve vlastní pojmenované vrstvě.** Nic sloučeného, nic slitého.
 
-In practice:
+V praxi:
 
-- the four answer options are four separate layers, not one
-- the timer is separate from the background
-- a button and its label are two elements
-- a player row is one group that can be duplicated
+- čtyři možnosti odpovědi jsou čtyři samostatné vrstvy, ne jedna
+- časovač je oddělený od pozadí
+- tlačítko a jeho popisek jsou dva prvky
+- řádek hráče je jedna skupina, kterou lze duplikovat
 
 Co sloučené být smí: čistě dekorativní grafika pozadí, která funguje jako jediný statický obrázek.
 
@@ -248,13 +248,13 @@ Tohle je to jediné pravidlo, které opravdu bolí, když se nedodrží - grafik
 
 Engine kreslí na plátno HTML5. Tyhle je nutné **zapéct do obrázku** nebo je vynechat:
 
-| Effect                                                             | What to do instead          |
-| ------------------------------------------------------------------ | --------------------------- |
-| Live blur, drop shadows and glow as filters                        | Supply them as artwork      |
-| Blend modes (multiply, screen, overlay)         | Resolve them to flat colour |
-| Efekty vrstev a vrstvy úprav                                       | Bake them in                |
-| Přechody **uvnitř** textu nebo text s obrysem u jednotlivých znaků | Leave them out              |
-| Masky, které se mění snímek od snímku                              | Leave them out              |
+| Efekt                                                              | Co udělat místo toho     |
+| ------------------------------------------------------------------ | ------------------------ |
+| Živé rozostření, vržené stíny a záře jako filtry                   | Dodej je jako grafiku    |
+| Režimy prolnutí (násobit, závoj, překrýt)       | Převeď je na plnou barvu |
+| Efekty vrstev a vrstvy úprav                                       | Zapeč je do obrázku      |
+| Přechody **uvnitř** textu nebo text s obrysem u jednotlivých znaků | Vynech je                |
+| Masky, které se mění snímek od snímku                              | Vynech je                |
 
 Přechody v tvarech jsou v pořádku. Průhlednost je v pořádku. Stíny jako pevná grafika jsou v pořádku.
 
@@ -279,13 +279,13 @@ Z toho plyne:
 - **Dvanáct jazyků.** Německé složeniny jsou dlouhé a maďarština není o nic vlídnější. Rámeček, který je v angličtině těsný, spadne v němčině na nečitelně malou velikost.
 - **Uvnitř textu se mohou objevit emoji.** Hráči si jedno vybírají vedle názvu týmu a otázka nebo možnost může nějaké obsahovat - někdy je možnost jen emoji a nic víc. Kreslí se barevně a jsou vyšší než písmena kolem nich.
 
-**What the build needs to know about each text box:** where it is, how big it is, how it is aligned, which colour and which font. Ne: v jaké velikosti bodů.
+**Co stavba potřebuje vědět o každém textovém rámečku:** kde je, jak je velký, jak je zarovnaný, jakou má barvu a jaké písmo. Ne: v jaké velikosti bodů.
 
-**You can use this.** A large box with short text becomes a strong typographic composition by itself, and a box you deliberately make narrow and tall forces text into a column. Use the fitting as a design device; just do not design against it.
+**Můžeš toho využít.** Velký rámeček s krátkým textem se sám stane silnou typografickou kompozicí a rámeček, který schválně uděláš úzký a vysoký, vtlačí text do sloupce. Využij přizpůsobování jako návrhový prostředek; jen nenavrhuj proti němu.
 
 ### Časovač - povinný, a je to animace
 
-**Every question screen has a timer**; the room has to see how much time is left.
+**Každá obrazovka otázky má časovač**; sál musí vidět, kolik času zbývá.
 
 **Časovač není odpočítávající číslo, ale animace, jejíž přehrávací hlavu posouvá engine.** Navrhuješ postup od „plno“ k „prázdno“ - vyprazdňující se pruh, uzavírající se kruh, přesýpací hodiny, zkracující se linka. Engine přehraje tu animaci přesně takovou rychlostí, aby poslední snímek padl na konec otázky.
 
@@ -301,7 +301,7 @@ Dodej časovač jako sérii klíčových snímků nebo jako popis postupu - „p
 
 ### Létající emoji přistávají přes všechno
 
-Každý hráč si při připojení vybere emoji a hra ta emoji rozhazuje po obrazovce. They are drawn by the engine on a layer above the theme. **Tady pro tebe není co navrhovat** - ale je kolem čeho navrhovat, protože to není vzácná ozdoba.
+Každý hráč si při připojení vybere emoji a hra ta emoji rozhazuje po obrazovce. Kreslí je engine na vrstvě nad motivem. **Tady pro tebe není co navrhovat** - ale je kolem čeho navrhovat, protože to není vzácná ozdoba.
 
 Objevují se ve třech momentech:
 
@@ -314,7 +314,7 @@ Co to znamená pro návrh:
 - **Nech spodní třetinu obrazovek s pořadím a vítězem volnou od čehokoli malého nebo zásadního.** Během odpočítávání je tam dole opravdu plno.
 - **Počítej s tím, že se budou tlouct s tvou paletou.** Jsou to plnobarevná emoji ze všech koutů tabulky Unicode a žádný motiv je neovládá. Návrh, který drží pohromadě jen v úzkém barevném rozsahu, bude po ty sekundy působit nahodile.
 - **Vymršťování je potlačené, dokud se zobrazuje obrázek nebo video**, takže obrazovky s přílohou zůstávají čisté.
-- **The whole layer can be switched off per game**, so do not build a composition that depends on them being there either.
+- **Celou vrstvu lze pro každou hru vypnout**, takže nestav ani kompozici, která závisí na tom, že tam budou.
 
 ### Písma
 
@@ -325,20 +325,20 @@ Co to znamená pro návrh:
 
 Motiv čte seznam barev z konfiguračního souboru a telefony hráčů se stylují z téhož seznamu. Dodej svou paletu jako **pojmenovaný seznam**, ne jen jako barvy v grafice:
 
-| Where                       | Colours                                                                                                                                                                                                                                                                |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Game screen**             | Main colour, accent colour, background, panel or container colour, timer background, default text colour, header text colour, question text colour, button text, dialog and explanation text, player name and score text, the colour for correct, the colour for wrong |
-| **The four answer options** | For each option: a background colour, a border colour, and one flat colour for the phones and the charts                                                                                                                                               |
-| **Players' phones**         | Background, text colour, outline colour, option outline colour, and the background and text colour of the answer container                                                                                                                                             |
+| Kde                         | Barvy                                                                                                                                                                                                                                                          |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Herní obrazovka**         | Hlavní barva, zvýrazňující barva, pozadí, barva panelu nebo kontejneru, pozadí časovače, výchozí barva textu, barva textu záhlaví, barva textu otázky, text tlačítek, text dialogů a vysvětlení, text jména hráče a skóre, barva pro správně, barva pro špatně |
+| **Čtyři možnosti odpovědi** | Pro každou možnost: barva pozadí, barva ohraničení a jedna plná barva pro telefony a grafy                                                                                                                                                     |
+| **Telefony hráčů**          | Pozadí, barva textu, barva obrysu, barva obrysu možností a barva pozadí a textu kontejneru odpovědí                                                                                                                                                            |
 
 Na herní obrazovce jsou povolené přechody: uveď je jako dvě hexadecimální hodnoty.
 
-A few colours are the _only_ handle on parts the engine draws itself, so they are worth deciding rather than defaulting:
+Několik barev je _jediným_ nástrojem, jak ovlivnit části, které engine kreslí sám, takže stojí za to je zvolit, a ne nechat výchozí:
 
-- the **separator** - the rules between rows where there is no panel, and on the points ladder
-- the **active**, **inactive** and **selected** states of a row in the question picker
-- the **dialog** text
-- the **front and back of the QR code**
+- **oddělovač** - linky mezi řádky tam, kde není panel, a na bodovém žebříčku
+- stavy řádku ve výběru otázek: **aktivní**, **neaktivní** a **vybraný**
+- text **dialogů**
+- **přední a zadní strana QR kódu**
 
 Když je vynecháš, spadnou na vestavěné výchozí hodnoty - bílou, šedou, červenou, černou a bílou - které k návrhu málokdy sedí.
 
@@ -352,17 +352,17 @@ Vlastní návrhy obsahují logo QuizWitz. Vyhraď pro ně místo tam, kde nepře
 
 ### Zdrojový soubor - nejlépe Illustrator
 
-The theme is built in Adobe Animate, and what Animate can import decides how much of your work survives the hand-over intact:
+Motiv se staví v Adobe Animate a to, co Animate umí importovat, rozhoduje o tom, kolik tvé práce přežije předání neporušené:
 
-| Tool                                             | What happens on import                                                                                                                                                                                                                                                                                  | Use it for                                 |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| **Adobe Illustrator** (`.ai`) | Animate imports it directly and converts your layers into Animate layers or separate symbols, keeping the layer names and leaving the vectors editable. Přesně tenhle krok zachrání grafiku před tím, aby se musela stavět ručně znovu.                                 | **Preferred** for the final deliverable    |
-| **Adobe Photoshop**                              | Imports with its layers intact, like Illustrator, but gives raster instead of vector.                                                                                                                                                                                                   | Possible                                   |
-| **Figma**                                        | Everything goes through SVG and PNG export, and that is precisely where the layer structure needed here is lost. Pokud Figmu přesto použiješ, dodej **každý prvek zvlášť jako SVG**, s názvy souborů odpovídajícími názvům vrstev, aby se struktura dala ručně obnovit. | The concept phase, if you are faster in it |
+| Nástroj                                          | Co se stane při importu                                                                                                                                                                                                                                                                   | Použij ho pro                            |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| **Adobe Illustrator** (`.ai`) | Animate ho importuje přímo a převede tvoje vrstvy na vrstvy Animate nebo samostatné symboly, přičemž zachová názvy vrstev a vektory ponechá upravitelné. Přesně tenhle krok zachrání grafiku před tím, aby se musela stavět ručně znovu.                  | **Preferovaný** pro finální podklad      |
+| **Adobe Photoshop**                              | Importuje se s neporušenými vrstvami, jako Illustrator, ale dává rastr místo vektoru.                                                                                                                                                                                     | Možné                                    |
+| **Figma**                                        | Všechno jde přes export do SVG a PNG, a právě tam se ztrácí struktura vrstev, která je tu potřeba. Pokud Figmu přesto použiješ, dodej **každý prvek zvlášť jako SVG**, s názvy souborů odpovídajícími názvům vrstev, aby se struktura dala ručně obnovit. | Koncepční fáze, pokud jsi v ní rychlejší |
 
 Struktura souboru:
 
-- One artboard per screen, named after the frames above.
+- Jedna kreslicí plocha na obrazovku, pojmenovaná podle rámců výše.
 - Opakovaně použitelné části (tlačítko, řádek hráče, možnost odpovědi, časovač) jako **symboly** nebo komponenty, ne jako volné kopie.
 - Názvy vrstev anglicky, bez mezer: `question`, `option1` až `option4`, `timer`, `feedback`, `header`, `background`, `playerScore`.
 - Barvy jako pojmenované vzorníky a text jako pojmenované styly, místo nastavení na každém objektu zvlášť.
@@ -371,24 +371,24 @@ Struktura souboru:
 
 1. **Zdrojový soubor**, strukturovaný jak je popsáno výše.
 2. **Každý rámec jako PNG**, 1920 × 1080 - reference toho, jak to má vypadat. U rámce 2 verzi s logem klienta i verzi bez něj.
-3. **The element sheet** as one artboard: the [content building blocks and the controls](#the-element-sheet).
+3. **List prvků** jako jedna kreslicí plocha: [stavební kameny obsahu a ovládací prvky](#the-element-sheet).
 4. **Každý samostatný grafický prvek jako průhledné PNG v 2×**, v jedné složce, s názvem souboru odpovídajícím názvu vrstvy.
 5. **Časovač** jako klíčové snímky nebo písemný popis postupu.
 6. **Písma** jako `.ttf` nebo `.otf`, s dokladem o licenci.
-7. **The colour list** from [Colour as a list](#colour-as-a-list), as hex values.
+7. **Seznam barev** z části [Barva jako seznam](#colour-as-a-list), jako hexadecimální hodnoty.
 8. **Půl stránky poznámek**: jaká je myšlenka, jak se mají možnosti objevovat, co se hýbe a co zůstává stát. Ne desetistránkové zdůvodnění návrhu - ten, kdo motiv staví, potřebuje vědět, co má postavit. Nápady na pohyb můžou být popsané nebo dodané jako hrubý animatic.
 
 ### Pořadí práce
 
-1. **Frame 4, the question screen, together with the element sheet.** Get both approved before the rest. Between them they carry the timer, the options, the panel and every control, so they settle the style of the whole theme.
-2. **Frames 1 to 3.** They follow naturally from the first two.
-3. **Frames 6 to 8** come last.
+1. **Rámec 4, obrazovka otázky, spolu s listem prvků.** Nech si obojí schválit dřív než zbytek. Dohromady obsahují časovač, možnosti, panel a všechny ovládací prvky, takže určují styl celého motivu.
+2. **Rámce 1 až 3.** Přirozeně vyplývají z prvních dvou.
+3. **Rámce 6 až 8** přijdou na řadu nakonec.
 
 ---
 
 ## Příloha - názvy symbolů
 
-Pro úplnost a pro toho, kdo chce přesně vědět, kde jeho grafika skončí. **You do not need to read this to do the work**; the eight frames and the element sheet above are enough. Používat tyhle názvy jako názvy vrstev ušetří jeden překladový krok.
+Pro úplnost a pro toho, kdo chce přesně vědět, kde jeho grafika skončí. **Ke své práci tohle číst nepotřebuješ**; osm rámců a list prvků výše stačí. Používat tyhle názvy jako názvy vrstev ušetří jeden překladový krok.
 
 | Rámec                                           | Název symbolu                                                                                                                             | Povinné části                                                                                                                                                                            |
 | ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -409,7 +409,7 @@ Pro úplnost a pro toho, kdo chce přesně vědět, kde jeho grafika skončí. *
 
 Symboly intra kola ve výchozím motivu se jmenují `RoundIntroScienceAndTech`, `RoundIntroFloraAndFauna`, `RoundIntroTedMusic`, `RoundIntroTedSport` a `RoundIntroTedCultHist`; umění a historie sdílejí ten poslední. „Ted“ v těch názvech je pozůstatek postavy z původního motivu a neznamená, že se v nich postava musí objevit.
 
-Every element with `.text` after it is a fitted text box as described under [How text behaves](#how-text-behaves): a rectangle the engine fills itself. Prvek `timer` je filmový klip s vlastní časovou osou; engine si přečte počet jeho snímků a posouvá přehrávací hlavu úměrně uplynulému času, nejvýše 24krát za sekundu.
+Každý prvek, za kterým následuje `.text`, je přizpůsobivý textový rámeček, jak je popsáno v části [Jak se chová text](#how-text-behaves): obdélník, který engine vyplní sám. Prvek `timer` je filmový klip s vlastní časovou osou; engine si přečte počet jeho snímků a posouvá přehrávací hlavu úměrně uplynulému času, nejvýše 24krát za sekundu.
 
 ### Co si konfigurační soubor bere z tvého návrhu
 
