@@ -6,13 +6,13 @@ sidebar_position: 1000
 
 # ⚠️ Récupération en direct après plantage
 
-Votre partie s'est-elle figée ? L'onglet s'est-il fermé par accident ? [**QuizWitz Live**](quizmaster/001-introduction.md) inclut un système de récupération intégré pour vous aider à reprendre le fil — sans perdre votre progression.
+Votre partie s'est-elle figée ? L'onglet s'est-il fermé par accident ? [**QuizWitz Live**](quizmaster/001-introduction.md) includes a built-in recovery system to help you get back on track - without losing your progress.
 
 ---
 
 ## 🔄 Comment fonctionne la récupération de partie
 
-Si votre partie plante, se bloque ou est interrompue pour une quelconque raison — que ce soit à cause d'un problème de navigateur, d'un redémarrage système ou de la fermeture accidentelle de l'onglet — vous pouvez reprendre la partie facilement.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the session easily.
 
 Il vous suffit de **rouvrir le même onglet de navigateur** que vous utilisiez pour afficher **l'écran de jeu**. C'est l'écran que vous projetez ou diffusez à votre audience.
 
@@ -48,7 +48,7 @@ Vous pouvez aussi choisir de **démarrer une nouvelle partie** à la place.
 ## 💡 Bon à savoir
 
 - La récupération ne fonctionne que si vous **revenez sur le même écran de jeu avec le même navigateur**
-- Ne naviguez surtout pas vers une page différente — rouvrez l'**URL exacte** que vous utilisiez pour organiser la partie
+- Do **not** navigate to a different page - reopen the **exact URL** you were using to host the game
 - Cette fonction permet de récupérer après :
   - Plantages du navigateur
   - Blocages ou figements en plein quiz
@@ -56,4 +56,4 @@ Vous pouvez aussi choisir de **démarrer une nouvelle partie** à la place.
 
 ---
 
-Avec la récupération de partie, vous pouvez organiser vos parties en toute confiance — sachant que même si quelque chose tourne mal, vous pourrez reprendre là où vous vous êtes arrêté.
+With game recovery, you can host confidently - knowing that even if something goes wrong, you can pick up right where you left off.
