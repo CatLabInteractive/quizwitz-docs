@@ -25,8 +25,8 @@ title: Reparto Dealer's Choice
   - Prima il più alto in classifica
   - Casuale
 - **Reparto del dealer:**
-  - _Può giocare solo il dealer_ — Solo il dealer selezionato risponde alla domanda
-  - _Possono giocare tutti i giocatori del reparto del dealer_ — Tutti nel reparto possono rispondere e fare punti
+  - _Può giocare solo il dealer_ - Solo il dealer selezionato risponde alla domanda
+  - _Possono giocare tutti i giocatori del reparto del dealer_ - Tutti nel reparto possono rispondere e fare punti
 - **Bonus dealer:**  
   Imposta una percentuale bonus per il dealer (se abilitato).
 
