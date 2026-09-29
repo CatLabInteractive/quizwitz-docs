@@ -5,7 +5,7 @@ title: Exécution d'un quiz de conférence
 
 # Exécution d'un quiz de conférence
 
-This guide walks you through everything you need to know to run a QuizWitz quiz at a conference booth or event - from opening the quiz link to the final leaderboard.
+Ce guide couvre tout ce que vous devez savoir pour animer un quiz QuizWitz sur un stand ou lors d'un événement de conférence, de l'ouverture du lien du quiz jusqu'au classement final.
 
 ---
 
@@ -16,7 +16,7 @@ Avant de commencer, assurez-vous d'avoir :
 - Une connexion internet stable
 - L'URL du quiz (fournie à l'avance)
 - Un ordinateur portable connecté à l'écran que les joueurs regarderont
-- **Google Chrome** - other browsers like Safari or Edge may not work correctly
+- **Google Chrome** - d'autres navigateurs comme Safari ou Edge peuvent ne pas fonctionner correctement
 
 ---
 
@@ -27,7 +27,7 @@ Avant de commencer, assurez-vous d'avoir :
 
 2. Un écran de chargement noir apparaît avec un pourcentage. Cela ne prend que quelques secondes.
 
-3. Une fois chargé, l'écran de jeu apparaît. If prompted to log in, click **Login** - a second tab will open.
+3. Une fois chargé, l'écran de jeu apparaît. Si vous êtes invité à vous connecter, cliquez sur **Connexion** - un deuxième onglet s'ouvrira.
    - Cliquez sur **Connexion** sur la page de connexion et entrez les informations d'identification qui vous sont fournies.
    - Une fois connecté, l'onglet se ferme automatiquement et le chargement du quiz se termine.
 
@@ -38,7 +38,7 @@ Avant de commencer, assurez-vous d'avoir :
    Le quiz est maintenant prêt à jouer sur l'écran de jeu.
 
 :::tip
-To exit fullscreen at any time - for example, to switch to another window - press **Esc**.
+Pour quitter le plein écran à tout moment - par exemple, pour passer à une autre fenêtre - appuyez sur **Échap**.
 :::
 
 ---
@@ -47,8 +47,8 @@ To exit fullscreen at any time - for example, to switch to another window - pres
 
 Pour jouer à nouveau après une partie terminée, vous avez quelques options :
 
-- **Reload the page** - click the reload icon in Chrome's toolbar (you may need to press Esc first to exit fullscreen).
-- **Press S** - after the quiz ends, pressing **S** on the keyboard brings you back to the start screen.
+- **Recharger la page** - cliquez sur l'icône de rechargement dans la barre d'outils de Chrome (vous devrez peut-être d'abord appuyer sur Échap pour quitter le plein écran).
+- **Appuyez sur S** - après la fin du quiz, appuyez sur **S** sur le clavier pour revenir à l'écran de démarrage.
 
 Si une fenêtre pop-up apparaît vous demandant si vous voulez démarrer une nouvelle partie, cliquez sur **Oui, commencez une nouvelle partie**.
 
