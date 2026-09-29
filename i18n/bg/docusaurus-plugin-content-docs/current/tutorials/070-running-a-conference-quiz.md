@@ -5,7 +5,7 @@ title: Провеждане на конферентен quiz
 
 # Провеждане на конферентен quiz
 
-This guide walks you through everything you need to know to run a QuizWitz quiz at a conference booth or event - from opening the quiz link to the final leaderboard.
+Това ръководство те превежда през всичко, което трябва да знаеш, за да проведеш QuizWitz куиз на щанд на конференция или събитие - от отварянето на линка към куиза до финалното класиране.
 
 ---
 
@@ -16,7 +16,7 @@ This guide walks you through everything you need to know to run a QuizWitz quiz 
 - Стабилна интернет връзка
 - URL адреса на quiz (предоставен ти предварително)
 - Лаптоп, свързан към екрана, който играчите ще гледат
-- **Google Chrome** - other browsers like Safari or Edge may not work correctly
+- **Google Chrome** - други браузъри като Safari или Edge може да не работят правилно
 
 ---
 
@@ -27,7 +27,7 @@ This guide walks you through everything you need to know to run a QuizWitz quiz 
 
 2. Появява се черен екран за зареждане с показан процент. Това отнема само няколко секунди.
 
-3. След зареждането се показва екранът на играта. If prompted to log in, click **Login** - a second tab will open.
+3. След зареждането се показва екранът на играта. Ако бъдеш подканен да влезеш, щракни върху **Login** - ще се отвори втори раздел.
    - Щракни върху **Login** на страницата за вход и въведи предоставените ти данни за достъп.
    - След като влезеш, разделът се затваря автоматично и куизът довършва зареждането.
 
@@ -38,7 +38,7 @@ This guide walks you through everything you need to know to run a QuizWitz quiz 
    Куизът вече може да се играе на екрана на играта.
 
 :::tip
-To exit fullscreen at any time - for example, to switch to another window - press **Esc**.
+За да излезеш от цял екран по всяко време - например за да превключиш към друг прозорец - натисни **Esc**.
 :::
 
 ---
@@ -47,8 +47,8 @@ To exit fullscreen at any time - for example, to switch to another window - pres
 
 За да играеш отново след приключена игра, имаш няколко опции:
 
-- **Reload the page** - click the reload icon in Chrome's toolbar (you may need to press Esc first to exit fullscreen).
-- **Press S** - after the quiz ends, pressing **S** on the keyboard brings you back to the start screen.
+- **Презареди страницата** - щракни върху иконата за презареждане в лентата с инструменти на Chrome (може първо да трябва да натиснеш Esc, за да излезеш от цял екран).
+- **Натисни S** - след края на куиза натискането на **S** на клавиатурата те връща към началния екран.
 
 Ако се появи изскачащ прозорец с въпрос дали искаш да започнеш нова игра, щракни върху **Yes, start new game**.
 
