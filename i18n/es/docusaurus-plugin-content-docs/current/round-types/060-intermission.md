@@ -5,7 +5,7 @@ title: Intermedio
 
 # ⏸️ Intermedio
 
-**Intermedio** es una ronda especial del evento que pausa el quiz para un descanso—ideal para estirarse, charlar o promocionar patrocinadores.
+**Intermission** is a special event round that pauses the quiz for a break - ideal for stretching, chatting, or promoting sponsors.
 
 ---
 
@@ -23,7 +23,7 @@ title: Intermedio
 ## 🖼️ Archivos adjuntos
 
 - Puedes subir imágenes, logos o videos en la configuración de la ronda.
-- Durante el intermedio, estos archivos adjuntos se mostrarán en un carrusel en la pantalla de juego—ideal para logotipos, mensajes o vídeos promocionales.
+- During the intermission, these attachments will be shown in a carousel on the game screen - great for sponsor logos, messages, or promotional videos.
 - Los archivos adjuntos se repetirán durante toda la duración del descanso.
 
 ---
