@@ -23,10 +23,10 @@ Clica no **ícone de engrenagem** no canto superior esquerdo de uma pergunta par
 
 ### 🎮 Modo e pontuação
 
-- **Tipo de pergunta** — Escolhe como a pergunta é jogada (por ex., escolha múltipla, resposta aberta, puzzle)  
+- **Tipo de pergunta** - Escolhe como a pergunta é jogada (por ex., escolha múltipla, resposta aberta, puzzle)  
   → Sabe mais em [tipos de pergunta](../question-types/000-question-types.md)
-- **Pontos** — Define quantos pontos vale uma resposta correta
-- **Temporizador da pergunta** — Ajusta o limite de tempo com o controlo deslizante
+- **Pontos** - Define quantos pontos vale uma resposta correta
+- **Temporizador da pergunta** - Ajusta o limite de tempo com o controlo deslizante
 
 ---
 
@@ -34,12 +34,12 @@ Clica no **ícone de engrenagem** no canto superior esquerdo de uma pergunta par
 
 Personaliza como a pergunta se comporta durante o jogo:
 
-- **Pontuação baseada no tempo** — Recompensa jogadores que respondem mais rapidamente
-- **Múltiplas respostas corretas** — Permite mais do que uma escolha válida
-- **Ordem aleatória das respostas** — Baralha as opções no ecrã
-- **Parar temporizador quando todos responderem** — Continua assim que todas as respostas chegarem
-- **Mostrar resultados da pergunta** — Mostra feedback depois da pergunta (ou desativa-o)
-- **Forçar resultados depois da pergunta** — Aplica-se apenas quando o feedback normalmente seria adiado (por ex., em rondas-relâmpago ou perguntas abertas). Para perguntas normais sem interação do júri, o feedback é mostrado automaticamente depois de cada pergunta.
+- **Pontuação baseada no tempo** - Recompensa jogadores que respondem mais rapidamente
+- **Múltiplas respostas corretas** - Permite mais do que uma escolha válida
+- **Ordem aleatória das respostas** - Baralha as opções no ecrã
+- **Parar temporizador quando todos responderem** - Continua assim que todas as respostas chegarem
+- **Mostrar resultados da pergunta** - Mostra feedback depois da pergunta (ou desativa-o)
+- **Forçar resultados depois da pergunta** - Aplica-se apenas quando o feedback normalmente seria adiado (por ex., em rondas-relâmpago ou perguntas abertas). Para perguntas normais sem interação do júri, o feedback é mostrado automaticamente depois de cada pergunta.
 
 ---
 
@@ -47,9 +47,9 @@ Personaliza como a pergunta se comporta durante o jogo:
 
 Estes campos controlam o que aparece no ecrã de jogo e na App Quizmaster:
 
-- **Tela de jogo - Feedback de perguntas** — Exibido para todos os jogadores após o feedback ser revelado
-- **Quizmaster - Pergunta longa** — Uma versão da pergunta a ser lida em voz alta pelo quizmaster
-- **Quizmaster - Feedback longo** — O texto que o quizmaster pode ler depois de revelar a resposta correta
+- **Ecrã de jogo - Feedback da pergunta** - Mostrado a todos os jogadores depois de o feedback ser revelado
+- **Quizmaster - Pergunta longa** - Uma versão da pergunta a ser lida em voz alta pelo quizmaster
+- **Quizmaster - Feedback longo** - O texto que o quizmaster pode ler depois de revelar a resposta correta
 
 > 📝 Estes campos ajudam a tornar as apresentações ao vivo dinâmicas e polidas.
 
@@ -61,8 +61,8 @@ Estes campos controlam o que aparece no ecrã de jogo e na App Quizmaster:
 
 Podes melhorar as perguntas com imagens, vídeo ou áudio. Cada anexo pode ser mostrado em momentos específicos:
 
-- **Antes / Durante / Depois da pergunta** — Mostrado à volta do momento em que a pergunta é apresentada
-- **Antes / Durante / Depois do feedback** — Mostrado quando os resultados são revelados
+- **Antes / Durante / Depois da pergunta** - Mostrado à volta do momento em que a pergunta é apresentada
+- **Antes / Durante / Depois do feedback** - Mostrado quando os resultados são revelados
 - ...
 
 > 🧠 Os anexos são especialmente úteis para criar suspense, ilustrar respostas ou dar contexto.
