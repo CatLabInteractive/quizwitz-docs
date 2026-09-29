@@ -6,7 +6,7 @@ title: Legjobb válasz kérdés
 # 🎖️ Legjobb válasz kérdés
 
 A **Legjobb válasz kérdés** típusnál a játékosok saját válaszokat írnak egy nyitott kérdésre.  
-A pontokat vagy manuálisan a quizmaster osztja ki, vagy – ha nincs quizmaster – a játékosok szavaznak a kedvenc válaszukra.
+A pontokat vagy manuálisan a quizmaster osztja ki, vagy - ha nincs quizmaster - a játékosok szavaznak a kedvenc válaszukra.
 
 ---
 
