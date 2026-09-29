@@ -3,9 +3,9 @@ id: startup
 title: Стартиране
 ---
 
-# 🚀 Start-up - Hosting a Quiz with QuizWitz Live
+# 🚀 Стартиране - водене на куиз с QuizWitz Live
 
-Welcome to QuizWitz Live - the professional way to host quizzes for teams, livestreams, and in-person events. Следвай това ръководство, за да подкараш куиза си чрез Quizmaster App.
+Добре дошъл в QuizWitz Live - професионалният начин да водиш куизове за екипи, livestream-и и събития на живо. Следвай това ръководство, за да подкараш куиза си чрез Quizmaster App.
 
 ---
 
@@ -23,7 +23,7 @@ Welcome to QuizWitz Live - the professional way to host quizzes for teams, lives
 
 ## 🔐 Свързване с quizmaster код
 
-След стартиране на екрана ти се показва **quizmaster код**. **Do not share this code with players** - it's used to connect your presentation device to the game.
+След стартиране на екрана ти се показва **quizmaster код**. **Не споделяй този код с играчите** - той се използва, за да свърже устройството за презентация с играта.
 
 - На устройството си за quizmaster отвори [quizwitz.tv](https://quizwitz.tv) и въведи quizmaster кода.
 - Ще се появи **интерфейсът на Quizmaster App**, откъдето управляваш играта.
@@ -32,7 +32,7 @@ Welcome to QuizWitz Live - the professional way to host quizzes for teams, lives
 
 След свързването quizmaster кодът изчезва от екрана. Вече си готов да прожектираш екрана на играта или да пуснеш livestream.
 
-> ⚠️ **Heads up!** If the game screen is not actively in focus - for example, if you switch tabs or minimize it - the game will **automatically pause**.  
+> ⚠️ **Внимание!** Ако екранът на играта не е активно на преден план - например смениш раздела или го минимизираш - играта автоматично **влиза в пауза**.  
 > Когато това се случи:
 >
 > - **Quizmaster App също спира на пауза**
@@ -51,13 +51,13 @@ Welcome to QuizWitz Live - the professional way to host quizzes for teams, lives
 
 - Всеки екип получава **уникален код**, който може да се отвори на няколко устройства.
 - Най-подходящо за **предварително регистрирани екипни куизове**, когато знаеш имената на екипите предварително.
-- Allows device switching - helpful if a battery dies mid-quiz.
+- Позволява смяна на устройство - полезно е, ако батерия падне по средата на куиза.
 
 ### Един общ код за игра
 
 - Всички се включват с **един споделен код за игра**.
 - Идеално за неформални събития или събития с отворен достъп.
-- No pre-registration required - players can join anytime, until all active seats are filled.
+- Не е нужна предварителна регистрация - играчите могат да се включат по всяко време, докато всички активни Seats не се запълнят.
 
 > Увери се, че си влязъл в профила си, за да имаш достъп до съдържанието на куиза си.
 
@@ -71,13 +71,13 @@ Welcome to QuizWitz Live - the professional way to host quizzes for teams, lives
 - Натисни бутона **‘Generate Codes’**, за да създадеш кодове за достъп  
   ![Quizmaster App - създаване на отбори](/images/quizmaster-app-create-teams.png)
 
-You can also **reserve codes in advance** - more on that in the tips & tricks section.
+Можеш също да **резервираш кодове предварително** - повече за това има в раздела със съвети и трикове.
 
 Не забравяй да **запазиш следните кодове**:
 
-- **Quizmaster code** - to control the quiz
-- **Jury Code** - for manual score adjustments
-- **Regie Code** - to control visual and technical elements
+- **Quizmaster код** - за управление на куиза
+- **Код за жури** - за ръчни корекции на резултата
+- **Режисьорски код** - за управление на визуалните и техническите елементи
 
 Изпрати екипните кодове на играчите по имейл или на разпечатки.
 
@@ -92,7 +92,7 @@ You can also **reserve codes in advance** - more on that in the tips & tricks se
 Със схемата **Споделен код за игра**:
 
 - Получаваш quizmaster кода, кода за жури и режисьорския код, плюс един код за игра за играчите.
-- The game code appears on the game screen - **display or stream it to your audience**.
+- Кодът за игра се показва на екрана на играта - **покажи го или го стриймвай на публиката си**.
 - Играчите могат да се включват по всяко време, докато лимитът ти за активни Seats не бъде достигнат.
 
 Когато играчите вече са вътре:
