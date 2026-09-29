@@ -24,9 +24,9 @@ Dal menu principale:
 
 Inizia dando al tuo Round-About un chiaro:
 
-- **Titolo** — qualcosa di accattivante o descrittivo
-- **Lingua** — la lingua in cui sono scritte le tue domande
-- **Categoria** — aiuta i giocatori a trovare il tuo Round-About più tardi
+- **Titolo** - qualcosa di accattivante o descrittivo
+- **Lingua** - la lingua in cui sono scritte le tue domande
+- **Categoria** - aiuta i giocatori a trovare il tuo Round-About più tardi
 
 > 🔒 Non devi pubblicare il tuo Round-About per giocarci. Tienilo privato o pubblicalo quando sei pronto a condividerlo.
 
@@ -54,9 +54,9 @@ Vuoi aggiungere domande in blocco? Usa la funzione **Importa domande** e segui l
 
 Nella sezione **Dettagli**, troverai opzioni di configurazione aggiuntive:
 
-- **Traduci** — Crea una versione tradotta del tuo Round-About in un'altra lingua
-- **Categoria** — Scegli o aggiorna la categoria del tuo Round-About
-- **Tipo di round** — Seleziona come vengono presentate le domande ai giocatori. Puoi configurare:
+- **Traduci** - Crea una versione tradotta del tuo Round-About in un'altra lingua
+- **Categoria** - Scegli o aggiorna la categoria del tuo Round-About
+- **Tipo di round** - Seleziona come vengono presentate le domande ai giocatori. Puoi configurare:
   - Scelta multipla
   - Domande aperte
   - Round lampo
