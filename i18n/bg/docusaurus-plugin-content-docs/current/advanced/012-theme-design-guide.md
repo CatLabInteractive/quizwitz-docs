@@ -7,14 +7,14 @@ title: Ръководство за дизайн на теми
 
 [Темите](/docs/advanced/theming) обясняват как се изгражда тема на QuizWitz: в Adobe Animate, експортирана като библиотека CreateJS. Тази страница разглежда стъпката преди това - **дизайна** на темата.
 
-It is written for a graphic designer, and it assumes that design and Animate production are done by different people. Few designers still work in Adobe Animate, so a designer usually delivers artwork and someone else assembles the theme. That works well, as long as the artwork arrives in a shape the build can use. Тази страница описва тази форма и същевременно служи като списък с материалите за предаване, когато поискаш оферта от дизайнер.
+Тя е написана за графичен дизайнер и приема, че дизайнът и продукцията в Animate се правят от различни хора. Малко дизайнери все още работят в Adobe Animate, затова обикновено дизайнерът предава графиката, а някой друг сглобява темата. Това работи добре, стига графиката да пристигне във вид, който изграждането може да използва. Тази страница описва тази форма и същевременно служи като списък с материалите за предаване, когато поискаш оферта от дизайнер.
 
-The page has four parts:
+Страницата има четири части:
 
-1. [What you are designing](#what-you-are-designing) - the screens a theme covers.
-2. [The eight frames](#eight-frames-and-an-element-sheet) and [the element sheet](#the-element-sheet), one by one, with screenshots.
-3. [Design rules](#design-rules) - how the file has to be built so the engine can use it.
-4. [What to hand over](#what-to-hand-over) - source file, deliverables and order of work.
+1. [Какво проектираш](#what-you-are-designing) - екраните, които една тема покрива.
+2. [Осемте рамки](#eight-frames-and-an-element-sheet) и [листът с елементи](#the-element-sheet), една по една, с екранни снимки.
+3. [Правила за дизайна](#design-rules) - как трябва да бъде изграден файлът, за да може двигателят да го използва.
+4. [Какво да предадеш](#what-to-hand-over) - изходен файл, материали за предаване и ред на работа.
 
 :::tip
 Ако искаш да смениш само цветовете, шрифтовете и фоновете, нищо от това не ти трябва - вместо това персонализирай [темата Emerald](/docs/advanced/emerald-theme).
@@ -37,32 +37,32 @@ The page has four parts:
 
 ---
 
-## Eight frames and an element sheet
+## Осем рамки и лист с елементи
 
-Играта има десетки различни състояния на екрана, но повечето са варианти на едно и също оформление. **You design eight frames and one sheet of elements; the rest is derived from them.** That is not a shortcut - it is how the engine works. Екран без собствена графика се връща към обща рамка.
+Играта има десетки различни състояния на екрана, но повечето са варианти на едно и също оформление. **Проектираш осем рамки и един лист с елементи; останалото се извежда от тях.** Това не е пряк път - така работи двигателят. Екран без собствена графика се връща към обща рамка.
 
-The sheet matters as much as the frames: a fall-back screen still needs furniture inside its content area - a panel, a row, a rule.
+Листът е толкова важен, колкото и рамките: резервният екран все пак се нуждае от обзавеждане в зоната си за съдържание - панел, ред, разделителна линия.
 
-| # | Рамка                                                           | Also covers                                                               |
-| - | --------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 1 | [General frame](#frame-1---the-general-frame)                   | Thirteen screen states with no artwork of their own                       |
-| 2 | [Connect screen](#frame-2---the-connect-screen)                 | Draw it twice: with a client logo and without one         |
-| 3 | [Waiting screen](#frame-3---the-waiting-screen)                 | -                                                                         |
-| 4 | [Question screen](#frame-4---the-question-screen)               | -                                                                         |
-| 5 | [Question with attachment](#frame-5---question-with-attachment) | The full-screen attachment, and attachments shown between questions       |
-| 6 | [Answer screen](#frame-6---the-answer-screen)                   | The answer screen for open questions and for questions with an attachment |
-| 7 | [Standings and winner](#frame-7---standings-and-winner)         | The standings between rounds and the final winner                         |
-| 8 | [Round intro](#frame-8---the-round-intro)                       | All six round categories                                                  |
+| # | Рамка                                                         | Покрива също                                                                   |
+| - | ------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 1 | [Обща рамка](#frame-1---the-general-frame)                    | Тринадесет състояния на екрана без собствена графика                           |
+| 2 | [Екран за свързване](#frame-2---the-connect-screen)           | Начертай го два пъти: с клиентско лого и без него              |
+| 3 | [Екран за изчакване](#frame-3---the-waiting-screen)           | -                                                                              |
+| 4 | [Екран с въпроса](#frame-4---the-question-screen)             | -                                                                              |
+| 5 | [Въпрос с прикачен файл](#frame-5---question-with-attachment) | Прикаченият файл на цял екран и прикачените файлове, показвани между въпросите |
+| 6 | [Екран с отговора](#frame-6---the-answer-screen)              | Екранът с отговора при отворени въпроси и при въпроси с прикачен файл          |
+| 7 | [Класиране и победител](#frame-7---standings-and-winner)      | Класирането между рундовете и крайният победител                               |
+| 8 | [Интро на рунда](#frame-8---the-round-intro)                  | Всички шест категории рундове                                                  |
 
-:::note[About the screenshots]
-Екраните по-долу идват от съществуваща тема. They show **which elements appear on each screen and when**. Не са еталон нито за стил, _нито_ за оформление: къде тази тема поставя своя въпрос, своите опции и своя таймер, е нейно собствено решение, а твоето може да е съвсем различно.
+:::note[За екранните снимки]
+Екраните по-долу идват от съществуваща тема. Те показват **кои елементи се появяват на всеки екран и кога**. Не са еталон нито за стил, _нито_ за оформление: къде тази тема поставя своя въпрос, своите опции и своя таймер, е нейно собствено решение, а твоето може да е съвсем различно.
 :::
 
 ### Рамка 1 - общата рамка
 
-**What is on it:** the background, a header title and an empty content area below it. It is not a finished composition but the frame the rest is built inside.
+**Какво има на нея:** фонът, заглавие в горната част и празна зона за съдържание под него. Това не е завършена композиция, а рамката, в която се изгражда всичко останало.
 
-**What it covers:** thirteen screen states - round explanation, standings, player introduction, multiple-choice variants, long questions, seat warnings, settings. Each fills the content area its own way with elements from the [element sheet](#the-element-sheet), so the frame has to hold things that look nothing alike. Изборът на въпроси и дългият въпрос могат да получат собствена композиция, ако така искаш; иначе използват тази рамка.
+**Какво покрива:** тринадесет състояния на екрана - обяснение на рунда, класиране, представяне на играчите, варианти на въпроси с избираем отговор, дълги въпроси, предупреждения за seats, настройки. Всяко от тях запълва зоната за съдържание по свой начин с елементи от [листа с елементи](#the-element-sheet), затова рамката трябва да побира неща, които изобщо не си приличат. Изборът на въпроси и дългият въпрос могат да получат собствена композиция, ако така искаш; иначе използват тази рамка.
 
 Два момента от играта върху една и съща рамка: избор на въпроси и стълбица с точки.
 
@@ -72,34 +72,34 @@ The sheet matters as much as the frames: a fall-back screen still needs furnitur
 
 Виж колко малко общо имат. Изборът поставя трите си реда в панел с контур; стълбицата няма никакъв панел, само редове, разделени с тънки линии. Това, което двете споделят, е фонът и лентата на горната част над тях - всичко под нея принадлежи на конкретния екран и се запълва от играта, не от теб.
 
-That panel and those rules come from the [element sheet](#the-element-sheet), not from this frame. Това, което тази рамка трябва да прави, е да ги носи: проектирай зоната за съдържание като празна, неутрална и просторна зона, която работи еднакво добре с панел с контур, с гол списък и с таблица от редове. Фон, който е натоварен в средата, или горна лента, която работи само с панел, пъхнат точно под нея, е мястото, където това се чупи.
+Този панел и тези линии идват от [листа с елементи](#the-element-sheet), а не от тази рамка. Това, което тази рамка трябва да прави, е да ги носи: проектирай зоната за съдържание като празна, неутрална и просторна зона, която работи еднакво добре с панел с контур, с гол списък и с таблица от редове. Фон, който е натоварен в средата, или горна лента, която работи само с панел, пъхнат точно под нея, е мястото, където това се чупи.
 
-### Frame 2 - the connect screen
+### Рамка 2 - екранът за свързване
 
-**What is on it:** everything the room needs in order to join.
+**Какво има на него:** всичко, от което залата се нуждае, за да се присъедини.
 
-- five lines of instruction
-- a join code and a QR code, both generated by the engine - reserve a square for the QR code
-- a line with the number of connected players
-- a list of players trickling in
+- пет реда с инструкции
+- код за присъединяване и QR код, и двата генерирани от двигателя - запази квадрат за QR кода
+- ред с броя на свързаните играчи
+- списък с играчи, които се присъединяват един по един
 
-**Draw it twice:** with a client logo beside the join code, and without one, where the theme's own artwork carries the screen.
+**Начертай го два пъти:** с клиентско лого до кода за присъединяване и без него, когато екранът се носи от собствената графика на темата.
 
 ![Екран за свързване с клиентско лого](/images/theme-design/frame2-connect.png)
 
 ![Екран за свързване без клиентско лого](/images/theme-design/frame2-connect-nologo.png)
 
-### Frame 3 - the waiting screen
+### Рамка 3 - екранът за изчакване
 
-**What is on it:** almost nothing - the quiz's own logo, or the theme's artwork.
+**Какво има на него:** почти нищо - собственото лого на куиза или графиката на темата.
 
-It shares only a background with the connect screen, so design it as its own composition. It stays up while the quizmaster reads a question aloud, which puts it on screen longer than almost anything else in the game. It deserves more attention than an empty screen usually gets.
+Той споделя с екрана за свързване само фона, затова го проектирай като самостоятелна композиция. Той остава на екрана, докато quizmaster чете въпроса на глас, което го държи на екрана по-дълго от почти всичко друго в играта. Заслужава повече внимание, отколкото обикновено получава един празен екран.
 
 ![Екран за изчакване](/images/theme-design/frame2-pending.png)
 
-### Frame 4 - the question screen
+### Рамка 4 - екранът с въпроса
 
-**What is on it:** the question, a timer, four answer options and a feedback line. This is the screen the room looks at longest. Note that an option can consist of nothing but an emoji:
+**Какво има на него:** въпросът, таймер, четири опции за отговор и ред с обратна връзка. Това е екранът, който залата гледа най-дълго. Имай предвид, че една опция може да се състои само от емоджи:
 
 ![Екран с въпроса с четири текстови опции](/images/theme-design/frame3-question-options.png)
 
@@ -113,13 +113,13 @@ It shares only a background with the connect screen, so design it as its own com
 
 ![Екран с въпроса в състояние на изтекло време](/images/theme-design/frame3-question-timeout.png)
 
-### Frame 5 - question with attachment
+### Рамка 5 - въпрос с прикачен файл
 
-**What is on it:** the same parts as frame 4, arranged around an image or video. It may be a different composition. Прикаченият файл се мащабира така, че да се побере в правоъгълника, който начертаеш, затова в него трябва да изглежда приемливо както хоризонтално, така и вертикално изображение.
+**Какво има на него:** същите части като в рамка 4, подредени около изображение или видео. Може да е различна композиция. Прикаченият файл се мащабира така, че да се побере в правоъгълника, който начертаеш, затова в него трябва да изглежда приемливо както хоризонтално, така и вертикално изображение.
 
-**What it covers:** the full-screen attachment, and attachments shown between questions.
+**Какво покрива:** прикачения файл на цял екран и прикачените файлове, показвани между въпросите.
 
-Here with the options to the left and right of the attachment:
+Тук с опциите вляво и вдясно от прикачения файл:
 
 ![Екран с въпроса с изображение в средата](/images/theme-design/frame4-question-attachment.png)
 
@@ -127,13 +127,13 @@ Here with the options to the left and right of the attachment:
 
 ![Прикачен файл на цял екран](/images/theme-design/frame4-attachment-fullscreen.png)
 
-### Frame 6 - the answer screen
+### Рамка 6 - екранът с отговора
 
-**What is on it:** which answer was correct, how the room's answers were spread across the options, and a feedback line.
+**Какво има на него:** кой отговор е бил верен, как отговорите на залата са се разпределили между опциите и ред с обратна връзка.
 
-**What it covers:** the answer screen for open questions and for questions with an attachment.
+**Какво покрива:** екрана с отговора при отворени въпроси и при въпроси с прикачен файл.
 
-The screen goes through three moments. Първо разпределението, все още без нищо отбелязано:
+Екранът преминава през три момента. Първо разпределението, все още без нищо отбелязано:
 
 ![Екран с отговора, показващ разпределението](/images/theme-design/frame5-answer-mc-spread.png)
 
@@ -153,35 +153,35 @@ The screen goes through three moments. Първо разпределението
 
 ![Екран с отговора при отворен въпрос](/images/theme-design/frame5-answer-open.png)
 
-### Frame 7 - standings and winner
+### Рамка 7 - класиране и победител
 
-**What is on it:** a list of players with position, avatar, name and score. Supply the **player row** as a separate, reusable element: it is repeated six times by default, up to ten.
+**Какво има на нея:** списък с играчи с място, аватар, име и резултат. Предай **реда на играч** като отделен елемент за многократна употреба: по подразбиране той се повтаря шест пъти, до десет.
 
-**What it covers:** the standings between rounds and the final winner.
+**Какво покрива:** класирането между рундовете и крайния победител.
 
-The standings after a round, with six player rows:
+Класирането след рунд, с шест реда на играчи:
 
 ![Класиране с шест реда на играчи](/images/theme-design/frame6-roundoutro.png)
 
-Финалното отброяване назовава по един играч, от последното място към първото - място, резултат и име на отбора в светлината на прожекторите. This is also where the [flying emoji](#flying-emoji-land-on-top-of-everything) are heaviest:
+Финалното отброяване назовава по един играч, от последното място към първото - място, резултат и име на отбора в светлината на прожекторите. Тук и [летящите емоджита](#flying-emoji-land-on-top-of-everything) са най-много:
 
 ![Отброяването на победителя, назоваващо един играч](/images/theme-design/frame6-winner-countdown.png)
 
 ![Крайното класиране](/images/theme-design/frame6-winner.png)
 
-### Frame 8 - the round intro
+### Рамка 8 - интрото на рунда
 
-**What is on it:** a short announcement per round category. Категориите са шест: наука и техника, природа, забавление и музика, спорт, изкуство, история.
+**Какво има на нея:** кратко обявяване за всяка категория рунд. Категориите са шест: наука и техника, природа, забавление и музика, спорт, изкуство, история.
 
-**What it covers:** all six categories. One design may serve several of them.
+**Какво покрива:** всичките шест категории. Един дизайн може да обслужва няколко от тях.
 
-Here, one composition with a variant per category:
+Тук една композиция с вариант за всяка категория:
 
 ![Интро на рунда за категорията природа](/images/theme-design/frame7-roundintro-nature.png)
 
 ![Интро на рунда за категорията наука](/images/theme-design/frame7-roundintro-science.png)
 
-**A character is optional.** The stock QuizWitz theme has one that talks and reacts; the [Emerald theme](/docs/advanced/emerald-theme) ships without, and dropping it removes the most expensive animation work - lip sync, eyes, arms.
+**Героят не е задължителен.** Стандартната тема на QuizWitz има герой, който говори и реагира; [темата Emerald](/docs/advanced/emerald-theme) е без герой, а отказът от него премахва най-скъпата анимационна работа - синхронизиране на устните, очи, ръце.
 
 Без герой интрото на рунда се превръща в графичен, типографски или илюстративен момент. Два подхода държат работата в разумни граници: една композиция с цветови или иконен вариант за всяка категория, или едно универсално обявяване, в което се сменя само името на рунда. Шест наистина различни интра са много работа за няколко секунди на екрана.
 
@@ -209,8 +209,8 @@ Here, one composition with a variant per category:
 
 ## Какво е решено вместо теб
 
-- **The players' phones.** A fixed HTML layout.
-- **The handful of things the engine draws itself** - the rules between rows on the points ladder, the highlighted row in the question picker, the QR code. Their colours come from [Colour as a list](#colour-as-a-list).
+- **Телефоните на играчите.** Фиксирано HTML оформление.
+- **Малкото неща, които двигателят чертае сам** - линиите между редовете на стълбицата с точки, откроеният ред в избора на въпроси, QR кодът. Цветовете им идват от [Цветът като списък](#colour-as-a-list).
 - **Кои екрани се връщат към общата рамка и как.**
 - **Как шестте категории се съотнасят към графиката на интрото на рунда.** Това съответствие е настройка в конфигурацията, така че едно интро може да се използва повторно за няколко категории.
 - **Цялото времетраене и всички продължителности на анимациите.**
@@ -233,12 +233,12 @@ Here, one composition with a variant per category:
 
 **Всичко, което може да се движи, да се появява или да сменя стойност, стои в собствен именуван слой.** Нищо слято, нищо сплескано.
 
-In practice:
+На практика:
 
-- the four answer options are four separate layers, not one
-- the timer is separate from the background
-- a button and its label are two elements
-- a player row is one group that can be duplicated
+- четирите опции за отговор са четири отделни слоя, а не един
+- таймерът е отделен от фона
+- бутонът и етикетът му са два елемента
+- редът на играч е една група, която може да се дублира
 
 Какво може да бъде слято: чисто декоративна фонова графика, която работи като едно неподвижно изображение.
 
@@ -248,13 +248,13 @@ In practice:
 
 Двигателят чертае върху HTML5 платно. Тези трябва да бъдат **вградени в изображението** или да отпаднат:
 
-| Effect                                                        | What to do instead          |
-| ------------------------------------------------------------- | --------------------------- |
-| Live blur, drop shadows and glow as filters                   | Supply them as artwork      |
-| Blend modes (multiply, screen, overlay)    | Resolve them to flat colour |
-| Ефекти на слоеве и коригиращи слоеве                          | Bake them in                |
-| Градиенти **вътре** в текст, или текст с контур на всеки знак | Leave them out              |
-| Маски, които се сменят при всеки кадър                        | Leave them out              |
+| Ефект                                                             | Какво да направиш вместо това |
+| ----------------------------------------------------------------- | ----------------------------- |
+| Размазване на живо, падащи сенки и сияние като филтри             | Подай ги като графика         |
+| Режими на смесване (multiply, screen, overlay) | Превърни ги в плътен цвят     |
+| Ефекти на слоеве и коригиращи слоеве                              | Вгради ги в изображението     |
+| Градиенти **вътре** в текст, или текст с контур на всеки знак     | Пропусни ги                   |
+| Маски, които се сменят при всеки кадър                            | Пропусни ги                   |
 
 Градиентите във фигури са наред. Прозрачността е наред. Сенките като фиксирана графика са наред.
 
@@ -279,13 +279,13 @@ In practice:
 - **Дванадесет езика.** Немските сложни думи са дълги, а унгарският не е по-милостив. Правоъгълник, който е тесен на английски, пада до нечетливо малък размер на немски.
 - **Вътре в текста може да се появят емоджита.** Играчите избират по едно до името на отбора си, а въпрос или опция може да съдържа някое - понякога една опция не е нищо друго освен емоджи. Те се чертаят в цвят и са по-високи от буквите около тях.
 
-**What the build needs to know about each text box:** where it is, how big it is, how it is aligned, which colour and which font. Не: при какъв кегел.
+**Какво трябва да знае изграждането за всяко текстово поле:** къде е, колко е голямо, как е подравнено, какъв цвят и какъв шрифт. Не: при какъв кегел.
 
-**You can use this.** A large box with short text becomes a strong typographic composition by itself, and a box you deliberately make narrow and tall forces text into a column. Use the fitting as a design device; just do not design against it.
+**Можеш да използваш това.** Голямо поле с кратък текст само по себе си става силна типографска композиция, а поле, което нарочно направиш тясно и високо, принуждава текста да се подреди в колона. Използвай напасването като дизайнерски похват; просто не проектирай срещу него.
 
 ### Таймерът - задължителен, и е анимация
 
-**Every question screen has a timer**; the room has to see how much time is left.
+**Всеки екран с въпрос има таймер**; залата трябва да вижда колко време остава.
 
 **Таймерът не е броящо число, а анимация, чиято глава за възпроизвеждане двигателят движи.** Ти проектираш преход от „пълно“ към „празно“ - изпразваща се лента, затварящ се пръстен, пясъчен часовник, скъсяваща се линия. Двигателят възпроизвежда тази анимация точно с такава скорост, че последният кадър да съвпадне с края на въпроса.
 
@@ -301,7 +301,7 @@ In practice:
 
 ### Летящите емоджита кацат върху всичко
 
-Всеки играч избира емоджи при присъединяването си, а играта хвърля тези емоджита из екрана. They are drawn by the engine on a layer above the theme. **Тук няма какво да проектираш** - но има около какво да проектираш, защото те не са рядка украса.
+Всеки играч избира емоджи при присъединяването си, а играта хвърля тези емоджита из екрана. Те се чертаят от двигателя в слой над темата. **Тук няма какво да проектираш** - но има около какво да проектираш, защото те не са рядка украса.
 
 Появяват се в три момента:
 
@@ -314,7 +314,7 @@ In practice:
 - **Дръж долната трета на екраните с класирането и с победителя свободна от всичко дребно или съществено.** По време на отброяването там долу наистина е претъпкано.
 - **Приеми, че ще се бият с палитрата ти.** Това са пълноцветни емоджита от всяко ъгълче на таблицата Unicode и никоя тема не ги контролира. Дизайн, който се държи само в тесен цветови диапазон, ще изглежда случаен през тези секунди.
 - **Хвърлянето е потиснато, докато се показва изображение или видео**, така че екраните с прикачен файл остават чисти.
-- **The whole layer can be switched off per game**, so do not build a composition that depends on them being there either.
+- **Целият слой може да бъде изключен за отделна игра**, така че не изграждай и композиция, която зависи от това те да са там.
 
 ### Шрифтове
 
@@ -325,20 +325,20 @@ In practice:
 
 Темата чете списък с цветове от конфигурационен файл, а телефоните на играчите се стилизират от същия списък. Предай палитрата си като **именуван списък**, а не само като цветове в графиката:
 
-| Where                       | Colours                                                                                                                                                                                                                                                                |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Game screen**             | Main colour, accent colour, background, panel or container colour, timer background, default text colour, header text colour, question text colour, button text, dialog and explanation text, player name and score text, the colour for correct, the colour for wrong |
-| **The four answer options** | For each option: a background colour, a border colour, and one flat colour for the phones and the charts                                                                                                                                               |
-| **Players' phones**         | Background, text colour, outline colour, option outline colour, and the background and text colour of the answer container                                                                                                                                             |
+| Къде                          | Цветове                                                                                                                                                                                                                                                                                               |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Екран на играта**           | Основен цвят, акцентен цвят, фон, цвят на панела или контейнера, фон на таймера, цвят на текста по подразбиране, цвят на текста в заглавието, цвят на текста на въпроса, текст на бутоните, текст на диалозите и обясненията, текст на името и резултата на играча, цветът за вярно, цветът за грешно |
+| **Четирите опции за отговор** | За всяка опция: цвят на фона, цвят на рамката и един плътен цвят за телефоните и диаграмите                                                                                                                                                                                           |
+| **Телефоните на играчите**    | Фон, цвят на текста, цвят на контура, цвят на контура на опциите, както и фонът и цветът на текста на контейнера за отговор                                                                                                                                                                           |
 
 На екрана на играта са разрешени градиенти: подай ги като две шестнадесетични стойности.
 
-A few colours are the _only_ handle on parts the engine draws itself, so they are worth deciding rather than defaulting:
+Няколко цвята са _единственият_ начин да се повлияе на частите, които двигателят чертае сам, затова си струва да ги решиш, вместо да оставиш стойностите по подразбиране:
 
-- the **separator** - the rules between rows where there is no panel, and on the points ladder
-- the **active**, **inactive** and **selected** states of a row in the question picker
-- the **dialog** text
-- the **front and back of the QR code**
+- **разделителят** - линиите между редовете там, където няма панел, и на стълбицата с точки
+- състоянията **активен**, **неактивен** и **избран** на ред в избора на въпроси
+- текстът на **диалозите**
+- **лицевата и задната страна на QR кода**
 
 Ако ги пропуснеш, те падат до вградени стойности по подразбиране - бяло, сиво, червено, черно и бяло - които рядко пасват на един дизайн.
 
@@ -352,17 +352,17 @@ A few colours are the _only_ handle on parts the engine draws itself, so they ar
 
 ### Изходен файл - за предпочитане Illustrator
 
-The theme is built in Adobe Animate, and what Animate can import decides how much of your work survives the hand-over intact:
+Темата се изгражда в Adobe Animate и това, което Animate може да импортира, решава колко от работата ти ще оцелее непокътната при предаването:
 
-| Tool                                             | What happens on import                                                                                                                                                                                                                                                                                                                | Use it for                                 |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| **Adobe Illustrator** (`.ai`) | Animate imports it directly and converts your layers into Animate layers or separate symbols, keeping the layer names and leaving the vectors editable. Точно тази стъпка спасява графиката от това да бъде изграждана наново на ръка.                                                                | **Preferred** for the final deliverable    |
-| **Adobe Photoshop**                              | Imports with its layers intact, like Illustrator, but gives raster instead of vector.                                                                                                                                                                                                                                 | Possible                                   |
-| **Figma**                                        | Everything goes through SVG and PNG export, and that is precisely where the layer structure needed here is lost. Ако все пак използваш Figma, предай **всеки елемент поотделно като SVG**, с имена на файлове, съответстващи на имената на слоевете, за да може структурата да се възстанови на ръка. | The concept phase, if you are faster in it |
+| Инструмент                                       | Какво става при импортиране                                                                                                                                                                                                                                                                                                 | Използвай го за                           |
+| ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| **Adobe Illustrator** (`.ai`) | Animate го импортира директно и превръща слоевете ти в слоеве на Animate или в отделни символи, като запазва имената на слоевете и оставя векторите редактируеми. Точно тази стъпка спасява графиката от това да бъде изграждана наново на ръка.                                            | **За предпочитане** за крайния материал   |
+| **Adobe Photoshop**                              | Импортира се със запазени слоеве, както Illustrator, но дава растер вместо вектор.                                                                                                                                                                                                                          | Възможно                                  |
+| **Figma**                                        | Всичко минава през експорт в SVG и PNG и точно там се губи структурата на слоевете, която е нужна тук. Ако все пак използваш Figma, предай **всеки елемент поотделно като SVG**, с имена на файлове, съответстващи на имената на слоевете, за да може структурата да се възстанови на ръка. | Концептуалната фаза, ако в нея си по-бърз |
 
 Структура на файла:
 
-- One artboard per screen, named after the frames above.
+- Една работна площ за всеки екран, наречена според рамките по-горе.
 - Частите за многократна употреба (бутон, ред на играч, опция за отговор, таймер) като **символи** или компоненти, а не като отделни копия.
 - Имена на слоевете на английски, без интервали: `question`, `option1` до `option4`, `timer`, `feedback`, `header`, `background`, `playerScore`.
 - Цветовете като именувани мостри и текстът като именувани стилове, вместо зададени за всеки обект поотделно.
@@ -371,24 +371,24 @@ The theme is built in Adobe Animate, and what Animate can import decides how muc
 
 1. **Изходният файл**, структуриран както е описано по-горе.
 2. **Всяка рамка като PNG**, 1920 × 1080 - еталон за това как трябва да изглежда. За рамка 2 както версията с клиентско лого, така и версията без него.
-3. **The element sheet** as one artboard: the [content building blocks and the controls](#the-element-sheet).
+3. **Листът с елементи** като една работна площ: [градивните елементи на съдържанието и контролите](#the-element-sheet).
 4. **Всеки отделен графичен елемент като прозрачен PNG в 2×**, в една папка, с име на файла, съответстващо на името на слоя.
 5. **Таймерът** като ключови кадри или като писмено описание на прехода.
 6. **Шрифтовете** като `.ttf` или `.otf`, с доказателство за лиценз.
-7. **The colour list** from [Colour as a list](#colour-as-a-list), as hex values.
+7. **Списъкът с цветове** от [Цветът като списък](#colour-as-a-list), като шестнадесетични стойности.
 8. **Половин страница бележки**: каква е идеята, как трябва да се появяват опциите, какво се движи и какво остава неподвижно. Не десетстранична дизайнерска обосновка - този, който изгражда темата, трябва да знае какво да изгради. Идеите за движение могат да бъдат описани или предадени като груб аниматик.
 
 ### Ред на работа
 
-1. **Frame 4, the question screen, together with the element sheet.** Get both approved before the rest. Between them they carry the timer, the options, the panel and every control, so they settle the style of the whole theme.
-2. **Frames 1 to 3.** They follow naturally from the first two.
-3. **Frames 6 to 8** come last.
+1. **Рамка 4, екранът с въпроса, заедно с листа с елементи.** Получи одобрение и за двете преди останалото. Заедно те носят таймера, опциите, панела и всяка контрола, така че определят стила на цялата тема.
+2. **Рамки 1 до 3.** Те следват естествено от първите две.
+3. **Рамки 6 до 8** идват последни.
 
 ---
 
 ## Приложение - имена на символите
 
-За пълнота и за онзи, който иска да знае точно къде попада графиката му. **You do not need to read this to do the work**; the eight frames and the element sheet above are enough. Използването на тези имена като имена на слоеве спестява една стъпка на превод.
+За пълнота и за онзи, който иска да знае точно къде попада графиката му. **Не е нужно да четеш това, за да свършиш работата**; осемте рамки и листът с елементи по-горе са достатъчни. Използването на тези имена като имена на слоеве спестява една стъпка на превод.
 
 | Рамка                                              | Име на символа                                                                                                                            | Задължителни части                                                                                                                                                                                |
 | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -409,7 +409,7 @@ The theme is built in Adobe Animate, and what Animate can import decides how muc
 
 Символите за интро на рунда в стандартната тема се казват `RoundIntroScienceAndTech`, `RoundIntroFloraAndFauna`, `RoundIntroTedMusic`, `RoundIntroTedSport` и `RoundIntroTedCultHist`; изкуството и историята споделят последния. „Ted“ в тези имена е остатък от героя на оригиналната тема и не означава, че в тях трябва да се появява герой.
 
-Every element with `.text` after it is a fitted text box as described under [How text behaves](#how-text-behaves): a rectangle the engine fills itself. Елементът `timer` е филмов клип със собствена времева линия; двигателят чете броя на кадрите му и мести главата за възпроизвеждане пропорционално на изминалото време, най-много 24 пъти в секунда.
+Всеки елемент, след който стои `.text`, е напасващо се текстово поле, както е описано в [Как се държи текстът](#how-text-behaves): правоъгълник, който двигателят запълва сам. Елементът `timer` е филмов клип със собствена времева линия; двигателят чете броя на кадрите му и мести главата за възпроизвеждане пропорционално на изминалото време, най-много 24 пъти в секунда.
 
 ### Какво взема конфигурационният файл от твоя дизайн
 
