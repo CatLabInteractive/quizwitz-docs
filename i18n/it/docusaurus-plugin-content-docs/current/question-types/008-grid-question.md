@@ -1,52 +1,52 @@
 ---
 id: grid-question
-title: Grid question
+title: Domanda a griglia
 ---
 
-# 🔲 Grid question
+# 🔲 Domanda a griglia
 
-In a **Grid question**, all answer options are shown as a grid of cells. Players select every cell they think is correct - for example "Select all the countries in South America" or "Which of these animals are mammals?"
-
----
-
-## 📝 How it works
-
-- **Question:** Clearly state what players should select.
-- **Options:** Enter all the cells of the grid, and mark every correct one. The options are arranged in a square grid on the player's device and on the game screen.
-- **Player input:** Players tap cells to select or deselect them, up to the maximum number of answers. When the minimum and maximum number of answers are the same, the answer is sent as soon as that many cells are selected.
-- **Wrong cells cost nothing:** selecting a wrong cell doesn't take points away.
-- **Feedback:** After answering, players see which cells were correct.
+In una **domanda a griglia**, tutte le opzioni di risposta vengono mostrate come una griglia di celle. I giocatori selezionano ogni cella che ritengono corretta - per esempio "Seleziona tutti i paesi del Sud America" o "Quali di questi animali sono mammiferi?"
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Come funziona
 
-- **Minimum and maximum answers:** Define how many cells a player may select. By default the maximum is the number of correct options.
-- **Points are awarded:**
-  - _For each correct answer_ (default) - players earn the question's points for every correct cell they select.
-  - _Only with the minimum number of correct answers_ - players earn the question's points once, when they select at least the minimum number of correct cells.
-
-> ⚠️ When you choose _Only with the minimum number of correct answers_, set the minimum answers to at least 1. Without a minimum, every answer - even an empty one - earns the full points.
-
-See [writing questions](../editor/005-writing-questions.md) for general question settings.
+- **Domanda:** Indica chiaramente che cosa devono selezionare i giocatori.
+- **Opzioni:** Inserisci tutte le celle della griglia e contrassegna ognuna di quelle corrette. Le opzioni sono disposte in una griglia quadrata sul dispositivo del giocatore e sullo schermo di gioco.
+- **Inserimento del giocatore:** I giocatori toccano le celle per selezionarle o deselezionarle, fino al numero massimo di risposte. Quando il numero minimo e massimo di risposte coincidono, la risposta viene inviata non appena è selezionato quel numero di celle.
+- **Le celle sbagliate non costano nulla:** selezionare una cella sbagliata non toglie punti.
+- **Feedback:** Dopo aver risposto, i giocatori vedono quali celle erano corrette.
 
 ---
 
-## 🏆 Scoring
+## ⚙️ Impostazioni estese
 
-Grid questions use **time-based scoring** by default: faster answers earn more points, but most of the points are fixed.
-You can turn off time-based scoring per question.
+- **Numero minimo e massimo di risposte:** Definisci quante celle può selezionare un giocatore. Per impostazione predefinita, il massimo è il numero di opzioni corrette.
+- **Assegnazione dei punti:**
+  - _Per ogni risposta corretta_ (predefinito) - i giocatori guadagnano i punti della domanda per ogni cella corretta che selezionano.
+  - _Solo con il numero minimo di risposte corrette_ - i giocatori guadagnano i punti della domanda una sola volta, quando selezionano almeno il numero minimo di celle corrette.
 
-See [Scoring options in round settings](../editor/008-round-options.md#scoring) for details.
+> ⚠️ Quando scegli _Solo con il numero minimo di risposte corrette_, imposta le risposte minime ad almeno 1. Senza un minimo, ogni risposta - anche vuota - ottiene tutti i punti.
 
----
-
-## 💡 Tips for great grid questions
-
-- **Keep the grid readable:** short option texts work best. Nine or sixteen cells make a neat square.
-- **Add convincing wrong cells:** since wrong cells cost nothing, the challenge is in finding all the right ones.
-- **Tell players how many to find:** mention it in the question, or set the minimum and maximum answers to the same number.
+Consulta [scrivere domande](../editor/005-writing-questions.md) per le impostazioni generali delle domande.
 
 ---
 
-Grid questions are perfect for "select all that apply" challenges!
+## 🏆 Punteggio
+
+Le domande a griglia usano il **punteggio basato sul tempo** per impostazione predefinita: le risposte più rapide valgono più punti, ma la maggior parte dei punti è fissa.
+Puoi disattivare il punteggio basato sul tempo per ogni domanda.
+
+Vedi [Opzioni di punteggio nelle impostazioni del round](../editor/008-round-options.md#scoring) per i dettagli.
+
+---
+
+## 💡 Consigli per ottime domande a griglia
+
+- **Mantieni la griglia leggibile:** i testi brevi per le opzioni funzionano meglio. Nove o sedici celle formano un quadrato ordinato.
+- **Aggiungi celle sbagliate convincenti:** dato che le celle sbagliate non costano nulla, la sfida sta nel trovare tutte quelle giuste.
+- **Di' ai giocatori quante celle trovare:** indicalo nella domanda, oppure imposta lo stesso numero come minimo e massimo di risposte.
+
+---
+
+Le domande a griglia sono perfette per le sfide del tipo "seleziona tutte le risposte valide"!
