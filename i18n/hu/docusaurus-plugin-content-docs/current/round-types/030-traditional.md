@@ -5,7 +5,7 @@ title: Hagyományos
 
 # 📝 Hagyományos
 
-A **Hagyományos** kör a klasszikus kocsmai kvíz formátumát idézi: a játékosok a kör végéig módosíthatják a válaszaikat — pont úgy, mintha a kocsmában adnák le a válaszlapjukat!
+A **Hagyományos** forduló a klasszikus kocsmai kvíz formátumát idézi: a játékosok a forduló végéig módosíthatják a válaszaikat - pont úgy, mintha a kocsmában adnák le a válaszlapjukat!
 
 ---
 
