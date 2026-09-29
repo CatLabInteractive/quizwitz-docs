@@ -5,7 +5,7 @@ title: Trivia (ronda regular)
 
 # ❓ Trivia (ronda regular)
 
-La ronda **Trivia** es el tipo clásico y predeterminado de ronda en QuizWitz. Presenta una serie de preguntas para todos los jugadores — ideal para conocimiento general, cuestionarios temáticos o rondas de calentamiento.
+La ronda **Trivia** es el tipo clásico y predeterminado de ronda en QuizWitz. It presents a series of questions to all players - ideal for general knowledge, themed quizzes, or warm-up rounds.
 
 ---
 
