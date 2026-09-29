@@ -1,40 +1,40 @@
 ---
 id: first-come-first-served
-title: First come first served
+title: पहले आओ, पहले पाओ
 ---
 
-# 🏃 First come first served
+# 🏃 पहले आओ, पहले पाओ
 
-In a **First come first served** round, speed is everything. The fastest correct answer earns the most points, and every correct answer after it earns a little less.
-
----
-
-## 📝 How it works
-
-- Questions are asked one by one, just like in a [Trivia](011-trivia.md) round.
-- When a question ends, all correct answers are ranked from fastest to slowest.
-- **The fastest correct player or team gets the full points** of the question.
-- **Every next correct answer gets a smaller share.** Each place down the ranking loses the question's points divided by the number of players or teams in the game.
-  - Example: a question is worth 1000 points and 10 teams are playing. The fastest correct team gets 1000 points, the second 900, the third 800, and so on.
-- Wrong answers earn no points and don't take a place in the ranking.
+**पहले आओ, पहले पाओ** राउंड में स्पीड ही सब कुछ है। सबसे तेज़ सही जवाब को सबसे ज़्यादा पॉइंट्स मिलते हैं, और उसके बाद हर सही जवाब को थोड़े कम।
 
 ---
 
-## ⚙️ Settings
+## 📝 यह कैसे काम करता है
 
-- **Question types:** every question type can be used.
-- **Time-based scoring:** the ranking already rewards speed. If time-based scoring is also enabled, it is applied on top of each share. Turn it off in the question settings if you only want the ranking to count.
-
-For more about scoring, see the [scoring section](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips
-
-- **Use questions with one clear answer:** players race to be first, so there should be no doubt about what is correct.
-- **Keep questions short:** the round is about reacting quickly, not about reading long texts.
-- **Mix it with slower rounds:** a speed round is a great change of pace after a Traditional or Common Thread round.
+- सवाल एक-एक करके पूछे जाते हैं, बिल्कुल [ट्रिविया](011-trivia.md) राउंड की तरह।
+- सवाल खत्म होने पर सभी सही जवाबों को सबसे तेज़ से सबसे धीमे तक रैंक किया जाता है।
+- **सबसे तेज़ सही खिलाड़ी या टीम को सवाल के पूरे पॉइंट्स मिलते हैं**।
+- **हर अगले सही जवाब को थोड़ा छोटा हिस्सा मिलता है।** रैंकिंग में हर एक स्थान नीचे जाने पर, सवाल के पॉइंट्स को गेम में खिलाड़ियों या टीमों की संख्या से भाग देकर जितना आता है, उतना कम हो जाता है।
+  - उदाहरण: एक सवाल 1000 पॉइंट्स का है और 10 टीमें खेल रही हैं। सबसे तेज़ सही टीम को 1000 पॉइंट्स मिलते हैं, दूसरी को 900, तीसरी को 800, और इसी तरह आगे।
+- ग़लत जवाबों को कोई पॉइंट नहीं मिलता और वे रैंकिंग में कोई स्थान नहीं लेते।
 
 ---
 
-For more on round settings, see [Round options](../editor/008-round-options.md).
+## ⚙️ सेटिंग्स
+
+- **सवाल के प्रकार:** हर सवाल प्रकार इस्तेमाल किया जा सकता है।
+- **समय-आधारित स्कोरिंग:** रैंकिंग पहले से ही स्पीड को इनाम देती है। अगर समय-आधारित स्कोरिंग भी चालू है, तो यह हर हिस्से के ऊपर से लागू होती है। अगर आप चाहते हैं कि सिर्फ़ रैंकिंग गिनी जाए, तो इसे सवाल की सेटिंग्स में बंद कर दें।
+
+स्कोरिंग के बारे में ज़्यादा जानकारी के लिए [स्कोरिंग सेक्शन](../editor/008-round-options.md#scoring) देखें।
+
+---
+
+## 💡 टिप्स
+
+- **ऐसे सवाल इस्तेमाल करें जिनका एक साफ़ जवाब हो:** खिलाड़ी पहले आने की होड़ में होते हैं, इसलिए सही जवाब को लेकर कोई शक नहीं होना चाहिए।
+- **सवाल छोटे रखें:** यह राउंड जल्दी प्रतिक्रिया देने के बारे में है, लंबे टेक्स्ट पढ़ने के बारे में नहीं।
+- **इसे धीमे राउंड के साथ मिलाएँ:** पारंपरिक या साझा सूत्र राउंड के बाद स्पीड राउंड रफ़्तार में एक बढ़िया बदलाव है।
+
+---
+
+राउंड सेटिंग्स के बारे में ज़्यादा जानकारी के लिए [राउंड विकल्प](../editor/008-round-options.md) देखें।
