@@ -7,14 +7,14 @@ title: Guide de conception d'un thème
 
 [Thématisation](/docs/advanced/theming) explique comment un thème QuizWitz est construit : dans Adobe Animate, exporté sous forme de bibliothèque CreateJS. Cette page traite de l'étape qui précède - la **conception** du thème.
 
-It is written for a graphic designer, and it assumes that design and Animate production are done by different people. Few designers still work in Adobe Animate, so a designer usually delivers artwork and someone else assembles the theme. That works well, as long as the artwork arrives in a shape the build can use. Cette page décrit cette forme et sert en même temps de liste des livrables lorsque vous demandez un devis à un graphiste.
+Elle s'adresse à un graphiste et part du principe que la conception et la production dans Animate sont assurées par des personnes différentes. Peu de graphistes travaillent encore dans Adobe Animate ; un graphiste livre donc généralement les visuels et une autre personne assemble le thème. Cela fonctionne bien, tant que les visuels arrivent sous une forme exploitable pour la construction. Cette page décrit cette forme et sert en même temps de liste des livrables lorsque vous demandez un devis à un graphiste.
 
-The page has four parts:
+La page comporte quatre parties :
 
-1. [What you are designing](#what-you-are-designing) - the screens a theme covers.
-2. [The eight frames](#eight-frames-and-an-element-sheet) and [the element sheet](#the-element-sheet), one by one, with screenshots.
-3. [Design rules](#design-rules) - how the file has to be built so the engine can use it.
-4. [What to hand over](#what-to-hand-over) - source file, deliverables and order of work.
+1. [Ce que vous concevez](#what-you-are-designing) - les écrans couverts par un thème.
+2. [Les huit cadres](#eight-frames-and-an-element-sheet) et [la planche d'éléments](#the-element-sheet), un par un, avec des captures d'écran.
+3. [Règles de conception](#design-rules) - comment le fichier doit être construit pour que le moteur puisse l'utiliser.
+4. [Ce qu'il faut livrer](#what-to-hand-over) - fichier source, livrables et ordre de travail.
 
 :::tip
 Si vous voulez seulement changer les couleurs, les polices et les fonds, vous n'avez besoin de rien de tout cela - personnalisez plutôt le [thème Emerald](/docs/advanced/emerald-theme).
@@ -37,32 +37,32 @@ Un thème est l'habillage visuel complet de l'écran de jeu : le fond, la typogr
 
 ---
 
-## Eight frames and an element sheet
+## Huit cadres et une planche d'éléments
 
-Le jeu compte des dizaines d'états d'écran distincts, mais la plupart sont des variantes d'une même mise en page. **You design eight frames and one sheet of elements; the rest is derived from them.** That is not a shortcut - it is how the engine works. Un écran sans visuels propres se rabat sur un cadre général.
+Le jeu compte des dizaines d'états d'écran distincts, mais la plupart sont des variantes d'une même mise en page. **Vous concevez huit cadres et une planche d'éléments ; le reste en découle.** Ce n'est pas un raccourci - c'est ainsi que fonctionne le moteur. Un écran sans visuels propres se rabat sur un cadre général.
 
-The sheet matters as much as the frames: a fall-back screen still needs furniture inside its content area - a panel, a row, a rule.
+La planche compte autant que les cadres : un écran qui se rabat sur le cadre général a quand même besoin de mobilier dans sa zone de contenu - un panneau, une ligne, un filet.
 
-| # | Cadre                                                           | Also covers                                                               |
-| - | --------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 1 | [General frame](#frame-1---the-general-frame)                   | Thirteen screen states with no artwork of their own                       |
-| 2 | [Connect screen](#frame-2---the-connect-screen)                 | Draw it twice: with a client logo and without one         |
-| 3 | [Waiting screen](#frame-3---the-waiting-screen)                 | -                                                                         |
-| 4 | [Question screen](#frame-4---the-question-screen)               | -                                                                         |
-| 5 | [Question with attachment](#frame-5---question-with-attachment) | The full-screen attachment, and attachments shown between questions       |
-| 6 | [Answer screen](#frame-6---the-answer-screen)                   | The answer screen for open questions and for questions with an attachment |
-| 7 | [Standings and winner](#frame-7---standings-and-winner)         | The standings between rounds and the final winner                         |
-| 8 | [Round intro](#frame-8---the-round-intro)                       | All six round categories                                                  |
+| # | Cadre                                                             | Couvre aussi                                                                        |
+| - | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 1 | [Cadre général](#frame-1---the-general-frame)                     | Treize états d'écran sans visuels propres                                           |
+| 2 | [Écran de connexion](#frame-2---the-connect-screen)               | À dessiner deux fois : avec un logo client et sans                  |
+| 3 | [Écran d'attente](#frame-3---the-waiting-screen)                  | -                                                                                   |
+| 4 | [Écran de question](#frame-4---the-question-screen)               | -                                                                                   |
+| 5 | [Question avec pièce jointe](#frame-5---question-with-attachment) | La pièce jointe en plein écran, et les pièces jointes affichées entre les questions |
+| 6 | [Écran de réponse](#frame-6---the-answer-screen)                  | L'écran de réponse des questions ouvertes et des questions avec pièce jointe        |
+| 7 | [Classement et gagnant](#frame-7---standings-and-winner)          | Le classement entre les manches et le gagnant final                                 |
+| 8 | [Intro de manche](#frame-8---the-round-intro)                     | Les six catégories de manche                                                        |
 
-:::note[About the screenshots]
-Les écrans ci-dessous proviennent d'un thème existant. They show **which elements appear on each screen and when**. Ils ne sont une référence ni de style _ni_ de mise en page : l'endroit où ce thème place sa question, ses options et son minuteur relève de son propre choix, et le vôtre peut être complètement différent.
+:::note[À propos des captures d'écran]
+Les écrans ci-dessous proviennent d'un thème existant. Elles montrent **quels éléments apparaissent sur chaque écran, et à quel moment**. Ils ne sont une référence ni de style _ni_ de mise en page : l'endroit où ce thème place sa question, ses options et son minuteur relève de son propre choix, et le vôtre peut être complètement différent.
 :::
 
 ### Cadre 1 - le cadre général
 
-**What is on it:** the background, a header title and an empty content area below it. It is not a finished composition but the frame the rest is built inside.
+**Ce qu'il contient :** le fond, un titre d'en-tête et une zone de contenu vide en dessous. Ce n'est pas une composition achevée, mais le cadre à l'intérieur duquel le reste est construit.
 
-**What it covers:** thirteen screen states - round explanation, standings, player introduction, multiple-choice variants, long questions, seat warnings, settings. Each fills the content area its own way with elements from the [element sheet](#the-element-sheet), so the frame has to hold things that look nothing alike. Le sélecteur de questions et la question longue peuvent recevoir leur propre composition si vous le souhaitez ; sinon ils utilisent ce cadre.
+**Ce qu'il couvre :** treize états d'écran - explication de la manche, classement, introduction des joueurs, variantes de choix multiple, questions longues, avertissements de Seats, paramètres. Chacun remplit la zone de contenu à sa façon avec des éléments de la [planche d'éléments](#the-element-sheet), le cadre doit donc pouvoir accueillir des choses qui ne se ressemblent pas du tout. Le sélecteur de questions et la question longue peuvent recevoir leur propre composition si vous le souhaitez ; sinon ils utilisent ce cadre.
 
 Deux moments de jeu sur le même cadre : un sélecteur de questions et une échelle de points.
 
@@ -72,34 +72,34 @@ Deux moments de jeu sur le même cadre : un sélecteur de questions et une éche
 
 Regardez le peu qu'ils ont en commun. Le sélecteur place ses trois lignes dans un panneau bordé ; l'échelle n'a aucun panneau, seulement des lignes séparées par de fins filets. Ce que les deux partagent, c'est le fond et le bandeau d'en-tête au-dessus - tout ce qui se trouve en dessous appartient à l'écran individuel et est rempli par le jeu, pas par vous.
 
-That panel and those rules come from the [element sheet](#the-element-sheet), not from this frame. Ce que ce cadre doit faire, c'est les accueillir : concevez la zone de contenu comme une zone vide, neutre et généreuse, qui fonctionne aussi bien avec un panneau bordé, une liste nue qu'un tableau de lignes. Un fond chargé en son centre, ou un en-tête qui ne fonctionne qu'avec un panneau glissé juste en dessous, c'est là que cela casse.
+Ce panneau et ces filets viennent de la [planche d'éléments](#the-element-sheet), pas de ce cadre. Ce que ce cadre doit faire, c'est les accueillir : concevez la zone de contenu comme une zone vide, neutre et généreuse, qui fonctionne aussi bien avec un panneau bordé, une liste nue qu'un tableau de lignes. Un fond chargé en son centre, ou un en-tête qui ne fonctionne qu'avec un panneau glissé juste en dessous, c'est là que cela casse.
 
-### Frame 2 - the connect screen
+### Cadre 2 - l'écran de connexion
 
-**What is on it:** everything the room needs in order to join.
+**Ce qu'il contient :** tout ce dont la salle a besoin pour rejoindre la partie.
 
-- five lines of instruction
-- a join code and a QR code, both generated by the engine - reserve a square for the QR code
-- a line with the number of connected players
-- a list of players trickling in
+- cinq lignes d'instructions
+- un code de jeu et un code QR, tous deux générés par le moteur - réservez un carré pour le code QR
+- une ligne indiquant le nombre de joueurs connectés
+- une liste des joueurs qui arrivent au compte-gouttes
 
-**Draw it twice:** with a client logo beside the join code, and without one, where the theme's own artwork carries the screen.
+**À dessiner deux fois :** avec un logo client à côté du code de jeu, et sans, les visuels du thème portant alors l'écran à eux seuls.
 
 ![Écran de connexion avec un logo client](/images/theme-design/frame2-connect.png)
 
 ![Écran de connexion sans logo client](/images/theme-design/frame2-connect-nologo.png)
 
-### Frame 3 - the waiting screen
+### Cadre 3 - l'écran d'attente
 
-**What is on it:** almost nothing - the quiz's own logo, or the theme's artwork.
+**Ce qu'il contient :** presque rien - le logo du quiz lui-même, ou les visuels du thème.
 
-It shares only a background with the connect screen, so design it as its own composition. It stays up while the quizmaster reads a question aloud, which puts it on screen longer than almost anything else in the game. It deserves more attention than an empty screen usually gets.
+Il ne partage que le fond avec l'écran de connexion ; concevez-le donc comme une composition à part entière. Il reste affiché pendant que le quizmaster lit une question à voix haute, ce qui le laisse à l'écran plus longtemps que presque tout le reste du jeu. Il mérite plus d'attention qu'un écran vide n'en reçoit habituellement.
 
 ![Écran d'attente](/images/theme-design/frame2-pending.png)
 
-### Frame 4 - the question screen
+### Cadre 4 - l'écran de question
 
-**What is on it:** the question, a timer, four answer options and a feedback line. This is the screen the room looks at longest. Note that an option can consist of nothing but an emoji:
+**Ce qu'il contient :** la question, un minuteur, quatre options de réponse et une ligne de feedback. C'est l'écran que la salle regarde le plus longtemps. Notez qu'une option peut ne contenir rien d'autre qu'un emoji :
 
 ![Écran de question avec quatre options textuelles](/images/theme-design/frame3-question-options.png)
 
@@ -113,13 +113,13 @@ Le moment où le temps est écoulé. La bulle de feedback apparaît par-dessus l
 
 ![Écran de question à l'état « temps écoulé »](/images/theme-design/frame3-question-timeout.png)
 
-### Frame 5 - question with attachment
+### Cadre 5 - question avec pièce jointe
 
-**What is on it:** the same parts as frame 4, arranged around an image or video. It may be a different composition. La pièce jointe est mise à l'échelle pour tenir dans le cadre que vous dessinez, une image en format paysage comme en format portrait doit donc y rester acceptable.
+**Ce qu'il contient :** les mêmes éléments que le cadre 4, disposés autour d'une image ou d'une vidéo. Il peut s'agir d'une composition différente. La pièce jointe est mise à l'échelle pour tenir dans le cadre que vous dessinez, une image en format paysage comme en format portrait doit donc y rester acceptable.
 
-**What it covers:** the full-screen attachment, and attachments shown between questions.
+**Ce qu'il couvre :** la pièce jointe en plein écran, et les pièces jointes affichées entre les questions.
 
-Here with the options to the left and right of the attachment:
+Ici avec les options à gauche et à droite de la pièce jointe :
 
 ![Écran de question avec une image au milieu](/images/theme-design/frame4-question-attachment.png)
 
@@ -127,13 +127,13 @@ Une pièce jointe seule, occupant tout l'écran :
 
 ![Pièce jointe en plein écran](/images/theme-design/frame4-attachment-fullscreen.png)
 
-### Frame 6 - the answer screen
+### Cadre 6 - l'écran de réponse
 
-**What is on it:** which answer was correct, how the room's answers were spread across the options, and a feedback line.
+**Ce qu'il contient :** la réponse correcte, la façon dont les réponses de la salle se sont réparties entre les options, et une ligne de feedback.
 
-**What it covers:** the answer screen for open questions and for questions with an attachment.
+**Ce qu'il couvre :** l'écran de réponse des questions ouvertes et des questions avec pièce jointe.
 
-The screen goes through three moments. D'abord la répartition, sans rien de marqué encore :
+L'écran passe par trois moments. D'abord la répartition, sans rien de marqué encore :
 
 ![Écran de réponse montrant la répartition](/images/theme-design/frame5-answer-mc-spread.png)
 
@@ -153,35 +153,35 @@ Pour une question ouverte, le graphique montre combien de joueurs ont trouvé :
 
 ![Écran de réponse pour une question ouverte](/images/theme-design/frame5-answer-open.png)
 
-### Frame 7 - standings and winner
+### Cadre 7 - classement et gagnant
 
-**What is on it:** a list of players with position, avatar, name and score. Supply the **player row** as a separate, reusable element: it is repeated six times by default, up to ten.
+**Ce qu'il contient :** une liste de joueurs avec position, avatar, nom et score. Fournissez la **ligne de joueur** comme un élément séparé et réutilisable : elle est répétée six fois par défaut, jusqu'à dix.
 
-**What it covers:** the standings between rounds and the final winner.
+**Ce qu'il couvre :** le classement entre les manches et le gagnant final.
 
-The standings after a round, with six player rows:
+Le classement après une manche, avec six lignes de joueur :
 
 ![Classement avec six lignes de joueur](/images/theme-design/frame6-roundoutro.png)
 
-Le décompte final nomme un joueur à la fois, de la dernière place à la première - place, score et nom d'équipe sous les projecteurs. This is also where the [flying emoji](#flying-emoji-land-on-top-of-everything) are heaviest:
+Le décompte final nomme un joueur à la fois, de la dernière place à la première - place, score et nom d'équipe sous les projecteurs. C'est aussi là que les [emoji volants](#flying-emoji-land-on-top-of-everything) sont les plus nombreux :
 
 ![Le décompte du gagnant nommant un joueur](/images/theme-design/frame6-winner-countdown.png)
 
 ![Le classement final](/images/theme-design/frame6-winner.png)
 
-### Frame 8 - the round intro
+### Cadre 8 - l'intro de manche
 
-**What is on it:** a short announcement per round category. Il y a six catégories : sciences & techniques, nature, divertissement & musique, sport, art, histoire.
+**Ce qu'il contient :** une courte annonce par catégorie de manche. Il y a six catégories : sciences & techniques, nature, divertissement & musique, sport, art, histoire.
 
-**What it covers:** all six categories. One design may serve several of them.
+**Ce qu'il couvre :** les six catégories. Une même conception peut en servir plusieurs.
 
-Here, one composition with a variant per category:
+Ici, une seule composition avec une variante par catégorie :
 
 ![Intro de manche pour la catégorie nature](/images/theme-design/frame7-roundintro-nature.png)
 
 ![Intro de manche pour la catégorie sciences](/images/theme-design/frame7-roundintro-science.png)
 
-**A character is optional.** The stock QuizWitz theme has one that talks and reacts; the [Emerald theme](/docs/advanced/emerald-theme) ships without, and dropping it removes the most expensive animation work - lip sync, eyes, arms.
+**Un personnage est facultatif.** Le thème QuizWitz standard en a un qui parle et réagit ; le [thème Emerald](/docs/advanced/emerald-theme) n'en a pas, et s'en passer supprime le travail d'animation le plus coûteux - synchronisation labiale, yeux, bras.
 
 Sans personnage, l'intro de manche devient un moment graphique, typographique ou illustratif. Deux approches gardent le travail dans des proportions raisonnables : une composition avec une variante de couleur ou d'icône par catégorie, ou une annonce universelle unique dont seul le nom de la manche change. Six intros vraiment différentes, cela fait beaucoup de travail pour quelques secondes à l'écran.
 
@@ -209,8 +209,8 @@ Deux groupes d'éléments, sur une seule planche, chacun dessiné une fois et r�
 
 ## Ce qui est décidé pour vous
 
-- **The players' phones.** A fixed HTML layout.
-- **The handful of things the engine draws itself** - the rules between rows on the points ladder, the highlighted row in the question picker, the QR code. Their colours come from [Colour as a list](#colour-as-a-list).
+- **Les téléphones des joueurs.** Une mise en page HTML fixe.
+- **La poignée d'éléments que le moteur dessine lui-même** - les filets entre les lignes de l'échelle de points, la ligne mise en évidence dans le sélecteur de questions, le code QR. Leurs couleurs viennent de [La couleur sous forme de liste](#colour-as-a-list).
 - **Quels écrans se rabattent sur le cadre général, et comment.**
 - **La façon dont les six catégories sont associées aux visuels d'intro de manche.** Cette association est un réglage de configuration, une même intro peut donc être réutilisée pour plusieurs catégories.
 - **Tout le rythme et toutes les durées d'animation.**
@@ -233,12 +233,12 @@ Aucune de ces règles ne limite votre travail visuel. Elles portent sur la faço
 
 **Tout ce qui peut bouger, apparaître ou changer de valeur se trouve sur son propre calque nommé.** Rien de fusionné, rien d'aplati.
 
-In practice:
+En pratique :
 
-- the four answer options are four separate layers, not one
-- the timer is separate from the background
-- a button and its label are two elements
-- a player row is one group that can be duplicated
+- les quatre options de réponse sont quatre calques séparés, pas un seul
+- le minuteur est séparé du fond
+- un bouton et son libellé sont deux éléments
+- une ligne de joueur est un groupe unique qui peut être dupliqué
 
 Ce qui peut être fusionné : les visuels de fond purement décoratifs qui fonctionnent comme une seule image fixe.
 
@@ -248,13 +248,13 @@ C'est la seule règle dont le non-respect fait vraiment mal - il faut alors déc
 
 Le moteur dessine sur un canvas HTML5. Ceux-ci doivent être **intégrés à l'image** ou abandonnés :
 
-| Effect                                                                      | What to do instead          |
-| --------------------------------------------------------------------------- | --------------------------- |
-| Live blur, drop shadows and glow as filters                                 | Supply them as artwork      |
-| Blend modes (multiply, screen, overlay)                  | Resolve them to flat colour |
-| Effets de calque et calques de réglage                                      | Bake them in                |
-| Dégradés **à l'intérieur** du texte, ou texte avec un contour par caractère | Leave them out              |
-| Masques qui changent d'une image à l'autre                                  | Leave them out              |
+| Effet                                                                       | À faire à la place                |
+| --------------------------------------------------------------------------- | --------------------------------- |
+| Flou en direct, ombres portées et lueurs appliqués comme filtres            | Les fournir sous forme de visuels |
+| Modes de fusion (produit, superposition, incrustation)   | Les convertir en couleur unie     |
+| Effets de calque et calques de réglage                                      | Les intégrer à l'image            |
+| Dégradés **à l'intérieur** du texte, ou texte avec un contour par caractère | Les abandonner                    |
+| Masques qui changent d'une image à l'autre                                  | Les abandonner                    |
 
 Les dégradés dans les formes ne posent pas de problème. La transparence ne pose pas de problème. Les ombres sous forme de visuels fixes ne posent pas de problème.
 
@@ -279,13 +279,13 @@ Ce qui en découle :
 - **Douze langues.** Les mots composés allemands sont longs, et le hongrois n'est pas plus clément. Un cadre juste en anglais tombe à une taille illisible en allemand.
 - **Des emoji peuvent apparaître à l'intérieur du texte.** Les joueurs en choisissent un à côté de leur nom d'équipe, et une question ou une option peut en contenir un - parfois une option n'est rien d'autre qu'un emoji. Ils sont dessinés en couleur et sont plus hauts que les lettres qui les entourent.
 
-**What the build needs to know about each text box:** where it is, how big it is, how it is aligned, which colour and which font. Pas : à quel corps.
+**Ce que celui qui construit le thème doit savoir de chaque cadre de texte :** où il se trouve, quelle est sa taille, comment il est aligné, quelle couleur et quelle police. Pas : à quel corps.
 
-**You can use this.** A large box with short text becomes a strong typographic composition by itself, and a box you deliberately make narrow and tall forces text into a column. Use the fitting as a design device; just do not design against it.
+**Vous pouvez en tirer parti.** Un grand cadre avec un texte court devient à lui seul une composition typographique forte, et un cadre que vous rendez délibérément étroit et haut force le texte en colonne. Utilisez cet ajustement comme outil de conception ; ne concevez simplement pas contre lui.
 
 ### Le minuteur - obligatoire, et c'est une animation
 
-**Every question screen has a timer**; the room has to see how much time is left.
+**Chaque écran de question a un minuteur** ; la salle doit voir combien de temps il reste.
 
 **Le minuteur n'est pas un nombre qui décompte mais une animation dont le moteur déplace la tête de lecture.** Vous concevez une progression de « plein » à « vide » - une barre qui se vide, un anneau qui se referme, un sablier, une ligne qui rétrécit. Le moteur joue cette animation exactement à la vitesse qui fait coïncider la dernière image avec la fin de la question.
 
@@ -301,7 +301,7 @@ Fournissez le minuteur sous forme d'une série d'images clés ou d'une descripti
 
 ### Les emoji volants atterrissent par-dessus tout
 
-Chaque joueur choisit un emoji en rejoignant la partie, et le jeu projette ces emoji à travers l'écran. They are drawn by the engine on a layer above the theme. **Il n'y a rien à concevoir ici** - mais il y a quelque chose à contourner par la conception, car ce ne sont pas une fioriture rare.
+Chaque joueur choisit un emoji en rejoignant la partie, et le jeu projette ces emoji à travers l'écran. Ils sont dessinés par le moteur sur un calque au-dessus du thème. **Il n'y a rien à concevoir ici** - mais il y a quelque chose à contourner par la conception, car ce ne sont pas une fioriture rare.
 
 Ils apparaissent à trois moments :
 
@@ -314,7 +314,7 @@ Ce que cela implique pour la conception :
 - **Gardez le tiers inférieur des écrans de classement et de gagnant libre de tout élément petit ou essentiel.** Pendant le décompte, c'est vraiment encombré là en bas.
 - **Partez du principe qu'ils jureront avec votre palette.** Ce sont des emoji en pleine couleur venus de tous les coins de la table Unicode, et aucun thème ne les contrôle. Une conception qui ne tient que dans une gamme de couleurs resserrée aura l'air accidentelle pendant ces secondes.
 - **Les projections sont supprimées tant qu'une image ou une vidéo est affichée**, les écrans avec pièce jointe restent donc propres.
-- **The whole layer can be switched off per game**, so do not build a composition that depends on them being there either.
+- **Le calque entier peut être désactivé par partie**, ne construisez donc pas non plus une composition qui dépend de leur présence.
 
 ### Polices
 
@@ -325,20 +325,20 @@ Ce que cela implique pour la conception :
 
 Le thème lit une liste de couleurs dans un fichier de configuration, et les téléphones des joueurs sont stylés à partir de la même liste. Fournissez votre palette sous forme de **liste nommée**, et pas seulement sous forme de couleurs dans les visuels :
 
-| Where                       | Colours                                                                                                                                                                                                                                                                |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Game screen**             | Main colour, accent colour, background, panel or container colour, timer background, default text colour, header text colour, question text colour, button text, dialog and explanation text, player name and score text, the colour for correct, the colour for wrong |
-| **The four answer options** | For each option: a background colour, a border colour, and one flat colour for the phones and the charts                                                                                                                                               |
-| **Players' phones**         | Background, text colour, outline colour, option outline colour, and the background and text colour of the answer container                                                                                                                                             |
+| Où                                | Couleurs                                                                                                                                                                                                                                                                                                                                         |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Écran de jeu**                  | Couleur principale, couleur d'accent, fond, couleur de panneau ou de conteneur, fond du minuteur, couleur de texte par défaut, couleur du texte d'en-tête, couleur du texte de la question, texte des boutons, texte des dialogues et des explications, texte du nom et du score des joueurs, la couleur pour correct, la couleur pour incorrect |
+| **Les quatre options de réponse** | Pour chaque option : une couleur de fond, une couleur de bordure, et une couleur unie pour les téléphones et les graphiques                                                                                                                                                                                                      |
+| **Téléphones des joueurs**        | Fond, couleur du texte, couleur du contour, couleur du contour des options, ainsi que la couleur de fond et de texte du conteneur de réponse                                                                                                                                                                                                     |
 
 Les dégradés sont autorisés sur l'écran de jeu : donnez-les sous forme de deux valeurs hexadécimales.
 
-A few colours are the _only_ handle on parts the engine draws itself, so they are worth deciding rather than defaulting:
+Quelques couleurs sont le _seul_ moyen d'agir sur des parties que le moteur dessine lui-même ; elles méritent donc d'être choisies plutôt que laissées par défaut :
 
-- the **separator** - the rules between rows where there is no panel, and on the points ladder
-- the **active**, **inactive** and **selected** states of a row in the question picker
-- the **dialog** text
-- the **front and back of the QR code**
+- le **séparateur** - les filets entre les lignes là où il n'y a pas de panneau, et sur l'échelle de points
+- les états **actif**, **inactif** et **sélectionné** d'une ligne du sélecteur de questions
+- le texte des **dialogues**
+- le **premier plan et l'arrière-plan du code QR**
 
 Si vous les omettez, elles retombent sur des valeurs par défaut intégrées - blanc, gris, rouge, noir et blanc - qui correspondent rarement à une conception.
 
@@ -352,17 +352,17 @@ Les conceptions sur mesure comprennent le logo QuizWitz. Réservez-lui une place
 
 ### Fichier source - Illustrator de préférence
 
-The theme is built in Adobe Animate, and what Animate can import decides how much of your work survives the hand-over intact:
+Le thème est construit dans Adobe Animate, et ce qu'Animate peut importer détermine quelle part de votre travail survit intacte à la passation :
 
-| Tool                                             | What happens on import                                                                                                                                                                                                                                                                                                                                       | Use it for                                 |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
-| **Adobe Illustrator** (`.ai`) | Animate imports it directly and converts your layers into Animate layers or separate symbols, keeping the layer names and leaving the vectors editable. C'est exactement l'étape qui évite que les visuels soient reconstruits à la main.                                                                                    | **Preferred** for the final deliverable    |
-| **Adobe Photoshop**                              | Imports with its layers intact, like Illustrator, but gives raster instead of vector.                                                                                                                                                                                                                                                        | Possible                                   |
-| **Figma**                                        | Everything goes through SVG and PNG export, and that is precisely where the layer structure needed here is lost. Si vous utilisez malgré tout Figma, fournissez **chaque élément séparément en SVG**, avec des noms de fichiers correspondant aux noms de calques, afin que la structure puisse être reconstruite à la main. | The concept phase, if you are faster in it |
+| Outil                                            | Ce qui se passe à l'import                                                                                                                                                                                                                                                                                                                                   | À utiliser pour                                 |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| **Adobe Illustrator** (`.ai`) | Animate l'importe directement et convertit vos calques en calques Animate ou en symboles séparés, en conservant les noms de calques et en laissant les vecteurs modifiables. C'est exactement l'étape qui évite que les visuels soient reconstruits à la main.                                                               | **À privilégier** pour le livrable final        |
+| **Adobe Photoshop**                              | S'importe avec ses calques intacts, comme Illustrator, mais donne du bitmap au lieu du vectoriel.                                                                                                                                                                                                                                            | Possible                                        |
+| **Figma**                                        | Tout passe par un export SVG et PNG, et c'est précisément là que se perd la structure de calques nécessaire ici. Si vous utilisez malgré tout Figma, fournissez **chaque élément séparément en SVG**, avec des noms de fichiers correspondant aux noms de calques, afin que la structure puisse être reconstruite à la main. | La phase de concept, si vous y êtes plus rapide |
 
 Structure du fichier :
 
-- One artboard per screen, named after the frames above.
+- Un plan de travail par écran, nommé d'après les cadres ci-dessus.
 - Les parties réutilisables (bouton, ligne de joueur, option de réponse, minuteur) sous forme de **symboles** ou de composants, pas de copies isolées.
 - Des noms de calques en anglais, sans espaces : `question`, `option1` à `option4`, `timer`, `feedback`, `header`, `background`, `playerScore`.
 - Les couleurs en nuances nommées et le texte en styles nommés, plutôt que définis objet par objet.
@@ -371,24 +371,24 @@ Structure du fichier :
 
 1. Le **fichier source**, structuré comme ci-dessus.
 2. **Chaque cadre en PNG**, 1920 × 1080 - une référence de l'allure attendue. Pour le cadre 2, la version avec et la version sans logo client.
-3. **The element sheet** as one artboard: the [content building blocks and the controls](#the-element-sheet).
+3. **La planche d'éléments** sur un seul plan de travail : les [briques de contenu et les contrôles](#the-element-sheet).
 4. **Chaque élément graphique séparé en PNG transparent à 2×**, dans un seul dossier, le nom de fichier correspondant au nom de calque.
 5. **Le minuteur** sous forme d'images clés ou d'une description écrite de la progression.
 6. **Les polices** en `.ttf` ou `.otf`, avec justificatif de licence.
-7. **The colour list** from [Colour as a list](#colour-as-a-list), as hex values.
+7. **La liste des couleurs** décrite dans [La couleur sous forme de liste](#colour-as-a-list), en valeurs hexadécimales.
 8. **Une demi-page de notes** : quelle est l'idée, comment les options doivent apparaître, ce qui bouge et ce qui reste immobile. Pas une justification de conception de dix pages - celui qui construit le thème a besoin de savoir quoi construire. Les idées de mouvement peuvent être décrites ou fournies sous forme d'animatique sommaire.
 
 ### Ordre de travail
 
-1. **Frame 4, the question screen, together with the element sheet.** Get both approved before the rest. Between them they carry the timer, the options, the panel and every control, so they settle the style of the whole theme.
-2. **Frames 1 to 3.** They follow naturally from the first two.
-3. **Frames 6 to 8** come last.
+1. **Le cadre 4, l'écran de question, avec la planche d'éléments.** Faites valider les deux avant le reste. À eux deux, ils portent le minuteur, les options, le panneau et tous les contrôles ; ils fixent donc le style de tout le thème.
+2. **Les cadres 1 à 3.** Ils découlent naturellement des deux premiers.
+3. **Les cadres 6 à 8** viennent en dernier.
 
 ---
 
 ## Annexe - noms des symboles
 
-Pour être complet, et pour qui veut savoir exactement où aboutissent ses visuels. **You do not need to read this to do the work**; the eight frames and the element sheet above are enough. Utiliser ces noms comme noms de calques épargne une étape de traduction.
+Pour être complet, et pour qui veut savoir exactement où aboutissent ses visuels. **Vous n'avez pas besoin de lire ceci pour faire le travail** ; les huit cadres et la planche d'éléments ci-dessus suffisent. Utiliser ces noms comme noms de calques épargne une étape de traduction.
 
 | Cadre                                                       | Nom du symbole                                                                                                                            | Parties requises                                                                                                                                                                                                          |
 | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -409,7 +409,7 @@ Pour être complet, et pour qui veut savoir exactement où aboutissent ses visue
 
 Les symboles d'intro de manche du thème d'origine s'appellent `RoundIntroScienceAndTech`, `RoundIntroFloraAndFauna`, `RoundIntroTedMusic`, `RoundIntroTedSport` et `RoundIntroTedCultHist` ; l'art et l'histoire partagent le dernier. Le « Ted » de ces noms est un reste du personnage du thème d'origine et ne signifie pas qu'un personnage doive y apparaître.
 
-Every element with `.text` after it is a fitted text box as described under [How text behaves](#how-text-behaves): a rectangle the engine fills itself. L'élément `timer` est un clip vidéo doté de son propre scénario ; le moteur lit son nombre d'images et déplace la tête de lecture proportionnellement au temps écoulé, au maximum 24 fois par seconde.
+Chaque élément suivi de `.text` est un cadre de texte ajusté, comme décrit dans [Comment se comporte le texte](#how-text-behaves) : un rectangle que le moteur remplit lui-même. L'élément `timer` est un clip vidéo doté de son propre scénario ; le moteur lit son nombre d'images et déplace la tête de lecture proportionnellement au temps écoulé, au maximum 24 fois par seconde.
 
 ### Ce que le fichier de configuration reprend de votre conception
 
