@@ -7,7 +7,7 @@ title: Quizmaster App
 
 Come quizmaster, hai il pieno controllo della partita QuizWitz Live. La cosa più importante da sapere è questa:
 
-> Il gioco **progredisce solo quando clicchi** — niente si muove sulla schermata di gioco fino a quando non lo dici.
+> La partita **avanza solo quando clicchi** - sullo schermo di gioco non si muove nulla finché non sei tu a deciderlo.
 
 Questo ti dà pieno controllo su ritmo e tempi, ma significa anche che dovrai toccare parecchio lo schermo. Vediamo insieme come funziona l’app.
 
@@ -36,13 +36,13 @@ Ogni domanda ha il proprio schermo nell'app Quizmaster:
 
 Vedrai:
 
-- **Numero della domanda** — ad es. `1.1` indica la prima domanda del primo round
-- **Tipo di domanda** — come Scelta multipla, con i relativi modificatori di punteggio
-- **Versione lunga della domanda** — da leggere ad alta voce
-- **Info sulla domanda** — inclusi durata del timer e punti disponibili
-- **Breve domanda** — la versione mostrata sulla schermata di gioco
-- **Pulsante per avviare la domanda** — avvia subito il timer
-- **Risposte possibili** — visualizzate nell’ordine corretto (per le domande a scelta multipla)
+- **Numero della domanda** - ad es. `1.1` indica la prima domanda del primo round
+- **Tipo di domanda** - come Scelta multipla, con i relativi modificatori di punteggio
+- **Versione lunga della domanda** - da leggere ad alta voce
+- **Info sulla domanda** - inclusi durata del timer e punti disponibili
+- **Domanda breve** - la versione mostrata sullo schermo di gioco
+- **Pulsante per avviare la domanda** - avvia subito il timer
+- **Risposte possibili** - visualizzate nell’ordine corretto (per le domande a scelta multipla)
 
 La domanda resterà visibile nella tua app finché:
 
@@ -64,10 +64,10 @@ Include:
 - **Numero della domanda**
 - **Testo breve della domanda**
 - **Risposta corretta**
-- **Distribuzione delle risposte** — in numeri e percentuali
-- **Feedback lungo** — informazioni extra da leggere ad alta voce
-- **Pulsante Continua** — passa alla domanda successiva
-- **100 risposte più veloci** — mostrate in fondo allo schermo
+- **Distribuzione delle risposte** - in numeri e percentuali
+- **Feedback lungo** - informazioni extra da leggere ad alta voce
+- **Pulsante Continua** - passa alla domanda successiva
+- **100 risposte più veloci** - mostrate in fondo allo schermo
 
 ---
 
