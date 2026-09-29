@@ -1,40 +1,40 @@
 ---
 id: first-come-first-served
-title: First come first served
+title: Първи дошъл, първи обслужен
 ---
 
-# 🏃 First come first served
+# 🏃 Първи дошъл, първи обслужен
 
-In a **First come first served** round, speed is everything. The fastest correct answer earns the most points, and every correct answer after it earns a little less.
-
----
-
-## 📝 How it works
-
-- Questions are asked one by one, just like in a [Trivia](011-trivia.md) round.
-- When a question ends, all correct answers are ranked from fastest to slowest.
-- **The fastest correct player or team gets the full points** of the question.
-- **Every next correct answer gets a smaller share.** Each place down the ranking loses the question's points divided by the number of players or teams in the game.
-  - Example: a question is worth 1000 points and 10 teams are playing. The fastest correct team gets 1000 points, the second 900, the third 800, and so on.
-- Wrong answers earn no points and don't take a place in the ranking.
+В рунда **Първи дошъл, първи обслужен** скоростта е всичко. Най-бързият верен отговор носи най-много точки, а всеки следващ верен отговор носи малко по-малко.
 
 ---
 
-## ⚙️ Settings
+## 📝 Как работи
 
-- **Question types:** every question type can be used.
-- **Time-based scoring:** the ranking already rewards speed. If time-based scoring is also enabled, it is applied on top of each share. Turn it off in the question settings if you only want the ranking to count.
-
-For more about scoring, see the [scoring section](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips
-
-- **Use questions with one clear answer:** players race to be first, so there should be no doubt about what is correct.
-- **Keep questions short:** the round is about reacting quickly, not about reading long texts.
-- **Mix it with slower rounds:** a speed round is a great change of pace after a Traditional or Common Thread round.
+- Въпросите се задават един по един, точно както в рунд [Тривия](011-trivia.md).
+- Когато един въпрос приключи, всички верни отговори се подреждат от най-бързия към най-бавния.
+- **Най-бързият играч или отбор с верен отговор получава пълния брой точки** за въпроса.
+- **Всеки следващ верен отговор получава по-малък дял.** С всяко място надолу в класирането се губят точките за въпроса, разделени на броя на играчите или отборите в играта.
+  - Пример: въпрос носи 1000 точки и играят 10 отбора. Най-бързият отбор с верен отговор получава 1000 точки, вторият 900, третият 800 и така нататък.
+- Грешните отговори не носят точки и не заемат място в класирането.
 
 ---
 
-For more on round settings, see [Round options](../editor/008-round-options.md).
+## ⚙️ Настройки
+
+- **Типове въпроси:** може да се използва всеки тип въпрос.
+- **Точкуване според времето:** класирането вече награждава скоростта. Ако е включено и точкуването според времето, то се прилага върху всеки дял. Изключи го в настройките на въпроса, ако искаш да се брои само класирането.
+
+За повече информация относно точкуването виж [раздела за точкуване](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Съвети
+
+- **Използвай въпроси с един ясен отговор:** играчите се състезават кой ще е първи, затова не бива да има съмнение какво е вярно.
+- **Дръж въпросите кратки:** този рунд е за бърза реакция, а не за четене на дълги текстове.
+- **Редувай го с по-бавни рундове:** рунд на скоростта е чудесна смяна на темпото след рунд Традиционен или Обща нишка.
+
+---
+
+За повече информация относно настройките на рунда виж [Опции на рунда](../editor/008-round-options.md).
