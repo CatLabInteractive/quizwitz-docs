@@ -5,7 +5,7 @@ title: Közös szál
 
 # 🧵 Közös szál
 
-A **Közös szál** kör a klasszikus kvízkör egy különleges változata. Ebben a körben a játékosok szokásos kérdések sorára válaszolnak, de a csavar az, hogy minden válasz titokban egyetlen mögöttes témához vagy kapcsolódási ponthoz kötődik — ez a „közös szál”.
+A **Közös szál** kör a klasszikus kvízkör egy különleges változata. Ebben a fordulóban a játékosok szokásos kérdések sorára válaszolnak, de a csavar az, hogy minden válasz titokban egyetlen mögöttes témához vagy kapcsolódási ponthoz kötődik - ez a „közös szál”.
 
 ---
 
