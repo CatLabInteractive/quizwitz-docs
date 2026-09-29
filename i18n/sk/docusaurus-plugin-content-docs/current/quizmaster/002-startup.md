@@ -3,9 +3,9 @@ id: startup
 title: Začíname
 ---
 
-# 🚀 Začíname — hosťovanie kvízu s QuizWitz Live
+# 🚀 Začíname - hostovanie kvízu s QuizWitz Live
 
-Vitaj v QuizWitz Live — profesionálnom spôsobe, ako hostovať kvízy pre tímy, livestreamy a podujatia naživo. Postupuj podľa tohto návodu a spusti svoj kvíz pomocou Quizmaster App.
+Vitaj v QuizWitz Live - profesionálnom spôsobe, ako hostovať kvízy pre tímy, livestreamy a podujatia naživo. Postupuj podľa tohto návodu a spusti svoj kvíz pomocou Quizmaster App.
 
 ---
 
@@ -23,7 +23,7 @@ Hru QuizWitz Live môžeš spustiť z editora kvízov alebo priamo zo svojej zbi
 
 ## 🔐 Pripojenie pomocou kódu quizmastera
 
-Po spustení sa na tvojej obrazovke zobrazí **kód quizmastera**. **Nezdieľaj tento kód s hráčmi** — používa sa na pripojenie tvojho prezentačného zariadenia k hre.
+Po spustení sa na tvojej obrazovke zobrazí **kód quizmastera**. **Nezdieľaj tento kód s hráčmi** - používa sa na pripojenie tvojho prezentačného zariadenia k hre.
 
 - Na svojom zariadení quizmastera navštív [quizwitz.tv](https://quizwitz.tv) a zadaj kód quizmastera.
 - Zobrazí sa **rozhranie Quizmaster App**, v ktorom ovládaš hru.
@@ -51,13 +51,13 @@ Po pripojení si vyber z dvoch herných režimov:
 
 - Každý tím dostane **jedinečný kód**, ktorý sa dá otvoriť na viacerých zariadeniach.
 - Najlepšie pre **vopred registrované tímové kvízy**, pri ktorých poznáš názvy tímov dopredu.
-- Umožňuje prepínanie zariadení — hodí sa, ak sa uprostred kvízu vybije batéria.
+- Umožňuje prepínanie zariadení - hodí sa, ak sa uprostred kvízu vybije batéria.
 
 ### Jeden herný kód
 
 - Všetci sa pripájajú pomocou **jedného zdieľaného Game Code**.
 - Ideálne pre neformálne alebo otvorené podujatia.
-- Nie je potrebná žiadna predbežná registrácia — hráči sa môžu pripojiť kedykoľvek, kým sa nezaplnia všetky aktívne seats.
+- Nie je potrebná žiadna predbežná registrácia - hráči sa môžu pripojiť kedykoľvek, kým sa nezaplnia všetky aktívne Seats.
 
 > Uisti sa, že si prihlásený/á, aby si mal/a prístup k obsahu svojich kvízov.
 
@@ -71,13 +71,13 @@ Pri použití **tímových kódov** najprv vytvoríš tímy v Quizmaster App:
 - Stlač **‘Generate Codes’**, aby si vytvoril prístupové kódy  
   ![Quizmaster App - vytvorenie tímov](/images/quizmaster-app-create-teams.png)
 
-Kódy si môžeš tiež **rezervovať vopred** — viac o tom nájdeš v sekcii tipov a trikov.
+Kódy si môžeš tiež **rezervovať vopred** - viac o tom nájdeš v sekcii tipov a trikov.
 
 Nezabudni si **uložiť nasledujúce kódy**:
 
 - **Kód quizmastera** - na ovládanie kvízu
-- **Jury Code** — na manuálne úpravy skóre
-- **Regie Code** — na ovládanie vizuálnych a technických prvkov
+- **Kód poroty** - na manuálne úpravy skóre
+- **Režijný kód** - na ovládanie vizuálnych a technických prvkov
 
 Pošli tímové kódy svojim hráčom e-mailom alebo ich vytlač.
 
