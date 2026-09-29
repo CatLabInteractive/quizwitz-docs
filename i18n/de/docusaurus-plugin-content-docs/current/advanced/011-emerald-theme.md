@@ -25,7 +25,7 @@ Du kannst ein Quiz mit dem Emerald-Theme [hier](https://play.quizwitz.com/11486:
 
 ### Quiz-Anhänge
 
-Bei weitem der einfachste Weg, das Aussehen und Gefühl des Spiels zu ändern, ist das Anhängen von Bildern an dein Quiz. Öffne die **Quiz-Einstellungen** und scrolle zum Abschnitt **Anhänge**. Hier kannst du Bilder hochladen, die als Hintergrund, Kundenlogo, Verbindungs- und Wartebildschirme (für Konferenz- und Live-Quizze) verwendet werden – und mehr.
+Bei weitem der einfachste Weg, das Aussehen und Gefühl des Spiels zu ändern, ist das Anhängen von Bildern an dein Quiz. Öffne die **Quiz-Einstellungen** und scrolle zum Abschnitt **Anhänge**. Hier kannst du Bilder hochladen, die als Hintergrund, Kundenlogo, Verbindungs- und Wartebildschirme (für Konferenz- und Live-Quizze) verwendet werden - und mehr.
 
 ![Ein Screenshot der Quiz-Anhänge](/images/emerald/quiz-attachments.png)
 
@@ -51,7 +51,7 @@ Alle Musik im Spiel kann ebenfalls durch Anhänge ersetzt werden. Alle Audiodate
 
 ## Emerald Themenmodifikatoren
 
-Zusätzlich zu Anhängen kannst du das Emerald-Theme auch mit **Abfrageparametern** manipulieren. Das sind Parameter, die du zur **Erweiterten Spieloptionen**-URL hinzufügen kannst — und die das Erscheinungsbild des Themes ändern.
+Zusätzlich zu Anhängen kannst du das Emerald-Theme auch mit **Abfrageparametern** manipulieren. Das sind Parameter, die du zur **Erweiterten Spieloptionen**-URL hinzufügen kannst - und die das Erscheinungsbild des Themes ändern.
 
 Dafür starten wir mit einem Beispielquiz (ohne Anhänge):  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
@@ -81,7 +81,7 @@ Außerdem kannst du eine Standardschrift festlegen:
 
 Diese Schriften müssen URLs sein, die öffentlich zugängliche Schriftdateien enthalten.
 
-Jeder dieser Modifikatoren kann eine einzelne Farbe im HTML-Hex-Format enthalten (ff0000), oder einen linearen Verlauf, indem mehrere Farben durch einen Bindestrich getrennt werden (– zum Beispiel ff1b6b-45caff). (Beachte, dass das # Symbol nicht hinzugefügt werden sollte.)
+Jeder dieser Modifikatoren kann eine einzelne Farbe im HTML-Hex-Format enthalten (ff0000), oder einen linearen Verlauf, indem mehrere Farben durch einen Bindestrich getrennt werden ( - zum Beispiel ff1b6b-45caff). (Beachte, dass das # Symbol nicht hinzugefügt werden sollte.)
 
 :::note
 Die Abfrageparameter müssen mit einem Fragezeichen ( ? ) beginnen und jeder Parameter muss mit einem Kaufmanns-Und ( & ) getrennt werden. Für weitere Informationen zu Abfrageparametern besuche [Wikipedia](https://de.wikipedia.org/wiki/Query_string).
