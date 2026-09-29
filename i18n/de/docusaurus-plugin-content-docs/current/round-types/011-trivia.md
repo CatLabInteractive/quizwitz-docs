@@ -5,7 +5,7 @@ title: Trivia (reguläre Runde)
 
 # ❓ Trivia (reguläre Runde)
 
-Die **Quiz**-Runde ist der klassische, Standardrundentyp in QuizWitz. Sie stellt allen Spielern eine Reihe von Fragen — ideal für Allgemeinwissen, thematische Quizze oder Aufwärmrunden.
+Die **Quiz**-Runde ist der klassische, Standardrundentyp in QuizWitz. Sie stellt allen Spielern eine Reihe von Fragen - ideal für Allgemeinwissen, thematische Quizze oder Aufwärmrunden.
 
 ---
 
