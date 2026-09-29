@@ -1,52 +1,52 @@
 ---
 id: grid-question
-title: Grid question
+title: ग्रिड सवाल
 ---
 
-# 🔲 Grid question
+# 🔲 ग्रिड सवाल
 
-In a **Grid question**, all answer options are shown as a grid of cells. Players select every cell they think is correct - for example "Select all the countries in South America" or "Which of these animals are mammals?"
-
----
-
-## 📝 How it works
-
-- **Question:** Clearly state what players should select.
-- **Options:** Enter all the cells of the grid, and mark every correct one. The options are arranged in a square grid on the player's device and on the game screen.
-- **Player input:** Players tap cells to select or deselect them, up to the maximum number of answers. When the minimum and maximum number of answers are the same, the answer is sent as soon as that many cells are selected.
-- **Wrong cells cost nothing:** selecting a wrong cell doesn't take points away.
-- **Feedback:** After answering, players see which cells were correct.
+**ग्रिड सवाल** में सभी जवाब विकल्प खानों के एक ग्रिड के रूप में दिखाए जाते हैं। खिलाड़ी हर वह खाना चुनते हैं जो उन्हें सही लगता है - जैसे "दक्षिण अमेरिका के सभी देश चुनें" या "इनमें से कौन-से जानवर स्तनधारी हैं?"
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 यह कैसे काम करता है
 
-- **Minimum and maximum answers:** Define how many cells a player may select. By default the maximum is the number of correct options.
-- **Points are awarded:**
-  - _For each correct answer_ (default) - players earn the question's points for every correct cell they select.
-  - _Only with the minimum number of correct answers_ - players earn the question's points once, when they select at least the minimum number of correct cells.
-
-> ⚠️ When you choose _Only with the minimum number of correct answers_, set the minimum answers to at least 1. Without a minimum, every answer - even an empty one - earns the full points.
-
-See [writing questions](../editor/005-writing-questions.md) for general question settings.
+- **सवाल:** साफ़-साफ़ बताएँ कि खिलाड़ियों को क्या चुनना है।
+- **विकल्प:** ग्रिड के सभी खाने दर्ज करें, और हर सही खाने को मार्क करें। विकल्प खिलाड़ी के डिवाइस पर और गेम स्क्रीन पर एक वर्गाकार ग्रिड में लगाए जाते हैं।
+- **खिलाड़ी इनपुट:** खिलाड़ी खानों को चुनने या उनका चयन हटाने के लिए उन पर टैप करते हैं, ज़्यादा से ज़्यादा जवाबों की संख्या तक। जब न्यूनतम और अधिकतम जवाबों की संख्या एक जैसी हो, तो उतने खाने चुनते ही जवाब भेज दिया जाता है।
+- **ग़लत खानों का कोई नुकसान नहीं:** ग़लत खाना चुनने से पॉइंट्स नहीं कटते।
+- **फ़ीडबैक:** जवाब देने के बाद खिलाड़ी देखते हैं कि कौन-से खाने सही थे।
 
 ---
 
-## 🏆 Scoring
+## ⚙️ विस्तृत सेटिंग्स
 
-Grid questions use **time-based scoring** by default: faster answers earn more points, but most of the points are fixed.
-You can turn off time-based scoring per question.
+- **न्यूनतम और अधिकतम जवाब:** तय करें कि एक खिलाड़ी कितने खाने चुन सकता है। डिफ़ॉल्ट रूप से अधिकतम संख्या सही विकल्पों की संख्या के बराबर होती है।
+- **पॉइंट्स कैसे दिए जाते हैं:**
+  - _हर सही जवाब के लिए_ (डिफ़ॉल्ट) - खिलाड़ी अपने चुने हर सही खाने के लिए सवाल के पॉइंट्स कमाते हैं।
+  - _सिर्फ़ न्यूनतम संख्या में सही जवाब होने पर_ - खिलाड़ी सवाल के पॉइंट्स एक बार कमाते हैं, जब वे कम से कम न्यूनतम संख्या में सही खाने चुनते हैं।
 
-See [Scoring options in round settings](../editor/008-round-options.md#scoring) for details.
+> ⚠️ जब आप _सिर्फ़ न्यूनतम संख्या में सही जवाब होने पर_ चुनें, तो न्यूनतम जवाब कम से कम 1 पर सेट करें। न्यूनतम के बिना हर जवाब - खाली जवाब भी - पूरे पॉइंट्स पाता है।
 
----
-
-## 💡 Tips for great grid questions
-
-- **Keep the grid readable:** short option texts work best. Nine or sixteen cells make a neat square.
-- **Add convincing wrong cells:** since wrong cells cost nothing, the challenge is in finding all the right ones.
-- **Tell players how many to find:** mention it in the question, or set the minimum and maximum answers to the same number.
+सवालों की सामान्य सेटिंग्स के लिए [सवाल लिखना](../editor/005-writing-questions.md) देखें।
 
 ---
 
-Grid questions are perfect for "select all that apply" challenges!
+## 🏆 स्कोरिंग
+
+ग्रिड सवाल डिफ़ॉल्ट रूप से **समय-आधारित स्कोरिंग** इस्तेमाल करते हैं: तेज़ जवाबों को ज़्यादा पॉइंट्स मिलते हैं, लेकिन ज़्यादातर पॉइंट्स तय रहते हैं।
+आप हर सवाल के लिए समय-आधारित स्कोरिंग बंद कर सकते हैं।
+
+विवरण के लिए [राउंड सेटिंग्स में स्कोरिंग विकल्प](../editor/008-round-options.md#scoring) देखें।
+
+---
+
+## 💡 बढ़िया ग्रिड सवालों के लिए टिप्स
+
+- **ग्रिड को पढ़ने लायक रखें:** छोटे विकल्प टेक्स्ट सबसे अच्छे रहते हैं। नौ या सोलह खानों से एक सुघड़ वर्ग बनता है।
+- **भरोसेमंद ग़लत खाने जोड़ें:** क्योंकि ग़लत खानों का कोई नुकसान नहीं है, असली चुनौती सभी सही खाने ढूँढने में है।
+- **खिलाड़ियों को बताएँ कि कितने ढूँढने हैं:** इसे सवाल में लिखें, या न्यूनतम और अधिकतम जवाब एक ही संख्या पर सेट करें।
+
+---
+
+ग्रिड सवाल "जो भी लागू हों, सभी चुनें" वाली चुनौतियों के लिए एकदम सही हैं!
