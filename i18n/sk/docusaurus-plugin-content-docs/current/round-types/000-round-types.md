@@ -5,7 +5,7 @@ title: Typy kôl
 
 # Typy kôl
 
-The round type influences the way the game shows the questions to the players - and how players earn points.  
+Typ kola ovplyvňuje, ako hra zobrazuje otázky hráčom - a ako hráči získavajú body.  
 V kvízoch môžeš zmeniť typ kola v rozbaľovacom poli **Typ kola** hore v strede obrazovky.
 
 ## 🧠 Bežné kolá
@@ -22,7 +22,7 @@ Tieto kolá ponúkajú o trochu viac interaktivity než jednoduché otázky a od
 - [Multiotázka](022-multiquestion.md)
 - [Strike](023-strike.md)
 - [Dealer's Choice](024-dealers-choice.md)
-- [First come first served](025-first-come-first-served.md)
+- [Kto prv príde, ten prv melie](025-first-come-first-served.md)
 
 ## 🍺 Tradičné
 
@@ -30,12 +30,12 @@ Pre každého, kto chce organizovať tradičné pub kvízy, kde hráči môžu m
 Tieto typy kôl simulujú „odovzdanie papierov“ po každom kole.
 
 - [Tradičné](030-traditional.md)
-- [Traditional - Common thread](031-traditional-ct.md)
+- [Tradičné - Spoločná niť](031-traditional-ct.md)
 - [Abeceda](032-alphabet.md)
 
 ## 🎉 Živé udalosti
 
-These round types do not contain any questions - but instead influence the outcome of the game.
+Tieto typy kôl neobsahujú žiadne otázky - namiesto toho ovplyvňujú výsledok hry.
 
 - [Aktivita](040-activity.md)
 - [Prestávka](060-intermission.md)
@@ -47,5 +47,5 @@ These round types do not contain any questions - but instead influence the outco
 
 V týchto typoch kôl môžeš vybrať konkrétne **oddelenia**, ktoré hrajú proti iným oddeleniam.
 
-- [Department - Dealer's Choice](070-departments-dealers-choice.md)
-- [Department - Elimination](071-departments-elimination.md)
+- [Oddelenia - Dealer's Choice](070-departments-dealers-choice.md)
+- [Oddelenia - Eliminácia](071-departments-elimination.md)
