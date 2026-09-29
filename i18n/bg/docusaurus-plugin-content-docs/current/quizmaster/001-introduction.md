@@ -3,16 +3,16 @@ id: introduction
 title: Въведение
 ---
 
-# 🎤 QuizWitz Live – Въведение
+# 🎤 QuizWitz Live - Introduction
 
 ## Водене на quiz с QuizWitz Live
 
-Първата съставка за успешно събитие с QuizWitz Live е увлекателен quizmaster — някой, който контролира играта и поддържа високата енергия. quizmaster води хода на викторината, чете въпросите на глас и добавя онази допълнителна искра, за да забавлява публиката.
+The first ingredient for a successful QuizWitz Live event is an engaging quizmaster - someone who controls the game and keeps the energy high. quizmaster води хода на викторината, чете въпросите на глас и добавя онази допълнителна искра, за да забавлява публиката.
 
 За да поемеш пълен контрол над събитието си, използвай **Quizmaster App**, създадено специално за QuizWitz Live.  
 Можеш да стартираш QuizWitz Live директно от редактора на quiz, като кликнеш върху **‘Start QuizWitz Live’**.
 
-> 💡 **Бележка:** Quizmaster App е **уеб приложение** — няма нищо за инсталиране. Просто отвори [**quizwitz.tv**](https://quizwitz.tv) в браузъра си, за да го използваш на своя smart device.
+> 💡 **Note:** The Quizmaster App is a **web app** - there's nothing to install. Просто отвори [**quizwitz.tv**](https://quizwitz.tv) в браузъра си, за да го използваш на своя smart device.
 
 ---
 
@@ -20,7 +20,7 @@ title: Въведение
 
 За да осигуриш гладко и професионално quiz изживяване, увери се, че имаш:
 
-- **Голям екран или прожектор**, показващ екрана на играта - или **livestream**, достъпен за всички играчи
+- **A large screen or projector** showing the game screen - or a **livestream** accessible to all players
 - **Таблет или лаптоп** за quizmaster, за да контролира играта и да чете сценария на глас
 - **Лаптоп или таблет** за журито (ако е нужно), за да оценява въпроси с отворен отговор
 - **По един smart device за играч или отбор** (напр. смартфон или таблет), за да изпращат отговори
