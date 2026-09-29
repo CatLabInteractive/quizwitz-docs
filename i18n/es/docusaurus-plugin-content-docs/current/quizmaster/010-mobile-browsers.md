@@ -3,7 +3,7 @@ id: mobile
 title: Navegadores móviles
 ---
 
-# 📱 Navegadores móviles — Limitaciones para hospedar
+# 📱 Mobile browsers - Hosting limitations
 
 QuizWitz está optimizado para usarse en **computadoras de escritorio y portátiles**. Aunque es técnicamente posible hospedar juegos de **QuizWitz Live** o **Conference** en una tableta o smartphone, **no recomendamos** usar dispositivos **Android** o **iOS** para ejecutar el juego.
 
@@ -41,4 +41,4 @@ Para el mejor rendimiento y estabilidad:
 
 ---
 
-Para hospedar, una configuración confiable es clave — los dispositivos móviles deben usarse sólo como último recurso.
+For hosting, a reliable setup is key - mobile devices should be used only as a last resort.
