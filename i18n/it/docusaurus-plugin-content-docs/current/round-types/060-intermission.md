@@ -5,7 +5,7 @@ title: Intervallo
 
 # ⏸️ Intervallo
 
-**Intervallo** è un round evento speciale che mette in pausa il quiz per una pausa—ideale per sgranchirsi, chiacchierare o promuovere gli sponsor.
+**Intervallo** è un round evento speciale che interrompe il quiz per una pausa - ideale per sgranchirsi, chiacchierare o promuovere gli sponsor.
 
 ---
 
@@ -23,7 +23,7 @@ title: Intervallo
 ## 🖼️ Allegati
 
 - Puoi caricare immagini, loghi o video nelle impostazioni del round.
-- Durante l'intermissione, questi allegati saranno mostrati in una giostra sullo schermo del gioco, grande per i loghi, messaggi o video promozionali.
+- Durante l'intervallo, questi allegati vengono mostrati a rotazione sullo schermo di gioco - ideale per loghi degli sponsor, messaggi o video promozionali.
 - Gli allegati verranno riprodotti in loop per tutta la durata della pausa.
 
 ---
