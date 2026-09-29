@@ -5,7 +5,7 @@ title: Quizzen maken
 
 # 🧠 Maak een volledige quiz
 
-Wil je een complete quizervaring bouwen voor spelers of evenementen? Deze gids begeleidt je bij het maken van een volledige quiz met meerdere rondes — inclusief je eigen vragen of Round-Abouts die je hebt verzameld.
+Wil je een complete quizervaring bouwen voor spelers of evenementen? Deze gids begeleidt je bij het maken van een volledige quiz met meerdere rondes - inclusief je eigen vragen of Round-Abouts die je hebt verzameld.
 
 ---
 
@@ -23,7 +23,7 @@ Vanaf het hoofdmenu:
 ## ✏️ Titel en taal
 
 Geef je quiz een titel en kies de hoofdtaal.  
-Je kunt later **vertalingen** toevoegen indien nodig — je hoeft niet alles vooraf te beslissen.
+Je kunt later **vertalingen** toevoegen indien nodig - je hoeft niet alles vooraf te beslissen.
 
 ---
 
@@ -53,8 +53,8 @@ In de hoofdeditor kun je:
 
 Elke ronde kan zijn eigen regels en format hebben. Leer meer in de gevorderde handleidingen:
 
-- [Rondetypes](../round-types/000-round-types.md) — Configureer hoe een ronde werkt (bijv. bliksemsnelle ronde, puzzelronde)
-- [Vraagtypes](../question-types/000-question-types.md) — Pas het format en de score aan voor elke vraag
+- [Rondetypes](../round-types/000-round-types.md) - Configureer hoe een ronde werkt (bijv. bliksemronde, puzzelronde)
+- [Vraagtypes](../question-types/000-question-types.md) - Pas het format en de score aan voor elke vraag
 
 ---
 
@@ -66,7 +66,7 @@ Vergeet niet om:
 - **Te testen en te spelen** wanneer je maar wilt
 - **Je quiz te publiceren** als hij klaar is om te delen
 
-> 📢 Om een quiz te publiceren, moet hij **minstens 14 vragen** bevatten. Eenmaal gepubliceerd is hij beschikbaar voor de community — maar je kunt hem later ook weer terugtrekken indien nodig.
+> 📢 Om een quiz te publiceren, moet hij **minstens 14 vragen** bevatten. Eenmaal gepubliceerd is hij beschikbaar voor de community - maar je kunt hem later ook weer terugtrekken indien nodig.
 
 > 📝 **Publiceren is geheel optioneel.** Je kunt elke quiz of Round-About privé spelen zonder deze te publiceren. Dit is ideaal voor persoonlijk gebruik, testen of privé-evenementen.
 
@@ -78,9 +78,9 @@ Als je klaar bent om je quiz te testen of te starten, druk je op de knop **Start
 
 ![Quiz playlinks](/images/quiz-playlinks.png)
 
-- **[Speel een Party Game](../players/001-playing-quizwitz.md)** — Een ontspannen quizervaring om met vrienden te spelen op hetzelfde scherm of via schermdelen. Het spel verloopt automatisch; de host kan het pauzeren, maar heeft verder geen controle over het tempo.
-- **[Start QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** — Lanceer een professioneel live quizevenement met de Quizmaster App. Dit is de **enige modus waarin de quizmaster het tempo** van het spel bepaalt.
-- **[Start Conferentiemodus (PRO)](../tutorials/050-conference-booth.md)** — Host een quiz in conferentiestijl voor een groter publiek, met vaste plaatsen, teamcodes en productietools. Net als Party Games verlopen Conferentiespellen automatisch.
+- **[Speel een Party Game](../players/001-playing-quizwitz.md)** - Een ontspannen quizervaring om met vrienden te spelen op hetzelfde scherm of via schermdelen. Het spel verloopt automatisch; de host kan het pauzeren, maar heeft verder geen controle over het tempo.
+- **[Start QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** - Lanceer een professioneel live quizevenement met de Quizmaster App. Dit is de **enige modus waarin de quizmaster het tempo** van het spel bepaalt.
+- **[Start Conferentiemodus (PRO)](../tutorials/050-conference-booth.md)** - Host een quiz in conferentiestijl voor een groter publiek, met vaste plaatsen, teamcodes en productietools. Net als Party Games verlopen Conferentiespellen automatisch.
 
 ---
 
@@ -88,8 +88,8 @@ Als je klaar bent om je quiz te testen of te starten, druk je op de knop **Start
 
 Wil je een volledige quizrun simuleren? Gebruik de geavanceerde testtools:
 
-- **Simuleren** — Doe een test-playthrough met bots (zonder presentatie)
-- **Simuleer Live** — Simuleer een volledige [QuizWitz Live](../quizmaster/001-introduction.md) sessie met bots, inclusief Quizmaster-, Jury- en Spelersweergaven
+- **Simuleren** - Doe een test-playthrough met bots (zonder presentatie)
+- **Simuleer Live** - Simuleer een volledig [QuizWitz Live](../quizmaster/001-introduction.md)-spel met bots, inclusief de weergaven van quizmaster, jury en spelers
 
 ---
 
