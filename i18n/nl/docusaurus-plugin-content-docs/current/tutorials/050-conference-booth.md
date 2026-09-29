@@ -5,7 +5,7 @@ title: Conferentie booth
 
 # Conferentie booth
 
-Deze tutorial laat je zien hoe je QuizWitz kunt gebruiken bij je conferentiekraam — een makkelijke, interactieve manier om bezoekers aan te trekken en leads te verzamelen!
+Deze tutorial laat je zien hoe je QuizWitz op je beursstand gebruikt - een makkelijke, interactieve manier om bezoekers aan te trekken en leads te verzamelen!
 
 ![Een foto van een Marvel stand op een conferentie met gebruik van QuizWitz](/images/photos/marvel.jpg)
 
@@ -14,19 +14,19 @@ Deze tutorial laat je zien hoe je QuizWitz kunt gebruiken bij je conferentiekraa
 ## 📝 De quiz maken
 
 Als je een quiz maakt voor een booth, houd dan in gedachten dat sommige spelers misschien meerdere spellen mee willen doen.  
-Zorg dat je genoeg vragen hebt om het fris te houden — genoeg om te blijven variëren en elk spel uniek te maken.
+Zorg dat je genoeg vragen hebt om het fris te houden - genoeg om te blijven variëren en elk spel uniek te maken.
 
 **Aanbevolen opzet:**
 
 - 15 vragen verdeeld over 3 rondes
-- Maak minstens 3× zoveel vragen voor meer variatie — meer is beter!
+- Maak minstens 3× zoveel vragen voor meer variatie - meer is beter!
 
 ### 🎲 Stapsgewijs quiz maken
 
 1. **Kies “Quiz”** in het Maak-menu en geef je quiz een naam. Stel de juiste taal in.
 2. **Voeg 3 rondes toe** en geef ze een naam (bijvoorbeeld: Ronde 1, Ronde 2, Ronde 3).
 3. Schakel in **Ronde instellingen** (cog icon) **"Toon slechts x vragen"** in en zet het nummer op 5.  
-   Zet ook **“Willekeurige vraagvolgorde”** aan — anders kiest het spel altijd de eerste 5 vragen.  
+   Zet ook **“Willekeurige vraagvolgorde”** aan - anders kiest het spel altijd de eerste 5 vragen.  
    Herhaal dit voor elke ronde.
 
 ![Screenshot van ronde-instellingen voor een conferentiestand](/images/tutorials/conference/round_settings.png)
@@ -35,7 +35,7 @@ Zorg dat je genoeg vragen hebt om het fris te houden — genoeg om te blijven va
    Je kunt [vragen schrijven](/docs/editor/writing-questions) of de knop Importeren gebruiken om snel inhoud uit Excel toe te voegen.
 
 :::tip
-Gebruik veel afbeeldingen en videoclips — die maken het spel veel leuker!
+Gebruik veel afbeeldingen en videoclips - die maken het spel veel leuker!
 :::
 
 ---
@@ -54,7 +54,7 @@ De snelste manier om je conferentiequiz te starten:
 2. Selecteer **Start Conferentiemodus**.
 
 In deze modus gebruiken spelers hun telefoon om verbinding te maken via de spellink op het spelscherm.  
-Als iedereen klaar is drukt de host van de kraam op Enter — en het spel start automatisch.  
+Als iedereen klaar is, drukt de host van de stand op Enter - en het spel verloopt automatisch.  
 Nadat het spel is afgelopen, brengt Enter je direct terug naar het verbindingsscherm voor de volgende groep.
 
 ---
@@ -67,7 +67,7 @@ Je krijgt een unieke link met al je gekozen opties.
 
 - **Vraag spelerse-mail:**  
   Verzamel bezoekerse-mails voor je booth! Als je dit inschakelt, zorg dan dat je ook je **Privacybeleid-URL** instelt.
-- Wanneer je een spel opent via de geavanceerde optielink, kan je worden gevraagd om in te loggen voordat je begint — dit controleert je inhoud en licenties.
+- Wanneer je een spel opent via de geavanceerde optielink, kan je worden gevraagd om in te loggen voordat je begint - dit controleert je inhoud en licenties.
 
 ![Screenshot van geavanceerde spelinstellingen](/images/tutorials/conference/advanced_game_settings.png)
 
