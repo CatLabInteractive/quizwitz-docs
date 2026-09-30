@@ -1,71 +1,71 @@
 ---
 id: import-questions
-title: Import questions
+title: Tuo kysymyksiä
 ---
 
-# 📥 Import questions
+# 📥 Tuo kysymyksiä
 
-There are two ways to quickly add questions to a round in QuizWitz:
+QuizWitzissä on kaksi tapaa lisätä kysymyksiä kierrokseen nopeasti:
 
-- Import existing content from the **QuizWitz Library**
-- Paste a list of questions from a **spreadsheet**
+- Tuo olemassa olevaa sisältöä **QuizWitz-kirjastosta**
+- Liitä kysymysluettelo **laskentataulukosta**
 
-Both options are accessible from within any round.
-
----
-
-## 📚 Import from the QuizWitz Library
-
-Use the **QuizWitz Library** tab to search and import questions, rounds, or quizzes created by yourself or other creators.
-
-1. Open the round where you want to import content
-2. Click the **QuizWitz Library** tab
-3. Use filters like language, collection, type, category, or tags
-4. Select one or more entries
-5. Click **Add X items** to insert the selected content into your quiz
-
-![QuizWitz Library](/images/import/import-from-quizwitz.png)
-
-> ✅ Use this method to reuse high-quality content or combine multiple public Round-Abouts into a larger quiz.
+Molemmat vaihtoehdot ovat käytettävissä minkä tahansa kierroksen sisältä.
 
 ---
 
-## 📋 Import from a spreadsheet
+## 📚 Tuonti QuizWitz-kirjastosta
 
-To quickly create many questions at once, use the **Import from spreadsheet** tab.
+**QuizWitz-kirjasto**-välilehdellä voit hakea ja tuoda kysymyksiä, kierroksia tai visoja, jotka olet luonut itse tai jotka muut tekijät ovat luoneet.
 
-1. Open a round
-2. Click the **Import from spreadsheet** tab
-3. Paste rows of **tab-separated** values (copied from Excel, Google Sheets, etc.)
-4. Click **Import questions**
+1. Avaa kierros, johon haluat tuoda sisältöä
+2. Napsauta **QuizWitz-kirjasto**-välilehteä
+3. Käytä suodattimia, kuten kieltä, kokoelmaa, tyyppiä, kategoriaa tai tunnisteita
+4. Valitse yksi tai useampi kohde
+5. Lisää valittu sisältö visaasi napsauttamalla **Lisää X kohdetta**
 
-![Import from spreadsheet](/images/import/import-from-spreadsheet.png)
+![QuizWitz-kirjasto](/images/import/import-from-quizwitz.png)
 
----
-
-### 🗂️ Format for pasting
-
-Each row must contain the following columns in this exact order:
-
-1. **Short question** - Displayed on the player screen
-2. **Correct answer**
-3. **Wrong answer 1** (leave blank for open questions)
-4. **Wrong answer 2**
-5. **Wrong answer 3**
-6. **Short feedback** - Displayed on the player screen after answering
-7. **Long question** _(optional)_ - Displayed on the quizmaster screen
-8. **Long feedback** _(optional)_ - Explanation for the quizmaster to read aloud
-
-> 📌 The last two columns are only used in [QuizWitz Live](../quizmaster/001-introduction.md), but they must still be included (even if left empty).
+> ✅ Käytä tätä tapaa, kun haluat hyödyntää laadukasta sisältöä uudelleen tai yhdistää useita julkisia Round-Aboutteja laajemmaksi visaksi.
 
 ---
 
-## ✅ After importing
+## 📋 Tuonti laskentataulukosta
 
-Whether importing from the library or a spreadsheet:
+Kun haluat luoda nopeasti monta kysymystä kerralla, käytä **Tuo taulukosta** -välilehteä.
 
-- Review your questions for formatting and clarity
-- Update any metadata like category, round type, or attachments
-- Don’t forget to **save your quiz**
+1. Avaa kierros
+2. Napsauta **Tuo taulukosta** -välilehteä
+3. Liitä rivejä **sarkaimella erotettuja** arvoja (kopioituna Excelistä, Google Sheetsistä tms.)
+4. Napsauta **Tuo kysymyksiä**
 
-📘 Want to enhance your questions further? Continue in the [Writing questions guide](../editor/005-writing-questions.md).
+![Tuonti laskentataulukosta](/images/import/import-from-spreadsheet.png)
+
+---
+
+### 🗂️ Liitettävän sisällön muoto
+
+Jokaisella rivillä on oltava seuraavat sarakkeet täsmälleen tässä järjestyksessä:
+
+1. **Lyhyt kysymys** - Näytetään pelaajan näytöllä
+2. **Oikea vastaus**
+3. **Väärä vastaus 1** (jätä tyhjäksi avoimissa kysymyksissä)
+4. **Väärä vastaus 2**
+5. **Väärä vastaus 3**
+6. **Lyhyt palaute** - Näytetään pelaajan näytöllä vastaamisen jälkeen
+7. **Pitkä kysymys** _(valinnainen)_ - Näytetään visamestarin näytöllä
+8. **Pitkä palaute** _(valinnainen)_ - Selitys, jonka visamestari lukee ääneen
+
+> 📌 Kahta viimeistä saraketta käytetään vain [QuizWitz Live](../quizmaster/001-introduction.md) -tilassa, mutta ne on silti otettava mukaan (vaikka ne jätettäisiin tyhjiksi).
+
+---
+
+## ✅ Tuonnin jälkeen
+
+Toitpa kysymykset kirjastosta tai laskentataulukosta:
+
+- Tarkista kysymystesi muotoilu ja selkeys
+- Päivitä metatiedot, kuten kategoria, kierrostyyppi tai liitteet
+- Muista **tallentaa visasi**
+
+📘 Haluatko parantaa kysymyksiäsi entisestään? Jatka [Kysymysten kirjoittaminen -oppaaseen](../editor/005-writing-questions.md).
