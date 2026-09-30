@@ -1,43 +1,43 @@
 ---
 id: trivia
-title: Trivia (regular round)
+title: Trivia (tavallinen kierros)
 ---
 
-# ❓ Trivia (regular round)
+# ❓ Trivia (tavallinen kierros)
 
-The **Trivia** round is the classic, default round type in QuizWitz. It presents a series of questions to all players - ideal for general knowledge, themed quizzes, or warm-up rounds.
-
----
-
-## 📝 How it works
-
-- Supports a mix of question types (multiple choice, open questions, image map, etc).
-- Players answer each question individually, following the round’s settings for feedback and scoring.
-- Great for testing broad knowledge or mixing up topics.
+**Trivia**-kierros on QuizWitzin klassinen oletuskierrostyyppi. Se esittää kaikille pelaajille sarjan kysymyksiä - ihanteellinen yleistietoon, teemavisoihin tai lämmittelykierroksiin.
 
 ---
 
-## ⚙️ Recommended settings
+## 📝 Näin se toimii
 
-- **Question feedback:** By default, players see feedback after every question. You can group feedback at the end of the round if you prefer (see [round options](../editor/008-round-options.md)).
-- **Random question order:** Can be enabled for variety.
-- **Timer:** Set per question, or adjust round defaults.
-
----
-
-## 🏆 Scoring
-
-- Each question uses its own scoring type (time-based, fixed, etc) as configured.
-- For more about scoring and customization, see [round scoring settings](../editor/008-round-options.md#scoring).
+- Tukee eri kysymystyyppien yhdistelmää (monivalinta, avoimet kysymykset, kuvakartta jne.).
+- Pelaajat vastaavat jokaiseen kysymykseen yksin kierroksen palaute- ja pisteytysasetusten mukaisesti.
+- Sopii hyvin laajan yleistiedon testaamiseen tai aiheiden sekoittamiseen.
 
 ---
 
-## 💡 Tips
+## ⚙️ Suositellut asetukset
 
-- **Mix question types:** Add variety for engagement.
-- **Keep it balanced:** Alternate easy and tough questions to keep players motivated.
-- **Use media:** Attach images, audio, or video for richer content.
+- **Kysymyksen palaute:** Oletuksena pelaajat näkevät palautteen jokaisen kysymyksen jälkeen. Voit halutessasi koota palautteen kierroksen loppuun (katso [kierroksen asetukset](../editor/008-round-options.md)).
+- **Satunnainen kysymysjärjestys:** Voidaan ottaa käyttöön vaihtelun vuoksi.
+- **Ajastin:** Aseta kysymyskohtaisesti tai muuta kierroksen oletuksia.
 
 ---
 
-For more about available question types, see the [question type overview](../question-types/000-question-types.md).
+## 🏆 Pisteytys
+
+- Jokainen kysymys käyttää omaa pisteytystyyppiään (aikaan perustuva, kiinteä jne.) asetusten mukaisesti.
+- Lisätietoja pisteytyksestä ja mukauttamisesta on sivulla [kierroksen pisteytysasetukset](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Vinkit
+
+- **Sekoita kysymystyyppejä:** Vaihtelu pitää pelaajat mukana.
+- **Pidä tasapaino:** Vuorottele helppoja ja vaikeita kysymyksiä, jotta pelaajat pysyvät motivoituneina.
+- **Käytä liitteitä:** Liitä kuvia, ääntä tai videota rikastamaan sisältöä.
+
+---
+
+Lisätietoja käytettävissä olevista kysymystyypeistä on [kysymystyyppien yleiskatsauksessa](../question-types/000-question-types.md).
