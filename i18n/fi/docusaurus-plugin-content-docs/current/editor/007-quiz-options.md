@@ -1,83 +1,83 @@
 ---
 id: quiz-options
-title: Quiz options
+title: Visan asetukset
 ---
 
-# ⚙️ Quiz options
+# ⚙️ Visan asetukset
 
-When creating a quiz, you can open the **Quiz settings** panel to configure global behavior and presentation options. These settings apply to the **entire quiz**.
+Kun luot visaa, voit avata **Visan asetukset** -paneelin ja määrittää koko visaa koskevan toiminnan ja esitystavan. Nämä asetukset koskevat **koko visaa**.
 
-| ![Open quiz options](/images/open-quiz-options.png) | ![Quiz options](/images/quiz-options.png) |
-| :-------------------------------------------------: | :---------------------------------------: |
-|           _Opening the quiz options panel_          |          _Quiz settings overview_         |
-
----
-
-## 🌐 Languages
-
-Select the language in which you're writing the quiz. You can add additional translations later.
+| ![Visan asetusten avaaminen](/images/open-quiz-options.png) | ![Visan asetukset](/images/quiz-options.png) |
+| :---------------------------------------------------------: | :------------------------------------------: |
+|               _Visan asetuspaneelin avaaminen_              |        _Yleiskatsaus visan asetuksiin_       |
 
 ---
 
-## 🎨 Themes
+## 🌐 Kielet
 
-Choose a visual theme for your quiz.
-
-- The default theme is **QuizWitz**
-- Your organization may have access to custom themes
-- Themes affect background, colors, and layout
-
-📘 See the [Emerald theme documentation](../advanced/011-emerald-theme.md) for more details on customizing visuals with this theme.
+Valitse kieli, jolla kirjoitat visan. Voit lisätä käännöksiä myöhemmin.
 
 ---
 
-## 📎 Attachments
+## 🎨 Teemat
 
-Enhance your quiz with visuals, audio, or video in specific slots:
+Valitse visallesi visuaalinen teema.
 
-- **Before quiz** - Shown when the quiz starts
-- **After quiz** - Played after the final results screen
-- **Client logo / alternative logo** - Displayed throughout the quiz interface
-- **Wait screen** - Displayed between questions in live games (1920×1080 image recommended)
-- **Background** - Optional background replacement (depends on theme)
-- **Connect screen** - Used in [Live](../quizmaster/001-introduction.md) and [Conference](../tutorials/conference-booth) modes:
-  - **Images** - Fullscreen background visuals
-  - **Audio** - Looped music (max 15 min)
-  - **Video** - Played every 5 minutes, useful for ads or instructions
+- Oletusteema on **QuizWitz**
+- Organisaatiollasi voi olla käytössä omia teemoja
+- Teemat vaikuttavat taustaan, väreihin ja asetteluun
 
-🎥 You can use our [ready-made instructional videos](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) to help players connect.
-
-- **During game outro** - (Audio only) Plays over the winner reveal screen
-
-📘 For technical details and recommendations, see the [attachments guide](../editor/006-attachments.md).
+📘 Lisätietoja visuaalisen ilmeen mukauttamisesta tällä teemalla löydät [Emerald-teeman dokumentaatiosta](../advanced/011-emerald-theme.md).
 
 ---
 
-## 🔧 Extra options
+## 📎 Liitteet
 
-Optional settings for customizing gameplay and visibility:
+Rikasta visaasi kuvilla, äänellä tai videolla tietyissä paikoissa:
 
-- **Enable multiplayer** - Default ON. Allows party play with friends
-- **Random round order** - Shuffle the order of rounds
-  > ⚠️ Not recommended when preparing for [QuizWitz Live](../quizmaster/001-introduction.md)
-- **Allow users to rate questions** - Lets players rate each question after a round
-- **Enable comments** - Allow feedback after publishing
-- **Speed up when all answered** - If enabled, the game skips ahead when all players have answered
-  > ⏱️ Recommended when using **Time-based scoring**
+- **Ennen visaa** - Näytetään, kun visa alkaa
+- **Visan jälkeen** - Toistetaan lopputulosnäytön jälkeen
+- **Asiakkaan logo / vaihtoehtoinen logo** - Näytetään koko visan käyttöliittymässä
+- **Odotusnäyttö** - Näytetään kysymysten välillä live-peleissä (suositus 1920×1080-kuva)
+- **Tausta** - Valinnainen taustan korvaava kuva (riippuu teemasta)
+- **Liittymisnäyttö** - Käytetään [Live](../quizmaster/001-introduction.md)- ja [konferenssitiloissa](../tutorials/conference-booth):
+  - **Kuvat** - Koko näytön taustakuvat
+  - **Ääni** - Silmukkana toistettava musiikki (enintään 15 min)
+  - **Video** - Toistetaan 5 minuutin välein, hyödyllinen mainoksiin tai ohjeisiin
+
+🎥 Voit käyttää [valmiita opetusvideoitamme](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) auttamaan pelaajia liittymään.
+
+- **Pelin outron aikana** - (Vain ääni) Toistetaan voittajan paljastusnäytön aikana
+
+📘 Teknisiä tietoja ja suosituksia löydät [liiteoppaasta](../editor/006-attachments.md).
 
 ---
 
-## 📤 Share or embed
+## 🔧 Lisäasetukset
 
-Generates share links or embed code with advanced game settings.
+Valinnaisia asetuksia pelin ja näkyvyyden mukauttamiseen:
+
+- **Ota moninpeli käyttöön** - Oletuksena PÄÄLLÄ. Mahdollistaa seurapelaamisen ystävien kanssa
+- **Satunnainen kierrosjärjestys** - Sekoita kierrosten järjestys
+  > ⚠️ Ei suositella, kun valmistaudut [QuizWitz Live](../quizmaster/001-introduction.md) -peliin
+- **Salli käyttäjien arvioida kysymyksiä** - Pelaajat voivat arvioida jokaisen kysymyksen kierroksen jälkeen
+- **Ota kommentit käyttöön** - Salli palaute julkaisun jälkeen
+- **Nopeuta, kun kaikki ovat vastanneet** - Jos tämä on käytössä, peli siirtyy eteenpäin, kun kaikki pelaajat ovat vastanneet
+  > ⏱️ Suositellaan, kun käytössä on **Aikaan perustuva pisteytys**
 
 ---
 
-## 📜 Quizmaster copy
+## 📤 Jaa tai upota
 
-Add custom quizmaster instructions for:
+Luo jakolinkkejä tai upotuskoodin pelin lisäasetuksilla.
 
-- **Quiz introduction**
-- **Quiz outro**
+---
 
-These are visible on the [Quizmaster App](../quizmaster/001-introduction.md) when using QuizWitz Live.
+## 📜 Visamestarin tekstit
+
+Lisää omia ohjeita visamestarille:
+
+- **Visan esittely**
+- **Visan outro**
+
+Nämä näkyvät [Quizmaster-sovelluksessa](../quizmaster/001-introduction.md), kun käytät QuizWitz Live -tilaa.
