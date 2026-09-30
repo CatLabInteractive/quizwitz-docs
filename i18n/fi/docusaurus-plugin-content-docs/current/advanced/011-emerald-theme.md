@@ -1,69 +1,69 @@
 ---
 id: emerald-theme
-title: Emerald theme
+title: Emerald-teema
 ---
 
-# Emerald theme
+# Emerald-teema
 
-The Emerald theme is the easiest way to customize the look of your QuizWitz game. By default, the theme is a clean blue / green style with vivid option colors, but by combining quiz attachments and theme modifiers you can change the way it looks - drastically.
+Emerald-teema on helpoin tapa mukauttaa QuizWitz-pelisi ulkoasua. Oletuksena teema on siisti sini-vihreä tyyli eloisine vaihtoehtoväreineen, mutta yhdistelemällä visan liitteitä ja teeman muokkaimia voit muuttaa sen ulkoasua - rajusti.
 
 :::tip
-You can use our [theme tester](https://client.quizwitz.com/test.html?theme=emerald) to see what your settings will look like.
+[Teematestaajallamme](https://client.quizwitz.com/test.html?theme=emerald) näet, miltä asetuksesi näyttävät.
 :::
 
-![A screenshot of the emerald theme](/images/emerald/emerald.png)
+![Kuvakaappaus Emerald-teemasta](/images/emerald/emerald.png)
 
-## Select the Emerald theme
+## Valitse Emerald-teema
 
-In your **Quiz settings**, select **Theme** and enable **Emerald**.
+Valitse **Visan asetuksissa** kohta **Teema** ja ota käyttöön **Emerald**.
 
-You can test a quiz using the Emerald theme [here](https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default).
+Voit testata Emerald-teemaa käyttävää visaa [täällä](https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default).
 
-![A screenshot of the quiz settings](/images/emerald/quiz-settings.png)
+![Kuvakaappaus visan asetuksista](/images/emerald/quiz-settings.png)
 
-## Attachments
+## Liitteet
 
-### Quiz attachments
+### Visan liitteet
 
-By far the easiest way to change the look and feel of the game is by attaching images to your quiz. Open the **Quiz settings** and scroll down to the **Attachments** section. Here you can upload images that will be used as background, client logo, connect - and wait screens (for conference - and live quizzes), and more.
+Ylivoimaisesti helpoin tapa muuttaa pelin ilmettä ja tunnelmaa on liittää visaan kuvia. Avaa **Visan asetukset** ja vieritä alas **Liitteet**-osioon. Täällä voit ladata kuvia, joita käytetään taustana, asiakkaan logona, liittymis- ja odotusnäyttöinä (konferenssi- ja live-visoissa) ja muuhun.
 
-![A screenshot of the quiz attachments](/images/emerald/quiz-attachments.png)
+![Kuvakaappaus visan liitteistä](/images/emerald/quiz-attachments.png)
 
-### Round attachments
+### Kierroksen liitteet
 
-You can also upload images or videos that will be played before and after the game. This goes for rounds as well: find an image that you want to use as round introduction, go to **round settings**, disable **Show round intro** to hide the default round introduction, and upload your image or video as **Show before round**. When the round starts, the image or video will be displayed instead of the default introduction.
+Voit myös ladata kuvia tai videoita, jotka toistetaan ennen peliä ja sen jälkeen. Sama pätee kierroksiin: etsi kuva, jota haluat käyttää kierroksen esittelynä, siirry **kierroksen asetuksiin**, poista käytöstä **Näytä kierroksen intro**, jolloin oletusesittely piilotetaan, ja lataa kuvasi tai videosi kohtaan **Näytä ennen kierrosta**. Kun kierros alkaa, kuva tai video näytetään oletusesittelyn sijaan.
 
-![A screenshot of the round attachments](/images/emerald/round-settings.png)
+![Kuvakaappaus kierroksen liitteistä](/images/emerald/round-settings.png)
 
 :::tip
-Use images and videos of a 1920 x 1080 resolution for best results.
+Käytä parhaan tuloksen saamiseksi kuvia ja videoita, joiden resoluutio on 1920 x 1080.
 :::
 
 :::info
-After playing with the attachments, we end up with something [like this](https://play.quizwitz.com/11487:ACz546ejAV/emerald-theme-tutorial-background-logo).
+Kun liitteillä on leikitelty, lopputulos on jotain [tällaista](https://play.quizwitz.com/11487:ACz546ejAV/emerald-theme-tutorial-background-logo).
 :::
 
-![A screenshot of the emerald theme with quiz attachments](/images/emerald/emerald-with-attachments.png)
+![Kuvakaappaus Emerald-teemasta visan liitteiden kanssa](/images/emerald/emerald-with-attachments.png)
 
-### Music
+### Musiikki
 
-All music in the game can be replaced with attachments as well. Any audio files uploaded in the **during question** slots will be played during the question countdown.
+Myös kaiken pelin musiikin voi korvata liitteillä. Kaikki **kysymyksen aikana** -paikkoihin ladatut äänitiedostot toistetaan kysymyksen lähtölaskennan aikana.
 
-## Emerald theme modifiers
+## Emerald-teeman muokkaimet
 
-In addition to attachments, you can also manipulate the Emerald theme with **query parameters**. These are parameters you can add to the **advanced game options** URL - and they change the look of the theme.
+Liitteiden lisäksi voit muokata Emerald-teemaa myös **kyselyparametreilla**. Nämä ovat parametreja, joita voit lisätä **pelin lisäasetusten** URL-osoitteeseen - ja ne muuttavat teeman ulkoasua.
 
-For this, we will start with an example quiz (without any attachments):  
+Aloitetaan tätä varten esimerkkivisasta (ilman liitteitä):  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 
-When you start the above quiz, the game will be in the default Emerald style. Let's change that.
+Kun aloitat yllä olevan visan, peli on Emeraldin oletustyylissä. Muutetaan sitä.
 
 :::tip
-The easiest way to experiment with these parameters is by using our [theme tester](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).  
-When you are done experimenting, you can copy - paste the parameters to your advanced game options URL.
+Helpoin tapa kokeilla näitä parametreja on käyttää [teematestaajaamme](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).  
+Kun olet kokeillut tarpeeksi, voit kopioida ja liittää parametrit pelin lisäasetusten URL-osoitteeseen.
 :::
 
-The available modifiers are:
+Käytettävissä olevat muokkaimet ovat:
 
 - backgroundColor
 - mainColor
@@ -71,23 +71,23 @@ The available modifiers are:
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
-- optionColors (4 colors, comma - separated)
-- optionBorderColors (4 colors, comma - separated)
+- optionColors (4 väriä, pilkuilla erotettuina)
+- optionBorderColors (4 väriä, pilkuilla erotettuina)
 
-Additionally, you can set a default font:
+Lisäksi voit määrittää oletusfontin:
 
 - defaultFont
 - headerFont
 
-These fonts must be URLs to publicly available font files.
+Näiden fonttien on oltava julkisesti saatavilla olevien fonttitiedostojen URL-osoitteita.
 
-Each of these modifiers can contain a single color in HTML hex format (ff0000), or a linear gradient by providing multiple colors divided by a minus symbol ( - for example ff1b6b-45caff). (Note that the # symbol should not be added.)
+Kukin näistä muokkaimista voi sisältää yhden värin HTML-heksamuodossa (ff0000) tai lineaarisen liukuvärin, kun annat useita värejä miinusmerkillä erotettuina ( - esimerkiksi ff1b6b-45caff). (Huomaa, että #-merkkiä ei pidä lisätä.)
 
 :::note
-The query parameters must start with a question mark ( ? ) and each parameter must be divided with an ampersand ( & ). For more information on query parameters, visit [wikipedia](https://en.wikipedia.org/wiki/Query_string).
+Kyselyparametrien on alettava kysymysmerkillä ( ? ) ja parametrit on erotettava toisistaan et-merkillä ( & ). Lisätietoja kyselyparametreista löydät [Wikipediasta](https://en.wikipedia.org/wiki/Query_string).
 :::
 
-By adding these parameters to your game URL, you can modify the colors in the theme:  
+Lisäämällä nämä parametrit pelisi URL-osoitteeseen voit muuttaa teeman värejä:  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
-![A screenshot of the Emerald theme with custom modifiers](/images/emerald/theme_properties.png)
+![Kuvakaappaus Emerald-teemasta omilla muokkaimilla](/images/emerald/theme_properties.png)
