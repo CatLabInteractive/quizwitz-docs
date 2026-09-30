@@ -1,39 +1,39 @@
 ---
 id: piece-of-pie
-title: Piece of Pie
+title: Piirakanpala
 ---
 
-# 🥧 Piece of Pie
+# 🥧 Piirakanpala
 
-In a **Piece of Pie** round, teamwork pays off! The total points available for each question depend on the number of players, and are then split between all players (or teams) who answer the question correctly.
-
----
-
-## 📝 How it works
-
-- **Total points = base points × number of players (or teams).**
-  - Example: If a question is worth 100 points and there are 20 players, 2,000 points are at stake.
-- After the question, the **total points are divided equally** among everyone who answered correctly.
-  - Example: If 5 players answered correctly, each of them gets 400 points.
-- If everyone gets it right, everyone gets the same (lower) share. If only one player is correct, they get the whole “pie”!
+**Piirakanpala**-kierroksella yhteistyö kannattaa! Kunkin kysymyksen jaossa oleva kokonaispistemäärä riippuu pelaajien määrästä, ja se jaetaan kaikkien kysymykseen oikein vastanneiden pelaajien (tai joukkueiden) kesken.
 
 ---
 
-## ⚙️ Time-based scoring
+## 📝 Näin se toimii
 
-- **Time-based scoring can be enabled** (and is enabled by default).
-- In that case, the displayed points are the _maximum_ you could win for a fast and correct answer.
-- Your share of the “pie” will be adjusted for your speed _and_ the number of other correct answers.
-- For details, see the [scoring section](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips
-
-- **Encourage unique knowledge!** The fewer people who get it right, the bigger the reward.
-- **Speed still matters** if time-based scoring is on, but sharing the “pie” means you want to be both fast and correct.
-- Works well for questions where there’s a single clear answer, or to reward players who think outside the box.
+- **Kokonaispisteet = peruspisteet × pelaajien (tai joukkueiden) määrä.**
+  - Esimerkki: Jos kysymys on 100 pisteen arvoinen ja pelaajia on 20, pelissä on 2 000 pistettä.
+- Kysymyksen jälkeen **kokonaispisteet jaetaan tasan** kaikkien oikein vastanneiden kesken.
+  - Esimerkki: Jos 5 pelaajaa vastasi oikein, kukin heistä saa 400 pistettä.
+- Jos kaikki vastaavat oikein, kaikki saavat saman (pienemmän) osuuden. Jos vain yksi pelaaja vastaa oikein, hän saa koko ”piirakan”!
 
 ---
 
-For more about round settings and configuration, see [Round options](../editor/008-round-options.md).
+## ⚙️ Aikaan perustuva pisteytys
+
+- **Aikaan perustuvan pisteytyksen voi ottaa käyttöön** (ja se on oletuksena käytössä).
+- Tällöin näytetyt pisteet ovat _enimmäismäärä_, jonka voit voittaa nopealla ja oikealla vastauksella.
+- Osuutesi ”piirakasta” määräytyy nopeutesi _ja_ muiden oikeiden vastausten määrän mukaan.
+- Lisätietoja on [pisteytysosiossa](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Vinkit
+
+- **Palkitse harvinaista tietoa!** Mitä harvempi vastaa oikein, sitä suurempi palkinto.
+- **Nopeudella on yhä merkitystä**, jos aikaan perustuva pisteytys on käytössä, mutta ”piirakan” jakaminen tarkoittaa, että kannattaa olla sekä nopea että oikeassa.
+- Toimii hyvin kysymyksissä, joihin on yksi selvä vastaus, tai palkitsemaan pelaajia, jotka ajattelevat laatikon ulkopuolelta.
+
+---
+
+Lisätietoja kierroksen asetuksista ja määrityksistä on sivulla [Kierroksen asetukset](../editor/008-round-options.md).
