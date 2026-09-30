@@ -1,28 +1,28 @@
 ---
 id: department-elimination
-title: Department Elimination
+title: Osastot - Pudotus
 ---
 
-# 🏢 Department elimination
+# 🏢 Osastot - Pudotus
 
-**Department elimination** is a special event that removes players from a specific department, using the same elimination criteria as the standard [Elimination](050-elimination.md) round.
-
----
-
-## 📝 How it works
-
-- When this event is triggered, only players or teams belonging to the selected department are considered for elimination.
-- The elimination criteria are flexible:
-  - **Kick the lowest ranked in the department** until a set number of players remain
-  - **Kick the highest ranked in the department** until a set number remain
-  - **Kick a specific number of lowest ranked** in the department
-  - **Kick a specific number of highest ranked** in the department
-- The number of players to keep or eliminate can be set as an exact number or percentage.
+**Osastot - Pudotus** on erityinen tapahtuma, joka poistaa pelaajia tietystä osastosta käyttäen samoja pudotusehtoja kuin tavallinen [Pudotus](050-elimination.md)-kierros.
 
 ---
 
-> Department elimination lets you run knockouts within a group or department, perfect for tournaments or themed competitions.
+## 📝 Näin se toimii
+
+- Kun tapahtuma käynnistyy, pudotettaviksi harkitaan vain valittuun osastoon kuuluvia pelaajia tai joukkueita.
+- Pudotusehdot ovat joustavat:
+  - **Pudota osaston alimmaksi sijoittuneita**, kunnes jäljellä on määrätty määrä pelaajia
+  - **Pudota osaston korkeimmalle sijoittuneita**, kunnes jäljellä on määrätty määrä
+  - **Pudota tietty määrä alimmaksi sijoittuneita** osastosta
+  - **Pudota tietty määrä korkeimmalle sijoittuneita** osastosta
+- Jatkoon pääsevien tai pudotettavien pelaajien määrän voi asettaa tarkkana lukuna tai prosentteina.
 
 ---
 
-For more on elimination options, see the [Elimination round](050-elimination.md) or [Round options](../editor/008-round-options.md).
+> Osastot - Pudotus -tapahtumalla voit järjestää karsintoja ryhmän tai osaston sisällä - täydellinen turnauksiin tai teemakilpailuihin.
+
+---
+
+Lisätietoja pudotusasetuksista on sivuilla [Pudotus-kierros](050-elimination.md) ja [Kierroksen asetukset](../editor/008-round-options.md).
