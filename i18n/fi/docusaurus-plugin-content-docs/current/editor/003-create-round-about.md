@@ -1,71 +1,71 @@
 ---
 id: create-round-about
-title: Create a Round-About
+title: Luo Round-About
 ---
 
-# 🧠 Create a Round-About
+# 🧠 Luo Round-About
 
-A **Round-About** is the core quiz unit in QuizWitz - a themed set of questions presented in random order. You can create your own and play privately, or publish it to share with the community.
-
----
-
-## 🎬 Getting started
-
-From the main menu:
-
-1. Click **Create**
-2. Select **Round-About** from the dropdown
-
-![QuizWitz top navigation bar](/images/top-menu-create.png)
+**Round-About** on QuizWitzin perusyksikkö - teemoitettu kysymyssarja, jonka kysymykset esitetään satunnaisessa järjestyksessä. Voit luoda oman ja pelata sitä yksityisesti tai julkaista sen ja jakaa yhteisön kanssa.
 
 ---
 
-## ✏️ Title, language & category
+## 🎬 Aloitus
 
-Start by giving your Round-About a clear:
+Päävalikosta:
 
-- **Title** - something catchy or descriptive
-- **Language** - the language your questions are written in
-- **Category** - helps players find your Round-About later
+1. Napsauta **Luo**
+2. Valitse pudotusvalikosta **Round-About**
 
-> 🔒 You don't need to publish your Round-About to play it. Keep it private or publish it when you're ready to share.
-
-![QuizWitz create round](/images/create-round.png)
+![QuizWitzin ylänavigointipalkki](/images/top-menu-create.png)
 
 ---
 
-## ➕ Adding questions
+## ✏️ Otsikko, kieli ja kategoria
 
-Click **Add new question** to begin creating your quiz content.
+Anna aluksi Round-Aboutillesi selkeä:
 
-- Add as many questions as you like
-- Save your progress frequently
-- You can test and play your Round-About at any time
+- **Otsikko** - jotain iskevää tai kuvaavaa
+- **Kieli** - kieli, jolla kysymyksesi on kirjoitettu
+- **Kategoria** - auttaa pelaajia löytämään Round-Aboutisi myöhemmin
 
-> 📢 **To publish your Round-About**, you’ll need **at least 14 questions**. Once published, it becomes visible to the entire QuizWitz community - but you can unpublish it later if needed.
+> 🔒 Sinun ei tarvitse julkaista Round-Aboutiasi voidaksesi pelata sitä. Pidä se yksityisenä tai julkaise se, kun olet valmis jakamaan sen.
 
-Want to add questions in bulk? Use the **Import questions** feature and follow the prompts to format everything correctly.
-
-> 🛠️ More details on question types and editing can be found in the upcoming chapters.
+![QuizWitz, kierroksen luominen](/images/create-round.png)
 
 ---
 
-## ⚙️ Round-About settings
+## ➕ Kysymysten lisääminen
 
-In the **Details** section, you’ll find additional configuration options:
+Aloita visasisällön luominen napsauttamalla **Lisää uusi kysymys**.
 
-- **Translate** - Create a translated version of your Round-About in another language
-- **Category** - Choose or update your Round-About’s category
-- **Round type** - Select how questions are presented to players. You can configure:
-  - Multiple choice
-  - Open questions
-  - Lightning rounds
-  - And more
+- Lisää niin monta kysymystä kuin haluat
+- Tallenna edistymisesi usein
+- Voit testata ja pelata Round-Aboutiasi milloin tahansa
 
-> 🔗 Learn more about [round types](../round-types/000-round-types.md) and [question types](../question-types/000-question-types.md) in the advanced guides.
+> 📢 **Round-Aboutin julkaisemiseen** tarvitset **vähintään 14 kysymystä**. Julkaisun jälkeen se näkyy koko QuizWitz-yhteisölle - mutta voit tarvittaessa perua julkaisun myöhemmin.
 
-![Round-About settings](/images/round-about-details.png)
+Haluatko lisätä kysymyksiä kerralla useita? Käytä **Tuo kysymyksiä** -toimintoa ja muotoile kaikki oikein ohjeita seuraamalla.
+
+> 🛠️ Lisätietoja kysymystyypeistä ja muokkaamisesta löydät seuraavista luvuista.
 
 ---
 
-When you're happy with your content, hit publish - and share your Round-About with the world!
+## ⚙️ Round-Aboutin asetukset
+
+**Tiedot**-osiosta löydät lisää määritysvaihtoehtoja:
+
+- **Käännä** - Luo Round-Aboutistasi käännetty versio toisella kielellä
+- **Kategoria** - Valitse tai päivitä Round-Aboutisi kategoria
+- **Kierrostyyppi** - Valitse, miten kysymykset esitetään pelaajille. Voit määrittää:
+  - Monivalinta
+  - Avoimet kysymykset
+  - Salamakierrokset
+  - Ja paljon muuta
+
+> 🔗 Lue lisää [kierrostyypeistä](../round-types/000-round-types.md) ja [kysymystyypeistä](../question-types/000-question-types.md) edistyneiden käyttäjien oppaista.
+
+![Round-Aboutin asetukset](/images/round-about-details.png)
+
+---
+
+Kun olet tyytyväinen sisältöön, paina julkaise - ja jaa Round-Aboutisi koko maailman kanssa!
