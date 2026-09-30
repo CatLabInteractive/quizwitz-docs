@@ -1,42 +1,42 @@
 ---
 id: multiquestion
-title: Multiquestion
+title: Monikysymys
 ---
 
-# ❓ Multiquestion
+# ❓ Monikysymys
 
-The **Multiquestion** round gives players (or teams) the freedom to pick which question they want to answer from a set of possibilities. This makes each playthrough unique and allows for strategic choices!
-
----
-
-## 📝 How it works
-
-- For each "question group," several alternative questions are presented.
-- **Each player (or team) selects one question** from the available options to answer.
-- Every question can have its own point value, difficulty, or type (multiple choice, open, etc.).
-- Players only answer the question they picked; the rest are skipped for them.
+**Monikysymys**-kierroksella pelaajat (tai joukkueet) saavat vapaasti valita, mihin kysymykseen he vastaavat vaihtoehtojen joukosta. Näin jokaisesta pelikerrasta tulee ainutlaatuinen, ja valinnoissa voi käyttää strategiaa!
 
 ---
 
-## 🛠️ Editor setup
+## 📝 Näin se toimii
 
-- In the quiz editor, create **Question groups**. Each group contains all the alternative questions for that turn.
-- For each question in the group, set the **Label** field. This label is shown to players as the “title” or hint for their choice.
-  - Labels can be cryptic (“A, B, C”), themed (“Animals”, “History”), or descriptive (“Easy MC”, “Hard open”).
-- You can mix and match question types and point values within the same group.
-- **Duration:** Even though you can set a different timer multiplier per question, the game uses the highest value for all questions in the group (so nobody is rushed).
-- **Attachments:**
-  - _Before question_ attachments from all options are combined into one view before players make their choice.
-  - _During question_ visible attachments are not shown, but audio still plays.
+- Jokaisessa ”kysymysryhmässä” esitetään useita vaihtoehtoisia kysymyksiä.
+- **Jokainen pelaaja (tai joukkue) valitsee yhden kysymyksen** vastattavakseen tarjolla olevista vaihtoehdoista.
+- Jokaisella kysymyksellä voi olla oma pistearvonsa, vaikeustasonsa tai tyyppinsä (monivalinta, avoin jne.).
+- Pelaajat vastaavat vain valitsemaansa kysymykseen; muut ohitetaan heidän osaltaan.
 
 ---
 
-## 💡 Tips
+## 🛠️ Editorin asetukset
 
-- Offer a mix of easy and hard questions for more strategy.
-- Use labels creatively - mystery or fun themes can boost engagement.
-- Reward risk-takers with higher point questions.
+- Luo visaeditorissa **kysymysryhmiä**. Kukin ryhmä sisältää kaikki kyseisen vuoron vaihtoehtoiset kysymykset.
+- Täytä ryhmän jokaiselle kysymykselle **Tunnus**-kenttä. Nimike näytetään pelaajille valinnan ”otsikkona” tai vihjeenä.
+  - Nimikkeet voivat olla arvoituksellisia (”A, B, C”), teemaan liittyviä (”Eläimet”, ”Historia”) tai kuvailevia (”Helppo monivalinta”, ”Vaikea avoin”).
+- Voit yhdistellä samassa ryhmässä eri kysymystyyppejä ja pistearvoja.
+- **Kesto:** Vaikka voit asettaa kullekin kysymykselle eri ajastinkertoimen, peli käyttää ryhmän kaikille kysymyksille suurinta arvoa (jotta kenelläkään ei tule kiire).
+- **Liitteet:**
+  - Kaikkien vaihtoehtojen _ennen kysymystä_ näytettävät liitteet yhdistetään yhteen näkymään ennen kuin pelaajat tekevät valintansa.
+  - _Kysymyksen aikana_ näkyviä liitteitä ei näytetä, mutta ääni soi silti.
 
 ---
 
-For more on configuring questions and using attachments, see [writing questions](../editor/005-writing-questions.md) and [attachments documentation](../editor/006-attachments.md).
+## 💡 Vinkit
+
+- Tarjoa sekä helppoja että vaikeita kysymyksiä, niin strategialle on enemmän tilaa.
+- Käytä nimikkeitä luovasti - mystiset tai hauskat teemat voivat lisätä innostusta.
+- Palkitse riskinottajat suuremman pistemäärän kysymyksillä.
+
+---
+
+Lisätietoja kysymysten määrittämisestä ja liitteiden käytöstä on sivuilla [kysymysten kirjoittaminen](../editor/005-writing-questions.md) ja [liitteiden ohjeet](../editor/006-attachments.md).
