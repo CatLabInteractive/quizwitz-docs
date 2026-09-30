@@ -1,60 +1,60 @@
 ---
 id: image-map-question
-title: Image map question
+title: Kuvakarttakysymys
 ---
 
-# 🗺️ Image map
+# 🗺️ Kuvakartta
 
-In an **Image map** question, players must select the correct spot (or spots) on an image displayed on their device. This is ideal for visual identification challenges, such as "Select the Erlenmeyer flask."
-
----
-
-![Example: Image map question with flasks](/images/question-modes/image-map/image-map-example.png)
+**Kuvakartta**kysymyksessä pelaajien on valittava oikea kohta (tai kohdat) laitteellaan näkyvästä kuvasta. Se sopii erinomaisesti visuaalisiin tunnistustehtäviin, kuten ”Valitse erlenmeyerkolvi.”
 
 ---
 
-## 📝 How it works
-
-- **Question:** Clearly state what players need to find on the image.  
-  _(Example: “Select the Erlenmeyer flask.”)_
-- **Image:** Upload a high-quality image that will be shown to all players.
-- **Answer points:** Define one or more **target areas** (“points”) on the image. Each area can be set as a circle or another shape, and you determine its position and size.
-- **Selecting answers:** Players tap or click to mark their answer(s) on the image.
-  - If the answer falls **within a correct area**, they receive full points.
-  - If the answer falls **outside the correct area** but within the “almost correct” radius, they can earn partial points based on the distance (as defined by the _score easing_ setting).
-- **Multiple answers:** If the question requires more than one answer, players must select each correct area.
-  - Selecting the same area multiple times will **not** grant extra points.
-- **Scoring method:** You can configure whether points are awarded for each correct area individually, or only when the required minimum number of correct answers are selected.
+![Esimerkki: kuvakarttakysymys kolveista](/images/question-modes/image-map/image-map-example.png)
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Näin se toimii
 
-- **Number of answers:** Set the required minimum and maximum number of points a player must identify.
-- **Score easing:** Adjusts partial credit for “almost correct” answers, based on how close the selection is to the correct area (only applies to distance between correct and almost correct).
-- **Points per area:** Decide if points are awarded per correctly identified area, or only if all minimum required areas are selected.
-- **Attachment options:** Add images, audio, or video for richer context. Set attributions if publishing.
-
-See [writing questions](../editor/005-writing-questions.md) for general question settings.
-
----
-
-## ⏱️ Time-based scoring
-
-**Time-based scoring is enabled by default.** Players who answer quickly earn more points, but there’s always a fixed component (default: 75%) for a correct answer. Only 25% of the total score is influenced by how fast you answer.  
-You can turn off time-based scoring for this question type if you wish.
-
-📘 For details on scoring and time settings, see the [round options documentation](../editor/008-round-options.md#scoring).
+- **Kysymys:** Kerro selvästi, mitä pelaajien pitää löytää kuvasta.  
+  _(Esimerkki: ”Valitse erlenmeyerkolvi.”)_
+- **Kuva:** Lataa laadukas kuva, joka näytetään kaikille pelaajille.
+- **Vastauspisteet:** Määritä kuvaan yksi tai useampi **kohdealue** (”piste”). Kukin alue voi olla ympyrä tai muu muoto, ja sinä päätät sen sijainnin ja koon.
+- **Vastausten valitseminen:** Pelaajat napauttavat tai klikkaavat merkitäkseen vastauksensa kuvaan.
+  - Jos vastaus osuu **oikean alueen sisälle**, pelaaja saa täydet pisteet.
+  - Jos vastaus osuu **oikean alueen ulkopuolelle** mutta ”melkein oikein” -säteen sisälle, pelaaja voi saada osapisteitä etäisyyden perusteella (_pisteiden pehmennys_ -asetuksen mukaisesti).
+- **Useita vastauksia:** Jos kysymykseen tarvitaan useampi vastaus, pelaajien on valittava jokainen oikea alue.
+  - Saman alueen valitseminen useaan kertaan **ei** tuo lisäpisteitä.
+- **Pisteytystapa:** Voit määrittää, annetaanko pisteet jokaisesta oikeasta alueesta erikseen vai vasta, kun vaadittu vähimmäismäärä oikeita vastauksia on valittu.
 
 ---
 
-## 💡 Tips for great image map questions
+## ⚙️ Laajennetut asetukset
 
-- **Use clear, non-cluttered images** for easy identification.
-- **Define answer areas carefully** to avoid overlap or confusion.
-- **Provide constructive feedback** to help players learn from mistakes.
-- **Partial credit:** Use the “almost correct” option to reward near-misses and keep things fair.
+- **Vastausten määrä:** Määritä vähimmäis- ja enimmäismäärä kohtia, jotka pelaajan on tunnistettava.
+- **Pistekäyrä:** Säätää osapisteitä ”melkein oikein” -vastauksista sen mukaan, kuinka lähellä valinta on oikeaa aluetta (koskee vain oikean ja melkein oikean välistä etäisyyttä).
+- **Pisteet alueittain:** Päätä, annetaanko pisteet jokaisesta oikein tunnistetusta alueesta vai vain, jos kaikki vaaditut alueet on valittu.
+- **Liitteiden asetukset:** Lisää kuvia, ääntä tai videota antamaan lisää taustaa. Lisää lähdemerkinnät, jos julkaiset visan.
+
+Yleiset kysymysasetukset löydät sivulta [kysymysten kirjoittaminen](../editor/005-writing-questions.md).
 
 ---
 
-Image map questions are perfect for labeling diagrams, identifying regions, or visual “find-the-object” games!
+## ⏱️ Aikaan perustuva pisteytys
+
+**Aikaan perustuva pisteytys on oletuksena käytössä.** Nopeasti vastaavat pelaajat saavat enemmän pisteitä, mutta oikeasta vastauksesta saa aina kiinteän osuuden (oletus: 75 %). Vain 25 % kokonaispisteistä riippuu vastausnopeudesta.  
+Voit halutessasi poistaa aikaan perustuvan pisteytyksen käytöstä tässä kysymystyypissä.
+
+📘 Lisätietoja pisteytyksestä ja aika-asetuksista on [kierroksen asetusten ohjeissa](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Vinkkejä hyviin kuvakarttakysymyksiin
+
+- **Käytä selkeitä, sekavuudesta vapaita kuvia**, jotta kohteet on helppo tunnistaa.
+- **Määritä vastausalueet huolellisesti**, jotta ne eivät mene päällekkäin tai aiheuta sekaannusta.
+- **Anna rakentavaa palautetta**, jotta pelaajat oppivat virheistään.
+- **Osapisteet:** Käytä ”melkein oikein” -asetusta palkitaksesi läheltä piti -vastaukset ja pitääksesi pelin reiluna.
+
+---
+
+Kuvakarttakysymykset sopivat täydellisesti kaavioiden nimeämiseen, alueiden tunnistamiseen tai visuaalisiin ”etsi esine” -peleihin!
