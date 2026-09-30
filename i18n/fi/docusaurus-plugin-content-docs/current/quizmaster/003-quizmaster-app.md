@@ -1,107 +1,107 @@
 ---
 id: quizmaster-app
-title: Quizmaster App
+title: Quizmaster-sovellus
 ---
 
-# 🎛️ Using the Quizmaster App
+# 🎛️ Quizmaster-sovelluksen käyttö
 
-As the quizmaster, you are in full control of the QuizWitz Live game. The most important thing to know is this:
+Visamestarina ohjaat QuizWitz Live -peliä täysin. Tärkein asia, joka sinun pitää tietää, on tämä:
 
-> The game **only progresses when you click** - nothing moves on the game screen until you tell it to.
+> Peli **etenee vain, kun napsautat** - pelinäytöllä ei tapahdu mitään, ennen kuin käsket.
 
-This gives you full control over pacing and timing, but it also means you’ll be doing a lot of tapping. Let’s walk through how the app works.
-
----
-
-## 🔁 The quiz flow
-
-The quiz structure follows how it was built in the editor, but most quizzes will move through the following stages:
+Näin hallitset tahtia ja ajoitusta täysin, mutta se tarkoittaa myös, että napautat paljon. Käydään läpi, miten sovellus toimii.
 
 ---
 
-### 🎬 Round introduction
+## 🔁 Visan kulku
 
-Before each round starts, you’ll see a round introduction screen.
-
-- You control when the **round intro animation** plays.
-- Click **‘Start’** to begin the round and move to the first question.
+Visan rakenne noudattaa sitä, miten se on koottu editorissa, mutta useimmat visat etenevät seuraavien vaiheiden kautta:
 
 ---
 
-### ❓ Asking a question
+### 🎬 Kierroksen esittely
 
-Each question has its own screen in the Quizmaster App:
+Ennen jokaisen kierroksen alkua näet kierroksen esittelynäytön.
 
-![Quizmaster App - start question](/images/quizmaster-app-start-question.png)
-
-You’ll see:
-
-- **Question number** - e.g. `1.1` means the first question of the first round
-- **Question type** - such as Multiple Choice, with relevant scoring modifiers
-- **Long version of the question** - for you to read out loud
-- **Question info** - including timer duration and available points
-- **Short question** - the version shown on the game screen
-- **Start question button** - immediately starts the timer
-- **Possible answers** - displayed in the correct order (for multiple choice)
-
-The question will remain visible in your app until either:
-
-- All players have answered
-- The timer runs out
-
-> 🔎 For more on question and round types, check the **Quizmaker's Guide**.
+- Sinä päätät, milloin **kierroksen esittelyanimaatio** toistetaan.
+- Aloita kierros ja siirry ensimmäiseen kysymykseen napsauttamalla **”Aloita”**.
 
 ---
 
-### ✅ Question feedback
+### ❓ Kysymyksen esittäminen
 
-After a question ends, the correct answer is revealed. What you see depends on the question type - this example shows a multiple choice result screen:
+Jokaisella kysymyksellä on oma näyttönsä Quizmaster-sovelluksessa:
 
-![Quizmaster App - question feedback](/images/quizmaster-app-question-feedback.png)
+![Quizmaster-sovellus - aloita kysymys](/images/quizmaster-app-start-question.png)
 
-Includes:
+Näet:
 
-- **Question number**
-- **Short question text**
-- **Correct answer**
-- **Answer spread** - in numbers and percentages
-- **Long feedback** - extra info to read aloud
-- **Continue button** - advances to the next question
-- **Fastest 100 answers** - shown at the bottom of the screen
+- **Kysymyksen numero** - esim. `1.1` tarkoittaa ensimmäisen kierroksen ensimmäistä kysymystä
+- **Kysymystyyppi** - kuten monivalinta, asiaankuuluvine pisteytysmuuttujineen
+- **Kysymyksen pitkä versio** - sinun luettavaksesi ääneen
+- **Kysymyksen tiedot** - kuten ajastimen kesto ja jaossa olevat pisteet
+- **Lyhyt kysymys** - pelinäytöllä näkyvä versio
+- **Aloita kysymys -painike** - käynnistää ajastimen heti
+- **Mahdolliset vastaukset** - näytetään oikeassa järjestyksessä (monivalinnassa)
 
----
+Kysymys pysyy näkyvissä sovelluksessasi, kunnes joko:
 
-### 📊 Round outro
+- Kaikki pelaajat ovat vastanneet
+- Ajastin loppuu
 
-When a round finishes, you’ll see a **Round Outro** screen that reveals the standings so far.
-
-![Quizmaster App - round outro](/images/quizmaster-app-round-outro.png)  
-![QuizWitz - round outro game screen](/images/round-outro.png)
-
-In your app:
-
-- You’ll see the **top 100 players**, and you can scroll through them
-- Tap a player’s position to highlight them on the game screen
-- From round 2 onward, you’ll also see how many places each player has moved:
-  - **Green** = moved up
-  - **Red** = moved down
-  - **White** = no change
-
-Players will see **their own position** on their device during the outro.
+> 🔎 Lisätietoja kysymys- ja kierrostyypeistä löydät **visantekijän oppaasta**.
 
 ---
 
-### 🏆 The end of the quiz
+### ✅ Kysymyksen palaute
 
-At the end of the quiz, it’s time for a **winner reveal party** - complete with confetti and player emojis flying across the screen.
+Kun kysymys päättyy, oikea vastaus paljastetaan. Näkymä riippuu kysymystyypistä - tämä esimerkki näyttää monivalintakysymyksen tulosnäytön:
 
-![QuizWitz - game outro game screen](/images/game-outro.png)
+![Quizmaster-sovellus - kysymyksen palaute](/images/quizmaster-app-question-feedback.png)
 
-- The default setting shows the **top 12 players**
-- You can customize how many players appear in the **advanced game settings**
+Sisältää:
 
-> 🎉 Fun tip: The emoji your players choose will dance around the screen - even if they picked the smiling turd.
+- **Kysymyksen numeron**
+- **Lyhyen kysymystekstin**
+- **Oikean vastauksen**
+- **Vastausten jakauma** - lukuina ja prosentteina
+- **Pitkä palaute** - lisätietoa luettavaksi ääneen
+- **Jatka-painike** - siirtyy seuraavaan kysymykseen
+- **100 nopeinta vastausta** - näytetään näytön alareunassa
 
 ---
 
-That’s everything you need to know to run your quiz with the Quizmaster App. You’re now fully equipped to lead your event with confidence and style!
+### 📊 Kierroksen lopetus
+
+Kun kierros päättyy, näet **kierroksen lopetusnäytön**, joka paljastaa tähänastisen tilanteen.
+
+![Quizmaster-sovellus - kierroksen lopetus](/images/quizmaster-app-round-outro.png)  
+![QuizWitz - kierroksen lopetus pelinäytöllä](/images/round-outro.png)
+
+Sovelluksessasi:
+
+- Näet **100 parasta pelaajaa** ja voit selata listaa
+- Napauta pelaajan sijoitusta korostaaksesi hänet pelinäytöllä
+- Kierroksesta 2 alkaen näet myös, montako sijaa kukin pelaaja on noussut tai laskenut:
+  - **Vihreä** = noussut
+  - **Punainen** = laskenut
+  - **Valkoinen** = ei muutosta
+
+Pelaajat näkevät lopetuksen aikana **oman sijoituksensa** laitteellaan.
+
+---
+
+### 🏆 Visan loppu
+
+Visan lopussa on aika **voittajien paljastusjuhlille** - konfetteineen ja ruudun poikki lentävine pelaajaemojeineen.
+
+![QuizWitz - pelin lopetus pelinäytöllä](/images/game-outro.png)
+
+- Oletusasetus näyttää **12 parasta pelaajaa**
+- Voit muokata näytettävien pelaajien määrää **pelin lisäasetuksissa**
+
+> 🎉 Hauska vinkki: Pelaajiesi valitsemat emojit tanssivat ruudulla - vaikka joku olisi valinnut hymyilevän kakkakasan.
+
+---
+
+Siinä kaikki, mitä sinun tarvitsee tietää visasi vetämisestä Quizmaster-sovelluksella. Nyt sinulla on kaikki tarvittava tapahtumasi johtamiseen itsevarmasti ja tyylillä!
