@@ -1,40 +1,40 @@
 ---
 id: first-come-first-served
-title: First come first served
+title: Joka ensin ehtii
 ---
 
-# 🏃 First come first served
+# 🏃 Joka ensin ehtii
 
-In a **First come first served** round, speed is everything. The fastest correct answer earns the most points, and every correct answer after it earns a little less.
-
----
-
-## 📝 How it works
-
-- Questions are asked one by one, just like in a [Trivia](011-trivia.md) round.
-- When a question ends, all correct answers are ranked from fastest to slowest.
-- **The fastest correct player or team gets the full points** of the question.
-- **Every next correct answer gets a smaller share.** Each place down the ranking loses the question's points divided by the number of players or teams in the game.
-  - Example: a question is worth 1000 points and 10 teams are playing. The fastest correct team gets 1000 points, the second 900, the third 800, and so on.
-- Wrong answers earn no points and don't take a place in the ranking.
+**Joka ensin ehtii** -kierroksella nopeus on kaikki kaikessa. Nopein oikea vastaus tuo eniten pisteitä, ja jokainen sen jälkeen tullut oikea vastaus tuo hieman vähemmän.
 
 ---
 
-## ⚙️ Settings
+## 📝 Näin se toimii
 
-- **Question types:** every question type can be used.
-- **Time-based scoring:** the ranking already rewards speed. If time-based scoring is also enabled, it is applied on top of each share. Turn it off in the question settings if you only want the ranking to count.
-
-For more about scoring, see the [scoring section](../editor/008-round-options.md#scoring).
-
----
-
-## 💡 Tips
-
-- **Use questions with one clear answer:** players race to be first, so there should be no doubt about what is correct.
-- **Keep questions short:** the round is about reacting quickly, not about reading long texts.
-- **Mix it with slower rounds:** a speed round is a great change of pace after a Traditional or Common Thread round.
+- Kysymykset esitetään yksi kerrallaan, aivan kuten [Trivia](011-trivia.md)-kierroksella.
+- Kun kysymys päättyy, kaikki oikeat vastaukset asetetaan järjestykseen nopeimmasta hitaimpaan.
+- **Nopeimmin oikein vastannut pelaaja tai joukkue saa kysymyksen täydet pisteet**.
+- **Jokainen seuraava oikea vastaus saa pienemmän osuuden.** Jokainen sija alaspäin vähentää kysymyksen pisteistä osuuden, joka on pisteet jaettuna pelissä olevien pelaajien tai joukkueiden määrällä.
+  - Esimerkki: kysymys on 1000 pisteen arvoinen ja pelissä on 10 joukkuetta. Nopeimmin oikein vastannut joukkue saa 1000 pistettä, toinen 900, kolmas 800 ja niin edelleen.
+- Väärät vastaukset eivät tuo pisteitä eivätkä vie sijaa järjestyksessä.
 
 ---
 
-For more on round settings, see [Round options](../editor/008-round-options.md).
+## ⚙️ Asetukset
+
+- **Kysymystyypit:** kaikkia kysymystyyppejä voi käyttää.
+- **Aikaan perustuva pisteytys:** järjestys palkitsee jo nopeudesta. Jos myös aikaan perustuva pisteytys on käytössä, se sovelletaan kunkin osuuden päälle. Poista se käytöstä kysymyksen asetuksissa, jos haluat, että vain järjestys ratkaisee.
+
+Lisätietoja pisteytyksestä on [pisteytysosiossa](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Vinkit
+
+- **Käytä kysymyksiä, joihin on yksi selvä vastaus:** pelaajat kilpailevat siitä, kuka on ensimmäinen, joten oikeasta vastauksesta ei saa olla epäselvyyttä.
+- **Pidä kysymykset lyhyinä:** kierroksella on kyse nopeasta reagoinnista, ei pitkien tekstien lukemisesta.
+- **Vuorottele hitaampien kierrosten kanssa:** nopeuskierros on mukava tahdinvaihdos Perinteinen- tai Punainen lanka -kierroksen jälkeen.
+
+---
+
+Lisätietoja kierroksen asetuksista on sivulla [Kierroksen asetukset](../editor/008-round-options.md).
