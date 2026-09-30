@@ -1,75 +1,75 @@
 ---
 id: round-options
-title: Round options
+title: Kierroksen asetukset
 ---
 
-# 🔄 Round options
+# 🔄 Kierroksen asetukset
 
-Each round has a specific **type**. The default is **Trivia**, but we invite you to test and experiment with all available types. This page explains the settings and attachments you can configure per round.
+Jokaisella kierroksella on tietty **tyyppi**. Oletus on **Trivia**, mutta kannustamme testaamaan ja kokeilemaan kaikkia saatavilla olevia tyyppejä. Tällä sivulla kerrotaan asetuksista ja liitteistä, jotka voit määrittää kierroskohtaisesti.
 
-📘 For a detailed overview of all round types, visit the [round types documentation](../round-types/000-round-types.md).
-
----
-
-## 🔧 Configuring a round
-
-To configure a round’s options, click the gear icon in the round panel:
-
-| ![Open round options](/images/open-round-options.png) | ![Round options](/images/round-options.png) |
-| :---------------------------------------------------: | :-----------------------------------------: |
-|                _Opening round options_                |         _Round configuration panel_         |
+📘 Yksityiskohtainen yleiskatsaus kaikkiin kierrostyyppeihin löytyy [kierrostyyppien dokumentaatiosta](../round-types/000-round-types.md).
 
 ---
 
-## ⚙️ General round options
+## 🔧 Kierroksen määrittäminen
 
-The following options are available for most round types:
+Määritä kierroksen asetukset napsauttamalla kierrospaneelin rataskuvaketta:
 
-- **Only show _X_ questions** - Limits the round to a specific number of questions
-- **Random question order** - Shuffle the question order within the round
-- **Show round intro** - Display an animated title before the round begins
-- **Show round outro (interim score)** - Reveal rankings at the end of the round
-- **Group all feedback in a single screen** - Collect question feedback in one block after the round ends
-- **Show all question feedback at the end of the round** - Delay question feedback until the round ends
-- **Force feedback after each individual question** - Ensure immediate feedback
-  > ⚠️ This only takes effect in round and question types where feedback would otherwise be delayed, such as open questions or lightning rounds.
-
-📘 See [question types](../question-types/000-question-types.md) for more information on feedback timing and behavior.
+| ![Kierroksen asetusten avaaminen](/images/open-round-options.png) | ![Kierroksen asetukset](/images/round-options.png) |
+| :---------------------------------------------------------------: | :------------------------------------------------: |
+|                  _Kierroksen asetusten avaaminen_                 |            _Kierroksen määrityspaneeli_            |
 
 ---
 
-## 🏆 Scoring options {#scoring}
+## ⚙️ Kierroksen yleiset asetukset
 
-QuizWitz offers flexible scoring to keep things fair and engaging for all players.
+Seuraavat asetukset ovat käytettävissä useimmissa kierrostyypeissä:
 
-- **Time-based scoring** - Players earn more points for faster answers.
-  - For most question types, time-based points decrease **continuously per microsecond**: the faster you answer, the more points you score.
-  - For **open questions**, time-based points are divided into blocks. For example: answers in the first block (e.g., first few seconds) earn **100%** of the time-based portion, the next block earns **80%**, and so on. This helps level the playing field for slower typers.
+- **Näytä vain _X_ kysymystä** - Rajaa kierroksen tiettyyn määrään kysymyksiä
+- **Satunnainen kysymysjärjestys** - Sekoita kysymysten järjestys kierroksen sisällä
+- **Näytä kierroksen intro** - Näytä animoitu otsikko ennen kierroksen alkua
+- **Näytä kierroksen outro (välitilanne)** - Paljasta sijoitukset kierroksen lopussa
+- **Ryhmittele kaikki palaute yhdelle näytölle** - Kokoa kysymysten palaute yhteen jaksoon kierroksen päätyttyä
+- **Näytä kaikkien kysymysten palaute kierroksen lopussa** - Viivästä kysymysten palautetta kierroksen loppuun asti
+- **Pakota palaute jokaisen yksittäisen kysymyksen jälkeen** - Varmista välitön palaute
+  > ⚠️ Tällä on vaikutusta vain niissä kierros- ja kysymystyypeissä, joissa palaute muuten viivästyisi, kuten avoimissa kysymyksissä tai salamakierroksissa.
 
-- **Fixed percentage of points on time-based scoring** - You control how much of the total score is influenced by speed.
-  - By default, **75%** of the points are fixed (everyone who answers correctly gets these points, regardless of speed).
-  - Only the remaining **25%** is influenced by how quickly players respond.
-
-> 💡 Adjusting this setting lets you make rounds more knowledge-based or more speed-based, depending on your quiz style.
-
-These scoring options can be found in the round options panel when editing a round.
-
----
-
-## 📜 Quizmaster instructions
-
-You can add a custom **round introduction text** that will appear only on the [Quizmaster App](../quizmaster/001-introduction.md) at the start of the round. Use this to brief the quizmaster or add a personal touch.
+📘 Lisätietoja palautteen ajoituksesta ja toiminnasta löydät kohdasta [kysymystyypit](../question-types/000-question-types.md).
 
 ---
 
-## 📎 Attachments
+## 🏆 Pisteytysasetukset {#scoring}
 
-Enhance your round with media shown at specific moments:
+QuizWitz tarjoaa joustavan pisteytyksen, joka pitää pelin reiluna ja kiinnostavana kaikille pelaajille.
 
-- **Before round** - Displayed after the round intro animation
-- **After round** - Shown after the round outro
-- **Before round outro** - Shown after the last question, just before the outro
-- **During round outro** - _(audio only)_ Plays while rankings are displayed
+- **Aikaan perustuva pisteytys** - Pelaajat saavat enemmän pisteitä nopeammista vastauksista.
+  - Useimmissa kysymystyypeissä aikaan perustuvat pisteet vähenevät **jatkuvasti mikrosekunti kerrallaan**: mitä nopeammin vastaat, sitä enemmän pisteitä saat.
+  - **Avoimissa kysymyksissä** aikaan perustuvat pisteet jaetaan jaksoihin. Esimerkiksi ensimmäisessä jaksossa (esim. ensimmäisten sekuntien aikana) annetut vastaukset saavat **100 %** aikaan perustuvasta osuudesta, seuraava jakso **80 %** ja niin edelleen. Tämä tasoittaa tilannetta hitaammin kirjoittaville.
+
+- **Kiinteä pisteosuus aikaan perustuvassa pisteytyksessä** - Määrität, kuinka suureen osaan kokonaispisteistä nopeus vaikuttaa.
+  - Oletuksena **75 %** pisteistä on kiinteitä (jokainen oikein vastannut saa nämä pisteet nopeudesta riippumatta).
+  - Vain jäljelle jäävään **25 %:iin** vaikuttaa se, kuinka nopeasti pelaajat vastaavat.
+
+> 💡 Säätämällä tätä asetusta voit tehdä kierroksista enemmän tietoon tai enemmän nopeuteen perustuvia visasi tyylin mukaan.
+
+Nämä pisteytysasetukset löytyvät kierroksen asetuspaneelista kierrosta muokattaessa.
+
+---
+
+## 📜 Visamestarin ohjeet
+
+Voit lisätä oman **kierroksen esittelytekstin**, joka näkyy kierroksen alussa vain [Quizmaster-sovelluksessa](../quizmaster/001-introduction.md). Tämän avulla voit perehdyttää visamestarin tai lisätä henkilökohtaisen kosketuksen.
+
+---
+
+## 📎 Liitteet
+
+Rikasta kierrostasi liitteillä, jotka näytetään tietyillä hetkillä:
+
+- **Ennen kierrosta** - Näytetään kierroksen intro-animaation jälkeen
+- **Kierroksen jälkeen** - Näytetään kierroksen lopetuksen jälkeen
+- **Ennen kierroksen lopetusta** - Näytetään viimeisen kysymyksen jälkeen, juuri ennen lopetusta
+- **Kierroksen lopetuksen aikana** - _(vain ääni)_ Toistetaan, kun sijoitukset ovat näkyvissä
 - ...
 
-📘 For supported file types and usage tips, see the [attachments guide](../editor/006-attachments.md).
+📘 Tuetut tiedostotyypit ja käyttövinkit löydät [liiteoppaasta](../editor/006-attachments.md).
