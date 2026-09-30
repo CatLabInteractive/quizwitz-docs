@@ -1,37 +1,37 @@
 ---
 id: traditional
-title: Traditional
+title: Perinteinen
 ---
 
-# 📝 Traditional
+# 📝 Perinteinen
 
-A **Traditional** round simulates the classic pub quiz format, where players can change their answers until the end of the round - just like handing in your answer sheet at the pub!
-
----
-
-![Screenshot of traditional round in quiz editor](/images/round-modes/traditional-editor.png)
+**Perinteinen** kierros jäljittelee klassista pubivisaa, jossa pelaajat voivat muuttaa vastauksiaan kierroksen loppuun asti - aivan kuin vastauslomakkeen palauttaminen pubissa!
 
 ---
 
-## 📝 How it works
-
-- The round can include both multiple choice and open questions.
-- As each question is asked, a new answer field appears on the player’s device.
-- Players can **edit any of their answers** up until the round finishes.
-- All answers are automatically submitted when the timer for the last question runs out.
+![Kuvakaappaus perinteisestä kierroksesta visaeditorissa](/images/round-modes/traditional-editor.png)
 
 ---
 
-![Screenshot of traditional round in player screen](/images/round-modes/traditional-answer-screen.png)
+## 📝 Näin se toimii
+
+- Kierroksella voi olla sekä monivalintakysymyksiä että avoimia kysymyksiä.
+- Kun kukin kysymys esitetään, pelaajan laitteelle ilmestyy uusi vastauskenttä.
+- Pelaajat voivat **muokata mitä tahansa vastaustaan** kierroksen loppuun asti.
+- Kaikki vastaukset lähetetään automaattisesti, kun viimeisen kysymyksen ajastin loppuu.
 
 ---
 
-## ⚙️ Settings & notes
-
-- **No early finish:** The “Stop timer when everyone answered” setting is disabled in traditional rounds, since players can change their answers up to the end.
-- **Best for teams:** This mode is perfect for teams or players who enjoy discussing and double-checking their answers.
-- **Flexible content:** You can mix open and multiple choice questions as you see fit.
+![Kuvakaappaus perinteisestä kierroksesta pelaajan näytöllä](/images/round-modes/traditional-answer-screen.png)
 
 ---
 
-For more information about configuring round types and advanced settings, see [Round options](../editor/008-round-options.md).
+## ⚙️ Asetukset ja huomiot
+
+- **Ei ennenaikaista lopetusta:** Asetus ”Pysäytä ajastin, kun kaikki ovat vastanneet” on poissa käytöstä perinteisillä kierroksilla, koska pelaajat voivat muuttaa vastauksiaan loppuun asti.
+- **Paras joukkueille:** Tämä tila sopii täydellisesti joukkueille tai pelaajille, jotka pitävät vastausten pohtimisesta yhdessä ja niiden tarkistamisesta.
+- **Joustava sisältö:** Voit yhdistellä avoimia ja monivalintakysymyksiä haluamallasi tavalla.
+
+---
+
+Lisätietoja kierrostyyppien ja lisäasetusten määrittämisestä on sivulla [Kierroksen asetukset](../editor/008-round-options.md).
