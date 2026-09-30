@@ -1,43 +1,43 @@
 ---
 id: departments-dealers-choice
-title: Department Dealer's Choice
+title: Osastot - Dealer's Choice
 ---
 
-# 🏢 Department Dealer’s Choice
+# 🏢 Osastot - Dealer's Choice
 
-**Department Dealer’s Choice** is an interactive round type where players from a specific department take turns selecting the next category or question.
-
----
-
-## 📝 How it works
-
-- A single **department** is selected to play this round.
-- A **dealer** is chosen from within that department (by ranking or at random) to pick the next category or question.
-- Depending on settings, **only the dealer** or **all players in the dealer's department** can answer and score points for the selected question.
+**Osastot - Dealer's Choice** on vuorovaikutteinen kierrostyyppi, jossa tietyn osaston pelaajat valitsevat vuorotellen seuraavan kategorian tai kysymyksen.
 
 ---
 
-## ⚙️ Settings
+## 📝 Näin se toimii
 
-- **Department number:** Choose which department is playing this round.
-- **Dealer selection:**
-  - Lowest ranked first
-  - Highest ranked first
-  - Random
-- **Dealer department:**
-  - _Only dealer may play_ - Only the selected dealer answers the question
-  - _All players in dealer’s department may play_ - Everyone in the department can answer and score points
-- **Dealer bonus:**  
-  Set a bonus percentage for the dealer (if enabled).
+- Tälle kierrokselle valitaan pelaamaan yksi **osasto**.
+- Osaston sisältä valitaan **jakaja** (sijoituksen perusteella tai satunnaisesti) valitsemaan seuraava kategoria tai kysymys.
+- Asetuksista riippuen **vain jakaja** tai **kaikki jakajan osaston pelaajat** voivat vastata valittuun kysymykseen ja saada siitä pisteitä.
 
 ---
 
-## 💡 Tips
+## ⚙️ Asetukset
 
-- Use this mode for team-based competitions or when you want to give specific groups a chance to shine.
-- Dealer’s Choice rounds keep the game dynamic and engaging, with added strategy for departments.
+- **Osaston numero:** Valitse, mikä osasto pelaa tämän kierroksen.
+- **Jakajan valinta:**
+  - Alimmaksi sijoittunut ensin
+  - Korkeimmalle sijoittunut ensin
+  - Satunnainen
+- **Jakajan osasto:**
+  - _Vain jakaja saa pelata_ - Vain valittu jakaja vastaa kysymykseen
+  - _Kaikki jakajan osaston pelaajat saavat pelata_ - Kaikki osaston jäsenet voivat vastata ja saada pisteitä
+- **Jakajan bonus:**  
+  Aseta jakajalle bonusprosentti (jos käytössä).
 
 ---
 
-For classic Dealer’s Choice rules, see [Dealer’s Choice](024-dealers-choice.md).  
-For more team game options, check [Round options](../editor/008-round-options.md).
+## 💡 Vinkit
+
+- Käytä tätä tilaa joukkuekilpailuissa tai kun haluat antaa tietyille ryhmille tilaisuuden loistaa.
+- Dealer's Choice -kierrokset pitävät pelin vauhdikkaana ja osallistavana ja tuovat osastoille lisää strategiaa.
+
+---
+
+Klassiset Dealer's Choice -säännöt löydät sivulta [Dealer's Choice](024-dealers-choice.md).  
+Lisää joukkuepelien asetuksia löydät sivulta [Kierroksen asetukset](../editor/008-round-options.md).
