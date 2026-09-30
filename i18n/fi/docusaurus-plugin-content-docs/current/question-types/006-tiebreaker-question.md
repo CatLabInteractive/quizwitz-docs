@@ -1,35 +1,35 @@
 ---
 id: tiebreaker-question
-title: Tiebreaker question
+title: Ratkaisukysymys
 ---
 
-# 🏁 Tiebreaker question
+# 🏁 Ratkaisukysymys
 
-The Tiebreaker question is used to resolve ties at the end of a quiz.  
-Players are asked to guess a number (for example, “How many beans are in the jar?”). The player whose answer is closest to the correct value will win in case of a tie.
-
----
-
-## 📝 How it works
-
-- **No points awarded:** The tiebreaker question does not award regular points.
-- **Shadow points:** Instead, it uses “shadow points” that are only considered when two or more players have the same total score.
-- **Closest wins:** The player with the answer closest to the correct value gets the higher position in the event of a tie.
+Ratkaisukysymyksellä ratkaistaan tasatilanteet visan lopussa.  
+Pelaajia pyydetään arvaamaan luku (esimerkiksi ”Montako papua purkissa on?”). Tasatilanteessa voittaa pelaaja, jonka vastaus on lähimpänä oikeaa arvoa.
 
 ---
 
-## 💡 Tips for tiebreaker questions
+## 📝 Näin se toimii
 
-- **Ask for an obscure number:** Choose a question where the answer is not widely known and is unlikely to be guessed exactly.
-- **Encourage unique guesses:** Make sure the question has a wide possible range, so every player is likely to enter a different answer.
-- **Use only for ties:** Shadow points are only used as a tiebreaker and will not affect the main game ranking.
+- **Ei pisteitä:** Ratkaisukysymyksestä ei anneta tavallisia pisteitä.
+- **Varjopisteet:** Sen sijaan käytetään ”varjopisteitä”, jotka otetaan huomioon vain, kun kahdella tai useammalla pelaajalla on sama kokonaispistemäärä.
+- **Lähin voittaa:** Tasatilanteessa pelaaja, jonka vastaus on lähimpänä oikeaa arvoa, sijoittuu korkeammalle.
 
 ---
 
-_Example tiebreaker questions:_
+## 💡 Vinkkejä ratkaisukysymyksiin
 
-- How many jelly beans are in the jar shown on screen?
-- What is the total length (in meters) of all the rivers in Belgium combined?
-- How many bricks were used to build the Empire State Building?
-- What was the attendance at the first ever World Cup final?
+- **Kysy vähän tunnettua lukua:** Valitse kysymys, jonka vastaus ei ole yleisesti tiedossa ja jota tuskin arvataan tarkalleen.
+- **Kannusta erilaisiin arvauksiin:** Varmista, että mahdollisten vastausten vaihteluväli on laaja, jotta jokainen pelaaja todennäköisesti vastaa eri luvun.
+- **Käytä vain tasatilanteisiin:** Varjopisteitä käytetään vain tasatilanteen ratkaisemiseen, eivätkä ne vaikuta pelin varsinaisiin tuloksiin.
+
+---
+
+_Esimerkkejä ratkaisukysymyksistä:_
+
+- Montako karkkia ruudulla näkyvässä purkissa on?
+- Mikä on kaikkien Belgian jokien yhteenlaskettu pituus (metreinä)?
+- Montako tiiltä Empire State Buildingin rakentamiseen käytettiin?
+- Kuinka paljon yleisöä oli ensimmäisessä jalkapallon MM-finaalissa?
 
