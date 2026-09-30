@@ -1,37 +1,37 @@
 ---
 id: elimination
-title: Elimination
+title: Pudotus
 ---
 
-# 🚫 Elimination
+# 🚫 Pudotus
 
-**Elimination** is a special event that automatically removes players or teams from the game based on their current ranking or score.  
-It’s a useful tool for tournaments, playoffs, or adding dramatic twists in live events!
-
----
-
-## 📝 How it works
-
-- When triggered, the elimination event evaluates player rankings and **kicks out players or teams** according to your chosen rule.
-- Elimination is not a round type with questions, but an automatic filter between rounds.
+**Pudotus** on erityinen tapahtuma, joka poistaa pelaajia tai joukkueita pelistä automaattisesti heidän senhetkisen sijoituksensa tai pisteidensä perusteella.  
+Se on hyödyllinen työkalu turnauksiin, pudotuspeleihin tai dramaattisten käänteiden tuomiseen livetapahtumiin!
 
 ---
 
-## ⚙️ Elimination criteria
+## 📝 Näin se toimii
 
-You can configure the elimination event to:
-
-- **Kick lowest ranked players** until a specified number of players remain
-- **Kick highest ranked players** until a specified number of players remain
-- **Kick lowest ranked** (a set number of) players
-- **Kick highest ranked** (a set number of) players
-
-The number of players to keep (or kick) can be set as an exact number or as a percentage of all participants.
+- Kun pudotustapahtuma käynnistyy, se arvioi pelaajien sijoitukset ja **pudottaa pelaajia tai joukkueita** valitsemasi säännön mukaan.
+- Pudotus ei ole kysymyksiä sisältävä kierrostyyppi, vaan automaattinen suodatin kierrosten välillä.
 
 ---
 
-> Elimination events are perfect for knock-out formats, reducing the field between quiz rounds, or creating tense “sudden death” moments in your game!
+## ⚙️ Pudotusehdot
+
+Voit määrittää pudotustapahtuman:
+
+- **Pudottamaan alimmaksi sijoittuneita pelaajia**, kunnes jäljellä on määrätty määrä pelaajia
+- **Pudottamaan korkeimmalle sijoittuneita pelaajia**, kunnes jäljellä on määrätty määrä pelaajia
+- **Pudottamaan alimmaksi sijoittuneet** (määrätyn määrän) pelaajat
+- **Pudottamaan korkeimmalle sijoittuneet** (määrätyn määrän) pelaajat
+
+Jatkoon pääsevien (tai pudotettavien) pelaajien määrän voi asettaa tarkkana lukuna tai prosenttiosuutena kaikista osallistujista.
 
 ---
 
-For more advanced options and event types, see [Round options](../editor/008-round-options.md).
+> Pudotustapahtumat sopivat täydellisesti pudotuspelimuotoihin, osallistujamäärän karsimiseen visan kierrosten välillä tai jännittävien ”äkkikuolema”-hetkien luomiseen peliisi!
+
+---
+
+Lisäasetuksista ja tapahtumatyypeistä kerrotaan sivulla [Kierroksen asetukset](../editor/008-round-options.md).
