@@ -1,25 +1,25 @@
 ---
 id: traditional-ct
-title: Traditional (CT)
+title: Perinteinen (PL)
 ---
 
-# 📝🧵 Traditional - Common Thread
+# 📝🧵 Perinteinen - Punainen lanka
 
-A **Traditional - Common Thread** round works just like a [traditional round](030-traditional.md), but with a twist:  
-At the end of the round, the **last question** (“What was the common thread?”) is evaluated and shown first. This lets the quizmaster highlight the connection before revealing the other answers.
-
----
-
-![Screenshot of traditional round in player screen](/images/round-modes/traditional-answer-screen.png)
+**Perinteinen - Punainen lanka** -kierros toimii aivan kuten [perinteinen kierros](030-traditional.md), mutta siinä on yksi käänne:  
+Kierroksen lopussa **viimeinen kysymys** (”Mikä oli punainen lanka?”) arvioidaan ja näytetään ensimmäisenä. Näin visamestari voi nostaa yhteyden esiin ennen muiden vastausten paljastamista.
 
 ---
 
-## 📝 How it works
-
-- Players can change their answers for all questions until the round ends.
-- At the end, the last question (the common thread) is revealed and explained first.
-- All other question feedback is shown afterwards, so the quizmaster can elaborate on the connection.
+![Kuvakaappaus perinteisestä kierroksesta pelaajan näytöllä](/images/round-modes/traditional-answer-screen.png)
 
 ---
 
-For setup details and shared options, see [Traditional round](030-traditional.md) and [Round options](../editor/008-round-options.md).
+## 📝 Näin se toimii
+
+- Pelaajat voivat muuttaa kaikkien kysymysten vastauksia kierroksen loppuun asti.
+- Lopussa viimeinen kysymys (punainen lanka) paljastetaan ja selitetään ensimmäisenä.
+- Kaikkien muiden kysymysten palaute näytetään sen jälkeen, jotta visamestari voi avata yhteyttä tarkemmin.
+
+---
+
+Asetusten yksityiskohdat ja yhteiset asetukset löydät sivuilta [Perinteinen kierros](030-traditional.md) ja [Kierroksen asetukset](../editor/008-round-options.md).
