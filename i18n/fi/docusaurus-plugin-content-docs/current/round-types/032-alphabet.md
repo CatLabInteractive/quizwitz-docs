@@ -1,41 +1,41 @@
 ---
 id: alphabet
-title: Alphabet
+title: Aakkoset
 ---
 
-# 🔤 Alphabet
+# 🔤 Aakkoset
 
-An **Alphabet** round is a [Traditional round](030-traditional.md) with a twist - each question is assigned a unique label,
-and players must match their answers to the correct labeled fields. This round rewards both knowledge and deduction!
-
----
-
-![Screenshot of an alphabet round while playing](/images/round-modes/alphabet-answer-screen.png)
+**Aakkoset**-kierros on [perinteinen kierros](030-traditional.md) yhdellä käänteellä - jokaiselle kysymykselle annetaan yksilöllinen nimike,
+ja pelaajien on sijoitettava vastauksensa oikeisiin nimikkeellä merkittyihin kenttiin. Tämä kierros palkitsee sekä tiedosta että päättelystä!
 
 ---
 
-## 🏷️ Alphabet labels
-
-- Each question is assigned a unique **Label**. Traditionally, this is the **first letter of the answer**, but you can use any label you like (letters, numbers, or creative codes).
-- **All questions must be open questions** in this round type.
+![Kuvakaappaus Aakkoset-kierroksesta pelin aikana](/images/round-modes/alphabet-answer-screen.png)
 
 ---
 
-![Screenshot of an alphabet round in the quiz editor](/images/round-modes/alphabet-round.png)
+## 🏷️ Aakkosnimikkeet
+
+- Jokaiselle kysymykselle annetaan yksilöllinen **tunnus**. Perinteisesti se on **vastauksen ensimmäinen kirjain**, mutta voit käyttää mitä tahansa nimikettä (kirjaimia, numeroita tai luovia koodeja).
+- **Kaikkien kysymysten on oltava avoimia kysymyksiä** tässä kierrostyypissä.
 
 ---
 
-## 📝 How it works
-
-- As questions are asked, players see a list of answer fields - one for each question.
-- **The answer fields are not in quiz order** - instead, they’re sorted alphabetically by label.
-- Players must match their answers to the correct labeled fields (e.g. answer for question "Bear" must be entered under label "B").
-- Answers can be changed at any time until the round finishes - players can switch answers between fields as they realize their mistakes.
+![Kuvakaappaus Aakkoset-kierroksesta visaeditorissa](/images/round-modes/alphabet-round.png)
 
 ---
 
-> This round is especially fun and challenging, as it requires both knowledge and the ability to deduce which answer fits which label. Perfect for seasoned quizzers and creative rounds!
+## 📝 Näin se toimii
+
+- Kun kysymyksiä esitetään, pelaajat näkevät listan vastauskenttiä - yhden kutakin kysymystä kohden.
+- **Vastauskentät eivät ole visan järjestyksessä** - sen sijaan ne on lajiteltu nimikkeen mukaan aakkosjärjestykseen.
+- Pelaajien on sijoitettava vastauksensa oikeisiin nimikkeellä merkittyihin kenttiin (esim. vastaus ”Karhu” on syötettävä nimikkeen ”K” alle).
+- Vastauksia voi muuttaa milloin tahansa kierroksen loppuun asti - pelaajat voivat siirtää vastauksia kentästä toiseen huomatessaan virheensä.
 
 ---
 
-For shared configuration details, see [Traditional round](030-traditional.md) and [Round options](../editor/008-round-options.md).
+> Tämä kierros on erityisen hauska ja haastava, koska se vaatii sekä tietoa että kykyä päätellä, mikä vastaus sopii mihinkin nimikkeeseen. Täydellinen kokeneille visailijoille ja luoviin kierroksiin!
+
+---
+
+Yhteiset asetukset löydät sivuilta [Perinteinen kierros](030-traditional.md) ja [Kierroksen asetukset](../editor/008-round-options.md).
