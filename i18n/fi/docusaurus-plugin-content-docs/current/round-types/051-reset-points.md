@@ -1,24 +1,24 @@
 ---
 id: reset-points
-title: Reset Points
+title: Nollaa pisteet
 ---
 
-# 🔄 Reset points
+# 🔄 Nollaa pisteet
 
-**Reset points** is a special event (not a question round) that sets the score of all players or teams back to zero.  
-This can be used to level the playing field, add suspense, or introduce new phases in your quiz.
-
----
-
-## 📝 How it works
-
-- When triggered, the event **instantly sets the score of every player or team to 0**.
-- This applies to all participants, regardless of previous ranking or performance.
+**Nollaa pisteet** on erityinen tapahtuma (ei kysymyskierros), joka palauttaa kaikkien pelaajien tai joukkueiden pisteet nollaan.  
+Sillä voi tasoittaa asetelmia, lisätä jännitystä tai aloittaa visassa uusia vaiheita.
 
 ---
 
-> Use **Reset points** to create dramatic restarts, new game phases, or to give everyone a fair shot at a big final round!
+## 📝 Näin se toimii
+
+- Kun tapahtuma käynnistyy, se **asettaa jokaisen pelaajan tai joukkueen pisteet heti nollaan**.
+- Tämä koskee kaikkia osallistujia aiemmasta sijoituksesta tai suorituksesta riippumatta.
 
 ---
 
-For more ways to shape your game flow, see [Round options](../editor/008-round-options.md).
+> Käytä **Nollaa pisteet** -tapahtumaa dramaattisiin uusiin alkuihin, uusiin pelivaiheisiin tai antaaksesi kaikille reilun mahdollisuuden suuressa loppukierroksessa!
+
+---
+
+Lisää tapoja muokata pelisi kulkua löydät sivulta [Kierroksen asetukset](../editor/008-round-options.md).
