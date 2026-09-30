@@ -1,116 +1,116 @@
 ---
 id: running-a-conference-quiz
-title: Running a conference quiz
+title: Konferenssivisan vetäminen
 ---
 
-# Running a conference quiz
+# Konferenssivisan vetäminen
 
-This guide walks you through everything you need to know to run a QuizWitz quiz at a conference booth or event - from opening the quiz link to the final leaderboard.
-
----
-
-## Requirements
-
-Before you start, make sure you have:
-
-- A stable internet connection
-- The quiz URL (provided to you in advance)
-- A laptop connected to the screen that players will watch
-- **Google Chrome** - other browsers like Safari or Edge may not work correctly
+Tämä opas käy läpi kaiken, mitä sinun tarvitsee tietää QuizWitz-visan vetämisestä konferenssin esittelypisteellä tai tapahtumassa - visalinkin avaamisesta lopullisiin tuloksiin.
 
 ---
 
-## Opening the quiz for the first time
+## Vaatimukset
 
-1. Open the quiz URL in Google Chrome.  
-   If it doesn't open in Chrome automatically, right-click the link and choose **Open with → Google Chrome**.
+Varmista ennen aloittamista, että sinulla on:
 
-2. A black loading screen appears showing a percentage. This only takes a few seconds.
+- Vakaa internetyhteys
+- Visan URL-osoite (toimitettu sinulle etukäteen)
+- Kannettava tietokone, joka on yhdistetty näyttöön, jota pelaajat katsovat
+- **Google Chrome** - muut selaimet, kuten Safari tai Edge, eivät välttämättä toimi oikein
 
-3. Once loaded, the game screen appears. If prompted to log in, click **Login** - a second tab will open.
-   - Click **Login** on the sign-in page and enter the credentials provided to you.
-   - After signing in, the tab closes automatically and the quiz finishes loading.
+---
 
-4. When loading is complete, the quiz welcome screen appears.
+## Visan avaaminen ensimmäistä kertaa
 
-5. Move your cursor over the screen to reveal the control bar at the bottom.  
-   Click the **square icon** on the right to enter fullscreen mode.  
-   The quiz is now ready to play on the game screen.
+1. Avaa visan URL-osoite Google Chromessa.  
+   Jos se ei avaudu Chromessa automaattisesti, napsauta linkkiä hiiren oikealla painikkeella ja valitse **Avaa sovelluksella → Google Chrome**.
+
+2. Näkyviin tulee musta latausnäyttö, jossa näkyy prosenttiluku. Tämä kestää vain muutaman sekunnin.
+
+3. Kun lataus on valmis, pelinäyttö tulee näkyviin. Jos sinua pyydetään kirjautumaan sisään, napsauta **Kirjaudu sisään** - toinen välilehti avautuu.
+   - Napsauta kirjautumissivulla **Kirjaudu sisään** ja syötä sinulle annetut tunnukset.
+   - Kirjautumisen jälkeen välilehti sulkeutuu automaattisesti ja visa latautuu loppuun.
+
+4. Kun lataus on valmis, visan tervetulonäyttö tulee näkyviin.
+
+5. Vie kohdistin näytön päälle, niin alareunan ohjauspalkki tulee näkyviin.  
+   Siirry koko näytön tilaan napsauttamalla oikealla olevaa **neliökuvaketta**.  
+   Visa on nyt valmis pelattavaksi pelinäytöllä.
 
 :::tip
-To exit fullscreen at any time - for example, to switch to another window - press **Esc**.
+Voit poistua koko näytön tilasta milloin tahansa - esimerkiksi vaihtaaksesi toiseen ikkunaan - painamalla **Esc**.
 :::
 
 ---
 
-## Restarting the quiz for another group
+## Visan käynnistäminen uudelleen seuraavalle ryhmälle
 
-To play again after a completed game, you have a few options:
+Voit pelata uudelleen päättyneen pelin jälkeen muutamalla tavalla:
 
-- **Reload the page** - click the reload icon in Chrome's toolbar (you may need to press Esc first to exit fullscreen).
-- **Press S** - after the quiz ends, pressing **S** on the keyboard brings you back to the start screen.
+- **Lataa sivu uudelleen** - napsauta Chromen työkalupalkin uudelleenlatauskuvaketta (sinun on ehkä ensin poistuttava koko näytön tilasta painamalla Esc).
+- **Paina S** - kun visa on päättynyt, näppäimistön **S**-näppäimen painaminen vie sinut takaisin aloitusnäyttöön.
 
-If a pop-up appears asking whether you want to start a new game, click **Yes, start new game**.
+Jos näkyviin tulee ponnahdusikkuna, jossa kysytään, haluatko aloittaa uuden pelin, napsauta **Kyllä, aloita uusi peli**.
 
-Once the quiz reloads, it will remember your login and go straight to the welcome screen. Enter fullscreen again using the control bar.
+Kun visa latautuu uudelleen, se muistaa kirjautumisesi ja siirtyy suoraan tervetulonäyttöön. Siirry taas koko näytön tilaan ohjauspalkin kautta.
 
 ---
 
-## Players joining the quiz
+## Pelaajien liittyminen visaan
 
-Players join using their own smartphones in one of two ways:
+Pelaajat liittyvät omilla älypuhelimillaan jommallakummalla kahdesta tavasta:
 
-- Navigate to **www.quizwitz.tv** in their browser
-- Scan the **QR code** shown on the game screen
+- Menemällä selaimellaan osoitteeseen **www.quizwitz.tv**
+- Skannaamalla pelinäytöllä näkyvän **QR-koodin**
 
-On the join screen, players:
+Liittymisnäytöllä pelaajat:
 
-1. Enter the **8-digit code** shown on the game screen.
-2. Fill in their **name and email address**.
-3. Check the **privacy checkbox**.
-4. Tap **READY**.
+1. Syöttävät pelinäytöllä näkyvän **8-numeroisen koodin**.
+2. Täyttävät **nimensä ja sähköpostiosoitteensa**.
+3. Rastittavat **tietosuojaa koskevan valintaruudun**.
+4. Napauttavat **VALMIS**.
 
-Once joined, players see a waiting message on their phone. The game screen shows how many players are connected.
+Liityttyään pelaajat näkevät puhelimessaan odotusviestin. Pelinäyttö näyttää, montako pelaajaa on yhdistänyt.
 
 :::note
-Players can join at any time as long as the maximum number of players hasn't been reached.
+Pelaajat voivat liittyä milloin tahansa, kunhan pelaajien enimmäismäärää ei ole saavutettu.
 :::
 
 ---
 
-## Starting the game
+## Pelin aloittaminen
 
-Once the players you want are connected, press **S** on the keyboard.  
-A 5-second countdown begins, and then the quiz starts automatically.
-
----
-
-## How the quiz runs
-
-- Each question appears on the game screen with the question text, four answer options, and an image.
-- Players see the same question on their phone and tap one of the four options.
-- Players have **30 seconds** to answer. The timer is shown as a white bar at the bottom of the screen.
-- As soon as all players have answered (or time runs out), the correct answer is revealed on screen as a pie chart showing how answers were distributed.
-- Players see on their phone whether they answered correctly and how many points they earned. Faster correct answers earn more points.
-- After all questions, each player's score is revealed one by one, from lowest to highest, ending with the winner.
-- A final leaderboard is shown. Players can also see their score and ranking on their phone.
+Kun haluamasi pelaajat ovat yhdistäneet, paina näppäimistön **S**-näppäintä.  
+5 sekunnin lähtölaskenta alkaa, minkä jälkeen visa käynnistyy automaattisesti.
 
 ---
 
-## Useful controls
+## Näin visa etenee
 
-The **control bar** appears at the bottom of the screen when you move your cursor over it. It contains:
-
-| Control       | What it does                                   |
-| ------------- | ---------------------------------------------- |
-| Pause icon    | Pauses the quiz; click the play icon to resume |
-| Volume slider | Drag to the left to mute all quiz sounds       |
-| Game code     | The code players use to join                   |
+- Jokainen kysymys näkyy pelinäytöllä kysymystekstin, neljän vastausvaihtoehdon ja kuvan kera.
+- Pelaajat näkevät saman kysymyksen puhelimessaan ja napauttavat yhtä neljästä vaihtoehdosta.
+- Pelaajilla on **30 sekuntia** aikaa vastata. Ajastin näkyy valkoisena palkkina näytön alareunassa.
+- Heti kun kaikki pelaajat ovat vastanneet (tai aika loppuu), oikea vastaus paljastetaan näytöllä piirakkakaaviona, joka näyttää vastausten jakautumisen.
+- Pelaajat näkevät puhelimestaan, vastasivatko he oikein ja montako pistettä he ansaitsivat. Nopeammat oikeat vastaukset tuovat enemmän pisteitä.
+- Kaikkien kysymysten jälkeen jokaisen pelaajan pisteet paljastetaan yksi kerrallaan pienimmästä suurimpaan, ja viimeisenä paljastuu voittaja.
+- Lopulliset tulokset näytetään. Pelaajat näkevät pisteensä ja sijoituksensa myös puhelimestaan.
 
 ---
 
-## What to do if something goes wrong
+## Hyödyllisiä ohjaimia
 
-- **Quiz closed by accident?** Reopen the quiz URL. When the pop-up asks about a previous game, click **No** (or "Continue") to resume from where you left off.
-- **A player dropped out?** They can rejoin using the same code, as long as the maximum number of players hasn't been reached yet.
-- **Screen went black or froze?** Try pressing **F5** to reload, or click the reload icon in Chrome.
+**Ohjauspalkki** tulee näkyviin näytön alareunaan, kun viet kohdistimen sen päälle. Siinä on:
+
+| Ohjain                        | Mitä se tekee                                                 |
+| ----------------------------- | ------------------------------------------------------------- |
+| Taukokuvake                   | Pysäyttää visan tauolle; jatka napsauttamalla toistokuvaketta |
+| Äänenvoimakkuuden liukusäädin | Vedä vasemmalle mykistääksesi kaikki visan äänet              |
+| Pelikoodi                     | Koodi, jolla pelaajat liittyvät                               |
+
+---
+
+## Mitä tehdä, jos jokin menee pieleen
+
+- **Suljitko visan vahingossa?** Avaa visan URL-osoite uudelleen. Kun ponnahdusikkuna kysyy aiemmasta pelistä, napsauta **Ei** (tai ”Jatka”), niin jatkat siitä, mihin jäit.
+- **Putosiko pelaaja pois?** Hän voi liittyä uudelleen samalla koodilla, kunhan pelaajien enimmäismäärää ei ole vielä saavutettu.
+- **Menikö näyttö mustaksi tai jumiin?** Lataa sivu uudelleen painamalla **F5** tai napsauta Chromen uudelleenlatauskuvaketta.
