@@ -1,35 +1,35 @@
 ---
 id: intermission
-title: Intermission
+title: Tauko
 ---
 
-# ⏸️ Intermission
+# ⏸️ Tauko
 
-**Intermission** is a special event round that pauses the quiz for a break - ideal for stretching, chatting, or promoting sponsors.
-
----
-
-## 📝 How it works
-
-- During an intermission, the game screen is paused and a timer is shown.
-- **In Conference mode and Party Games:**  
-  The intermission ends when someone presses **Enter** on the game screen.
-- **In QuizWitz Live games:**  
-  The quizmaster ends the intermission from their device (tablet or smartphone).  
-  The Quizmaster App displays a timer so the quizmaster can see how long the intermission has lasted.
+**Tauko** on erityinen tapahtumakierros, joka keskeyttää visan tauon ajaksi - ihanteellinen venyttelyyn, jutusteluun tai sponsorien esittelyyn.
 
 ---
 
-## 🖼️ Attachments
+## 📝 Näin se toimii
 
-- You can upload images, logos, or videos in the round settings.
-- During the intermission, these attachments will be shown in a carousel on the game screen - great for sponsor logos, messages, or promotional videos.
-- Attachments will loop for the duration of the break.
+- Tauon aikana pelinäyttö on pysäytetty ja siinä näkyy ajastin.
+- **Konferenssitilassa ja Seurapeleissä:**  
+  Tauko päättyy, kun joku painaa pelinäytöllä **Enter**-näppäintä.
+- **QuizWitz Live -peleissä:**  
+  Visamestari päättää tauon laitteeltaan (tabletilta tai älypuhelimelta).  
+  Quizmaster-sovellus näyttää ajastimen, josta visamestari näkee, kuinka kauan tauko on kestänyt.
 
 ---
 
-> Intermissions are perfect for scheduled breaks, halftime entertainment, or showcasing important messages without interrupting the quiz flow.
+## 🖼️ Liitteet
+
+- Voit ladata kierroksen asetuksissa kuvia, logoja tai videoita.
+- Tauon aikana nämä liitteet näytetään pelinäytöllä karusellina - erinomainen sponsorien logoille, viesteille tai mainosvideoille.
+- Liitteet pyörivät silmukassa koko tauon ajan.
 
 ---
 
-For more on customizing your intermission and using attachments, see [Round options](../editor/008-round-options.md) and [Attachments guide](../editor/006-attachments.md).
+> Tauot sopivat täydellisesti suunniteltuihin taukoihin, väliaikaviihteeseen tai tärkeiden viestien esittelyyn keskeyttämättä visan kulkua.
+
+---
+
+Lisätietoja tauon mukauttamisesta ja liitteiden käytöstä on sivuilla [Kierroksen asetukset](../editor/008-round-options.md) ja [Liiteopas](../editor/006-attachments.md).
