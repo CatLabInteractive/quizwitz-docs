@@ -1,69 +1,69 @@
 ---
 id: open-question
-title: Open question
+title: Avoin kysymys
 ---
 
-# 💬 Open question
+# 💬 Avoin kysymys
 
-An open question lets players type their answer freely using their keyboard. This mode is perfect for questions where you want written responses - for example, names, numbers, or short explanations.
-
----
-
-![Example: Open question about music](/images/question-modes/open-question/open-question.png)
+Avoimessa kysymyksessä pelaajat kirjoittavat vastauksensa vapaasti näppäimistöllä. Tämä tila sopii täydellisesti kysymyksiin, joihin haluat kirjoitetun vastauksen - esimerkiksi nimiä, numeroita tai lyhyitä selityksiä.
 
 ---
 
-## 📝 How it works
-
-- **Question:** Ask for a specific answer in a freeform text field (example: “Which duo performs this song?”).
-- **Answer:** Players type in their response. You can provide multiple accepted answers for automatic validation.
-- **Attachments:** Add audio, images, or video as a clue (for example, play a music clip).
-- **Feedback:** Players see after answering if their response was marked correct or not. You can also provide additional feedback or explanations.
+![Esimerkki: avoin kysymys musiikista](/images/question-modes/open-question/open-question.png)
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Näin se toimii
 
-Open questions offer a range of settings to fit your quiz:
-
-- **Multiple accepted answers:** Add alternate spellings, abbreviations, or synonyms for more flexible auto-correction.
-- **Time-based scoring:** Reward faster answers (see “Scoring” below).
-- **Force automatic correction:** Enable this to let the game automatically mark correct answers based on your provided list.
-  - If not enabled (the default for most live games), open answers must be reviewed and scored manually using the [Jury App](../quizmaster/004-jury-app.md).
-
-For more on these options, see [writing questions](../editor/005-writing-questions.md).
+- **Kysymys:** Kysy tiettyä vastausta, joka kirjoitetaan vapaaseen tekstikenttään (esimerkki: ”Mikä duo esittää tämän kappaleen?”).
+- **Vastaus:** Pelaajat kirjoittavat vastauksensa. Voit antaa useita hyväksyttyjä vastauksia automaattista tarkistusta varten.
+- **Liitteet:** Lisää vihjeeksi ääntä, kuvia tai videota (esimerkiksi soita musiikkinäyte).
+- **Palaute:** Vastattuaan pelaajat näkevät, merkittiinkö heidän vastauksensa oikeaksi vai ei. Voit myös antaa lisäpalautetta tai selityksiä.
 
 ---
 
-## 🏆 Scoring for open questions
+## ⚙️ Laajennetut asetukset
 
-Scoring in open questions is designed to be fair, even for slower typers:
+Avoimissa kysymyksissä on useita asetuksia, joilla voit sovittaa ne visaasi:
 
-- **Time-based scoring** divides the available points into blocks, not a strict per-millisecond countdown.
-- For example, answering in the first block (e.g. first 5 seconds) gives full points; the next block gives 80%, and so on. This helps reduce the penalty for slow typers.
-- By default, only **25%** of the points depend on speed - the remaining **75%** is fixed, so everyone who answers correctly gets most of the points, regardless of typing speed.
+- **Useita hyväksyttyjä vastauksia:** Lisää vaihtoehtoisia kirjoitusasuja, lyhenteitä tai synonyymejä joustavampaa automaattista tarkistusta varten.
+- **Aikaan perustuva pisteytys:** Palkitse nopeammat vastaukset (katso ”Pisteytys” alla).
+- **Pakota automaattinen korjaus:** Ota tämä käyttöön, niin peli merkitsee oikeat vastaukset automaattisesti antamasi listan perusteella.
+  - Jos asetus ei ole käytössä (oletus useimmissa live-peleissä), avoimet vastaukset on tarkistettava ja pisteytettävä käsin [tuomaristosovelluksella](../quizmaster/004-jury-app.md).
 
-> ⚙️ **Tip:** You can further adjust scoring behavior and other settings in the [Round options](../editor/008-round-options.md).
-
----
-
-## 🧑‍⚖️ Jury review in QuizWitz Live
-
-In **QuizWitz Live**, open questions generally require a manual review with the [Jury App](../quizmaster/004-jury-app.md):
-
-- The Jury App lets jury members accept, reject, or adjust scoring for open answers.
-- Phonetic and alternative matching helps, but human judgment is essential for fair scoring and creativity.
-- For full instructions and features, see the [Jury App documentation](../quizmaster/004-jury-app.md).
+Lisätietoja näistä asetuksista on sivulla [kysymysten kirjoittaminen](../editor/005-writing-questions.md).
 
 ---
 
-## 💡 Tips for great open questions
+## 🏆 Avointen kysymysten pisteytys
 
-- **Be specific:** Tell players exactly what you want them to answer.
-- **Anticipate variations:** Add common abbreviations, alternate spellings, or synonyms to accepted answers.
-- **Use attachments:** Add audio, images, or video to make your question clearer or more engaging.
-- **Coordinate with your jury:** Make sure your jury knows what to accept for subjective or tricky answers.
+Avointen kysymysten pisteytys on suunniteltu reiluksi myös hitaammille kirjoittajille:
+
+- **Aikaan perustuva pisteytys** jakaa käytettävissä olevat pisteet jaksoihin eikä laske niitä tiukasti millisekunti kerrallaan.
+- Esimerkiksi ensimmäisessä jaksossa (esim. ensimmäisten 5 sekunnin aikana) vastaaminen antaa täydet pisteet, seuraava jakso antaa 80 % ja niin edelleen. Tämä pienentää hitaiden kirjoittajien menetystä.
+- Oletuksena vain **25 %** pisteistä riippuu nopeudesta - loput **75 %** ovat kiinteitä, joten jokainen oikein vastannut saa suurimman osan pisteistä kirjoitusnopeudesta riippumatta.
+
+> ⚙️ **Vinkki:** Voit säätää pisteytystä ja muita asetuksia tarkemmin [kierroksen asetuksissa](../editor/008-round-options.md).
 
 ---
 
-For more about attachments and feedback, see the [Attachments documentation](../editor/006-attachments.md).
+## 🧑‍⚖️ Tuomariston tarkistus QuizWitz Livessä
+
+**QuizWitz Livessä** avoimet kysymykset vaativat yleensä käsin tehtävän tarkistuksen [tuomaristosovelluksella](../quizmaster/004-jury-app.md):
+
+- Tuomaristosovelluksella tuomariston jäsenet voivat hyväksyä tai hylätä avoimia vastauksia tai muuttaa niiden pisteitä.
+- Foneettinen ja vaihtoehtoinen vertailu auttaa, mutta ihmisen harkinta on välttämätöntä reilun pisteytyksen ja luovien vastausten kannalta.
+- Täydet ohjeet ja ominaisuudet löydät [tuomaristosovelluksen ohjeista](../quizmaster/004-jury-app.md).
+
+---
+
+## 💡 Vinkkejä hyviin avoimiin kysymyksiin
+
+- **Ole täsmällinen:** Kerro pelaajille tarkalleen, mihin haluat heidän vastaavan.
+- **Ennakoi muunnelmat:** Lisää hyväksyttyihin vastauksiin yleiset lyhenteet, vaihtoehtoiset kirjoitusasut tai synonyymit.
+- **Käytä liitteitä:** Lisää ääntä, kuvia tai videota, jotta kysymyksesi on selkeämpi tai kiinnostavampi.
+- **Sovi asiat tuomariston kanssa:** Varmista, että tuomaristosi tietää, mitä hyväksyä, kun vastaukset ovat tulkinnanvaraisia tai hankalia.
+
+---
+
+Lisätietoja liitteistä ja palautteesta on [liitteiden ohjeissa](../editor/006-attachments.md).
