@@ -1,52 +1,52 @@
 ---
 id: grid-question
-title: Grid question
+title: Ruudukkokysymys
 ---
 
-# 🔲 Grid question
+# 🔲 Ruudukkokysymys
 
-In a **Grid question**, all answer options are shown as a grid of cells. Players select every cell they think is correct - for example "Select all the countries in South America" or "Which of these animals are mammals?"
-
----
-
-## 📝 How it works
-
-- **Question:** Clearly state what players should select.
-- **Options:** Enter all the cells of the grid, and mark every correct one. The options are arranged in a square grid on the player's device and on the game screen.
-- **Player input:** Players tap cells to select or deselect them, up to the maximum number of answers. When the minimum and maximum number of answers are the same, the answer is sent as soon as that many cells are selected.
-- **Wrong cells cost nothing:** selecting a wrong cell doesn't take points away.
-- **Feedback:** After answering, players see which cells were correct.
+**Ruudukkokysymyksessä** kaikki vastausvaihtoehdot näytetään ruudukkona. Pelaajat valitsevat jokaisen ruudun, jonka he uskovat oikeaksi - esimerkiksi ”Valitse kaikki Etelä-Amerikan maat” tai ”Mitkä näistä eläimistä ovat nisäkkäitä?”
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Näin se toimii
 
-- **Minimum and maximum answers:** Define how many cells a player may select. By default the maximum is the number of correct options.
-- **Points are awarded:**
-  - _For each correct answer_ (default) - players earn the question's points for every correct cell they select.
-  - _Only with the minimum number of correct answers_ - players earn the question's points once, when they select at least the minimum number of correct cells.
-
-> ⚠️ When you choose _Only with the minimum number of correct answers_, set the minimum answers to at least 1. Without a minimum, every answer - even an empty one - earns the full points.
-
-See [writing questions](../editor/005-writing-questions.md) for general question settings.
+- **Kysymys:** Kerro selvästi, mitä pelaajien pitää valita.
+- **Vaihtoehdot:** Syötä kaikki ruudukon ruudut ja merkitse jokainen oikea. Vaihtoehdot asetetaan neliön muotoiseen ruudukkoon pelaajan laitteella ja pelinäytöllä.
+- **Pelaajan syöte:** Pelaajat napauttavat ruutuja valitakseen ne tai poistaakseen valinnan, enintään vastausten enimmäismäärään asti. Kun vastausten vähimmäis- ja enimmäismäärä ovat samat, vastaus lähetetään heti, kun niin monta ruutua on valittu.
+- **Väärät ruudut eivät maksa mitään:** väärän ruudun valitseminen ei vähennä pisteitä.
+- **Palaute:** Vastattuaan pelaajat näkevät, mitkä ruudut olivat oikein.
 
 ---
 
-## 🏆 Scoring
+## ⚙️ Laajennetut asetukset
 
-Grid questions use **time-based scoring** by default: faster answers earn more points, but most of the points are fixed.
-You can turn off time-based scoring per question.
+- **Vähimmäis- ja enimmäismäärä vastauksia:** Määritä, montako ruutua pelaaja saa valita. Oletuksena enimmäismäärä on oikeiden vaihtoehtojen määrä.
+- **Pisteet annetaan:**
+  - _Jokaisesta oikeasta vastauksesta_ (oletus) - pelaajat saavat kysymyksen pisteet jokaisesta valitsemastaan oikeasta ruudusta.
+  - _Vain vähimmäismäärällä oikeita vastauksia_ - pelaajat saavat kysymyksen pisteet kerran, kun he valitsevat vähintään vähimmäismäärän oikeita ruutuja.
 
-See [Scoring options in round settings](../editor/008-round-options.md#scoring) for details.
+> ⚠️ Kun valitset _Vain vähimmäismäärällä oikeita vastauksia_, aseta vastausten vähimmäismääräksi vähintään 1. Ilman vähimmäismäärää jokainen vastaus - tyhjäkin - saa täydet pisteet.
 
----
-
-## 💡 Tips for great grid questions
-
-- **Keep the grid readable:** short option texts work best. Nine or sixteen cells make a neat square.
-- **Add convincing wrong cells:** since wrong cells cost nothing, the challenge is in finding all the right ones.
-- **Tell players how many to find:** mention it in the question, or set the minimum and maximum answers to the same number.
+Yleiset kysymysasetukset löydät sivulta [kysymysten kirjoittaminen](../editor/005-writing-questions.md).
 
 ---
 
-Grid questions are perfect for "select all that apply" challenges!
+## 🏆 Pisteytys
+
+Ruudukkokysymyksissä käytetään oletuksena **aikaan perustuvaa pisteytystä**: nopeammat vastaukset tuovat enemmän pisteitä, mutta suurin osa pisteistä on kiinteitä.
+Voit poistaa aikaan perustuvan pisteytyksen käytöstä kysymyskohtaisesti.
+
+Katso lisätietoja kohdasta [Pisteytysasetukset kierroksen asetuksissa](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Vinkkejä hyviin ruudukkokysymyksiin
+
+- **Pidä ruudukko luettavana:** lyhyet vaihtoehtotekstit toimivat parhaiten. Yhdeksän tai kuusitoista ruutua muodostaa siistin neliön.
+- **Lisää uskottavia vääriä ruutuja:** koska väärät ruudut eivät maksa mitään, haaste on löytää kaikki oikeat.
+- **Kerro pelaajille, montako pitää löytää:** mainitse se kysymyksessä tai aseta vastausten vähimmäis- ja enimmäismäärä samaksi luvuksi.
+
+---
+
+Ruudukkokysymykset sopivat täydellisesti ”valitse kaikki sopivat” -tehtäviin!
