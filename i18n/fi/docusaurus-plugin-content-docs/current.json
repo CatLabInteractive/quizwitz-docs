@@ -1,34 +1,34 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Seuraava",
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.category.For players": {
-    "message": "For players",
+    "message": "Pelaajille",
     "description": "The label for category For players in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.For quizmakers": {
-    "message": "For quizmakers",
+    "message": "Visantekijöille",
     "description": "The label for category For quizmakers in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.For quizmasters": {
-    "message": "For quizmasters",
+    "message": "Visamestareille",
     "description": "The label for category For quizmasters in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Round types": {
-    "message": "Round types",
+    "message": "Kierrostyypit",
     "description": "The label for category Round types in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Question types": {
-    "message": "Question types",
+    "message": "Kysymystyypit",
     "description": "The label for category Question types in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Advanced": {
-    "message": "Advanced",
+    "message": "Edistyneet",
     "description": "The label for category Advanced in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Tutorials": {
-    "message": "Tutorials",
+    "message": "Oppaat",
     "description": "The label for category Tutorials in sidebar tutorialSidebar"
   }
 }
