@@ -1,62 +1,62 @@
 ---
 id: list-question
-title: List question
+title: Listakysymys
 ---
 
-# 📝 List question
+# 📝 Listakysymys
 
-A **List question** asks players to provide several correct answers from a larger list - perfect for prompts like “List the first 5 presidents of the United States of America” or “Name three elements in the periodic table.”
-
----
-
-![Example: List question with US presidents](/images/question-modes/list-question/list-question.png)
+**Listakysymyksessä** pelaajien on annettava useita oikeita vastauksia laajemmasta listasta - sopii täydellisesti tehtäviin kuten ”Luettele Yhdysvaltain viisi ensimmäistä presidenttiä” tai ”Nimeä kolme alkuainetta jaksollisesta järjestelmästä.”
 
 ---
 
-## 📝 How it works
-
-- **Question:** Clearly state what you want players to list.
-- **List items:** Enter all possible correct answers.
-  - Mark some as **‘Given’** to show as examples on screen; these do NOT need to be answered.
-  - Order does **not** matter - players can enter correct answers in any order.
-- **Player input:** Players must provide a set number of answers (e.g., between 1 and 5). Points are awarded for each correct answer they submit.
-- **Attachments:** Add images, audio, or video for context. Fill in attribution if publishing.
+![Esimerkki: listakysymys Yhdysvaltain presidenteistä](/images/question-modes/list-question/list-question.png)
 
 ---
 
-## ⚙️ Expanded settings
+## 📝 Näin se toimii
 
-- **Minimum and maximum answers:** Define how many answers a player must give.
-- **Points per answer:** Points can be awarded for each correct answer, or only when the minimum number is met.
-- **Given options:** Use as in-question examples.
-- **Correction:**
-  - **Force automatic correction:** When enabled, QuizWitz automatically checks all answers (accepting small typos and variations). No jury needed.
-  - **Manual review:** When not enabled, each provided answer must be reviewed by the [Jury App](../quizmaster/004-jury-app.md).
-
----
-
-## 🏆 Scoring
-
-- **Points per correct answer:** Players earn points for each correct answer.
-- **Time-based scoring** (if enabled):  
-  Follows the **open question rules** for fairness:
-  - The available points are split into blocks of time (not by the millisecond).  
-    For example: full points in the first block, 80% in the next, and so on.
-  - **Only 25%** of the points depend on speed.  
-    The other **75%** is fixed - so even slower typers get most of the points if they answer correctly.
-  - This reduces the penalty for typing speed and makes scoring fairer for everyone.
-
-For details, see [round scoring options](../editor/008-round-options.md#scoring).
+- **Kysymys:** Kerro selvästi, mitä haluat pelaajien luettelevan.
+- **Listan kohteet:** Syötä kaikki mahdolliset oikeat vastaukset.
+  - Merkitse osa niistä **’Annetuiksi’**, jolloin ne näytetään esimerkkeinä ruudulla; niihin EI tarvitse vastata.
+  - Järjestyksellä **ei** ole väliä - pelaajat voivat syöttää oikeat vastaukset missä järjestyksessä tahansa.
+- **Pelaajan syöte:** Pelaajien on annettava määrätty määrä vastauksia (esim. 1-5). Pisteitä annetaan jokaisesta lähetetystä oikeasta vastauksesta.
+- **Liitteet:** Lisää kuvia, ääntä tai videota antamaan taustaa. Täytä lähdemerkintä, jos julkaiset visan.
 
 ---
 
-## 💡 Tips for list questions
+## ⚙️ Laajennetut asetukset
 
-- **Be specific:** Clearly define valid answers.
-- **Show examples:** Use the ‘Given’ feature.
-- **List variants:** Include common spellings/variations.
-- **Reduce jury work:** Use automatic correction if possible.
+- **Vähimmäis- ja enimmäismäärä vastauksia:** Määritä, montako vastausta pelaajan on annettava.
+- **Pisteet vastausta kohden:** Pisteet voidaan antaa jokaisesta oikeasta vastauksesta tai vasta, kun vähimmäismäärä täyttyy.
+- **Annetut vaihtoehdot:** Käytä niitä esimerkkeinä kysymyksessä.
+- **Tarkistus:**
+  - **Pakota automaattinen korjaus:** Kun asetus on käytössä, QuizWitz tarkistaa kaikki vastaukset automaattisesti (pienet kirjoitusvirheet ja muunnelmat hyväksytään). Tuomaristoa ei tarvita.
+  - **Käsin tarkistus:** Kun asetus ei ole käytössä, jokainen annettu vastaus on tarkistettava [tuomaristosovelluksella](../quizmaster/004-jury-app.md).
 
 ---
 
-For more, see [Jury App documentation](../quizmaster/004-jury-app.md).
+## 🏆 Pisteytys
+
+- **Pisteet oikeaa vastausta kohden:** Pelaajat saavat pisteitä jokaisesta oikeasta vastauksesta.
+- **Aikaan perustuva pisteytys** (jos käytössä):  
+  Noudattaa reiluuden vuoksi **avoimen kysymyksen sääntöjä**:
+  - Käytettävissä olevat pisteet jaetaan aikajaksoihin (ei millisekunnin tarkkuudella).  
+    Esimerkiksi: täydet pisteet ensimmäisessä jaksossa, 80 % seuraavassa ja niin edelleen.
+  - **Vain 25 %** pisteistä riippuu nopeudesta.  
+    Loput **75 %** ovat kiinteitä - joten hitaammatkin kirjoittajat saavat suurimman osan pisteistä, jos he vastaavat oikein.
+  - Tämä pienentää kirjoitusnopeuden vaikutusta ja tekee pisteytyksestä reilumman kaikille.
+
+Lisätietoja on sivulla [kierroksen pisteytysasetukset](../editor/008-round-options.md#scoring).
+
+---
+
+## 💡 Vinkkejä listakysymyksiin
+
+- **Ole täsmällinen:** Määritä selvästi, mitkä vastaukset kelpaavat.
+- **Näytä esimerkkejä:** Käytä ’Annettu’-toimintoa.
+- **Luettele muunnelmat:** Lisää yleiset kirjoitusasut ja muunnelmat.
+- **Vähennä tuomariston työtä:** Käytä automaattista tarkistusta aina kun mahdollista.
+
+---
+
+Lisätietoja on [tuomaristosovelluksen ohjeissa](../quizmaster/004-jury-app.md).
