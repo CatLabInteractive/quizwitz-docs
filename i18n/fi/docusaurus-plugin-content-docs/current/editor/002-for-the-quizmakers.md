@@ -1,42 +1,42 @@
 ---
 id: for-the-quizmakers
-title: Introduction
+title: Johdanto
 ---
 
-# 🛠️ Quizmaker’s guide
+# 🛠️ Visantekijän opas
 
-Welcome to the guide for quiz creators!  
-On QuizWitz, you can build and organize your own quiz content - or collect and remix content made by others.
-
----
-
-## 🧩 What can you create?
-
-As a quizmaker, you can work with:
-
-- **Round-Abouts** - Small, themed collections of questions shown in random order
-- **Full Quizzes** - Custom quizzes, combining multiple Round-Abouts in a specific sequence
-
-You can also **collect Round-Abouts** created by other members and include them in your own quizzes.
+Tervetuloa visojen tekijöiden oppaaseen!  
+QuizWitzissä voit rakentaa ja järjestää omaa visasisältöäsi - tai kerätä ja muokata muiden tekemää sisältöä.
 
 ---
 
-> 💡 **Tip:**  
-> A **Round-About** is the smallest building block in QuizWitz. It’s a short set of questions about a specific topic.  
-> Round-Abouts can be published for others to use, or kept private just for you.
+## 🧩 Mitä voit luoda?
+
+Visantekijänä voit käyttää:
+
+- **Round-Aboutit** - Pieniä, teemoitettuja kysymyskokoelmia, jotka näytetään satunnaisessa järjestyksessä
+- **Kokonaiset visat** - Omia visoja, joissa useita Round-Aboutteja yhdistetään tietyssä järjestyksessä
+
+Voit myös **kerätä muiden jäsenten luomia Round-Aboutteja** ja sisällyttää niitä omiin visoihisi.
+
+---
+
+> 💡 **Vinkki:**  
+> **Round-About** on QuizWitzin pienin rakennuspalikka. Se on lyhyt kysymyssarja tietystä aiheesta.  
+> Round-Aboutit voi julkaista muiden käyttöön tai pitää yksityisinä vain itselläsi.
 >
-> A **Full Quiz** lets you combine multiple rounds, set the order, and define your own quiz flow and rules. Perfect for events or larger quiz experiences!
+> **Kokonaisella visalla** voit yhdistää useita kierroksia, määrittää niiden järjestyksen sekä luoda oman visasi kulun ja säännöt. Täydellinen tapahtumiin tai laajempiin visakokemuksiin!
 
 ---
 
-## 💎 Premium license
+## 💎 Premium-lisenssi
 
-To create and publish **Full Quizzes**, you’ll need a [Premium license](https://www.quizwitz.com/pricing).  
-This unlocks the ability to combine Round-Abouts, set custom order, and use advanced features.
+**Kokonaisten visojen** luomiseen ja julkaisemiseen tarvitset [Premium-lisenssin](https://www.quizwitz.com/pricing).  
+Näin voit yhdistellä Round-Aboutteja, määrittää oman järjestyksen ja käyttää lisäominaisuuksia.
 
-Round-Abouts can always be created and shared for free!
+Round-Aboutteja voi aina luoda ja jakaa ilmaiseksi!
 
 ---
 
-Ready to start?  
-Explore the editor, try out a template, or check the next pages in this guide for more tips and inspiration.
+Valmiina aloittamaan?  
+Tutustu editoriin, kokeile mallipohjaa tai katso tämän oppaan seuraavilta sivuilta lisää vinkkejä ja inspiraatiota.
