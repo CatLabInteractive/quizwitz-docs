@@ -1,48 +1,48 @@
 ---
 id: multiple-choice
-title: Multiple choice question
+title: Monivalintakysymys
 ---
 
-# 🔢 Multiple choice
+# 🔢 Monivalinta
 
-A regular multiple choice question lets players select the correct answer from several given options.
-
----
-
-![Example: Multiple choice question about flags](/images/question-modes/multiple-choice/multiple-choice-wales.png)
+Tavallisessa monivalintakysymyksessä pelaajat valitsevat oikean vastauksen useista annetuista vaihtoehdoista.
 
 ---
 
-## 📝 How it works
-
-- **Question:** State clearly what players should answer (example: “Select the flag of 🐟🐟🐟”).
-- **Options:** You can provide up to four answer options.
-- **Correct/Wrong:** Mark one or more correct answers, depending on your settings.
-- **Feedback:** Players see which answer was correct after answering. Optionally, you can provide extra feedback or explanations.
+![Esimerkki: Lippuja koskeva monivalintakysymys](/images/question-modes/multiple-choice/multiple-choice-wales.png)
 
 ---
 
-## 🏆 Scoring
+## 📝 Näin se toimii
 
-Multiple choice questions use **time-based scoring** by default: faster answers earn more points. For these questions, scoring decreases continuously per microsecond, with most points fixed and only a portion influenced by speed.  
-**You can also turn off time-based scoring per question** if you want all correct answers to receive the same score.  
-You can further adjust this balance in the round settings.
-
-See [Scoring options in round settings](../editor/008-round-options.md#scoring) for full details.
-
----
-
-## ⚙️ Expanded settings
-
-The Multiple choice question type offers many settings to fine-tune the experience and scoring.  
-See [writing questions](../editor/005-writing-questions.md) for a general overview of question settings.
+- **Kysymys:** Kerro selkeästi, mihin pelaajien pitää vastata (esimerkki: ”Valitse maan 🐟🐟🐟 lippu”).
+- **Vaihtoehdot:** Voit antaa enintään neljä vastausvaihtoehtoa.
+- **Oikein/Väärin:** Merkitse yksi tai useampi oikea vastaus asetuksistasi riippuen.
+- **Palaute:** Pelaajat näkevät vastattuaan, mikä vastaus oli oikein. Voit halutessasi antaa lisäpalautetta tai selityksiä.
 
 ---
 
-## 💡 Tips for great multiple choice questions
+## 🏆 Pisteytys
 
-- **Be clear and concise:** Avoid ambiguous wording.
-- **Use plausible wrong answers:** Make distractors believable.
-- **Mix media:** Add images, flags, or sounds for engagement.
-- **Randomize order:** Keep things fair for all players.
-- **Tag and categorize:** For easy navigation and searchability.
+Monivalintakysymyksissä käytetään oletuksena **aikaan perustuvaa pisteytystä**: nopeammista vastauksista saa enemmän pisteitä. Näissä kysymyksissä pisteet vähenevät jatkuvasti mikrosekunti kerrallaan; suurin osa pisteistä on kiinteitä, ja vain osaan vaikuttaa nopeus.  
+**Voit myös poistaa aikaan perustuvan pisteytyksen käytöstä kysymyskohtaisesti**, jos haluat kaikkien oikeiden vastausten saavan saman pistemäärän.  
+Voit säätää tätä tasapainoa tarkemmin kierroksen asetuksissa.
+
+Katso kaikki yksityiskohdat kohdasta [Pisteytysasetukset kierroksen asetuksissa](../editor/008-round-options.md#scoring).
+
+---
+
+## ⚙️ Laajennetut asetukset
+
+Monivalintakysymystyypissä on monia asetuksia, joilla voit hienosäätää kokemusta ja pisteytystä.  
+Yleiskatsauksen kysymysten asetuksiin löydät kohdasta [kysymysten kirjoittaminen](../editor/005-writing-questions.md).
+
+---
+
+## 💡 Vinkkejä hyviin monivalintakysymyksiin
+
+- **Ole selkeä ja ytimekäs:** Vältä monitulkintaisia sanamuotoja.
+- **Käytä uskottavia vääriä vastauksia:** Tee harhautusvaihtoehdoista uskottavia.
+- **Yhdistele liitteitä:** Lisää kuvia, lippuja tai ääniä sitouttamaan pelaajia.
+- **Satunnaista järjestys:** Pidä peli reiluna kaikille pelaajille.
+- **Lisää tunnisteet ja kategoriat:** Helpottaa selaamista ja hakua.
