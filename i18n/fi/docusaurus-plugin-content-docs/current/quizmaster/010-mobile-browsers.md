@@ -1,44 +1,44 @@
 ---
 id: mobile
-title: Mobile browsers
+title: Mobiiliselaimet
 ---
 
-# 📱 Mobile browsers - Hosting limitations
+# 📱 Mobiiliselaimet - Isännöinnin rajoitukset
 
-QuizWitz is optimized for use on **desktop and laptop computers**. While it’s technically possible to host **QuizWitz Live** or **Conference** games on a tablet or smartphone, we **do not recommend** using **Android** or **iOS** devices to run the game.
+QuizWitz on optimoitu käytettäväksi **pöytäkoneilla ja kannettavilla tietokoneilla**. Vaikka **QuizWitz Live**- tai **konferenssitilan** pelien isännöinti tabletilla tai älypuhelimella on teknisesti mahdollista, **emme suosittele** **Android**- tai **iOS**-laitteiden käyttöä pelin pyörittämiseen.
 
-> 🛑 Mobile devices are not officially supported for hosting. Please use a desktop or laptop whenever possible.
-
----
-
-## ⚠️ If you must use a mobile device...
-
-If using a phone or tablet is your only option, follow these steps to minimize the risk of technical issues:
-
-### 🔋 Disable power-saving features
-
-- Make sure **energy-saving modes are turned off**
-- Increase your device’s **auto-sleep timeout**
-- Some mobile browsers may **refresh the page when the device sleeps**, which can end the game unexpectedly
-
-### 🎞️ Test audio and video fragments
-
-- If your quiz includes **audio or video**, test it in advance
-- Some devices may **struggle with large media files** or not play them at all
-- Be especially cautious with **older devices** or default mobile browsers
+> 🛑 Mobiililaitteita ei tueta virallisesti isännöintiin. Käytä pöytäkonetta tai kannettavaa tietokonetta aina kun mahdollista.
 
 ---
 
-## 🚫 Not recommended for live events
+## ⚠️ Jos sinun on pakko käyttää mobiililaitetta...
 
-Even with the precautions above, we strongly advise **against** using mobile devices to host important or high-stakes events.
+Jos puhelin tai tabletti on ainoa vaihtoehtosi, pienennä teknisten ongelmien riskiä seuraavilla toimilla:
 
-For the best performance and stability:
+### 🔋 Poista virransäästöominaisuudet käytöstä
 
-- Use a **modern desktop or laptop computer**
-- Run your game in **Chrome, Firefox**, or **Edge**
-- Avoid using Safari on iOS for anything other than playing
+- Varmista, että **virransäästötilat on kytketty pois päältä**
+- Pidennä laitteesi **automaattisen lepotilan viivettä**
+- Jotkin mobiiliselaimet saattavat **päivittää sivun laitteen mennessä lepotilaan**, mikä voi päättää pelin yllättäen
+
+### 🎞️ Testaa ääni- ja videokatkelmat
+
+- Jos visassasi on **ääntä tai videota**, testaa ne etukäteen
+- Joillakin laitteilla voi olla **vaikeuksia suurten mediatiedostojen kanssa**, tai ne eivät toista niitä lainkaan
+- Ole erityisen varovainen **vanhempien laitteiden** tai mobiililaitteiden oletusselainten kanssa
 
 ---
 
-For hosting, a reliable setup is key - mobile devices should be used only as a last resort.
+## 🚫 Ei suositella livetapahtumiin
+
+Edellä mainituista varotoimista huolimatta suosittelemme painokkaasti, **ettet** käytä mobiililaitteita tärkeiden tai paljon panoksia sisältävien tapahtumien isännöintiin.
+
+Parhaan suorituskyvyn ja vakauden saat, kun:
+
+- Käytät **nykyaikaista pöytäkonetta tai kannettavaa tietokonetta**
+- Pyörität peliä **Chromessa, Firefoxissa** tai **Edgessä**
+- Vältät iOS:n Safarin käyttöä muuhun kuin pelaamiseen
+
+---
+
+Isännöinnissä luotettava kokoonpano on avainasemassa - mobiililaitteita kannattaa käyttää vain viimeisenä keinona.
