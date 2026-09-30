@@ -1,63 +1,63 @@
 ---
 id: attachments
-title: Attachments
+title: Liitteet
 ---
 
-# 📎 Attachments
+# 📎 Liitteet
 
-Attachments can be added in various slots throughout your quiz to enrich the experience with images, audio, or video.
+Liitteitä voi lisätä visasi eri paikkoihin, jotta kokemus rikastuu kuvilla, äänellä tai videolla.
 
-These slots appear in the following parts of your quiz:
+Nämä paikat löytyvät visasi seuraavista osista:
 
-- [Questions](../editor/005-writing-questions.md)
-- [Rounds](../editor/008-round-options.md)
-- [Quizzes](../editor/007-quiz-options.md)
+- [Kysymykset](../editor/005-writing-questions.md)
+- [Kierrokset](../editor/008-round-options.md)
+- [Visat](../editor/007-quiz-options.md)
 
-Each page explains when these attachments are shown during gameplay.
+Kullakin sivulla kerrotaan, milloin nämä liitteet näytetään pelin aikana.
 
-![Question attachments](/images/edit-question.png)
-
----
-
-## 🗂️ Supported file types
-
-Here is a general (non-exhaustive) list of compatible formats:
-
-- **Images** - `.png`, `.jpeg`, `.gif` (non-animated). Full HD (1920×1080) recommended
-- **Audio** - Most standard formats are supported
-- **Video** - Most standard formats are supported
-
-> 🔊 ⏱️ Audio and video attachments should be **no longer than 15 minutes** in duration.
+![Kysymyksen liitteet](/images/edit-question.png)
 
 ---
 
-## 📝 Name & attribution
+## 🗂️ Tuetut tiedostotyypit
 
-Each attachment can have a name and optional attribution:
+Tässä on yleinen (ei kattava) luettelo yhteensopivista muodoista:
 
-- **Name** - Displayed to the quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); helps in organizing attachments
-- **Attribution** - Shown to players as credit or source information. This should be the **name of the rights holder**.
+- **Kuvat** - `.png`, `.jpeg`, `.gif` (ei animoitu). Full HD (1920×1080) suositeltu
+- **Ääni** - Useimmat yleiset muodot ovat tuettuja
+- **Video** - Useimmat yleiset muodot ovat tuettuja
 
-> ⚠️ In order to **publish** a Round-About or Quiz, **all attachments must have a valid attribution** filled in. Without this, your entry cannot be made public.
-
----
-
-## ✨ Attachment effects
-
-Some attachment slots support **effects** to reveal visuals more gradually:
-
-- **None** - The file is shown as-is
-- **Spotlight effect** - Gradually reveals parts of the image over time with a moving spotlight that expands as it progresses
-
-This is especially effective for puzzles or slow reveals during intros or dramatic moments.
+> 🔊 ⏱️ Ääni- ja videoliitteiden kesto saa olla **enintään 15 minuuttia**.
 
 ---
 
-## 📚 Multiple attachments per slot
+## 📝 Nimi ja lähdemerkintä
 
-Some slots allow adding **multiple attachments**. The way these behave depends on the game mode:
+Jokaisella liitteellä voi olla nimi ja valinnainen lähdemerkintä:
 
-> ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** The quizmaster has full control and can decide when to show or hide attachments during gameplay.  
-> 🎮 **In games without a quizmaster (Party Game, Conference mode, Single player):** All attachments within a slot are shown **simultaneously**.
+- **Nimi** - Näytetään visamestarille [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) -tilassa; auttaa liitteiden järjestämisessä
+- **Lähdemerkintä** - Näytetään pelaajille tekijä- tai lähdetietona. Tähän tulee **oikeuksien haltijan nimi**.
 
-Details about each slot’s timing and behavior can be found in the linked documentation for [questions](../editor/015-importing-questions.md), [rounds](../editor/008-round-options.md), and [quizzes](../editor/007-quiz-options.md).
+> ⚠️ Jotta voit **julkaista** Round-Aboutin tai Visan, **kaikilla liitteillä on oltava kelvollinen lähdemerkintä**. Ilman sitä sisältöäsi ei voi julkaista.
+
+---
+
+## ✨ Liitteiden efektit
+
+Jotkin liitepaikat tukevat **efektejä**, joilla kuvat paljastetaan vähitellen:
+
+- **Ei mitään** - Tiedosto näytetään sellaisenaan
+- **Valokeilaefekti** - Paljastaa kuvaa vähitellen liikkuvalla valokeilalla, joka laajenee edetessään
+
+Tämä toimii erityisen hyvin pulmissa tai hitaissa paljastuksissa introjen tai dramaattisten hetkien aikana.
+
+---
+
+## 📚 Useita liitteitä paikkaa kohden
+
+Joihinkin paikkoihin voi lisätä **useita liitteitä**. Niiden toiminta riippuu pelitilasta:
+
+> ⚡ **[QuizWitz Live (PRO)](../quizmaster/001-introduction.md) -tilassa:** Visamestarilla on täysi hallinta, ja hän voi päättää, milloin liitteet näytetään tai piilotetaan pelin aikana.  
+> 🎮 **Peleissä ilman visamestaria (Seurapeli, konferenssitila, Yksinpeli):** Kaikki paikan liitteet näytetään **samanaikaisesti**.
+
+Tiedot kunkin paikan ajoituksesta ja toiminnasta löydät linkitetyistä ohjeista [kysymyksille](../editor/015-importing-questions.md), [kierroksille](../editor/008-round-options.md) ja [visoille](../editor/007-quiz-options.md).
