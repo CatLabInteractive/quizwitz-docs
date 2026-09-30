@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Sonraki",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.For players": {
+    "message": "Oyuncular için",
+    "description": "The label for category For players in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.For quizmakers": {
+    "message": "Quiz yapımcıları için",
+    "description": "The label for category For quizmakers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.For quizmasters": {
+    "message": "Quizmasterlar için",
+    "description": "The label for category For quizmasters in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Round types": {
+    "message": "Tur türleri",
+    "description": "The label for category Round types in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Question types": {
+    "message": "Soru türleri",
+    "description": "The label for category Question types in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Advanced": {
+    "message": "Gelişmiş",
+    "description": "The label for category Advanced in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorials": {
+    "message": "Eğitimler",
+    "description": "The label for category Tutorials in sidebar tutorialSidebar"
+  }
+}
