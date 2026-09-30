@@ -1,32 +1,32 @@
 ---
 id: introduction
-title: Introduction
+title: Johdanto
 ---
 
-# 🎤 QuizWitz Live - Introduction
+# 🎤 QuizWitz Live - Johdanto
 
-## Hosting a quiz with QuizWitz Live
+## Visan isännöinti QuizWitz Livellä
 
-The first ingredient for a successful QuizWitz Live event is an engaging quizmaster - someone who controls the game and keeps the energy high. The quizmaster leads the flow of the quiz, reads the questions aloud, and adds that extra spark to entertain the audience.
+Onnistuneen QuizWitz Live -tapahtuman ensimmäinen ainesosa on innostava visamestari - joku, joka ohjaa peliä ja pitää tunnelman korkealla. Visamestari johtaa visan kulkua, lukee kysymykset ääneen ja tuo sen ylimääräisen kipinän, joka viihdyttää yleisöä.
 
-To take full control of your event, use the **Quizmaster App**, designed specifically for QuizWitz Live.  
-You can launch QuizWitz Live directly from the quiz editor by clicking **‘Start QuizWitz Live’**.
+Ota tapahtumasi täysin hallintaan **Quizmaster-sovelluksella**, joka on suunniteltu nimenomaan QuizWitz Liveä varten.  
+Voit käynnistää QuizWitz Liven suoraan visaeditorista napsauttamalla **”Käynnistä QuizWitz Live”**.
 
-> 💡 **Note:** The Quizmaster App is a **web app** - there's nothing to install. Simply go to [**quizwitz.tv**](https://quizwitz.tv) in your browser to access it on your smart device.
-
----
-
-## 🧰 Requirements
-
-To ensure a smooth and professional quiz experience, make sure you have:
-
-- **A large screen or projector** showing the game screen - or a **livestream** accessible to all players
-- **A tablet or laptop** for the quizmaster to control the game and read the script aloud
-- **A laptop or tablet** for the jury (if needed) to evaluate open answer questions
-- **One smart device per player or team** (e.g. smartphone or tablet) to submit answers
-
-> If your quiz includes **open answer questions**, you’ll need a jury to review submissions. While the quizmaster can take on this role with an extra device, we recommend assigning one or more dedicated jury members so the quizmaster can focus on presenting.
+> 💡 **Huom:** Quizmaster-sovellus on **verkkosovellus** - mitään ei tarvitse asentaa. Mene vain selaimellasi osoitteeseen [**quizwitz.tv**](https://quizwitz.tv), niin pääset käyttämään sitä älylaitteellasi.
 
 ---
 
-Once you’ve got everything ready, continue to the next page to learn how to start the game with QuizWitz Live.
+## 🧰 Vaatimukset
+
+Jotta visakokemus sujuu kitkattomasti ja ammattimaisesti, varmista, että sinulla on:
+
+- **Iso näyttö tai projektori**, jossa näkyy pelinäyttö - tai kaikkien pelaajien saatavilla oleva **livelähetys**
+- **Tabletti tai kannettava tietokone** visamestarille pelin ohjaamiseen ja käsikirjoituksen lukemiseen ääneen
+- **Kannettava tietokone tai tabletti** tuomaristolle (tarvittaessa) avointen kysymysten vastausten arviointiin
+- **Yksi älylaite pelaajaa tai joukkuetta kohden** (esim. älypuhelin tai tabletti) vastausten lähettämiseen
+
+> Jos visassasi on **avoimia kysymyksiä**, tarvitset tuomariston tarkistamaan vastaukset. Visamestari voi hoitaa tämän roolin lisälaitteella, mutta suosittelemme nimeämään yhden tai useamman oman tuomariston jäsenen, jotta visamestari voi keskittyä juontamiseen.
+
+---
+
+Kun kaikki on valmiina, siirry seuraavalle sivulle ja opi, miten peli käynnistetään QuizWitz Livellä.
