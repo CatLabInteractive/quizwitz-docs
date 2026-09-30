@@ -1,417 +1,417 @@
 ---
 id: theme-design-guide
-title: Theme design guide
+title: Teeman suunnitteluopas
 ---
 
-# Theme design guide
+# Teeman suunnitteluopas
 
-[Theming](/docs/advanced/theming) explains how a QuizWitz theme is built: in Adobe Animate, exported as a CreateJS library. This page covers the step before that - **designing** the theme.
+[Teemat](/docs/advanced/theming) kertoo, miten QuizWitz-teema rakennetaan: Adobe Animatessa, CreateJS-kirjastoksi vietynä. Tämä sivu käsittelee sitä edeltävää vaihetta - teeman **suunnittelua**.
 
-It is written for a graphic designer, and it assumes that design and Animate production are done by different people. Few designers still work in Adobe Animate, so a designer usually delivers artwork and someone else assembles the theme. That works well, as long as the artwork arrives in a shape the build can use. This page describes that shape, and doubles as the list of deliverables when you ask a designer for a quote.
+Se on kirjoitettu graafiselle suunnittelijalle, ja siinä oletetaan, että suunnittelun ja Animate-tuotannon tekevät eri ihmiset. Harva suunnittelija työskentelee enää Adobe Animatessa, joten yleensä suunnittelija toimittaa grafiikan ja joku muu kokoaa teeman. Tämä toimii hyvin, kunhan grafiikka toimitetaan muodossa, jota rakentamisessa voi käyttää. Tämä sivu kuvaa tuon muodon, ja se toimii samalla toimitettavien luettelona, kun pyydät suunnittelijalta tarjousta.
 
-The page has four parts:
+Sivulla on neljä osaa:
 
-1. [What you are designing](#what-you-are-designing) - the screens a theme covers.
-2. [The eight frames](#eight-frames-and-an-element-sheet) and [the element sheet](#the-element-sheet), one by one, with screenshots.
-3. [Design rules](#design-rules) - how the file has to be built so the engine can use it.
-4. [What to hand over](#what-to-hand-over) - source file, deliverables and order of work.
+1. [Mitä suunnittelet](#what-you-are-designing) - näytöt, jotka teema kattaa.
+2. [Kahdeksan kehystä](#eight-frames-and-an-element-sheet) ja [elementtiarkki](#the-element-sheet) yksi kerrallaan kuvakaappausten kera.
+3. [Suunnittelusäännöt](#design-rules) - miten tiedosto on rakennettava, jotta moottori voi käyttää sitä.
+4. [Mitä luovutetaan](#what-to-hand-over) - lähdetiedosto, toimitettavat ja työjärjestys.
 
 :::tip
-If you only want to change colours, fonts and backgrounds, you do not need any of this - customise the [Emerald theme](/docs/advanced/emerald-theme) instead.
+Jos haluat muuttaa vain värejä, fontteja ja taustoja, et tarvitse mitään tästä - mukauta sen sijaan [Emerald-teemaa](/docs/advanced/emerald-theme).
 :::
 
-:::info[See it running]
-Every screen described here can be played live, with sample data, in the **theme tester** at [client.quizwitz.com/test.html](https://client.quizwitz.com/test.html). It loads a theme and offers a menu of test screens: questions with and without an attachment, the answer spread for a small and a large group, the standings, the round intros, the connect screen with and without a client logo, and so on. Add `?theme=emerald` to the address to see the [Emerald theme](/docs/advanced/emerald-theme). Whoever builds the theme uses the same page to check it while it is being assembled.
+:::info[Katso se toiminnassa]
+Jokaista tässä kuvattua näyttöä voi pelata reaaliajassa esimerkkidatalla **teematestaajassa** osoitteessa [client.quizwitz.com/test.html](https://client.quizwitz.com/test.html). Se lataa teeman ja tarjoaa valikon testinäytöistä: kysymyksiä liitteen kanssa ja ilman, vastausten jakauma pienelle ja suurelle ryhmälle, tilanne, kierrosten introt, liittymisnäyttö asiakkaan logon kanssa ja ilman ja niin edelleen. Lisää osoitteeseen `?theme=emerald`, niin näet [Emerald-teeman](/docs/advanced/emerald-theme). Teeman rakentaja käyttää samaa sivua tarkistaakseen sen kokoamisen aikana.
 :::
 
 ---
 
-## What you are designing
+## Mitä suunnittelet
 
-A game of QuizWitz is played by a whole room at once, and two screens are always involved:
+QuizWitz-peliä pelaa koko huone kerralla, ja mukana on aina kaksi näyttöä:
 
-- **The game screen** - a projector or TV, 1920 × 1080. Questions, answers, how the room's answers were spread, the standings. This is what you design.
-- **Each player's phone**, where they type their answer. That is a web page with a fixed layout; it is styled from your colour list, not laid out by you.
+- **Pelinäyttö** - projektori tai televisio, 1920 × 1080. Kysymykset, vastaukset, miten huoneen vastaukset jakautuivat, tilanne. Tämän sinä suunnittelet.
+- **Jokaisen pelaajan puhelin**, jolla hän kirjoittaa vastauksensa. Se on kiinteän asettelun verkkosivu; sen tyyli tulee väriluettelostasi, et suunnittele sen asettelua.
 
-A theme is the complete visual skin of the game screen: background, typography, colour, the way a question with four options is presented, how the standings build up, how a round is announced.
+Teema on pelinäytön koko visuaalinen ulkoasu: tausta, typografia, värit, tapa, jolla neljän vaihtoehdon kysymys esitetään, miten tilanne rakentuu ja miten kierros julkistetaan.
 
 ---
 
-## Eight frames and an element sheet
+## Kahdeksan kehystä ja elementtiarkki
 
-The game has dozens of distinct screen states, but most are variants of the same layout. **You design eight frames and one sheet of elements; the rest is derived from them.** That is not a shortcut - it is how the engine works. A screen with no artwork of its own falls back to a general frame.
+Pelissä on kymmeniä erilaisia näyttötiloja, mutta useimmat ovat saman asettelun muunnelmia. **Suunnittelet kahdeksan kehystä ja yhden elementtiarkin; loput johdetaan niistä.** Se ei ole oikotie - moottori toimii näin. Näyttö, jolla ei ole omaa grafiikkaa, käyttää yleistä kehystä.
 
-The sheet matters as much as the frames: a fall-back screen still needs furniture inside its content area - a panel, a row, a rule.
+Arkki on yhtä tärkeä kuin kehykset: varakehystä käyttävä näyttö tarvitsee silti sisältöalueelleen kalusteita - paneelin, rivin, viivan.
 
-| # | Frame                                                           | Also covers                                                               |
-| - | --------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 1 | [General frame](#frame-1---the-general-frame)                   | Thirteen screen states with no artwork of their own                       |
-| 2 | [Connect screen](#frame-2---the-connect-screen)                 | Draw it twice: with a client logo and without one         |
-| 3 | [Waiting screen](#frame-3---the-waiting-screen)                 | -                                                                         |
-| 4 | [Question screen](#frame-4---the-question-screen)               | -                                                                         |
-| 5 | [Question with attachment](#frame-5---question-with-attachment) | The full-screen attachment, and attachments shown between questions       |
-| 6 | [Answer screen](#frame-6---the-answer-screen)                   | The answer screen for open questions and for questions with an attachment |
-| 7 | [Standings and winner](#frame-7---standings-and-winner)         | The standings between rounds and the final winner                         |
-| 8 | [Round intro](#frame-8---the-round-intro)                       | All six round categories                                                  |
+| # | Kehys                                                          | Kattaa myös                                                              |
+| - | -------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| 1 | [Yleinen kehys](#frame-1---the-general-frame)                  | Kolmetoista näyttötilaa, joilla ei ole omaa grafiikkaa                   |
+| 2 | [Liittymisnäyttö](#frame-2---the-connect-screen)               | Piirrä se kahdesti: asiakkaan logon kanssa ja ilman sitä |
+| 3 | [Odotusnäyttö](#frame-3---the-waiting-screen)                  | -                                                                        |
+| 4 | [Kysymysnäyttö](#frame-4---the-question-screen)                | -                                                                        |
+| 5 | [Kysymys liitteen kanssa](#frame-5---question-with-attachment) | Koko näytön liite ja kysymysten välissä näytettävät liitteet             |
+| 6 | [Vastausnäyttö](#frame-6---the-answer-screen)                  | Vastausnäyttö avoimille kysymyksille ja liitteellisille kysymyksille     |
+| 7 | [Tilanne ja voittaja](#frame-7---standings-and-winner)         | Tilanne kierrosten välillä ja lopullinen voittaja                        |
+| 8 | [Kierroksen intro](#frame-8---the-round-intro)                 | Kaikki kuusi kierroskategoriaa                                           |
 
-:::note[About the screenshots]
-The screens below come from an existing theme. They show **which elements appear on each screen and when**. They are not a reference for style _or_ layout: where this theme puts its question, its options and its timer is its own decision, and yours can differ completely.
+:::note[Kuvakaappauksista]
+Alla olevat näytöt ovat olemassa olevasta teemasta. Ne näyttävät, **mitkä elementit näkyvät kullakin näytöllä ja milloin**. Ne eivät ole mallina tyylille _eikä_ asettelulle: se, mihin tämä teema sijoittaa kysymyksensä, vaihtoehtonsa ja ajastimensa, on sen oma ratkaisu, ja sinun teemasi voi olla täysin erilainen.
 :::
 
-### Frame 1 - the general frame
+### Kehys 1 - yleinen kehys
 
-**What is on it:** the background, a header title and an empty content area below it. It is not a finished composition but the frame the rest is built inside.
+**Mitä siinä on:** tausta, otsikko ja sen alla tyhjä sisältöalue. Se ei ole valmis sommitelma vaan kehys, jonka sisään muu rakennetaan.
 
-**What it covers:** thirteen screen states - round explanation, standings, player introduction, multiple-choice variants, long questions, seat warnings, settings. Each fills the content area its own way with elements from the [element sheet](#the-element-sheet), so the frame has to hold things that look nothing alike. The question picker and the long question may get a composition of their own if you want them to; otherwise they use this frame.
+**Mitä se kattaa:** kolmetoista näyttötilaa - kierroksen selitys, tilanne, pelaajaesittely, monivalintamuunnelmat, pitkät kysymykset, Seats-varoitukset, asetukset. Kukin täyttää sisältöalueen omalla tavallaan [elementtiarkin](#the-element-sheet) elementeillä, joten kehyksen on pystyttävä pitämään sisällään asioita, jotka eivät näytä lainkaan samalta. Kysymysvalitsin ja pitkä kysymys voivat halutessasi saada oman sommitelmansa; muuten ne käyttävät tätä kehystä.
 
-Two game moments on the same frame: a question picker and a points ladder.
+Kaksi pelin hetkeä samassa kehyksessä: kysymysvalitsin ja pisteportaikko.
 
-![The general frame with a three-row question picker](/images/theme-design/frame1-general-multiquestion.png)
+![Yleinen kehys, jossa on kolmirivinen kysymysvalitsin](/images/theme-design/frame1-general-multiquestion.png)
 
-![The general frame with a five-level points ladder](/images/theme-design/frame1-general-strikeladder.png)
+![Yleinen kehys, jossa on viisitasoinen pisteportaikko](/images/theme-design/frame1-general-strikeladder.png)
 
-Look at how little they have in common. The picker puts its three rows inside a panel with a border; the ladder has no panel at all, just rows separated by thin rules. What the two share is the background and the header band above them - everything below that belongs to the individual screen and is filled by the game, not by you.
+Huomaa, kuinka vähän niillä on yhteistä. Valitsin sijoittaa kolme riviään reunustettuun paneeliin; portaikossa ei ole paneelia lainkaan, vain ohuilla viivoilla erotettuja rivejä. Yhteistä niillä on tausta ja niiden yläpuolella oleva otsikkokaista - kaikki sen alapuolella kuuluu yksittäiselle näytölle, ja sen täyttää peli, et sinä.
 
-That panel and those rules come from the [element sheet](#the-element-sheet), not from this frame. What this frame has to do is hold them: design the content area as an empty, neutral, roomy zone that works with a bordered panel, a bare list and a table of rows alike. A background that is busy in the middle, or a header that only works with a panel tucked right underneath it, is where that breaks.
+Tuo paneeli ja nuo viivat tulevat [elementtiarkista](#the-element-sheet), eivät tästä kehyksestä. Tämän kehyksen tehtävä on pitää ne sisällään: suunnittele sisältöalue tyhjäksi, neutraaliksi ja väljäksi alueeksi, joka toimii yhtä hyvin reunustetun paneelin, pelkän luettelon ja rivitaulukon kanssa. Tausta, joka on keskeltä levoton, tai otsikko, joka toimii vain, jos paneeli on aivan sen alla, on se kohta, jossa tämä hajoaa.
 
-### Frame 2 - the connect screen
+### Kehys 2 - liittymisnäyttö
 
-**What is on it:** everything the room needs in order to join.
+**Mitä siinä on:** kaikki, mitä huone tarvitsee liittyäkseen.
 
-- five lines of instruction
-- a join code and a QR code, both generated by the engine - reserve a square for the QR code
-- a line with the number of connected players
-- a list of players trickling in
+- viisi ohjeriviä
+- liittymiskoodi ja QR-koodi, jotka molemmat moottori luo - varaa QR-koodille neliö
+- rivi, jossa on liittyneiden pelaajien määrä
+- luettelo vähitellen saapuvista pelaajista
 
-**Draw it twice:** with a client logo beside the join code, and without one, where the theme's own artwork carries the screen.
+**Piirrä se kahdesti:** asiakkaan logo liittymiskoodin vieressä ja ilman logoa, jolloin teeman oma grafiikka kantaa näyttöä.
 
-![Connect screen with a client logo](/images/theme-design/frame2-connect.png)
+![Liittymisnäyttö asiakkaan logon kanssa](/images/theme-design/frame2-connect.png)
 
-![Connect screen without a client logo](/images/theme-design/frame2-connect-nologo.png)
+![Liittymisnäyttö ilman asiakkaan logoa](/images/theme-design/frame2-connect-nologo.png)
 
-### Frame 3 - the waiting screen
+### Kehys 3 - odotusnäyttö
 
-**What is on it:** almost nothing - the quiz's own logo, or the theme's artwork.
+**Mitä siinä on:** lähes ei mitään - visan oma logo tai teeman grafiikka.
 
-It shares only a background with the connect screen, so design it as its own composition. It stays up while the quizmaster reads a question aloud, which puts it on screen longer than almost anything else in the game. It deserves more attention than an empty screen usually gets.
+Sillä on liittymisnäytön kanssa yhteinen vain tausta, joten suunnittele se omana sommitelmanaan. Se pysyy näkyvissä, kun visamestari lukee kysymystä ääneen, joten se on ruudulla pidempään kuin lähes mikään muu pelissä. Se ansaitsee enemmän huomiota kuin tyhjä näyttö yleensä saa.
 
-![Waiting screen](/images/theme-design/frame2-pending.png)
+![Odotusnäyttö](/images/theme-design/frame2-pending.png)
 
-### Frame 4 - the question screen
+### Kehys 4 - kysymysnäyttö
 
-**What is on it:** the question, a timer, four answer options and a feedback line. This is the screen the room looks at longest. Note that an option can consist of nothing but an emoji:
+**Mitä siinä on:** kysymys, ajastin, neljä vastausvaihtoehtoa ja palauterivi. Tätä näyttöä huone katsoo pisimpään. Huomaa, että vaihtoehto voi koostua pelkästä emojista:
 
-![Question screen with four text options](/images/theme-design/frame3-question-options.png)
+![Kysymysnäyttö, jossa on neljä tekstivaihtoehtoa](/images/theme-design/frame3-question-options.png)
 
-![Question screen with flags as answer options](/images/theme-design/frame3-question-emoji.png)
+![Kysymysnäyttö, jossa vastausvaihtoehtoina on lippuja](/images/theme-design/frame3-question-emoji.png)
 
-A question with no options - players type their answer on their phone. The screen is nearly empty and the timer becomes the main element:
+Kysymys ilman vaihtoehtoja - pelaajat kirjoittavat vastauksensa puhelimellaan. Näyttö on lähes tyhjä, ja ajastimesta tulee pääelementti:
 
-![Open question with only the question and a large timer](/images/theme-design/frame3-question-open.png)
+![Avoin kysymys, jossa on vain kysymys ja suuri ajastin](/images/theme-design/frame3-question-open.png)
 
-The moment time runs out. The feedback balloon appears over the screen and the timer is empty:
+Hetki, jolloin aika loppuu. Palautekupla ilmestyy näytön päälle, ja ajastin on tyhjä:
 
-![Question screen showing the time's-up state](/images/theme-design/frame3-question-timeout.png)
+![Kysymysnäyttö, jossa aika on loppunut](/images/theme-design/frame3-question-timeout.png)
 
-### Frame 5 - question with attachment
+### Kehys 5 - kysymys liitteen kanssa
 
-**What is on it:** the same parts as frame 4, arranged around an image or video. It may be a different composition. The attachment is scaled to fit inside the box you draw, so both a landscape and a portrait image must look acceptable in it.
+**Mitä siinä on:** samat osat kuin kehyksessä 4 kuvan tai videon ympärille järjestettyinä. Se voi olla eri sommitelma. Liite skaalataan mahtumaan piirtämääsi laatikkoon, joten sekä vaaka- että pystykuvan on näytettävä siinä hyväksyttävältä.
 
-**What it covers:** the full-screen attachment, and attachments shown between questions.
+**Mitä se kattaa:** koko näytön liitteen ja kysymysten välissä näytettävät liitteet.
 
-Here with the options to the left and right of the attachment:
+Tässä vaihtoehdot ovat liitteen vasemmalla ja oikealla puolella:
 
-![Question screen with an image in the middle](/images/theme-design/frame4-question-attachment.png)
+![Kysymysnäyttö, jonka keskellä on kuva](/images/theme-design/frame4-question-attachment.png)
 
-An attachment on its own, filling the screen:
+Pelkkä liite koko näytön kokoisena:
 
-![Full-screen attachment](/images/theme-design/frame4-attachment-fullscreen.png)
+![Koko näytön liite](/images/theme-design/frame4-attachment-fullscreen.png)
 
-### Frame 6 - the answer screen
+### Kehys 6 - vastausnäyttö
 
-**What is on it:** which answer was correct, how the room's answers were spread across the options, and a feedback line.
+**Mitä siinä on:** mikä vastaus oli oikea, miten huoneen vastaukset jakautuivat vaihtoehtojen kesken, ja palauterivi.
 
-**What it covers:** the answer screen for open questions and for questions with an attachment.
+**Mitä se kattaa:** vastausnäytön avoimille kysymyksille ja liitteellisille kysymyksille.
 
-The screen goes through three moments. First the spread, with nothing marked yet:
+Näyttö käy läpi kolme hetkeä. Ensin jakauma, jossa mitään ei ole vielä merkitty:
 
-![Answer screen showing the spread](/images/theme-design/frame5-answer-mc-spread.png)
+![Vastausnäyttö, jossa näkyy jakauma](/images/theme-design/frame5-answer-mc-spread.png)
 
-Then the correct option is ticked and the wrong ones crossed:
+Sitten oikea vaihtoehto merkitään rastilla ja väärät ristillä:
 
-![Answer screen with the correct option revealed](/images/theme-design/frame5-answer-mc-reveal.png)
+![Vastausnäyttö, jossa oikea vaihtoehto on paljastettu](/images/theme-design/frame5-answer-mc-reveal.png)
 
-And if the question carries an explanation, a balloon drops over the artwork. Leave room for it - it lands on top of whatever you designed:
+Ja jos kysymykseen liittyy selitys, grafiikan päälle putoaa kupla. Jätä sille tilaa - se laskeutuu kaiken suunnittelemasi päälle:
 
-![Answer screen with the explanation balloon](/images/theme-design/frame5-answer-mc-explanation.png)
+![Vastausnäyttö, jossa on selityskupla](/images/theme-design/frame5-answer-mc-explanation.png)
 
-With a small group, the same moment is a score list rather than a chart:
+Pienellä ryhmällä sama hetki on kaavion sijaan pisteluettelo:
 
-![Answer screen for a small group](/images/theme-design/frame5-answer-mc-small.png)
+![Vastausnäyttö pienelle ryhmälle](/images/theme-design/frame5-answer-mc-small.png)
 
-For an open question, the chart shows how many players got it right:
+Avoimessa kysymyksessä kaavio näyttää, moniko pelaaja vastasi oikein:
 
-![Answer screen for an open question](/images/theme-design/frame5-answer-open.png)
+![Vastausnäyttö avoimelle kysymykselle](/images/theme-design/frame5-answer-open.png)
 
-### Frame 7 - standings and winner
+### Kehys 7 - tilanne ja voittaja
 
-**What is on it:** a list of players with position, avatar, name and score. Supply the **player row** as a separate, reusable element: it is repeated six times by default, up to ten.
+**Mitä siinä on:** pelaajaluettelo, jossa on sijoitus, avatar, nimi ja pisteet. Toimita **pelaajarivi** erillisenä, uudelleenkäytettävänä elementtinä: sitä toistetaan oletuksena kuusi kertaa, enintään kymmenen.
 
-**What it covers:** the standings between rounds and the final winner.
+**Mitä se kattaa:** tilanteen kierrosten välillä ja lopullisen voittajan.
 
-The standings after a round, with six player rows:
+Tilanne kierroksen jälkeen kuudella pelaajarivillä:
 
-![Standings with six player rows](/images/theme-design/frame6-roundoutro.png)
+![Tilanne, jossa on kuusi pelaajariviä](/images/theme-design/frame6-roundoutro.png)
 
-The final countdown names one player at a time, from last place to first - place, score and team name in the spotlight. This is also where the [flying emoji](#flying-emoji-land-on-top-of-everything) are heaviest:
+Loppulaskenta nimeää yhden pelaajan kerrallaan viimeisestä sijasta ensimmäiseen - sijoitus, pisteet ja joukkueen nimi valokeilassa. Tässä myös [lentäviä emojeja](#flying-emoji-land-on-top-of-everything) on eniten:
 
-![The winner countdown naming one player](/images/theme-design/frame6-winner-countdown.png)
+![Voittajan lähtölaskenta, jossa nimetään yksi pelaaja](/images/theme-design/frame6-winner-countdown.png)
 
-![The final standings](/images/theme-design/frame6-winner.png)
+![Lopputilanne](/images/theme-design/frame6-winner.png)
 
-### Frame 8 - the round intro
+### Kehys 8 - kierroksen intro
 
-**What is on it:** a short announcement per round category. There are six categories: science & technology, nature, entertainment & music, sport, art, history.
+**Mitä siinä on:** lyhyt ilmoitus kierroskategoriaa kohden. Kategorioita on kuusi: tiede ja tekniikka, luonto, viihde ja musiikki, urheilu, taide, historia.
 
-**What it covers:** all six categories. One design may serve several of them.
+**Mitä se kattaa:** kaikki kuusi kategoriaa. Yksi suunnitelma voi palvella useampaa niistä.
 
-Here, one composition with a variant per category:
+Tässä yksi sommitelma, jossa on muunnelma kutakin kategoriaa kohden:
 
-![Round intro for the nature category](/images/theme-design/frame7-roundintro-nature.png)
+![Kierroksen intro luonto-kategorialle](/images/theme-design/frame7-roundintro-nature.png)
 
-![Round intro for the science category](/images/theme-design/frame7-roundintro-science.png)
+![Kierroksen intro tiede-kategorialle](/images/theme-design/frame7-roundintro-science.png)
 
-**A character is optional.** The stock QuizWitz theme has one that talks and reacts; the [Emerald theme](/docs/advanced/emerald-theme) ships without, and dropping it removes the most expensive animation work - lip sync, eyes, arms.
+**Hahmo on valinnainen.** QuizWitzin vakioteemassa on hahmo, joka puhuu ja reagoi; [Emerald-teemassa](/docs/advanced/emerald-theme) sitä ei ole, ja hahmon pois jättäminen poistaa kalleimman animaatiotyön - huulisynkan, silmät, kädet.
 
-Without a character, the round intro becomes a graphic, typographic or illustrative moment. Two approaches keep the work in proportion: one composition with a colour or icon variant per category, or a single universal announcement with only the round name changing. Six genuinely different intros is a lot of work for a few seconds of screen time.
+Ilman hahmoa kierroksen introsta tulee graafinen, typografinen tai kuvituksellinen hetki. Kaksi lähestymistapaa pitää työmäärän kohtuullisena: yksi sommitelma, jossa on kategoriakohtainen väri- tai kuvakevariantti, tai yksi yleinen ilmoitus, jossa vain kierroksen nimi vaihtuu. Kuusi aidosti erilaista introa on paljon työtä muutaman sekunnin ruutuaikaa varten.
 
 ---
 
-## The element sheet
+## Elementtiarkki
 
-Two groups of elements, on one sheet, each drawn once and reused everywhere.
+Kaksi elementtiryhmää yhdellä arkilla, kukin piirretty kerran ja käytetty kaikkialla uudelleen.
 
-**Content building blocks.** These fill the content area of the general frame. The screens that fall back to it are assembled from these, so whatever you draw here decides how all of them look:
+**Sisällön rakennuspalikat.** Nämä täyttävät yleisen kehyksen sisältöalueen. Sitä käyttävät näytöt kootaan näistä, joten se, mitä tähän piirrät, ratkaisee, miltä ne kaikki näyttävät:
 
-- a **panel**: fill, border, corner radius - the container a list or a block of text sits in
-- a **list row**: the repeating unit of any list, with its own background or none
-- a **separator**: the rule between rows, where there is no panel
-- a **label and value pair**: a short label on the left, a value on the right
+- **paneeli**: täyttö, reunus, kulmien pyöristys - säiliö, jossa luettelo tai tekstilohko on
+- **luettelorivi**: minkä tahansa luettelon toistuva yksikkö, omalla taustallaan tai ilman
+- **erotin**: rivien välinen viiva silloin, kun paneelia ei ole
+- **nimike-arvopari**: lyhyt nimike vasemmalla, arvo oikealla
 
-**Controls.** Drawn once, used on every screen:
+**Ohjaimet.** Piirretään kerran, käytetään jokaisella näytöllä:
 
-- a **button** in its four states: rest, hover, pressed, disabled
-- the **correct** and **wrong** symbols
-- a **scrollbar**, a **checkbox**, a **select**
-- where the **QuizWitz logo** sits
-
----
-
-## What is decided for you
-
-- **The players' phones.** A fixed HTML layout.
-- **The handful of things the engine draws itself** - the rules between rows on the points ladder, the highlighted row in the question picker, the QR code. Their colours come from [Colour as a list](#colour-as-a-list).
-- **Which screens fall back to the general frame, and how.**
-- **How the six categories map onto the round intro artwork.** That mapping is a configuration setting, so one intro can be reused for several categories.
-- **All timing and animation duration.**
-- **Sound.** A theme can carry its own music and sound effects, but that is a separate deliverable and not part of the design brief.
+- **painike** neljässä tilassa: lepo, hover, painettu, pois käytöstä
+- **oikein**- ja **väärin**-symbolit
+- **vierityspalkki**, **valintaruutu**, **valintalista**
+- mihin **QuizWitzin logo** sijoittuu
 
 ---
 
-## Design rules
+## Mitä on päätetty puolestasi
 
-None of these limit your visual design. They are about how the file is built.
-
-### Format
-
-- **1920 × 1080 pixels**, exactly. One frame per screen.
-- Work **in vector** where you can. Where you use raster (photos, textures): at least 2× display size.
-- The Animate document runs at **24 frames per second**. Relevant if you supply motion ideas.
-- Keep a **5% margin** at the edges free of essential information. Projectors crop.
-
-### Layer structure - the rule that matters most
-
-**Anything that can move, appear or change value sits on its own named layer.** Nothing merged, nothing flattened.
-
-In practice:
-
-- the four answer options are four separate layers, not one
-- the timer is separate from the background
-- a button and its label are two elements
-- a player row is one group that can be duplicated
-
-What may be merged: purely decorative background artwork that works as a single still image.
-
-This is the one rule that genuinely hurts when it is not followed - the artwork then has to be pulled apart or redrawn, which is exactly the cost this arrangement is meant to avoid.
-
-### Effects that do not survive
-
-The engine draws on an HTML5 canvas. These have to be **baked into the image** or left out:
-
-| Effect                                                          | What to do instead          |
-| --------------------------------------------------------------- | --------------------------- |
-| Live blur, drop shadows and glow as filters                     | Supply them as artwork      |
-| Blend modes (multiply, screen, overlay)      | Resolve them to flat colour |
-| Layer effects and adjustment layers                             | Bake them in                |
-| Gradients **inside** text, or text with a per-character outline | Leave them out              |
-| Masks that change per frame                                     | Leave them out              |
-
-Gradients in shapes are fine. Transparency is fine. Shadows as fixed artwork are fine.
-
-### How text behaves
-
-This is where designing for QuizWitz differs most from ordinary design work.
-
-**You do not set a font size. You draw a box.**
-
-All text is drawn live by a component that receives two things: a string, and the rectangle you drew. It then finds **the largest font size at which that string, wrapped across lines, still fits inside the box**. A long string shrinks to fit; a short one grows until the box is full.
-
-![A picker where three lines of different length each get a different font size](/images/theme-design/frame1-general-multiquestion.png)
-
-Three rows, three identical boxes - and three completely different font sizes, purely because the text is shorter or longer. "Where is love" gets the full height; the question above it has to make do with two small lines. The labels on the left behave the same way.
-
-What follows from that:
-
-- **The same question looks different in another game.** A six-word question appears large and screen-filling; a thirty-five-word one appears small across five lines, in exactly the same box. Both have to look right.
-- **Design every text box twice.** Fill it once with a very short sample and once with a very long one, and check that the composition holds in both. As a rule of thumb: an answer option runs from one to about eight words, a question from five to forty, a player name from two to twenty characters.
-- **Do not count on a fixed number of lines.** A title that is "always on one line" does not exist here.
-- **Do not optically align text with anything else.** Text that has to line up with a rule or a shape will drift as soon as it is shorter or longer. Use boxes that are roomy enough and an alignment (left, centred, right) instead of exact positions.
-- **Twelve languages.** German compounds are long, and Hungarian is no kinder. A box that is tight in English drops to an unreadably small size in German.
-- **Emoji can appear inside text.** Players pick one next to their team name, and a question or an option can contain one - sometimes an option is nothing but an emoji. They are drawn in colour and are taller than the letters around them.
-
-**What the build needs to know about each text box:** where it is, how big it is, how it is aligned, which colour and which font. Not: at what point size.
-
-**You can use this.** A large box with short text becomes a strong typographic composition by itself, and a box you deliberately make narrow and tall forces text into a column. Use the fitting as a design device; just do not design against it.
-
-### The timer - required, and it is an animation
-
-**Every question screen has a timer**; the room has to see how much time is left.
-
-**The timer is not a counting number but an animation whose playhead the engine moves.** You design a progression from "full" to "empty" - a bar draining, a ring closing, an hourglass, a shrinking line. The engine plays that animation at exactly the speed that makes the last frame coincide with the end of the question.
-
-What follows:
-
-- **The question duration is not fixed.** It is set per quiz - often twenty to thirty seconds, but it can be shorter or longer. Your animation is stretched or compressed to fit.
-- **No numbers or per-second ticks.** A timer counting "20, 19, 18…" stops being true as soon as the duration changes.
-- **The last seconds are the tensest moment of the game.** It helps if the progression becomes clearer or more urgent towards the end.
-- **Legible from the back of the room**, at a glance.
-- **Multiple timers are allowed.** A bar at the top and a ring near the question are both driven, as long as each is named `timer`.
-
-Supply the timer as a series of keyframes or as a description of the progression - "the bar drains right to left and shifts from green to red" is enough.
-
-### Flying emoji land on top of everything
-
-Every player picks an emoji when they join, and the game throws those emoji across the screen. They are drawn by the engine on a layer above the theme. **There is nothing here for you to design** - but there is something to design around, because they are not a rare flourish.
-
-They appear at three moments:
-
-- **When a player answers.** Their emoji rises from the bottom edge at a random horizontal position, arcs up and falls back out of frame.
-- **When a player flings one.** Players can fling their emoji from their phone; angle and speed come from the swipe, and it launches from the bottom centre, spinning.
-- **When a place is revealed in the final countdown.** A burst of the named player's emoji: twenty for an ordinary place, fifty for third, seventy-five for second, and **a hundred and fifty for the winner.**
-
-What that means for the design:
-
-- **Keep the bottom third of the standings and winner screens clear of anything small or critical.** During the countdown it is genuinely crowded down there.
-- **Assume they will clash with your palette.** They are full-colour emoji from every corner of the Unicode chart, and no theme controls them. A design that only holds together in a tight colour range will look accidental for those seconds.
-- **Flings are suppressed while an image or video is showing**, so the attachment screens stay clean.
-- **The whole layer can be switched off per game**, so do not build a composition that depends on them being there either.
-
-### Fonts
-
-- **Fonts must be embeddable.** The `.ttf` or `.otf` file is needed, plus a licence that allows embedding in an application. A font licensed only as a webfont, or only for print, cannot be used. Check this before designing with it; it is an expensive correction afterwards.
-- Fonts with unusually large ascenders or descenders can be compensated for, but flag it if you use one.
-
-### Colour as a list
-
-The theme reads a colour list from a configuration file, and the players' phones are styled from the same list. Supply your palette as a **named list**, not only as colours in the artwork:
-
-| Where                       | Colours                                                                                                                                                                                                                                                                |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Game screen**             | Main colour, accent colour, background, panel or container colour, timer background, default text colour, header text colour, question text colour, button text, dialog and explanation text, player name and score text, the colour for correct, the colour for wrong |
-| **The four answer options** | For each option: a background colour, a border colour, and one flat colour for the phones and the charts                                                                                                                                               |
-| **Players' phones**         | Background, text colour, outline colour, option outline colour, and the background and text colour of the answer container                                                                                                                                             |
-
-Gradients are allowed on the game screen: give them as two hex values.
-
-A few colours are the _only_ handle on parts the engine draws itself, so they are worth deciding rather than defaulting:
-
-- the **separator** - the rules between rows where there is no panel, and on the points ladder
-- the **active**, **inactive** and **selected** states of a row in the question picker
-- the **dialog** text
-- the **front and back of the QR code**
-
-If you leave them out they fall back to built-in defaults - white, grey, red, black and white - which rarely match a design.
-
-### The QuizWitz logo
-
-Custom designs include the QuizWitz logo. Reserve a place for it where it does not get in the way of the design.
+- **Pelaajien puhelimet.** Kiinteä HTML-asettelu.
+- **Ne harvat asiat, jotka moottori piirtää itse** - pisteportaikon rivien väliset viivat, kysymysvalitsimen korostettu rivi, QR-koodi. Niiden värit tulevat kohdasta [Värit luettelona](#colour-as-a-list).
+- **Mitkä näytöt käyttävät yleistä kehystä ja miten.**
+- **Miten kuusi kategoriaa vastaavat kierrosten introjen grafiikkaa.** Tämä vastaavuus on määritysasetus, joten yhtä introa voidaan käyttää useille kategorioille.
+- **Kaikki ajoitukset ja animaatioiden kestot.**
+- **Ääni.** Teemalla voi olla omaa musiikkia ja ääniefektejä, mutta se on erillinen toimitus eikä osa suunnittelutoimeksiantoa.
 
 ---
 
-## What to hand over
+## Suunnittelusäännöt
 
-### Source file - Illustrator preferred
+Mikään näistä ei rajoita visuaalista suunnitteluasi. Ne koskevat sitä, miten tiedosto rakennetaan.
 
-The theme is built in Adobe Animate, and what Animate can import decides how much of your work survives the hand-over intact:
+### Muoto
 
-| Tool                                             | What happens on import                                                                                                                                                                                                                                                                             | Use it for                                 |
-| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| **Adobe Illustrator** (`.ai`) | Animate imports it directly and converts your layers into Animate layers or separate symbols, keeping the layer names and leaving the vectors editable. That is exactly the step that saves the artwork from being rebuilt by hand.                                | **Preferred** for the final deliverable    |
-| **Adobe Photoshop**                              | Imports with its layers intact, like Illustrator, but gives raster instead of vector.                                                                                                                                                                                              | Possible                                   |
-| **Figma**                                        | Everything goes through SVG and PNG export, and that is precisely where the layer structure needed here is lost. If you do use Figma, supply **each element separately as SVG**, with filenames matching the layer names, so the structure can be rebuilt by hand. | The concept phase, if you are faster in it |
+- **1920 × 1080 pikseliä**, tarkalleen. Yksi kehys näyttöä kohden.
+- Työskentele **vektoreina** aina kun voit. Kun käytät rasterigrafiikkaa (valokuvat, tekstuurit): vähintään 2× näyttökoko.
+- Animate-dokumentti toimii nopeudella **24 kehystä sekunnissa**. Olennaista, jos toimitat liikeideoita.
+- Jätä reunoille **5 %:n marginaali**, jossa ei ole olennaista tietoa. Projektorit rajaavat kuvaa.
 
-File structure:
+### Tasorakenne - tärkein sääntö
 
-- One artboard per screen, named after the frames above.
-- Reusable parts (button, player row, answer option, timer) as **symbols** or components, not as loose copies.
-- Layer names in English, without spaces: `question`, `option1` to `option4`, `timer`, `feedback`, `header`, `background`, `playerScore`.
-- Colours as named swatches and text as named styles, rather than set on each object individually.
+**Kaikki, mikä voi liikkua, ilmestyä tai muuttaa arvoaan, on omalla nimetyllä tasollaan.** Mitään ei yhdistetä, mitään ei litistetä.
 
-### Deliverables checklist
+Käytännössä:
 
-1. The **source file**, structured as above.
-2. **Each frame as a PNG**, 1920 × 1080 - a reference for how it should look. For frame 2, both the version with and the version without a client logo.
-3. **The element sheet** as one artboard: the [content building blocks and the controls](#the-element-sheet).
-4. **Each separate graphic element as a transparent PNG at 2×**, in one folder, filename matching the layer name.
-5. **The timer** as keyframes or a written description of the progression.
-6. **Fonts** as `.ttf` or `.otf`, with proof of licence.
-7. **The colour list** from [Colour as a list](#colour-as-a-list), as hex values.
-8. **Half a page of notes**: what the idea is, how the options should appear, what moves and what stays still. Not a ten-page design rationale - whoever builds the theme needs to know what to build. Motion ideas may be described or supplied as a rough animatic.
+- neljä vastausvaihtoehtoa ovat neljä erillistä tasoa, eivät yksi
+- ajastin on erillään taustasta
+- painike ja sen teksti ovat kaksi elementtiä
+- pelaajarivi on yksi ryhmä, jonka voi monistaa
 
-### Order of work
+Mitä saa yhdistää: puhtaasti koristeellisen taustagrafiikan, joka toimii yhtenä pysäytyskuvana.
 
-1. **Frame 4, the question screen, together with the element sheet.** Get both approved before the rest. Between them they carry the timer, the options, the panel and every control, so they settle the style of the whole theme.
-2. **Frames 1 to 3.** They follow naturally from the first two.
-3. **Frames 6 to 8** come last.
+Tämä on ainoa sääntö, jonka laiminlyönti todella tekee kipeää - grafiikka on silloin purettava osiin tai piirrettävä uudelleen, mikä on juuri se kustannus, jota tällä järjestelyllä pyritään välttämään.
+
+### Efektit, jotka eivät säily
+
+Moottori piirtää HTML5-canvakselle. Nämä on **poltettava kuvaan** tai jätettävä pois:
+
+| Efekti                                                                        | Mitä tehdä sen sijaan        |
+| ----------------------------------------------------------------------------- | ---------------------------- |
+| Reaaliaikainen sumennus, varjostukset ja hehku suodattimina                   | Toimita ne grafiikkana       |
+| Sekoitustilat (multiply, screen, overlay)                  | Muunna ne tasaiseksi väriksi |
+| Tasoefektit ja säätötasot                                                     | Polta ne kuvaan              |
+| Liukuvärit tekstin **sisällä** tai teksti, jossa on merkkikohtainen ääriviiva | Jätä ne pois                 |
+| Maskit, jotka muuttuvat kehyksittäin                                          | Jätä ne pois                 |
+
+Liukuvärit muodoissa ovat kunnossa. Läpinäkyvyys on kunnossa. Varjot kiinteänä grafiikkana ovat kunnossa.
+
+### Miten teksti käyttäytyy
+
+Tässä QuizWitzille suunnittelu eroaa eniten tavallisesta suunnittelutyöstä.
+
+**Et määritä fonttikokoa. Piirrät laatikon.**
+
+Kaiken tekstin piirtää reaaliajassa komponentti, joka saa kaksi asiaa: merkkijonon ja piirtämäsi suorakulmion. Sen jälkeen se etsii **suurimman fonttikoon, jolla merkkijono riveille rivitettynä vielä mahtuu laatikkoon**. Pitkä merkkijono pienenee mahtuakseen; lyhyt kasvaa, kunnes laatikko on täynnä.
+
+![Valitsin, jossa kolme eripituista riviä saa kukin eri fonttikoon](/images/theme-design/frame1-general-multiquestion.png)
+
+Kolme riviä, kolme identtistä laatikkoa - ja kolme täysin eri fonttikokoa, pelkästään siksi, että teksti on lyhyempi tai pidempi. ”Where is love” saa koko korkeuden; sen yläpuolella olevan kysymyksen on tyydyttävä kahteen pieneen riviin. Vasemmalla olevat nimikkeet käyttäytyvät samalla tavalla.
+
+Tästä seuraa:
+
+- **Sama kysymys näyttää erilaiselta toisessa pelissä.** Kuuden sanan kysymys näkyy suurena ja näytön täyttävänä; kolmenkymmenenviiden sanan kysymys näkyy pienenä viidellä rivillä, täsmälleen samassa laatikossa. Molempien on näytettävä hyvältä.
+- **Suunnittele jokainen tekstilaatikko kahdesti.** Täytä se kerran hyvin lyhyellä ja kerran hyvin pitkällä esimerkillä ja tarkista, että sommitelma toimii molemmissa. Nyrkkisääntönä: vastausvaihtoehto on yhdestä noin kahdeksaan sanaa, kysymys viidestä neljäänkymmeneen sanaa, pelaajan nimi kahdesta kahteenkymmeneen merkkiä.
+- **Älä luota kiinteään rivimäärään.** Otsikkoa, joka on ”aina yhdellä rivillä”, ei täällä ole olemassa.
+- **Älä tasaa tekstiä optisesti minkään muun kanssa.** Teksti, jonka on oltava linjassa viivan tai muodon kanssa, siirtyy heti, kun se on lyhyempi tai pidempi. Käytä riittävän väljiä laatikoita ja tasausta (vasen, keskitetty, oikea) tarkkojen sijaintien sijaan.
+- **Kaksitoista kieltä.** Saksan yhdyssanat ovat pitkiä, eikä unkari ole yhtään armollisempi. Laatikko, joka on tiukka englanniksi, putoaa saksaksi lukukelvottoman pieneen kokoon.
+- **Tekstin sisällä voi olla emojeja.** Pelaajat valitsevat sellaisen joukkueensa nimen viereen, ja kysymys tai vaihtoehto voi sisältää emojin - joskus vaihtoehto on pelkkä emoji. Ne piirretään värillisinä, ja ne ovat ympäröiviä kirjaimia korkeampia.
+
+**Mitä rakentamisessa on tiedettävä kustakin tekstilaatikosta:** missä se on, kuinka suuri se on, miten se on tasattu, mikä väri ja mikä fontti. Ei: minkä pistekoon.
+
+**Voit hyödyntää tätä.** Suuri laatikko lyhyellä tekstillä muuttuu itsessään vahvaksi typografiseksi sommitelmaksi, ja tarkoituksella kapeaksi ja korkeaksi tehty laatikko pakottaa tekstin palstaksi. Käytä sovitusta suunnittelun keinona; älä vain suunnittele sitä vastaan.
+
+### Ajastin - pakollinen, ja se on animaatio
+
+**Jokaisella kysymysnäytöllä on ajastin**; huoneen on nähtävä, paljonko aikaa on jäljellä.
+
+**Ajastin ei ole laskeva luku vaan animaatio, jonka toistokohtaa moottori siirtää.** Suunnittelet etenemisen ”täydestä” ”tyhjään” - tyhjenevän palkin, sulkeutuvan renkaan, tiimalasin, lyhenevän viivan. Moottori toistaa animaation täsmälleen sillä nopeudella, jolla viimeinen kehys osuu kysymyksen loppuun.
+
+Tästä seuraa:
+
+- **Kysymyksen kesto ei ole kiinteä.** Se määritetään visakohtaisesti - usein kahdestakymmenestä kolmeenkymmeneen sekuntia, mutta se voi olla lyhyempi tai pidempi. Animaatiotasi venytetään tai tiivistetään sopivaksi.
+- **Ei numeroita eikä sekunnin välein tapahtuvia tikityksiä.** Ajastin, joka laskee ”20, 19, 18…”, lakkaa pitämästä paikkansa heti, kun kesto muuttuu.
+- **Viimeiset sekunnit ovat pelin jännittävin hetki.** On hyvä, jos eteneminen muuttuu loppua kohden selkeämmäksi tai kiireellisemmäksi.
+- **Luettavissa huoneen perältä** yhdellä silmäyksellä.
+- **Useita ajastimia saa olla.** Sekä yläreunan palkkia että kysymyksen lähellä olevaa rengasta ohjataan, kunhan kummankin nimi on `timer`.
+
+Toimita ajastin avainkehysten sarjana tai kuvauksena etenemisestä - ”palkki tyhjenee oikealta vasemmalle ja vaihtuu vihreästä punaiseksi” riittää.
+
+### Lentävät emojit laskeutuvat kaiken päälle
+
+Jokainen pelaaja valitsee liittyessään emojin, ja peli heittelee näitä emojeja näytön poikki. Moottori piirtää ne teeman yläpuolella olevalle tasolle. **Tässä ei ole sinulle mitään suunniteltavaa** - mutta on jotain, mikä suunnittelussa on otettava huomioon, sillä ne eivät ole harvinainen koriste.
+
+Ne ilmestyvät kolmella hetkellä:
+
+- **Kun pelaaja vastaa.** Hänen emojinsa nousee alareunasta satunnaisesta vaakasijainnista, kaartuu ylös ja putoaa takaisin kuvan ulkopuolelle.
+- **Kun pelaaja sinkoaa emojin.** Pelaajat voivat singota emojinsa puhelimestaan; kulma ja nopeus tulevat pyyhkäisystä, ja emoji lähtee pyörien alareunan keskeltä.
+- **Kun sijoitus paljastetaan loppulaskennassa.** Nimetyn pelaajan emojien ryöppy: kaksikymmentä tavallisesta sijoituksesta, viisikymmentä kolmannesta, seitsemänkymmentäviisi toisesta ja **sataviisikymmentä voittajalle.**
+
+Mitä tämä tarkoittaa suunnittelulle:
+
+- **Pidä tilanne- ja voittajanäyttöjen alin kolmannes vapaana kaikesta pienestä tai kriittisestä.** Loppulaskennan aikana siellä on todella ahdasta.
+- **Oleta, että ne riitelevät palettisi kanssa.** Ne ovat täysvärisiä emojeja Unicode-taulukon joka kolkasta, eikä mikään teema hallitse niitä. Suunnittelu, joka pysyy koossa vain tiukalla värialueella, näyttää noina sekunteina sattumanvaraiselta.
+- **Singotut emojit estetään, kun kuva tai video on näkyvissä**, joten liitenäytöt pysyvät siisteinä.
+- **Koko tason voi kytkeä pois päältä pelikohtaisesti**, joten älä myöskään rakenna sommitelmaa, joka on riippuvainen niiden olemassaolosta.
+
+### Fontit
+
+- **Fonttien on oltava upotettavia.** Tarvitaan `.ttf`- tai `.otf`-tiedosto sekä lisenssi, joka sallii upottamisen sovellukseen. Fonttia, jonka lisenssi kattaa vain verkkofonttikäytön tai vain painotuotteet, ei voi käyttää. Tarkista tämä ennen kuin suunnittelet sillä; jälkikäteen korjaus on kallis.
+- Epätavallisen suuria ylä- tai alapidennyksiä sisältäviä fontteja voidaan kompensoida, mutta mainitse asiasta, jos käytät sellaista.
+
+### Värit luettelona
+
+Teema lukee väriluettelon määritystiedostosta, ja pelaajien puhelimet muotoillaan samasta luettelosta. Toimita palettisi **nimettynä luettelona**, ei pelkästään grafiikassa käytettyinä väreinä:
+
+| Missä                        | Värit                                                                                                                                                                                                                                            |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Pelinäyttö**               | Pääväri, korostusväri, tausta, paneelin tai säiliön väri, ajastimen tausta, tekstin oletusväri, otsikkotekstin väri, kysymystekstin väri, painiketeksti, dialogi- ja selitysteksti, pelaajan nimen ja pisteiden teksti, oikein-väri, väärin-väri |
+| **Neljä vastausvaihtoehtoa** | Kullekin vaihtoehdolle: taustaväri, reunuksen väri ja yksi tasainen väri puhelimia ja kaavioita varten                                                                                                                           |
+| **Pelaajien puhelimet**      | Tausta, tekstin väri, ääriviivan väri, vaihtoehtojen ääriviivan väri sekä vastaussäiliön tausta- ja tekstiväri                                                                                                                                   |
+
+Liukuvärit ovat pelinäytöllä sallittuja: anna ne kahtena heksa-arvona.
+
+Muutamat värit ovat _ainoa_ tapa vaikuttaa osiin, jotka moottori piirtää itse, joten ne kannattaa päättää eikä jättää oletuksiksi:
+
+- **erotin** - rivien väliset viivat silloin, kun paneelia ei ole, sekä pisteportaikossa
+- kysymysvalitsimen rivin **aktiivinen**, **passiivinen** ja **valittu** tila
+- **dialogin** teksti
+- **QR-koodin etu- ja taustaväri**
+
+Jos jätät ne pois, niiden tilalla käytetään sisäänrakennettuja oletuksia - valkoinen, harmaa, punainen, musta ja valkoinen - jotka harvoin sopivat suunnitteluun.
+
+### QuizWitzin logo
+
+Omissa suunnitelmissa on mukana QuizWitzin logo. Varaa sille paikka, jossa se ei ole suunnittelun tiellä.
 
 ---
 
-## Appendix - symbol names
+## Mitä luovutetaan
 
-For completeness, and for anyone who wants to know exactly where their artwork ends up. **You do not need to read this to do the work**; the eight frames and the element sheet above are enough. Using these names as layer names saves a translation step.
+### Lähdetiedosto - mieluiten Illustrator
 
-| Frame                                              | Symbol name                                                                                                                               | Required parts                                                                                                                                                                                 |
-| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1. General frame            | `GeneralPurposeScreen`; `GeneralPurposeScreenWithHeader` optional                                                                         | `placeholder` (the content area); `title` text box optional                                                                                                                 |
-| 1b. Question picker, long question | `MultiQuestionScreen`, `LongQuestionScreen`; both optional, fall back to the general frame                                                | picker: `questions` placeholder, `timer`; long question: `question` placeholder                                                                                |
-| 2. Connect screen           | `PresentationConnectScreen`; `PresentationConnectScreenWithLogo` optional, with a `logo` placeholder                                      | `instructions.line1` to `line5`, `connectedPlayers`; `qrCode` placeholder with frame label `showQrCode` optional                                                                               |
-| 3. Waiting screen           | `PendingScreen`; `PendingScreenWithLogo` optional                                                                                         | `header.text`                                                                                                                                                                                  |
-| 4. Question screen          | `QuestionScreen`                                                                                                                          | `question.text`, `timer`, `feedback.text`, `option1` to `option4`, frame labels `showOptions` and `showFeedback`                                                                               |
-| 5. Question with attachment | `QuestionScreenAttachment`                                                                                                                | as above, plus `attachment.placeholder`                                                                                                                                                        |
-| 5b. Full-screen attachment         | `AttachmentScreen`                                                                                                                        | `placeholder`                                                                                                                                                                                  |
-| 6. Answer screen            | `AnswerPieScreen`; `AnswerPieScreenAttachment` optional                                                                                   | `option1` to `option4`, `answer.text`, `feedback.text`                                                                                                                                         |
-| 6b. Open question answer           | `AnswerScreen`, `AnswerOpenQuestionPieScreen`; `…Attachment` variants optional                                                            | `answer.text`, `feedback.text`, `players`, `piechart`                                                                                                                                          |
-| 7. Standings                | `WinnerScreen` + `PlayerScore`; `WinnerScreen_round`, `WinnerScreen_game` and `PlayerScoreNoImage` optional                               | `header.text`, `players`, `feedback.text` (`playAgain.text` optional); in the row: `position`, `name`, `score`, `avatar` optional                           |
-| 8. Round intro              | one or more symbols of any name; the configuration file maps each of the six categories to a symbol                                       | -                                                                                                                                                                                              |
-| -                                                  | `LoadingScreen`                                                                                                                           | `text`, `progress`                                                                                                                                                                             |
-| -                                                  | `Button`, `Checkbox`, `Slider`, `QuestionSelect`, `Scrollbar`, `SettingsScreenScrollarea`, `SymbolCorrect`, `SymbolWrong`, `PackListItem` | no artwork of their own needed - built from what appears in your frames                                                                                                                        |
-| -                                                  | `IntroScreen`, `IntroScreenBranded`, `MenuScreen`, `SettingsScreen`, `AlertScreen`, `ActivityScreen`, `ActivityVotePieScreen`             | only shown in the desktop app, not in a live quiz. Not part of the brief: they are taken from the theme template and restyled with your background and buttons |
+Teema rakennetaan Adobe Animatessa, ja se, mitä Animate pystyy tuomaan, ratkaisee, kuinka suuri osa työstäsi säilyy luovutuksessa ehjänä:
 
-The stock theme's round intro symbols are called `RoundIntroScienceAndTech`, `RoundIntroFloraAndFauna`, `RoundIntroTedMusic`, `RoundIntroTedSport` and `RoundIntroTedCultHist`; art and history share the last one. The "Ted" in those names is a leftover from the original theme's character and does not mean a character has to appear in them.
+| Työkalu                                          | Mitä tuonnissa tapahtuu                                                                                                                                                                                                                                                                            | Käytä sitä                                  |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| **Adobe Illustrator** (`.ai`) | Animate tuo sen suoraan ja muuntaa tasosi Animate-tasoiksi tai erillisiksi symboleiksi säilyttäen tasojen nimet ja jättäen vektorit muokattaviksi. Juuri tämä vaihe säästää grafiikan rakentamiselta uudelleen käsin.                                              | **Suositeltu** lopulliseen toimitukseen     |
+| **Adobe Photoshop**                              | Tuodaan tasot ehjinä kuten Illustratorista, mutta tuloksena on rasteri eikä vektori.                                                                                                                                                                                               | Mahdollinen                                 |
+| **Figma**                                        | Kaikki kulkee SVG- ja PNG-viennin kautta, ja juuri siinä tässä tarvittava tasorakenne katoaa. Jos käytät Figmaa, toimita **jokainen elementti erikseen SVG-muodossa** tiedostonimillä, jotka vastaavat tasojen nimiä, jotta rakenne voidaan koota uudelleen käsin. | Konseptivaiheeseen, jos olet siinä nopeampi |
 
-Every element with `.text` after it is a fitted text box as described under [How text behaves](#how-text-behaves): a rectangle the engine fills itself. The `timer` element is a movie clip with its own timeline; the engine reads its frame count and moves the playhead in proportion to elapsed time, at most 24 times per second.
+Tiedostorakenne:
 
-### What the configuration file takes from your design
+- Yksi piirtoalue näyttöä kohden, nimettynä yllä olevien kehysten mukaan.
+- Uudelleenkäytettävät osat (painike, pelaajarivi, vastausvaihtoehto, ajastin) **symboleina** tai komponentteina, ei irrallisina kopioina.
+- Tasojen nimet englanniksi ilman välilyöntejä: `question`, `option1`-`option4`, `timer`, `feedback`, `header`, `background`, `playerScore`.
+- Värit nimettyinä väriruutuina ja teksti nimettyinä tyyleinä sen sijaan, että ne asetetaan kullekin objektille erikseen.
+
+### Toimitettavien tarkistuslista
+
+1. **Lähdetiedosto** yllä kuvatulla tavalla jäsenneltynä.
+2. **Jokainen kehys PNG-kuvana**, 1920 × 1080 - malli siitä, miltä sen pitäisi näyttää. Kehyksestä 2 sekä versio asiakkaan logon kanssa että versio ilman sitä.
+3. **Elementtiarkki** yhtenä piirtoalueena: [sisällön rakennuspalikat ja ohjaimet](#the-element-sheet).
+4. **Jokainen erillinen grafiikkaelementti läpinäkyvänä PNG-kuvana 2×-koossa** yhdessä kansiossa, tiedostonimi tason nimen mukainen.
+5. **Ajastin** avainkehyksinä tai kirjallisena kuvauksena etenemisestä.
+6. **Fontit** `.ttf`- tai `.otf`-muodossa lisenssitodistuksen kanssa.
+7. **Väriluettelo** kohdasta [Värit luettelona](#colour-as-a-list) heksa-arvoina.
+8. **Puolen sivun muistiinpanot**: mikä idea on, miten vaihtoehtojen pitäisi ilmestyä, mikä liikkuu ja mikä pysyy paikallaan. Ei kymmenen sivun suunnitteluperustelua - teeman rakentajan on tiedettävä, mitä rakentaa. Liikeideat voi kuvailla tai toimittaa karkeana animaatioluonnoksena.
+
+### Työjärjestys
+
+1. **Kehys 4, kysymysnäyttö, yhdessä elementtiarkin kanssa.** Hyväksytä molemmat ennen muita. Yhdessä ne sisältävät ajastimen, vaihtoehdot, paneelin ja kaikki ohjaimet, joten ne ratkaisevat koko teeman tyylin.
+2. **Kehykset 1-3.** Ne seuraavat luontevasti kahdesta ensimmäisestä.
+3. **Kehykset 6-8** tulevat viimeisinä.
+
+---
+
+## Liite - symbolien nimet
+
+Täydellisyyden vuoksi ja kaikille, jotka haluavat tietää tarkalleen, mihin heidän grafiikkansa päätyy. **Tätä ei tarvitse lukea työn tekemiseksi**; yllä olevat kahdeksan kehystä ja elementtiarkki riittävät. Näiden nimien käyttäminen tasojen niminä säästää yhden käännösvaiheen.
+
+| Kehys                                              | Symbolin nimi                                                                                                                             | Pakolliset osat                                                                                                                                                                              |
+| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. Yleinen kehys            | `GeneralPurposeScreen`; `GeneralPurposeScreenWithHeader` valinnainen                                                                      | `placeholder` (sisältöalue); `title`-tekstilaatikko valinnainen                                                                                                           |
+| 1b. Kysymysvalitsin, pitkä kysymys | `MultiQuestionScreen`, `LongQuestionScreen`; molemmat valinnaisia, oletuksena yleinen kehys                                               | valitsin: `questions`-paikkamerkki, `timer`; pitkä kysymys: `question`-paikkamerkki                                                                          |
+| 2. Liittymisnäyttö          | `PresentationConnectScreen`; `PresentationConnectScreenWithLogo` valinnainen, `logo`-paikkamerkillä                                       | `instructions.line1`-`line5`, `connectedPlayers`; `qrCode`-paikkamerkki ja kehysnimike `showQrCode` valinnaisia                                                                              |
+| 3. Odotusnäyttö             | `PendingScreen`; `PendingScreenWithLogo` valinnainen                                                                                      | `header.text`                                                                                                                                                                                |
+| 4. Kysymysnäyttö            | `QuestionScreen`                                                                                                                          | `question.text`, `timer`, `feedback.text`, `option1`-`option4`, kehysnimikkeet `showOptions` ja `showFeedback`                                                                               |
+| 5. Kysymys liitteen kanssa  | `QuestionScreenAttachment`                                                                                                                | kuten yllä sekä `attachment.placeholder`                                                                                                                                                     |
+| 5b. Koko näytön liite              | `AttachmentScreen`                                                                                                                        | `placeholder`                                                                                                                                                                                |
+| 6. Vastausnäyttö            | `AnswerPieScreen`; `AnswerPieScreenAttachment` valinnainen                                                                                | `option1`-`option4`, `answer.text`, `feedback.text`                                                                                                                                          |
+| 6b. Avoimen kysymyksen vastaus     | `AnswerScreen`, `AnswerOpenQuestionPieScreen`; `…Attachment`-muunnelmat valinnaisia                                                       | `answer.text`, `feedback.text`, `players`, `piechart`                                                                                                                                        |
+| 7. Tilanne                  | `WinnerScreen` + `PlayerScore`; `WinnerScreen_round`, `WinnerScreen_game` ja `PlayerScoreNoImage` valinnaisia                             | `header.text`, `players`, `feedback.text` (`playAgain.text` valinnainen); rivillä: `position`, `name`, `score`, `avatar` valinnainen                      |
+| 8. Kierroksen intro         | yksi tai useampi vapaasti nimetty symboli; määritystiedosto yhdistää kunkin kuudesta kategoriasta symboliin                               | -                                                                                                                                                                                            |
+| -                                                  | `LoadingScreen`                                                                                                                           | `text`, `progress`                                                                                                                                                                           |
+| -                                                  | `Button`, `Checkbox`, `Slider`, `QuestionSelect`, `Scrollbar`, `SettingsScreenScrollarea`, `SymbolCorrect`, `SymbolWrong`, `PackListItem` | ei tarvitse omaa grafiikkaa - kootaan siitä, mitä kehyksissäsi on                                                                                                                            |
+| -                                                  | `IntroScreen`, `IntroScreenBranded`, `MenuScreen`, `SettingsScreen`, `AlertScreen`, `ActivityScreen`, `ActivityVotePieScreen`             | näytetään vain työpöytäsovelluksessa, ei live-visassa. Ei osa toimeksiantoa: ne otetaan teemapohjasta ja muotoillaan uudelleen taustallasi ja painikkeillasi |
+
+Vakioteeman kierrosintrojen symbolien nimet ovat `RoundIntroScienceAndTech`, `RoundIntroFloraAndFauna`, `RoundIntroTedMusic`, `RoundIntroTedSport` ja `RoundIntroTedCultHist`; taide ja historia jakavat viimeisen. Nimien ”Ted” on jäänne alkuperäisen teeman hahmosta, eikä se tarkoita, että niissä pitäisi esiintyä hahmo.
+
+Jokainen elementti, jonka perässä on `.text`, on sovitettu tekstilaatikko, kuten kohdassa [Miten teksti käyttäytyy](#how-text-behaves) on kuvattu: suorakulmio, jonka moottori täyttää itse. `timer`-elementti on movie clip, jolla on oma aikajanansa; moottori lukee sen kehysmäärän ja siirtää toistokohtaa suhteessa kuluneeseen aikaan enintään 24 kertaa sekunnissa.
+
+### Mitä määritystiedosto ottaa suunnittelustasi
 
 ```json
 {
