@@ -1,54 +1,54 @@
 ---
 id: order-question
-title: Order question
+title: Järjestyskysymys
 ---
 
-# 🔀 Order question
+# 🔀 Järjestyskysymys
 
-In an **Order question**, players must put up to 4 items in the correct sequence.  
-This round type is great for chronological, ranking, or sequencing challenges.
-
----
-
-![Example: Order question about animals](/images/question-modes/order-question/order-question-example.png)
+**Järjestyskysymyksessä** pelaajien on asetettava enintään 4 kohdetta oikeaan järjestykseen.  
+Tämä kierrostyyppi sopii hyvin aikajärjestys-, paremmuusjärjestys- ja järjestämistehtäviin.
 
 ---
 
-## 📝 How it works
-
-- **Question:** Clearly ask what order is required.  
-  _(Example: “Select the animals in the correct order from least to most legs.”)_
-- **Options:** Enter up to four items. You define the correct sequence.
-- **Player view:** Options are shown in random order. Players **select each item one by one** in the order they think is correct.
-- **Feedback:** After answering, players see the correct order and (optionally) any extra explanation you provide.
+![Esimerkki: järjestyskysymys eläimistä](/images/question-modes/order-question/order-question-example.png)
 
 ---
 
-## 🏆 Scoring
+## 📝 Näin se toimii
 
-Order questions use **time-based scoring** by default:  
-Faster correct answers earn more points, but most of the points are fixed. Time only affects a portion of the score.  
-You can also turn off time-based scoring per question for fixed points only.
-
-See [Scoring options in round settings](../editor/008-round-options.md#scoring) for details.
-
----
-
-## ⚙️ Expanded settings
-
-Order questions offer flexible settings:
-
-- **Time limit:** Set how long players have to answer.
-- **Points:** Set how many points are awarded for a fully correct answer.
-
-See [writing questions](../editor/005-writing-questions.md) for more.
+- **Kysymys:** Kerro selvästi, millaista järjestystä haetaan.  
+  _(Esimerkki: ”Valitse eläimet oikeassa järjestyksessä vähiten jalkoja omaavasta eniten jalkoja omaavaan.”)_
+- **Vaihtoehdot:** Syötä enintään neljä kohdetta. Sinä määrität oikean järjestyksen.
+- **Pelaajan näkymä:** Vaihtoehdot näytetään satunnaisessa järjestyksessä. Pelaajat **valitsevat kohteet yksi kerrallaan** siinä järjestyksessä, jonka he uskovat oikeaksi.
+- **Palaute:** Vastattuaan pelaajat näkevät oikean järjestyksen ja (halutessasi) antamasi lisäselityksen.
 
 ---
 
-## 💡 Tips for great order questions
+## 🏆 Pisteytys
 
-- **Be specific:** State clearly how you want items ordered (e.g., least to most, oldest to newest).
-- **Choose distinct options:** Avoid items that are too similar or ambiguous.
-- **Explain the answer:** Use feedback to clarify the correct order after the question.
-- **Mix formats:** Try chronological, size-based, or ranking-based questions for variety.
+Järjestyskysymyksissä käytetään oletuksena **aikaan perustuvaa pisteytystä**:  
+Nopeammat oikeat vastaukset tuovat enemmän pisteitä, mutta suurin osa pisteistä on kiinteitä. Aika vaikuttaa vain osaan pisteistä.  
+Voit myös poistaa aikaan perustuvan pisteytyksen käytöstä kysymyskohtaisesti, jolloin pisteet ovat kiinteät.
+
+Katso lisätietoja kohdasta [Pisteytysasetukset kierroksen asetuksissa](../editor/008-round-options.md#scoring).
+
+---
+
+## ⚙️ Laajennetut asetukset
+
+Järjestyskysymyksissä on joustavat asetukset:
+
+- **Aikaraja:** Määritä, kuinka kauan pelaajilla on aikaa vastata.
+- **Pisteet:** Määritä, montako pistettä täysin oikeasta vastauksesta saa.
+
+Katso lisää sivulta [kysymysten kirjoittaminen](../editor/005-writing-questions.md).
+
+---
+
+## 💡 Vinkkejä hyviin järjestyskysymyksiin
+
+- **Ole täsmällinen:** Kerro selvästi, miten kohteet järjestetään (esim. pienimmästä suurimpaan, vanhimmasta uusimpaan).
+- **Valitse selvästi erottuvat vaihtoehdot:** Vältä liian samankaltaisia tai monitulkintaisia kohteita.
+- **Selitä vastaus:** Käytä palautetta oikean järjestyksen selventämiseen kysymyksen jälkeen.
+- **Vaihtele muotoja:** Kokeile vaihtelun vuoksi aikajärjestykseen, kokoon tai paremmuuteen perustuvia kysymyksiä.
 
