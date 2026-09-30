@@ -1,51 +1,51 @@
 ---
 id: round-types
-title: Round types
+title: Kierrostyypit
 ---
 
-# Round types
+# Kierrostyypit
 
-The round type influences the way the game shows the questions to the players - and how players earn points.  
-In quizzes, you can change the round type in the **Round type** select field at the top middle of the screen.
+Kierrostyyppi vaikuttaa siihen, miten peli näyttää kysymykset pelaajille - ja miten pelaajat ansaitsevat pisteitä.  
+Visoissa voit vaihtaa kierrostyypin näytön yläreunan keskellä olevasta **Kierrostyyppi**-valintakentästä.
 
-## 🧠 Regular rounds
+## 🧠 Tavalliset kierrokset
 
-- [Trivia](011-trivia.md) (default)
-- [Common Thread](012-common-thread.md)
-- [Lightning Round](013-lightning-round.md)
+- [Trivia](011-trivia.md) (oletus)
+- [Punainen lanka](012-common-thread.md)
+- [Salamakierros](013-lightning-round.md)
 
-## 🤹 Interactive rounds
+## 🤹 Interaktiiviset kierrokset
 
-These rounds offer a bit more interactivity than simple ask-and-answer questions.
+Nämä kierrokset ovat hieman interaktiivisempia kuin pelkät kysy ja vastaa -kysymykset.
 
-- [Piece of Pie](021-piece-of-pie.md)
-- [Multiquestion](022-multiquestion.md)
+- [Piirakanpala](021-piece-of-pie.md)
+- [Monikysymys](022-multiquestion.md)
 - [Strike](023-strike.md)
 - [Dealer's Choice](024-dealers-choice.md)
-- [First come first served](025-first-come-first-served.md)
+- [Joka ensin ehtii](025-first-come-first-served.md)
 
-## 🍺 Traditional
+## 🍺 Perinteinen
 
-For anyone who wants to organize traditional pub quizzes where players can change their answers until the end of the round.  
-These round types simulate "handing in the papers" after each round.
+Kaikille, jotka haluavat järjestää perinteisiä pubivisoja, joissa pelaajat voivat muuttaa vastauksiaan kierroksen loppuun asti.  
+Nämä kierrostyypit jäljittelevät ”paperien palauttamista” jokaisen kierroksen jälkeen.
 
-- [Traditional](030-traditional.md)
-- [Traditional - Common thread](031-traditional-ct.md)
-- [Alphabet](032-alphabet.md)
+- [Perinteinen](030-traditional.md)
+- [Perinteinen - Punainen lanka](031-traditional-ct.md)
+- [Aakkoset](032-alphabet.md)
 
-## 🎉 Live events
+## 🎉 Livetapahtumat
 
-These round types do not contain any questions - but instead influence the outcome of the game.
+Nämä kierrostyypit eivät sisällä kysymyksiä - sen sijaan ne vaikuttavat pelin lopputulokseen.
 
-- [Activity](040-activity.md)
-- [Intermission](060-intermission.md)
-- [Player introduction](061-player-introduction.md)
-- [Elimination](050-elimination.md)
-- [Reset points](051-reset-points.md)
+- [Aktiviteetti](040-activity.md)
+- [Tauko](060-intermission.md)
+- [Pelaajaesittely](061-player-introduction.md)
+- [Pudotus](050-elimination.md)
+- [Nollaa pisteet](051-reset-points.md)
 
-## 🏢 Departments
+## 🏢 Osastot
 
-In these round types, you can select specific **departments** that play against other departments.
+Näissä kierrostyypeissä voit valita tietyt **osastot**, jotka pelaavat muita osastoja vastaan.
 
-- [Department - Dealer's Choice](070-departments-dealers-choice.md)
-- [Department - Elimination](071-departments-elimination.md)
+- [Osastot - Dealer's Choice](070-departments-dealers-choice.md)
+- [Osastot - Pudotus](071-departments-elimination.md)
