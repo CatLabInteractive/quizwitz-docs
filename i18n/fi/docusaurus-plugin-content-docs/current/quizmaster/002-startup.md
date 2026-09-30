@@ -1,122 +1,122 @@
 ---
 id: startup
-title: Start-up
+title: Käynnistys
 ---
 
-# 🚀 Start-up - Hosting a Quiz with QuizWitz Live
+# 🚀 Käynnistys - Visan isännöinti QuizWitz Livellä
 
-Welcome to QuizWitz Live - the professional way to host quizzes for teams, livestreams, and in-person events. Follow this guide to get your quiz up and running using the Quizmaster App.
-
----
-
-## 🖥️ Launching QuizWitz Live
-
-You can start a QuizWitz Live game from the quiz editor or directly from your quiz collection.
-
-- In the quiz editor, click **‘Start QuizWitz Live’**  
-  ![Start QuizWitz PRO](/images/start-quizwitz-pro.png)
-
-- From your collection, click the **Live icon** to launch  
-  ![Start QuizWitz PRO from your collection](/images/start-quizwitz-live.png)
+Tervetuloa QuizWitz Liveen - ammattimaiseen tapaan isännöidä visoja joukkueille, livelähetyksiin ja paikan päällä järjestettäviin tapahtumiin. Seuraa tätä opasta, niin saat visasi käyntiin Quizmaster-sovelluksella.
 
 ---
 
-## 🔐 Connecting with the quizmaster code
+## 🖥️ QuizWitz Liven käynnistäminen
 
-Once launched, your screen will display a **quizmaster code**. **Do not share this code with players** - it's used to connect your presentation device to the game.
+Voit aloittaa QuizWitz Live -pelin visaeditorista tai suoraan visakokoelmastasi.
 
-- Visit [quizwitz.tv](https://quizwitz.tv) on your quizmaster device and enter the quizmaster code.
-- A **Quizmaster App interface** will appear, where you control the game.
-- We recommend a **tablet or smartphone** for mobility, but a laptop works too.  
-  ![QuizWitz PRO connect screen](/images/quizwitz-pro-connect-token.png)
+- Napsauta visaeditorissa **”Käynnistä QuizWitz Live”**  
+  ![Käynnistä QuizWitz PRO](/images/start-quizwitz-pro.png)
 
-After connecting, the quizmaster code disappears from the screen. You’re now ready to show the game screen on a projector or start your livestream.
+- Napsauta kokoelmassasi **Live-kuvaketta** käynnistääksesi  
+  ![Käynnistä QuizWitz PRO kokoelmastasi](/images/start-quizwitz-live.png)
 
-> ⚠️ **Heads up!** If the game screen is not actively in focus - for example, if you switch tabs or minimize it - the game will **automatically pause**.  
-> When this happens:
+---
+
+## 🔐 Yhdistäminen visamestarikoodilla
+
+Käynnistyksen jälkeen näytölläsi näkyy **visamestarikoodi**. **Älä jaa tätä koodia pelaajille** - sillä yhdistetään esityslaitteesi peliin.
+
+- Mene visamestarin laitteella osoitteeseen [quizwitz.tv](https://quizwitz.tv) ja syötä visamestarikoodi.
+- Näkyviin tulee **Quizmaster-sovelluksen käyttöliittymä**, josta ohjaat peliä.
+- Suosittelemme liikkuvuuden vuoksi **tablettia tai älypuhelinta**, mutta kannettava tietokone käy myös.  
+  ![QuizWitz PRO -liittymisnäyttö](/images/quizwitz-pro-connect-token.png)
+
+Kun yhteys on muodostettu, visamestarikoodi katoaa näytöltä. Nyt voit näyttää pelinäytön projektorilla tai aloittaa livelähetyksen.
+
+> ⚠️ **Huomio!** Jos pelinäyttö ei ole aktiivisena - esimerkiksi jos vaihdat välilehteä tai pienennät sen - peli **pysähtyy automaattisesti tauolle**.  
+> Kun näin käy:
 >
-> - The **Quizmaster App also pauses**
-> - To resume, first make sure the **game screen is active again**
-> - Then **hover over the screen** to reveal the bottom menu and press the **pause button** to continue
+> - Myös **Quizmaster-sovellus pysähtyy tauolle**
+> - Jatkaaksesi varmista ensin, että **pelinäyttö on taas aktiivinen**
+> - Vie sitten **hiiri näytön päälle**, jolloin alavalikko tulee näkyviin, ja jatka painamalla **taukopainiketta**
 
 ---
 
-## 🎮 Selecting your game mode
+## 🎮 Pelitilan valitseminen
 
-Once connected, choose between two game modes:
+Kun yhteys on muodostettu, valitse kahdesta pelitilasta:
 
-![Quizmaster App - select mode](/images/quizmaster-app-select-mode.png)
+![Quizmaster-sovellus - valitse tila](/images/quizmaster-app-select-mode.png)
 
-### Team codes
+### Joukkuekoodit
 
-- Each team gets a **unique code**, which can be opened on multiple devices.
-- Best for **pre-registered team quizzes** where you know the team names in advance.
-- Allows device switching - helpful if a battery dies mid-quiz.
+- Jokainen joukkue saa **oman koodin**, jonka voi avata usealla laitteella.
+- Sopii parhaiten **ennalta ilmoittautuneiden joukkueiden visoihin**, joissa tiedät joukkueiden nimet etukäteen.
+- Mahdollistaa laitteen vaihtamisen - kätevää, jos akku loppuu kesken visan.
 
-### Single game code
+### Yhteinen pelikoodi
 
-- Everyone joins using **one shared Game Code**.
-- Ideal for casual or open-access events.
-- No pre-registration required - players can join anytime, until all active seats are filled.
+- Kaikki liittyvät **yhdellä yhteisellä pelikoodilla**.
+- Ihanteellinen rennoille tai kaikille avoimille tapahtumille.
+- Ennakkoilmoittautumista ei tarvita - pelaajat voivat liittyä milloin tahansa, kunnes kaikki aktiiviset Seats on täytetty.
 
-> Make sure you're logged in to access your quiz content.
-
----
-
-## 👥 Hosting with Team codes
-
-When using **Team codes**, you will first create teams in the Quizmaster App:
-
-- Add team names
-- Press **‘Generate Codes’** to create access codes  
-  ![Quizmaster App - create teams](/images/quizmaster-app-create-teams.png)
-
-You can also **reserve codes in advance** - more on that in the tips & tricks section.
-
-Be sure to **save the following codes**:
-
-- **Quizmaster code** - to control the quiz
-- **Jury Code** - for manual score adjustments
-- **Regie Code** - to control visual and technical elements
-
-Send team codes to your players via email or printouts.
-
-When ready, click **‘Load quiz’**, wait for assets to load, and then click **‘Start’** to begin.
-
-![Quizmaster App - get team codes](/images/quizmaster-app-create-teams2.png)
+> Varmista, että olet kirjautunut sisään, jotta pääset käsiksi visasisältöösi.
 
 ---
 
-## 👤 Hosting with a Single game code
+## 👥 Isännöinti joukkuekoodeilla
 
-With the **Single game code** scheme:
+Kun käytät **joukkuekoodeja**, luot ensin joukkueet Quizmaster-sovelluksessa:
 
-- You’ll receive the quizmaster, jury, and regie codes, plus one game code for players.
-- The game code appears on the game screen - **display or stream it to your audience**.
-- Players can join any time until your active seat limit is reached.
+- Lisää joukkueiden nimet
+- Luo pääsykoodit painamalla **”Luo koodit”**  
+  ![Quizmaster-sovellus - luo joukkueet](/images/quizmaster-app-create-teams.png)
 
-Once your players are in:
+Voit myös **varata koodeja etukäteen** - lisää tästä vinkkiosiossa.
 
-1. Click **‘Load quiz’**
-2. Click **‘Start quiz’** and confirm
-3. The Game Code remains visible for late joiners
+Muista **tallentaa seuraavat koodit**:
 
----
+- **Visamestarikoodi** - visan ohjaamiseen
+- **Tuomaristokoodi** - pisteiden käsin muuttamiseen
+- **Ohjaamokoodi** - visuaalisten ja teknisten elementtien ohjaamiseen
 
-## 🎟️ Activating seats
+Lähetä joukkuekoodit pelaajillesi sähköpostilla tai tulosteina.
 
-Before starting, you’ll need to check your available seats.
+Kun olet valmis, napsauta **”Lataa visa”**, odota, että sisältö latautuu, ja aloita sitten napsauttamalla **”Aloita”**.
 
-- An overview appears after selecting your game mode
-- If you need more seats, activate them at [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
-  ![Quizmaster App - activate seats](/images/quizmaster-app-seats.png)
+![Quizmaster-sovellus - hae joukkuekoodit](/images/quizmaster-app-create-teams2.png)
 
 ---
 
-## ▶️ Starting the game
+## 👤 Isännöinti yhteisellä pelikoodilla
 
-Once the setup is complete, press **‘Start quiz’** in the Quizmaster App to begin the game.
+**Yhteinen pelikoodi** -järjestelmässä:
 
-![Quizmaster App - start quiz](/images/quizmaster-app-start-quiz.png)
+- Saat visamestari-, tuomaristo- ja ohjaamokoodit sekä yhden pelikoodin pelaajille.
+- Pelikoodi näkyy pelinäytöllä - **näytä tai striimaa se yleisöllesi**.
+- Pelaajat voivat liittyä milloin tahansa, kunnes aktiivinen Seats-määräsi on täynnä.
 
-You're now ready to entertain your audience with a seamless QuizWitz Live experience!
+Kun pelaajasi ovat mukana:
+
+1. Napsauta **”Lataa visa”**
+2. Napsauta **”Aloita visa”** ja vahvista
+3. Pelikoodi pysyy näkyvissä myöhässä liittyville
+
+---
+
+## 🎟️ Seats-aktivointi
+
+Ennen aloittamista sinun on tarkistettava käytettävissä olevat Seats.
+
+- Yhteenveto tulee näkyviin, kun olet valinnut pelitilan
+- Jos tarvitset lisää Seats, aktivoi niitä osoitteessa [app.quizwitz.com/seats](https://app.quizwitz.com/seats)  
+  ![Quizmaster-sovellus - aktivoi Seats](/images/quizmaster-app-seats.png)
+
+---
+
+## ▶️ Pelin aloittaminen
+
+Kun valmistelut on tehty, aloita peli painamalla Quizmaster-sovelluksessa **”Aloita visa”**.
+
+![Quizmaster-sovellus - aloita visa](/images/quizmaster-app-start-quiz.png)
+
+Nyt olet valmis viihdyttämään yleisöäsi saumattomalla QuizWitz Live -kokemuksella!
