@@ -1,30 +1,30 @@
 ---
 id: best-answer-question
-title: Best answer question
+title: Paras vastaus -kysymys
 ---
 
-# 🎖️ Best answer question
+# 🎖️ Paras vastaus -kysymys
 
-In the **Best answer question** type, players write their own answers to an open-ended question.  
-Points are awarded either manually by the quizmaster, or - if there is no quizmaster - by having players vote for their favorite response.
-
----
-
-## 📝 How it works
-
-- **Players answer:** Each player types their response to the open question.
-- **Scoring:**
-  - In **QuizWitz Live** (with a quizmaster), the quizmaster reviews all answers and assigns points to the best one(s).
-  - In games without a quizmaster (Party Game, Conference mode), players vote for the answer they think is best. The answer(s) with the most votes get the points.
+**Paras vastaus -kysymyksessä** pelaajat kirjoittavat omat vastauksensa avoimeen kysymykseen.  
+Pisteet antaa joko visamestari käsin tai - jos visamestaria ei ole - pelaajat äänestämällä suosikkivastaustaan.
 
 ---
 
-## 💡 Tips for best answer questions
+## 📝 Näin se toimii
 
-- Use creative, open-ended questions that invite original or funny responses.
-- In QuizWitz Live, the quizmaster can award points for creativity, accuracy, or humor.
-- In games without a quizmaster, voting encourages players to read each other's answers and adds a fun social element.
+- **Pelaajat vastaavat:** Jokainen pelaaja kirjoittaa vastauksensa avoimeen kysymykseen.
+- **Pisteytys:**
+  - **QuizWitz Livessä** (visamestarin kanssa) visamestari käy läpi kaikki vastaukset ja antaa pisteet parhaalle (tai parhaille).
+  - Peleissä ilman visamestaria (Seurapeli, konferenssitila) pelaajat äänestävät mielestään parasta vastausta. Eniten ääniä saanut vastaus (tai saaneet vastaukset) saa pisteet.
 
 ---
 
-> 📚 For more on how voting or manual scoring works, see the [Jury App documentation](../quizmaster/004-jury-app.md).
+## 💡 Vinkkejä paras vastaus -kysymyksiin
+
+- Käytä luovia, avoimia kysymyksiä, jotka houkuttelevat omaperäisiin tai hauskoihin vastauksiin.
+- QuizWitz Livessä visamestari voi antaa pisteitä luovuudesta, tarkkuudesta tai huumorista.
+- Peleissä ilman visamestaria äänestäminen saa pelaajat lukemaan toistensa vastauksia ja tuo hauskan sosiaalisen lisän.
+
+---
+
+> 📚 Lisätietoja äänestyksestä ja käsin pisteyttämisestä on [tuomaristosovelluksen ohjeissa](../quizmaster/004-jury-app.md).
