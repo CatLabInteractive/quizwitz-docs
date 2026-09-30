@@ -1,59 +1,59 @@
 ---
 id: theming
-title: "Theming"
+title: "Teemat"
 ---
 
-# Theming
+# Teemat
 
 :::warning
-While creating your own QuizWitz theme offers the most flexibility, it is a complex and time-consuming process. In most cases, you are much better off customizing our [Emerald theme](011-emerald-theme.md), which is specifically designed to be easy to adapt.
+Oman QuizWitz-teeman luominen tarjoaa eniten joustavuutta, mutta se on monimutkainen ja aikaa vievä prosessi. Useimmissa tapauksissa on paljon parempi mukauttaa [Emerald-teemaamme](011-emerald-theme.md), joka on suunniteltu nimenomaan helposti muokattavaksi.
 :::
 
-QuizWitz themes are created using **Adobe Animate**. You can download a [theme template](https://themes.quizwitz.com/empty/quizwitz-empty-theme.zip) to use as a starting point. Be aware that theming QuizWitz is painstaking work and is best left to experienced designers who know the ins and outs of Adobe Animate.
+QuizWitz-teemat luodaan **Adobe Animatella**. Voit ladata [teemapohjan](https://themes.quizwitz.com/empty/quizwitz-empty-theme.zip) lähtökohdaksi. Huomaa, että QuizWitzin teemoittaminen on työlästä, ja se kannattaa jättää kokeneille suunnittelijoille, jotka tuntevat Adobe Animaten läpikotaisin.
 
-Prefer to leave it to the professionals? Send us an email at [support@catlab.be](mailto:support@catlab.be) and we can provide an estimate to turn your design into a ready-to-use QuizWitz theme.
+Jätätkö mieluummin työn ammattilaisille? Lähetä meille sähköpostia osoitteeseen [support@catlab.be](mailto:support@catlab.be), niin annamme arvion siitä, mitä maksaa muuttaa suunnitelmasi käyttövalmiiksi QuizWitz-teemaksi.
 
 :::tip
-Having a graphic designer draw the theme and someone else assemble it in Animate is a common arrangement. The [theme design guide](012-theme-design-guide.md) describes what the designer has to deliver for that to work.
+Yleinen järjestely on, että graafinen suunnittelija piirtää teeman ja joku muu kokoaa sen Animatessa. [Teeman suunnitteluopas](012-theme-design-guide.md) kertoo, mitä suunnittelijan on toimitettava, jotta tämä onnistuu.
 :::
 
 ---
 
-## 🧪 Theme test tool
+## 🧪 Teeman testityökalu
 
-When you're ready to test your theme, **zip the contents of your design folder** ( - not the folder itself; when you open the zip, you should see your files, not just a single folder - ) and upload it to our [theme tester](https://themes.quizwitz.com/). This gives you a live preview of how your theme will look in the game.
+Kun olet valmis testaamaan teemaasi, **pakkaa suunnittelukansiosi sisältö zip-tiedostoksi** ( - ei itse kansiota; kun avaat zip-tiedoston, sinun pitäisi nähdä tiedostosi eikä vain yhtä kansiota - ) ja lataa se [teematestaajaamme](https://themes.quizwitz.com/). Näin näet reaaliaikaisesti, miltä teemasi näyttää pelissä.
 
-After testing, email the zip file to us and we'll link it to your account so you can select and use your theme in your quizzes.
-
----
-
-## 🏷️ QuizWitz logo
-
-All custom designs must include the QuizWitz logo.
+Testauksen jälkeen lähetä zip-tiedosto meille sähköpostitse, niin liitämme sen tiliisi ja voit valita teemasi ja käyttää sitä visoissasi.
 
 ---
 
-## 🖥️ Screen overview
+## 🏷️ QuizWitzin logo
 
-| Stage                                                           | Game screen                                                                                               | Player device (Tablet/Phone)                |
-| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Connect screen                                                  |                                                                                                           |                                                                |
-| Waiting screen                                                  | Logo of the quiz. Displayed while the quizmaster is reading the question. | A quote urging the player to listen carefully. |
-| Game intro                                                      | Animation before the game.                                                                | Waiting screen.                                |
-| Round intro                                                     | Animation before each round.                                                              | Waiting screen.                                |
-| Questions                                                       |                                                                                                           |                                                                |
-| Attachment                                                      | Fullscreen attachment view ( - before/after questions or rounds - ).   | Waiting screen.                                |
-| Question: multiple choice without attachment    | Question + 4 multiple choice options.                                                     | Multiple choice answer screen.                 |
-| Question: multiple choice with attachment       | Question + 4 multiple choice options + a visual attachment.                               | Multiple choice answer screen.                 |
-| Question: open question without attachment      | Only the question.                                                                        | Text input and submit button.                  |
-| Question: open question with attachment         | The question + a visual attachment.                                                       | Text input and submit button.                  |
-| Activity: chosen teams                          | The name of an activity.                                                                  | Waiting screen or "you are selected" screen.   |
-| Feedback                                                        |                                                                                                           |                                                                |
-| Question feedback: multiple choice              | The question, correct options, and spread of answers.                                     | Correct / wrong + points earned.               |
-| Question feedback: open question                | The question, correct options, and % of correct answers.                                  | Correct / wrong + points earned.               |
-| Question feedback: open question + attachment   | The question, correct options, answer spread, and a visual attachment.                    | Correct / wrong + points earned.               |
-| Question feedback: multiple choice + attachment | The question, correct options, answer spread, and a visual attachment.                    | Correct / wrong + points earned.               |
-| Activity feedback                                               | The teams selected for an activity.                                                       | Waiting or correct/wrong screen.               |
-| Player ranking                                                  |                                                                                                           |                                                                |
-| Round outro                                                     | Top 10 of all players.                                                                    | Current position and total points.             |
-| Game outro                                                      | Countdown from 10th to 1st place, then final top 10.                                      | Final rank and total points.                   |
+Kaikissa omissa suunnitelmissa on oltava QuizWitzin logo.
+
+---
+
+## 🖥️ Näyttöjen yleiskatsaus
+
+| Vaihe                                                     | Pelinäyttö                                                                                                             | Pelaajan laite (tabletti/puhelin)                   |
+| --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Liittymisnäyttö                                           |                                                                                                                        |                                                                        |
+| Odotusnäyttö                                              | Visan logo. Näytetään, kun visamestari lukee kysymystä.                                | Lainaus, joka kehottaa pelaajaa kuuntelemaan tarkasti. |
+| Pelin intro                                               | Animaatio ennen peliä.                                                                                 | Odotusnäyttö.                                          |
+| Kierroksen intro                                          | Animaatio ennen jokaista kierrosta.                                                                    | Odotusnäyttö.                                          |
+| Kysymykset                                                |                                                                                                                        |                                                                        |
+| Liite                                                     | Koko näytön liitenäkymä ( - ennen kysymyksiä tai kierroksia tai niiden jälkeen - ). | Odotusnäyttö.                                          |
+| Kysymys: monivalinta ilman liitettä       | Kysymys + 4 monivalintavaihtoehtoa.                                                                    | Monivalinnan vastausnäyttö.                            |
+| Kysymys: monivalinta liitteen kanssa      | Kysymys + 4 monivalintavaihtoehtoa + visuaalinen liite.                                                | Monivalinnan vastausnäyttö.                            |
+| Kysymys: avoin kysymys ilman liitettä     | Pelkkä kysymys.                                                                                        | Tekstikenttä ja lähetyspainike.                        |
+| Kysymys: avoin kysymys liitteen kanssa    | Kysymys + visuaalinen liite.                                                                           | Tekstikenttä ja lähetyspainike.                        |
+| Aktiviteetti: valitut joukkueet           | Aktiviteetin nimi.                                                                                     | Odotusnäyttö tai ”sinut on valittu” -näyttö.           |
+| Palaute                                                   |                                                                                                                        |                                                                        |
+| Kysymyksen palaute: monivalinta           | Kysymys, oikeat vaihtoehdot ja vastausten jakauma.                                                     | Oikein / väärin + ansaitut pisteet.                    |
+| Kysymyksen palaute: avoin kysymys         | Kysymys, oikeat vaihtoehdot ja oikeiden vastausten %-osuus.                                            | Oikein / väärin + ansaitut pisteet.                    |
+| Kysymyksen palaute: avoin kysymys + liite | Kysymys, oikeat vaihtoehdot, vastausten jakauma ja visuaalinen liite.                                  | Oikein / väärin + ansaitut pisteet.                    |
+| Kysymyksen palaute: monivalinta + liite   | Kysymys, oikeat vaihtoehdot, vastausten jakauma ja visuaalinen liite.                                  | Oikein / väärin + ansaitut pisteet.                    |
+| Aktiviteetin palaute                                      | Aktiviteettiin valitut joukkueet.                                                                      | Odotusnäyttö tai oikein/väärin-näyttö.                 |
+| Pelaajien sijoitukset                                     |                                                                                                                        |                                                                        |
+| Kierroksen lopetus                                        | Kaikkien pelaajien top 10.                                                                             | Nykyinen sijoitus ja kokonaispisteet.                  |
+| Pelin lopetus                                             | Lähtölaskenta 10. sijasta 1. sijaan, sitten lopullinen top 10.         | Lopullinen sijoitus ja kokonaispisteet.                |
