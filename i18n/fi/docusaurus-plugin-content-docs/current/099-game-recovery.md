@@ -1,59 +1,59 @@
 ---
 id: live-crash-recovery
-title: ⚠️ Live Crash Recovery
+title: ⚠️ Live-pelin palautus kaatumisen jälkeen
 sidebar_position: 1000
 ---
 
-# ⚠️ Live Crash Recovery
+# ⚠️ Live-pelin palautus kaatumisen jälkeen
 
-Did your game freeze? Did the tab close by accident? [**QuizWitz Live**](quizmaster/001-introduction.md) includes a built-in recovery system to help you get back on track - without losing your progress.
-
----
-
-## 🔄 How game recovery works
-
-If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the session easily.
-
-Just **reopen the same browser tab** you were using to display the **game screen**. This is the screen you project or stream to your audience.
-
-When it loads:
-
-- You’ll be prompted to **resume the previous session** or **start a new one**
-- If you choose to resume, the game will restore your progress as closely as possible
+Jumittuiko pelisi? Sulkeutuiko välilehti vahingossa? [**QuizWitz Live**](quizmaster/001-introduction.md) -tilassa on sisäänrakennettu palautusjärjestelmä, jonka avulla pääset takaisin raiteille - menettämättä edistymistäsi.
 
 ---
 
-### ▶️ Resuming the game
+## 🔄 Näin pelin palautus toimii
 
-Select **“Resume game”** to:
+Jos pelisi kaatuu, jumittuu tai keskeytyy mistä tahansa syystä - oli kyse selainongelmasta, järjestelmän uudelleenkäynnistyksestä tai välilehden vahingossa sulkemisesta - voit jatkaa istuntoa helposti.
 
-- Continue from the same question or round
-- Restore the quiz state and visuals
+**Avaa uudelleen sama selaimen välilehti**, jolla näytit **pelinäyttöä**. Tämä on näyttö, jonka heijastat tai striimaat yleisöllesi.
 
-> ✅ This is the best option if your game crashed, froze, or was accidentally closed.
+Kun se latautuu:
 
----
-
-### 🆕 Starting a new game
-
-You can also choose to **start a new game** instead.
-
-- This will completely **clear the previous session**
-- You’ll return to the beginning of the quiz setup
-
-> ⚠️ Only choose this if you’re certain you don’t want to continue the existing game.
+- Sinulta kysytään, haluatko **jatkaa edellistä istuntoa** vai **aloittaa uuden**
+- Jos päätät jatkaa, peli palauttaa edistymisesi mahdollisimman tarkasti
 
 ---
 
-## 💡 Good to know
+### ▶️ Pelin jatkaminen
 
-- Recovery only works if you **return to the same game screen in the same browser**
-- Do **not** navigate to a different page - reopen the **exact URL** you were using to host the game
-- This feature helps recover from:
-  - Browser crashes
-  - Freezing or hanging mid-quiz
-  - Accidental closure or refresh
+Valitse **”Jatka peliä”**, niin voit:
+
+- Jatkaa samasta kysymyksestä tai kierroksesta
+- Palauttaa visan tilan ja ulkoasun
+
+> ✅ Tämä on paras vaihtoehto, jos pelisi kaatui, jumittui tai suljettiin vahingossa.
 
 ---
 
-With game recovery, you can host confidently - knowing that even if something goes wrong, you can pick up right where you left off.
+### 🆕 Uuden pelin aloittaminen
+
+Voit myös valita sen sijaan **Aloita uusi peli**.
+
+- Tämä **tyhjentää edellisen istunnon** kokonaan
+- Palaat visan asetusten alkuun
+
+> ⚠️ Valitse tämä vain, jos olet varma, ettet halua jatkaa nykyistä peliä.
+
+---
+
+## 💡 Hyvä tietää
+
+- Palautus toimii vain, jos **palaat samaan pelinäyttöön samassa selaimessa**
+- **Älä** siirry toiselle sivulle - avaa uudelleen **täsmälleen sama URL-osoite**, jota käytit pelin isännöintiin
+- Tämä ominaisuus auttaa palautumaan, kun kyseessä on:
+  - Selaimen kaatuminen
+  - Jumittuminen kesken visan
+  - Vahingossa sulkeminen tai päivittäminen
+
+---
+
+Pelin palautuksen ansiosta voit isännöidä luottavaisin mielin - tietäen, että vaikka jotain menisi pieleen, voit jatkaa täsmälleen siitä, mihin jäit.
