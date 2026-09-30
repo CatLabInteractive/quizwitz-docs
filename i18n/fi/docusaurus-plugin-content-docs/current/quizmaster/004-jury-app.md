@@ -1,61 +1,61 @@
 ---
 id: jury-app
-title: Jury App
+title: Tuomaristosovellus
 ---
 
-# 🧑‍⚖️ Jury App - Reviewing open answers in QuizWitz Live
+# 🧑‍⚖️ Tuomaristosovellus - Avointen vastausten tarkistaminen QuizWitz Livessä
 
-If your quiz includes **open answer questions**, you'll need to use the **Jury App** to manually review and score responses.
-
----
-
-## 🗂️ Using the Jury App
-
-The Jury App is a separate interface used by jury members to evaluate answers and manage scoring.
-
-To open the Jury App:
-
-1. At the start of the quiz, a **Jury Code** is generated.
-2. On a separate device, go to [**quizwitz.tv**](https://quizwitz.tv)
-3. Enter the **Jury Code** to access the app
-
-> 💡 You can open the Jury App on any browser - it's a web app, no installation required.
-
-Once inside, the Jury App provides several useful tools:
-
-- **Judge questions** - Open question results will appear once a question is completed.
-  - The game does **not wait** for the jury to finish - unless it’s the **last question of the round** or the quiz settings say otherwise.
-  - Once judged, results appear **after the next question**.
-
-- **Edit scores** - Grant or revoke points manually per player or team.
-
-- **Game control** - Adjust question timers or add streaming delays if needed.
-  > For livestream delay setup, see [**how to host a QuizWitz Live quiz on Twitch**](../tutorials/040-livestreaming.md)
-
-- **Report** - Generate a full game report with results and player answers.
-
-![Screenshot of the Jury App in Pending state](/images/jury-app-waiting.png)
+Jos visassasi on **avoimia kysymyksiä**, tarvitset **tuomaristosovellusta** vastausten tarkistamiseen ja pisteyttämiseen käsin.
 
 ---
 
-## ✅ Judging open questions
+## 🗂️ Tuomaristosovelluksen käyttö
 
-After each open question, the Jury App displays all submitted answers. Jury members must:
+Tuomaristosovellus on erillinen käyttöliittymä, jolla tuomariston jäsenet arvioivat vastauksia ja hallinnoivat pisteitä.
 
-1. Review each answer carefully
-2. Tick the checkbox next to each **acceptable** answer
-3. Click **‘Confirm’** to lock in the results
+Tuomaristosovelluksen avaaminen:
 
-![Screenshot of the Jury App in the Judging state](/images/jury-app-judging.png)
+1. Visan alussa luodaan **tuomaristokoodi**.
+2. Mene toisella laitteella osoitteeseen [**quizwitz.tv**](https://quizwitz.tv)
+3. Pääset sovellukseen syöttämällä **tuomaristokoodin**
 
-QuizWitz will **automatically detect exact matches** and mark them as correct. Jury members are responsible for reviewing:
+> 💡 Voit avata tuomaristosovelluksen millä tahansa selaimella - se on verkkosovellus, eikä sitä tarvitse asentaa.
 
-- Partial or alternate answers
-- Phonetic matches
-- Common spelling variations
+Sisällä tuomaristosovellus tarjoaa useita hyödyllisiä työkaluja:
 
-> 🎙️ QuizWitz was designed with phonetic matching in mind - but the final decision is always up to the judges.
+- **Arvioi kysymykset** - Avointen kysymysten tulokset tulevat näkyviin, kun kysymys on päättynyt.
+  - Peli **ei odota** tuomariston valmistumista - paitsi jos kyseessä on **kierroksen viimeinen kysymys** tai visan asetukset määräävät toisin.
+  - Kun vastaukset on arvioitu, tulokset näkyvät **seuraavan kysymyksen jälkeen**.
+
+- **Muokkaa pisteitä** - Anna tai poista pisteitä käsin pelaaja- tai joukkuekohtaisesti.
+
+- **Pelin ohjaus** - Säädä kysymysten ajastimia tai lisää tarvittaessa lähetysviiveitä.
+  > Livelähetyksen viiveen määrittämisestä kerrotaan sivulla [**näin isännöit QuizWitz Live -visan Twitchissä**](../tutorials/040-livestreaming.md)
+
+- **Raportti** - Luo koko pelistä raportti, jossa ovat tulokset ja pelaajien vastaukset.
+
+![Kuvakaappaus tuomaristosovelluksesta odotustilassa](/images/jury-app-waiting.png)
 
 ---
 
-With the Jury App, you can fairly assess open responses, adjust scores, and ensure a balanced quiz experience for all players.
+## ✅ Avointen kysymysten arviointi
+
+Jokaisen avoimen kysymyksen jälkeen tuomaristosovellus näyttää kaikki lähetetyt vastaukset. Tuomariston jäsenten on:
+
+1. Tarkistettava jokainen vastaus huolellisesti
+2. Rastitettava valintaruutu jokaisen **hyväksyttävän** vastauksen vieressä
+3. Lukittava tulokset napsauttamalla **”Vahvista”**
+
+![Kuvakaappaus tuomaristosovelluksesta arviointitilassa](/images/jury-app-judging.png)
+
+QuizWitz **tunnistaa täsmälleen oikeat vastaukset automaattisesti** ja merkitsee ne oikeiksi. Tuomariston jäsenet vastaavat seuraavien tarkistamisesta:
+
+- Osittain oikeat tai vaihtoehtoiset vastaukset
+- Foneettisesti vastaavat vastaukset
+- Yleiset kirjoitusasun vaihtelut
+
+> 🎙️ QuizWitz on suunniteltu foneettista vertailua silmällä pitäen - mutta lopullinen päätös on aina tuomareilla.
+
+---
+
+Tuomaristosovelluksella voit arvioida avoimet vastaukset reilusti, muuttaa pisteitä ja varmistaa tasapainoisen visakokemuksen kaikille pelaajille.
