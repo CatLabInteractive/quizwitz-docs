@@ -1,34 +1,34 @@
 ---
 id: question-types
-title: Question types
+title: Kysymystyypit
 ---
 
-# Question types
+# Kysymystyypit
 
-QuizWitz supports different question types. Each type has its own rules and gameplay mechanics.
-We suggest using a mix of different types to keep the game interesting and engaging.
+QuizWitz tukee erilaisia kysymystyyppejä. Jokaisella tyypillä on omat sääntönsä ja pelimekaniikkansa.
+Suosittelemme käyttämään eri tyyppejä sekaisin, jotta peli pysyy kiinnostavana ja mukaansatempaavana.
 
-Note that some round types limit the question types you can use.
+Huomaa, että jotkin kierrostyypit rajoittavat käytettävissä olevia kysymystyyppejä.
 
-## Regular question types
+## Tavalliset kysymystyypit
 
-These are the most common question types. They are easy to understand and play.
+Nämä ovat yleisimmät kysymystyypit. Ne on helppo ymmärtää ja pelata.
 
-- [Multiple choice](001-multiple-choice.md) (default)
-- [Order question](003-order-question.md)
-- [Image map question](004-image-map.md)
-- [Grid question](008-grid-question.md)
+- [Monivalinta](001-multiple-choice.md) (oletus)
+- [Järjestyskysymys](003-order-question.md)
+- [Kuvakarttakysymys](004-image-map.md)
+- [Ruudukkokysymys](008-grid-question.md)
 
-## Open questions
+## Avoimet kysymykset
 
-Open questions require players to type in their answers.
+Avoimissa kysymyksissä pelaajat kirjoittavat vastauksensa itse.
 
-- [Open question](002-open-question.md)
-- [List question](005-list-question.md)
+- [Avoin kysymys](002-open-question.md)
+- [Listakysymys](005-list-question.md)
 
-## Specials
+## Erikoiskysymykset
 
-These questions make the game slightly less fair, but they help to make sure there is always a winner.
+Nämä kysymykset tekevät pelistä hieman vähemmän reilun, mutta ne auttavat varmistamaan, että voittaja löytyy aina.
 
-- [Tiebreaker question](006-tiebreaker-question.md)
-- [Best answer question](007-best-answer-question.md)
+- [Ratkaisukysymys](006-tiebreaker-question.md)
+- [Paras vastaus -kysymys](007-best-answer-question.md)
