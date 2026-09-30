@@ -1,79 +1,79 @@
 ---
 id: conference-booth
-title: Conference booth
+title: Konferenssin esittelypiste
 ---
 
-# Conference booth
+# Konferenssin esittelypiste
 
-This tutorial will show you how to run QuizWitz at your conference booth - an easy, interactive way to attract visitors and gather leads!
+Tämä opas näyttää, miten QuizWitziä käytetään konferenssin esittelypisteellä - helppo ja vuorovaikutteinen tapa houkutella kävijöitä ja kerätä liidejä!
 
-![A photo of a Marvel conference booth using QuizWitz](/images/photos/marvel.jpg)
+![Valokuva Marvelin konferenssiesittelypisteestä, jossa käytetään QuizWitziä](/images/photos/marvel.jpg)
 
 ---
 
-## 📝 Creating the quiz
+## 📝 Visan luominen
 
-When building a quiz for a conference booth, keep in mind that some players may stick around for multiple games.  
-To keep things fresh, make sure you have plenty of questions - enough to randomize and make each playthrough unique.
+Kun kokoat visaa konferenssin esittelypisteelle, muista, että osa pelaajista saattaa jäädä pelaamaan useamman pelin.  
+Jotta visa pysyy tuoreena, varmista, että kysymyksiä on runsaasti - tarpeeksi satunnaistamiseen, jotta jokainen pelikerta on ainutlaatuinen.
 
-**Recommended setup:**
+**Suositeltu kokoonpano:**
 
-- 15 questions split into 3 rounds
-- Create at least 3× that many questions for variety - more is better!
+- 15 kysymystä jaettuna 3 kierrokseen
+- Luo vaihtelun vuoksi vähintään 3× niin monta kysymystä - mitä enemmän, sen parempi!
 
-### 🎲 Step-by-step quiz creation
+### 🎲 Visan luominen vaihe vaiheelta
 
-1. **Choose “Quiz”** in the Create menu and give your quiz a name. Set the correct language.
-2. **Add 3 rounds** and name them (for example: Round 1, Round 2, Round 3).
-3. In the **Round settings** (cog icon), enable **“Only show x questions”** and set the number to 5.  
-   Also enable **“Random question order”** - otherwise the game will always pick the first 5 questions.  
-   Repeat for each round.
+1. **Valitse ”Visa”** Luo-valikosta ja anna visallesi nimi. Aseta oikea kieli.
+2. **Lisää 3 kierrosta** ja nimeä ne (esimerkiksi: Kierros 1, Kierros 2, Kierros 3).
+3. Ota **kierroksen asetuksissa** (hammasrataskuvake) käyttöön **”Näytä vain x kysymystä”** ja aseta luvuksi 5.  
+   Ota käyttöön myös **”Satunnainen kysymysjärjestys”** - muuten peli valitsee aina 5 ensimmäistä kysymystä.  
+   Toista jokaiselle kierrokselle.
 
-![Screenshot of round settings for a conference booth](/images/tutorials/conference/round_settings.png)
+![Kuvakaappaus konferenssin esittelypisteen kierrosasetuksista](/images/tutorials/conference/round_settings.png)
 
-4. **Add questions to each round.**  
-   You can [write questions](../editor/005-writing-questions.md) or use the Import button to quickly add content from Excel.
+4. **Lisää kysymyksiä jokaiseen kierrokseen.**  
+   Voit [kirjoittaa kysymyksiä](../editor/005-writing-questions.md) tai lisätä sisältöä nopeasti Excelistä Tuo-painikkeella.
 
 :::tip
-Use lots of images and video clips - they make the game much more entertaining!
+Käytä runsaasti kuvia ja videoleikkeitä - ne tekevät pelistä paljon viihdyttävämmän!
 :::
 
 ---
 
-### 🔀 How random selection works
+### 🔀 Näin satunnainen valinta toimii
 
-Each time the quiz runs, QuizWitz will select 5 random questions from each round. The system will distribute questions fairly so repeats are minimized.
-
----
-
-## 🚀 Launch the quiz
-
-The fastest way to launch your conference quiz:
-
-1. Click **Play quiz**.
-2. Select **Start Conference mode**.
-
-In this mode, players use their phones to connect to the game link on the game screen.  
-When everyone is ready, the booth host presses Enter - and the game runs automatically.  
-After the game ends, pressing Enter brings you right back to the connection screen for the next group.
+Joka kerta kun visa pyörii, QuizWitz valitsee jokaisesta kierroksesta 5 satunnaista kysymystä. Järjestelmä jakaa kysymykset reilusti, jotta toistoja tulee mahdollisimman vähän.
 
 ---
 
-## ⚙️ Advanced game options
+## 🚀 Käynnistä visa
 
-Want more control?  
-Choose **Advanced game options** and select **Conference mode** in the mode selector.  
-You’ll get a unique link with all your chosen options.
+Nopein tapa käynnistää konferenssivisasi:
 
-- **Ask players’ email:**  
-  Collect visitor emails for your booth! If you enable this, be sure to also set your **Privacy Policy URL**.
-- When launching a game via the advanced options link, you may be prompted to log in before starting - this checks your content and licenses.
+1. Napsauta **Pelaa visaa**.
+2. Valitse **Aloita konferenssitila**.
 
-![Screenshot of advanced game settings](/images/tutorials/conference/advanced_game_settings.png)
+Tässä tilassa pelaajat yhdistävät puhelimillaan pelinäytöllä näkyvään pelilinkkiin.  
+Kun kaikki ovat valmiina, esittelypisteen isäntä painaa Enteriä - ja peli etenee automaattisesti.  
+Kun peli päättyy, Enterin painaminen vie sinut suoraan takaisin liittymisnäyttöön seuraavaa ryhmää varten.
 
 ---
 
-## 🎨 Theming
+## ⚙️ Pelin lisäasetukset
 
-Want to match the game to your booth branding?  
-See our [Theming guide](../advanced/011-emerald-theme.md) for tips on customizing your QuizWitz experience.
+Haluatko enemmän hallintaa?  
+Valitse **Pelin lisäasetukset** ja valitse tilanvalitsimesta **Konferenssitila**.  
+Saat yksilöllisen linkin, jossa ovat kaikki valitsemasi asetukset.
+
+- **Kysy pelaajien sähköpostiosoite:**  
+  Kerää esittelypisteesi kävijöiden sähköpostiosoitteita! Jos otat tämän käyttöön, muista asettaa myös **Tietosuojakäytännön URL**.
+- Kun käynnistät pelin lisäasetusten linkin kautta, sinua saatetaan pyytää kirjautumaan sisään ennen aloittamista - näin tarkistetaan sisältösi ja lisenssisi.
+
+![Kuvakaappaus pelin lisäasetuksista](/images/tutorials/conference/advanced_game_settings.png)
+
+---
+
+## 🎨 Teemat
+
+Haluatko sovittaa pelin esittelypisteesi brändiin?  
+Katso [teemaoppaastamme](../advanced/011-emerald-theme.md) vinkkejä QuizWitz-kokemuksesi mukauttamiseen.
