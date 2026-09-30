@@ -1,96 +1,96 @@
 ---
 id: create-quizzes
-title: Create quizzes
+title: Luo visoja
 ---
 
-# 🧠 Create a Full Quiz
+# 🧠 Luo kokonainen visa
 
-Want to build a complete quiz experience for players or events? This guide walks you through creating a full quiz using multiple rounds - including your own questions or Round-Abouts you've collected.
-
----
-
-## 🎬 Getting started
-
-From the main menu:
-
-1. Click **Create**
-2. Choose **Quiz** from the dropdown
-
-![QuizWitz create quiz](/images/create-quiz.png)
+Haluatko rakentaa kokonaisen visakokemuksen pelaajille tai tapahtumiin? Tämä opas neuvoo, miten luot kokonaisen visan useista kierroksista - omista kysymyksistäsi tai keräämistäsi Round-Abouteista.
 
 ---
 
-## ✏️ Title and language
+## 🎬 Aloitus
 
-Give your quiz a title and choose the main language.  
-You can add **translations** later if needed - no need to decide everything upfront.
+Päävalikosta:
 
----
+1. Napsauta **Luo**
+2. Valitse pudotusvalikosta **Visa**
 
-## ➕ Add rounds and questions
-
-Click **Add new round** to begin building your quiz. Each round can include its own settings and structure.
-
-On the left sidebar, you’ll be able to:
-
-- Name the round
-- Choose a category
-- [Import questions](../editor/015-importing-questions.md) in bulk
-
-![Create new round in quiz](/images/quiz-add-round.png)
-
-In the main editor, you can:
-
-- Add and edit individual questions
-- Reorder rounds or questions using the **arrow buttons**
-- Delete rounds or questions using the **trash bin icon**
-
-> 💡 Use the **Import questions** tool to quickly add multiple questions at once. Just follow the on-screen instructions and [check that everything imported correctly](../editor/015-importing-questions.md).
+![QuizWitz, visan luominen](/images/create-quiz.png)
 
 ---
 
-## ⚙️ Round settings
+## ✏️ Otsikko ja kieli
 
-Each round can have its own rules and format. Learn more in the advanced guides:
-
-- [Round types](../round-types/000-round-types.md) - Configure how a round behaves (e.g., lightning round, puzzle round)
-- [Question types](../question-types/000-question-types.md) - Adjust the format and scoring for each question
+Anna visallesi otsikko ja valitse sen pääkieli.  
+Voit lisätä **käännöksiä** myöhemmin tarvittaessa - kaikkea ei tarvitse päättää heti alussa.
 
 ---
 
-## 💾 Save and manage your quiz
+## ➕ Lisää kierroksia ja kysymyksiä
 
-Remember to:
+Aloita visasi rakentaminen napsauttamalla **Lisää uusi kierros**. Jokaisella kierroksella voi olla omat asetuksensa ja rakenteensa.
 
-- **Save** your quiz regularly
-- **Test and play** at any time
-- **Publish** your quiz when it’s ready to share
+Vasemmassa sivupalkissa voit:
 
-> 📢 To publish a quiz, it must contain **at least 14 questions**. Once published, it becomes available to the community - but you can unpublish it later if needed.
+- Nimetä kierroksen
+- Valita kategorian
+- [Tuoda kysymyksiä](../editor/015-importing-questions.md) kerralla useita
 
-> 📝 **Publishing is entirely optional.** You can play any quiz or Round-About privately without publishing it. This is great for personal use, testing, or private events.
+![Uuden kierroksen luominen visaan](/images/quiz-add-round.png)
 
----
+Pääeditorissa voit:
 
-## ▶️ Testing & playing
+- Lisätä ja muokata yksittäisiä kysymyksiä
+- Järjestää kierroksia tai kysymyksiä uudelleen **nuolipainikkeilla**
+- Poistaa kierroksia tai kysymyksiä **roskakorikuvakkeella**
 
-When you're ready to test or run your quiz, press the **Start Quiz** button. You’ll see the following options:
-
-![Quiz playlinks](/images/quiz-playlinks.png)
-
-- **[Play Party Game](../players/001-playing-quizwitz.md)** - A casual quiz experience to enjoy with friends on the same screen or via screenshare. The game runs automatically; the host can pause it, but has no further control over the pacing.
-- **[Start QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** - Launch a professional live quiz event using the Quizmaster App. This is the **only mode where the quizmaster controls the pacing** of the game.
-- **[Start Conference mode (PRO)](../tutorials/050-conference-booth.md)** - Host a conference-style quiz for larger audiences with assigned seating, team codes, and production tools. Like Party Games, conference games run automatically.
+> 💡 **Tuo kysymyksiä** -työkalulla voit lisätä nopeasti useita kysymyksiä kerralla. Seuraa vain näytön ohjeita ja [tarkista, että kaikki tuotiin oikein](../editor/015-importing-questions.md).
 
 ---
 
-### 🧪 Advanced testing options
+## ⚙️ Kierroksen asetukset
 
-Want to simulate a full quiz run-through? Use the advanced testing tools:
+Jokaisella kierroksella voi olla omat sääntönsä ja muotonsa. Lue lisää edistyneiden käyttäjien oppaista:
 
-- **Simulate** - Run a test playthrough with bots (no presentation)
-- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) session with bots, including Quizmaster, Jury, and Player views
+- [Kierrostyypit](../round-types/000-round-types.md) - Määritä, miten kierros toimii (esim. salamakierros, pulmakierros)
+- [Kysymystyypit](../question-types/000-question-types.md) - Säädä kunkin kysymyksen muotoa ja pisteytystä
 
 ---
 
-Ready to test your creativity? Start building and bring your quiz to life!
+## 💾 Tallenna ja hallitse visaasi
+
+Muista:
+
+- **Tallentaa** visasi säännöllisesti
+- **Testata ja pelata** milloin tahansa
+- **Julkaista** visasi, kun se on valmis jaettavaksi
+
+> 📢 Visan julkaisemiseksi siinä on oltava **vähintään 14 kysymystä**. Julkaisun jälkeen se on yhteisön käytettävissä - mutta voit tarvittaessa perua julkaisun myöhemmin.
+
+> 📝 **Julkaiseminen on täysin vapaaehtoista.** Voit pelata mitä tahansa visaa tai Round-Aboutia yksityisesti julkaisematta sitä. Tämä sopii hyvin henkilökohtaiseen käyttöön, testaamiseen tai yksityisiin tapahtumiin.
+
+---
+
+## ▶️ Testaaminen ja pelaaminen
+
+Kun olet valmis testaamaan tai pyörittämään visaasi, paina **Aloita visa** -painiketta. Näet seuraavat vaihtoehdot:
+
+![Visan pelilinkit](/images/quiz-playlinks.png)
+
+- **[Pelaa Seurapeliä](../players/001-playing-quizwitz.md)** - Rento visakokemus ystävien kanssa samalla näytöllä tai näytönjaon kautta. Peli etenee automaattisesti; isäntä voi keskeyttää sen, mutta ei voi muuten vaikuttaa sen tahtiin.
+- **[Aloita QuizWitz Live (PRO)](../quizmaster/001-introduction.md)** - Käynnistä ammattimainen live-visatapahtuma Quizmaster-sovelluksen avulla. Tämä on **ainoa tila, jossa visamestari ohjaa pelin tahtia**.
+- **[Aloita konferenssitila (PRO)](../tutorials/050-conference-booth.md)** - Isännöi konferenssityylinen visa suuremmille yleisöille, jossa on määrätyt istumapaikat, joukkuekoodit ja tuotantotyökalut. Seurapelien tapaan konferenssipelit etenevät automaattisesti.
+
+---
+
+### 🧪 Testauksen lisävaihtoehdot
+
+Haluatko simuloida kokonaisen visan läpikäynnin? Käytä edistyneitä testaustyökaluja:
+
+- **Simuloi** - Aja testiläpikäynti boteilla (ilman esitystä)
+- **Simuloi Live** - Simuloi kokonainen [QuizWitz Live](../quizmaster/001-introduction.md) -istunto boteilla, mukaan lukien visamestarin, tuomariston ja pelaajan näkymät
+
+---
+
+Valmiina koettelemaan luovuuttasi? Aloita rakentaminen ja herätä visasi henkiin!
