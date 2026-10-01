@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "QuizWitz",
+    "description": "Brand name. Do not translate."
+  },
+  "logo.alt": {
+    "message": "QuizWitz-logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.About QuizWitz": {
+    "message": "Tietoa QuizWitzistä",
+    "description": "Navbar item with label About QuizWitz"
+  },
+  "item.label.Round types": {
+    "message": "Kierrostyypit",
+    "description": "Navbar item with label Round types"
+  },
+  "item.label.Question types": {
+    "message": "Kysymystyypit",
+    "description": "Navbar item with label Question types"
+  },
+  "item.label.FAQ": {
+    "message": "UKK",
+    "description": "Navbar item with label FAQ"
+  }
+}
