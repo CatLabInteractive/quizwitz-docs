@@ -108,6 +108,8 @@ Keď sa tvoja hra spustí, vyber si režim:
 Hraj s priateľmi pomocou ich vlastných telefónov alebo tabletov:
 
 > 📺 Uisti sa, že herná obrazovka je viditeľná - použi zdieľaný displej alebo zdieľanie obrazovky
+>
+> 👥 Up to 2 players can join for free. With a Premium account, up to 100 players can join.
 
 1. Klikni na **Štart** a potom na **Párty hra**
 2. Hráči sa pripoja podľa pokynov na obrazovke
