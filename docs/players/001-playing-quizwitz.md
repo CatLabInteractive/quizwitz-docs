@@ -108,6 +108,8 @@ Once your game starts, choose your mode:
 Play with friends using their own phones or tablets:
 
 > 📺 Make sure the game screen is visible - use a shared display or screen share
+>
+> 👥 Up to 2 players can join for free. With a Premium account, up to 100 players can join.
 
 1. Click **Start**, then **Party Game**
 2. Players follow the instructions on-screen to join
