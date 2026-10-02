@@ -108,6 +108,8 @@ Sobald dein Spiel startet, wähle deinen Modus:
 Spiele mit Freunden, die ihr eigenes Handy oder Tablet nutzen:
 
 > 📺 Stelle sicher, dass der Spielbildschirm sichtbar ist - verwende einen gemeinsamen Bildschirm oder Bildschirmfreigabe
+>
+> 👥 Up to 2 players can join for free. With a Premium account, up to 100 players can join.
 
 1. Klicke auf **Starten**, dann auf **Partyspiel**
 2. Die Spieler folgen den Anweisungen auf dem Bildschirm, um beizutreten

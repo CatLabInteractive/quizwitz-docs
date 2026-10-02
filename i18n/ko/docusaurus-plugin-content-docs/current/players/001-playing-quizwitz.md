@@ -108,6 +108,8 @@ QuizWitz는 이미 본 문제를 건너뛰려고 합니다.
 친구들이 각자의 휴대폰이나 태블릿으로 함께 플레이합니다.
 
 > 📺 게임 화면이 잘 보이도록 하세요 - 공용 디스플레이나 화면 공유를 사용하세요
+>
+> 👥 Up to 2 players can join for free. With a Premium account, up to 100 players can join.
 
 1. **시작**을 클릭한 다음 **파티 게임**을 선택하세요
 2. 플레이어는 화면의 안내에 따라 참여합니다

@@ -108,6 +108,8 @@ Amint elindul a játék, válaszd ki a módot:
 Játssz a barátaiddal a saját telefonjaik vagy táblagépeik használatával:
 
 > 📺 Győződj meg róla, hogy a játékképernyő látható - használj közös kijelzőt vagy képernyőmegosztást
+>
+> 👥 Up to 2 players can join for free. With a Premium account, up to 100 players can join.
 
 1. Kattints a **Start** gombra, majd a **Társas játék** elemre
 2. A játékosok a képernyőn megjelenő utasításokat követve csatlakoznak
