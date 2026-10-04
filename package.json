@@ -5,12 +5,13 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
+    "prebuild": "node scripts/protect-terms.mjs",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
-    "write-translations": "docusaurus write-translations && node scripts/strip-blog-translations.mjs",
+    "write-translations": "docusaurus write-translations && node scripts/strip-blog-translations.mjs && node scripts/protect-terms.mjs",
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
