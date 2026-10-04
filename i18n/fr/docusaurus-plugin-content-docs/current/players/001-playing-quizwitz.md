@@ -109,7 +109,7 @@ Jouez avec des amis utilisant leurs propres téléphones ou tablettes :
 
 > 📺 Assurez-vous que l'écran de jeu est visible - utilisez un écran partagé ou un partage d'écran
 >
-> 👥 Up to 2 players can join for free. With a Premium account, up to 100 players can join.
+> 👥 Jusqu'à 2 joueurs peuvent participer gratuitement. Avec un compte Premium, jusqu'à 100 joueurs peuvent participer.
 
 1. Cliquez sur **Démarrer**, puis **Jeu de groupe**
 2. Les joueurs suivent les instructions à l'écran pour rejoindre
