@@ -109,7 +109,7 @@ Graj ze znajomymi, którzy używają własnych telefonów lub tabletów:
 
 > 📺 Upewnij się, że ekran gry jest widoczny - użyj wspólnego wyświetlacza lub udostępniania ekranu
 >
-> 👥 Up to 2 players can join for free. With a Premium account, up to 100 players can join.
+> 👥 Za darmo może dołączyć do 2 graczy. Z kontem Premium może dołączyć do 100 graczy.
 
 1. Kliknij **Start**, a następnie **Gra imprezowa**
 2. Gracze dołączają, postępując zgodnie z instrukcjami na ekranie
