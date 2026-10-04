@@ -109,7 +109,7 @@ Speel met vrienden via hun eigen telefoons of tablets:
 
 > 📺 Zorg dat het spelscherm zichtbaar is - gebruik een gedeeld scherm of deel je scherm
 >
-> 👥 Up to 2 players can join for free. With a Premium account, up to 100 players can join.
+> 👥 Maximaal 2 spelers kunnen gratis meedoen. Met een Premium-account kunnen maximaal 100 spelers meedoen.
 
 1. Klik op **Start**, en dan **Party Game**
 2. Spelers volgen de instructies op het scherm om mee te doen
