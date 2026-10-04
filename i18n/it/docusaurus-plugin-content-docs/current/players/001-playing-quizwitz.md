@@ -109,7 +109,7 @@ Gioca con gli amici usando i loro telefoni o tablet:
 
 > 📺 Assicurati che lo schermo di gioco sia visibile - usa un display condiviso o la condivisione dello schermo
 >
-> 👥 Up to 2 players can join for free. With a Premium account, up to 100 players can join.
+> 👥 Fino a 2 giocatori possono partecipare gratis. Con un account Premium possono partecipare fino a 100 giocatori.
 
 1. Clicca su **Avvia**, poi scegli **Party Game**
 2. I giocatori seguono le istruzioni sullo schermo per partecipare
