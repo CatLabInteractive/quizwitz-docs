@@ -109,7 +109,7 @@ Arkadaşlarınla, onların kendi telefonlarını veya tabletlerini kullanarak oy
 
 > 📺 Oyun ekranının görünür olduğundan emin ol - ortak bir ekran veya ekran paylaşımı kullan
 >
-> 👥 Up to 2 players can join for free. With a Premium account, up to 100 players can join.
+> 👥 En fazla 2 oyuncu ücretsiz katılabilir. Premium hesapla en fazla 100 oyuncu katılabilir.
 
 1. **Başlat**'a, ardından **Parti Oyunu**'na tıkla
 2. Oyuncular katılmak için ekrandaki talimatları izler
