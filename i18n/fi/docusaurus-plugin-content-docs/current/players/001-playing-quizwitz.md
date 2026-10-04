@@ -109,7 +109,7 @@ Pelaa ystävien kanssa heidän omilla puhelimillaan tai tableteillaan:
 
 > 📺 Varmista, että pelinäyttö on näkyvissä - käytä yhteistä näyttöä tai näytönjakoa
 >
-> 👥 Up to 2 players can join for free. With a Premium account, up to 100 players can join.
+> 👥 Enintään 2 pelaajaa voi liittyä ilmaiseksi. Premium-tilillä mukaan voi liittyä enintään 100 pelaajaa.
 
 1. Napsauta **Aloita** ja sitten **Seurapeli**
 2. Pelaajat liittyvät seuraamalla näytön ohjeita
