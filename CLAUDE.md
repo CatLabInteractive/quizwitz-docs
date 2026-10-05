@@ -15,3 +15,5 @@ The rules for working on QuizWitz are kept in the sibling repo `../quizwitz-stra
 Docusaurus 3 site for docs.quizwitz.com. English source in `docs/`; translations in `i18n/<lang>/` come from Crowdin (project 798140) and are not edited by hand. Screenshots live in `assets/images/` and are referenced as `/images/...`.
 
 Git workflow: feature branch + pull request to `main`; never push directly to `main`.
+
+Names of other services are never translated (Discord, see the glossary). `scripts/protect-terms.mjs` runs before every build and after `write-translations`, and puts any translated copy of a label listed in its `PROTECTED` array back to English, so a Crowdin sync cannot bring "Onenigheid" back. Add a name there when you add a link label for another service.
