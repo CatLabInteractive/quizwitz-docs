@@ -108,6 +108,8 @@ Als je spel begint, kies je je modus:
 Speel met vrienden via hun eigen telefoons of tablets:
 
 > 📺 Zorg dat het spelscherm zichtbaar is - gebruik een gedeeld scherm of deel je scherm
+>
+> 👥 Maximaal 2 spelers kunnen gratis meedoen. Met een Premium-account kunnen maximaal 100 spelers meedoen.
 
 1. Klik op **Start**, en dan **Party Game**
 2. Spelers volgen de instructies op het scherm om mee te doen

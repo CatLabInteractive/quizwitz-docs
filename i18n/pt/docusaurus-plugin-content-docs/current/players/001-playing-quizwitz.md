@@ -108,6 +108,8 @@ Assim que o jogo começar, escolhe o teu modo:
 Joga com amigos usando os próprios telemóveis ou tablets deles:
 
 > 📺 Certifica-te de que o ecrã do jogo está visível - usa um ecrã partilhado ou a partilha de ecrã
+>
+> 👥 Até 2 jogadores podem entrar gratuitamente. Com uma conta Premium, podem entrar até 100 jogadores.
 
 1. Clica em **Iniciar** e depois em **Party Game**
 2. Os jogadores seguem as instruções no ecrã para entrar

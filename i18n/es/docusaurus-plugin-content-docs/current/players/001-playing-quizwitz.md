@@ -107,6 +107,8 @@ Una vez que comience tu juego, elige tu modo:
 Juega con amigos usando sus propios teléfonos o tablets:
 
 > 📺 Asegúrate de que la pantalla del juego sea visible: usa una pantalla compartida o comparte la pantalla
+>
+> 👥 Hasta 2 jugadores pueden unirse gratis. Con una cuenta Premium, pueden unirse hasta 100 jugadores.
 
 1. Haz clic en **Comenzar**, luego en **Juego en grupo**
 2. Los jugadores siguen las instrucciones en pantalla para unirse

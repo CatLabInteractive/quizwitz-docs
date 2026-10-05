@@ -108,6 +108,8 @@ Gdy gra się rozpocznie, wybierz tryb:
 Graj ze znajomymi, którzy używają własnych telefonów lub tabletów:
 
 > 📺 Upewnij się, że ekran gry jest widoczny - użyj wspólnego wyświetlacza lub udostępniania ekranu
+>
+> 👥 Za darmo może dołączyć do 2 graczy. Z kontem Premium może dołączyć do 100 graczy.
 
 1. Kliknij **Start**, a następnie **Gra imprezowa**
 2. Gracze dołączają, postępując zgodnie z instrukcjami na ekranie

@@ -108,6 +108,8 @@ Sobald dein Spiel startet, wähle deinen Modus:
 Spiele mit Freunden, die ihr eigenes Handy oder Tablet nutzen:
 
 > 📺 Stelle sicher, dass der Spielbildschirm sichtbar ist - verwende einen gemeinsamen Bildschirm oder Bildschirmfreigabe
+>
+> 👥 Bis zu 2 Spieler können kostenlos mitspielen. Mit einem Premium-Konto können bis zu 100 Spieler mitspielen.
 
 1. Klicke auf **Starten**, dann auf **Partyspiel**
 2. Die Spieler folgen den Anweisungen auf dem Bildschirm, um beizutreten

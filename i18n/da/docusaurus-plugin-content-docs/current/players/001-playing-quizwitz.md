@@ -108,6 +108,8 @@ Når dit spil starter, skal du vælge din tilstand:
 Spil med venner, der bruger deres egne telefoner eller tablets:
 
 > 📺 Sørg for, at spilskærmen er synlig - brug en fælles skærm eller skærmdeling
+>
+> 👥 Op til 2 spillere kan deltage gratis. Med en Premium-konto kan op til 100 spillere deltage.
 
 1. Klik på **Start** og derefter på **Partyspil**
 2. Spillerne følger instruktionerne på skærmen for at deltage
