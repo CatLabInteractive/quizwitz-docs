@@ -68,17 +68,34 @@ The available modifiers are:
 * backgroundColor
 * mainColor
 * accentColor
+* containerColor (the question container; may carry an alpha value, for example ffffff40)
 * timerBackgroundColor
 * headerTextColor
 * optionTextColor
+* dialogTextColor
+* pieChartLabelColor
+* ladderColor
 * optionColors (4 colors, comma — separated)
 * optionBorderColors (4 colors, comma — separated)
+
+The players' devices can be styled as well:
+* remoteBackgroundColor
+* remoteTextColor
+* remoteQuestionColor
+* remoteQuestionTextColor
+* remoteOptionOutlineColor
+* remoteOutlineColor
+* remoteContainerBackground
+* remoteContainerText
+* remoteOptionColors (4 colors, comma — separated)
 
 Additionally, you can set a default font:
 * defaultFont
 * headerFont
 
 These fonts must be URLs to publicly available font files.
+
+Finally, `hideLogo=1` hides the QuizWitz logo.
 
 Each of these modifiers can contain a single color in HTML hex format (ff0000), or a linear gradient by providing multiple colors divided by a minus symbol ( — for example ff1b6b-45caff). (Note that the # symbol should not be added.)
 
@@ -90,3 +107,19 @@ By adding these parameters to your game URL, you can modify the colors in the th
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![A screenshot of the Emerald theme with custom modifiers](/images/emerald/theme_properties.png)
+
+### Saving the modifiers on your quiz
+
+You don't have to add the parameters to every link by hand. Open **Share or embed** in the quiz editor, expand **Advanced game options** and paste the parameters (without the leading question mark, for example `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) into the **raw query string** field and click **Save settings to quiz**. Every play link and share link of the quiz carries them from then on.
+
+The QuizWitz AI assistant can do this for you as well: ask it to change the background colour of your quiz and it will switch the quiz to the Emerald theme and store the modifiers.
+
+## Custom question views
+
+The Emerald theme also offers two extra screen layouts for a question with an image or video in its **During question** slot, chosen per question with the **Custom view** option in the question settings:
+
+* **Full screen attachment** — the image or video fills the whole game screen, the question text and options are not drawn
+* **Full screen attachment without timer** — the same, with the countdown hidden too
+
+Players read the question and answer on their own devices. See [writing questions](../editor/005-writing-questions.md) for details.
+

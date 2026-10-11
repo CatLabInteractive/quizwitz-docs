@@ -43,6 +43,14 @@ Each attachment can have a name and optional attribution:
 
 ---
 
+## 📱 Show on player devices
+
+Images shown between screens — before or after a question, before or after its feedback, and before or after a round — can also be shown on the **players' devices**, not only on the main game screen. Tick **Show on player devices** on the attachment to do so.
+
+> ℹ️ This applies to images only. An image in the **During question** slot is never mirrored: players see it on the main screen. To make that image fill the main screen instead, use the question's **Custom view** (see [writing questions](../editor/005-writing-questions.md)).
+
+---
+
 ## ✨ Attachment effects
 
 Some attachment slots support **effects** to reveal visuals more gradually:
