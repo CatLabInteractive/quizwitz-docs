@@ -30,7 +30,7 @@ Para quien quiera organizar quizzes tradicionales de pub donde los jugadores pue
 Estos tipos de ronda simulan "entregar los papeles" después de cada ronda.
 
 - [Tradicional](030-traditional.md)
-- [Tradicional - Hilo común](031-traditional-ct.md)
+- [Traditional - Common Thread](031-traditional-ct.md)
 - [Alfabeto](032-alphabet.md)
 
 ## 🎉 Eventos en vivo
