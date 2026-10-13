@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: Közös szál
+title: Common Thread
 ---
 
 # 🧵 Közös szál
