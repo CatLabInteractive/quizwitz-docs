@@ -80,7 +80,7 @@ Når du er klar:
 
 Vælg:
 
-- **Spiltilstand** - Singleplayer eller Partyspil
+- **Game mode** - Single player or Party Game
 - **Hvilke Round-Abouts** der skal med i dit spil
 
 QuizWitz forsøger at springe spørgsmål over, som du allerede har set.
@@ -93,7 +93,7 @@ QuizWitz forsøger at springe spørgsmål over, som du allerede har set.
 
 Når dit spil starter, skal du vælge din tilstand:
 
-### 🎮 Singleplayer
+### 🎮 Single player
 
 - Klik på **Start**, og vælg derefter **Singleplayer**
 - Brug musen, tastaturet eller touchskærmen til at svare
