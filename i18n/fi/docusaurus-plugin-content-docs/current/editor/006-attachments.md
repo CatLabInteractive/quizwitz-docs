@@ -38,7 +38,15 @@ Jokaisella liitteellä voi olla nimi ja valinnainen lähdemerkintä:
 - **Nimi** - Näytetään visamestarille [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) -tilassa; auttaa liitteiden järjestämisessä
 - **Lähdemerkintä** - Näytetään pelaajille tekijä- tai lähdetietona. Tähän tulee **oikeuksien haltijan nimi**.
 
-> ⚠️ Jotta voit **julkaista** Round-Aboutin tai Visan, **kaikilla liitteillä on oltava kelvollinen lähdemerkintä**. Ilman sitä sisältöäsi ei voi julkaista.
+> ⚠️ Jotta voit **julkaista** Round-Aboutin tai Visan, **kaikilla liitteillä on oltava kelvollinen lähdemerkintä**. Without this, it cannot be made public.
+
+---
+
+## 📱 Show on player devices
+
+Images shown between screens - before or after a question, before or after its feedback, and before or after a round - can also be shown on the **players' devices**, not only on the game screen. Tick **Show on player devices** on the attachment to do so.
+
+> ℹ️ This applies to images only. An image in the **During question** slot is never mirrored: players see it on the game screen. To make that image fill the game screen instead, use the question's **Custom view** (see [writing questions](../editor/005-writing-questions.md)).
 
 ---
 
