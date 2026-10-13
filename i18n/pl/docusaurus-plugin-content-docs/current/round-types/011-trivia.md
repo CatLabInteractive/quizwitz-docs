@@ -36,7 +36,7 @@ Runda **Trivia** to klasyczny, domyślny typ rundy w QuizWitz. Przedstawia seri�
 
 - **Mieszaj typy pytań:** Urozmaicenie zwiększa zaangażowanie.
 - **Zachowaj równowagę:** Przeplataj pytania łatwe i trudne, aby utrzymać motywację graczy.
-- **Używaj multimediów:** Dołączaj obrazy, audio lub wideo, aby wzbogacić treść.
+- **Use attachments:** Attach images, audio, or video for richer content.
 
 ---
 
