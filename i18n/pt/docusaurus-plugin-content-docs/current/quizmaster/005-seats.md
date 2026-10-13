@@ -60,7 +60,7 @@ Para eventos únicos ou ocasionais, podes ativar **Seats pré-pagos** em vez de 
 
 - Os **Seats Pay-as-you-go** ficam ativos durante **48 horas** após a ativação.
 - Durante esse período, podes:
-  - Fazer **vários quizzes ou sessões**
+  - Run **multiple quizzes or games**
   - **Testar** o teu quiz com grupos maiores
   - Organizar **eventos de vários dias** durante um fim de semana
 
