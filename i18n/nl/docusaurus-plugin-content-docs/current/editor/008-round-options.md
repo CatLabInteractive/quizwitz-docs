@@ -74,7 +74,7 @@ You can add a custom **round introduction text** (the **Quizmaster script**) tha
 
 ## 📎 Bijlagen
 
-Versterk je ronde met media die op specifieke momenten worden getoond:
+Enhance your round with attachments shown at specific moments:
 
 - **Voor de ronde** - Getoond na de ronde-intro animatie
 - **Na de ronde** - Getoond na de ronde-outro
