@@ -30,7 +30,7 @@ Für alle, die traditionelle Pub-Quizze organisieren möchten, bei denen Spieler
 Diese Rundentypen simulieren das "Abgeben der Zettel" nach jeder Runde.
 
 - [Traditionell](030-traditional.md)
-- [Traditionell - Gemeinsamer Faden](031-traditional-ct.md)
+- [Traditional - Common Thread](031-traditional-ct.md)
 - [Alphabet](032-alphabet.md)
 
 ## 🎉 Live-Events
