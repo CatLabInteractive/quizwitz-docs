@@ -24,7 +24,7 @@ Si usar un teléfono o tableta es tu única opción, sigue estos pasos para mini
 ### 🎞️ Prueba fragmentos de audio y video
 
 - Si tu quiz incluye **audio o video**, pruébalo con anticipación
-- Algunos dispositivos pueden tener problemas con archivos multimedia grandes o no reproducirlos en absoluto
+- Some devices may **struggle with large attachments** or not play them at all
 - Ten especial cuidado con dispositivos **más antiguos** o navegadores móviles predeterminados
 
 ---
