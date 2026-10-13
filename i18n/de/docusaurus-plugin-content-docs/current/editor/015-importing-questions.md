@@ -21,7 +21,7 @@ Verwende den Tab **QuizWitz-Bibliothek**, um nach Fragen, Runden oder Quizzen zu
 1. Öffne die Runde, in die du Inhalte importieren möchtest
 2. Klicke auf den Tab **QuizWitz-Bibliothek**
 3. Verwende Filter wie Sprache, Sammlung, Typ, Kategorie oder Tags
-4. Wähle einen oder mehrere Einträge aus
+4. Select one or more items
 5. Klicke auf **Füge X Elemente hinzu**, um die ausgewählten Inhalte in dein Quiz einzufügen
 
 ![QuizWitz-Bibliothek](/images/import/import-from-quizwitz.png)
