@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: Rode draad
+title: Common Thread
 ---
 
 # 🧵 Rode draad
