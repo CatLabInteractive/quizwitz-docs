@@ -12,13 +12,13 @@ O teu jogo bloqueou? O separador fechou por acidente? [**QuizWitz Live**](quizma
 
 ## 🔄 Como funciona a recuperação do jogo
 
-Se o teu jogo falhar, bloquear ou for interrompido por qualquer motivo - seja um problema do navegador, uma reinicialização do sistema ou o fecho acidental do separador - podes retomar o jogo facilmente.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the game easily.
 
 Apenas **reabre o mesmo separador do navegador** que estavas a usar para mostrar o **ecrã do jogo**. Este é o ecrã que projetas ou transmites para o teu público.
 
 Quando carregar:
 
-- Vai ser-te pedido que **retomes a sessão anterior** ou **comeces uma nova**
+- You’ll be prompted to **resume the previous game** or **start a new one**
 - Se escolheres retomar, o jogo vai restaurar o teu progresso o mais fielmente possível
 
 ---
@@ -38,7 +38,7 @@ Seleciona **“Retomar jogo”** para:
 
 Também podes escolher **começar um novo jogo**.
 
-- Isto vai **limpar completamente a sessão anterior**
+- This will completely **clear the previous game**
 - Vais voltar ao início da configuração do quiz
 
 > ⚠️ Escolhe isto apenas se tiveres a certeza de que não queres continuar o jogo existente.
