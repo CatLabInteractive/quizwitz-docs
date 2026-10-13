@@ -30,7 +30,7 @@ Oyuncuların tur sonuna kadar cevaplarını değiştirebildiği geleneksel bar q
 Bu tur türleri, her turdan sonra "kağıtları teslim etmeyi" canlandırır.
 
 - [Geleneksel](030-traditional.md)
-- [Geleneksel - Ortak Nokta](031-traditional-ct.md)
+- [Traditional - Common Thread](031-traditional-ct.md)
 - [Alfabe](032-alphabet.md)
 
 ## 🎉 Canlı etkinlikler
