@@ -21,7 +21,7 @@ Utilisez l'onglet **Bibliothèque QuizWitz** pour rechercher et importer des que
 1. Ouvrez la manche où vous voulez importer du contenu
 2. Cliquez sur l'onglet **Bibliothèque QuizWitz**
 3. Utilisez des filtres comme la langue, la collection, le type, la catégorie ou les tags
-4. Sélectionnez un ou plusieurs éléments
+4. Select one or more items
 5. Cliquez sur **Ajouter X éléments** pour insérer le contenu sélectionné dans votre quiz
 
 ![Bibliothèque QuizWitz](/images/import/import-from-quizwitz.png)
