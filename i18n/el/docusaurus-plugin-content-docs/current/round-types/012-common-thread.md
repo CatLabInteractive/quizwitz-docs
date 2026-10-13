@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: Κοινός παρονομαστής
+title: Common Thread
 ---
 
 # 🧵 Κοινός παρονομαστής
