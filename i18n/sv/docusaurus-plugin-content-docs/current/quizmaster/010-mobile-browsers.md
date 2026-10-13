@@ -24,7 +24,7 @@ Om en telefon eller surfplatta är ditt enda alternativ, följ de här stegen f�
 ### 🎞️ Testa ljud- och videoklipp
 
 - Om ditt quiz innehåller **ljud eller video**, testa det i förväg
-- Vissa enheter kan **ha svårt med stora mediefiler** eller inte spela upp dem alls
+- Some devices may **struggle with large attachments** or not play them at all
 - Var särskilt försiktig med **äldre enheter** eller mobilens standardwebbläsare
 
 ---
