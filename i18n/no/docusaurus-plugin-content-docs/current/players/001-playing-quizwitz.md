@@ -80,7 +80,7 @@ Når du er klar:
 
 Velg:
 
-- **Spillmodus** - Enspiller eller partyspill
+- **Game mode** - Single player or Party Game
 - **Hvilke Round-Abouts** som skal være med i spillet ditt
 
 QuizWitz prøver å hoppe over spørsmål du allerede har sett.
@@ -93,7 +93,7 @@ QuizWitz prøver å hoppe over spørsmål du allerede har sett.
 
 Når spillet starter, velger du modus:
 
-### 🎮 Enspiller
+### 🎮 Single player
 
 - Klikk på **Start**, og velg deretter **Enspiller**
 - Bruk mus, tastatur eller berøringsskjerm for å svare
