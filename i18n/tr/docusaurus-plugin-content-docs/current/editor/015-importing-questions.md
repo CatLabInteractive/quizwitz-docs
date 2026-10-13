@@ -21,7 +21,7 @@ Kendin veya diğer yapımcılar tarafından oluşturulan soruları, turları vey
 1. İçerik aktarmak istediğin turu aç
 2. **QuizWitz Kütüphanesi** sekmesine tıkla
 3. Dil, koleksiyon, tür, kategori veya etiketler gibi filtreleri kullan
-4. Bir veya daha fazla öğe seç
+4. Select one or more items
 5. Seçilen içeriği quizine eklemek için **X öğe ekle**'ye tıkla
 
 ![QuizWitz Kütüphanesi](/images/import/import-from-quizwitz.png)
