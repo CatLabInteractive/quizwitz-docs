@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: Punainen lanka
+title: Common Thread
 ---
 
 # 🧵 Punainen lanka
