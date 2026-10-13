@@ -38,7 +38,15 @@ Varje bilaga kan ha ett namn och en valfri källhänvisning:
 - **Namn** - Visas för quizmastern i [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); hjälper dig att organisera bilagor
 - **Källhänvisning** - Visas för spelarna som erkännande eller källinformation. Det bör vara **namnet på rättighetsinnehavaren**.
 
-> ⚠️ För att kunna **publicera** en Round-About eller ett quiz måste **alla bilagor ha en giltig källhänvisning** ifylld. Utan den kan ditt objekt inte göras offentligt.
+> ⚠️ För att kunna **publicera** en Round-About eller ett quiz måste **alla bilagor ha en giltig källhänvisning** ifylld. Without this, it cannot be made public.
+
+---
+
+## 📱 Show on player devices
+
+Images shown between screens - before or after a question, before or after its feedback, and before or after a round - can also be shown on the **players' devices**, not only on the game screen. Tick **Show on player devices** on the attachment to do so.
+
+> ℹ️ This applies to images only. An image in the **During question** slot is never mirrored: players see it on the game screen. To make that image fill the game screen instead, use the question's **Custom view** (see [writing questions](../editor/005-writing-questions.md)).
 
 ---
 
