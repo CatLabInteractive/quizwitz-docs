@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: Rød tråd
+title: Common Thread
 ---
 
 # 🧵 Rød tråd
