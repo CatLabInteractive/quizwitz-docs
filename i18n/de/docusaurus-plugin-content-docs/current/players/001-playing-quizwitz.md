@@ -80,7 +80,7 @@ Wenn du bereit bist:
 
 Wähle:
 
-- **Spielmodus** - Einzelspieler oder Partyspiel
+- **Game mode** - Single player or Party Game
 - **Welche Round-Abouts** in deiner Session enthalten sein sollen
 
 QuizWitz versucht, Fragen zu überspringen, die du schon gespielt hast.
@@ -93,7 +93,7 @@ QuizWitz versucht, Fragen zu überspringen, die du schon gespielt hast.
 
 Sobald dein Spiel startet, wähle deinen Modus:
 
-### 🎮 Einzelspieler
+### 🎮 Single player
 
 - Klicke auf **Starten**, dann wähle **Einzelspieler**
 - Nutze Maus, Tastatur oder Touchscreen, um zu antworten
