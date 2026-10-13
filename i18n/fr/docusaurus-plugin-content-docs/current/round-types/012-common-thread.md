@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: Fil conducteur
+title: Common Thread
 ---
 
 # 🧵 Fil conducteur
