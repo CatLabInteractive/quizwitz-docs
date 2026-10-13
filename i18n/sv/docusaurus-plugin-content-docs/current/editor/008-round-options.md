@@ -74,7 +74,7 @@ You can add a custom **round introduction text** (the **Quizmaster script**) tha
 
 ## 📎 Bilagor
 
-Förstärk din runda med bilagor som visas vid bestämda tillfällen:
+Enhance your round with attachments shown at specific moments:
 
 - **Före rundan** - Visas efter rundintrots animation
 - **Efter rundan** - Visas efter rundoutrot
