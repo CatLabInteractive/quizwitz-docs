@@ -38,7 +38,15 @@ title: Συνημμένα
 - **Όνομα** - Εμφανίζεται στον quizmaster στο [QuizWitz Live (PRO)](../quizmaster/001-introduction.md)· βοηθά στην οργάνωση των συνημμένων
 - **Αναφορά πηγής** - Εμφανίζεται στους παίκτες ως πληροφορία για τους δημιουργούς ή την πηγή. Αυτό πρέπει να είναι το **όνομα του κατόχου των δικαιωμάτων**.
 
-> ⚠️ Για να **δημοσιεύσεις** ένα Round-About ή κουίζ, **όλα τα συνημμένα πρέπει να έχουν συμπληρωμένη έγκυρη αναφορά πηγής**. Χωρίς αυτήν, το στοιχείο σου δεν μπορεί να γίνει δημόσιο.
+> ⚠️ Για να **δημοσιεύσεις** ένα Round-About ή κουίζ, **όλα τα συνημμένα πρέπει να έχουν συμπληρωμένη έγκυρη αναφορά πηγής**. Without this, it cannot be made public.
+
+---
+
+## 📱 Show on player devices
+
+Images shown between screens - before or after a question, before or after its feedback, and before or after a round - can also be shown on the **players' devices**, not only on the game screen. Tick **Show on player devices** on the attachment to do so.
+
+> ℹ️ This applies to images only. An image in the **During question** slot is never mirrored: players see it on the game screen. To make that image fill the game screen instead, use the question's **Custom view** (see [writing questions](../editor/005-writing-questions.md)).
 
 ---
 
