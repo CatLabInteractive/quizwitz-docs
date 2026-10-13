@@ -36,7 +36,7 @@ title: Genel Kültür (normal tur)
 
 - **Soru türlerini karıştır:** İlgiyi canlı tutmak için çeşitlilik kat.
 - **Dengeli tut:** Oyuncuların motivasyonunu korumak için kolay ve zor soruları sırayla kullan.
-- **Medya kullan:** Daha zengin içerik için görsel, ses veya video ekle.
+- **Use attachments:** Attach images, audio, or video for richer content.
 
 ---
 
