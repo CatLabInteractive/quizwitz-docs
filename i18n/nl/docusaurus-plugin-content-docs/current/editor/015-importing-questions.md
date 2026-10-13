@@ -21,7 +21,7 @@ Gebruik het tabblad **QuizWitz bibliotheek** om te zoeken en vragen, rondes of q
 1. Open de ronde waarin je content wilt importeren
 2. Klik op het tabblad **QuizWitz bibliotheek**
 3. Gebruik filters zoals taal, collectie, type, categorie of tags
-4. Selecteer één of meerdere items
+4. Select one or more items
 5. Klik op **Voeg X items toe** om de geselecteerde content in je quiz te plaatsen
 
 ![QuizWitz Bibliotheek](/images/import/import-from-quizwitz.png)
