@@ -12,13 +12,13 @@ sidebar_position: 1000
 
 ## 🔄 게임 복구 방식
 
-게임이 충돌하거나, 멈추거나, 어떤 이유로든 중단되더라도 - 브라우저 문제든, 시스템 재시작이든, 실수로 탭을 닫았든 - 게임을 쉽게 재개할 수 있습니다.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the game easily.
 
 **게임 화면**을 표시하던 **같은 브라우저 탭을 다시 열기만** 하면 됩니다. 청중에게 프로젝터로 보여 주거나 스트리밍하는 화면입니다.
 
 화면이 로드되면:
 
-- **이전 게임 재개** 또는 **새로 시작** 중 하나를 선택하라는 메시지가 표시됩니다
+- You’ll be prompted to **resume the previous game** or **start a new one**
 - 재개를 선택하면 게임이 진행 상황을 최대한 가깝게 복원합니다
 
 ---
@@ -38,7 +38,7 @@ sidebar_position: 1000
 
 대신 **새 게임 시작**을 선택할 수도 있습니다.
 
-- 이렇게 하면 **이전 게임이 완전히 삭제**됩니다
+- This will completely **clear the previous game**
 - 퀴즈 설정의 처음 단계로 돌아갑니다
 
 > ⚠️ 기존 게임을 계속하지 않겠다고 확신할 때만 이 옵션을 선택하세요.
