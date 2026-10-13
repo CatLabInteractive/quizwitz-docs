@@ -89,7 +89,7 @@ Als je klaar bent om je quiz te testen of te starten, druk je op de knop **Start
 Wil je een volledige quizrun simuleren? Gebruik de geavanceerde testtools:
 
 - **Simuleren** - Doe een test-playthrough met bots (zonder presentatie)
-- **Simuleer Live** - Simuleer een volledig [QuizWitz Live](../quizmaster/001-introduction.md)-spel met bots, inclusief de weergaven van quizmaster, jury en spelers
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) game with bots, including quizmaster, jury, and player views
 
 ---
 
