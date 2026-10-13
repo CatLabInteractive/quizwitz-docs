@@ -80,7 +80,7 @@ Quando estiver tudo pronto:
 
 Escolha:
 
-- **Modo de jogo** - Um jogador ou Jogo de grupo
+- **Game mode** - Single player or Party Game
 - **Quais Round-Abouts** incluir na sua sessão
 
 O QuizWitz vai tentar saltar perguntas que já viste.
@@ -93,7 +93,7 @@ O QuizWitz vai tentar saltar perguntas que já viste.
 
 Assim que o jogo começar, escolhe o teu modo:
 
-### 🎮 Um jogador
+### 🎮 Single player
 
 - Clica em **Iniciar** e depois escolhe **Um jogador**
 - Usa o rato, o teclado ou o ecrã tátil para responder
