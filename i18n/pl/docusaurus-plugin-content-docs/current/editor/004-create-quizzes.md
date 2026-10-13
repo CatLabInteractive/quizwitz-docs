@@ -89,7 +89,7 @@ Gdy chcesz przetestować lub uruchomić quiz, naciśnij przycisk **Rozpocznij qu
 Chcesz przeprowadzić symulację całego quizu? Użyj zaawansowanych narzędzi testowych:
 
 - **Symuluj** - Przeprowadź testową rozgrywkę z botami (bez prezentacji)
-- **Symuluj na żywo** - Przeprowadź symulację pełnej gry [QuizWitz Live](../quizmaster/001-introduction.md) z botami, z widokami quizmastera, jury i gracza
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) game with bots, including quizmaster, jury, and player views
 
 ---
 
