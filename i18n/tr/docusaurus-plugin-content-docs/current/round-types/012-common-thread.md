@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: Ortak Nokta
+title: Common Thread
 ---
 
 # 🧵 Ortak Nokta
