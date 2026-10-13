@@ -30,7 +30,7 @@ Kaikille, jotka haluavat järjestää perinteisiä pubivisoja, joissa pelaajat v
 Nämä kierrostyypit jäljittelevät ”paperien palauttamista” jokaisen kierroksen jälkeen.
 
 - [Perinteinen](030-traditional.md)
-- [Perinteinen - Punainen lanka](031-traditional-ct.md)
+- [Traditional - Common Thread](031-traditional-ct.md)
 - [Aakkoset](032-alphabet.md)
 
 ## 🎉 Livetapahtumat
