@@ -74,7 +74,7 @@ You can add a custom **round introduction text** (the **Quizmaster script**) tha
 
 ## 📎 Anexos
 
-Melhora a tua ronda com multimédia mostrado em momentos específicos:
+Enhance your round with attachments shown at specific moments:
 
 - **Antes da ronda** - Mostrado depois da animação de introdução da ronda
 - **Depois da ronda** - Mostrado depois do encerramento da ronda
