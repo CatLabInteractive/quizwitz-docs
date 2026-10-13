@@ -80,7 +80,7 @@ Keď budeš pripravený/á:
 
 Vyber si:
 
-- **Herný režim** - Jeden hráč alebo Párty hra
+- **Game mode** - Single player or Party Game
 - **Ktoré Round-Abouts** zahrnúť do tvojej relácie
 
 QuizWitz sa pokúsi preskočiť otázky, ktoré si už videl/a.
@@ -93,7 +93,7 @@ QuizWitz sa pokúsi preskočiť otázky, ktoré si už videl/a.
 
 Keď sa tvoja hra spustí, vyber si režim:
 
-### 🎮 Jeden hráč
+### 🎮 Single player
 
 - Klikni na **Štart** a potom vyber **Jeden hráč**
 - Na odpovedanie použi myš, klávesnicu alebo dotykovú obrazovku
