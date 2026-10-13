@@ -80,7 +80,7 @@ När du är redo:
 
 Välj:
 
-- **Spelläge** - Enspelarläge eller Partyspel
+- **Game mode** - Single player or Party Game
 - **Vilka Round-Abouts** som ska ingå i ditt spel
 
 QuizWitz försöker hoppa över frågor som du redan har sett.
@@ -93,7 +93,7 @@ QuizWitz försöker hoppa över frågor som du redan har sett.
 
 När spelet har startat väljer du läge:
 
-### 🎮 Enspelarläge
+### 🎮 Single player
 
 - Klicka på **Starta** och välj sedan **Enspelarläge**
 - Svara med musen, tangentbordet eller pekskärmen
