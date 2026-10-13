@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: Gemeinsamer Faden
+title: Common Thread
 ---
 
 # 🧵 Gemeinsamer Faden
