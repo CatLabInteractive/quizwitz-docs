@@ -80,7 +80,7 @@ Hazır olduğunda:
 
 Şunları seç:
 
-- **Oyun modu** - Tek oyunculu veya Parti Oyunu
+- **Game mode** - Single player or Party Game
 - Oyununa **hangi Round-About'ların** dahil edileceğini
 
 QuizWitz daha önce gördüğün soruları atlamaya çalışır.
@@ -93,7 +93,7 @@ QuizWitz daha önce gördüğün soruları atlamaya çalışır.
 
 Oyunun başladığında modunu seç:
 
-### 🎮 Tek oyunculu
+### 🎮 Single player
 
 - **Başlat**'a tıkla, ardından **Tek oyunculu**'yu seç
 - Cevap vermek için fareni, klavyeni veya dokunmatik ekranını kullan
