@@ -24,7 +24,7 @@ Als het gebruik van een telefoon of tablet je enige optie is, volg dan deze stap
 ### 🎞️ Test audio- en videofragmenten
 
 - Als je quiz **audio of video** bevat, test dit dan vooraf
-- Sommige apparaten kunnen moeite hebben met **grote mediabestanden** of spelen ze misschien helemaal niet af
+- Some devices may **struggle with large attachments** or not play them at all
 - Wees extra voorzichtig met **oudere apparaten** of standaard mobiele browsers
 
 ---
