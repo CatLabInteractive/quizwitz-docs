@@ -60,7 +60,7 @@ Na jednorazowe lub okazjonalne wydarzenia możesz zamiast kupować licencję akt
 
 - **Seats w modelu Pay-as-you-go** pozostają aktywne przez **48 godzin** od aktywacji.
 - W tym czasie możesz:
-  - Przeprowadzić **wiele quizów lub gier**
+  - Run **multiple quizzes or games**
   - **Przetestować** swój quiz na większych grupach
   - Zorganizować **wydarzenia wielodniowe** w weekend
 
