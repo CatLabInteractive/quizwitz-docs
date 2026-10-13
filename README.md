@@ -1,6 +1,6 @@
 # QuizWitz Documentation
 
-Welcome to the official documentation repository for **QuizWitz** — the social quiz platform for players, quizmakers, and quizmasters.
+Welcome to the official documentation repository for **QuizWitz** - the social quiz platform for players, quizmakers, and quizmasters.
 
 This documentation covers everything from playing your first quiz, to building professional live quiz events, to customizing your own question rounds and game modes.
 
@@ -56,8 +56,8 @@ Translations are managed using Crowdin. To contribute translations:
 
 Product terminology (host vs. quizmaster, game screen, Team codes / Single game code, Round-About, Party Game, PRO / Premium, round-mode names, …) and the English source-writing rules are maintained centrally in the [quizwitz-strategy](https://github.com/CatLabInteractive/quizwitz-strategy) repository:
 
-- [`strategy/i18n/glossary.md`](https://github.com/CatLabInteractive/quizwitz-strategy/blob/master/strategy/i18n/glossary.md) — canonical English terms, protected (never-translated) terms, and the reviewed nl / proposed other-language renderings.
-- [`strategy/i18n/style-guide.md`](https://github.com/CatLabInteractive/quizwitz-strategy/blob/master/strategy/i18n/style-guide.md) — casing table, role words, banned words, and label rules.
+- [`strategy/i18n/glossary.md`](https://github.com/CatLabInteractive/quizwitz-strategy/blob/master/strategy/i18n/glossary.md) - canonical English terms, protected (never-translated) terms, and the reviewed nl / proposed other-language renderings.
+- [`strategy/i18n/style-guide.md`](https://github.com/CatLabInteractive/quizwitz-strategy/blob/master/strategy/i18n/style-guide.md) - casing table, role words, banned words, and label rules.
 
 Writers of English source pages under `docs/` and translators on Crowdin should follow both. The same glossary is exported to the Crowdin project glossary.
 
@@ -88,4 +88,4 @@ For questions about QuizWitz itself, visit quizwitz.com.
 
 For documentation issues or suggestions, please open a GitHub Issue.
 
-© CatLab Interactive — All rights reserved.
+© CatLab Interactive - All rights reserved.

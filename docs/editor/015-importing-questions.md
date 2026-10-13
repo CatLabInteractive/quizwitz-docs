@@ -21,7 +21,7 @@ Use the **QuizWitz Library** tab to search and import questions, rounds, or quiz
 1. Open the round where you want to import content
 2. Click the **QuizWitz Library** tab
 3. Use filters like language, collection, type, category, or tags
-4. Select one or more entries
+4. Select one or more items
 5. Click **Add X items** to insert the selected content into your quiz
 
 ![QuizWitz Library](/images/import/import-from-quizwitz.png)

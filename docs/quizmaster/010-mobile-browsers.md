@@ -24,7 +24,7 @@ If using a phone or tablet is your only option, follow these steps to minimize t
 ### 🎞️ Test audio and video fragments
 
 - If your quiz includes **audio or video**, test it in advance
-- Some devices may **struggle with large media files** or not play them at all
+- Some devices may **struggle with large attachments** or not play them at all
 - Be especially cautious with **older devices** or default mobile browsers
 
 ---

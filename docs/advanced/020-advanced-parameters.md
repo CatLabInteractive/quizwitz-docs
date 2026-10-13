@@ -24,7 +24,7 @@ Available parameters:
 | `reservation`            | /           | abcdef      | Reservation token to use (in live games)
 | `remote`                 | quizwitz.tv | quizwitz.tv | CatLab Remote server to use
 | `server`                 | /           | 10          | CatLab Remote server ID to use (with auto discover)
-| `publisher`              | /           | QuizWitz    | Name of the publisher who is hosting the game. This is used for customizing views
+| `publisher`              | /           | QuizWitz    | Name of the profile that is hosting the game. This is used for customizing views
 | `smileys`                | 1           | 0           | Set to 0 to disable smileys in the game
 | `outroPlayers`           | 12          | 5,4,3,1,2   | Defines the amount (number) OR the order of players (comma separated list of positions) that will be announced during the game outro.
 | `focusPositions`         | /           | 50,100      | Define a list of additional positions that will be displayed in the Quizmaster App
@@ -48,12 +48,12 @@ Available parameters:
 | `rounds`                 | 5           | 7           | Set the amount of rounds that will be generated in a random quiz.
 | `questions`              | 7           | 7           | Set the amount of questions that will be generated for each round in a random quiz.
 | `showListenQuotes`       | 1           | 0           | Set to 0 to disable the 'funny' "please listen" quotes.
-| `shared`                 | /           | 123:abcdef  | The access token of a shared entry.
+| `shared`                 | /           | 123:abcdef  | The access token of a shared quiz or Round-About.
 | `music`                  | 1           | 0           | Set to 0 to disable all (game) music. Uploaded audio will still play.
 | `connectMusic`           | 1           | 0           | Set to 0 to disable the (game) music that is playing during the 'connect' phase.
 | `slideshowVideoInterval` | 300         | 300         | When videos are uploaded in the connect screen phase, this defines the amount of seconds between each video play.
 | `slideshowImageInterval` | 20          | 60          | When images are uploaded in the connect screen phase, this defines the amount of seconds each image will be shown.
-| `skipOnAllAnswered`      | 1           | 0           | Set to 0 to override the entries `skipOnAllAnswered`
+| `skipOnAllAnswered`      | 1           | 0           | Set to 0 to override the quiz's `skipOnAllAnswered`
 | `departments`            | 1           | A,B,C       | Set to 0 to disable loading departments. Set to comma separated names list to automatically assign all connecting players to a random department.
 | `showRankInDepartment`   | 1           | 0           | Set to 0 to disable users from seeing their rank within their department.
 | `showDepartmentRanking`  | 1           | 0           | Set to 0 to disable showing the department ranking in between rounds.

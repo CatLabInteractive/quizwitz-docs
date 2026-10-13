@@ -36,7 +36,7 @@ The **Trivia** round is the classic, default round type in QuizWitz. It presents
 
 - **Mix question types:** Add variety for engagement.
 - **Keep it balanced:** Alternate easy and tough questions to keep players motivated.
-- **Use media:** Attach images, audio, or video for richer content.
+- **Use attachments:** Attach images, audio, or video for richer content.
 
 ---
 
