@@ -54,6 +54,20 @@ These fields control what appears on the Quizmaster App and game screen:
 > 📝 These fields help make live presentations feel dynamic and polished.
 
 ---
+
+### 🖼️ Custom view
+
+Some themes can show a question in more than one screen layout. When the quiz's theme offers them, a **Custom view** option appears in the question settings:
+
+- **Default** - The question text, the answer options and the attachment share the screen as usual
+- **Fullscreen attachment** - The image or video in the **During question** slot fills the whole game screen; the question text and options are not drawn. Players still read the question and answer on their own device. Ideal for *"What is this?"* picture questions and video questions.
+- **Full screen attachment without timer** - Same, with the countdown hidden too *(Emerald theme)*
+
+> ℹ️ A custom view only changes a question that has an image or video in the **During question** slot. It is not the same as **Show on player devices** (see [attachments](../editor/006-attachments.md)), which mirrors a picture to the players' phones.
+
+📘 The available views depend on the theme - see the [Emerald theme](../advanced/011-emerald-theme.md) and [theming](../advanced/010-theming.md) pages.
+
+---
 ## 📎 Attachments
 
 ![Question attachments](/images/question-attachments.png)
