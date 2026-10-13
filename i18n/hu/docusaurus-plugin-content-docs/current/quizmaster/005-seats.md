@@ -60,7 +60,7 @@ Egyszeri vagy alkalmi eseményekhez licencvásárlás helyett **használat alap�
 
 - **A Pay-as-you-go Seats** az aktiválás után **48 óráig** aktív marad.
 - Ez idő alatt:
-  - Futtathatsz **több kvízt vagy menetet**
+  - Run **multiple quizzes or games**
   - **Tesztelheted** a kvízedet nagyobb csoportokkal
   - Rendezhetsz **többnapos eseményeket** egy hétvégén
 
