@@ -60,7 +60,7 @@ Kertaluonteisiin tai satunnaisiin tapahtumiin voit lisenssin ostamisen sijaan ak
 
 - **Pay-as-you-go -Seats** pysyvät aktiivisina **48 tuntia** aktivoinnista.
 - Sinä aikana voit:
-  - Järjestää **useita visoja tai pelejä**
+  - Run **multiple quizzes or games**
   - **Testata** visaasi suuremmilla ryhmillä
   - Isännöidä **monipäiväisiä tapahtumia** viikonlopun aikana
 
