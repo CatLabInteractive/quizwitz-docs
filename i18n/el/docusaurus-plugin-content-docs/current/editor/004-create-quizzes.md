@@ -89,7 +89,7 @@ title: Δημιουργία κουίζ
 Θέλεις να προσομοιώσεις μια πλήρη διεξαγωγή του κουίζ; Χρησιμοποίησε τα προχωρημένα εργαλεία δοκιμής:
 
 - **Προσομοίωση** - Τρέξε μια δοκιμαστική διεξαγωγή με bots (χωρίς παρουσίαση)
-- **Ζωντανή προσομοίωση** - Προσομοίωσε ένα πλήρες παιχνίδι [QuizWitz Live](../quizmaster/001-introduction.md) με bots, με τις προβολές quizmaster, κριτικής επιτροπής και παίκτη
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) game with bots, including quizmaster, jury, and player views
 
 ---
 
