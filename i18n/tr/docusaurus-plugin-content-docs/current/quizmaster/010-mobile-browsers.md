@@ -24,7 +24,7 @@ Telefon veya tablet kullanmak tek seçeneğinse, teknik sorun riskini en aza ind
 ### 🎞️ Ses ve video parçalarını test et
 
 - Quizin **ses veya video** içeriyorsa önceden test et
-- Bazı cihazlar **büyük medya dosyalarında zorlanabilir** veya bunları hiç oynatamayabilir
+- Some devices may **struggle with large attachments** or not play them at all
 - Özellikle **eski cihazlar** veya varsayılan mobil tarayıcılar konusunda dikkatli ol
 
 ---
