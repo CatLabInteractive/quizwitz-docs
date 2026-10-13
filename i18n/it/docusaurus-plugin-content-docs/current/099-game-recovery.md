@@ -12,13 +12,13 @@ Il gioco si è bloccato? La scheda si è chiusa per sbaglio? [**QuizWitz Live**]
 
 ## 🔄 Come funziona il recupero del gioco
 
-Se il gioco va in crash, si blocca o viene interrotto per qualsiasi motivo - che sia un problema del browser, un riavvio del sistema o la chiusura accidentale della scheda - puoi riprendere facilmente la partita.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the game easily.
 
 Basta **riaprire la stessa scheda del browser** che stavi usando per visualizzare la **schermata del gioco**. È la schermata che proietti o trasmetti in streaming al tuo pubblico.
 
 Quando si carica:
 
-- Ti verrà chiesto di **riprendere la sessione precedente** o **avviarne una nuova**
+- You’ll be prompted to **resume the previous game** or **start a new one**
 - Se scegli di riprendere, il gioco ripristinerà i tuoi progressi il più fedelmente possibile
 
 ---
@@ -38,7 +38,7 @@ Seleziona **“Riprendi il gioco”** per:
 
 Puoi anche scegliere di **avviare un nuovo gioco**.
 
-- Questo **cancellerà completamente la sessione precedente**
+- This will completely **clear the previous game**
 - Tornerai all’inizio della configurazione del quiz
 
 > ⚠️ Scegli questa opzione solo se sei sicuro di non voler continuare la partita esistente.
