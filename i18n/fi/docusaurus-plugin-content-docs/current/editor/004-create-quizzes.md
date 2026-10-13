@@ -89,7 +89,7 @@ Kun olet valmis testaamaan tai pyörittämään visaasi, paina **Aloita visa** -
 Haluatko simuloida kokonaisen visan läpikäynnin? Käytä edistyneitä testaustyökaluja:
 
 - **Simuloi** - Aja testiläpikäynti boteilla (ilman esitystä)
-- **Simuloi Live** - Simuloi kokonainen [QuizWitz Live](../quizmaster/001-introduction.md) -istunto boteilla, mukaan lukien visamestarin, tuomariston ja pelaajan näkymät
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) game with bots, including quizmaster, jury, and player views
 
 ---
 
