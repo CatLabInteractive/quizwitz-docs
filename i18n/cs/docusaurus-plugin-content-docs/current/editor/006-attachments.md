@@ -38,7 +38,15 @@ Každá příloha může mít název a volitelné uvedení autora/zdroje:
 - **Název** - Zobrazuje se quizmasterovi v [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); pomáhá s organizací příloh
 - **Uvedení zdroje** - Zobrazuje se hráčům jako informace o autorství nebo zdroji. Mělo by jít o **jméno držitele práv**.
 
-> ⚠️ Aby bylo možné **publikovat** Round-About nebo Quiz, **všechny přílohy musí mít vyplněné platné uvedení autora/zdroje**. Bez toho nelze tvůj záznam zveřejnit.
+> ⚠️ Aby bylo možné **publikovat** Round-About nebo Quiz, **všechny přílohy musí mít vyplněné platné uvedení autora/zdroje**. Without this, it cannot be made public.
+
+---
+
+## 📱 Show on player devices
+
+Images shown between screens - before or after a question, before or after its feedback, and before or after a round - can also be shown on the **players' devices**, not only on the game screen. Tick **Show on player devices** on the attachment to do so.
+
+> ℹ️ This applies to images only. An image in the **During question** slot is never mirrored: players see it on the game screen. To make that image fill the game screen instead, use the question's **Custom view** (see [writing questions](../editor/005-writing-questions.md)).
 
 ---
 
