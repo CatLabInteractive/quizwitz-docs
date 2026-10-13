@@ -36,7 +36,7 @@ Il round **Trivia** è il tipo di round classico e predefinito in QuizWitz. Pres
 
 - **Mescola i tipi di domande:** aggiungi varietà per aumentare il coinvolgimento.
 - **Mantieni l’equilibrio:** alterna domande facili e difficili per tenere motivati i giocatori.
-- **Usa i media:** allega immagini, audio o video per contenuti più ricchi.
+- **Use attachments:** Attach images, audio, or video for richer content.
 
 ---
 
