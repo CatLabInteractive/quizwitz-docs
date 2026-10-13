@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: Spoločná niť
+title: Common Thread
 ---
 
 # 🧵 Spoločná niť
