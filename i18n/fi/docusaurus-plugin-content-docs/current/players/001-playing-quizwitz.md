@@ -80,7 +80,7 @@ Kun olet valmis:
 
 Valitse:
 
-- **Pelitila** - Yksinpeli tai Seurapeli
+- **Game mode** - Single player or Party Game
 - **Mitkä Round-Aboutit** otetaan mukaan peliisi
 
 QuizWitz yrittää ohittaa kysymykset, jotka olet jo nähnyt.
@@ -93,7 +93,7 @@ QuizWitz yrittää ohittaa kysymykset, jotka olet jo nähnyt.
 
 Kun pelisi alkaa, valitse pelitila:
 
-### 🎮 Yksinpeli
+### 🎮 Single player
 
 - Napsauta **Aloita** ja valitse sitten **Yksinpeli**
 - Vastaa hiirellä, näppäimistöllä tai kosketusnäytöllä
