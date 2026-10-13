@@ -21,7 +21,7 @@ Använd fliken **QuizWitz-biblioteket** för att söka efter och importera fråg
 1. Öppna rundan där du vill importera innehåll
 2. Klicka på fliken **QuizWitz-biblioteket**
 3. Använd filter som språk, samling, typ, kategori eller taggar
-4. Välj ett eller flera objekt
+4. Select one or more items
 5. Klicka på **Lägg till X objekt** för att infoga det valda innehållet i ditt quiz
 
 ![QuizWitz-biblioteket](/images/import/import-from-quizwitz.png)
