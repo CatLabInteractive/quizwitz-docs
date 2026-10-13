@@ -89,7 +89,7 @@ Keď chceš svoj kvíz otestovať alebo spustiť, stlač tlačidlo **Spustiť kv
 Chceš si nasimulovať celý priebeh kvízu? Použi pokročilé testovacie nástroje:
 
 - **Simulovať** - Spusti testovacie hranie s botmi (bez prezentácie)
-- **Simulovať Live** - Nasimuluj celú hru [QuizWitz Live](../quizmaster/001-introduction.md) s botmi vrátane zobrazení quizmastera, poroty a hráča
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) game with bots, including quizmaster, jury, and player views
 
 ---
 
