@@ -12,13 +12,13 @@ Frøs dit spil? Blev fanen lukket ved et uheld? [**QuizWitz Live**](quizmaster/0
 
 ## 🔄 Sådan fungerer gendannelse af spil
 
-Hvis dit spil går ned, hænger eller bliver afbrudt af en eller anden grund - uanset om det skyldes et browserproblem, en genstart af systemet eller en fane, der blev lukket ved et uheld - kan du nemt genoptage spillet.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the game easily.
 
 Du skal bare **genåbne den samme browserfane**, som du brugte til at vise **spilskærmen**. Det er den skærm, du projicerer eller streamer til dit publikum.
 
 Når den indlæses:
 
-- Bliver du spurgt, om du vil **genoptage det forrige spil** eller **starte et nyt**
+- You’ll be prompted to **resume the previous game** or **start a new one**
 - Hvis du vælger at genoptage, gendanner spillet dine fremskridt så præcist som muligt
 
 ---
@@ -38,7 +38,7 @@ Vælg **"Genoptag spil"** for at:
 
 Du kan også vælge **Start et nyt spil** i stedet.
 
-- Det **rydder det forrige spil** fuldstændigt
+- This will completely **clear the previous game**
 - Du vender tilbage til begyndelsen af quizopsætningen
 
 > ⚠️ Vælg kun dette, hvis du er sikker på, at du ikke vil fortsætte det eksisterende spil.
