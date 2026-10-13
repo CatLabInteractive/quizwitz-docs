@@ -74,7 +74,7 @@ You can add a custom **round introduction text** (the **Quizmaster script**) tha
 
 ## 📎 अटैचमेंट
 
-अपने राउंड को उन मीडिया से बेहतर बनाएँ जो खास पलों पर दिखाए जाते हैं:
+Enhance your round with attachments shown at specific moments:
 
 - **राउंड से पहले** - राउंड इंट्रो एनिमेशन के बाद दिखाया जाता है
 - **राउंड के बाद** - राउंड आउट्रो के बाद दिखाया जाता है
