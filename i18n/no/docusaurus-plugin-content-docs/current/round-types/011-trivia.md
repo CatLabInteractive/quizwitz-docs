@@ -36,7 +36,7 @@ title: Trivia (vanlig runde)
 
 - **Bland spørsmålstyper:** Variasjon gir engasjement.
 - **Hold balansen:** Veksle mellom lette og vanskelige spørsmål for å holde spillerne motivert.
-- **Bruk vedlegg:** Legg ved bilder, lyd eller video for rikere innhold.
+- **Use attachments:** Attach images, audio, or video for richer content.
 
 ---
 
