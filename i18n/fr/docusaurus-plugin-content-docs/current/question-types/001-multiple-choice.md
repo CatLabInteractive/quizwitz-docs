@@ -43,6 +43,6 @@ Voir [rédiger des questions](../editor/005-writing-questions.md) pour une vue d
 
 - **Soyez clair et concis :** Évitez les formulations ambiguës.
 - **Utilisez de fausses réponses plausibles :** Rendez les distracteurs crédibles.
-- **Mélangez les médias :** Ajoutez des images, des drapeaux ou des sons pour plus d'engagement.
+- **Mix attachments:** Add images, flags, or sounds for engagement.
 - **Mélangez l'ordre :** Pour que tout soit juste pour tous les joueurs.
 - **Taguez et catégorisez :** Pour une navigation et une recherche faciles.
