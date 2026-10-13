@@ -43,6 +43,6 @@ Vê [como escrever perguntas](../editor/005-writing-questions.md) para uma visã
 
 - **Seja claro e conciso:** Evite textos ambíguos.
 - **Use respostas erradas plausíveis:** Torne os distratores convincentes.
-- **Misture mídias:** Adicione imagens, bandeiras ou sons para aumentar o envolvimento.
+- **Mix attachments:** Add images, flags, or sounds for engagement.
 - **Aleatorize a ordem:** Mantenha tudo justo para todos os jogadores.
 - **Marque e categorize:** Para facilitar a navegação e a busca.
