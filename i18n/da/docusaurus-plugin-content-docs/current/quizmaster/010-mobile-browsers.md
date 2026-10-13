@@ -24,7 +24,7 @@ Hvis en telefon eller tablet er din eneste mulighed, så følg disse trin for at
 ### 🎞️ Test lyd- og videoklip
 
 - Hvis din quiz indeholder **lyd eller video**, så test det på forhånd
-- Nogle enheder kan **have svært ved store mediefiler** eller slet ikke afspille dem
+- Some devices may **struggle with large attachments** or not play them at all
 - Vær især forsigtig med **ældre enheder** eller standardbrowsere på mobilen
 
 ---
