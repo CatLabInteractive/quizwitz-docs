@@ -89,7 +89,7 @@ Cuando estés listo para probar o iniciar tu quiz, presiona el botón **Iniciar 
 ¿Quieres simular una ejecución completa del quiz? Usa las herramientas avanzadas de prueba:
 
 - **Simular** - Realiza un test con bots (sin presentación)
-- **Simular Live** - Simula un juego completo de [QuizWitz Live](../quizmaster/001-introduction.md) con bots, incluidas las vistas de quizmaster, jurado y jugador
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) game with bots, including quizmaster, jury, and player views
 
 ---
 
