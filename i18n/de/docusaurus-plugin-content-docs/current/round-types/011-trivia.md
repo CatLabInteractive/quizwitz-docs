@@ -36,7 +36,7 @@ Die **Quiz**-Runde ist der klassische, Standardrundentyp in QuizWitz. Sie stellt
 
 - **Fragetypen mischen:** Für mehr Spaß und Abwechslung.
 - **Balance halten:** Abwechselnd leichte und schwere Fragen, um Motivation hoch zu halten.
-- **Medien nutzen:** Bilder, Audio oder Videos anhängen für reichhaltigeren Inhalt.
+- **Use attachments:** Attach images, audio, or video for richer content.
 
 ---
 
