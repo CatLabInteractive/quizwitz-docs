@@ -80,7 +80,7 @@ Quand vous êtes prêt :
 
 Choisissez :
 
-- **Mode de jeu** - Solo ou Jeu de groupe
+- **Game mode** - Single player or Party Game
 - **Quels Round-Abouts** inclure dans votre partie
 
 QuizWitz essaiera de passer les questions que vous avez déjà vues.
@@ -93,7 +93,7 @@ QuizWitz essaiera de passer les questions que vous avez déjà vues.
 
 Une fois votre partie lancée, choisissez votre mode :
 
-### 🎮 Solo
+### 🎮 Single player
 
 - Cliquez sur **Démarrer**, puis choisissez **Solo**
 - Utilisez votre souris, clavier ou écran tactile pour répondre
