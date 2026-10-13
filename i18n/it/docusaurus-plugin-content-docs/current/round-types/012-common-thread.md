@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: Filo conduttore
+title: Common Thread
 ---
 
 # 🧵 Filo conduttore
