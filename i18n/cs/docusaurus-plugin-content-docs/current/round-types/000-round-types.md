@@ -30,7 +30,7 @@ Pro každého, kdo chce pořádat tradiční hospodské kvízy, kde hráči mů�
 Tyhle typy kol simulují „odevzdání papírů“ po každém kole.
 
 - [Tradiční](030-traditional.md)
-- [Tradiční - Společné téma](031-traditional-ct.md)
+- [Traditional - Common Thread](031-traditional-ct.md)
 - [Abeceda](032-alphabet.md)
 
 ## 🎉 Živé události
