@@ -60,7 +60,7 @@ Pro jednorázové nebo občasné akce můžeš místo nákupu licence aktivovat 
 
 - **Seats Pay-as-you-go** zůstávají po aktivaci aktivní **48 hodin**.
 - Během této doby můžeš:
-  - Spustit **více kvízů nebo relací**
+  - Run **multiple quizzes or games**
   - **Otestovat** svůj kvíz s většími skupinami
   - Pořádat **vícedenní akce** během víkendu
 
