@@ -30,7 +30,7 @@ För alla som vill ordna traditionella pubquiz där spelarna kan ändra sina sva
 De här rundtyperna simulerar att man ”lämnar in svarspappren” efter varje runda.
 
 - [Traditionell](030-traditional.md)
-- [Traditionell - Röd tråd](031-traditional-ct.md)
+- [Traditional - Common Thread](031-traditional-ct.md)
 - [Alfabet](032-alphabet.md)
 
 ## 🎉 Liveevenemang
