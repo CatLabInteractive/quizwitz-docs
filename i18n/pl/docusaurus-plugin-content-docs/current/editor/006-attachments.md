@@ -38,7 +38,15 @@ Każdy załącznik może mieć nazwę i opcjonalne źródło:
 - **Nazwa** - Wyświetlana quizmasterowi w [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); pomaga porządkować załączniki
 - **Źródło** - Wyświetlane graczom jako informacja o autorze lub źródle. Powinna to być **nazwa właściciela praw**.
 
-> ⚠️ Aby **opublikować** Round-About lub quiz, **wszystkie załączniki muszą mieć wypełnione prawidłowe źródło**. Bez tego twój element nie może zostać upubliczniony.
+> ⚠️ Aby **opublikować** Round-About lub quiz, **wszystkie załączniki muszą mieć wypełnione prawidłowe źródło**. Without this, it cannot be made public.
+
+---
+
+## 📱 Show on player devices
+
+Images shown between screens - before or after a question, before or after its feedback, and before or after a round - can also be shown on the **players' devices**, not only on the game screen. Tick **Show on player devices** on the attachment to do so.
+
+> ℹ️ This applies to images only. An image in the **During question** slot is never mirrored: players see it on the game screen. To make that image fill the game screen instead, use the question's **Custom view** (see [writing questions](../editor/005-writing-questions.md)).
 
 ---
 
