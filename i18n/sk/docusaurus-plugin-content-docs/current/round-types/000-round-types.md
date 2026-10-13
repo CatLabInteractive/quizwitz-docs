@@ -30,7 +30,7 @@ Pre každého, kto chce organizovať tradičné pub kvízy, kde hráči môžu m
 Tieto typy kôl simulujú „odovzdanie papierov“ po každom kole.
 
 - [Tradičné](030-traditional.md)
-- [Tradičné - Spoločná niť](031-traditional-ct.md)
+- [Traditional - Common Thread](031-traditional-ct.md)
 - [Abeceda](032-alphabet.md)
 
 ## 🎉 Živé udalosti
