@@ -43,6 +43,6 @@ Yleiskatsauksen kysymysten asetuksiin löydät kohdasta [kysymysten kirjoittamin
 
 - **Ole selkeä ja ytimekäs:** Vältä monitulkintaisia sanamuotoja.
 - **Käytä uskottavia vääriä vastauksia:** Tee harhautusvaihtoehdoista uskottavia.
-- **Yhdistele liitteitä:** Lisää kuvia, lippuja tai ääniä sitouttamaan pelaajia.
+- **Mix attachments:** Add images, flags, or sounds for engagement.
 - **Satunnaista järjestys:** Pidä peli reiluna kaikille pelaajille.
 - **Lisää tunnisteet ja kategoriat:** Helpottaa selaamista ja hakua.
