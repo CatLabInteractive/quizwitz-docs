@@ -12,13 +12,13 @@ Lefagyott a játékod? Véletlenül bezáródott a lap? A [**QuizWitz Live**](qu
 
 ## 🔄 Így működik a játék helyreállítása
 
-Ha a játékod összeomlik, lefagy, akadozik, vagy bármilyen okból megszakad - legyen az böngészőhiba, rendszer-újraindítás vagy egy lap véletlen bezárása - könnyedén folytathatod a munkamenetet.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the game easily.
 
 Egyszerűen **nyisd meg újra ugyanazt a böngészőlapot**, amelyen a **játékképernyőt** jelenítetted meg. Ez az a képernyő, amelyet kivetítesz vagy streamelsz a közönségednek.
 
 Amikor betölt:
 
-- A rendszer megkér, hogy **folytasd az előző munkamenetet**, vagy **indíts újat**
+- You’ll be prompted to **resume the previous game** or **start a new one**
 - Ha a folytatást választod, a játék a lehető legpontosabban visszaállítja az előrehaladásodat
 
 ---
@@ -38,7 +38,7 @@ Válaszd a **„Játék folytatása”** lehetőséget, ha szeretnéd:
 
 Dönthetsz úgy is, hogy inkább **új játékot indítasz**.
 
-- Ez teljesen **törli az előző munkamenetet**
+- This will completely **clear the previous game**
 - Visszatérsz a kvíz beállításának elejére
 
 > ⚠️ Csak akkor válaszd ezt, ha biztos vagy benne, hogy nem szeretnéd folytatni a meglévő játékot.
