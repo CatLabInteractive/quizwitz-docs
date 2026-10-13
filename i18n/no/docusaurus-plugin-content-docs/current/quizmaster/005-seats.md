@@ -60,7 +60,7 @@ For enkeltstående eller sporadiske arrangementer kan du aktivere **Pay-as-you-g
 
 - **Pay-as-you-go-Seats** er aktive i **48 timer** etter aktivering.
 - Innenfor den tiden kan du:
-  - Kjøre **flere quizer eller spill**
+  - Run **multiple quizzes or games**
   - **Teste** quizen din med større grupper
   - Arrangere **arrangementer over flere dager** i løpet av en helg
 
