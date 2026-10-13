@@ -30,7 +30,7 @@ Dla wszystkich, którzy chcą organizować tradycyjne quizy w pubach, w których
 Te typy rund symulują „oddawanie kartek” po każdej rundzie.
 
 - [Tradycyjna](030-traditional.md)
-- [Tradycyjna - Wspólny mianownik](031-traditional-ct.md)
+- [Traditional - Common Thread](031-traditional-ct.md)
 - [Alfabet](032-alphabet.md)
 
 ## 🎉 Wydarzenia na żywo
