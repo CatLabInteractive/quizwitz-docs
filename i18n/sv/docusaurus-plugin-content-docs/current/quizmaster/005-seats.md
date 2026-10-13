@@ -60,7 +60,7 @@ För enstaka eller tillfälliga evenemang kan du aktivera **Pay-as-you-go-Seats*
 
 - **Pay-as-you-go-Seats** förblir aktiva i **48 timmar** efter aktiveringen.
 - Under den tiden kan du:
-  - Köra **flera quiz eller spel**
+  - Run **multiple quizzes or games**
   - **Testa** ditt quiz med större grupper
   - Arrangera **evenemang över flera dagar** under en helg
 
