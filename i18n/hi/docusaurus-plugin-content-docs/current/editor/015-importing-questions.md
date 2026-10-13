@@ -21,7 +21,7 @@ QuizWitz में किसी round में जल्दी से प्र
 1. वह round खोलें जिसमें आप content इंपोर्ट करना चाहते हैं
 2. **QuizWitz Library** tab पर click करें
 3. language, collection, type, category या tags जैसे filters का इस्तेमाल करें
-4. एक या ज़्यादा entries चुनें
+4. Select one or more items
 5. चुने गए content को अपने quiz में डालने के लिए **Add X items** पर click करें
 
 ![QuizWitz Library](/images/import/import-from-quizwitz.png)
