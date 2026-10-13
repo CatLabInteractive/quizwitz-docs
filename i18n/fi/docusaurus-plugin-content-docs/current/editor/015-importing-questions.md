@@ -21,7 +21,7 @@ Molemmat vaihtoehdot ovat käytettävissä minkä tahansa kierroksen sisältä.
 1. Avaa kierros, johon haluat tuoda sisältöä
 2. Napsauta **QuizWitz-kirjasto**-välilehteä
 3. Käytä suodattimia, kuten kieltä, kokoelmaa, tyyppiä, kategoriaa tai tunnisteita
-4. Valitse yksi tai useampi kohde
+4. Select one or more items
 5. Lisää valittu sisältö visaasi napsauttamalla **Lisää X kohdetta**
 
 ![QuizWitz-kirjasto](/images/import/import-from-quizwitz.png)
