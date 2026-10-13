@@ -43,6 +43,6 @@ Soru ayarlarına genel bir bakış için [soru yazma](../editor/005-writing-ques
 
 - **Açık ve öz ol:** Belirsiz ifadelerden kaçın.
 - **İnandırıcı yanlış cevaplar kullan:** Çeldiricileri akla yatkın hale getir.
-- **Farklı ekler kullan:** İlgiyi artırmak için görseller, bayraklar veya sesler ekle.
+- **Mix attachments:** Add images, flags, or sounds for engagement.
 - **Sırayı rastgele yap:** Her şeyi tüm oyuncular için adil tut.
 - **Etiketle ve kategorilere ayır:** Kolay gezinme ve aranabilirlik için.
