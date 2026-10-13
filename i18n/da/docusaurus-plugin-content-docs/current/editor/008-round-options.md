@@ -74,7 +74,7 @@ You can add a custom **round introduction text** (the **Quizmaster script**) tha
 
 ## 📎 Vedhæftninger
 
-Gør din runde mere spændende med medier, der vises på bestemte tidspunkter:
+Enhance your round with attachments shown at specific moments:
 
 - **Før runde** - Vises efter animationen med rundeintroen
 - **Efter runde** - Vises efter rundeafslutningen
