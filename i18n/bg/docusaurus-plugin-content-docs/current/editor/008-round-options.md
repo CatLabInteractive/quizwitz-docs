@@ -74,7 +74,7 @@ You can add a custom **round introduction text** (the **Quizmaster script**) tha
 
 ## 📎 Прикачени файлове
 
-Подобри кръга си с медия, показвана в конкретни моменти:
+Enhance your round with attachments shown at specific moments:
 
 - **Преди рунда** - Показва се след интро анимацията на рунда
 - **След рунда** - Показва се след аутрото на рунда
