@@ -43,6 +43,6 @@ Consulta [scrivere domande](../editor/005-writing-questions.md) per una panorami
 
 - **Sii chiaro e conciso:** Evita formulazioni ambigue.
 - **Usa risposte sbagliate plausibili:** Rendi credibili i distrattori.
-- **Mescola i media:** Aggiungi immagini, bandiere o suoni per aumentare il coinvolgimento.
+- **Mix attachments:** Add images, flags, or sounds for engagement.
 - **Ordine casuale:** Mantieni le cose eque per tutti i giocatori.
 - **Tagga e categorizza:** Per una navigazione e una ricerca più facili.
