@@ -12,13 +12,13 @@ Frøs spillet ditt? Ble fanen lukket ved et uhell? [**QuizWitz Live**](quizmaste
 
 ## 🔄 Slik fungerer gjenoppretting av spill
 
-Hvis spillet krasjer, henger eller blir avbrutt av en eller annen grunn - enten det skyldes nettleseren, en omstart av systemet eller at fanen ble lukket ved et uhell - kan du enkelt fortsette spillet.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the game easily.
 
 Bare **åpne den samme nettleserfanen på nytt** som du brukte til å vise **spillskjermen**. Dette er skjermen du projiserer eller strømmer til publikummet ditt.
 
 Når den lastes inn:
 
-- Du blir spurt om du vil **fortsette det forrige spillet** eller **starte et nytt**
+- You’ll be prompted to **resume the previous game** or **start a new one**
 - Hvis du velger å fortsette, gjenoppretter spillet fremdriften din så nøyaktig som mulig
 
 ---
@@ -38,7 +38,7 @@ Velg **«Fortsett spillet»** for å:
 
 Du kan også velge å **starte et nytt spill** i stedet.
 
-- Da blir **det forrige spillet slettet helt**
+- This will completely **clear the previous game**
 - Du kommer tilbake til begynnelsen av quizoppsettet
 
 > ⚠️ Velg dette bare hvis du er sikker på at du ikke vil fortsette det pågående spillet.
