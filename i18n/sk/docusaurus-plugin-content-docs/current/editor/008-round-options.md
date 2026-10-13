@@ -74,7 +74,7 @@ You can add a custom **round introduction text** (the **Quizmaster script**) tha
 
 ## 📎 Prílohy
 
-Vylepši svoje kolo médiami, ktoré sa zobrazia v konkrétnych momentoch:
+Enhance your round with attachments shown at specific moments:
 
 - **Pred kolom** - Zobrazí sa po animácii úvodu kola
 - **Po kole** - Zobrazí sa po závere kola
