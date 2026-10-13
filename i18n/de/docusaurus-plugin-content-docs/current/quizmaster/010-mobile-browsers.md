@@ -24,7 +24,7 @@ Wenn die Nutzung eines Telefons oder Tablets deine einzige Option ist, befolge d
 ### 🎞️ Audio- und Videoausschnitte testen
 
 - Wenn dein Quiz **Audio oder Video** enthält, teste es im Voraus
-- Einige Geräte können **mit großen Mediendateien Schwierigkeiten haben** oder diese gar nicht abspielen
+- Some devices may **struggle with large attachments** or not play them at all
 - Sei besonders vorsichtig bei **älteren Geräten** oder Standard-Mobile-Browsern
 
 ---
