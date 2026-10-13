@@ -8,7 +8,11 @@ const config = {
   url: 'https://docs.quizwitz.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+    },
+  },
   favicon: 'img/favicon.ico',
   organizationName: 'catlabinteractive', // Usually your GitHub org/user name.
   projectName: 'quizwitz-docs', // Usually your repo name.
