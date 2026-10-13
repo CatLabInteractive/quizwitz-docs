@@ -89,7 +89,7 @@ Når du er klar til at teste eller køre din quiz, så tryk på knappen **Start 
 Vil du simulere en hel gennemspilning af quizzen? Brug de avancerede testværktøjer:
 
 - **Simulér** - Kør en testgennemspilning med bots (uden præsentation)
-- **Simulér Live** - Simulér et helt [QuizWitz Live](../quizmaster/001-introduction.md)-spil med bots, inklusive quizmaster-, jury- og spillervisninger
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) game with bots, including quizmaster, jury, and player views
 
 ---
 
