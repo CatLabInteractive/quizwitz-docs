@@ -12,13 +12,13 @@ Votre partie s'est-elle figée ? L'onglet s'est-il fermé par accident ? [**Quiz
 
 ## 🔄 Comment fonctionne la récupération de partie
 
-Si votre partie plante, se bloque ou est interrompue pour une quelconque raison - que ce soit à cause d'un problème de navigateur, d'un redémarrage système ou de la fermeture accidentelle de l'onglet - vous pouvez reprendre la partie facilement.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the game easily.
 
 Il vous suffit de **rouvrir le même onglet de navigateur** que vous utilisiez pour afficher **l'écran de jeu**. C'est l'écran que vous projetez ou diffusez à votre audience.
 
 Quand il se charge :
 
-- Vous serez invité à **reprendre la partie précédente** ou **à en commencer une nouvelle**
+- You’ll be prompted to **resume the previous game** or **start a new one**
 - Si vous choisissez de reprendre, le jeu restaurera votre progression aussi fidèlement que possible
 
 ---
@@ -38,7 +38,7 @@ Sélectionnez **« Reprendre la partie »** pour :
 
 Vous pouvez aussi choisir de **démarrer une nouvelle partie** à la place.
 
-- Cela **effacera complètement la partie précédente**
+- This will completely **clear the previous game**
 - Vous reviendrez au début de la configuration du quiz
 
 > ⚠️ N'utilisez cette option que si vous êtes certain de ne pas vouloir continuer la partie en cours.
