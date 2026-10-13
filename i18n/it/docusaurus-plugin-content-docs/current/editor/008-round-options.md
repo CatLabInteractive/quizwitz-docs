@@ -56,9 +56,19 @@ Queste opzioni di punteggio si trovano nel pannello delle opzioni del round quan
 
 ---
 
+## 💬 Round explanation
+
+Some round types and scoring options show a short explanation on the game screen before the first question, for example _"Answer consecutive questions correctly to reach higher levels and get bonus points."_ when a round uses strike scoring. Click **+ Round explanation** in the round opening to replace that text with your own. You can also use it to explain a regular trivia round, which has no explanation by default.
+
+- Leave the field empty to keep the default explanation of the round type.
+- The round explanation is translated like any other text: add it in every language of your quiz.
+- When a quizmaster presents the quiz, the game screen skips the round explanation. Use the quizmaster script below instead.
+
+---
+
 ## 📜 Istruzioni per il quizmaster
 
-Puoi aggiungere un **testo di introduzione arrotondato** personalizzato che apparirà solo sull'[Quizmaster App](../quizmaster/001-introduction.md) all'inizio del round. Usalo per descrivere il quizmaster o aggiungere un tocco personale.
+You can add a custom **round introduction text** (the **Quizmaster script**) that will appear only on the [Quizmaster App](../quizmaster/001-introduction.md) at the start of the round. Usalo per descrivere il quizmaster o aggiungere un tocco personale.
 
 ---
 
