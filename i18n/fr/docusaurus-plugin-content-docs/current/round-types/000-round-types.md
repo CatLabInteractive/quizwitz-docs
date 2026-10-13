@@ -30,7 +30,7 @@ Pour ceux qui veulent organiser des quiz de pub traditionnels où les joueurs pe
 Ces types de manches simulent la « remise des copies » après chaque manche.
 
 - [Traditionnel](030-traditional.md)
-- [Traditionnel - Fil conducteur](031-traditional-ct.md)
+- [Traditional - Common Thread](031-traditional-ct.md)
 - [Alphabet](032-alphabet.md)
 
 ## 🎉 Événements en direct
