@@ -1,11 +1,11 @@
 ---
 id: piece-of-pie
-title: Piece of pie
+title: Piece of Pie
 ---
 
-# 🥧 Piece of pie
+# 🥧 Piece of Pie
 
-In a **Piece of pie** round, teamwork pays off! The total points available for each question depend on the number of players, and are then split between all players (or teams) who answer the question correctly.
+In a **Piece of Pie** round, teamwork pays off! The total points available for each question depend on the number of players, and are then split between all players (or teams) who answer the question correctly.
 
 ---
 

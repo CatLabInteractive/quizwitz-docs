@@ -9,13 +9,13 @@ Eine Aktivitätsrunde erlaubt es dir, von den klassischen Quizfragen zu einem kr
 
 ---
 
-![Hauptbildschirm für die Aktivitätsrunde](/images/round-modes/activity-main-screen.png)
+![Spielbildschirm für Aktivitätsrunde](/images/round-modes/activity-main-screen.png)
 
 ---
 
 ## 🏆 So funktioniert es
 
-- **Beschreibung der Herausforderung:** Die Runde beginnt mit einer Beschreibung der Aktivität (z. B. "Falte ein Papierflugzeug und wirf es so weit wie möglich — der weiteste Wurf gewinnt!").
+- **Beschreibung der Herausforderung:** Die Runde beginnt mit einer Beschreibung der Aktivität (z. B. "Falte ein Papierflugzeug und wirf es so weit wie möglich - der weiteste Wurf gewinnt!").
 - **Team-/Spielerauswahl:** Der quizmaster wählt aus, welche Teams oder Spieler bei der Aktivität mitmachen.
   - **Die Zufallsauswahl sorgt dafür, dass jedes Team im Laufe des Quiz gleich oft ausgewählt wird.** Wenn du also 40 Teams und 10 Aktivitätsrunden mit je 4 Teams hast, wird jedes Team genau einmal gezogen.
 - **Timer & Tools:** Starte einen Timer und nutze Soundeffekte (z. B. Buzzer oder Glocken), um die Herausforderung zu steuern.
@@ -33,7 +33,7 @@ Eine Aktivitätsrunde erlaubt es dir, von den klassischen Quizfragen zu einem kr
 
 - **Duell-Tools:** Der quizmaster kann während der Aktivität Schnellaktionen für Buzzer, Gong, Glocken und Timer nutzen.
 - **Individuelle Punkte:** Punkte können für jedes Team manuell eingetragen werden, oder du kannst mit Schnellaktionen einen Gewinner auswählen.
-- **Anhänge:** Füge Bilder, Audio oder Video hinzu, um die Aktivität zu erklären oder Beispiele zu zeigen. Der quizmaster kann diese während der Aktivität auf dem Hauptbildschirm anzeigen.
+- **Anhänge:** Füge Bilder, Audio oder Video hinzu, um die Aktivität zu erklären oder Beispiele zu zeigen. Der Quizmaster kann diese während der Aktivität auf dem Spielbildschirm anzeigen.
 
 ---
 
@@ -61,4 +61,4 @@ Eine Aktivitätsrunde erlaubt es dir, von den klassischen Quizfragen zu einem kr
 
 ---
 
-Die Aktivitätsrunde ist perfekt für interaktive Challenges, Duelle oder kreative Aufgaben – eine tolle Möglichkeit, deinem QuizWitz-Event Energie und Abwechslung zu verleihen!
+Die Aktivitätsrunde ist perfekt für interaktive Challenges, Duelle oder kreative Aufgaben - eine tolle Möglichkeit, deinem QuizWitz-Event Energie und Abwechslung zu verleihen!

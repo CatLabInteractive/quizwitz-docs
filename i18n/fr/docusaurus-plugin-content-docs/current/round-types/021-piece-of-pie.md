@@ -5,16 +5,16 @@ title: Morceau de tarte
 
 # 🥧 Morceau de tarte
 
-Dans un tour **Morceau de tarte**, le travail d'équipe paie ! Le nombre total de points disponibles pour chaque question dépend du nombre de joueurs, puis est réparti entre tous les joueurs (ou équipes) qui répondent correctement à la question.
+Dans une manche **Morceau de tarte**, le travail d'équipe est payant ! Le nombre total de points disponibles pour chaque question dépend du nombre de joueurs, puis est réparti entre tous les joueurs (ou équipes) qui répondent correctement à la question.
 
 ---
 
 ## 📝 Comment ça marche
 
 - **Points totaux = points de base × nombre de joueurs (ou équipes).**
-    - Exemple : si une question vaut 100 points et qu'il y a 20 joueurs, 2 000 points sont en jeu.
+  - Exemple : si une question vaut 100 points et qu'il y a 20 joueurs, 2 000 points sont en jeu.
 - Après la question, les **points totaux sont divisés également** entre tous ceux qui ont répondu correctement.
-    - Exemple : si 5 joueurs ont répondu correctement, chacun d'eux reçoit 400 points.
+  - Exemple : si 5 joueurs ont répondu correctement, chacun d'eux reçoit 400 points.
 - Si tout le monde répond correctement, tout le monde obtient la même part (plus faible). Si un seul joueur a la bonne réponse, il obtient la « tarte » entière !
 
 ---

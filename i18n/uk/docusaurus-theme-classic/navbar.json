@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "QuizWitz",
+    "description": "Brand name. Do not translate."
+  },
+  "logo.alt": {
+    "message": "Логотип QuizWitz",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.About QuizWitz": {
+    "message": "Про QuizWitz",
+    "description": "Navbar item with label About QuizWitz"
+  },
+  "item.label.Round types": {
+    "message": "Типи раундів",
+    "description": "Navbar item with label Round types"
+  },
+  "item.label.Question types": {
+    "message": "Типи запитань",
+    "description": "Navbar item with label Question types"
+  },
+  "item.label.FAQ": {
+    "message": "Часті запитання",
+    "description": "Navbar item with label FAQ"
+  }
+}

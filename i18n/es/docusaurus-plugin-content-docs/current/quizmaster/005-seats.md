@@ -3,17 +3,17 @@ id: seats
 title: Seats
 ---
 
-# 🎟️ QuizWitz PRO – Cómo funcionan los Seats
+# 🎟️ QuizWitz PRO - Cómo funcionan los Seats
 
-Los juegos de QuizWitz PRO requieren **seats activos** para conectar jugadores. Los Seats son un sistema flexible, de pago por uso o basado en licencia que se adapta a tus necesidades — perfecto para pub quizzes, transmisiones en vivo y eventos profesionales de quiz.
+Los juegos de QuizWitz PRO requieren **seats activos** para conectar jugadores. Los Seats son un sistema flexible, de pago por uso o basado en licencia que se adapta a tus necesidades - perfecto para pub quizzes, transmisiones en vivo y eventos profesionales de quiz.
 
 ---
 
 ## 🧑‍🤝‍🧑 ¿Qué son los seats?
 
 - Cada **jugador o equipo conectado** en un juego PRO requiere **1 seat activo**.
-- Puedes organizar juegos con **jugadores individuales** o **equipos compartiendo un smart device** — cada uno cuenta como un seat.
-- Los **juegos regulares (no PRO)** no requieren seats y son ideales para jugar casualmente con amigos o familia.
+- Puedes organizar juegos con **jugadores individuales** o **equipos que comparten un dispositivo** - cada uno cuenta como un seat.
+- **Party Game y Un jugador** **no** requieren Seats y son ideales para jugar casualmente con amigos o familiares.
 
 ---
 
@@ -27,7 +27,7 @@ Los juegos de QuizWitz PRO requieren **seats activos** para conectar jugadores. 
 
 ## 💼 Licencias QuizWitz PRO
 
-Si organizas quizzes regularmente, una **licencia QuizWitz PRO** te da **seats activos permanentemente** que siempre están disponibles — sin necesidad de activarlos manualmente.
+Si organizas quizzes regularmente, una **licencia QuizWitz PRO** te da **seats activos permanentemente** que siempre están disponibles - sin necesidad de activarlos manualmente.
 
 Los niveles de licencia disponibles incluyen:
 
@@ -39,30 +39,30 @@ Los niveles de licencia disponibles incluyen:
 
 Estos seats son ideales para eventos recurrentes, configuraciones de equipos grandes o lugares profesionales.
 
-> ⚠️ **Importante**: Si necesitas organizar un quiz con **más jugadores de los que permite tu licencia**, debes **activar seats de pago por uso** para el número completo de jugadores. Los seats de tu licencia no se suman a los seats activados — se **reemplazan** completamente.
+> ⚠️ **Importante**: Si necesitas organizar un quiz con **más jugadores de los que permite tu licencia**, debes **activar seats de pago por uso** para el número completo de jugadores. Los seats de tu licencia no se suman a los seats activados - se **reemplazan** completamente.
 
 ---
 
-## 💳 Pago por uso y créditos
+## 💳 Pay-as-you-go y créditos
 
 Para eventos únicos u ocasionales, puedes activar **seats de pago por uso** en lugar de comprar una licencia. Esto te da flexibilidad sin compromiso a largo plazo.
 
 - Los seats se activan usando **créditos QuizWitz**, que puedes comprar por adelantado.
 - Hay **descuentos por volumen** al comprar créditos al por mayor.
-- Cada **licencia premium** incluye un **valor de créditos gratis**.
+- Cada **licencia PRO** incluye un **valor de créditos gratuitos**.
 - Si no estás seguro de cuántos jugadores se unirán:
-    - Puedes **esperar hasta que todos se conecten** antes de activar los seats.
-    - O, activas más seats de los necesarios — **los seats no usados se reembolsan automáticamente** en créditos después de que expiran.
+  - Puedes **esperar hasta que todos se conecten** antes de activar los seats.
+  - O activa más seats de los necesarios - **los seats no usados se reembolsan automáticamente** en créditos cuando caducan.
 
 ---
 
 ## ⏳ Duración de los seats (pago por uso)
 
-- Los **seats de pago por uso** permanecen activos durante **48 horas** tras su activación.
+- Los **seats Pay-as-you-go** permanecen activos durante **48 horas** tras su activación.
 - Dentro de ese tiempo, puedes:
-    - Realizar **múltiples quizzes o sesiones**
-    - **Probar** tu quiz con grupos grandes
-    - Organizar **eventos de varios días** durante un fin de semana
+  - Realizar **múltiples quizzes o sesiones**
+  - **Probar** tu quiz con grupos grandes
+  - Organizar **eventos de varios días** durante un fin de semana
 
 ---
 
@@ -72,12 +72,12 @@ Para eventos únicos u ocasionales, puedes activar **seats de pago por uso** en 
 
 ---
 
-## ⚠️ Caso especial: modo whitelabel
+## ⚠️ Caso especial: modo Whitelabel
 
-- Los juegos en **modo whitelabel** requieren **2 seats por jugador** en lugar de uno.
+- Los juegos en **modo Whitelabel** requieren **2 seats por jugador** en lugar de uno.
 
-> Ejemplo: Un juego whitelabel con 100 jugadores requiere 200 seats.
+> Ejemplo: Un juego Whitelabel con 100 jugadores requiere 200 seats.
 
 ---
 
-QuizWitz PRO te ofrece herramientas flexibles y profesionales para organizar eventos de cualquier tamaño — ya sea activando seats bajo demanda o confiando en una licencia PRO para acceso permanente.
+QuizWitz PRO te ofrece herramientas flexibles y profesionales para organizar eventos de cualquier tamaño - ya sea activando seats bajo demanda o confiando en una licencia PRO para acceso permanente.

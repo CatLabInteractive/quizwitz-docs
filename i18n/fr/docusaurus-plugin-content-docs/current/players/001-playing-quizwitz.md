@@ -11,12 +11,12 @@ Bienvenue sur QuizWitz ! Que vous jouiez seul ou entre amis, ce guide vous aider
 
 ## 🎯 Choisissez quoi jouer
 
-Commencez par parcourir les **Round-Abouts** disponibles — de courtes manches thématiques de questions de quiz. Utilisez le menu en haut de l'écran pour explorer :
+Commencez par parcourir les **Round-Abouts** disponibles - de courtes manches thématiques de questions de quiz. Utilisez le menu en haut de l'écran pour explorer :
 
-- **Nouveau** — Découvrez les derniers Round-Abouts
-- **Ma Collection** — Accédez à tout ce que vous avez sauvegardé ou créé
-- **Collecter** — Trouvez des Round-Abouts créés par la communauté
-- **Jeu Rapide** — Lancez-vous avec une sélection aléatoire
+- **Nouveau** - Découvrez les derniers Round-Abouts
+- **Ma Collection** - Accédez à tout ce que vous avez sauvegardé ou créé
+- **Collecter** - Trouvez des Round-Abouts créés par la communauté
+- **Jeu Rapide** - Lancez-vous avec une sélection aléatoire
 
 ![QuizWitz top navigation bar](/images/top-menu-play.png)
 
@@ -35,24 +35,24 @@ Cela inclut :
 
 - Round-Abouts
 - Quiz complets
-- Listes de lecture
+- Playlists
 - Bingos
 - ...
 
-Vous pouvez organiser, jouer ou supprimer des éléments à tout moment. C'est votre bibliothèque personnelle — construisez-la comme vous le souhaitez !
+Vous pouvez organiser, jouer ou supprimer des éléments à tout moment. C'est votre bibliothèque personnelle - construisez-la comme vous le souhaitez !
 
 ---
 
 ## 🧠 Choisissez un Round-About
 
-Un **Round-About** est une petite manche thématique de questions. Jouer un seul vous offre une partie courte avec 7 questions aléatoires.
+Un **Round-About** est une petite manche de questions sur un thème - comme son nom l'indique, une manche _autour_ d'un sujet. Jouer un seul vous offre une partie courte avec 7 questions aléatoires.
 
 Pour explorer un Round-About plus en détail :
 
 - Cliquez sur son **image**, **titre**, ou **icône de commentaires**
 - Cliquez sur **Jouer** pour vous lancer immédiatement
 
-![QuizWitz round-about details](/images/round-about-details.png)
+![Détails du Round-About QuizWitz](/images/round-about-details.png)
 
 ---
 
@@ -63,7 +63,7 @@ Vous voulez créer un quiz complet à partir de plusieurs Round-Abouts ? Voici c
 - Cliquez sur **Ajouter à ma collection** dans le Round-About
 - Ou cliquez sur l'**icône étoile** sur la tuile du Round-About
 
-Pour en retirer un plus tard, cliquez à nouveau sur l'étoile — ce sera alors **Supprimer de ma collection**.
+Pour en retirer un plus tard, cliquez à nouveau sur l'étoile - ce sera alors **Supprimer de ma collection**.
 
 ![Add a Round-About to your collection](/images/add-to-collection.png)
 
@@ -80,8 +80,8 @@ Quand vous êtes prêt :
 
 Choisissez :
 
-- **Mode de jeu** — Joueur seul ou Jeu en groupe
-- **Quels Round-Abouts** inclure dans votre session
+- **Mode de jeu** - Solo ou Jeu de groupe
+- **Quels Round-Abouts** inclure dans votre partie
 
 QuizWitz essaiera de passer les questions que vous avez déjà vues.
 
@@ -93,28 +93,36 @@ QuizWitz essaiera de passer les questions que vous avez déjà vues.
 
 Une fois votre partie lancée, choisissez votre mode :
 
-### 🎮 Joueur seul
+### 🎮 Solo
 
-- Cliquez sur **Démarrer**, puis choisissez **Joueur seul**
+- Cliquez sur **Démarrer**, puis choisissez **Solo**
 - Utilisez votre souris, clavier ou écran tactile pour répondre
 
-![QuizWitz start screen](/images/quizwitz-start-screen.png)\
+![QuizWitz start screen](/images/quizwitz-start-screen.png)  
 ![QuizWitz start screen single player](/images/quizwitz-start-screen-single.png)
 
 ---
 
-### 🎉 Jeu en groupe
+### 🎉 Jeu de groupe
 
 Jouez avec des amis utilisant leurs propres téléphones ou tablettes :
 
-> 📺 Assurez-vous que l'écran du quiz est visible — utilisez un affichage partagé ou un partage d'écran
+> 📺 Assurez-vous que l'écran de jeu est visible - utilisez un écran partagé ou un partage d'écran
+>
+> 👥 Jusqu'à 2 joueurs peuvent participer gratuitement. Avec un compte Premium, jusqu'à 100 joueurs peuvent participer.
 
-1. Cliquez sur **Démarrer**, puis **Jeu en groupe**
+1. Cliquez sur **Démarrer**, puis **Jeu de groupe**
 2. Les joueurs suivent les instructions à l'écran pour rejoindre
 3. Cliquez sur **Démarrer le quiz** quand tout le monde est prêt
 
-![QuizWitz start screen](/images/quizwitz-start-screen.png)\
-![QuizWitz start screen party](/images/quizwitz-start-screen-party.png)\
+Une fois le quiz lancé, **la partie se déroule automatiquement** - les questions apparaissent, les minuteurs décomptent et les scores sont comptabilisés sans aucune intervention de l'hôte.
+
+> ⏸️ Besoin d'une pause ? Déplacez votre souris au bas de l'écran de jeu et un bouton **pause** apparaîtra. La pause est le seul moyen d'interrompre un Jeu de groupe.
+>
+> Vous voulez contrôler le rythme de la partie vous-même - décider quand chaque question commence ? Ce n'est possible qu'avec [**QuizWitz Live**](../quizmaster/001-introduction.md) et Quizmaster App.
+
+![QuizWitz start screen](/images/quizwitz-start-screen.png)  
+![QuizWitz start screen party](/images/quizwitz-start-screen-party.png)  
 ![QuizWitz connect screen](/images/connect-screen.png)
 
 ---

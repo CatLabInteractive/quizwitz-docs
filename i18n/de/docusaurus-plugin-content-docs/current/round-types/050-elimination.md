@@ -5,7 +5,7 @@ title: Elimination
 
 # 🚫 Elimination
 
-**Elimination** ist ein spezielles Ereignis, das Spieler oder Teams basierend auf ihrer aktuellen Rangliste oder Punktzahl automatisch aus dem Spiel entfernt.\
+**Elimination** ist ein spezielles Ereignis, das Spieler oder Teams basierend auf ihrer aktuellen Rangliste oder Punktzahl automatisch aus dem Spiel entfernt.  
 Es ist ein nützliches Werkzeug für Turniere, Playoffs oder um dramatische Wendungen bei Live-Events hinzuzufügen!
 
 ---
@@ -17,7 +17,7 @@ Es ist ein nützliches Werkzeug für Turniere, Playoffs oder um dramatische Wend
 
 ---
 
-## ⚙️ Eliminierungskriterien
+## ⚙️ Eliminationskriterien
 
 Du kannst das Eliminierungsevent so konfigurieren, dass es:
 
@@ -30,7 +30,7 @@ Die Anzahl der Spieler, die behalten (oder rausgeworfen) werden sollen, kann als
 
 ---
 
-> Eliminierungsevents sind perfekt für K.o.-Formate, um die Anzahl der Spieler zwischen Quizrunden zu reduzieren oder um spannende “Sudden Death”-Momente in deinem Spiel zu schaffen!
+> Eliminationsevents sind perfekt für K.o.-Formate, um die Anzahl der Spieler zwischen Quizrunden zu reduzieren oder um spannende „Sudden Death“-Momente in deinem Spiel zu schaffen!
 
 ---
 

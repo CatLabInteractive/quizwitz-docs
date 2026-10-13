@@ -1,6 +1,6 @@
 ---
 id: departments-dealers-choice
-title: Abteilung Dealer's Wahl
+title: Abteilung Dealer's Choice
 ---
 
 # 🏢 Abteilung Dealer's Wahl
@@ -25,9 +25,9 @@ title: Abteilung Dealer's Wahl
   - Höchster Rang zuerst
   - Zufällig
 - **Dealer-Abteilung:**
-  - _Nur der Dealer darf spielen_ — Nur der ausgewählte Dealer beantwortet die Frage
-  - _Alle Spieler in der Abteilung des Dealers dürfen spielen_ — Jeder in der Abteilung kann antworten und Punkte erzielen
-- **Dealer-Bonus:**\
+  - _Nur der Dealer darf spielen_ - Nur der ausgewählte Dealer beantwortet die Frage
+  - _Alle Spieler in der Abteilung des Dealers dürfen spielen_ - Jeder in der Abteilung kann antworten und Punkte erzielen
+- **Dealer-Bonus:**  
   Lege einen Bonusprozentsatz für den Dealer fest (falls aktiviert).
 
 ---
@@ -39,5 +39,5 @@ title: Abteilung Dealer's Wahl
 
 ---
 
-Für klassische Dealer’s Choice-Regeln sieh [Dealer’s Choice](024-dealers-choice.md).\
+Für klassische Dealer’s Choice-Regeln sieh [Dealer’s Choice](024-dealers-choice.md).  
 Für weitere Teamspieloptionen siehe [Rundenoptionen](../editor/008-round-options.md).

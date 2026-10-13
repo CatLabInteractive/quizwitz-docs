@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "QuizWitz",
+    "description": "Brand name. Do not translate."
+  },
+  "logo.alt": {
+    "message": "Λογότυπο QuizWitz",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.About QuizWitz": {
+    "message": "Σχετικά με το QuizWitz",
+    "description": "Navbar item with label About QuizWitz"
+  },
+  "item.label.Round types": {
+    "message": "Τύποι γύρων",
+    "description": "Navbar item with label Round types"
+  },
+  "item.label.Question types": {
+    "message": "Τύποι ερωτήσεων",
+    "description": "Navbar item with label Question types"
+  },
+  "item.label.FAQ": {
+    "message": "Συχνές ερωτήσεις",
+    "description": "Navbar item with label FAQ"
+  }
+}

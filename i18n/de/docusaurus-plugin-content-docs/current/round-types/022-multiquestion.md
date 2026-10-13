@@ -34,7 +34,7 @@ Die **Mehrfachfrage**-Runde gibt den Spielern (oder Teams) die Freiheit, aus ein
 ## 💡 Tipps
 
 - Biete eine Mischung aus einfachen und schweren Fragen für mehr Strategie an.
-- Nutze Bezeichnungen kreativ – mysteriöse oder lustige Themen können das Engagement erhöhen.
+- Nutze Bezeichnungen kreativ - mysteriöse oder lustige Themen können das Engagement erhöhen.
 - Belohne Risikoträger mit höher bewerteten Fragen.
 
 ---

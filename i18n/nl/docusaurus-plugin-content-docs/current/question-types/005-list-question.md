@@ -5,7 +5,7 @@ title: Lijstvraag
 
 # 📝 Lijstvraag
 
-Een **lijstvraag** vraagt spelers om meerdere correcte antwoorden te geven uit een grotere lijst — perfect voor aanwijzingen zoals "Noem de eerste 5 presidenten van de Verenigde Staten van Amerika" of "Noem drie elementen uit het periodiek systeem."
+Een **lijstvraag** vraagt spelers om meerdere correcte antwoorden te geven uit een grotere lijst - perfect voor aanwijzingen zoals "Noem de eerste 5 presidenten van de Verenigde Staten van Amerika" of "Noem drie elementen uit het periodiek systeem."
 
 ---
 
@@ -18,7 +18,7 @@ Een **lijstvraag** vraagt spelers om meerdere correcte antwoorden te geven uit e
 - **Vraag:** Geef duidelijk aan wat je wilt dat spelers lijst.
 - **Lijstitems:** Voer alle mogelijke correcte antwoorden in.
   - Markeer sommige als **‘Gegeven’** om ze als voorbeelden op het scherm te tonen; deze hoeven NIET beantwoord te worden.
-  - Volgorde doet er **NIET** toe — spelers kunnen correcte antwoorden in willekeurige volgorde invoeren.
+  - Volgorde doet er **niet** toe - spelers kunnen correcte antwoorden in willekeurige volgorde invoeren.
 - **Spelerinvoer:** Spelers moeten een vastgesteld aantal antwoorden geven (bijv. tussen 1 en 5). Punten worden toegekend voor elk correct antwoord dat ze indienen.
 - **Bijlagen:** Voeg afbeeldingen, audio of video toe voor context. Vul bronvermelding in indien gepubliceerd.
 
@@ -31,7 +31,7 @@ Een **lijstvraag** vraagt spelers om meerdere correcte antwoorden te geven uit e
 - **Gegeven opties:** Gebruik als voorbeelden in de vraag.
 - **Correctie:**
   - **Forceer automatische correctie:** Wanneer ingeschakeld, controleert QuizWitz automatisch alle antwoorden (kleine typos en variaties accepteren). Geen jury nodig.
-  - **Handmatige beoordeling:** Als niet ingeschakeld, moet elk gegeven antwoord worden beoordeeld door de [jury app](../quizmaster/004-jury-app.md).
+  - **Handmatige beoordeling:** als deze optie niet is ingeschakeld, moet elk gegeven antwoord via de [Jury App](../quizmaster/004-jury-app.md) beoordeeld worden.
 
 ---
 
@@ -40,12 +40,12 @@ Een **lijstvraag** vraagt spelers om meerdere correcte antwoorden te geven uit e
 - **Punten per correct antwoord:** Spelers verdienen punten voor elk correct antwoord.
 - **Time-based scoring** (if enabled):
   Follows the **open question rules** for fairness:
-  - De beschikbare punten zijn verdeeld in tijdsblokken (niet per milliseconde).\
+  - De beschikbare punten zijn verdeeld in tijdsblokken (niet per milliseconde).  
     De beschikbare punten zijn verdeeld in tijdsblokken (niet per milliseconde).\
     De beschikbare punten zijn verdeeld in tijdsblokken (niet per milliseconde).\
     Bijvoorbeeld: volle punten in het eerste blok, 80% in het volgende, enzovoort.
-  - **Slechts 25%** van de punten is afhankelijk van snelheid.\
-    De andere **75%** is vast gezet - dus ook langzame typers krijgen het meeste deel van de punten als ze correct antwoorden.
+  - **Slechts 25%** van de punten is afhankelijk van snelheid.  
+    De andere **75%** ligt vast - dus ook tragere typers krijgen het grootste deel van de punten als ze correct antwoorden.
   - Dit vermindert de straf voor typsnelheid en maakt het scoren eerlijker voor iedereen.
 
 Voor details, zie [ronde score opties](../editor/008-round-options.md#scoring).
@@ -61,4 +61,4 @@ Voor details, zie [ronde score opties](../editor/008-round-options.md#scoring).
 
 ---
 
-Voor meer, zie [Jury app documentatie](../quizmaster/004-jury-app.md).
+Meer informatie vind je in de [documentatie van de Jury App](../quizmaster/004-jury-app.md).

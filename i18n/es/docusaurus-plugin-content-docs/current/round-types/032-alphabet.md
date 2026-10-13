@@ -27,10 +27,10 @@ y los jugadores deben asignar sus respuestas a los campos etiquetados correctos.
 
 ## 📝 Cómo funciona
 
-- Mientras se hacen las preguntas, los jugadores ven una lista de campos de respuestas — uno para cada pregunta.
-- **Los campos de respuesta no están en orden de cuestionario** — en cambio, se ordenan alfabéticamente por etiqueta.
+- Mientras se hacen las preguntas, los jugadores ven una lista de campos de respuestas - uno para cada pregunta.
+- **Los campos de respuesta no están en el orden del quiz** - en su lugar, se ordenan alfabéticamente por etiqueta.
 - Los jugadores deben emparejar sus respuestas con los campos etiquetados correctos (por ejemplo, la respuesta para la pregunta "Oso" debe ingresarse bajo la etiqueta "O").
-- Las respuestas pueden cambiarse en cualquier momento hasta que la ronda termine — los jugadores pueden cambiar respuestas entre campos mientras detectan errores.
+- Las respuestas pueden cambiarse en cualquier momento hasta que la ronda termine - los jugadores pueden cambiar respuestas entre campos mientras detectan errores.
 
 ---
 

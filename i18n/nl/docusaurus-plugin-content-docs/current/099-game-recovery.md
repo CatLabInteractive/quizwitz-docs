@@ -1,20 +1,20 @@
 ---
 id: live-crash-recovery
-title: ⚠️ Live Crash Recovery
+title: ⚠️ Crashherstel in QuizWitz Live
 sidebar_position: 1000
 ---
 
-# ⚠️ Live Crash Recovery
+# ⚠️ Crashherstel in QuizWitz Live
 
-Is je spel vastgelopen? Is het tabblad per ongeluk gesloten? [**QuizWitz Live**](quizmaster/001-introduction.md) bevat een ingebouwd herstel systeem om je weer op weg te helpen — zonder je voortgang te verliezen.
+Is je spel vastgelopen? Is het tabblad per ongeluk gesloten? [**QuizWitz Live**](quizmaster/001-introduction.md) bevat een ingebouwd herstelsysteem om je weer op weg te helpen - zonder je voortgang te verliezen.
 
 ---
 
-## 🔄 Hoe gameherstel werkt
+## 🔄 Hoe spelherstel werkt
 
-Als je spel crasht, vastloopt of om welke reden dan ook wordt onderbroken — of dat nu door een browserprobleem, systeemherstart of per ongeluk sluiten van een tabblad is — dan kun je de sessie makkelijk hervatten.
+Als je spel crasht, vastloopt of om welke reden dan ook wordt onderbroken - of dat nu door een browserprobleem, een herstart van het systeem of het per ongeluk sluiten van een tabblad is - dan kun je het spel makkelijk hervatten.
 
-Open gewoon **hetzelfde browsertabblad of gamescherm** waarin je de **hoofdgameweergave** gebruikte. Dit is het scherm dat je projecteert of streamt naar je publiek.
+**Open gewoon hetzelfde browsertabblad opnieuw** waarin je het **spelscherm** toonde. Dit is het scherm dat je projecteert of streamt naar je publiek.
 
 Wanneer het geladen is:
 
@@ -48,7 +48,7 @@ Je kunt ook kiezen om **een nieuw spel te starten**.
 ## 💡 Goed om te weten
 
 - Herstel werkt alleen als je **terugkeert naar hetzelfde gamescherm in dezelfde browser**
-- Navigeer **niet** naar een andere pagina — open de **exacte URL** die je gebruikte om het spel te hosten opnieuw.
+- Navigeer **niet** naar een andere pagina - open opnieuw de **exacte URL** die je gebruikte om het spel te hosten
 - Deze functie helpt te herstellen bij:
   - Browsercrashes
   - Het spel dat vastloopt of niet reageert tijdens de quiz
@@ -56,4 +56,4 @@ Je kunt ook kiezen om **een nieuw spel te starten**.
 
 ---
 
-Met gameherstel kun je met vertrouwen hosten — wetende dat zelfs als er iets misgaat, je gewoon kunt verdergaan waar je gebleven was.
+Met spelherstel kun je met vertrouwen hosten - in de wetenschap dat je, zelfs als er iets misgaat, gewoon verder kunt gaan waar je gebleven was.

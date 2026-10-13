@@ -5,16 +5,16 @@ title: Pedazo de pastel
 
 # 🥧 Pedazo de pastel
 
-¡En una ronda de **Pedazo de pastel**, el trabajo en equipo da sus frutos! Los puntos totales disponibles para cada pregunta dependen del número de jugadores, y luego se dividen entre todos los jugadores (o equipos) que respondan correctamente.
+En una ronda de **Pedazo de pastel**, ¡el trabajo en equipo vale la pena! Los puntos totales disponibles para cada pregunta dependen del número de jugadores, y luego se dividen entre todos los jugadores (o equipos) que respondan correctamente.
 
 ---
 
 ## 📝 Cómo funciona
 
 - **Puntos totales = puntos base × número de jugadores (o equipos).**
-    - Ejemplo: Si una pregunta vale 100 puntos y hay 20 jugadores, hay 2.000 puntos en juego.
+  - Ejemplo: Si una pregunta vale 100 puntos y hay 20 jugadores, hay 2.000 puntos en juego.
 - Después de la pregunta, los **puntos totales se dividen igual** entre todos los que respondieron correctamente.
-    - Ejemplo: Si 5 jugadores contestaron bien, cada uno recibe 400 puntos.
+  - Ejemplo: Si 5 jugadores contestaron bien, cada uno recibe 400 puntos.
 - Si todos aciertan, todos reciben la misma parte (más baja). Si solo un jugador acierta, ¡ese se lleva todo el “pastel”!
 
 ---

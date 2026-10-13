@@ -7,38 +7,6 @@
     "message": "Retourner vers le haut",
     "description": "The ARIA label for the back to top button"
   },
-  "theme.blog.archive.title": {
-    "message": "Archive",
-    "description": "The page & hero title of the blog archive page"
-  },
-  "theme.blog.archive.description": {
-    "message": "Archive",
-    "description": "The page & hero description of the blog archive page"
-  },
-  "theme.blog.paginator.navAriaLabel": {
-    "message": "Navigation des pages de la liste des blogs",
-    "description": "The ARIA label for the blog pagination"
-  },
-  "theme.blog.paginator.newerEntries": {
-    "message": "Nouvelles entrées",
-    "description": "The label used to navigate to the newer blog posts page (previous page)"
-  },
-  "theme.blog.paginator.olderEntries": {
-    "message": "Anciennes entrées",
-    "description": "The label used to navigate to the older blog posts page (next page)"
-  },
-  "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Navigation de la page de publication du blog",
-    "description": "The ARIA label for the blog posts pagination"
-  },
-  "theme.blog.post.paginator.newerPost": {
-    "message": "Nouvelle publication",
-    "description": "The blog post button label to navigate to the newer/previous post"
-  },
-  "theme.blog.post.paginator.olderPost": {
-    "message": "Ancien message",
-    "description": "The blog post button label to navigate to the older/next post"
-  },
   "theme.tags.tagsPageLink": {
     "message": "Voir tous les tags",
     "description": "The label of the link targeting the tag list page"
@@ -48,7 +16,7 @@
     "description": "The name for the system color mode"
   },
   "theme.colorToggle.ariaLabel.mode.light": {
-    "message": "mode lumière",
+    "message": "mode clair",
     "description": "The name for the light color mode"
   },
   "theme.colorToggle.ariaLabel.mode.dark": {
@@ -64,11 +32,11 @@
     "description": "The ARIA label for the breadcrumbs"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 article |{count} articles",
+    "message": "1 élément|{count} éléments",
     "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.docs.paginator.navAriaLabel": {
-    "message": "Pages de documents",
+    "message": "Pages de documentation",
     "description": "The ARIA label for the docs pagination"
   },
   "theme.docs.paginator.previous": {
@@ -80,7 +48,7 @@
     "description": "The label used to navigate to the next doc"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "Un doc étiqueté |{count} docs taggés",
+    "message": "Un doc étiqueté|{count} docs étiquetés",
     "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.tagDocListPageTitle": {
@@ -139,7 +107,7 @@
     "description": "The label alongside a tag list"
   },
   "theme.admonition.caution": {
-    "message": "précaution",
+    "message": "attention",
     "description": "The default label used for the Caution admonition (:::caution)"
   },
   "theme.admonition.danger": {
@@ -155,7 +123,7 @@
     "description": "The default label used for the Note admonition (:::note)"
   },
   "theme.admonition.tip": {
-    "message": "tip",
+    "message": "astuce",
     "description": "The default label used for the Tip admonition (:::tip)"
   },
   "theme.admonition.warning": {
@@ -164,11 +132,7 @@
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
     "message": "Fermer",
-    "description": "The ARIA label for close button of announcement bar"
-  },
-  "theme.blog.sidebar.navAriaLabel": {
-    "message": "Navigation des articles récents dans le blog",
-    "description": "The ARIA label for recent posts in the blog sidebar"
+    "description": "Generic button label to close a dialog, panel, or modal."
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
     "message": "Développer la catégorie de la barre latérale '{label}'",
@@ -184,7 +148,7 @@
   },
   "theme.navbar.mobileLanguageDropdown.label": {
     "message": "Langues",
-    "description": "The label for the mobile language switcher dropdown"
+    "description": "Section heading or filter label for language selection."
   },
   "theme.NotFound.p1": {
     "message": "Nous n'avons pas trouvé ce que vous cherchiez.",
@@ -198,20 +162,8 @@
     "message": "Sur cette page",
     "description": "The label used by the button on the collapsible TOC component"
   },
-  "theme.blog.post.readMore": {
-    "message": "En savoir plus",
-    "description": "The label used in blog post item excerpts to link to full blog posts"
-  },
-  "theme.blog.post.readMoreLabel": {
-    "message": "En savoir plus sur {title}",
-    "description": "The ARIA label for the link to full blog posts from excerpts"
-  },
-  "theme.blog.post.readingTime.plurals": {
-    "message": "Lecture d'une minute |{readingTime} min de lecture",
-    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
   "theme.CodeBlock.copy": {
-    "message": "Copie",
+    "message": "Copier",
     "description": "The copy button label on code blocks"
   },
   "theme.CodeBlock.copied": {
@@ -223,7 +175,7 @@
     "description": "The ARIA label for copy code blocks button"
   },
   "theme.CodeBlock.wordWrapToggle": {
-    "message": "Afficher/Masquer les mots",
+    "message": "Activer/désactiver le retour à la ligne",
     "description": "The title attribute for toggle word wrapping button of code block lines"
   },
   "theme.docs.breadcrumbs.home": {
@@ -239,7 +191,7 @@
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar",
+    "message": "Barre latérale des documents",
     "description": "The ARIA label for the sidebar navigation"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
@@ -247,7 +199,7 @@
     "description": "The ARIA label for close button of mobile sidebar"
   },
   "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
-    "message": "<unk> Retour au menu principal",
+    "message": "← Retour au menu principal",
     "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
   },
   "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
@@ -263,36 +215,12 @@
     "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Expand sidebar",
+    "message": "Développer la barre latérale",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Expand sidebar",
+    "message": "Développer la barre latérale",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
-  },
-  "theme.blog.post.plurals": {
-    "message": "Un message | Publications{count}",
-    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
-  "theme.blog.tagTitle": {
-    "message": "{nPosts} étiqueté avec \"{tagName}\"",
-    "description": "The title of the page for a blog tag"
-  },
-  "theme.blog.author.pageTitle": {
-    "message": "{authorName} - {nPosts}",
-    "description": "The title of the page for a blog author"
-  },
-  "theme.blog.authorsList.pageTitle": {
-    "message": "Auteurs",
-    "description": "The title of the authors page"
-  },
-  "theme.blog.authorsList.viewAll": {
-    "message": "Voir tous les auteurs",
-    "description": "The label of the link targeting the blog authors page"
-  },
-  "theme.blog.author.noPosts": {
-    "message": "Cet auteur n'a pas encore écrit de messages.",
-    "description": "The text for authors with 0 blog post"
   },
   "theme.contentVisibility.unlistedBanner.title": {
     "message": "Page non listée",
@@ -320,33 +248,36 @@
   },
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
-    "description": "The title of the tag list page"
+    "description": "Title of the Docusaurus tags overview page (the page listing all documentation tags). Not a quiz or round field."
   },
   "Create": {
-    "message": "Créer"
+    "message": "Créer",
+    "description": "Generic button label to create a new item."
   },
   "Create a fully customizable quiz using different question and round types.": {
-    "message": "Créez un quiz entièrement personnalisable en utilisant différents types de questions et de rondes."
+    "message": "Créez un quiz entièrement personnalisable en utilisant différents types de questions et de manches."
   },
   "Play": {
-    "message": "Jouer"
+    "message": "Jouer",
+    "description": "Generic button label to start playing a game or quiz."
   },
   "Play any shared quiz on our platform with friends, family, colleagues, … Grab a smart device, connect via the web and show off how much you know!": {
     "message": "Jouez à n'importe quel quiz partagé sur notre plateforme avec vos amis, votre famille, vos collègues, … Attrapez un appareil intelligent, connectez-vous via le Web et montrez ce que vous savez !"
   },
   "Share": {
-    "message": "Partager"
+    "message": "Partager",
+    "description": "Button label to open the share dialog."
   },
   "Collect and share quiz rounds from around the world, or share your own! Connect with other quiz aficionados.": {
-    "message": "Collectez et partagez des quiz à travers le monde, ou partagez les vôtres! Connectez-vous avec d'autres passionnés de quiz."
+    "message": "Collectez et partagez des manches de quiz venues du monde entier, ou partagez les vôtres ! Connectez-vous avec d'autres passionnés de quiz."
   },
   "Your guide to creating, hosting, and mastering QuizWitz.": {
-    "message": "Votre guide pour créer, héberger et maîtriser QuizWitz."
+    "message": "Votre guide pour créer, organiser et maîtriser QuizWitz."
   },
   "Getting started": {
     "message": "Commencer"
   },
   "FAQ": {
-    "message": "Foire Aux Questions"
+    "message": "Foire aux questions"
   }
 }

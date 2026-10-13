@@ -3,17 +3,17 @@ id: seats
 title: Seats
 ---
 
-# 🎟️ QuizWitz PRO – Hoe Seats werken
+# 🎟️ QuizWitz PRO - Hoe Seats werken
 
-QuizWitz PRO spellen vereisen **actieve Seats** om spelers te verbinden. Seats zijn een flexibel, pay-as-you-go of licentie-gebaseerd systeem dat meegroeit met je behoeften — perfect voor kroegquizzen, livestreams en professionele quiz evenementen.
+QuizWitz PRO spellen vereisen **actieve Seats** om spelers te verbinden. Seats zijn een flexibel systeem, via Pay-as-you-go of een licentie, dat meegroeit met je behoeften - perfect voor kroegquizzen, livestreams en professionele quizevenementen.
 
 ---
 
 ## 🧑‍🤝‍🧑 Wat zijn Seats?
 
 - Elke verbonden **speler of team** in een PRO-spel vereist **1 actieve Seat**.
-- Je kunt spellen hosten met **individuele spelers** of **teams die een slim apparaat delen** — elk telt als één Seat.
-- **Reguliere (non-PRO) spellen** vereisen **geen Seats** en zijn ideaal voor ontspannen spel met vrienden of familie.
+- Je kunt spellen hosten met **individuele spelers** of **teams die één apparaat delen** - elk telt als één seat.
+- **Party Game- en Single player-spellen** vereisen **geen** seats en zijn ideaal om gezellig met vrienden of familie te spelen.
 
 ---
 
@@ -27,7 +27,7 @@ QuizWitz PRO spellen vereisen **actieve Seats** om spelers te verbinden. Seats z
 
 ## 💼 QuizWitz PRO licenties
 
-Als je regelmatig quizzen host, geeft een **QuizWitz PRO licentie** je **permanent actieve Seats** die altijd beschikbaar zijn — handmatige activatie is niet nodig.
+Als je regelmatig quizzen host, geeft een **QuizWitz PRO-licentie** je **permanent actieve seats** die altijd beschikbaar zijn - je hoeft ze niet handmatig te activeren.
 
 Beschikbare licentie niveaus zijn onder andere:
 
@@ -39,7 +39,7 @@ Beschikbare licentie niveaus zijn onder andere:
 
 Deze Seats zijn ideaal voor terugkerende evenementen, grotere teamopstellingen, of professionele locaties.
 
-> ⚠️ **Belangrijk**: Als je een quiz wilt hosten met **meer spelers dan je licentie toestaat**, moet je **pay-as-you-go Seats activeren** voor het volledige aantal spelers. De Seats vanuit je licentie worden niet opgeteld bij je geactiveerde Seats — ze worden **geheel vervangen**.
+> ⚠️ **Belangrijk**: Als je een quiz wilt hosten met **meer spelers dan je licentie toestaat**, moet je **pay-as-you-go Seats activeren** voor het volledige aantal spelers. De Seats vanuit je licentie worden niet opgeteld bij je geactiveerde Seats - ze worden **geheel vervangen**.
 
 ---
 
@@ -49,10 +49,10 @@ Voor eenmalige of occasionele evenementen kun je **pay-as-you-go Seats** activer
 
 - Seats worden geactiveerd met **QuizWitz credits**, die je van tevoren kunt kopen.
 - **Korting bij bulkaankoop** is beschikbaar wanneer je credits in grote hoeveelheden koopt.
-- Elke **premium licentie** bevat een **waarde aan gratis credits**.
+- Elke **PRO-licentie** bevat een **bedrag aan gratis credits**.
 - Als je niet zeker weet hoeveel spelers meedoen:
-    - Je kunt **wachten tot iedereen verbonden is** voor je Seats activeert.
-    - Of activeer meer Seats dan nodig — **ongebruikte Seats worden na afloop automatisch terugbetaald** in credits.
+  - Je kunt **wachten tot iedereen verbonden is** voor je Seats activeert.
+  - Of activeer meer Seats dan nodig - **ongebruikte Seats worden na afloop automatisch terugbetaald** in credits.
 
 ---
 
@@ -60,9 +60,9 @@ Voor eenmalige of occasionele evenementen kun je **pay-as-you-go Seats** activer
 
 - **Pay-as-you-go Seats** blijven **48 uur** actief na activatie.
 - Binnen die tijd kun je:
-    - **Meerdere quizzen of sessies** draaien
-    - Je quiz **testen** met grotere groepen
-    - **Meerdaagse evenementen** in het weekend hosten
+  - **Meerdere quizzen of sessies** draaien
+  - Je quiz **testen** met grotere groepen
+  - **Meerdaagse evenementen** in het weekend hosten
 
 ---
 
@@ -80,4 +80,4 @@ Voor eenmalige of occasionele evenementen kun je **pay-as-you-go Seats** activer
 
 ---
 
-QuizWitz PRO geeft je flexibele en professionele tools om evenementen van elke grootte te organiseren — of je nu Seats op aanvraag activeert of op een PRO-licentie vertrouwt voor altijd-toegang.
+QuizWitz PRO geeft je flexibele en professionele tools om evenementen van elke grootte te organiseren - of je nu Seats op aanvraag activeert of op een PRO-licentie vertrouwt voor altijd-toegang.

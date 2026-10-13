@@ -11,12 +11,12 @@ Willkommen bei QuizWitz! Egal, ob du alleine oder mit Freunden spielst, dieser L
 
 ## 🎯 Wähle, was du spielen möchtest
 
-Beginne damit, die verfügbaren **Round-Abouts** zu durchstöbern — kurze thematische Quizrunden. Nutze das Menü oben auf dem Bildschirm, um zu entdecken:
+Beginne damit, die verfügbaren **Round-Abouts** zu durchstöbern - kurze thematische Quizrunden. Nutze das Menü oben auf dem Bildschirm, um zu entdecken:
 
-- **Neu** — Entdecke die neuesten Round-Abouts
-- **Meine Sammlung** — Greife auf alles zu, was du gespeichert oder erstellt hast
-- **Sammeln** — Finde Round-Abouts, die von der Community erstellt wurden
-- **Schnelles Spiel** — Springe in eine zufällige Auswahl
+- **Neu** - Entdecke die neuesten Round-Abouts
+- **Meine Sammlung** - Greife auf alles zu, was du gespeichert oder erstellt hast
+- **Sammeln** - Finde Round-Abouts, die von der Community erstellt wurden
+- **Schnelles Spiel** - Springe in eine zufällige Auswahl
 
 ![QuizWitz top navigation bar](/images/top-menu-play.png)
 
@@ -39,20 +39,20 @@ Das beinhaltet:
 - Bingos
 - ...
 
-Du kannst Items jederzeit organisieren, spielen oder entfernen. Dies ist deine persönliche Bibliothek — gestalte sie, wie du willst!
+Du kannst Items jederzeit organisieren, spielen oder entfernen. Dies ist deine persönliche Bibliothek - gestalte sie, wie du willst!
 
 ---
 
 ## 🧠 Wähle einen Round-About
 
-Ein **Round-About** ist eine kleine, thematische Fragerunde. Das Spielen nur eines gibt dir ein kurzes Spiel mit 7 zufälligen Fragen.
+Ein **Round-About** ist eine kleine, thematische Runde von Fragen - wie der Name schon sagt, eine Runde _über_ ein Thema. Das Spielen nur eines gibt dir ein kurzes Spiel mit 7 zufälligen Fragen.
 
 Um einen Round-About genauer zu erkunden:
 
 - Klicke auf das **Bild**, den **Titel** oder das **Kommentar-Symbol**
 - Klicke auf **Spielen**, um direkt loszulegen
 
-![QuizWitz round-about details](/images/round-about-details.png)
+![QuizWitz Round-About Details](/images/round-about-details.png)
 
 ---
 
@@ -61,9 +61,9 @@ Um einen Round-About genauer zu erkunden:
 Willst du aus mehreren Round-Abouts ein komplettes Quizspiel bauen? So funktioniert’s:
 
 - Klicke im Round-About auf **Zu meiner Sammlung hinzufügen**
-- Oder klicke auf das **Stern-Symbol** im Round-About-Kacheln
+- Oder klicke auf das **Stern-Symbol** auf der Round-About-Kachel
 
-Um später zu entfernen, klicke einfach nochmal auf den Stern – dann steht dort **Aus meiner Sammlung entfernen**.
+Um später zu entfernen, klicke einfach nochmal auf den Stern - dann steht dort **Aus meiner Sammlung entfernen**.
 
 ![Füge einen Round-About zu deiner Sammlung hinzu](/images/add-to-collection.png)
 
@@ -80,7 +80,7 @@ Wenn du bereit bist:
 
 Wähle:
 
-- **Spielmodus** — Einzelspieler oder Partyspiel
+- **Spielmodus** - Einzelspieler oder Partyspiel
 - **Welche Round-Abouts** in deiner Session enthalten sein sollen
 
 QuizWitz versucht, Fragen zu überspringen, die du schon gespielt hast.
@@ -98,7 +98,7 @@ Sobald dein Spiel startet, wähle deinen Modus:
 - Klicke auf **Starten**, dann wähle **Einzelspieler**
 - Nutze Maus, Tastatur oder Touchscreen, um zu antworten
 
-![QuizWitz Startbildschirm](/images/quizwitz-start-screen.png)\
+![QuizWitz Startbildschirm](/images/quizwitz-start-screen.png)  
 ![QuizWitz Startbildschirm Einzelspieler](/images/quizwitz-start-screen-single.png)
 
 ---
@@ -107,14 +107,22 @@ Sobald dein Spiel startet, wähle deinen Modus:
 
 Spiele mit Freunden, die ihr eigenes Handy oder Tablet nutzen:
 
-> 📺 Sorge dafür, dass der Quizbildschirm sichtbar ist — verwende ein geteiltes Display oder Bildschirmfreigabe
+> 📺 Stelle sicher, dass der Spielbildschirm sichtbar ist - verwende einen gemeinsamen Bildschirm oder Bildschirmfreigabe
+>
+> 👥 Bis zu 2 Spieler können kostenlos mitspielen. Mit einem Premium-Konto können bis zu 100 Spieler mitspielen.
 
 1. Klicke auf **Starten**, dann auf **Partyspiel**
 2. Die Spieler folgen den Anweisungen auf dem Bildschirm, um beizutreten
 3. Klicke auf **Quiz starten**, wenn alle bereit sind
 
-![QuizWitz Startbildschirm](/images/quizwitz-start-screen.png)\
-![QuizWitz Startbildschirm Party](/images/quizwitz-start-screen-party.png)\
+Sobald das Quiz startet, **läuft das Spiel automatisch ab** - Fragen erscheinen, Timer zählen herunter und Punkte werden erfasst, ohne dass der Host eingreifen muss.
+
+> ⏸️ Brauchst du eine Pause? Bewege deine Maus an den unteren Rand des Spielbildschirms, dann wird ein **Pause**-Button angezeigt. Pausieren ist die einzige Möglichkeit, ein Partyspiel zu unterbrechen.
+>
+> Willst du das Tempo des Spiels selbst steuern - entscheiden, wann jede Frage beginnt? Das ist nur mit [**QuizWitz Live**](../quizmaster/001-introduction.md) und der Quizmaster-App möglich.
+
+![QuizWitz Startbildschirm](/images/quizwitz-start-screen.png)  
+![QuizWitz Startbildschirm Party](/images/quizwitz-start-screen-party.png)  
 ![QuizWitz Verbindungsbildschirm](/images/connect-screen.png)
 
 ---

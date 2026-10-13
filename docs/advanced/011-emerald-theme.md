@@ -1,11 +1,11 @@
 ---
 id: emerald-theme
-name: Emerald theme
+title: Emerald theme
 ---
 
 # Emerald theme
 
-The Emerald theme is the easiest way to customize the look of your QuizWitz game. By default, the theme is a clean blue / green style with vivid option colors, but by combining quiz attachments and theme modifiers you can change the way it looks — drastically.
+The Emerald theme is the easiest way to customize the look of your QuizWitz game. By default, the theme is a clean blue / green style with vivid option colors, but by combining quiz attachments and theme modifiers you can change the way it looks - drastically.
 
 :::tip
 You can use our [theme tester](https://client.quizwitz.com/test.html?theme=emerald) to see what your settings will look like.
@@ -25,7 +25,7 @@ You can test a quiz using the Emerald theme [here](https://play.quizwitz.com/114
 
 ### Quiz attachments
 
-By far the easiest way to change the look and feel of the game is by attaching images to your quiz. Open the **Quiz settings** and scroll down to the **Attachments** section. Here you can upload images that will be used as background, client logo, connect — and wait screens (for conference — and live quizzes), and more.
+By far the easiest way to change the look and feel of the game is by attaching images to your quiz. Open the **Quiz settings** and scroll down to the **Attachments** section. Here you can upload images that will be used as background, client logo, connect - and wait screens (for conference - and live quizzes), and more.
 
 ![A screenshot of the quiz attachments](/images/emerald/quiz-attachments.png)
 
@@ -51,7 +51,7 @@ All music in the game can be replaced with attachments as well. Any audio files 
 
 ## Emerald theme modifiers
 
-In addition to attachments, you can also manipulate the Emerald theme with **query parameters**. These are parameters you can add to the **advanced game options** URL — and they change the look of the theme.
+In addition to attachments, you can also manipulate the Emerald theme with **query parameters**. These are parameters you can add to the **advanced game options** URL - and they change the look of the theme.
 
 For this, we will start with an example quiz (without any attachments):  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
@@ -60,7 +60,7 @@ When you start the above quiz, the game will be in the default Emerald style. Le
 
 :::tip
 The easiest way to experiment with these parameters is by using our [theme tester](https://client.quizwitz.com/test.html?theme=emerald&backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b).  
-When you are done experimenting, you can copy — paste the parameters to your advanced game options URL.
+When you are done experimenting, you can copy - paste the parameters to your advanced game options URL.
 :::
 
 
@@ -75,8 +75,8 @@ The available modifiers are:
 * dialogTextColor
 * pieChartLabelColor
 * ladderColor
-* optionColors (4 colors, comma — separated)
-* optionBorderColors (4 colors, comma — separated)
+* optionColors (4 colors, comma - separated)
+* optionBorderColors (4 colors, comma - separated)
 
 The players' devices can be styled as well:
 * remoteBackgroundColor
@@ -87,7 +87,7 @@ The players' devices can be styled as well:
 * remoteOutlineColor
 * remoteContainerBackground
 * remoteContainerText
-* remoteOptionColors (4 colors, comma — separated)
+* remoteOptionColors (4 colors, comma - separated)
 
 Additionally, you can set a default font:
 * defaultFont
@@ -97,7 +97,7 @@ These fonts must be URLs to publicly available font files.
 
 Finally, `hideLogo=1` hides the QuizWitz logo.
 
-Each of these modifiers can contain a single color in HTML hex format (ff0000), or a linear gradient by providing multiple colors divided by a minus symbol ( — for example ff1b6b-45caff). (Note that the # symbol should not be added.)
+Each of these modifiers can contain a single color in HTML hex format (ff0000), or a linear gradient by providing multiple colors divided by a minus symbol ( - for example ff1b6b-45caff). (Note that the # symbol should not be added.)
 
 :::note
 The query parameters must start with a question mark ( ? ) and each parameter must be divided with an ampersand ( & ). For more information on query parameters, visit [wikipedia](https://en.wikipedia.org/wiki/Query_string).
@@ -118,8 +118,8 @@ The QuizWitz AI assistant can do this for you as well: ask it to change the back
 
 The Emerald theme also offers two extra screen layouts for a question with an image or video in its **During question** slot, chosen per question with the **Custom view** option in the question settings:
 
-* **Full screen attachment** — the image or video fills the whole game screen, the question text and options are not drawn
-* **Full screen attachment without timer** — the same, with the countdown hidden too
+* **Full screen attachment** - the image or video fills the whole game screen, the question text and options are not drawn
+* **Full screen attachment without timer** - the same, with the countdown hidden too
 
 Players read the question and answer on their own devices. See [writing questions](../editor/005-writing-questions.md) for details.
 

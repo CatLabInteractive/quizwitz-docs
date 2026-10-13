@@ -17,6 +17,7 @@ Dit zijn de meest voorkomende vraagtypes. Ze zijn makkelijk te begrijpen en te s
 - [Meerkeuzevraag](001-multiple-choice.md) (standaard)
 - [Volgordevraag](003-order-question.md)
 - [Afbeeldingsvraag](004-image-map.md)
+- [Gridvraag](008-grid-question.md)
 
 ## Open vragen
 
@@ -30,4 +31,4 @@ Open vragen vereisen dat spelers hun antwoorden typen.
 Deze vragen maken het spel iets minder eerlijk, maar ze zorgen ervoor dat er altijd een winnaar is.
 
 - [Schiftingsvraag](006-tiebreaker-question.md)
-- [Beste-antwoord vraag](007-best-answer-question.md)
+- [Beste-antwoordvraag](007-best-answer-question.md)

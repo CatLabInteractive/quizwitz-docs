@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Następna",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.For players": {
+    "message": "Dla graczy",
+    "description": "The label for category For players in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.For quizmakers": {
+    "message": "Dla twórców quizów",
+    "description": "The label for category For quizmakers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.For quizmasters": {
+    "message": "Dla quizmasterów",
+    "description": "The label for category For quizmasters in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Round types": {
+    "message": "Typy rund",
+    "description": "The label for category Round types in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Question types": {
+    "message": "Typy pytań",
+    "description": "The label for category Question types in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Advanced": {
+    "message": "Zaawansowane",
+    "description": "The label for category Advanced in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorials": {
+    "message": "Samouczki",
+    "description": "The label for category Tutorials in sidebar tutorialSidebar"
+  }
+}

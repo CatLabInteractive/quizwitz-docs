@@ -6,15 +6,15 @@ sidebar_position: 1000
 
 # ⚠️ Live-Absturz-Wiederherstellung
 
-Ist dein Spiel eingefroren? Wurde der Tab versehentlich geschlossen? [**QuizWitz Live**](quizmaster/001-introduction.md) umfasst ein eingebautes Wiederherstellungssystem, das dir hilft, wieder auf Kurs zu kommen – ohne deinen Fortschritt zu verlieren.
+Ist dein Spiel eingefroren? Wurde der Tab versehentlich geschlossen? [**QuizWitz Live**](quizmaster/001-introduction.md) umfasst ein eingebautes Wiederherstellungssystem, das dir hilft, wieder auf Kurs zu kommen - ohne deinen Fortschritt zu verlieren.
 
 ---
 
 ## 🔄 Wie die Spiel-Wiederherstellung funktioniert
 
-Wenn dein Spiel abstürzt, hängen bleibt oder aus irgendeinem Grund unterbrochen wird – sei es durch ein Browserproblem, Systemneustart oder versehentliches Schließen des Tabs – kannst du die Sitzung einfach fortsetzen.
+Wenn dein Spiel abstürzt, hängen bleibt oder aus irgendeinem Grund unterbrochen wird - sei es durch ein Browserproblem, Systemneustart oder versehentliches Schließen des Tabs - kannst du das Spiel einfach fortsetzen.
 
-Öffne einfach **denselben Browser-Tab oder Spielbildschirm** wieder, den du zum Anzeigen der **Hauptspielansicht** verwendet hast. Dies ist der Bildschirm, den du für dein Publikum projizierst oder streamst.
+Öffne einfach **denselben Browser-Tab neu**, mit dem du den **Spielbildschirm** angezeigt hast. Dies ist der Bildschirm, den du für dein Publikum projizierst oder streamst.
 
 Wenn er geladen ist:
 
@@ -47,8 +47,8 @@ Du kannst auch wählen, stattdessen **ein neues Spiel zu starten**.
 
 ## 💡 Gut zu wissen
 
-- Wiederherstellung funktioniert nur, wenn du **zur selben Spielansicht im selben Browser zurückkehrst**
-- Navigiere **nicht** auf eine andere Seite – öffne die **exakte URL**, die du zum Hosten des Spiels verwendet hast, erneut
+- Wiederherstellung funktioniert nur, wenn du **zum selben Spielbildschirm im selben Browser zurückkehrst**
+- Navigiere **nicht** auf eine andere Seite - öffne die **exakte URL**, die du zum Hosten des Spiels verwendet hast, erneut
 - Diese Funktion hilft bei der Wiederherstellung nach:
   - Browser-Abstürzen
   - Einfrieren oder Hängenbleiben mitten im Quiz
@@ -56,4 +56,4 @@ Du kannst auch wählen, stattdessen **ein neues Spiel zu starten**.
 
 ---
 
-Mit der Spiel-Wiederherstellung kannst du selbstbewusst hosten – in dem Wissen, dass du, selbst wenn etwas schiefgeht, genau dort weitermachen kannst, wo du aufgehört hast.
+Mit der Spiel-Wiederherstellung kannst du selbstbewusst hosten - in dem Wissen, dass du, selbst wenn etwas schiefgeht, genau dort weitermachen kannst, wo du aufgehört hast.

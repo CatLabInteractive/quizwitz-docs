@@ -1,7 +1,7 @@
 {
   "title": {
     "message": "QuizWitz",
-    "description": "The title in the navbar"
+    "description": "Brand name. Do not translate."
   },
   "logo.alt": {
     "message": "Logo de QuizWitz",
@@ -20,7 +20,7 @@
     "description": "Navbar item with label Question types"
   },
   "item.label.FAQ": {
-    "message": "Foire Aux Questions",
+    "message": "Foire aux questions",
     "description": "Navbar item with label FAQ"
   }
 }

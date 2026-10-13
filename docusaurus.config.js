@@ -17,7 +17,29 @@ const config = {
 
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'nl' , 'fr', 'de', 'es'  ],
+    locales: [
+      'bg',
+      'cs',
+      'da',
+      'de',
+      'el',
+      'en',
+      'es',
+      'fi',
+      'fr',
+      'hi',
+      'hu',
+      'it',
+      'ko',
+      'nl',
+      'no',
+      'pl',
+      'pt',
+      'sk',
+      'sv',
+      'tr',
+      'uk'
+    ],
     path: 'i18n',
   },
 
@@ -38,6 +60,8 @@ const config = {
             return `https://github.com/catlabinteractive/quizwitz-docs/edit/main/website/${versionDocsDirPath}/${docPath}`;
           },
         },
+        // The blog lives on www.quizwitz.com/blog; the docs site has none.
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },

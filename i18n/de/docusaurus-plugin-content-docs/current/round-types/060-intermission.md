@@ -5,25 +5,25 @@ title: Pause
 
 # ⏸️ Pause
 
-**Pause** ist eine spezielle Spielrunde, die das Quiz für eine Pause unterbricht – ideal zum Dehnen, Plaudern oder für Sponsorenwerbung.
+**Pause** ist eine spezielle Spielrunde, die das Quiz für eine Pause unterbricht - ideal zum Dehnen, Plaudern oder für Sponsorenwerbung.
 
 ---
 
 ## 📝 So funktioniert’s
 
-- Während einer Pause wird der Hauptbildschirm angehalten und ein Timer angezeigt.
-- **Bei Konferenz- und Partyspielen:**\
-  Die Pause endet, wenn jemand **Enter** auf dem Hauptbildschirm drückt.
-- **Bei QuizWitz Live Spielen:**\
-  Der quizmaster beendet die Pause über sein Gerät (Tablet oder Smartphone).\
-  Die Quizmaster-App zeigt einen Timer an, damit der Gastgeber sehen kann, wie lange die Pause bereits dauert.
+- Während einer Pause wird der Spielbildschirm angehalten und ein Timer angezeigt.
+- **In Konferenzspielen und Partyspielen:**  
+  Die Unterbrechung endet, wenn jemand **Enter** auf dem Spielbildschirm drückt.
+- **Bei QuizWitz Live Spielen:**  
+  Der quizmaster beendet die Pause über sein Gerät (Tablet oder Smartphone).  
+  Die Quizmaster-App zeigt einen Timer an, so dass der Quizmaster sehen kann, wie lange die Unterbrechung gedauert hat.
 
 ---
 
 ## 🖼️ Anhänge
 
 - Du kannst in den Rundeneinstellungen Bilder, Logos oder Videos hochladen.
-- Während der Pause werden diese Anhänge auf dem Hauptbildschirm in einem Karussell angezeigt – ideal für Sponsorlogos, Nachrichten oder Werbevideos.
+- Während der Unterbrechung werden diese Anhänge in einem Karussell auf dem Spielbildschirm gezeigt - ideal für Sponsor-Logos, Nachrichten oder Werbevideos.
 - Anhänge werden während der ganzen Pause wiederholt abgespielt.
 
 ---

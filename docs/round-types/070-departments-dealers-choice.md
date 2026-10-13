@@ -25,8 +25,8 @@ title: Department Dealer's Choice
     - Highest ranked first
     - Random
 - **Dealer department:**
-    - *Only dealer may play* — Only the selected dealer answers the question
-    - *All players in dealer’s department may play* — Everyone in the department can answer and score points
+    - *Only dealer may play* - Only the selected dealer answers the question
+    - *All players in dealer’s department may play* - Everyone in the department can answer and score points
 - **Dealer bonus:**  
   Set a bonus percentage for the dealer (if enabled).
 

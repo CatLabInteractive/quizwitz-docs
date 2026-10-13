@@ -5,7 +5,7 @@ title: Entscheidungsfrage
 
 # 🏁 Entscheidungsfrage
 
-Die Entscheidungsfrage wird verwendet, um Unentschieden am Ende eines Quiz zu lösen.\
+Die Entscheidungsfrage wird verwendet, um Unentschieden am Ende eines Quiz zu lösen.  
 Spieler werden gebeten, eine Zahl zu schätzen (zum Beispiel „Wie viele Bohnen sind im Glas?“). Der Spieler, dessen Antwort dem korrekten Wert am nächsten kommt, gewinnt bei unentschiedenem Ergebnis.
 
 ---

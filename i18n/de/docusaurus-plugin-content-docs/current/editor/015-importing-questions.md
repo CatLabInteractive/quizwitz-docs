@@ -7,24 +7,24 @@ title: Fragen importieren
 
 Es gibt zwei Möglichkeiten, schnell Fragen zu einer Runde in QuizWitz hinzuzufügen:
 
-- Importiere vorhandene Inhalte aus der **QuizWitz Library**
+- Importiere vorhandene Inhalte aus der **QuizWitz-Bibliothek**
 - Füge eine Liste von Fragen aus einer **Tabelle** ein
 
 Beide Optionen sind in jeder Runde zugänglich.
 
 ---
 
-## 📚 Importieren aus der QuizWitz Library
+## 📚 Importieren aus der QuizWitz-Bibliothek
 
-Verwende den Tab **QuizWitz Library**, um nach Fragen, Runden oder Quizzen zu suchen und diese zu importieren, die von dir selbst oder anderen Erstellern angelegt wurden.
+Verwende den Tab **QuizWitz-Bibliothek**, um nach Fragen, Runden oder Quizzen zu suchen und diese zu importieren, die von dir selbst oder anderen Erstellern angelegt wurden.
 
 1. Öffne die Runde, in die du Inhalte importieren möchtest
-2. Klicke auf den Tab **QuizWitz Library**
+2. Klicke auf den Tab **QuizWitz-Bibliothek**
 3. Verwende Filter wie Sprache, Sammlung, Typ, Kategorie oder Tags
 4. Wähle einen oder mehrere Einträge aus
 5. Klicke auf **Füge X Elemente hinzu**, um die ausgewählten Inhalte in dein Quiz einzufügen
 
-![QuizWitz Library](/images/import/import-from-quizwitz.png)
+![QuizWitz-Bibliothek](/images/import/import-from-quizwitz.png)
 
 > ✅ Verwende diese Methode, um hochwertige Inhalte wiederzuverwenden oder mehrere öffentliche Round-Abouts zu einem größeren Quiz zusammenzufügen.
 
@@ -47,14 +47,14 @@ Um schnell viele Fragen auf einmal zu erstellen, benutze den Tab **Importieren a
 
 Jede Zeile muss die folgenden Spalten in genau dieser Reihenfolge enthalten:
 
-1. **Kurze Frage** — Wird auf dem Spielerbildschirm angezeigt
+1. **Kurze Frage** - Wird auf dem Spielerbildschirm angezeigt
 2. **Richtige Antwort**
 3. **Falsche Antwort 1** (leer lassen bei offenen Fragen)
 4. **Falsche Antwort 2**
 5. **Falsche Antwort 3**
-6. **Kurzes Feedback** — Wird nach der Beantwortung auf dem Spielerbildschirm angezeigt
-7. **Lange Frage** _(optional)_ — Wird auf dem Quizmaster-Bildschirm angezeigt
-8. **Langes Feedback** _(optional)_ — Erklärung, die der Quizmaster vorlesen kann
+6. **Kurzes Feedback** - Wird nach der Beantwortung auf dem Spielerbildschirm angezeigt
+7. **Lange Frage** _(optional)_ - Wird auf dem Quizmaster-Bildschirm angezeigt
+8. **Langes Feedback** _(optional)_ - Erklärung, die der Quizmaster vorlesen kann
 
 > 📌 Die letzten zwei Spalten werden nur in [QuizWitz Live](../quizmaster/001-introduction.md) verwendet, müssen aber dennoch enthalten sein (auch wenn sie leer sind).
 

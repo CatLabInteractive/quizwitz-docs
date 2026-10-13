@@ -34,7 +34,7 @@ The **Multiquestion** round gives players (or teams) the freedom to pick which q
 ## 💡 Tips
 
 - Offer a mix of easy and hard questions for more strategy.
-- Use labels creatively—mystery or fun themes can boost engagement.
+- Use labels creatively - mystery or fun themes can boost engagement.
 - Reward risk-takers with higher point questions.
 
 ---

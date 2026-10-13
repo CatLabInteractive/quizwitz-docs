@@ -5,7 +5,7 @@ title: Rode draad
 
 # 🧵 Rode draad
 
-De **rode draad** ronde is een speciale variant van de klassieke Trivia ronde. In deze ronde beantwoorden spelers een reeks gewone vragen, maar de twist is dat alle antwoorden stiekem verbonden zijn door een enkel onderliggend thema of link — de “rode draad.”
+De **rode draad** ronde is een speciale variant van de klassieke Trivia ronde. In deze ronde beantwoorden spelers een reeks gewone vragen, maar de twist is dat alle antwoorden stiekem verbonden zijn door een enkel onderliggend thema of link - de “rode draad.”
 
 ---
 

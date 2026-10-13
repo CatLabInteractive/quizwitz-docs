@@ -5,8 +5,8 @@ title: Alfabet
 
 # 🔤 Alfabet
 
-Een **Alfabet** ronde is een [Traditionele ronde](030-traditional.md) met een draai - elke vraag krijgt een uniek label,
-en spelers moeten overeenkomen met hun antwoorden op de juiste velden met het juiste label. Deze ronde beloont zowel kennis als deductie!
+Een **Alfabet**-ronde is een [Traditionele ronde](030-traditional.md) met een twist - elke vraag krijgt een uniek label,
+en spelers moeten hun antwoorden koppelen aan de velden met het juiste label. Deze ronde beloont zowel kennis als deductie!
 
 ---
 
@@ -27,10 +27,10 @@ en spelers moeten overeenkomen met hun antwoorden op de juiste velden met het ju
 
 ## 📝 Hoe het werkt
 
-- Als er vragen worden gesteld, zien spelers een lijst met antwoordvelden – één voor elke vraag.
-- **De antwoordvelden staan niet in quizvolgorde** – in plaats daarvan worden ze alfabetisch gesorteerd op label.
+- Terwijl de vragen worden gesteld, zien spelers een lijst met antwoordvelden, één voor elke vraag.
+- **De antwoordvelden staan niet in quiz volgorde**, in plaats daarvan worden ze alfabetisch gesorteerd op label.
 - Spelers moeten hun antwoorden koppelen aan de juiste gelabelde velden (bijv. antwoord voor vraag "Beer" moet worden ingevuld onder label "B").
-- Antwoorden kunnen op elk moment worden gewijzigd tot de ronde klaar is — spelers kunnen antwoorden tussen velden wisselen wanneer ze hun fouten realiseren.
+- Antwoorden kunnen op elk moment worden gewijzigd totdat de ronde is afgelopen - spelers kunnen antwoorden tussen velden verschuiven wanneer ze hun fouten ontdekken.
 
 ---
 

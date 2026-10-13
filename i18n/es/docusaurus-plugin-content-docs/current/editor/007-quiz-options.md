@@ -1,27 +1,27 @@
 ---
 id: quiz-options
-title: Opciones del cuestionario
+title: Opciones del quiz
 ---
 
-# ⚙️ Opciones del cuestionario
+# ⚙️ Opciones del quiz
 
-Al crear un cuestionario, puedes abrir el panel de **Configuración del cuestionario** para configurar opciones globales de comportamiento y presentación. Estas configuraciones se aplican a **todo el cuestionario**.
+Al crear un quiz, puedes abrir el panel de **Configuración del quiz** para configurar el comportamiento global y las opciones de presentación. Estas configuraciones se aplican a **todo el quiz**.
 
-| ![Abrir opciones del cuestionario](/images/open-quiz-options.png) | ![Opciones del cuestionario](/images/quiz-options.png) |
-| :---------------------------------------------------------------: | :----------------------------------------------------: |
-|          _Abriendo el panel de opciones del cuestionario_         |     _Resumen de la configuración del cuestionario_     |
+| ![Abrir opciones del quiz](/images/open-quiz-options.png) | ![Opciones del quiz](/images/quiz-options.png) |
+| :-------------------------------------------------------: | :--------------------------------------------: |
+|          _Abriendo el panel de opciones del quiz_         |     _Resumen de la configuración del quiz_     |
 
 ---
 
 ## 🌐 Idiomas
 
-Selecciona el idioma en el que estás escribiendo el cuestionario. Puedes añadir traducciones adicionales más adelante.
+Selecciona el idioma en el que estás escribiendo el quiz. Puedes añadir traducciones adicionales más adelante.
 
 ---
 
 ## 🎨 Temas
 
-Elige un tema visual para tu cuestionario.
+Elige un tema visual para tu quiz.
 
 - El tema predeterminado es **QuizWitz**
 - Tu organización puede tener acceso a temas personalizados
@@ -33,21 +33,21 @@ Elige un tema visual para tu cuestionario.
 
 ## 📎 Archivos adjuntos
 
-Mejora tu cuestionario con visuales, audio o vídeo en espacios específicos:
+Mejora tu quiz con contenido visual, audio o vídeo en espacios específicos:
 
-- **Antes del cuestionario** — Mostrado cuando el cuestionario comienza
-- **Después del cuestionario** — Reproducido después de la pantalla de resultados finales
-- **Logo del cliente / logo alternativo** — Visible durante toda la interfaz del cuestionario
-- **Pantalla de espera** — Visible entre preguntas en juegos en vivo (se recomienda imagen 1920×1080)
-- **Fondo** — Reemplazo de fondo opcional (depende del tema)
-- **Pantalla de conexión** — Usada en modos [Live](../quizmaster/001-introduction.md) y [Conference](../tutorials/conference-booth):
-  - **Imágenes** — Visuales de fondo a pantalla completa
-  - **Audio** — Música en bucle (máx. 15 min)
-  - **Video** — Se reproduce cada 5 minutos, útil para anuncios o instrucciones
+- **Antes del quiz** - Se muestra cuando el quiz comienza
+- **Después del quiz** - Se reproduce después de la pantalla de resultados finales
+- **Logo del cliente / logo alternativo** - Visible en toda la interfaz del quiz
+- **Pantalla de espera** - Visible entre preguntas en juegos en vivo (se recomienda imagen 1920×1080)
+- **Fondo** - Reemplazo de fondo opcional (depende del tema)
+- **Pantalla de conexión** - Se usa en los modos [Live](../quizmaster/001-introduction.md) y [conferencia](../tutorials/conference-booth):
+  - **Imágenes** - Visuales de fondo a pantalla completa
+  - **Audio** - Música en bucle (máx. 15 min)
+  - **Video** - Se reproduce cada 5 minutos, útil para anuncios o instrucciones
 
 🎥 Puedes usar nuestros [videos instructivos preparados](https://drive.google.com/drive/folders/1-KgABfLJ7cblm0aqxb7niMdGmTd3UXZC) para ayudar a los jugadores a conectarse.
 
-- **Durante el final del juego** — (Solo audio) Se reproduce sobre la pantalla de revelación del ganador
+- **Durante el final del juego** - (Solo audio) Se reproduce sobre la pantalla de revelación del ganador
 
 📘 Para detalles técnicos y recomendaciones, consulta la [guía de archivos adjuntos](../editor/006-attachments.md).
 
@@ -57,12 +57,12 @@ Mejora tu cuestionario con visuales, audio o vídeo en espacios específicos:
 
 Configuraciones opcionales para personalizar la jugabilidad y visibilidad:
 
-- **Habilitar multijugador** — Predeterminado ACTIVADO. Permite jugar en grupo con amigos
-- **Orden aleatorio de las rondas** — Baraja el orden de las rondas
+- **Habilitar multijugador** - Predeterminado ACTIVADO. Permite jugar en grupo con amigos
+- **Orden aleatorio de las rondas** - Baraja el orden de las rondas
   > ⚠️ No recomendado al preparar para [QuizWitz Live](../quizmaster/001-introduction.md)
-- **Permitir a los usuarios calificar las preguntas** — Permite a los jugadores calificar cada pregunta después de una ronda
-- **Habilitar comentarios** — Permitir feedback después de publicar
-- **Acelerar cuando todos respondan** — Si se activa, el juego avanza cuando todos los jugadores han respondido
+- **Permitir a los usuarios calificar las preguntas** - Permite a los jugadores calificar cada pregunta después de una ronda
+- **Habilitar comentarios** - Permitir feedback después de publicar
+- **Acelerar cuando todos respondan** - Si se activa, el juego avanza cuando todos los jugadores han respondido
   > ⏱️ Recomendado al usar **Puntuación basada en tiempo**
 
 ---
@@ -73,11 +73,11 @@ Genera enlaces para compartir o código para incrustar con configuraciones avanz
 
 ---
 
-## 📜 Copia para el quizmaster
+## 📜 Guion del quizmaster
 
-Añade instrucciones personalizadas para el presentador para:
+Añade instrucciones personalizadas del quizmaster para:
 
-- **Presentación del Cuestionario**
-- **Finalización del cuestionario**
+- **Introducción del quiz**
+- **Final del quiz**
 
-Estos son visibles en la [app de Quizmaster](../quizmaster/001-introduction.md) cuando usas QuizWitz Live.
+Estas instrucciones son visibles en la [Quizmaster App](../quizmaster/001-introduction.md) cuando se usa QuizWitz Live.

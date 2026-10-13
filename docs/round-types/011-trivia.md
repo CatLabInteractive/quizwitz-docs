@@ -5,7 +5,7 @@ title: Trivia (regular round)
 
 # ❓ Trivia (regular round)
 
-The **Trivia** round is the classic, default round type in QuizWitz. It presents a series of questions to all players — ideal for general knowledge, themed quizzes, or warm-up rounds.
+The **Trivia** round is the classic, default round type in QuizWitz. It presents a series of questions to all players - ideal for general knowledge, themed quizzes, or warm-up rounds.
 
 ---
 

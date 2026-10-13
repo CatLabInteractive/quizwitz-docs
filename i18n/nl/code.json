@@ -7,38 +7,6 @@
     "message": "Scroll terug naar boven",
     "description": "The ARIA label for the back to top button"
   },
-  "theme.blog.archive.title": {
-    "message": "Archief",
-    "description": "The page & hero title of the blog archive page"
-  },
-  "theme.blog.archive.description": {
-    "message": "Archief",
-    "description": "The page & hero description of the blog archive page"
-  },
-  "theme.blog.paginator.navAriaLabel": {
-    "message": "Blog lijst navigatie pagina",
-    "description": "The ARIA label for the blog pagination"
-  },
-  "theme.blog.paginator.newerEntries": {
-    "message": "Nieuwere items",
-    "description": "The label used to navigate to the newer blog posts page (previous page)"
-  },
-  "theme.blog.paginator.olderEntries": {
-    "message": "Oudere items",
-    "description": "The label used to navigate to the older blog posts page (next page)"
-  },
-  "theme.blog.post.paginator.navAriaLabel": {
-    "message": "Blog lijst navigatie pagina",
-    "description": "The ARIA label for the blog posts pagination"
-  },
-  "theme.blog.post.paginator.newerPost": {
-    "message": "Nieuwer bericht",
-    "description": "The blog post button label to navigate to the newer/previous post"
-  },
-  "theme.blog.post.paginator.olderPost": {
-    "message": "Ouder bericht",
-    "description": "The blog post button label to navigate to the older/next post"
-  },
   "theme.tags.tagsPageLink": {
     "message": "Bekijk alle tags",
     "description": "The label of the link targeting the tag list page"
@@ -56,7 +24,7 @@
     "description": "The name for the dark color mode"
   },
   "theme.colorToggle.ariaLabel": {
-    "message": "Schakelen tussen donkere en lichte modus (momenteel {mode})",
+    "message": "Schakel tussen donkere en lichte modus (momenteel {mode})",
     "description": "The ARIA label for the color mode toggle"
   },
   "theme.docs.breadcrumbs.navAriaLabel": {
@@ -64,7 +32,7 @@
     "description": "The ARIA label for the breadcrumbs"
   },
   "theme.docs.DocCard.categoryDescription.plurals": {
-    "message": "1 item{count} items",
+    "message": "1 item|{count} items",
     "description": "The default description for a category card in the generated index about how many items this category includes"
   },
   "theme.docs.paginator.navAriaLabel": {
@@ -72,7 +40,7 @@
     "description": "The ARIA label for the docs pagination"
   },
   "theme.docs.paginator.previous": {
-    "message": "named@@0",
+    "message": "Vorige",
     "description": "The label used to navigate to the previous doc"
   },
   "theme.docs.paginator.next": {
@@ -80,7 +48,7 @@
     "description": "The label used to navigate to the next doc"
   },
   "theme.docs.tagDocListPageTitle.nDocsTagged": {
-    "message": "Één doc getagde{count} docs getagd",
+    "message": "Één doc getagd|{count} docs getagd",
     "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.docs.tagDocListPageTitle": {
@@ -164,11 +132,7 @@
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
     "message": "Afsluiten",
-    "description": "The ARIA label for close button of announcement bar"
-  },
-  "theme.blog.sidebar.navAriaLabel": {
-    "message": "Blog recente navigatie berichten",
-    "description": "The ARIA label for recent posts in the blog sidebar"
+    "description": "Generic button label to close a dialog, panel, or modal."
   },
   "theme.DocSidebarItem.expandCategoryAriaLabel": {
     "message": "Zijbalk categorie '{label} ' uitvouwen",
@@ -184,31 +148,19 @@
   },
   "theme.navbar.mobileLanguageDropdown.label": {
     "message": "Leren",
-    "description": "The label for the mobile language switcher dropdown"
+    "description": "Section heading or filter label for language selection."
   },
   "theme.NotFound.p1": {
     "message": "We konden niet vinden waar je naar op zoek was.",
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "Neem contact op met de eigenaar van de site die u aan de oorspronkelijke URL heeft gekoppeld en laat hen weten dat hun link kapot is.",
+    "message": "Neem contact op met de eigenaar van de site die je naar de oorspronkelijke URL heeft gelinkt en laat die weten dat de link niet meer werkt.",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.TOCCollapsible.toggleButtonLabel": {
     "message": "Op deze pagina",
     "description": "The label used by the button on the collapsible TOC component"
-  },
-  "theme.blog.post.readMore": {
-    "message": "Meer informatie",
-    "description": "The label used in blog post item excerpts to link to full blog posts"
-  },
-  "theme.blog.post.readMoreLabel": {
-    "message": "Lees meer over {title}",
-    "description": "The ARIA label for the link to full blog posts from excerpts"
-  },
-  "theme.blog.post.readingTime.plurals": {
-    "message": "Één minuut gelezen,{readingTime} minuten gelezen",
-    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
   },
   "theme.CodeBlock.copy": {
     "message": "Kopiëren",
@@ -239,7 +191,7 @@
     "description": "The title attribute for collapse button of doc sidebar"
   },
   "theme.docs.sidebar.navAriaLabel": {
-    "message": "Docs sidebar",
+    "message": "Documentatiezijbalk",
     "description": "The ARIA label for the sidebar navigation"
   },
   "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
@@ -263,36 +215,12 @@
     "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
   },
   "theme.docs.sidebar.expandButtonTitle": {
-    "message": "Expand sidebar",
+    "message": "Zijbalk uitklappen",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
   },
   "theme.docs.sidebar.expandButtonAriaLabel": {
-    "message": "Expand sidebar",
+    "message": "Zijbalk uitklappen",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
-  },
-  "theme.blog.post.plurals": {
-    "message": "Één post★{count} berichten",
-    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
-  },
-  "theme.blog.tagTitle": {
-    "message": "{nPosts} gelabeld met \"{tagName}\"",
-    "description": "The title of the page for a blog tag"
-  },
-  "theme.blog.author.pageTitle": {
-    "message": "{authorName} - {nPosts}",
-    "description": "The title of the page for a blog author"
-  },
-  "theme.blog.authorsList.pageTitle": {
-    "message": "Auteurs",
-    "description": "The title of the authors page"
-  },
-  "theme.blog.authorsList.viewAll": {
-    "message": "Alle auteurs weergeven",
-    "description": "The label of the link targeting the blog authors page"
-  },
-  "theme.blog.author.noPosts": {
-    "message": "Deze auteur heeft nog geen berichten geschreven.",
-    "description": "The text for authors with 0 blog post"
   },
   "theme.contentVisibility.unlistedBanner.title": {
     "message": "Niet-genoteerde pagina",
@@ -320,28 +248,31 @@
   },
   "theme.tags.tagsPageTitle": {
     "message": "Labels",
-    "description": "The title of the tag list page"
+    "description": "Title of the Docusaurus tags overview page (the page listing all documentation tags). Not a quiz or round field."
   },
   "Create": {
-    "message": "Aanmaken"
+    "message": "Aanmaken",
+    "description": "Generic button label to create a new item."
   },
   "Create a fully customizable quiz using different question and round types.": {
     "message": "Maak een volledig aanpasbare quiz met verschillende vragen en ronde types."
   },
   "Play": {
-    "message": "Afspelen"
+    "message": "Afspelen",
+    "description": "Generic button label to start playing a game or quiz."
   },
   "Play any shared quiz on our platform with friends, family, colleagues, … Grab a smart device, connect via the web and show off how much you know!": {
-    "message": "Speel elke gedeelde quiz op ons platform met vrienden, familie, collega's, … Pak een slim apparaat, maak verbinding via het web en laat zien hoeveel u weet!"
+    "message": "Speel elke gedeelde quiz op ons platform met vrienden, familie, collega's, … Pak een smartphone of tablet, maak verbinding via het web en laat zien hoeveel je weet!"
   },
   "Share": {
-    "message": "Delen"
+    "message": "Delen",
+    "description": "Button label to open the share dialog."
   },
   "Collect and share quiz rounds from around the world, or share your own! Connect with other quiz aficionados.": {
     "message": "Verzamel en deel quiz rondes van over de hele wereld, of deel je eigen ronde! Verbind met andere quiz aficionados."
   },
   "Your guide to creating, hosting, and mastering QuizWitz.": {
-    "message": "Jouw gids om QuizWitz te maken, te hosten, en te meten."
+    "message": "Jouw gids voor het maken, hosten en beheersen van QuizWitz."
   },
   "Getting started": {
     "message": "Aan de slag"

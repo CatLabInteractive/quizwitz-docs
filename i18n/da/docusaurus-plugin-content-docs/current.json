@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Næste",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.For players": {
+    "message": "For spillere",
+    "description": "The label for category For players in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.For quizmakers": {
+    "message": "For quizskabere",
+    "description": "The label for category For quizmakers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.For quizmasters": {
+    "message": "For quizmastere",
+    "description": "The label for category For quizmasters in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Round types": {
+    "message": "Rundetyper",
+    "description": "The label for category Round types in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Question types": {
+    "message": "Spørgsmålstyper",
+    "description": "The label for category Question types in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Advanced": {
+    "message": "Avanceret",
+    "description": "The label for category Advanced in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorials": {
+    "message": "Vejledninger",
+    "description": "The label for category Tutorials in sidebar tutorialSidebar"
+  }
+}
