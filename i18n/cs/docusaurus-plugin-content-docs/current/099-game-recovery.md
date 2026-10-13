@@ -12,13 +12,13 @@ Zamrzla ti hra? Zavřela se ti karta omylem? [**QuizWitz Live**](quizmaster/001-
 
 ## 🔄 Jak funguje obnovení hry
 
-Pokud hra spadne, zasekne se nebo se z jakéhokoli důvodu přeruší - ať už kvůli problému s prohlížečem, restartu systému nebo náhodnému zavření karty - můžeš hru snadno obnovit.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the game easily.
 
 Jen **znovu otevřete stejnou záložku prohlížeče**, kterou jste použili k zobrazení **obrazovky hry**. To je obrazovka, kterou promítáš nebo streamuješ svému publiku.
 
 Po načtení:
 
-- Zobrazí se výzva, jestli chceš **pokračovat v předchozí relaci**, nebo **začít novou**
+- You’ll be prompted to **resume the previous game** or **start a new one**
 - Pokud zvolíš pokračování, hra obnoví tvůj postup co nejpřesněji
 
 ---
@@ -38,7 +38,7 @@ Vyber **„Pokračovat ve hře“**, abys mohl/a:
 
 Místo toho můžeš také zvolit **spuštění nové hry**.
 
-- Tím se úplně **vymaže předchozí relace**
+- This will completely **clear the previous game**
 - Vrátíš se na začátek nastavení kvízu
 
 > ⚠️ Tuto možnost zvol jen tehdy, pokud si jsi jistý/á, že nechceš pokračovat ve stávající hře.
