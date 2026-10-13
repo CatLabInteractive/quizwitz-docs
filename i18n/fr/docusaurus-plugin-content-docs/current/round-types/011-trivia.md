@@ -36,7 +36,7 @@ La manche **Trivia** est le type de manche classique et par défaut dans QuizWit
 
 - **Mélangez les types de questions :** Ajoutez de la variété pour plus d’engagement.
 - **Gardez un équilibre :** Alternez questions faciles et difficiles pour garder la motivation des joueurs.
-- **Utilisez des médias :** Ajoutez images, audio ou vidéo pour un contenu plus riche.
+- **Use attachments:** Attach images, audio, or video for richer content.
 
 ---
 
