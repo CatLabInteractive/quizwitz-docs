@@ -43,6 +43,6 @@ Se [skriva frågor](../editor/005-writing-questions.md) för en allmän översik
 
 - **Var tydlig och koncis:** Undvik tvetydiga formuleringar.
 - **Använd rimliga felaktiga svar:** Gör distraktorerna trovärdiga.
-- **Variera innehållet:** Lägg till bilder, flaggor eller ljud för att engagera.
+- **Mix attachments:** Add images, flags, or sounds for engagement.
 - **Slumpa ordningen:** Håll det rättvist för alla spelare.
 - **Tagga och kategorisera:** För enkel navigering och sökbarhet.
