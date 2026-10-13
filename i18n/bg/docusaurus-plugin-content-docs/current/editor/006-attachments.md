@@ -38,7 +38,15 @@ title: Прикачени файлове
 - **Име** - Показва се на quizmaster в [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); помага при организирането на прикачени файлове
 - **Посочване на авторство** - Показва се на играчите като информация за кредит или източник. Това трябва да е **името на носителя на правата**.
 
-> ⚠️ За да **публикуваш** Round-About или Quiz, **всички прикачени файлове трябва да имат попълнено валидно посочване на авторство**. Без това записът ти не може да бъде направен публичен.
+> ⚠️ За да **публикуваш** Round-About или Quiz, **всички прикачени файлове трябва да имат попълнено валидно посочване на авторство**. Without this, it cannot be made public.
+
+---
+
+## 📱 Show on player devices
+
+Images shown between screens - before or after a question, before or after its feedback, and before or after a round - can also be shown on the **players' devices**, not only on the game screen. Tick **Show on player devices** on the attachment to do so.
+
+> ℹ️ This applies to images only. An image in the **During question** slot is never mirrored: players see it on the game screen. To make that image fill the game screen instead, use the question's **Custom view** (see [writing questions](../editor/005-writing-questions.md)).
 
 ---
 
