@@ -36,7 +36,7 @@ Kolo **Trivia** je klasický, výchozí typ kola v QuizWitz. Všem hráčům nab
 
 - **Míchej typy otázek:** Přidej pestrost, aby to hráče víc bavilo.
 - **Udržuj vyváženost:** Střídej snadné a těžké otázky, aby hráči zůstali motivovaní.
-- **Používej média:** Přidej obrázky, zvuk nebo video pro bohatší obsah.
+- **Use attachments:** Attach images, audio, or video for richer content.
 
 ---
 
