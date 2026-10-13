@@ -89,7 +89,7 @@ Wenn du bereit bist, dein Quiz zu testen oder zu starten, drücke den **Start Qu
 Möchtest du einen kompletten Quiz-Durchlauf simulieren? Nutze die erweiterten Testtools:
 
 - **Simulieren** - Führe einen Testdurchlauf mit Bots durch (ohne Präsentation)
-- **Live simulieren** - Simuliere ein komplettes [QuizWitz Live](../quizmaster/001-introduction.md)-Spiel mit Bots, inklusive Quizmaster-, Jury- und Spieleransichten
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) game with bots, including quizmaster, jury, and player views
 
 ---
 
