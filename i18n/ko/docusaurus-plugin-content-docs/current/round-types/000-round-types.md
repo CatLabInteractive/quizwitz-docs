@@ -30,7 +30,7 @@ title: 라운드 유형
 이 라운드 유형은 라운드가 끝날 때마다 “답안지를 제출하는” 방식을 재현합니다.
 
 - [전통](030-traditional.md)
-- [전통 - 연결고리](031-traditional-ct.md)
+- [Traditional - Common Thread](031-traditional-ct.md)
 - [알파벳](032-alphabet.md)
 
 ## 🎉 라이브 이벤트
