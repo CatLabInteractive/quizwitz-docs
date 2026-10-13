@@ -21,7 +21,7 @@ Brug fanen **QuizWitz-biblioteket** til at søge efter og importere spørgsmål,
 1. Åbn den runde, du vil importere indhold til
 2. Klik på fanen **QuizWitz-biblioteket**
 3. Brug filtre som sprog, samling, type, kategori eller tags
-4. Vælg et eller flere elementer
+4. Select one or more items
 5. Klik på **Tilføj X elementer** for at indsætte det valgte indhold i din quiz
 
 ![QuizWitz-biblioteket](/images/import/import-from-quizwitz.png)
