@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: साझा सूत्र
+title: Common Thread
 ---
 
 # 🧵 साझा सूत्र
