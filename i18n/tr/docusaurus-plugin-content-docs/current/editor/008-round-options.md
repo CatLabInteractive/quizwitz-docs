@@ -74,7 +74,7 @@ You can add a custom **round introduction text** (the **Quizmaster script**) tha
 
 ## 📎 Ekler
 
-Turunu belirli anlarda gösterilen eklerle zenginleştir:
+Enhance your round with attachments shown at specific moments:
 
 - **Turdan önce** - Tur girişi animasyonundan sonra gösterilir
 - **Turdan sonra** - Tur kapanışından sonra gösterilir
