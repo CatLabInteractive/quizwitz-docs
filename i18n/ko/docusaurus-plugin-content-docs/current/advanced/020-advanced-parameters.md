@@ -24,7 +24,7 @@ https://play.quizwitz.com/13305:qyHBEVVBqT?theme=emerald
 | `reservation`            |              /              |            abcdef           | 사용할 예약 토큰(라이브 게임에서)                                                                                               |
 | `remote`                 | quizwitz.tv | quizwitz.tv | 사용할 CatLab Remote 서버                                                                                                                 |
 | `server`                 |              /              |              10             | 사용할 CatLab Remote 서버 ID(자동 검색 사용 시)                                                                               |
-| `publisher`              |              /              |           QuizWitz          | 게임을 호스트하는 프로필의 이름입니다. 화면을 커스터마이즈하는 데 사용됩니다                                                                           |
+| `publisher`              |              /              |           QuizWitz          | Name of the profile that is hosting the game. 화면을 커스터마이즈하는 데 사용됩니다                                                   |
 | `smileys`                |              1              |              0              | 게임에서 스마일리를 비활성화하려면 0으로 설정하세요                                                                                                         |
 | `outroPlayers`           |              12             |          5,4,3,1,2          | 게임 아웃트로에서 발표할 플레이어 수(숫자) 또는 플레이어 순서(쉼표로 구분한 순위 목록)를 정의합니다.                     |
 | `focusPositions`         |              /              |            50,100           | 퀴즈마스터 앱에 표시할 추가 순위 목록을 정의합니다                                                                                                         |
@@ -48,12 +48,12 @@ https://play.quizwitz.com/13305:qyHBEVVBqT?theme=emerald
 | `rounds`                 |              5              |              7              | 무작위 퀴즈에서 생성할 라운드 수를 설정합니다.                                                                                           |
 | `questions`              |              7              |              7              | 무작위 퀴즈에서 각 라운드마다 생성할 문제 수를 설정합니다.                                                                                    |
 | `showListenQuotes`       |              1              |              0              | “재미있는” “잘 들어 주세요” 인용문을 비활성화하려면 0으로 설정하세요.                                                                            |
-| `shared`                 |              /              |  123:abcdef | 공유된 항목의 액세스 토큰입니다.                                                                                                   |
+| `shared`                 |              /              |  123:abcdef | The access token of a shared quiz or Round-About.                                                                    |
 | `music`                  |              1              |              0              | 모든 (게임) 음악을 비활성화하려면 0으로 설정하세요. 업로드한 오디오는 계속 재생됩니다.                                |
 | `connectMusic`           |              1              |              0              | “접속” 단계에서 재생되는 (게임) 음악을 비활성화하려면 0으로 설정하세요.                                                        |
 | `slideshowVideoInterval` |             300             |             300             | 접속 화면 단계에 동영상을 업로드한 경우, 각 동영상 재생 사이의 간격(초)을 정의합니다.                                                |
 | `slideshowImageInterval` |              20             |              60             | 접속 화면 단계에 이미지를 업로드한 경우, 각 이미지를 표시할 시간(초)을 정의합니다.                                                  |
-| `skipOnAllAnswered`      |              1              |              0              | 항목의 `skipOnAllAnswered` 설정을 무시하려면 0으로 설정하세요                                                                                          |
+| `skipOnAllAnswered`      |              1              |              0              | Set to 0 to override the quiz's `skipOnAllAnswered`                                                                                  |
 | `departments`            |              1              |            A,B,C            | 부서를 불러오지 않으려면 0으로 설정하세요. 쉼표로 구분한 이름 목록으로 설정하면, 접속하는 모든 플레이어가 무작위 부서에 자동으로 배정됩니다.                     |
 | `showRankInDepartment`   |              1              |              0              | 사용자가 부서 내 자신의 순위를 보지 못하게 하려면 0으로 설정하세요.                                                                              |
 | `showDepartmentRanking`  |              1              |              0              | 라운드 사이에 부서 순위를 표시하지 않으려면 0으로 설정하세요.                                                                                  |
