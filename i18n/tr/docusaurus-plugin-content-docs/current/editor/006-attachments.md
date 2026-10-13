@@ -38,7 +38,15 @@ Her ekin bir adı ve isteğe bağlı bir kaynak gösterimi olabilir:
 - **Ad** - [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) oyununda quizmastera gösterilir; ekleri düzenlemeye yardımcı olur
 - **Kaynak gösterimi** - Oyunculara emeği geçenler veya kaynak bilgisi olarak gösterilir. Bu, **hak sahibinin adı** olmalıdır.
 
-> ⚠️ Bir Round-About'u veya Quizi **yayınlamak** için **tüm eklerde geçerli bir kaynak gösterimi** doldurulmuş olmalıdır. Bu olmadan içeriğin herkese açık hale getirilemez.
+> ⚠️ Bir Round-About'u veya Quizi **yayınlamak** için **tüm eklerde geçerli bir kaynak gösterimi** doldurulmuş olmalıdır. Without this, it cannot be made public.
+
+---
+
+## 📱 Show on player devices
+
+Images shown between screens - before or after a question, before or after its feedback, and before or after a round - can also be shown on the **players' devices**, not only on the game screen. Tick **Show on player devices** on the attachment to do so.
+
+> ℹ️ This applies to images only. An image in the **During question** slot is never mirrored: players see it on the game screen. To make that image fill the game screen instead, use the question's **Custom view** (see [writing questions](../editor/005-writing-questions.md)).
 
 ---
 
