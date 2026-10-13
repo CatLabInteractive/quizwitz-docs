@@ -12,13 +12,13 @@ Har ditt spel frusit? Stängdes fliken av misstag? [**QuizWitz Live**](quizmaste
 
 ## 🔄 Så fungerar återställning av spel
 
-Om ditt spel kraschar, hänger sig eller avbryts av någon anledning - oavsett om det beror på webbläsaren, en omstart av systemet eller en flik som stängts av misstag - kan du enkelt återuppta spelet.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the game easily.
 
 Öppna bara **samma webbläsarflik** igen som du använde för att visa **spelskärmen**. Det här är skärmen som du projicerar eller streamar för din publik.
 
 När den laddas:
 
-- Du får frågan om du vill **återuppta det tidigare spelet** eller **starta ett nytt**
+- You’ll be prompted to **resume the previous game** or **start a new one**
 - Om du väljer att återuppta återställer spelet dina framsteg så exakt som möjligt
 
 ---
@@ -38,7 +38,7 @@ Välj **”Återuppta spel”** för att:
 
 Du kan också välja att **starta ett nytt spel** i stället.
 
-- Då **rensas det tidigare spelet** helt
+- This will completely **clear the previous game**
 - Du hamnar i början av quizets konfiguration
 
 > ⚠️ Välj bara det här om du är säker på att du inte vill fortsätta det pågående spelet.
