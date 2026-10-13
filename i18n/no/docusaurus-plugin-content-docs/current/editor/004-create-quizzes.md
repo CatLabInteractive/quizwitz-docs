@@ -89,7 +89,7 @@ Når du er klar til å teste eller kjøre quizen din, trykker du på knappen **S
 Vil du simulere en fullstendig gjennomkjøring av quizen? Bruk de avanserte testverktøyene:
 
 - **Simuler** - Kjør en testgjennomspilling med roboter (uten presentasjon)
-- **Simuler Live** - Simuler et fullstendig [QuizWitz Live](../quizmaster/001-introduction.md)-spill med roboter, inkludert visningene for quizmaster, jury og spillere
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) game with bots, including quizmaster, jury, and player views
 
 ---
 
