@@ -36,7 +36,7 @@ title: Trivia (tavallinen kierros)
 
 - **Sekoita kysymystyyppejä:** Vaihtelu pitää pelaajat mukana.
 - **Pidä tasapaino:** Vuorottele helppoja ja vaikeita kysymyksiä, jotta pelaajat pysyvät motivoituneina.
-- **Käytä liitteitä:** Liitä kuvia, ääntä tai videota rikastamaan sisältöä.
+- **Use attachments:** Attach images, audio, or video for richer content.
 
 ---
 
