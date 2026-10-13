@@ -89,7 +89,7 @@ Amikor készen állsz tesztelni vagy elindítani a kvízedet, nyomd meg a **Kví
 Szeretnél egy teljes kvízmenetet szimulálni? Használd a haladó tesztelési eszközöket:
 
 - **Szimuláció** - Futtass egy teszt játékot botokkal (prezentáció nélkül)
-- **Élő szimuláció** - Szimulálj egy teljes [QuizWitz Live](../quizmaster/001-introduction.md) alkalmat botokkal, beleértve a Quizmaster, a zsűri és a játékos nézeteket
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) game with bots, including quizmaster, jury, and player views
 
 ---
 
