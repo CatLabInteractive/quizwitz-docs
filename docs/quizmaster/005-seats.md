@@ -60,7 +60,7 @@ For one-time or occasional events, you can activate **pay-as-you-go seats** inst
 
 - **Pay-as-you-go seats** stay active for **48 hours** after activation.
 - Within that time, you can:
-    - Run **multiple quizzes or sessions**
+    - Run **multiple quizzes or games**
     - **Test** your quiz with larger groups
     - Host **multi-day events** over a weekend
 
