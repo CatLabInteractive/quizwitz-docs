@@ -80,7 +80,7 @@ Gdy wszystko gotowe:
 
 Wybierz:
 
-- **Tryb gry** - Gra jednoosobowa lub Gra imprezowa
+- **Game mode** - Single player or Party Game
 - **Które Round-About** mają znaleźć się w grze
 
 QuizWitz spróbuje pominąć pytania, które już znasz.
@@ -93,7 +93,7 @@ QuizWitz spróbuje pominąć pytania, które już znasz.
 
 Gdy gra się rozpocznie, wybierz tryb:
 
-### 🎮 Gra jednoosobowa
+### 🎮 Single player
 
 - Kliknij **Start**, a następnie wybierz **Gra jednoosobowa**
 - Odpowiadaj za pomocą myszy, klawiatury lub ekranu dotykowego
