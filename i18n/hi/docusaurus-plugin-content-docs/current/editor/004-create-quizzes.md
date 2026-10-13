@@ -89,7 +89,7 @@ title: क्विज़ बनाएँ
 पूरे क्विज़ का रन-थ्रू सिम्युलेट करना चाहते हो? एडवांस्ड टेस्टिंग टूल्स का इस्तेमाल करें:
 
 - **Simulate** - बॉट्स के साथ टेस्ट प्लेथ्रू चलाएँ (कोई प्रेज़ेंटेशन नहीं)
-- **Simulate Live** - बॉट्स के साथ पूरा [QuizWitz Live](../quizmaster/001-introduction.md) सेशन सिम्युलेट करें, जिसमें Quizmaster, जूरी और प्लेयर व्यूज़ शामिल हैं
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) game with bots, including quizmaster, jury, and player views
 
 ---
 
