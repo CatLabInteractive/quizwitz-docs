@@ -12,13 +12,13 @@ Gra się zawiesiła? Karta została przypadkowo zamknięta? [**QuizWitz Live**](
 
 ## 🔄 Jak działa odzyskiwanie gry
 
-Jeśli gra ulegnie awarii, zawiesi się lub zostanie z jakiegokolwiek powodu przerwana - czy to przez problem z przeglądarką, ponowne uruchomienie systemu, czy przypadkowe zamknięcie karty - możesz łatwo ją wznowić.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the game easily.
 
 Wystarczy **ponownie otworzyć tę samą kartę przeglądarki**, w której wyświetlany był **ekran gry**. To ekran, który wyświetlasz lub transmitujesz swojej publiczności.
 
 Po jego załadowaniu:
 
-- Zobaczysz pytanie, czy chcesz **wznowić poprzednią grę**, czy **rozpocząć nową**
+- You’ll be prompted to **resume the previous game** or **start a new one**
 - Jeśli wybierzesz wznowienie, gra przywróci twoje postępy tak dokładnie, jak to możliwe
 
 ---
@@ -38,7 +38,7 @@ Wybierz **„Wznów grę”**, aby:
 
 Możesz też zamiast tego **rozpocząć nową grę**.
 
-- Spowoduje to całkowite **usunięcie poprzedniej gry**
+- This will completely **clear the previous game**
 - Wrócisz do początku konfiguracji quizu
 
 > ⚠️ Wybierz tę opcję tylko wtedy, gdy masz pewność, że nie chcesz kontynuować istniejącej gry.
