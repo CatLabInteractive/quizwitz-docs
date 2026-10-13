@@ -89,7 +89,7 @@ title: Створення квізів
 Хочеш змоделювати повне проходження квізу? Скористайся розширеними інструментами тестування:
 
 - **Симулювати** - тестове проходження з ботами (без презентації)
-- **Симулювати Live** - змоделюй повну гру [QuizWitz Live](../quizmaster/001-introduction.md) з ботами, зокрема з видами для квізмайстра, журі та гравців
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) game with bots, including quizmaster, jury, and player views
 
 ---
 
