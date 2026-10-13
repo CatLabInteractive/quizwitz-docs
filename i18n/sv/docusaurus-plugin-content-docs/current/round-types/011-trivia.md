@@ -36,7 +36,7 @@ Rundan **Trivia** är den klassiska standardrundtypen i QuizWitz. Den visar en s
 
 - **Blanda frågetyper:** Skapa variation för ökat engagemang.
 - **Håll det balanserat:** Varva lätta och svåra frågor för att hålla spelarna motiverade.
-- **Använd bilagor:** Bifoga bilder, ljud eller video för ett rikare innehåll.
+- **Use attachments:** Attach images, audio, or video for richer content.
 
 ---
 
