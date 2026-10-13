@@ -74,7 +74,7 @@ You can add a custom **round introduction text** (the **Quizmaster script**) tha
 
 ## 📎 Συνημμένα
 
-Εμπλούτισε τον γύρο σου με εικόνες, ήχο ή βίντεο που εμφανίζονται σε συγκεκριμένες στιγμές:
+Enhance your round with attachments shown at specific moments:
 
 - **Πριν από τον γύρο** - Εμφανίζεται μετά την κινούμενη εισαγωγή του γύρου
 - **Μετά τον γύρο** - Εμφανίζεται μετά το κλείσιμο του γύρου
