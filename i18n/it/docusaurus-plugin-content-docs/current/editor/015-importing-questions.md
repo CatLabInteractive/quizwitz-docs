@@ -21,7 +21,7 @@ Usa la scheda **Libreria QuizWitz** per cercare e importare domande, round o qui
 1. Apri il round in cui vuoi importare contenuti
 2. Clicca sulla scheda **Libreria QuizWitz**
 3. Usa filtri come lingua, raccolta, tipo, categoria o tag
-4. Seleziona una o più voci
+4. Select one or more items
 5. Clicca su **Aggiungi X elementi** per inserire il contenuto selezionato nel tuo quiz
 
 ![Libreria QuizWitz](/images/import/import-from-quizwitz.png)
