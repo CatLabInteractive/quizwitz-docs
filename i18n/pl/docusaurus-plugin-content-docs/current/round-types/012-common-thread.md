@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: Wspólny mianownik
+title: Common Thread
 ---
 
 # 🧵 Wspólny mianownik
