@@ -30,7 +30,7 @@ title: Типи раундів
 Ці типи раундів імітують «здавання бланків» після кожного раунду.
 
 - [Традиційний](030-traditional.md)
-- [Традиційний - Спільна нитка](031-traditional-ct.md)
+- [Traditional - Common Thread](031-traditional-ct.md)
 - [Абетка](032-alphabet.md)
 
 ## 🎉 Живі заходи
