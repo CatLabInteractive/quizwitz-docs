@@ -74,7 +74,7 @@ You can add a custom **round introduction text** (the **Quizmaster script**) tha
 
 ## 📎 첨부 파일
 
-특정 시점에 표시되는 미디어로 라운드를 더 풍성하게 만드세요.
+Enhance your round with attachments shown at specific moments:
 
 - **라운드 전** - 라운드 인트로 애니메이션 뒤에 표시됩니다
 - **라운드 후** - 라운드 아웃트로 뒤에 표시됩니다
