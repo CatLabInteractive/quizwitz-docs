@@ -12,13 +12,13 @@ sidebar_position: 1000
 
 ## 🔄 Cómo funciona la recuperación del juego
 
-Si tu juego se bloquea, se cuelga o se interrumpe por cualquier motivo - ya sea un problema del navegador, un reinicio del sistema o el cierre accidental de la pestaña - puedes reanudar el juego fácilmente.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the game easily.
 
 Sólo **reabre la misma pestaña de navegador** que estabas usando para mostrar la **pantalla del juego**. Esta es la pantalla que proyectas o transmites a tu audiencia.
 
 Cuando se cargue:
 
-- Se te pedirá que **reanudes la sesión anterior** o **inicies una nueva**
+- You’ll be prompted to **resume the previous game** or **start a new one**
 - Si eliges reanudar, el juego restaurará tu progreso lo más fielmente posible
 
 ---
@@ -38,7 +38,7 @@ Selecciona **"Reanudar juego"** para:
 
 También puedes elegir **iniciar un juego nuevo** en su lugar.
 
-- Esto **borrará por completo la sesión anterior**
+- This will completely **clear the previous game**
 - Volverás al inicio de la configuración del quiz
 
 > ⚠️ Solo elige esto si estás seguro de que no quieres continuar con el juego existente.
