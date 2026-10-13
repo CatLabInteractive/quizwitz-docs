@@ -21,7 +21,7 @@ Użyj karty **Biblioteka QuizWitz**, aby wyszukiwać i importować pytania, rund
 1. Otwórz rundę, do której chcesz zaimportować treści
 2. Kliknij kartę **Biblioteka QuizWitz**
 3. Użyj filtrów, takich jak język, kolekcja, typ, kategoria lub tagi
-4. Wybierz jeden lub więcej elementów
+4. Select one or more items
 5. Kliknij **Dodaj elementy: X**, aby wstawić wybrane treści do quizu
 
 ![Biblioteka QuizWitz](/images/import/import-from-quizwitz.png)
