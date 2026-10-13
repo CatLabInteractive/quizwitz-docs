@@ -36,7 +36,7 @@ La ronda **Trivia** es el tipo clásico y predeterminado de ronda en QuizWitz. P
 
 - **Mezcla tipos de pregunta:** Añade variedad para mayor participación.
 - **Mantenlo equilibrado:** Alterna preguntas fáciles y difíciles para mantener motivados a los jugadores.
-- **Usa medios:** Adjunta imágenes, audio o vídeo para un contenido más rico.
+- **Use attachments:** Attach images, audio, or video for richer content.
 
 ---
 
