@@ -18,7 +18,7 @@ Als je spel crasht, vastloopt of om welke reden dan ook wordt onderbroken - of d
 
 Wanneer het geladen is:
 
-- Je krijgt de optie om de vorige sessie **te hervatten** of **een nieuwe te starten**
+- Je krijgt de optie om het vorige spel **te hervatten** of **een nieuwe te starten**
 - Als je kiest om te hervatten, dan wordt je voortgang zo goed mogelijk hersteld.
 
 ---
@@ -38,7 +38,7 @@ Selecteer **"Spel hervatten"** om:
 
 Je kunt ook kiezen om **een nieuw spel te starten**.
 
-- Dit zal de vorige sessie volledig **wissen**
+- Dit zal het vorige spel volledig **wissen**
 - Je keert terug naar de start van de quizinstelling
 
 > ⚠️ Kies dit alleen als je zeker weet dat je het bestaande spel niet verder wilt spelen.

@@ -60,7 +60,7 @@ Für einmalige oder gelegentliche Events kannst du **Pay-as-you-go-Seats** aktiv
 
 - **Pay-as-you-go-Seats** bleiben nach der Aktivierung **48 Stunden** aktiv.
 - Innerhalb dieser Zeit kannst du:
-  - **Mehrere Quizze oder Sessions durchführen**
+  - **Mehrere Quizze oder Spiele durchführen**
   - Dein Quiz mit größeren Gruppen **testen**
   - **Mehrtägige Events** über ein Wochenende veranstalten
 

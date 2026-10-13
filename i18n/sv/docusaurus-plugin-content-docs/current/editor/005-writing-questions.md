@@ -55,6 +55,20 @@ De här fälten styr vad som visas i Quizmaster-appen och på spelskärmen:
 
 ---
 
+### 🖼️ Anpassad vy
+
+Vissa teman kan visa en fråga i mer än en skärmlayout. När quizets tema erbjuder det visas alternativet **Anpassad vy** i frågeinställningarna:
+
+- **Standard** - Frågetexten, svarsalternativen och bilagan delar på skärmen som vanligt
+- **Bilaga i helskärm** - Bilden eller videon på platsen **Under frågan** fyller hela spelskärmen; frågetexten och alternativen visas inte. Spelarna läser ändå frågan och svarar på sin egen enhet. Perfekt för bildfrågor av typen *”Vad är det här?”* och videofrågor.
+- **Bilaga i helskärm utan timer** - Samma sak, men nedräkningen döljs också *(Emerald-temat)*
+
+> ℹ️ En anpassad vy ändrar bara en fråga som har en bild eller video på platsen **Under frågan**. Det är inte samma sak som **Visa på spelarnas enheter** (se [bilagor](../editor/006-attachments.md)), som speglar en bild till spelarnas telefoner.
+
+📘 Vilka vyer som finns beror på temat - se sidorna om [Emerald-temat](../advanced/011-emerald-theme.md) och [teman](../advanced/010-theming.md).
+
+---
+
 ## 📎 Bilagor
 
 ![Frågebilagor](/images/question-attachments.png)

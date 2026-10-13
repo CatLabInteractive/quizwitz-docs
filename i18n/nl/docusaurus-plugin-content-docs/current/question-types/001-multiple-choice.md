@@ -43,6 +43,6 @@ Zie [vragen schrijven](../editor/005-writing-questions.md) voor een algemeen ove
 
 - **Wees duidelijk en bondig:** Vermijd dubbelzinnige formuleringen.
 - **Gebruik geloofwaardige foute antwoorden:** Maak afleiders geloofwaardig.
-- **Mix media:** Voeg afbeeldingen, vlaggen of geluiden toe voor meer betrokkenheid.
+- **Combineer bijlagen:** Voeg afbeeldingen, vlaggen of geluiden toe voor meer betrokkenheid.
 - **Willekeurige volgorde:** Houd het eerlijk voor alle spelers.
 - **Tag en categoriseer:** Voor makkelijke navigatie en zoekbaarheid.

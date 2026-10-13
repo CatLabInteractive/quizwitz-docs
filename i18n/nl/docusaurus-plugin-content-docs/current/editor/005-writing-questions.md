@@ -55,6 +55,20 @@ Deze velden bepalen wat er in de Quizmaster App en op het spelscherm verschijnt:
 
 ---
 
+### 🖼️ Aangepast scherm
+
+Sommige thema's kunnen een vraag in meer dan één schermindeling tonen. Als het thema van de quiz die aanbiedt, verschijnt de optie **Aangepast scherm** in de vraaginstellingen:
+
+- **Standaard** - De vraagtekst, de antwoordopties en de bijlage delen zoals gewoonlijk het scherm
+- **Bijlage op volledig scherm** - De afbeelding of video in het slot **Tijdens de vraag** vult het hele spelscherm; de vraagtekst en opties worden niet getoond. Spelers lezen de vraag nog steeds en antwoorden op hun eigen apparaat. Ideaal voor fotovragen als *"Wat is dit?"* en voor videovragen.
+- **Bijlage op volledig scherm zonder timer** - Hetzelfde, maar ook het aftellen is verborgen *(Emerald-thema)*
+
+> ℹ️ Een aangepast scherm verandert alleen een vraag die een afbeelding of video in het slot **Tijdens de vraag** heeft. Het is niet hetzelfde als **Toon op apparaten van spelers** (zie [bijlagen](../editor/006-attachments.md)), dat een afbeelding ook op de telefoons van de spelers toont.
+
+📘 Welke schermen beschikbaar zijn, hangt af van het thema - zie de pagina's [Emerald-thema](../advanced/011-emerald-theme.md) en [thema's](../advanced/010-theming.md).
+
+---
+
 ## 📎 Bijlagen
 
 ![Vraagbijlagen](/images/question-attachments.png)
@@ -72,7 +86,7 @@ Je kunt **meerdere bijlagen** in elk vak toevoegen.
 > ⚡ **In [QuizWitz Live (PRO)](../quizmaster/001-introduction.md):** de quizmaster kan op elk moment kiezen welke bijlage getoond wordt.  
 > 🎮 **In spellen zonder quizmaster (Party Game, Conferentiemodus, Single player):** alle bijlagen in een bepaald slot worden tegelijk getoond.
 
-📘 Leer meer over ondersteunde bestandstypen, timingtips en beperkingen in de [attachments guide](../editor/attachments).
+📘 Leer meer over ondersteunde bestandstypen, timingtips en beperkingen in de [bijlagengids](../editor/attachments).
 
 ---
 
@@ -84,4 +98,4 @@ Je kunt **meerdere bijlagen** in elk vak toevoegen.
 
 ---
 
-Vervolgens: Leer meer over de verschillende [vraagtypes](../question-types/000-question-types.md) en hoe je je [ronde types](../round-types/000-round-types.md) opbouwt voor maximaal effect.
+Vervolgens: Leer meer over de verschillende [vraagtypes](../question-types/000-question-types.md) en hoe je je [rondetypes](../round-types/000-round-types.md) opbouwt voor maximaal effect.

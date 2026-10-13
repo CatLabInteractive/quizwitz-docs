@@ -56,15 +56,25 @@ Ezeket a pontozási beállításokat a kör szerkesztésekor a körbeállításo
 
 ---
 
-## 📜 Quizmaster utasítások
+## 💬 Forduló magyarázata
 
-Megadhatsz egyedi **fordulóbevezető szöveget**, amely a forduló elején csak a [Quizmaster appban](../quizmaster/001-introduction.md) jelenik meg. Használd a quizmaster eligazítására vagy egy személyes megjegyzésre.
+Egyes fordulótípusok és pontozási beállítások az első kérdés előtt rövid magyarázatot jelenítenek meg a játékképernyőn, például *„Folytatólagosan helyesen válaszolj, hogy magasabb szintekre juss, és bónuszpontokat kapj.”*, ha a forduló Strike pontozást használ. Kattints a forduló elején a **+ Kör magyarázata** gombra, hogy ezt a szöveget a sajátodra cseréld. Egy hagyományos Trivia forduló magyarázatára is használhatod, amelynek alapértelmezés szerint nincs magyarázata.
+
+- Hagyd üresen a mezőt, ha a fordulótípus alapértelmezett magyarázatát szeretnéd megtartani.
+- A forduló magyarázata ugyanúgy fordítandó, mint bármely más szöveg: add meg a kvízed minden nyelvén.
+- Ha egy quizmaster vezeti a kvízt, a játékképernyő kihagyja a forduló magyarázatát. Helyette használd az alábbi quizmaster-szkriptet.
 
 ---
 
-## 📎 Csatolmányok
+## 📜 Quizmaster utasítások
 
-Dobd fel a körödet médiával, amely meghatározott pillanatokban jelenik meg:
+Megadhatsz egyedi **fordulóbevezető szöveget** (a **quizmaster-szkriptet**), amely a forduló elején csak a [Quizmaster appban](../quizmaster/001-introduction.md) jelenik meg. Használd a quizmaster eligazítására vagy egy személyes megjegyzésre.
+
+---
+
+## 📎 Mellékletek
+
+Dobd fel a fordulódat mellékletekkel, amelyek meghatározott pillanatokban jelennek meg:
 
 - **Forduló előtt** - A fordulóbevezető animáció után jelenik meg
 - **Forduló után** - A fordulólezáró után jelenik meg
@@ -72,4 +82,4 @@ Dobd fel a körödet médiával, amely meghatározott pillanatokban jelenik meg:
 - **Fordulólezáró közben** - _(csak hang)_ A rangsor megjelenítése közben játszódik le
 - ...
 
-📘 A támogatott fájltípusokért és használati tippekért nézd meg a [csatolmányok útmutatóját](../editor/006-attachments.md).
+📘 A támogatott fájltípusokért és használati tippekért nézd meg a [mellékletek útmutatóját](../editor/006-attachments.md).

@@ -21,7 +21,7 @@ A **QuizWitz Library** lapon kereshetsz és importálhatsz olyan kérdéseket, f
 1. Nyisd meg azt a fordulót, ahová tartalmat szeretnél importálni
 2. Kattints a **QuizWitz Library** lapra
 3. Használj szűrőket, például nyelv, gyűjtemény, típus, kategória vagy címkék szerint
-4. Válassz ki egy vagy több bejegyzést
+4. Válassz ki egy vagy több elemet
 5. Kattints az **X elem hozzáadása** gombra, hogy a kiválasztott tartalmat beilleszd a kvízedbe
 
 ![QuizWitz könyvtár](/images/import/import-from-quizwitz.png)

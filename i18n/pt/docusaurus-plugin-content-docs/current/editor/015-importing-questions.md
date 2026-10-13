@@ -21,7 +21,7 @@ Usa o separador **Biblioteca QuizWitz** para pesquisar e importar perguntas, ron
 1. Abre a ronda para onde queres importar conteúdo
 2. Clica no separador **Biblioteca QuizWitz**
 3. Usa filtros como idioma, coleção, tipo, categoria ou etiquetas
-4. Seleciona uma ou mais entradas
+4. Seleciona um ou mais itens
 5. Clica em **Adicionar X itens** para inserir o conteúdo selecionado no teu quiz
 
 ![Biblioteca QuizWitz](/images/import/import-from-quizwitz.png)

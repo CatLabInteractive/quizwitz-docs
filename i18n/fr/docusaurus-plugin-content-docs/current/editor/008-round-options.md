@@ -56,15 +56,25 @@ Ces options de scoring se trouvent dans le panneau d'options de la manche lorsqu
 
 ---
 
+## 💬 Explication de la manche
+
+Certains types de manche et options de score affichent une courte explication sur l'écran de jeu avant la première question, par exemple *« Répondez correctement aux questions consécutives pour atteindre des niveaux plus élevés et obtenir des points bonus. »* lorsqu'une manche utilise la notation Strike. Cliquez sur **+ Explication de la manche** dans l'ouverture de la manche pour remplacer ce texte par le vôtre. Vous pouvez aussi l'utiliser pour expliquer une manche Trivia classique, qui n'a pas d'explication par défaut.
+
+- Laissez le champ vide pour conserver l'explication par défaut du type de manche.
+- L'explication de la manche se traduit comme n'importe quel autre texte : ajoutez-la dans chaque langue de votre quiz.
+- Lorsqu'un quizmaster présente le quiz, l'écran de jeu saute l'explication de la manche. Utilisez plutôt le script du quizmaster ci-dessous.
+
+---
+
 ## 📜 Instructions pour le quizmaster
 
-Vous pouvez ajouter un **texte d'introduction de manche** personnalisé qui n'apparaîtra que sur la [Quizmaster App](../quizmaster/001-introduction.md) au début de la manche. Utilisez ceci pour informer le quizmaster ou ajouter une touche personnelle.
+Vous pouvez ajouter un **texte d'introduction de manche** personnalisé (le **script du quizmaster**) qui n'apparaîtra que sur la [Quizmaster App](../quizmaster/001-introduction.md) au début de la manche. Utilisez ceci pour informer le quizmaster ou ajouter une touche personnelle.
 
 ---
 
 ## 📎 Pièces jointes
 
-Améliorez votre manche avec des médias affichés à des moments spécifiques :
+Améliorez votre manche avec des pièces jointes affichées à des moments spécifiques :
 
 - **Avant la manche** - Affiché après l’animation d’intro de la manche
 - **Après la manche** - Affiché après l’outro de la manche

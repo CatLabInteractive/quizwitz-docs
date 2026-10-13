@@ -89,7 +89,7 @@ Quizini test etmeye veya oynatmaya hazır olduğunda **Quizi başlat** düğmesi
 Quizin baştan sona tam bir provasını mı yapmak istiyorsun? Gelişmiş test araçlarını kullan:
 
 - **Simüle et** - Botlarla bir test oyunu çalıştır (sunum olmadan)
-- **Canlı simüle et** - Quizmaster, Jüri ve Oyuncu görünümleri dahil, botlarla tam bir [QuizWitz Live](../quizmaster/001-introduction.md) oyununu simüle et
+- **Canlı simüle et** - quizmaster, jüri ve oyuncu görünümleri dahil, botlarla tam bir [QuizWitz Live](../quizmaster/001-introduction.md) oyununu simüle et
 
 ---
 

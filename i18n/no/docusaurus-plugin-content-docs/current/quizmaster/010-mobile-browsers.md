@@ -24,7 +24,7 @@ Hvis en telefon eller et nettbrett er eneste mulighet, følger du disse trinnene
 ### 🎞️ Test lyd- og videoklipp
 
 - Hvis quizen din inneholder **lyd eller video**, bør du teste det på forhånd
-- Noen enheter kan **slite med store mediefiler** eller ikke spille dem av i det hele tatt
+- Noen enheter kan **slite med store vedlegg** eller ikke spille dem av i det hele tatt
 - Vær spesielt forsiktig med **eldre enheter** eller standard mobilnettlesere
 
 ---

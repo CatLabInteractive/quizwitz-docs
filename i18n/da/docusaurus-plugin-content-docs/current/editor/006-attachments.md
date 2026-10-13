@@ -38,7 +38,15 @@ Hver vedhæftning kan have et navn og en valgfri kildeangivelse:
 - **Navn** - Vises for quizmasteren i [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); hjælper med at holde styr på vedhæftninger
 - **Kildeangivelse** - Vises for spillerne som kreditering eller kildeoplysning. Det skal være **navnet på rettighedshaveren**.
 
-> ⚠️ For at kunne **udgive** en Round-About eller en quiz skal **alle vedhæftninger have en gyldig kildeangivelse** udfyldt. Uden den kan dit element ikke gøres offentligt.
+> ⚠️ For at kunne **udgive** en Round-About eller en quiz skal **alle vedhæftninger have en gyldig kildeangivelse** udfyldt. Uden den kan det ikke gøres offentligt.
+
+---
+
+## 📱 Vis på spillernes enheder
+
+Billeder, der vises mellem skærmene - før eller efter et spørgsmål, før eller efter dets feedback og før eller efter en runde - kan også vises på **spillernes enheder**, ikke kun på spilskærmen. Sæt flueben i **Vis på spillernes enheder** på vedhæftningen for at gøre det.
+
+> ℹ️ Det gælder kun billeder. Et billede i feltet **Under spørgsmål** spejles aldrig: spillerne ser det på spilskærmen. Hvis billedet i stedet skal fylde spilskærmen, så brug spørgsmålets **Brugerdefineret visning** (se [skriv spørgsmål](../editor/005-writing-questions.md)).
 
 ---
 

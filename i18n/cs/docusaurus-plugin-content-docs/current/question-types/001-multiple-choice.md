@@ -43,6 +43,6 @@ Obecný přehled nastavení otázek najdeš v části [psaní otázek](../editor
 
 - **Buď jasný a stručný:** Vyhýbej se nejednoznačným formulacím.
 - **Používej uvěřitelné špatné odpovědi:** Ať jsou chytáky věrohodné.
-- **Kombinuj média:** Přidej obrázky, vlajky nebo zvuky pro větší zapojení.
+- **Kombinuj přílohy:** Přidej obrázky, vlajky nebo zvuky pro větší zapojení.
 - **Zamíchej pořadí:** Ať je to fér pro všechny hráče.
 - **Označuj štítky a kategorizuj:** Pro snadnou navigaci a vyhledávání.

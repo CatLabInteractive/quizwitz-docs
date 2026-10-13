@@ -68,11 +68,27 @@ Dostępne modyfikatory to:
 - backgroundColor
 - mainColor
 - accentColor
+- containerColor (kontener pytania; może mieć wartość alfa, na przykład ffffff40)
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
+- dialogTextColor
+- pieChartLabelColor
+- ladderColor
 - optionColors (4 kolory, oddzielone przecinkami)
 - optionBorderColors (4 kolory, oddzielone przecinkami)
+
+Można też dostosować wygląd urządzeń graczy:
+
+- remoteBackgroundColor
+- remoteTextColor
+- remoteQuestionColor
+- remoteQuestionTextColor
+- remoteOptionOutlineColor
+- remoteOutlineColor
+- remoteContainerBackground
+- remoteContainerText
+- remoteOptionColors (4 kolory, oddzielone przecinkami)
 
 Dodatkowo możesz ustawić domyślną czcionkę:
 
@@ -80,6 +96,8 @@ Dodatkowo możesz ustawić domyślną czcionkę:
 - headerFont
 
 Czcionki muszą być adresami URL publicznie dostępnych plików czcionek.
+
+Na koniec `hideLogo=1` ukrywa logo QuizWitz.
 
 Każdy z tych modyfikatorów może zawierać jeden kolor w formacie szesnastkowym HTML (ff0000) lub gradient liniowy, jeśli podasz kilka kolorów oddzielonych znakiem minus ( - na przykład ff1b6b-45caff). (Pamiętaj, że nie należy dodawać symbolu #.)
 
@@ -91,3 +109,18 @@ Dodając te parametry do adresu URL gry, możesz zmienić kolory motywu:
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![Zrzut ekranu motywu Emerald z własnymi modyfikatorami](/images/emerald/theme_properties.png)
+
+### Zapisywanie modyfikatorów w quizie
+
+Nie musisz ręcznie dodawać parametrów do każdego linku. Otwórz **Udostępnij lub osadź** w edytorze quizu, rozwiń **Zaawansowane opcje gry**, wklej parametry (bez początkowego znaku zapytania, na przykład `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) w pole **surowy ciąg zapytania** i kliknij **Zapisz ustawienia w quizie**. Od tej pory zawiera je każdy link do gry i każdy link do udostępnienia quizu.
+
+Asystent AI QuizWitz też może to zrobić za ciebie: poproś go o zmianę koloru tła quizu, a przełączy quiz na motyw Emerald i zapisze modyfikatory.
+
+## Niestandardowe widoki pytań
+
+Motyw Emerald oferuje też dwa dodatkowe układy ekranu dla pytania z obrazem lub filmem w slocie **W trakcie pytania**, wybierane dla każdego pytania opcją **Widok niestandardowy** w ustawieniach pytania:
+
+- **Załącznik na pełnym ekranie** - obraz lub film wypełnia cały ekran gry, tekst pytania i opcje nie są wyświetlane
+- **Załącznik na pełnym ekranie bez licznika czasu** - to samo, ale odliczanie też jest ukryte
+
+Gracze czytają pytanie i odpowiadają na własnych urządzeniach. Szczegóły znajdziesz w artykule [pisanie pytań](../editor/005-writing-questions.md).

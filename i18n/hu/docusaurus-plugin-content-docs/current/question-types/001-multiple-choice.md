@@ -43,6 +43,6 @@ A kérdésbeállítások általános áttekintéséhez lásd: [kérdések írás
 
 - **Legyen világos és tömör:** Kerüld a kétértelmű megfogalmazást.
 - **Használj hihető helytelen válaszokat:** Legyenek a zavaró válaszlehetőségek hihetőek.
-- **Keverd a médiatípusokat:** Adj hozzá képeket, zászlókat vagy hangokat, hogy izgalmasabb legyen.
+- **Keverd a mellékleteket:** Adj hozzá képeket, zászlókat vagy hangokat, hogy izgalmasabb legyen.
 - **Véletlenszerű sorrend:** Így minden játékosnak fair marad.
 - **Címkézz és kategorizálj:** Az egyszerű navigációért és kereshetőségért.

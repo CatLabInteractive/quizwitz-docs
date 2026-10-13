@@ -55,6 +55,20 @@ Diese Felder kontrollieren, was auf der Quizmaster-App und dem Spielbildschirm e
 
 ---
 
+### 🖼️ Benutzerdefinierte Ansicht
+
+Manche Themes können eine Frage in mehr als einem Bildschirmlayout zeigen. Wenn das Theme des Quiz solche Layouts anbietet, erscheint in den Frageeinstellungen die Option **Benutzerdefinierte Ansicht**:
+
+- **Standard** - Fragetext, Antwortoptionen und Anhang teilen sich wie gewohnt den Bildschirm
+- **Anhang im Vollbild** - Das Bild oder Video im Slot **Während der Frage** füllt den ganzen Spielbildschirm; Fragetext und Optionen werden nicht dargestellt. Die Spieler lesen die Frage weiterhin auf ihrem eigenen Gerät und antworten dort. Ideal für Bildfragen wie *„Was ist das?“* und für Videofragen.
+- **Anhang im Vollbild ohne Timer** - Dasselbe, zusätzlich ist der Countdown ausgeblendet *(Emerald-Theme)*
+
+> ℹ️ Eine benutzerdefinierte Ansicht verändert nur Fragen, die ein Bild oder Video im Slot **Während der Frage** haben. Sie ist nicht dasselbe wie **Auf Spieler-Geräten anzeigen** (siehe [Anhänge](../editor/006-attachments.md)), das ein Bild auf die Handys der Spieler spiegelt.
+
+📘 Welche Ansichten verfügbar sind, hängt vom Theme ab - siehe die Seiten [Emerald-Theme](../advanced/011-emerald-theme.md) und [Theming](../advanced/010-theming.md).
+
+---
+
 ## 📎 Anhänge
 
 ![Frageanhänge](/images/question-attachments.png)

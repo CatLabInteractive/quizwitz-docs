@@ -55,6 +55,20 @@ Bu alanlar Quizmaster Uygulamasında ve oyun ekranında neyin görüneceğini ko
 
 ---
 
+### 🖼️ Özel görünüm
+
+Bazı temalar bir soruyu birden fazla ekran düzeninde gösterebilir. Quizin teması bunları sunduğunda soru ayarlarında **Özel görünüm** seçeneği görünür:
+
+- **Varsayılan** - Soru metni, cevap seçenekleri ve ek, ekranı her zamanki gibi paylaşır
+- **Tam ekran ek** - **Soru sırasında** alanındaki görsel veya video tüm oyun ekranını kaplar; soru metni ve seçenekler gösterilmez. Oyuncular soruyu yine kendi cihazlarında okur ve cevaplar. *“Bu nedir?”* tarzı görsel sorular ve video soruları için ideal.
+- **Zamanlayıcısız tam ekran ek** - Aynısı, ayrıca geri sayım da gizlenir *(Emerald teması)*
+
+> ℹ️ Özel görünüm yalnızca **Soru sırasında** alanında görsel veya video bulunan bir soruyu değiştirir. Bir görseli oyuncuların telefonlarına yansıtan **Oyuncu cihazlarında göster** seçeneğiyle aynı şey değildir (bkz. [ekler](../editor/006-attachments.md)).
+
+📘 Kullanılabilen görünümler temaya bağlıdır - [Emerald teması](../advanced/011-emerald-theme.md) ve [temalar](../advanced/010-theming.md) sayfalarına bak.
+
+---
+
 ## 📎 Ekler
 
 ![Soru ekleri](/images/question-attachments.png)

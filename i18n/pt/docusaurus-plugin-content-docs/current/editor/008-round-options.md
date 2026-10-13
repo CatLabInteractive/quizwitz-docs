@@ -56,15 +56,25 @@ Estas opções de pontuação encontram-se no painel de opções da ronda ao edi
 
 ---
 
+## 💬 Explicação da ronda
+
+Alguns tipos de ronda e opções de pontuação mostram uma breve explicação no ecrã de jogo antes da primeira pergunta, por exemplo *"Responda perguntas consecutivas corretamente para subir de nível e ganhar pontos bônus."* quando uma ronda usa a pontuação Strike. Clica em **+ Explicação da ronda** na abertura da ronda para substituir esse texto pelo teu. Também a podes usar para explicar uma ronda de trivia normal, que por predefinição não tem explicação.
+
+- Deixa o campo vazio para manter a explicação predefinida do tipo de ronda.
+- A explicação da ronda é traduzida como qualquer outro texto: adiciona-a em cada idioma do teu quiz.
+- Quando um quizmaster apresenta o quiz, o ecrã de jogo salta a explicação da ronda. Nesse caso, usa o guião do quizmaster descrito abaixo.
+
+---
+
 ## 📜 Instruções do Quizmaster
 
-Podes adicionar um **texto de introdução** personalizado que aparecerá somente na App Quizmaster no início da ronda. Use isto para curtir o questionário ou adicionar um toque pessoal.
+Podes adicionar um **texto de introdução da ronda** personalizado (o **guião do quizmaster**) que aparece apenas na [App Quizmaster](../quizmaster/001-introduction.md) no início da ronda. Usa-o para dar instruções ao quizmaster ou para acrescentar um toque pessoal.
 
 ---
 
 ## 📎 Anexos
 
-Melhora a tua ronda com multimédia mostrado em momentos específicos:
+Melhora a tua ronda com anexos mostrados em momentos específicos:
 
 - **Antes da ronda** - Mostrado depois da animação de introdução da ronda
 - **Depois da ronda** - Mostrado depois do encerramento da ronda

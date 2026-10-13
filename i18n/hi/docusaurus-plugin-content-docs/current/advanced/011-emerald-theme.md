@@ -68,11 +68,27 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 - backgroundColor
 - mainColor
 - accentColor
+- containerColor (सवाल का कंटेनर; इसमें अल्फ़ा वैल्यू भी हो सकती है, जैसे ffffff40)
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
+- dialogTextColor
+- pieChartLabelColor
+- ladderColor
 - optionColors (4 रंग, कॉमा से अलग किए हुए)
 - optionBorderColors (4 रंग, कॉमा से अलग किए हुए)
+
+खिलाड़ियों के डिवाइस को भी स्टाइल किया जा सकता है:
+
+- remoteBackgroundColor
+- remoteTextColor
+- remoteQuestionColor
+- remoteQuestionTextColor
+- remoteOptionOutlineColor
+- remoteOutlineColor
+- remoteContainerBackground
+- remoteContainerText
+- remoteOptionColors (4 रंग, कॉमा से अलग किए हुए)
 
 इसके अलावा, आप एक डिफ़ॉल्ट फ़ॉन्ट सेट कर सकते हो:
 
@@ -81,13 +97,30 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 
 ये फ़ॉन्ट सार्वजनिक रूप से उपलब्ध फ़ॉन्ट फ़ाइलों के URL होने चाहिए।
 
+आखिर में, `hideLogo=1` QuizWitz लोगो को छिपा देता है।
+
 इनमें से हर मॉडिफ़ायर में HTML hex फ़ॉर्मैट (ff0000) में एक रंग हो सकता है, या माइनस सिंबल से अलग किए गए कई रंग देकर एक लीनियर ग्रेडिएंट बनाया जा सकता है ( - उदाहरण के लिए ff1b6b-45caff)। (ध्यान दें कि # सिंबल नहीं जोड़ा जाना चाहिए।)
 
 :::note
-Query parameters की शुरुआत प्रश्न चिह्न ( ? से होनी चाहिए? ) और हर पैरामीटर को ampersand ( & ) से अलग किया जाना चाहिए। Query parameters के बारे में और जानकारी के लिए, [wikipedia](https://en.wikipedia.org/wiki/Query_string) पर जाएँ।
+Query parameters की शुरुआत प्रश्न चिह्न ( ? ) से होनी चाहिए और हर पैरामीटर को ampersand ( & ) से अलग किया जाना चाहिए। Query parameters के बारे में और जानकारी के लिए, [wikipedia](https://en.wikipedia.org/wiki/Query_string) पर जाएँ।
 :::
 
 इन पैरामीटर्स को अपने गेम URL में जोड़कर, आप थीम में रंग बदल सकते हो:  
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![कस्टम मॉडिफ़ायर्स के साथ Emerald थीम का स्क्रीनशॉट](/images/emerald/theme_properties.png)
+
+### मॉडिफ़ायर्स को अपने क्विज़ में सेव करना
+
+आपको हर लिंक में पैरामीटर्स हाथ से जोड़ने की ज़रूरत नहीं है। क्विज़ एडिटर में **शेयर या एम्बेड करें** खोलें, **उन्नत गेम विकल्प** को खोलें, पैरामीटर्स (शुरुआती प्रश्न चिह्न के बिना, जैसे `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) को **रॉ क्वेरी स्ट्रिंग** फ़ील्ड में पेस्ट करें और **सेटिंग्स क्विज़ में सेव करें** पर क्लिक करें। उसके बाद से क्विज़ के हर प्ले लिंक और शेयर लिंक में ये शामिल रहते हैं।
+
+QuizWitz AI असिस्टेंट भी यह आपके लिए कर सकता है: उससे अपने क्विज़ का बैकग्राउंड रंग बदलने को कहें, और वह क्विज़ को Emerald थीम पर बदलकर मॉडिफ़ायर्स सेव कर देगा।
+
+## कस्टम सवाल व्यू
+
+Emerald थीम उन सवालों के लिए दो अतिरिक्त स्क्रीन लेआउट भी देती है जिनके **सवाल के दौरान** स्लॉट में कोई इमेज या वीडियो हो। इन्हें हर सवाल के लिए अलग से, सवाल की सेटिंग्स में **कस्टम व्यू** विकल्प से चुना जाता है:
+
+- **फ़ुल स्क्रीन अटैचमेंट** - इमेज या वीडियो पूरी गेम स्क्रीन भर देता है, सवाल का टेक्स्ट और विकल्प नहीं दिखाए जाते
+- **टाइमर के बिना फ़ुल स्क्रीन अटैचमेंट** - वही, साथ में काउंटडाउन भी छिपा रहता है
+
+खिलाड़ी सवाल अपने डिवाइस पर पढ़ते हैं और वहीं जवाब देते हैं। ज़्यादा जानकारी के लिए [सवाल लिखना](../editor/005-writing-questions.md) देखें।

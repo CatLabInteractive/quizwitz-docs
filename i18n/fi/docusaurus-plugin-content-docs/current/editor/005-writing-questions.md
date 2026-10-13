@@ -55,6 +55,20 @@ Nämä kentät määräävät, mitä Quizmaster-sovelluksessa ja pelinäytöllä
 
 ---
 
+### 🖼️ Mukautettu näkymä
+
+Jotkin teemat voivat näyttää kysymyksen useammalla kuin yhdellä näyttöasettelulla. Kun visan teema tarjoaa niitä, kysymyksen asetuksiin tulee **Mukautettu näkymä** -valinta:
+
+- **Oletus** - Kysymysteksti, vastausvaihtoehdot ja liite jakavat näytön tavalliseen tapaan
+- **Liite koko näytöllä** - **Kysymyksen aikana** -paikan kuva tai video täyttää koko pelinäytön; kysymystekstiä ja vaihtoehtoja ei piirretä. Pelaajat lukevat kysymyksen ja vastaavat silti omalla laitteellaan. Sopii erinomaisesti *”Mikä tämä on?”* -kuvakysymyksiin ja videokysymyksiin.
+- **Liite koko näytöllä ilman ajastinta** - Sama, mutta myös lähtölaskenta on piilotettu *(Emerald-teema)*
+
+> ℹ️ Mukautettu näkymä muuttaa vain kysymystä, jonka **Kysymyksen aikana** -paikassa on kuva tai video. Se ei ole sama asia kuin **Näytä pelaajien laitteilla** (katso [liitteet](../editor/006-attachments.md)), joka peilaa kuvan pelaajien puhelimiin.
+
+📘 Käytettävissä olevat näkymät riippuvat teemasta - katso sivut [Emerald-teema](../advanced/011-emerald-theme.md) ja [teemat](../advanced/010-theming.md).
+
+---
+
 ## 📎 Liitteet
 
 ![Kysymyksen liitteet](/images/question-attachments.png)

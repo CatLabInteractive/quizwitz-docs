@@ -68,11 +68,27 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 - backgroundColor
 - mainColor
 - accentColor
+- containerColor (контейнер запитання; може мати значення альфа-каналу, наприклад ffffff40)
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
+- dialogTextColor
+- pieChartLabelColor
+- ladderColor
 - optionColors (4 кольори через кому)
 - optionBorderColors (4 кольори через кому)
+
+Також можна налаштувати вигляд пристроїв гравців:
+
+- remoteBackgroundColor
+- remoteTextColor
+- remoteQuestionColor
+- remoteQuestionTextColor
+- remoteOptionOutlineColor
+- remoteOutlineColor
+- remoteContainerBackground
+- remoteContainerText
+- remoteOptionColors (4 кольори через кому)
 
 Крім того, можна задати шрифт за замовчуванням:
 
@@ -80,6 +96,8 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 - headerFont
 
 Ці шрифти мають бути URL-адресами загальнодоступних файлів шрифтів.
+
+І нарешті, `hideLogo=1` приховує логотип QuizWitz.
 
 Кожен із цих модифікаторів може містити один колір у шістнадцятковому форматі HTML (ff0000) або лінійний градієнт, якщо вказати кілька кольорів, розділених знаком мінус ( - наприклад, ff1b6b-45caff). (Зверни увагу, що символ # додавати не потрібно.)
 
@@ -91,3 +109,18 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![Знімок екрана теми Emerald із власними модифікаторами](/images/emerald/theme_properties.png)
+
+### Збереження модифікаторів у квізі
+
+Не потрібно вручну додавати параметри до кожного посилання. Відкрий **Поділитися або вбудувати** в редакторі квізу, розгорни **Розширені параметри гри**, встав параметри (без знака питання на початку, наприклад `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) у поле **сирий рядок запиту** і натисни **Зберегти налаштування в квіз**. Відтепер кожне посилання на гру й кожне посилання для поширення квізу міститиме їх.
+
+AI-асистент QuizWitz теж може зробити це за тебе: попроси його змінити колір фону квізу, і він перемкне квіз на тему Emerald та збереже модифікатори.
+
+## Власні види запитань
+
+Тема Emerald також пропонує два додаткові макети екрана для запитання із зображенням або відео в слоті **Під час запитання**; їх вибирають для кожного запитання окремо параметром **Власний вигляд** у налаштуваннях запитання:
+
+- **Вкладення на весь екран** - зображення або відео заповнює весь екран гри, текст запитання й варіанти відповіді не показуються
+- **Вкладення на весь екран без таймера** - те саме, але зворотний відлік теж приховано
+
+Гравці читають запитання й відповідають на власних пристроях. Докладніше - у розділі [створення запитань](../editor/005-writing-questions.md).

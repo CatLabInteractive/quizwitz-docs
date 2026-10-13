@@ -68,11 +68,27 @@ Los modificadores disponibles son:
 - backgroundColor
 - mainColor
 - accentColor
+- containerColor (el contenedor de la pregunta; puede llevar un valor alfa, por ejemplo ffffff40)
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
+- dialogTextColor
+- pieChartLabelColor
+- ladderColor
 - optionColors (4 colores, separados por comas)
 - optionBorderColors (4 colores, separados por comas)
+
+Los dispositivos de los jugadores también se pueden personalizar:
+
+- remoteBackgroundColor
+- remoteTextColor
+- remoteQuestionColor
+- remoteQuestionTextColor
+- remoteOptionOutlineColor
+- remoteOutlineColor
+- remoteContainerBackground
+- remoteContainerText
+- remoteOptionColors (4 colores, separados por comas)
 
 Además, puedes establecer una fuente predeterminada:
 
@@ -80,6 +96,8 @@ Además, puedes establecer una fuente predeterminada:
 - headerFont
 
 Estas fuentes deben ser URLs a archivos de fuentes públicos disponibles.
+
+Por último, `hideLogo=1` oculta el logo de QuizWitz.
 
 Cada uno de estos modificadores puede contener un solo color en formato hexadecimal HTML (ff0000) o un degradado lineal indicando varios colores separados por un signo menos (por ejemplo, ff1b6b-45caff). (Ten en cuenta que el símbolo # no debe añadirse.)
 
@@ -91,3 +109,18 @@ Al añadir estos parámetros a la URL de tu juego, puedes modificar los colores 
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![Una captura de pantalla del tema Emerald con modificadores personalizados](/images/emerald/theme_properties.png)
+
+### Guardar los modificadores en tu quiz
+
+No tienes que añadir los parámetros a cada enlace a mano. Abre **Compartir o insertar** en el editor de quizzes, despliega **Opciones avanzadas de juego**, pega los parámetros (sin el signo de interrogación inicial, por ejemplo `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) en el campo **cadena de consulta sin procesar** y haz clic en **Guardar ajustes en el quiz**. A partir de entonces, todos los enlaces para jugar y para compartir el quiz los incluyen.
+
+El asistente de IA de QuizWitz también puede hacerlo por ti: pídele que cambie el color de fondo de tu quiz y pasará el quiz al tema Emerald y guardará los modificadores.
+
+## Vistas de pregunta personalizadas
+
+El tema Emerald también ofrece dos diseños de pantalla adicionales para una pregunta con una imagen o un vídeo en su ranura **Durante la pregunta**, que se eligen para cada pregunta con la opción **Vista personalizada** en los ajustes de la pregunta:
+
+- **Adjunto a pantalla completa** - la imagen o el vídeo ocupa toda la pantalla de juego; el texto de la pregunta y las opciones no se muestran
+- **Adjunto a pantalla completa sin temporizador** - lo mismo, pero también se oculta la cuenta atrás
+
+Los jugadores leen la pregunta y responden en sus propios dispositivos. Consulta [escribir preguntas](../editor/005-writing-questions.md) para más detalles.

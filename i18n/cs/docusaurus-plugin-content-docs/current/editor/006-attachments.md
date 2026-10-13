@@ -38,7 +38,15 @@ Každá příloha může mít název a volitelné uvedení autora/zdroje:
 - **Název** - Zobrazuje se quizmasterovi v [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); pomáhá s organizací příloh
 - **Uvedení zdroje** - Zobrazuje se hráčům jako informace o autorství nebo zdroji. Mělo by jít o **jméno držitele práv**.
 
-> ⚠️ Aby bylo možné **publikovat** Round-About nebo Quiz, **všechny přílohy musí mít vyplněné platné uvedení autora/zdroje**. Bez toho nelze tvůj záznam zveřejnit.
+> ⚠️ Aby bylo možné **publikovat** Round-About nebo Quiz, **všechny přílohy musí mít vyplněné platné uvedení autora/zdroje**. Bez toho ho nelze zveřejnit.
+
+---
+
+## 📱 Zobrazit na zařízeních hráčů
+
+Obrázky zobrazené mezi obrazovkami - před otázkou nebo po ní, před zpětnou vazbou nebo po ní a před kolem nebo po něm - se mohou zobrazit i na **zařízeních hráčů**, nejen na herní obrazovce. Stačí u přílohy zaškrtnout **Zobrazit na zařízeních hráčů**.
+
+> ℹ️ Platí to jen pro obrázky. Obrázek ve slotu **Během otázky** se nikdy nezrcadlí: hráči ho vidí na herní obrazovce. Pokud chceš, aby tento obrázek vyplnil herní obrazovku, použij **Vlastní zobrazení** otázky (viz [psaní otázek](../editor/005-writing-questions.md)).
 
 ---
 

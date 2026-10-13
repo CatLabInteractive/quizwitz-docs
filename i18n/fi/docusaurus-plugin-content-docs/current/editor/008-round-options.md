@@ -56,9 +56,19 @@ Nämä pisteytysasetukset löytyvät kierroksen asetuspaneelista kierrosta muoka
 
 ---
 
+## 💬 Kierroksen selitys
+
+Jotkin kierrostyypit ja pisteytysasetukset näyttävät pelinäytöllä lyhyen selityksen ennen ensimmäistä kysymystä, esimerkiksi *”Vastaa peräkkäisiin kysymyksiin oikein, niin nouset korkeammalle tasolle ja saat bonuspisteitä.”*, kun kierros käyttää Strike-pisteytystä. Napsauta kierroksen alussa **+ Kierroksen selitys**, jos haluat korvata tekstin omallasi. Voit käyttää sitä myös tavallisen Trivia-kierroksen selittämiseen, sillä sillä ei oletuksena ole selitystä.
+
+- Jätä kenttä tyhjäksi, jos haluat säilyttää kierrostyypin oletusselityksen.
+- Kierroksen selitys käännetään kuten mikä tahansa muu teksti: lisää se visasi jokaiselle kielelle.
+- Kun visamestari juontaa visan, pelinäyttö ohittaa kierroksen selityksen. Käytä sen sijaan alla olevaa visamestarin käsikirjoitusta.
+
+---
+
 ## 📜 Visamestarin ohjeet
 
-Voit lisätä oman **kierroksen esittelytekstin**, joka näkyy kierroksen alussa vain [Quizmaster-sovelluksessa](../quizmaster/001-introduction.md). Tämän avulla voit perehdyttää visamestarin tai lisätä henkilökohtaisen kosketuksen.
+Voit lisätä oman **kierroksen esittelytekstin** (**visamestarin käsikirjoitus**), joka näkyy kierroksen alussa vain [Quizmaster-sovelluksessa](../quizmaster/001-introduction.md). Tämän avulla voit perehdyttää visamestarin tai lisätä henkilökohtaisen kosketuksen.
 
 ---
 

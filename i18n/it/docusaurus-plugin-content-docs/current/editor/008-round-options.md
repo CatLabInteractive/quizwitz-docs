@@ -56,15 +56,25 @@ Queste opzioni di punteggio si trovano nel pannello delle opzioni del round quan
 
 ---
 
+## 💬 Spiegazione del round
+
+Alcuni tipi di round e opzioni di punteggio mostrano una breve spiegazione sullo schermo di gioco prima della prima domanda, per esempio *"Rispondi correttamente a domande consecutive per raggiungere livelli più alti e ottenere punti bonus."* quando un round usa il punteggio Strike. Fai clic su **+ Spiegazione del round** nell'apertura del round per sostituire quel testo con il tuo. Puoi usarla anche per spiegare un normale round di trivia, che di default non ha una spiegazione.
+
+- Lascia il campo vuoto per mantenere la spiegazione predefinita del tipo di round.
+- La spiegazione del round si traduce come qualsiasi altro testo: aggiungila in ogni lingua del tuo quiz.
+- Quando un quizmaster presenta il quiz, lo schermo di gioco salta la spiegazione del round. In quel caso usa lo script del quizmaster descritto qui sotto.
+
+---
+
 ## 📜 Istruzioni per il quizmaster
 
-Puoi aggiungere un **testo di introduzione arrotondato** personalizzato che apparirà solo sull'[Quizmaster App](../quizmaster/001-introduction.md) all'inizio del round. Usalo per descrivere il quizmaster o aggiungere un tocco personale.
+Puoi aggiungere un **testo di introduzione del round** personalizzato (lo **script del quizmaster**) che apparirà solo nella [Quizmaster App](../quizmaster/001-introduction.md) all'inizio del round. Usalo per dare indicazioni al quizmaster o per aggiungere un tocco personale.
 
 ---
 
 ## 📎 Allegati
 
-Arricchisci il tuo round con contenuti multimediali mostrati in momenti specifici:
+Arricchisci il tuo round con allegati mostrati in momenti specifici:
 
 - **Prima del round** - Mostrato dopo l’animazione di intro del round
 - **Dopo il round** - Mostrato dopo l’outro del round
