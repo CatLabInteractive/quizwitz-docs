@@ -21,7 +21,7 @@ Na kartě **knihovna QuizWitz** můžeš vyhledávat a importovat otázky, kola 
 1. Otevři kolo, do kterého chceš importovat obsah
 2. Klikni na kartu **knihovna QuizWitz**
 3. Použij filtry jako jazyk, kolekce, typ, kategorie nebo štítky
-4. Vyber jednu nebo více položek
+4. Select one or more items
 5. Kliknutím na **Přidat X položek** vložíš vybraný obsah do svého kvízu
 
 ![Knihovna QuizWitz](/images/import/import-from-quizwitz.png)
