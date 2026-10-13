@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: Спільна нитка
+title: Common Thread
 ---
 
 # 🧵 Спільна нитка
