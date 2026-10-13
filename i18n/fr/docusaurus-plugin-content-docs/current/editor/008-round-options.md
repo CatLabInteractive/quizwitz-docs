@@ -74,7 +74,7 @@ You can add a custom **round introduction text** (the **Quizmaster script**) tha
 
 ## 📎 Pièces jointes
 
-Améliorez votre manche avec des médias affichés à des moments spécifiques :
+Enhance your round with attachments shown at specific moments:
 
 - **Avant la manche** - Affiché après l’animation d’intro de la manche
 - **Après la manche** - Affiché après l’outro de la manche
