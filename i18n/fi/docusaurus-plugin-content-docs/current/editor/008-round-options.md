@@ -74,7 +74,7 @@ You can add a custom **round introduction text** (the **Quizmaster script**) tha
 
 ## 📎 Liitteet
 
-Rikasta kierrostasi liitteillä, jotka näytetään tietyillä hetkillä:
+Enhance your round with attachments shown at specific moments:
 
 - **Ennen kierrosta** - Näytetään kierroksen intro-animaation jälkeen
 - **Kierroksen jälkeen** - Näytetään kierroksen lopetuksen jälkeen
