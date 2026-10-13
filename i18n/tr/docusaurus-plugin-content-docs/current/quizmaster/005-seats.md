@@ -60,7 +60,7 @@ Tek seferlik veya ara sıra düzenlenen etkinlikler için lisans satın almak ye
 
 - **Pay-as-you-go Seats**, etkinleştirildikten sonra **48 saat** boyunca aktif kalır.
 - Bu süre içinde şunları yapabilirsin:
-  - **Birden fazla quiz veya oyun** yönet
+  - Run **multiple quizzes or games**
   - Quizini daha büyük gruplarla **test et**
   - Bir hafta sonu boyunca **birkaç gün süren etkinlikler** düzenle
 
