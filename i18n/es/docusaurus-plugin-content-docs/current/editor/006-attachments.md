@@ -38,7 +38,15 @@ Cada archivo adjunto puede tener un nombre y una atribución opcional:
 - **Nombre** - Se muestra al quizmaster en [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); ayuda a organizar archivos adjuntos
 - **Atribución** - Se muestra a los jugadores como crédito o información de la fuente. Esto debería ser el **nombre del titular de los derechos**.
 
-> ⚠️ Para **publicar** un Round-About o Quiz, **todos los archivos adjuntos deben tener una atribución válida** completa. Sin esto, tu elemento no podrá hacerse público.
+> ⚠️ Para **publicar** un Round-About o Quiz, **todos los archivos adjuntos deben tener una atribución válida** completa. Without this, it cannot be made public.
+
+---
+
+## 📱 Show on player devices
+
+Images shown between screens - before or after a question, before or after its feedback, and before or after a round - can also be shown on the **players' devices**, not only on the game screen. Tick **Show on player devices** on the attachment to do so.
+
+> ℹ️ This applies to images only. An image in the **During question** slot is never mirrored: players see it on the game screen. To make that image fill the game screen instead, use the question's **Custom view** (see [writing questions](../editor/005-writing-questions.md)).
 
 ---
 
