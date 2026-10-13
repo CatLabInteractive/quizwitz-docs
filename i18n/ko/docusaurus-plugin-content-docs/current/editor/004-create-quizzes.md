@@ -89,7 +89,7 @@ title: 퀴즈 만들기
 퀴즈 전체를 처음부터 끝까지 시뮬레이션해 보고 싶으신가요? 고급 테스트 도구를 사용하세요.
 
 - **시뮬레이션** - 봇으로 테스트 플레이를 실행합니다(프레젠테이션 없음)
-- **라이브 시뮬레이션** - 퀴즈마스터, 심사위원, 플레이어 화면을 포함해 봇으로 [QuizWitz Live](../quizmaster/001-introduction.md) 게임 전체를 시뮬레이션합니다
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) game with bots, including quizmaster, jury, and player views
 
 ---
 
