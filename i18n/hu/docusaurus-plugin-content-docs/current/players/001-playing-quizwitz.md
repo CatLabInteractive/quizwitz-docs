@@ -80,7 +80,7 @@ Amikor készen állsz:
 
 Válassz:
 
-- **Játékmód** - Egyjátékos vagy Party játék
+- **Game mode** - Single player or Party Game
 - **Mely Round-Abouts** kerüljenek be a játékmenetedbe
 
 A QuizWitz megpróbálja kihagyni azokat a kérdéseket, amelyeket már láttál.
@@ -93,7 +93,7 @@ A QuizWitz megpróbálja kihagyni azokat a kérdéseket, amelyeket már láttál
 
 Amint elindul a játék, válaszd ki a módot:
 
-### 🎮 Egyjátékos
+### 🎮 Single player
 
 - Kattints a **Start** gombra, majd válaszd az **Egyjátékos** módot
 - A válaszadáshoz használd az egeret, a billentyűzetet vagy az érintőképernyőt
