@@ -24,7 +24,7 @@ Se usar um telemóvel ou tablet for a tua única opção, segue estes passos par
 ### 🎞️ Teste fragmentos de áudio e vídeo
 
 - Se o teu quiz incluir **áudio ou vídeo**, testa com antecedência
-- Alguns dispositivos podem **ter dificuldade com arquivos de mídia grandes** ou nem reproduzi-los
+- Some devices may **struggle with large attachments** or not play them at all
 - Tem cuidado especial com **dispositivos mais antigos** ou navegadores móveis predefinidos
 
 ---
