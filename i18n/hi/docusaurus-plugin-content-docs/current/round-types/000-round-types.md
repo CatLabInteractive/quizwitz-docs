@@ -30,7 +30,7 @@ title: राउंड प्रकार
 ये राउंड प्रकार हर राउंड के बाद "पेपर जमा करने" जैसा अनुभव देते हैं।
 
 - [पारंपरिक](030-traditional.md)
-- [पारंपरिक - साझा सूत्र](031-traditional-ct.md)
+- [Traditional - Common Thread](031-traditional-ct.md)
 - [अल्फ़ाबेट](032-alphabet.md)
 
 ## 🎉 लाइव इवेंट्स
