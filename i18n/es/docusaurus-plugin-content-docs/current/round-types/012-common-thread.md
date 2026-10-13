@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: Hilo común
+title: Common Thread
 ---
 
 # 🧵 Hilo común
