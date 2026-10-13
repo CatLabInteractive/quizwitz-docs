@@ -21,7 +21,7 @@ QuizWitz에서 라운드에 문제를 빠르게 추가하는 방법은 두 가�
 1. 콘텐츠를 가져올 라운드를 여세요
 2. **QuizWitz 라이브러리** 탭을 클릭하세요
 3. 언어, 컬렉션, 유형, 카테고리, 태그 같은 필터를 사용하세요
-4. 항목을 하나 이상 선택하세요
+4. Select one or more items
 5. **항목 X개 추가**를 클릭하여 선택한 콘텐츠를 퀴즈에 넣으세요
 
 ![QuizWitz 라이브러리](/images/import/import-from-quizwitz.png)
