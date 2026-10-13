@@ -30,7 +30,7 @@ For alle som vil arrangere tradisjonelle pubquizer der spillerne kan endre svare
 Disse rundetypene simulerer at man «leverer inn svararkene» etter hver runde.
 
 - [Tradisjonell](030-traditional.md)
-- [Tradisjonell - Rød tråd](031-traditional-ct.md)
+- [Traditional - Common Thread](031-traditional-ct.md)
 - [Alfabet](032-alphabet.md)
 
 ## 🎉 Live-arrangementer
