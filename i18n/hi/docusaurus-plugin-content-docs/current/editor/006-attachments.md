@@ -38,7 +38,15 @@ title: अटैचमेंट
 - **नाम** - [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) में क्विज़मास्टर को दिखाया जाता है; अटैचमेंट को व्यवस्थित करने में मदद करता है
 - **एट्रिब्यूशन** - खिलाड़ियों को श्रेय या स्रोत जानकारी के रूप में दिखाया जाता है। यह **अधिकार धारक का नाम** होना चाहिए।
 
-> ⚠️ किसी Round-About या क्विज़ को **प्रकाशित** करने के लिए, **सभी अटैचमेंट में वैध क्रेडिट** भरा होना चाहिए। इसके बिना, आपकी एंट्री सार्वजनिक नहीं की जा सकती।
+> ⚠️ किसी Round-About या क्विज़ को **प्रकाशित** करने के लिए, **सभी अटैचमेंट में वैध क्रेडिट** भरा होना चाहिए। Without this, it cannot be made public.
+
+---
+
+## 📱 Show on player devices
+
+Images shown between screens - before or after a question, before or after its feedback, and before or after a round - can also be shown on the **players' devices**, not only on the game screen. Tick **Show on player devices** on the attachment to do so.
+
+> ℹ️ This applies to images only. An image in the **During question** slot is never mirrored: players see it on the game screen. To make that image fill the game screen instead, use the question's **Custom view** (see [writing questions](../editor/005-writing-questions.md)).
 
 ---
 
