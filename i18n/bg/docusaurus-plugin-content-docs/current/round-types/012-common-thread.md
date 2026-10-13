@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: Обща нишка
+title: Common Thread
 ---
 
 # 🧵 Обща нишка
