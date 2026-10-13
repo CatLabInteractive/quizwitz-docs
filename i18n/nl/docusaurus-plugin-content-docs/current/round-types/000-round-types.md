@@ -30,7 +30,7 @@ Voor iedereen die traditionele kroegquizzen wil organiseren, waarbij spelers hun
 Deze rondetypes simuleren het "inleveren van de antwoordbladen" na elke ronde.
 
 - [Traditioneel](030-traditional.md)
-- [Traditioneel - Rode draad](031-traditional-ct.md)
+- [Traditional - Common Thread](031-traditional-ct.md)
 - [Alfabet](032-alphabet.md)
 
 ## 🎉 Live evenementen
