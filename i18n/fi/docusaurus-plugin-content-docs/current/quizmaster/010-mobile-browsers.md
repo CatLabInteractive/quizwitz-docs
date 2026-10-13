@@ -24,7 +24,7 @@ Jos puhelin tai tabletti on ainoa vaihtoehtosi, pienennä teknisten ongelmien ri
 ### 🎞️ Testaa ääni- ja videokatkelmat
 
 - Jos visassasi on **ääntä tai videota**, testaa ne etukäteen
-- Joillakin laitteilla voi olla **vaikeuksia suurten mediatiedostojen kanssa**, tai ne eivät toista niitä lainkaan
+- Some devices may **struggle with large attachments** or not play them at all
 - Ole erityisen varovainen **vanhempien laitteiden** tai mobiililaitteiden oletusselainten kanssa
 
 ---
