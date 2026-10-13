@@ -89,7 +89,7 @@ title: Създаване на куизове
 Искаш да симулираш пълно преминаване през куиза? Използвай разширените инструменти за тестване:
 
 - **Simulate** - Стартирай тестово изиграване с ботове (без презентация)
-- **Simulate Live** - Симулирай пълна игра с [QuizWitz Live](../quizmaster/001-introduction.md) с ботове, включително изгледите за quizmaster, жури и играч
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) game with bots, including quizmaster, jury, and player views
 
 ---
 
