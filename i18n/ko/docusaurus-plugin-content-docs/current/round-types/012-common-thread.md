@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: 연결고리
+title: Common Thread
 ---
 
 # 🧵 연결고리
