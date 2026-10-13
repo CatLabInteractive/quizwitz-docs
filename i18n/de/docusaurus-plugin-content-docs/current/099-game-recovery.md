@@ -12,13 +12,13 @@ Ist dein Spiel eingefroren? Wurde der Tab versehentlich geschlossen? [**QuizWitz
 
 ## 🔄 Wie die Spiel-Wiederherstellung funktioniert
 
-Wenn dein Spiel abstürzt, hängen bleibt oder aus irgendeinem Grund unterbrochen wird - sei es durch ein Browserproblem, Systemneustart oder versehentliches Schließen des Tabs - kannst du das Spiel einfach fortsetzen.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the game easily.
 
 Öffne einfach **denselben Browser-Tab neu**, mit dem du den **Spielbildschirm** angezeigt hast. Dies ist der Bildschirm, den du für dein Publikum projizierst oder streamst.
 
 Wenn er geladen ist:
 
-- Du wirst aufgefordert, die vorherige Sitzung **fortzusetzen** oder eine **neue zu starten**
+- You’ll be prompted to **resume the previous game** or **start a new one**
 - Wenn du dich für Fortsetzen entscheidest, stellt das Spiel deinen Fortschritt so genau wie möglich wieder her
 
 ---
@@ -38,7 +38,7 @@ Wähle **„Spiel fortsetzen“**, um:
 
 Du kannst auch wählen, stattdessen **ein neues Spiel zu starten**.
 
-- Dies wird die vorherige Sitzung vollständig **löschen**
+- This will completely **clear the previous game**
 - Du startest am Anfang der Quiz-Einrichtung neu
 
 > ⚠️ Wähle dies nur, wenn du sicher bist, dass du das bestehende Spiel nicht fortsetzen möchtest.
