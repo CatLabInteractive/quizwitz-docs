@@ -74,7 +74,7 @@ You can add a custom **round introduction text** (the **Quizmaster script**) tha
 
 ## 📎 Csatolmányok
 
-Dobd fel a körödet médiával, amely meghatározott pillanatokban jelenik meg:
+Enhance your round with attachments shown at specific moments:
 
 - **Forduló előtt** - A fordulóbevezető animáció után jelenik meg
 - **Forduló után** - A fordulólezáró után jelenik meg
