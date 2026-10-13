@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: Společné téma
+title: Common Thread
 ---
 
 # 🧵 Společné téma
