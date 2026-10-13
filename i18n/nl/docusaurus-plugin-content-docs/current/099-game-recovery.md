@@ -12,13 +12,13 @@ Is je spel vastgelopen? Is het tabblad per ongeluk gesloten? [**QuizWitz Live**]
 
 ## 🔄 Hoe spelherstel werkt
 
-Als je spel crasht, vastloopt of om welke reden dan ook wordt onderbroken - of dat nu door een browserprobleem, een herstart van het systeem of het per ongeluk sluiten van een tabblad is - dan kun je het spel makkelijk hervatten.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the game easily.
 
 **Open gewoon hetzelfde browsertabblad opnieuw** waarin je het **spelscherm** toonde. Dit is het scherm dat je projecteert of streamt naar je publiek.
 
 Wanneer het geladen is:
 
-- Je krijgt de optie om de vorige sessie **te hervatten** of **een nieuwe te starten**
+- You’ll be prompted to **resume the previous game** or **start a new one**
 - Als je kiest om te hervatten, dan wordt je voortgang zo goed mogelijk hersteld.
 
 ---
@@ -38,7 +38,7 @@ Selecteer **"Spel hervatten"** om:
 
 Je kunt ook kiezen om **een nieuw spel te starten**.
 
-- Dit zal de vorige sessie volledig **wissen**
+- This will completely **clear the previous game**
 - Je keert terug naar de start van de quizinstelling
 
 > ⚠️ Kies dit alleen als je zeker weet dat je het bestaande spel niet verder wilt spelen.
