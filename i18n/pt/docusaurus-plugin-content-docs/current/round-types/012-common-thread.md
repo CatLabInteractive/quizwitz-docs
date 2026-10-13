@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: Fio condutor
+title: Common Thread
 ---
 
 # 🧵 Fio condutor
