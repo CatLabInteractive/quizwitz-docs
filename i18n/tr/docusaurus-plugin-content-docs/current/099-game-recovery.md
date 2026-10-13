@@ -12,13 +12,13 @@ Oyunun dondu mu? Sekme yanlışlıkla mı kapandı? [**QuizWitz Live**](quizmast
 
 ## 🔄 Oyun kurtarma nasıl çalışır?
 
-Oyunun çökerse, takılırsa veya herhangi bir nedenle kesintiye uğrarsa - ister tarayıcı sorunu, ister sistemin yeniden başlatılması, ister sekmenin yanlışlıkla kapanması olsun - oyuna kolayca devam edebilirsin.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the game easily.
 
 **Oyun ekranını** göstermek için kullandığın **aynı tarayıcı sekmesini yeniden açman** yeterli. Bu, izleyicilerine yansıttığın veya yayınladığın ekrandır.
 
 Yüklendiğinde:
 
-- **Önceki oyuna devam etmen** ya da **yeni bir oyun başlatman** istenir
+- You’ll be prompted to **resume the previous game** or **start a new one**
 - Devam etmeyi seçersen oyun, ilerlemeni olabildiğince eksiksiz geri yükler
 
 ---
@@ -38,7 +38,7 @@ Yüklendiğinde:
 
 Bunun yerine **yeni bir oyun başlatmayı** da seçebilirsin.
 
-- Bu, **önceki oyunu tamamen siler**
+- This will completely **clear the previous game**
 - Quiz kurulumunun başına dönersin
 
 > ⚠️ Bunu yalnızca mevcut oyuna devam etmek istemediğinden eminsen seç.
