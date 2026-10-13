@@ -21,7 +21,7 @@ Usa la pestaña **QuizWitz Library** para buscar e importar preguntas, rondas o 
 1. Abre la ronda donde quieres importar contenido
 2. Haz clic en la pestaña **QuizWitz Library**
 3. Usa filtros como idioma, colección, tipo, categoría o etiquetas
-4. Selecciona uno o más elementos
+4. Select one or more items
 5. Haz clic en **Añadir X elementos** para insertar el contenido seleccionado en tu quiz
 
 ![QuizWitz Library](/images/import/import-from-quizwitz.png)
