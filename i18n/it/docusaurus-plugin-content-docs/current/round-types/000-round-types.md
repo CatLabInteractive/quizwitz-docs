@@ -30,7 +30,7 @@ Per chiunque voglia organizzare pub quiz tradizionali in cui i giocatori possono
 Questi tipi di round simulano la "consegna dei fogli" dopo ogni round.
 
 - [Tradizionale](030-traditional.md)
-- [Tradizionale - Filo conduttore](031-traditional-ct.md)
+- [Traditional - Common Thread](031-traditional-ct.md)
 - [Alfabeto](032-alphabet.md)
 
 ## 🎉 Eventi live
