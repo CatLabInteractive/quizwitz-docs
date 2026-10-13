@@ -30,7 +30,7 @@ Mindenkinek, aki hagyományos pubkvízeket szeretne szervezni, ahol a játékoso
 Ezek a fordulótípusok azt szimulálják, mintha minden forduló után „beadnák a papírokat”.
 
 - [Hagyományos](030-traditional.md)
-- [Hagyományos - Közös szál](031-traditional-ct.md)
+- [Traditional - Common Thread](031-traditional-ct.md)
 - [Ábécé](032-alphabet.md)
 
 ## 🎉 Élő események
