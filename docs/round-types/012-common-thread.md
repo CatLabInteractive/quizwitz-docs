@@ -1,6 +1,6 @@
 ---
 id: common-thread
-title: Common thread
+title: Common Thread
 ---
 
 # 🧵 Common Thread

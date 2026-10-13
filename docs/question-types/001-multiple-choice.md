@@ -43,6 +43,6 @@ See [writing questions](../editor/005-writing-questions.md) for a general overvi
 
 - **Be clear and concise:** Avoid ambiguous wording.
 - **Use plausible wrong answers:** Make distractors believable.
-- **Mix media:** Add images, flags, or sounds for engagement.
+- **Mix attachments:** Add images, flags, or sounds for engagement.
 - **Randomize order:** Keep things fair for all players.
 - **Tag and categorize:** For easy navigation and searchability.

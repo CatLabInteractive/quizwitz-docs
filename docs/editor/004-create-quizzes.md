@@ -89,7 +89,7 @@ When you're ready to test or run your quiz, press the **Start Quiz** button. You
 Want to simulate a full quiz run-through? Use the advanced testing tools:
 
 - **Simulate** - Run a test playthrough with bots (no presentation)
-- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) session with bots, including Quizmaster, Jury, and Player views
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) game with bots, including quizmaster, jury, and player views
 
 ---
 

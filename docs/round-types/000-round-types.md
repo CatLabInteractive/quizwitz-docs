@@ -30,7 +30,7 @@ For anyone who wants to organize traditional pub quizzes where players can chang
 These round types simulate "handing in the papers" after each round.
 
 - [Traditional](030-traditional.md)
-- [Traditional - Common thread](031-traditional-ct.md)
+- [Traditional - Common Thread](031-traditional-ct.md)
 - [Alphabet](032-alphabet.md)
 
 ## 🎉 Live events

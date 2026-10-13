@@ -80,7 +80,7 @@ When you're ready:
 
 Choose:
 
-- **Game mode** - Single Player or Party Game
+- **Game mode** - Single player or Party Game
 - **Which Round-Abouts** to include in your session
 
 QuizWitz will try to skip questions you've already seen.
@@ -93,7 +93,7 @@ QuizWitz will try to skip questions you've already seen.
 
 Once your game starts, choose your mode:
 
-### 🎮 Single Player
+### 🎮 Single player
 
 - Click **Start**, then choose **Single Player**
 - Use your mouse, keyboard, or touchscreen to answer
