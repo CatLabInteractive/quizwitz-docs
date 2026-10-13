@@ -89,7 +89,7 @@ När du är redo att testa eller köra ditt quiz trycker du på knappen **Starta
 Vill du simulera en fullständig genomkörning av quizet? Använd de avancerade testverktygen:
 
 - **Simulera** - Kör en testomgång med bottar (ingen presentation)
-- **Simulera Live** - Simulera ett fullständigt spel i [QuizWitz Live](../quizmaster/001-introduction.md) med bottar, inklusive vyerna för quizmaster, jury och spelare
+- **Simulate Live** - Simulate a full [QuizWitz Live](../quizmaster/001-introduction.md) game with bots, including quizmaster, jury, and player views
 
 ---
 
