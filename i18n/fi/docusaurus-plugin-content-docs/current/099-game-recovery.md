@@ -12,13 +12,13 @@ Jumittuiko pelisi? Sulkeutuiko välilehti vahingossa? [**QuizWitz Live**](quizma
 
 ## 🔄 Näin pelin palautus toimii
 
-Jos pelisi kaatuu, jumittuu tai keskeytyy mistä tahansa syystä - oli kyse selainongelmasta, järjestelmän uudelleenkäynnistyksestä tai välilehden vahingossa sulkemisesta - voit jatkaa istuntoa helposti.
+If your game crashes, hangs, or is interrupted for any reason - whether it’s a browser issue, system restart, or accidental tab closure - you can resume the game easily.
 
 **Avaa uudelleen sama selaimen välilehti**, jolla näytit **pelinäyttöä**. Tämä on näyttö, jonka heijastat tai striimaat yleisöllesi.
 
 Kun se latautuu:
 
-- Sinulta kysytään, haluatko **jatkaa edellistä istuntoa** vai **aloittaa uuden**
+- You’ll be prompted to **resume the previous game** or **start a new one**
 - Jos päätät jatkaa, peli palauttaa edistymisesi mahdollisimman tarkasti
 
 ---
@@ -38,7 +38,7 @@ Valitse **”Jatka peliä”**, niin voit:
 
 Voit myös valita sen sijaan **Aloita uusi peli**.
 
-- Tämä **tyhjentää edellisen istunnon** kokonaan
+- This will completely **clear the previous game**
 - Palaat visan asetusten alkuun
 
 > ⚠️ Valitse tämä vain, jos olet varma, ettet halua jatkaa nykyistä peliä.
