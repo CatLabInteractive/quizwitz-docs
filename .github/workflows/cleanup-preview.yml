@@ -1,0 +1,57 @@
+name: Cleanup PR Preview
+
+on:
+    pull_request:
+        types: [closed]
+
+# Same group as the pull request's build in ci.yml: closing the pull request
+# cancels a build that is still running, which would otherwise deploy its
+# preview after this cleanup and leave it behind for good.
+concurrency:
+    group: ci-${{ github.event.pull_request.number }}-build
+    cancel-in-progress: true
+
+jobs:
+    cleanup:
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+
+        steps:
+            - name: Checkout gh-pages branch
+              id: checkout
+              uses: actions/checkout@v4
+              with:
+                  ref: gh-pages
+              continue-on-error: true
+
+            - name: Remove PR preview directory
+              if: steps.checkout.outcome == 'success'
+              run: |
+                  PR_NUMBER=${{ github.event.pull_request.number }}
+                  git config user.name "github-actions[bot]"
+                  git config user.email "github-actions[bot]@users.noreply.github.com"
+
+                  # Other cleanups and the preview deploys push to gh-pages
+                  # too. A rejected push used to leave the preview behind for good, so
+                  # redo the removal on the new tip instead.
+                  for attempt in 1 2 3 4 5; do
+                      if [ ! -d "pr-${PR_NUMBER}" ]; then
+                          echo "No preview directory found for PR #${PR_NUMBER}"
+                          exit 0
+                      fi
+
+                      git rm -rf --quiet "pr-${PR_NUMBER}"
+                      git commit --quiet -m "Remove preview for PR #${PR_NUMBER}"
+                      if git push origin HEAD:gh-pages; then
+                          exit 0
+                      fi
+
+                      echo "Push rejected (attempt ${attempt}), retrying on the new tip"
+                      sleep $((attempt * 5))
+                      git fetch --depth=1 origin gh-pages
+                      git reset --hard --quiet FETCH_HEAD
+                  done
+
+                  echo "Could not remove the preview for PR #${PR_NUMBER}"
+                  exit 1
