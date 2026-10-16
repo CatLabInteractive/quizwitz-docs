@@ -1,6 +1,6 @@
 // The docs site has no blog (blog: false), but `docusaurus write-translations`
 // still emits the classic theme's theme.blog.* keys into code.json. Strip them
-// so they are not uploaded to Crowdin, where every string counts towards the plan.
+// so nobody has to translate them.
 import { readdirSync, readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 

@@ -52,12 +52,11 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: ({locale, versionDocsDirPath, docPath}) => {
-            // Link to Crowdin for French docs
+            // Translations live in this repo, next to the English source.
             if (locale !== 'en') {
-              return `https://crowdin.com/project/quizwitz-documentation/${locale}`;
+              return `https://github.com/catlabinteractive/quizwitz-docs/edit/main/i18n/${locale}/docusaurus-plugin-content-docs/current/${docPath}`;
             }
-            // Link to GitHub for English docs
-            return `https://github.com/catlabinteractive/quizwitz-docs/edit/main/website/${versionDocsDirPath}/${docPath}`;
+            return `https://github.com/catlabinteractive/quizwitz-docs/edit/main/${versionDocsDirPath}/${docPath}`;
           },
         },
         // The blog lives on www.quizwitz.com/blog; the docs site has none.
