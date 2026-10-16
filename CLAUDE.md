@@ -6,9 +6,9 @@ Guidance for Claude Code when working in this repository.
 
 The rules for working on QuizWitz are kept in the sibling repo `../quizwitz-strategy` (checked out at `~/Workbench/quizwitz-strategy`). Read them before changing anything here:
 
-- `../quizwitz-strategy/CLAUDE.md` — how the repos fit together, git workflow, analysis rules.
-- `../quizwitz-strategy/strategy/context.md` — business context and the role of this repo (docs.quizwitz.com).
-- `../quizwitz-strategy/strategy/i18n/style-guide.md` and `glossary.md` — casing, banned words (for example "media" → attachment, "big screen" → game screen), protected terms and per-language rules. Every user-facing string in `docs/` follows them.
+- `../quizwitz-strategy/CLAUDE.md` - how the repos fit together, git workflow, analysis rules.
+- `../quizwitz-strategy/strategy/context.md` - business context and the role of this repo (docs.quizwitz.com).
+- `../quizwitz-strategy/strategy/i18n/style-guide.md` and `glossary.md` - casing, banned words (for example "media" → attachment, "big screen" → game screen), protected terms and per-language rules. Every user-facing string in `docs/` follows them.
 
 ## This repo
 
