@@ -43,7 +43,7 @@ Přizpůsob, jak se otázka chová během hraní:
 
 ---
 
-### 🎤 Quizmaster content
+### 🎤 Obsah pro quizmastera
 
 Tato pole určují to, co se objeví na Quizmaster aplikaci a obrazovce hry:
 
@@ -52,6 +52,20 @@ Tato pole určují to, co se objeví na Quizmaster aplikaci a obrazovce hry:
 - **Quizmaster - Dlouhá zpětná vazba** - Text, který může quizmaster přečíst po odhalení správné odpovědi
 
 > 📝 Tato pole pomáhají, aby živé prezentace působily dynamicky a uhlazeně.
+
+---
+
+### 🖼️ Vlastní zobrazení
+
+Některé motivy umí zobrazit otázku ve více než jednom rozvržení obrazovky. Pokud je motiv kvízu nabízí, objeví se v nastavení otázky volba **Vlastní zobrazení**:
+
+- **Výchozí** - Text otázky, možnosti odpovědí a příloha sdílejí obrazovku jako obvykle
+- **Příloha přes celou obrazovku** - Obrázek nebo video ve slotu **Během otázky** vyplní celou herní obrazovku; text otázky a možnosti se nevykreslí. Hráči si otázku dál čtou a odpovídají na svém zařízení. Ideální pro obrázkové otázky typu *„Co je to?“* a pro otázky s videem.
+- **Příloha přes celou obrazovku bez časovače** - Totéž, navíc se skryje i odpočet *(motiv Emerald)*
+
+> ℹ️ Vlastní zobrazení mění jen otázku, která má obrázek nebo video ve slotu **Během otázky**. Není to totéž jako **Zobrazit na zařízeních hráčů** (viz [přílohy](../editor/006-attachments.md)), které zobrazí obrázek i na telefonech hráčů.
+
+📘 Dostupná zobrazení závisí na motivu - viz stránky [motiv Emerald](../advanced/011-emerald-theme.md) a [motivy](../advanced/010-theming.md).
 
 ---
 

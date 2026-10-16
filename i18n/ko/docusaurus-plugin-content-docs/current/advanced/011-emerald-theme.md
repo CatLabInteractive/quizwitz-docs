@@ -68,11 +68,27 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 - backgroundColor
 - mainColor
 - accentColor
+- containerColor(문제 컨테이너. 알파 값을 포함할 수 있습니다. 예: ffffff40)
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
+- dialogTextColor
+- pieChartLabelColor
+- ladderColor
 - optionColors(색상 4개, 쉼표 - 구분)
 - optionBorderColors(색상 4개, 쉼표 - 구분)
+
+플레이어 기기의 스타일도 지정할 수 있습니다.
+
+- remoteBackgroundColor
+- remoteTextColor
+- remoteQuestionColor
+- remoteQuestionTextColor
+- remoteOptionOutlineColor
+- remoteOutlineColor
+- remoteContainerBackground
+- remoteContainerText
+- remoteOptionColors(색상 4개, 쉼표 - 구분)
 
 또한 기본 글꼴을 설정할 수 있습니다.
 
@@ -80,6 +96,8 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 - headerFont
 
 이 글꼴은 공개적으로 접근 가능한 글꼴 파일의 URL이어야 합니다.
+
+마지막으로 `hideLogo=1`을 사용하면 QuizWitz 로고가 숨겨집니다.
 
 각 수정자에는 HTML 16진수 형식(ff0000)의 단일 색상을 넣거나, 여러 색상을 빼기 기호로 구분하여 선형 그라데이션을 지정할 수 있습니다( - 예: ff1b6b-45caff). (# 기호는 붙이지 않아야 합니다.)
 
@@ -91,3 +109,18 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![맞춤 수정자를 적용한 Emerald 테마 스크린샷](/images/emerald/theme_properties.png)
+
+### 퀴즈에 수정자 저장하기
+
+모든 링크에 매개변수를 직접 추가할 필요는 없습니다. 퀴즈 에디터에서 **공유 또는 임베드**를 열고 **고급 게임 옵션**을 펼친 다음, 매개변수(앞의 물음표는 빼고, 예: `backgroundColor=ff1b6b-45caff&accentColor=00ff87`)를 **원본 쿼리 문자열** 칸에 붙여 넣고 **퀴즈에 설정 저장**을 클릭하세요. 그때부터 퀴즈의 모든 플레이 링크와 공유 링크에 매개변수가 포함됩니다.
+
+QuizWitz AI 어시스턴트도 이 작업을 대신할 수 있습니다. 퀴즈의 배경색을 바꿔 달라고 요청하면 퀴즈를 Emerald 테마로 전환하고 수정자를 저장합니다.
+
+## 사용자 지정 문제 보기
+
+Emerald 테마는 **문제 진행 중** 슬롯에 이미지나 동영상이 있는 문제를 위한 두 가지 추가 화면 레이아웃도 제공합니다. 문제 설정의 **사용자 지정 보기** 옵션으로 문제마다 선택합니다.
+
+- **전체 화면 첨부 파일** - 이미지나 동영상이 게임 화면 전체를 채우며, 문제 텍스트와 선택지는 표시되지 않습니다
+- **타이머 없는 전체 화면 첨부 파일** - 위와 같으며, 카운트다운도 숨깁니다
+
+플레이어는 자신의 기기에서 문제를 읽고 답합니다. 자세한 내용은 [문제 작성하기](../editor/005-writing-questions.md)를 참조하세요.

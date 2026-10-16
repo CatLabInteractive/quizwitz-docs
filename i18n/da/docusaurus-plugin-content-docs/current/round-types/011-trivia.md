@@ -36,7 +36,7 @@ title: Trivia (almindelig runde)
 
 - **Bland spørgsmålstyper:** Tilføj variation for at fastholde engagementet.
 - **Hold balancen:** Skift mellem lette og svære spørgsmål for at holde spillerne motiverede.
-- **Brug medier:** Vedhæft billeder, lyd eller video for et rigere indhold.
+- **Brug vedhæftninger:** Vedhæft billeder, lyd eller video for et rigere indhold.
 
 ---
 

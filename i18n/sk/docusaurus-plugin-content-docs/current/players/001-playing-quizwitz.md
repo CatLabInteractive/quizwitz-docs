@@ -81,7 +81,7 @@ Keď budeš pripravený/á:
 Vyber si:
 
 - **Herný režim** - Jeden hráč alebo Párty hra
-- **Ktoré Round-Abouts** zahrnúť do tvojej relácie
+- **Ktoré Round-Abouts** zahrnúť do tvojej hry
 
 QuizWitz sa pokúsi preskočiť otázky, ktoré si už videl/a.
 

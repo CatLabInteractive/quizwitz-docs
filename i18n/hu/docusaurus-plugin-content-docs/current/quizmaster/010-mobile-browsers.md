@@ -24,7 +24,7 @@ Ha a telefon vagy táblagép az egyetlen lehetőséged, kövesd ezeket a lépés
 ### 🎞️ Teszteld az audio- és videórészleteket
 
 - Ha a kvízed **hangot vagy videót** tartalmaz, teszteld előre
-- Egyes eszközök **nehezen kezelhetik a nagy médiafájlokat**, vagy egyáltalán nem játsszák le őket
+- Egyes eszközök **nehezen kezelhetik a nagy mellékleteket**, vagy egyáltalán nem játsszák le őket
 - Légy különösen óvatos a **régebbi eszközökkel** vagy az alapértelmezett mobilböngészőkkel
 
 ---

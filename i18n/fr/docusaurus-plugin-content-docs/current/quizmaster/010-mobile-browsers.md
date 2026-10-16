@@ -24,7 +24,7 @@ Si utiliser un téléphone ou une tablette est votre seule option, suivez ces é
 ### 🎞️ Testez les extraits audio et vidéo
 
 - Si votre quiz inclut de l’**audio ou de la vidéo**, testez-les à l’avance
-- Certains appareils peuvent **avoir du mal avec les fichiers médias volumineux** ou ne pas les lire du tout
+- Certains appareils peuvent **avoir du mal avec les pièces jointes volumineuses** ou ne pas les lire du tout
 - Soyez particulièrement prudent avec les **appareils plus anciens** ou les navigateurs mobiles par défaut
 
 ---

@@ -52,7 +52,7 @@ Per esplorare un Round-About più nel dettaglio:
 - Clicca sulla sua **immagine**, sul **titolo** o sull'**icona dei commenti**
 - Clicca su **Gioca** per iniziare subito
 
-![QuizWitz Round-About details](/images/round-about-details.png)
+![Dettagli di un Round-About su QuizWitz](/images/round-about-details.png)
 
 ---
 

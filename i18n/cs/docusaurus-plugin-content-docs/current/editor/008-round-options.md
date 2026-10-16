@@ -56,15 +56,25 @@ Tyhle možnosti bodování najdeš v panelu možností kola při úpravě kola.
 
 ---
 
-## 📜 Pokyny pro quizmaster
+## 💬 Vysvětlení kola
 
-Můžete přidat vlastní **kolo úvodu**, které se zobrazí pouze na [Quizmaster App](../quizmaster/001-introduction.md) na začátku kola. Pomocí tohoto nástroje můžete krátit kvíz nebo přidat osobní kontakt.
+Některé typy kol a možnosti bodování zobrazí před první otázkou na herní obrazovce krátké vysvětlení, například *„Odpovězte na následující otázky správně, abyste dosáhli vyšších úrovní a získali bonusové body.“*, když kolo používá bodování Strike. Kliknutím na **+ Vysvětlení kola** v úvodu kola tento text nahradíš vlastním. Můžeš ho použít i k vysvětlení běžného vědomostního kola, které ve výchozím stavu žádné vysvětlení nemá.
+
+- Pokud pole necháš prázdné, zůstane výchozí vysvětlení typu kola.
+- Vysvětlení kola se překládá jako každý jiný text: přidej ho ve všech jazycích svého kvízu.
+- Když kvíz uvádí quizmaster, herní obrazovka vysvětlení kola přeskočí. Místo toho použij scénář pro quizmastera popsaný níže.
+
+---
+
+## 📜 Pokyny pro quizmastera
+
+Můžeš přidat vlastní **úvodní text kola** (**scénář pro quizmastera**), který se zobrazí jen v [Quizmaster App](../quizmaster/001-introduction.md) na začátku kola. Použij ho k instruování quizmastera nebo k přidání osobního nádechu.
 
 ---
 
 ## 📎 Přílohy
 
-Vylepši své kolo médii, která se zobrazí v konkrétních momentech:
+Vylepši své kolo přílohami, které se zobrazí v konkrétních momentech:
 
 - **Před kolem** - Zobrazí se po animaci úvodu kola
 - **Po kole** - Zobrazí se po závěru kola

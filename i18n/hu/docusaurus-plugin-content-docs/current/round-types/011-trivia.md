@@ -36,7 +36,7 @@ A **Kvíz** kör a QuizWitz klasszikus, alapértelmezett körtípusa. Egy kérd�
 
 - **Keverd a kérdéstípusokat:** Tegyél bele változatosságot, hogy izgalmasabb legyen.
 - **Tartsd egyensúlyban:** Váltogasd a könnyű és nehéz kérdéseket, hogy a játékosok motiváltak maradjanak.
-- **Használj médiát:** Csatolj képeket, hangot vagy videót a gazdagabb tartalomért.
+- **Használj mellékleteket:** Csatolj képeket, hangot vagy videót a gazdagabb tartalomért.
 
 ---
 

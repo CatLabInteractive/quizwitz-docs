@@ -43,6 +43,6 @@ V časti [písanie otázok](../editor/005-writing-questions.md) nájdeš všeobe
 
 - **Buď jasný a stručný:** Vyhýbaj sa nejednoznačným formuláciám.
 - **Používaj vierohodné nesprávne odpovede:** Nech sú rušivé možnosti uveriteľné.
-- **Kombinuj médiá:** Pridaj obrázky, vlajky alebo zvuky, aby to bolo pútavejšie.
+- **Kombinuj prílohy:** Pridaj obrázky, vlajky alebo zvuky, aby to bolo pútavejšie.
 - **Zamiešaj poradie:** Nech je to fér pre všetkých hráčov.
 - **Označuj a kategorizuj:** Pre jednoduchú navigáciu a vyhľadávanie.

@@ -38,7 +38,15 @@ Ogni allegato può avere un nome e un’attribuzione facoltativa:
 - **Nome** - Mostrato al quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); aiuta a organizzare gli allegati
 - **Attribuzione** - Mostrata ai giocatori come credito o informazione sulla fonte. Dovrebbe essere il **nome del titolare dei diritti**.
 
-> ⚠️ Per **pubblicare** un Round-About o un Quiz, **tutti gli allegati devono avere un’attribuzione valida** compilata. Senza questo, il tuo elemento non può essere reso pubblico.
+> ⚠️ Per **pubblicare** un Round-About o un Quiz, **tutti gli allegati devono avere un’attribuzione valida** compilata. Senza questo, non può essere reso pubblico.
+
+---
+
+## 📱 Mostra sui dispositivi dei giocatori
+
+Le immagini mostrate tra una schermata e l'altra - prima o dopo una domanda, prima o dopo il suo feedback, e prima o dopo un round - possono essere mostrate anche sui **dispositivi dei giocatori**, non solo sullo schermo di gioco. Per farlo, spunta **Mostra sui dispositivi dei giocatori** sull'allegato.
+
+> ℹ️ Vale solo per le immagini. Un'immagine nello slot **Durante la domanda** non viene mai replicata: i giocatori la vedono sullo schermo di gioco. Per far sì che quell'immagine riempia lo schermo di gioco, usa invece la **Vista personalizzata** della domanda (vedi [scrivere le domande](../editor/005-writing-questions.md)).
 
 ---
 

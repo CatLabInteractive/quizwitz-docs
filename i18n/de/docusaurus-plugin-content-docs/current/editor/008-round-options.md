@@ -56,15 +56,25 @@ Diese Punkteoptionen findest du im Optionen-Panel der Runde beim Bearbeiten eine
 
 ---
 
+## 💬 Rundenerklärung
+
+Manche Rundentypen und Punkteoptionen zeigen vor der ersten Frage eine kurze Erklärung auf dem Spielbildschirm, zum Beispiel *„Beantworte aufeinanderfolgende Fragen richtig, um höhere Level zu erreichen und Bonuspunkte zu erhalten.“*, wenn eine Runde die Strike-Punktestrategie verwendet. Klicke in der Rundeneröffnung auf **+ Rundenerklärung**, um diesen Text durch deinen eigenen zu ersetzen. Du kannst damit auch eine normale Trivia-Runde erklären, die standardmäßig keine Erklärung hat.
+
+- Lass das Feld leer, um die Standarderklärung des Rundentyps zu behalten.
+- Die Rundenerklärung wird wie jeder andere Text übersetzt: Füge sie in jeder Sprache deines Quiz hinzu.
+- Wenn ein Quizmaster das Quiz präsentiert, überspringt der Spielbildschirm die Rundenerklärung. Nutze stattdessen das Quizmaster-Skript unten.
+
+---
+
 ## 📜 Quizmaster-Anweisungen
 
-Du kannst einen benutzerdefinierten **runden Einführung** hinzufügen, der nur in der [Quizmaster-App](../quizmaster/001-introduction.md) zu Beginn der Runde angezeigt wird. Verwende dies, um den Quizmaster zu kürzen oder eine persönliche Note hinzuzufügen.
+Du kannst einen eigenen **Einführungstext für die Runde** (das **Quizmaster-Skript**) hinzufügen, der nur in der [Quizmaster-App](../quizmaster/001-introduction.md) zu Beginn der Runde angezeigt wird. Verwende ihn, um den Quizmaster zu instruieren oder eine persönliche Note hinzuzufügen.
 
 ---
 
 ## 📎 Anhänge
 
-Verstärke deine Runde mit Medien, die zu bestimmten Momenten angezeigt werden:
+Verstärke deine Runde mit Anhängen, die zu bestimmten Momenten angezeigt werden:
 
 - **Vor der Runde** - Nach der Rundeneinführung angezeigt
 - **Nach der Runde** - Nach dem Rundenausklang angezeigt

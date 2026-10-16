@@ -43,7 +43,7 @@ Personalizza come si comporta la domanda durante la partita:
 
 ---
 
-### 🎤 Quizmaster content
+### 🎤 Contenuti per il quizmaster
 
 Questi campi controllano ciò che appare sulla schermata Quizmaster App e gioco:
 
@@ -52,6 +52,20 @@ Questi campi controllano ciò che appare sulla schermata Quizmaster App e gioco:
 - **Quizmaster - Feedback lungo** - Testo che il quizmaster può leggere dopo aver rivelato la risposta corretta
 
 > 📝 Questi campi aiutano a rendere le presentazioni live dinamiche e curate.
+
+---
+
+### 🖼️ Vista personalizzata
+
+Alcuni temi possono mostrare una domanda con più di un layout dello schermo. Quando il tema del quiz li offre, nelle impostazioni della domanda compare l'opzione **Vista personalizzata**:
+
+- **Predefinito** - Il testo della domanda, le opzioni di risposta e l'allegato condividono lo schermo come di consueto
+- **Allegato a schermo intero** - L'immagine o il video nello slot **Durante la domanda** riempie l'intero schermo di gioco; il testo della domanda e le opzioni non vengono mostrati. I giocatori continuano a leggere la domanda e a rispondere sul proprio dispositivo. Ideale per domande con immagine del tipo *"Che cos'è?"* e per domande con video.
+- **Allegato a schermo intero senza timer** - Lo stesso, ma con anche il conto alla rovescia nascosto *(tema Emerald)*
+
+> ℹ️ Una vista personalizzata cambia solo una domanda che ha un'immagine o un video nello slot **Durante la domanda**. Non è la stessa cosa di **Mostra sui dispositivi dei giocatori** (vedi [allegati](../editor/006-attachments.md)), che riproduce un'immagine anche sui telefoni dei giocatori.
+
+📘 Le viste disponibili dipendono dal tema - vedi le pagine sul [tema Emerald](../advanced/011-emerald-theme.md) e sui [temi](../advanced/010-theming.md).
 
 ---
 

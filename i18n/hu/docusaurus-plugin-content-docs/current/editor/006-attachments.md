@@ -38,7 +38,15 @@ Minden melléklethez tartozhat név és opcionális forrásmegjelölés:
 - **Név** - A quizmaster számára jelenik meg a [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) felületén; segít a mellékletek rendszerezésében
 - **Forrásmegjelölés** - A játékosoknak kreditként vagy forrásinformációként jelenik meg. Ennek a **jogtulajdonos nevének** kell lennie.
 
-> ⚠️ Ahhoz, hogy **közzétegyél** egy Round-Aboutot vagy kvízt, **minden melléklethez érvényes forrásmegjelölést** kell megadni. Enélkül a bejegyzésed nem tehető nyilvánossá.
+> ⚠️ Ahhoz, hogy **közzétegyél** egy Round-Aboutot vagy kvízt, **minden melléklethez érvényes forrásmegjelölést** kell megadni. Enélkül nem tehető nyilvánossá.
+
+---
+
+## 📱 Megjelenítés a játékosok eszközén
+
+A képernyők között megjelenő képek - a kérdés előtt vagy után, a visszajelzés előtt vagy után, valamint a forduló előtt vagy után - nemcsak a játékképernyőn, hanem a **játékosok eszközein** is megjeleníthetők. Ehhez jelöld be a mellékletnél a **Megjelenítés a játékosok eszközén** opciót.
+
+> ℹ️ Ez csak a képekre vonatkozik. A **Kérdés közben** helyen lévő kép soha nem tükröződik: a játékosok a játékképernyőn látják. Ha azt szeretnéd, hogy ez a kép inkább kitöltse a játékképernyőt, használd a kérdés **Egyéni nézet** beállítását (lásd [kérdések írása](../editor/005-writing-questions.md)).
 
 ---
 

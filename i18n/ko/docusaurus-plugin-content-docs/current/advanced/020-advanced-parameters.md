@@ -48,12 +48,12 @@ https://play.quizwitz.com/13305:qyHBEVVBqT?theme=emerald
 | `rounds`                 |              5              |              7              | 무작위 퀴즈에서 생성할 라운드 수를 설정합니다.                                                                                           |
 | `questions`              |              7              |              7              | 무작위 퀴즈에서 각 라운드마다 생성할 문제 수를 설정합니다.                                                                                    |
 | `showListenQuotes`       |              1              |              0              | “재미있는” “잘 들어 주세요” 인용문을 비활성화하려면 0으로 설정하세요.                                                                            |
-| `shared`                 |              /              |  123:abcdef | 공유된 항목의 액세스 토큰입니다.                                                                                                   |
+| `shared`                 |              /              |  123:abcdef | 공유된 퀴즈 또는 Round-About의 액세스 토큰입니다.                                                                                                   |
 | `music`                  |              1              |              0              | 모든 (게임) 음악을 비활성화하려면 0으로 설정하세요. 업로드한 오디오는 계속 재생됩니다.                                |
 | `connectMusic`           |              1              |              0              | “접속” 단계에서 재생되는 (게임) 음악을 비활성화하려면 0으로 설정하세요.                                                        |
 | `slideshowVideoInterval` |             300             |             300             | 접속 화면 단계에 동영상을 업로드한 경우, 각 동영상 재생 사이의 간격(초)을 정의합니다.                                                |
 | `slideshowImageInterval` |              20             |              60             | 접속 화면 단계에 이미지를 업로드한 경우, 각 이미지를 표시할 시간(초)을 정의합니다.                                                  |
-| `skipOnAllAnswered`      |              1              |              0              | 항목의 `skipOnAllAnswered` 설정을 무시하려면 0으로 설정하세요                                                                                          |
+| `skipOnAllAnswered`      |              1              |              0              | 퀴즈의 `skipOnAllAnswered` 설정을 무시하려면 0으로 설정하세요                                                                                          |
 | `departments`            |              1              |            A,B,C            | 부서를 불러오지 않으려면 0으로 설정하세요. 쉼표로 구분한 이름 목록으로 설정하면, 접속하는 모든 플레이어가 무작위 부서에 자동으로 배정됩니다.                     |
 | `showRankInDepartment`   |              1              |              0              | 사용자가 부서 내 자신의 순위를 보지 못하게 하려면 0으로 설정하세요.                                                                              |
 | `showDepartmentRanking`  |              1              |              0              | 라운드 사이에 부서 순위를 표시하지 않으려면 0으로 설정하세요.                                                                                  |

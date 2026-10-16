@@ -43,6 +43,6 @@ Ogólny przegląd ustawień pytań znajdziesz w sekcji [pisanie pytań](../edito
 
 - **Pisz jasno i zwięźle:** Unikaj niejednoznacznych sformułowań.
 - **Stosuj wiarygodne błędne odpowiedzi:** Niech dystraktory brzmią przekonująco.
-- **Łącz multimedia:** Dodawaj obrazy, flagi lub dźwięki, aby przyciągnąć uwagę.
+- **Łącz załączniki:** Dodawaj obrazy, flagi lub dźwięki, aby przyciągnąć uwagę.
 - **Losuj kolejność:** Zadbaj o uczciwość wobec wszystkich graczy.
 - **Taguj i kategoryzuj:** Dla łatwej nawigacji i wyszukiwania.

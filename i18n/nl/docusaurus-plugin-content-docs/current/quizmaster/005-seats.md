@@ -60,7 +60,7 @@ Voor eenmalige of occasionele evenementen kun je **pay-as-you-go Seats** activer
 
 - **Pay-as-you-go Seats** blijven **48 uur** actief na activatie.
 - Binnen die tijd kun je:
-  - **Meerdere quizzen of sessies** draaien
+  - **Meerdere quizzen of spellen** draaien
   - Je quiz **testen** met grotere groepen
   - **Meerdaagse evenementen** in het weekend hosten
 

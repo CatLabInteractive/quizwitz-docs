@@ -38,7 +38,15 @@ Hvert vedlegg kan ha et navn og en valgfri kildehenvisning:
 - **Navn** - Vises for quizmasteren i [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); gjør det enklere å organisere vedlegg
 - **Kildehenvisning** - Vises for spillerne som kreditering eller kildeinformasjon. Dette bør være **navnet på rettighetshaveren**.
 
-> ⚠️ For å kunne **publisere** en Round-About eller en quiz må **alle vedlegg ha en gyldig kildehenvisning** fylt ut. Uten dette kan ikke elementet ditt gjøres offentlig.
+> ⚠️ For å kunne **publisere** en Round-About eller en quiz må **alle vedlegg ha en gyldig kildehenvisning** fylt ut. Uten dette kan den ikke gjøres offentlig.
+
+---
+
+## 📱 Vis på spillernes enheter
+
+Bilder som vises mellom skjermene - før eller etter et spørsmål, før eller etter tilbakemeldingen og før eller etter en runde - kan også vises på **spillernes enheter**, ikke bare på spillskjermen. Kryss av for **Vis på spillernes enheter** på vedlegget for å gjøre dette.
+
+> ℹ️ Dette gjelder bare bilder. Et bilde i feltet **Under spørsmålet** speiles aldri: spillerne ser det på spillskjermen. Vil du heller at bildet skal fylle spillskjermen, bruker du spørsmålets **Egendefinert visning** (se [skrive spørsmål](../editor/005-writing-questions.md)).
 
 ---
 

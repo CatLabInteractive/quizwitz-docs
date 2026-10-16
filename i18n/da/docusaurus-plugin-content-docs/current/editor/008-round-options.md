@@ -56,15 +56,25 @@ Disse pointindstillinger finder du i panelet med rundeindstillinger, når du red
 
 ---
 
+## 💬 Forklaring til runden
+
+Nogle rundetyper og pointindstillinger viser en kort forklaring på spilskærmen før det første spørgsmål, for eksempel *"Svar rigtigt på flere spørgsmål i træk for at nå et højere Level og få bonuspoint."*, når en runde bruger Strike-pointgivning. Klik på **+ Forklaring til runden** i rundens åbning for at erstatte teksten med din egen. Du kan også bruge den til at forklare en almindelig Trivia-runde, som ikke har nogen forklaring som standard.
+
+- Lad feltet være tomt for at beholde rundetypens standardforklaring.
+- Forklaringen til runden oversættes som al anden tekst: tilføj den på alle sprogene i din quiz.
+- Når en quizmaster præsenterer quizzen, springer spilskærmen forklaringen til runden over. Brug i stedet quizmastermanuskriptet nedenfor.
+
+---
+
 ## 📜 Instruktioner til quizmasteren
 
-Du kan tilføje en tilpasset **introduktionstekst til runden**, som kun vises i [Quizmaster-appen](../quizmaster/001-introduction.md) ved rundens start. Brug den til at briefe quizmasteren eller give det et personligt præg.
+Du kan tilføje en tilpasset **introduktionstekst til runden** (**quizmastermanuskriptet**), som kun vises i [Quizmaster-appen](../quizmaster/001-introduction.md) ved rundens start. Brug den til at briefe quizmasteren eller give det et personligt præg.
 
 ---
 
 ## 📎 Vedhæftninger
 
-Gør din runde mere spændende med medier, der vises på bestemte tidspunkter:
+Gør din runde mere spændende med vedhæftninger, der vises på bestemte tidspunkter:
 
 - **Før runde** - Vises efter animationen med rundeintroen
 - **Efter runde** - Vises efter rundeafslutningen

@@ -68,11 +68,27 @@ Az elérhető módosítók:
 - backgroundColor
 - mainColor
 - accentColor
+- containerColor (a kérdés tárolója; alfa értéket is tartalmazhat, például ffffff40)
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
+- dialogTextColor
+- pieChartLabelColor
+- ladderColor
 - optionColors (4 szín, vesszővel elválasztva)
 - optionBorderColors (4 szín, vesszővel elválasztva)
+
+A játékosok eszközei is testre szabhatók:
+
+- remoteBackgroundColor
+- remoteTextColor
+- remoteQuestionColor
+- remoteQuestionTextColor
+- remoteOptionOutlineColor
+- remoteOutlineColor
+- remoteContainerBackground
+- remoteContainerText
+- remoteOptionColors (4 szín, vesszővel elválasztva)
 
 Emellett beállíthatsz egy alapértelmezett betűtípust is:
 
@@ -80,6 +96,8 @@ Emellett beállíthatsz egy alapértelmezett betűtípust is:
 - headerFont
 
 Ezeknek a betűtípusoknak nyilvánosan elérhető betűtípusfájlokra mutató URL-eknek kell lenniük.
+
+Végül a `hideLogo=1` elrejti a QuizWitz logót.
 
 Ezek a módosítók tartalmazhatnak egyetlen színt HTML hex formátumban (ff0000), vagy lineáris színátmenetet is, ha több színt adsz meg mínuszjellel elválasztva ( - például ff1b6b-45caff). (Figyelj rá, hogy a # szimbólumot nem kell hozzáadni.)
 
@@ -91,3 +109,18 @@ Ha ezeket a paramétereket hozzáadod a játék URL-jéhez, módosíthatod a té
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![Képernyőkép az Emerald témáról egyéni módosítókkal](/images/emerald/theme_properties.png)
+
+### A módosítók mentése a kvízbe
+
+Nem kell minden linkhez kézzel hozzáadnod a paramétereket. Nyisd meg a kvízszerkesztőben a **Megosztás vagy beágyazás** ablakot, bontsd ki a **Speciális játékbeállítások** részt, illeszd be a paramétereket (a kezdő kérdőjel nélkül, például `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) a **nyers lekérdezési karakterlánc** mezőbe, majd kattints a **Beállítások mentése a quizbe** gombra. Ettől kezdve a kvíz minden játék- és megosztási linkje tartalmazza őket.
+
+A QuizWitz AI-asszisztens ezt is megteheti helyetted: kérd meg, hogy változtassa meg a kvízed háttérszínét, és átállítja a kvízt az Emerald témára, majd elmenti a módosítókat.
+
+## Egyéni kérdésnézetek
+
+Az Emerald téma két további képernyőelrendezést is kínál azokhoz a kérdésekhez, amelyeknek a **Kérdés közben** helyén kép vagy videó van. Ezeket kérdésenként, a kérdés beállításainak **Egyéni nézet** opciójával választhatod ki:
+
+- **Teljes képernyős melléklet** - a kép vagy videó kitölti a teljes játékképernyőt, a kérdés szövege és a válaszlehetőségek nem jelennek meg
+- **Teljes képernyős melléklet időzítő nélkül** - ugyanez, de a visszaszámlálás is rejtve marad
+
+A játékosok a saját eszközükön olvassák el a kérdést és ott is válaszolnak. A részletekért lásd a [kérdések írása](../editor/005-writing-questions.md) oldalt.

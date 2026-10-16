@@ -18,7 +18,7 @@ Wenn dein Spiel abstürzt, hängen bleibt oder aus irgendeinem Grund unterbroche
 
 Wenn er geladen ist:
 
-- Du wirst aufgefordert, die vorherige Sitzung **fortzusetzen** oder eine **neue zu starten**
+- Du wirst aufgefordert, das vorherige Spiel **fortzusetzen** oder eine **neue zu starten**
 - Wenn du dich für Fortsetzen entscheidest, stellt das Spiel deinen Fortschritt so genau wie möglich wieder her
 
 ---
@@ -38,7 +38,7 @@ Wähle **„Spiel fortsetzen“**, um:
 
 Du kannst auch wählen, stattdessen **ein neues Spiel zu starten**.
 
-- Dies wird die vorherige Sitzung vollständig **löschen**
+- Dies wird das vorherige Spiel vollständig **löschen**
 - Du startest am Anfang der Quiz-Einrichtung neu
 
 > ⚠️ Wähle dies nur, wenn du sicher bist, dass du das bestehende Spiel nicht fortsetzen möchtest.

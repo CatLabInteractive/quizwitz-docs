@@ -68,11 +68,27 @@ Dostupné modifikátory sú:
 - backgroundColor
 - mainColor
 - accentColor
+- containerColor (kontajner otázky; môže obsahovať hodnotu alfa, napríklad ffffff40)
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
+- dialogTextColor
+- pieChartLabelColor
+- ladderColor
 - optionColors (4 farby oddelené čiarkou)
 - optionBorderColors (4 farby oddelené čiarkou)
+
+Upraviť sa dajú aj zariadenia hráčov:
+
+- remoteBackgroundColor
+- remoteTextColor
+- remoteQuestionColor
+- remoteQuestionTextColor
+- remoteOptionOutlineColor
+- remoteOutlineColor
+- remoteContainerBackground
+- remoteContainerText
+- remoteOptionColors (4 farby oddelené čiarkou)
 
 Navyše si môžeš nastaviť predvolené písmo:
 
@@ -80,6 +96,8 @@ Navyše si môžeš nastaviť predvolené písmo:
 - headerFont
 
 Tieto písma musia byť URL adresy verejne dostupných súborov písiem.
+
+Nakoniec `hideLogo=1` skryje logo QuizWitz.
 
 Každý z týchto modifikátorov môže obsahovať jednu farbu vo formáte HTML hex (ff0000) alebo lineárny prechod zadaním viacerých farieb oddelených znamienkom mínus (napríklad ff1b6b-45caff). (Nezabudni, že symbol # sa nemá pridávať.)
 
@@ -91,3 +109,18 @@ Pridaním týchto parametrov do URL svojej hry môžeš upraviť farby v motíve
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![Snímka obrazovky motívu Emerald s vlastnými modifikátormi](/images/emerald/theme_properties.png)
+
+### Uloženie modifikátorov do kvízu
+
+Parametre nemusíš ručne pridávať ku každému odkazu. V editore kvízu otvor **Zdieľať alebo vložiť**, rozbaľ **Pokročilé možnosti hry**, vlož parametre (bez úvodného otáznika, napríklad `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) do poľa **raw query string** a klikni na **Uložiť nastavenia do kvízu**. Odvtedy ich obsahujú všetky odkazy na hranie aj na zdieľanie kvízu.
+
+Môže to za teba urobiť aj AI asistent QuizWitz: požiadaj ho, aby zmenil farbu pozadia tvojho kvízu, a on prepne kvíz na motív Emerald a uloží modifikátory.
+
+## Vlastné zobrazenia otázok
+
+Motív Emerald ponúka aj dve ďalšie rozloženia obrazovky pre otázku s obrázkom alebo videom v slote **Počas otázky**. Pre každú otázku ich vyberieš pomocou možnosti **Vlastné zobrazenie** v nastaveniach otázky:
+
+- **Príloha na celú obrazovku** - obrázok alebo video vyplní celú hernú obrazovku, text otázky a možnosti sa nevykreslia
+- **Príloha na celú obrazovku bez časomiery** - to isté, ale skryté je aj odpočítavanie
+
+Hráči si otázku prečítajú a odpovedajú na vlastných zariadeniach. Podrobnosti nájdeš v časti [písanie otázok](../editor/005-writing-questions.md).

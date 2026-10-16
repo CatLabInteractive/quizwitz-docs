@@ -43,6 +43,6 @@ Consulta [escribir preguntas](../editor/005-writing-questions.md) para una visi�
 
 - **Sé claro y conciso:** Evita redacción ambigua.
 - **Usa respuestas incorrectas plausibles:** Haz que los distractores sean creíbles.
-- **Combina medios:** Añade imágenes, banderas o sonidos para generar más interés.
+- **Combina adjuntos:** Añade imágenes, banderas o sonidos para generar más interés.
 - **Orden aleatorio:** Mantén la equidad para todos los jugadores.
 - **Etiqueta y categoriza:** Para navegación y búsqueda fáciles.

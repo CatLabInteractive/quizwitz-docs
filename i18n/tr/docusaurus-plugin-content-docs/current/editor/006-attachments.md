@@ -38,7 +38,15 @@ Her ekin bir adı ve isteğe bağlı bir kaynak gösterimi olabilir:
 - **Ad** - [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) oyununda quizmastera gösterilir; ekleri düzenlemeye yardımcı olur
 - **Kaynak gösterimi** - Oyunculara emeği geçenler veya kaynak bilgisi olarak gösterilir. Bu, **hak sahibinin adı** olmalıdır.
 
-> ⚠️ Bir Round-About'u veya Quizi **yayınlamak** için **tüm eklerde geçerli bir kaynak gösterimi** doldurulmuş olmalıdır. Bu olmadan içeriğin herkese açık hale getirilemez.
+> ⚠️ Bir Round-About'u veya Quizi **yayınlamak** için **tüm eklerde geçerli bir kaynak gösterimi** doldurulmuş olmalıdır. Bu olmadan herkese açık hale getirilemez.
+
+---
+
+## 📱 Oyuncu cihazlarında göster
+
+Ekranlar arasında gösterilen görseller - bir sorudan önce veya sonra, sorunun geri bildiriminden önce veya sonra ve bir turdan önce veya sonra - yalnızca oyun ekranında değil, **oyuncuların cihazlarında** da gösterilebilir. Bunun için ekte **Oyuncu cihazlarında göster** seçeneğini işaretle.
+
+> ℹ️ Bu yalnızca görseller için geçerlidir. **Soru sırasında** alanındaki bir görsel hiçbir zaman yansıtılmaz: oyuncular onu oyun ekranında görür. Bunun yerine o görselin oyun ekranını kaplamasını istiyorsan sorunun **Özel görünüm** seçeneğini kullan (bkz. [soru yazma](../editor/005-writing-questions.md)).
 
 ---
 

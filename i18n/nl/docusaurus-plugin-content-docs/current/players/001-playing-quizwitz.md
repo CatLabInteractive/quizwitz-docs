@@ -81,7 +81,7 @@ Wanneer je klaar bent:
 Kies:
 
 - **Spelmodus** - Single player of Party Game
-- **Welke Round-Abouts** je wilt opnemen in je sessie
+- **Welke Round-Abouts** je wilt opnemen in je spel
 
 QuizWitz zal proberen vragen te vermijden die je al hebt gezien.
 
@@ -93,7 +93,7 @@ QuizWitz zal proberen vragen te vermijden die je al hebt gezien.
 
 Als je spel begint, kies je je modus:
 
-### 🎮 Single Player
+### 🎮 Single player
 
 - Klik op **Start**, kies dan **Single Player**
 - Gebruik je muis, toetsenbord of touchscreen om te antwoorden

@@ -68,11 +68,27 @@ Kullanılabilen değiştiriciler şunlardır:
 - backgroundColor
 - mainColor
 - accentColor
+- containerColor (soru kutusu; alfa değeri içerebilir, örneğin ffffff40)
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
+- dialogTextColor
+- pieChartLabelColor
+- ladderColor
 - optionColors (4 renk, virgülle ayrılmış)
 - optionBorderColors (4 renk, virgülle ayrılmış)
+
+Oyuncuların cihazları da biçimlendirilebilir:
+
+- remoteBackgroundColor
+- remoteTextColor
+- remoteQuestionColor
+- remoteQuestionTextColor
+- remoteOptionOutlineColor
+- remoteOutlineColor
+- remoteContainerBackground
+- remoteContainerText
+- remoteOptionColors (4 renk, virgülle ayrılmış)
 
 Ayrıca varsayılan bir yazı tipi de ayarlayabilirsin:
 
@@ -80,6 +96,8 @@ Ayrıca varsayılan bir yazı tipi de ayarlayabilirsin:
 - headerFont
 
 Bu yazı tipleri, herkese açık yazı tipi dosyalarının URL'leri olmalıdır.
+
+Son olarak, `hideLogo=1` QuizWitz logosunu gizler.
 
 Bu değiştiricilerin her biri HTML hex biçiminde tek bir renk (ff0000) ya da eksi işaretiyle ayrılmış birden fazla renk vererek doğrusal bir gradyan (örneğin ff1b6b-45caff) içerebilir. (# simgesinin eklenmemesi gerektiğini unutma.)
 
@@ -91,3 +109,18 @@ Bu parametreleri oyun URL'ne ekleyerek temadaki renkleri değiştirebilirsin:
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![Özel değiştiricilerle Emerald temasının ekran görüntüsü](/images/emerald/theme_properties.png)
+
+### Değiştiricileri quizine kaydetme
+
+Parametreleri her bağlantıya elle eklemen gerekmez. Quiz editöründe **Paylaş veya yerleştir** penceresini aç, **Gelişmiş oyun seçenekleri** bölümünü genişlet, parametreleri (baştaki soru işareti olmadan, örneğin `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) **ham sorgu dizesi** alanına yapıştır ve **Ayarları quize kaydet** düğmesine tıkla. Bundan sonra quizin her oynatma bağlantısı ve paylaşım bağlantısı bu parametreleri taşır.
+
+QuizWitz yapay zekâ asistanı da bunu senin için yapabilir: ondan quizinin arka plan rengini değiştirmesini iste; quizi Emerald temasına geçirir ve değiştiricileri kaydeder.
+
+## Özel soru görünümleri
+
+Emerald teması, **Soru sırasında** alanında görsel veya video bulunan bir soru için iki ek ekran düzeni de sunar; bunlar soru ayarlarındaki **Özel görünüm** seçeneğiyle her soru için ayrı seçilir:
+
+- **Tam ekran ek** - görsel veya video tüm oyun ekranını kaplar, soru metni ve seçenekler gösterilmez
+- **Zamanlayıcısız tam ekran ek** - aynısı, ayrıca geri sayım da gizlenir
+
+Oyuncular soruyu kendi cihazlarında okur ve cevaplar. Ayrıntılar için [soru yazma](../editor/005-writing-questions.md) sayfasına bak.

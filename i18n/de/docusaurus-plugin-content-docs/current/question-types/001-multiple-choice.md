@@ -43,6 +43,6 @@ Siehe [Fragen schreiben](../editor/005-writing-questions.md) für einen allgemei
 
 - **Sei klar und präzise:** Vermeide mehrdeutige Formulierungen.
 - **Verwende plausible falsche Antworten:** Mache Ablenkungen glaubwürdig.
-- **Mische Medien:** Füge Bilder, Flaggen oder Sounds hinzu, um die Aufmerksamkeit zu steigern.
+- **Mische Anhänge:** Füge Bilder, Flaggen oder Sounds hinzu, um die Aufmerksamkeit zu steigern.
 - **Ordne zufällig an:** Sorge für Fairness für alle Spieler.
 - **Markiere und kategorisiere:** Für eine einfache Navigation und Suche.

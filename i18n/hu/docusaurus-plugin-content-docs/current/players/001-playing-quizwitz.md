@@ -81,7 +81,7 @@ Amikor készen állsz:
 Válassz:
 
 - **Játékmód** - Egyjátékos vagy Party játék
-- **Mely Round-Abouts** kerüljenek be a játékmenetedbe
+- **Mely Round-Abouts** kerüljenek be a játékodba
 
 A QuizWitz megpróbálja kihagyni azokat a kérdéseket, amelyeket már láttál.
 

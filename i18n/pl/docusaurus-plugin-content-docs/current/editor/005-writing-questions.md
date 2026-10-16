@@ -55,6 +55,20 @@ Te pola określają, co pojawia się w Quizmaster App i na ekranie gry:
 
 ---
 
+### 🖼️ Widok niestandardowy
+
+Niektóre motywy potrafią pokazać pytanie w więcej niż jednym układzie ekranu. Jeśli motyw quizu je oferuje, w ustawieniach pytania pojawia się opcja **Widok niestandardowy**:
+
+- **Domyślne** - Tekst pytania, opcje odpowiedzi i załącznik jak zwykle dzielą ekran
+- **Załącznik na pełnym ekranie** - Obraz lub film ze slotu **W trakcie pytania** wypełnia cały ekran gry; tekst pytania i opcje nie są wyświetlane. Gracze nadal czytają pytanie i odpowiadają na własnym urządzeniu. Idealne do pytań obrazkowych typu *„Co to jest?”* i pytań z filmem.
+- **Załącznik na pełnym ekranie bez licznika czasu** - To samo, ale odliczanie też jest ukryte *(motyw Emerald)*
+
+> ℹ️ Widok niestandardowy zmienia tylko pytanie, które ma obraz lub film w slocie **W trakcie pytania**. To nie to samo co **Pokaż na urządzeniach graczy** (zobacz [załączniki](../editor/006-attachments.md)), które powiela obraz na telefonach graczy.
+
+📘 Dostępne widoki zależą od motywu - zobacz strony [motyw Emerald](../advanced/011-emerald-theme.md) i [motywy](../advanced/010-theming.md).
+
+---
+
 ## 📎 Załączniki
 
 ![Załączniki pytania](/images/question-attachments.png)

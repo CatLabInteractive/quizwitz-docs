@@ -18,7 +18,7 @@ Sólo **reabre la misma pestaña de navegador** que estabas usando para mostrar 
 
 Cuando se cargue:
 
-- Se te pedirá que **reanudes la sesión anterior** o **inicies una nueva**
+- Se te pedirá que **reanudes el juego anterior** o **inicies una nueva**
 - Si eliges reanudar, el juego restaurará tu progreso lo más fielmente posible
 
 ---
@@ -38,7 +38,7 @@ Selecciona **"Reanudar juego"** para:
 
 También puedes elegir **iniciar un juego nuevo** en su lugar.
 
-- Esto **borrará por completo la sesión anterior**
+- Esto **borrará por completo el juego anterior**
 - Volverás al inicio de la configuración del quiz
 
 > ⚠️ Solo elige esto si estás seguro de que no quieres continuar con el juego existente.

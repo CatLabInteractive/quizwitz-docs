@@ -43,6 +43,6 @@ Se [skriv spørgsmål](../editor/005-writing-questions.md) for en generel oversi
 
 - **Vær klar og kortfattet:** Undgå tvetydige formuleringer.
 - **Brug plausible forkerte svar:** Gør de forkerte svarmuligheder troværdige.
-- **Bland medier:** Tilføj billeder, flag eller lyde for at skabe engagement.
+- **Bland vedhæftninger:** Tilføj billeder, flag eller lyde for at skabe engagement.
 - **Bland rækkefølgen:** Hold det fair for alle spillere.
 - **Tag og kategorisér:** Så det er nemt at navigere og søge.

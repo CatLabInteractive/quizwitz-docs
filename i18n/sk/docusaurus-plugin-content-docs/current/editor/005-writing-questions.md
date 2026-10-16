@@ -55,6 +55,20 @@ Tieto polia určujú, čo sa zobrazí v Quizmaster App a na hernej obrazovke:
 
 ---
 
+### 🖼️ Vlastné zobrazenie
+
+Niektoré motívy dokážu zobraziť otázku vo viacerých rozloženiach obrazovky. Ak ich motív kvízu ponúka, v nastaveniach otázky sa zobrazí možnosť **Vlastné zobrazenie**:
+
+- **Predvolené** - Text otázky, možnosti odpovede a príloha sa ako zvyčajne delia o obrazovku
+- **Príloha na celú obrazovku** - Obrázok alebo video v slote **Počas otázky** vyplní celú hernú obrazovku; text otázky a možnosti sa nevykreslia. Hráči si otázku aj tak prečítajú a odpovedajú na vlastnom zariadení. Ideálne pre obrázkové otázky typu *„Čo je to?“* a pre video otázky.
+- **Príloha na celú obrazovku bez časomiery** - To isté, ale skryté je aj odpočítavanie *(motív Emerald)*
+
+> ℹ️ Vlastné zobrazenie mení len otázku, ktorá má obrázok alebo video v slote **Počas otázky**. Nie je to to isté ako **Zobraziť na zariadeniach hráčov** (pozri [prílohy](../editor/006-attachments.md)), čo zrkadlí obrázok na telefóny hráčov.
+
+📘 Dostupné zobrazenia závisia od motívu - pozri stránky [Motív Emerald](../advanced/011-emerald-theme.md) a [motívy](../advanced/010-theming.md).
+
+---
+
 ## 📎 Prílohy
 
 ![Prílohy k otázke](/images/question-attachments.png)

@@ -56,15 +56,25 @@ Te opcje punktacji znajdziesz w panelu opcji rundy podczas jej edycji.
 
 ---
 
+## 💬 Wyjaśnienie rundy
+
+Niektóre typy rund i opcje punktacji pokazują na ekranie gry krótkie wyjaśnienie przed pierwszym pytaniem, na przykład *„Odpowiadaj poprawnie na kolejne pytania z rzędu, aby osiągać wyższe Level i zdobywać punkty bonusowe.”*, gdy runda używa punktacji Strike. Kliknij **+ Wyjaśnienie rundy** w otwarciu rundy, aby zastąpić ten tekst własnym. Możesz go też użyć, aby objaśnić zwykłą rundę Trivia, która domyślnie nie ma wyjaśnienia.
+
+- Zostaw pole puste, aby zachować domyślne wyjaśnienie typu rundy.
+- Wyjaśnienie rundy tłumaczy się jak każdy inny tekst: dodaj je w każdym języku swojego quizu.
+- Gdy quiz prowadzi quizmaster, ekran gry pomija wyjaśnienie rundy. Zamiast tego użyj scenariusza quizmastera opisanego poniżej.
+
+---
+
 ## 📜 Instrukcje dla quizmastera
 
-Możesz dodać własny **tekst wprowadzenia do rundy**, który pojawi się tylko w [Quizmaster App](../quizmaster/001-introduction.md) na początku rundy. Użyj go, aby przekazać quizmasterowi wskazówki lub dodać osobisty akcent.
+Możesz dodać własny **tekst wprowadzenia do rundy** (**Scenariusz quizmastera**), który pojawi się tylko w [Quizmaster App](../quizmaster/001-introduction.md) na początku rundy. Użyj go, aby przekazać quizmasterowi wskazówki lub dodać osobisty akcent.
 
 ---
 
 ## 📎 Załączniki
 
-Wzbogać rundę o multimedia wyświetlane w określonych momentach:
+Wzbogać rundę o załączniki wyświetlane w określonych momentach:
 
 - **Przed rundą** - Wyświetlane po animacji intro rundy
 - **Po rundzie** - Wyświetlane po outro rundy

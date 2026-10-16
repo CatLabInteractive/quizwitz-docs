@@ -68,11 +68,27 @@ Die verfügbaren Modifikatoren sind:
 - backgroundColor
 - mainColor
 - accentColor
+- containerColor (der Fragencontainer; kann einen Alphawert enthalten, zum Beispiel ffffff40)
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
+- dialogTextColor
+- pieChartLabelColor
+- ladderColor
 - optionColors (4 Farben, durch Kommas getrennt)
 - optionBorderColors (4 Farben, durch Kommas getrennt)
+
+Auch die Geräte der Spieler lassen sich gestalten:
+
+- remoteBackgroundColor
+- remoteTextColor
+- remoteQuestionColor
+- remoteQuestionTextColor
+- remoteOptionOutlineColor
+- remoteOutlineColor
+- remoteContainerBackground
+- remoteContainerText
+- remoteOptionColors (4 Farben, durch Kommas getrennt)
 
 Außerdem kannst du eine Standardschrift festlegen:
 
@@ -80,6 +96,8 @@ Außerdem kannst du eine Standardschrift festlegen:
 - headerFont
 
 Diese Schriften müssen URLs sein, die öffentlich zugängliche Schriftdateien enthalten.
+
+Und schließlich blendet `hideLogo=1` das QuizWitz-Logo aus.
 
 Jeder dieser Modifikatoren kann eine einzelne Farbe im HTML-Hex-Format enthalten (ff0000), oder einen linearen Verlauf, indem mehrere Farben durch einen Bindestrich getrennt werden ( - zum Beispiel ff1b6b-45caff). (Beachte, dass das # Symbol nicht hinzugefügt werden sollte.)
 
@@ -91,3 +109,18 @@ Indem du diese Parameter zu deiner Spiel-URL hinzufügst, kannst du die Farben i
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![Ein Screenshot des Emerald-Themes mit benutzerdefinierten Modifikatoren](/images/emerald/theme_properties.png)
+
+### Die Modifikatoren im Quiz speichern
+
+Du musst die Parameter nicht von Hand an jeden Link anhängen. Öffne im Quiz-Editor **Teilen oder einbetten**, klappe **Erweiterte Spieloptionen** auf, füge die Parameter (ohne das führende Fragezeichen, zum Beispiel `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) in das Feld **roher Abfragestring** ein und klicke auf **Einstellungen im Quiz speichern**. Ab dann enthält jeder Spiel- und Teilen-Link des Quiz diese Parameter.
+
+Der QuizWitz-KI-Assistent kann das auch für dich erledigen: Bitte ihn, die Hintergrundfarbe deines Quiz zu ändern, dann stellt er das Quiz auf das Emerald-Theme um und speichert die Modifikatoren.
+
+## Benutzerdefinierte Fragenansichten
+
+Das Emerald-Theme bietet außerdem zwei zusätzliche Bildschirmlayouts für eine Frage mit einem Bild oder Video im Slot **Während der Frage**, die du pro Frage über die Option **Benutzerdefinierte Ansicht** in den Frageeinstellungen auswählst:
+
+- **Anhang im Vollbild** - das Bild oder Video füllt den ganzen Spielbildschirm, Fragetext und Optionen werden nicht dargestellt
+- **Anhang im Vollbild ohne Timer** - dasselbe, zusätzlich ist der Countdown ausgeblendet
+
+Die Spieler lesen die Frage und antworten auf ihren eigenen Geräten. Details findest du unter [Fragen schreiben](../editor/005-writing-questions.md).
