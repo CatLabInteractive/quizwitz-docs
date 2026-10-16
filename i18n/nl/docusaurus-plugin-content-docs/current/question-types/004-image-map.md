@@ -1,23 +1,21 @@
 ---
 id: image-map-question
-title: Afbeeldingskaart vraag
+title: Afbeeldingsvraag
 ---
 
-# 🗺️ Afbeeldingskaart
+# 🗺️ Afbeeldingsvraag
 
-Bij een **afbeeldingskaart** vraag moeten spelers de juiste plek (of plekken) op een afbeelding selecteren die op hun apparaat wordt weergegeven. Dit is ideaal voor visuele herkenningsuitdagingen, zoals "Selecteer de Erlenmeyer-kolf."
+Bij een **afbeeldingsvraag** moeten spelers de juiste plek (of plekken) op een afbeelding selecteren die op hun apparaat wordt weergegeven. Dit is ideaal voor visuele herkenningsuitdagingen, zoals "Selecteer de Erlenmeyer-kolf."
 
 ---
 
-![Voorbeeld: afbeeldingenkaart vraag met kolven](/images/question-modes/image-map/image-map-example.png)
+![Voorbeeld: afbeeldingsvraag met kolven](/images/question-modes/image-map/image-map-example.png)
 
 ---
 
 ## 📝 Hoe het werkt
 
 - **Vraag:** Geef duidelijk aan wat spelers op de afbeelding moeten vinden.\
-  _(Voorbeeld: “Selecteer de Erlenmeyer-kolf.”)_\
-  _(Voorbeeld: “Selecteer de Erlenmeyer-kolf.”)_  
   _(Voorbeeld: “Selecteer de Erlenmeyer-kolf.”)_
 - **Afbeelding:** Upload een afbeelding van hoge kwaliteit die aan alle spelers wordt getoond.
 - **Antwoordpunten:** Bepaal een of meer **doelgebieden** (“punten”) op de afbeelding. Elk gebied kan worden ingesteld als een cirkel of een andere vorm, waarbij jij de positie en grootte bepaalt.
@@ -50,7 +48,7 @@ Je kunt de op tijd gebaseerde scoring voor dit vraagtype uitschakelen als je dat
 
 ---
 
-## 💡 Tips voor geweldige afbeeldingskaartvragen
+## 💡 Tips voor geweldige afbeeldingsvragen
 
 - **Gebruik duidelijke, niet-overvolle afbeeldingen** voor makkelijke herkenning.
 - **Bepaal antwoordgebieden zorgvuldig** om overlap of verwarring te voorkomen.
@@ -59,4 +57,4 @@ Je kunt de op tijd gebaseerde scoring voor dit vraagtype uitschakelen als je dat
 
 ---
 
-Afbeeldingskaartvragen zijn perfect voor het labelen van diagrammen, identificeren van regio’s, of visuele "zoek-het-object" spelletjes!
+Afbeeldingsvragen zijn perfect voor het labelen van diagrammen, identificeren van regio’s, of visuele "zoek-het-object" spelletjes!
