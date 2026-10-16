@@ -1,5 +1,5 @@
 // Labels that are names of other services (Discord) must never be translated,
-// but Crowdin machine translation sometimes does it anyway (nl "Onenigheid").
+// but machine translation sometimes does it anyway (nl "Onenigheid").
 // Before every build, put any translated copy of such a label back to English.
 // The glossary in quizwitz-strategy (strategy/i18n/glossary.md) lists the terms.
 import { readdirSync, readFileSync, writeFileSync, statSync } from 'node:fs';

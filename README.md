@@ -46,11 +46,9 @@ Sidebar navigation is configured in sidebars.js.
 Images and static files are located in /assets/.
 
 ## Translations
-Translations are managed using Crowdin. To contribute translations:
-1. Visit the [QuizWitz Crowdin project](https://crowdin.com/project/quizwitz-documentation).
-2. Select a language to translate.
-3. Use the Crowdin editor to suggest translations for existing documentation.
-4. Your contributions will be reviewed and merged into the main documentation.
+Translations live in this repository, in `i18n/<lang>/` (pages under `docusaurus-plugin-content-docs/current/`, site labels in the JSON files). They are no longer managed in Crowdin. To fix or improve a translation, edit the file and open a pull request.
+
+When you change an English page under `docs/`, update its translations in the same pull request. `node scripts/stale-translations.mjs [lang ...]` lists translated files that are missing or older than their English source.
 
 ### Terminology and style
 
@@ -59,7 +57,7 @@ Product terminology (host vs. quizmaster, game screen, Team codes / Single game 
 - [`strategy/i18n/glossary.md`](https://github.com/CatLabInteractive/quizwitz-strategy/blob/master/strategy/i18n/glossary.md) - canonical English terms, protected (never-translated) terms, and the reviewed nl / proposed other-language renderings.
 - [`strategy/i18n/style-guide.md`](https://github.com/CatLabInteractive/quizwitz-strategy/blob/master/strategy/i18n/style-guide.md) - casing table, role words, banned words, and label rules.
 
-Writers of English source pages under `docs/` and translators on Crowdin should follow both. The same glossary is exported to the Crowdin project glossary.
+Writers of English source pages under `docs/` and translators should follow both.
 
 ## Contributing
 Contributions are welcome!
