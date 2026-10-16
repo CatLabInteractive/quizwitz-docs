@@ -5,8 +5,11 @@
 const config = {
   title: 'QuizWitz',
   tagline: 'Advanced documentation',
-  url: 'https://docs.quizwitz.com',
-  baseUrl: '/',
+  // Pull request previews (.github/workflows/preview.yml) are served from
+  // GitHub Pages under /quizwitz-docs/pr-<number>/ and kept out of search.
+  url: process.env.DOCS_URL || 'https://docs.quizwitz.com',
+  baseUrl: process.env.DOCS_BASE_URL || '/',
+  noIndex: Boolean(process.env.DOCS_BASE_URL),
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
   favicon: 'img/favicon.ico',
