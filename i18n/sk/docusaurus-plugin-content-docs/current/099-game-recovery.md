@@ -18,7 +18,7 @@ Jednoducho **znovu otvor tú istú kartu prehliadača**, ktorú si používal na
 
 Keď sa načíta:
 
-- Zobrazí sa výzva, či chceš **obnoviť predchádzajúcu reláciu** alebo **začať novú**
+- Zobrazí sa výzva, či chceš **obnoviť predchádzajúcu hru** alebo **začať novú**
 - Ak zvolíš obnovenie, hra obnoví tvoj postup čo najpresnejšie
 
 ---
@@ -38,7 +38,7 @@ Vyber **„Obnoviť hru“**, ak chceš:
 
 Namiesto toho si môžeš vybrať aj možnosť **začať novú hru**.
 
-- Tým sa úplne **vymaže predchádzajúca relácia**
+- Tým sa úplne **vymaže predchádzajúca hra**
 - Vrátiš sa na začiatok nastavenia kvízu
 
 > ⚠️ Túto možnosť vyber iba vtedy, ak si si istý/á, že nechceš pokračovať v existujúcej hre.

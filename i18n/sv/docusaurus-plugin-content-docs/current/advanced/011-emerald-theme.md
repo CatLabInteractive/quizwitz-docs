@@ -68,11 +68,27 @@ De tillgängliga modifierarna är:
 - backgroundColor
 - mainColor
 - accentColor
+- containerColor (frågebehållaren; kan ha ett alfavärde, till exempel ffffff40)
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
+- dialogTextColor
+- pieChartLabelColor
+- ladderColor
 - optionColors (4 färger, kommaseparerade)
 - optionBorderColors (4 färger, kommaseparerade)
+
+Även spelarnas enheter kan anpassas:
+
+- remoteBackgroundColor
+- remoteTextColor
+- remoteQuestionColor
+- remoteQuestionTextColor
+- remoteOptionOutlineColor
+- remoteOutlineColor
+- remoteContainerBackground
+- remoteContainerText
+- remoteOptionColors (4 färger, kommaseparerade)
 
 Du kan dessutom ange ett standardtypsnitt:
 
@@ -80,6 +96,8 @@ Du kan dessutom ange ett standardtypsnitt:
 - headerFont
 
 Typsnitten måste vara URL:er till allmänt tillgängliga typsnittsfiler.
+
+Slutligen döljer `hideLogo=1` QuizWitz-logotypen.
 
 Var och en av de här modifierarna kan innehålla en enda färg i HTML-hexformat (ff0000) eller en linjär gradient, genom att ange flera färger åtskilda av ett minustecken ( - till exempel ff1b6b-45caff). (Observera att tecknet # inte ska läggas till.)
 
@@ -91,3 +109,18 @@ Genom att lägga till de här parametrarna i din spel-URL kan du ändra färgern
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![En skärmbild av Emerald-temat med anpassade modifierare](/images/emerald/theme_properties.png)
+
+### Spara modifierarna i ditt quiz
+
+Du behöver inte lägga till parametrarna i varje länk för hand. Öppna **Dela eller bädda in** i quizeditorn, fäll ut **Avancerade spelalternativ**, klistra in parametrarna (utan det inledande frågetecknet, till exempel `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) i fältet **rå frågesträng** och klicka på **Spara inställningarna i quizet**. Från och med då innehåller alla spellänkar och delningslänkar för quizet dem.
+
+QuizWitz AI-assistent kan också göra det åt dig: be den ändra bakgrundsfärgen på ditt quiz, så byter den quizet till Emerald-temat och sparar modifierarna.
+
+## Anpassade frågevyer
+
+Emerald-temat erbjuder också två extra skärmlayouter för en fråga med en bild eller video på platsen **Under frågan**, som väljs per fråga med alternativet **Anpassad vy** i frågeinställningarna:
+
+- **Bilaga i helskärm** - bilden eller videon fyller hela spelskärmen, frågetexten och alternativen visas inte
+- **Bilaga i helskärm utan timer** - samma sak, men nedräkningen döljs också
+
+Spelarna läser frågan och svarar på sina egna enheter. Se [skriva frågor](../editor/005-writing-questions.md) för mer information.

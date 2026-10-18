@@ -36,7 +36,7 @@ De **Trivia** ronde is het klassieke, standaard type ronde in QuizWitz. Het pres
 
 - **Meng vraagtypen:** Voeg variatie toe voor meer betrokkenheid.
 - **Houd het gebalanceerd:** Wissel makkelijke en lastige vragen af om spelers gemotiveerd te houden.
-- **Gebruik media:** Voeg afbeeldingen, audio of video toe voor rijkere inhoud.
+- **Gebruik bijlagen:** Voeg afbeeldingen, audio of video toe voor rijkere inhoud.
 
 ---
 

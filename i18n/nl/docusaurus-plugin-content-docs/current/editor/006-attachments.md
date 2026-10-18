@@ -38,7 +38,15 @@ Elke bijlage kan een naam en optionele bronvermelding hebben:
 - **Naam** - Weergegeven aan de quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); helpt bij het organiseren van bijlagen
 - **Attribuering** - Getoond aan spelers als bronvermelding. Dit moet de **naam van de rechthebbende** zijn.
 
-> ⚠️ Om een Round-About of Quiz te **publiceren**, moeten **alle bijlagen een geldige attributie** hebben. Zonder deze informatie kan je inzending niet openbaar gemaakt worden.
+> ⚠️ Om een Round-About of Quiz te **publiceren**, moeten **alle bijlagen een geldige attributie** hebben. Zonder deze informatie kan deze niet openbaar gemaakt worden.
+
+---
+
+## 📱 Toon op apparaten van spelers
+
+Afbeeldingen die tussen schermen worden getoond - voor of na een vraag, voor of na de feedback en voor of na een ronde - kunnen ook op de **apparaten van de spelers** worden getoond, niet alleen op het spelscherm. Vink daarvoor **Toon op apparaten van spelers** aan bij de bijlage.
+
+> ℹ️ Dit geldt alleen voor afbeeldingen. Een afbeelding in het slot **Tijdens de vraag** wordt nooit gespiegeld: spelers zien die op het spelscherm. Wil je dat die afbeelding in plaats daarvan het hele spelscherm vult, gebruik dan het **Aangepast scherm** van de vraag (zie [vragen schrijven](../editor/005-writing-questions.md)).
 
 ---
 

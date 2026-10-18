@@ -68,11 +68,27 @@ Käytettävissä olevat muokkaimet ovat:
 - backgroundColor
 - mainColor
 - accentColor
+- containerColor (kysymyksen säiliö; voi sisältää alfa-arvon, esimerkiksi ffffff40)
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
+- dialogTextColor
+- pieChartLabelColor
+- ladderColor
 - optionColors (4 väriä, pilkuilla erotettuina)
 - optionBorderColors (4 väriä, pilkuilla erotettuina)
+
+Myös pelaajien laitteiden ulkoasua voi muokata:
+
+- remoteBackgroundColor
+- remoteTextColor
+- remoteQuestionColor
+- remoteQuestionTextColor
+- remoteOptionOutlineColor
+- remoteOutlineColor
+- remoteContainerBackground
+- remoteContainerText
+- remoteOptionColors (4 väriä, pilkuilla erotettuina)
 
 Lisäksi voit määrittää oletusfontin:
 
@@ -80,6 +96,8 @@ Lisäksi voit määrittää oletusfontin:
 - headerFont
 
 Näiden fonttien on oltava julkisesti saatavilla olevien fonttitiedostojen URL-osoitteita.
+
+Lopuksi `hideLogo=1` piilottaa QuizWitz-logon.
 
 Kukin näistä muokkaimista voi sisältää yhden värin HTML-heksamuodossa (ff0000) tai lineaarisen liukuvärin, kun annat useita värejä miinusmerkillä erotettuina ( - esimerkiksi ff1b6b-45caff). (Huomaa, että #-merkkiä ei pidä lisätä.)
 
@@ -91,3 +109,18 @@ Lisäämällä nämä parametrit pelisi URL-osoitteeseen voit muuttaa teeman vä
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![Kuvakaappaus Emerald-teemasta omilla muokkaimilla](/images/emerald/theme_properties.png)
+
+### Muokkainten tallentaminen visaan
+
+Parametreja ei tarvitse lisätä jokaiseen linkkiin käsin. Avaa visaeditorissa **Jaa tai upota**, laajenna **Pelin lisäasetukset**, liitä parametrit (ilman alun kysymysmerkkiä, esimerkiksi `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) **raaka kyselymerkkijono** -kenttään ja napsauta **Tallenna asetukset visaan**. Siitä lähtien ne sisältyvät visan jokaiseen peli- ja jakolinkkiin.
+
+Myös QuizWitzin tekoälyavustaja voi tehdä tämän puolestasi: pyydä sitä vaihtamaan visasi taustaväri, niin se vaihtaa visan Emerald-teemaan ja tallentaa muokkaimet.
+
+## Mukautetut kysymysnäkymät
+
+Emerald-teema tarjoaa myös kaksi lisänäyttöasettelua kysymykselle, jonka **Kysymyksen aikana** -paikassa on kuva tai video. Asettelu valitaan kysymyskohtaisesti kysymyksen asetusten **Mukautettu näkymä** -valinnalla:
+
+- **Liite koko näytöllä** - kuva tai video täyttää koko pelinäytön, kysymystekstiä ja vaihtoehtoja ei piirretä
+- **Liite koko näytöllä ilman ajastinta** - sama, mutta myös lähtölaskenta on piilotettu
+
+Pelaajat lukevat kysymyksen ja vastaavat omilla laitteillaan. Katso lisätietoja sivulta [kysymysten kirjoittaminen](../editor/005-writing-questions.md).

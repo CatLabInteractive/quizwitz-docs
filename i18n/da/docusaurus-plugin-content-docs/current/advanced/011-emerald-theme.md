@@ -68,11 +68,27 @@ De tilgængelige modifikatorer er:
 - backgroundColor
 - mainColor
 - accentColor
+- containerColor (spørgsmålsbeholderen; kan have en alfaværdi, for eksempel ffffff40)
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
+- dialogTextColor
+- pieChartLabelColor
+- ladderColor
 - optionColors (4 farver, komma - separeret)
 - optionBorderColors (4 farver, komma - separeret)
+
+Spillernes enheder kan også styles:
+
+- remoteBackgroundColor
+- remoteTextColor
+- remoteQuestionColor
+- remoteQuestionTextColor
+- remoteOptionOutlineColor
+- remoteOutlineColor
+- remoteContainerBackground
+- remoteContainerText
+- remoteOptionColors (4 farver, komma - separeret)
 
 Du kan desuden angive en standardskrifttype:
 
@@ -80,6 +96,8 @@ Du kan desuden angive en standardskrifttype:
 - headerFont
 
 Skrifttyperne skal være URL'er til offentligt tilgængelige skrifttypefiler.
+
+Til sidst skjuler `hideLogo=1` QuizWitz-logoet.
 
 Hver af disse modifikatorer kan indeholde en enkelt farve i HTML-hexformat (ff0000) eller en lineær gradient ved at angive flere farver adskilt af et minustegn ( - for eksempel ff1b6b-45caff). (Bemærk, at symbolet # ikke skal tilføjes.)
 
@@ -91,3 +109,18 @@ Ved at tilføje disse parametre til din spil-URL kan du ændre farverne i temaet
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![Et skærmbillede af Emerald-temaet med tilpassede modifikatorer](/images/emerald/theme_properties.png)
+
+### Gem modifikatorerne på din quiz
+
+Du behøver ikke tilføje parametrene til hvert link i hånden. Åbn **Del eller indlejr** i quizeditoren, fold **Avancerede spilindstillinger** ud, indsæt parametrene (uden det indledende spørgsmålstegn, for eksempel `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) i feltet **rå forespørgselsstreng**, og klik på **Gem indstillinger i quizzen**. Fra da af har alle spillelinks og delingslinks til quizzen dem med.
+
+AI-assistenten i QuizWitz kan også gøre det for dig: bed den om at ændre baggrundsfarven på din quiz, så skifter den quizzen til Emerald-temaet og gemmer modifikatorerne.
+
+## Brugerdefinerede spørgsmålsvisninger
+
+Emerald-temaet tilbyder også to ekstra skærmlayouts til et spørgsmål med et billede eller en video i feltet **Under spørgsmål**. Du vælger dem for hvert spørgsmål med indstillingen **Brugerdefineret visning** i spørgsmålsindstillingerne:
+
+- **Vedhæftning i fuld skærm** - billedet eller videoen fylder hele spilskærmen, og spørgsmålsteksten og svarmulighederne vises ikke
+- **Vedhæftning i fuld skærm uden nedtælling** - det samme, men nedtællingen er også skjult
+
+Spillerne læser spørgsmålet og svarer på deres egne enheder. Se [skriv spørgsmål](../editor/005-writing-questions.md) for detaljer.

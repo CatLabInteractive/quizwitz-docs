@@ -56,15 +56,25 @@ Deze score-opties vind je in het ronde-opties paneel tijdens het bewerken van ee
 
 ---
 
+## 💬 Uitleg over de ronde
+
+Sommige rondetypes en puntenstrategieën tonen vóór de eerste vraag een korte uitleg op het spelscherm, bijvoorbeeld *"Beantwoord opeenvolgende vragen juist om te stijgen op de ladder en bonuspunten te verdienen."* wanneer een ronde de Strike-puntentelling gebruikt. Klik op **+ Uitleg over de ronde** in de ronde-opening om die tekst door je eigen tekst te vervangen. Je kunt dit ook gebruiken om een gewone Trivia-ronde uit te leggen, die standaard geen uitleg heeft.
+
+- Laat het veld leeg om de standaarduitleg van het rondetype te behouden.
+- De uitleg over de ronde wordt vertaald zoals elke andere tekst: voeg hem toe in elke taal van je quiz.
+- Wanneer een quizmaster de quiz presenteert, slaat het spelscherm de uitleg over de ronde over. Gebruik in dat geval het quizmasterscript hieronder.
+
+---
+
 ## 📜 Quizmasterinstructies
 
-Je kunt een eigen **ronde-introductietekst** toevoegen die alleen in de [Quizmaster App](../quizmaster/001-introduction.md) verschijnt aan het begin van de ronde. Gebruik dit om de quizmaster te briefen of om een persoonlijke noot toe te voegen.
+Je kunt een eigen **ronde-introductietekst** (het **quizmasterscript**) toevoegen die alleen in de [Quizmaster App](../quizmaster/001-introduction.md) verschijnt aan het begin van de ronde. Gebruik dit om de quizmaster te briefen of om een persoonlijke noot toe te voegen.
 
 ---
 
 ## 📎 Bijlagen
 
-Versterk je ronde met media die op specifieke momenten worden getoond:
+Versterk je ronde met bijlagen die op specifieke momenten worden getoond:
 
 - **Voor de ronde** - Getoond na de ronde-intro animatie
 - **Na de ronde** - Getoond na de ronde-outro

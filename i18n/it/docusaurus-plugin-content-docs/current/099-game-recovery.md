@@ -18,7 +18,7 @@ Basta **riaprire la stessa scheda del browser** che stavi usando per visualizzar
 
 Quando si carica:
 
-- Ti verrà chiesto di **riprendere la sessione precedente** o **avviarne una nuova**
+- Ti verrà chiesto di **riprendere la partita precedente** o **avviarne una nuova**
 - Se scegli di riprendere, il gioco ripristinerà i tuoi progressi il più fedelmente possibile
 
 ---
@@ -38,7 +38,7 @@ Seleziona **“Riprendi il gioco”** per:
 
 Puoi anche scegliere di **avviare un nuovo gioco**.
 
-- Questo **cancellerà completamente la sessione precedente**
+- Questo **cancellerà completamente la partita precedente**
 - Tornerai all’inizio della configurazione del quiz
 
 > ⚠️ Scegli questa opzione solo se sei sicuro di non voler continuare la partita esistente.

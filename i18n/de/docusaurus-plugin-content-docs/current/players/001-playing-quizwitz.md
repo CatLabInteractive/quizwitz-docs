@@ -81,7 +81,7 @@ Wenn du bereit bist:
 Wähle:
 
 - **Spielmodus** - Einzelspieler oder Partyspiel
-- **Welche Round-Abouts** in deiner Session enthalten sein sollen
+- **Welche Round-Abouts** in deinem Spiel enthalten sein sollen
 
 QuizWitz versucht, Fragen zu überspringen, die du schon gespielt hast.
 

@@ -36,7 +36,7 @@ Kolo **Vedomostné otázky** je klasický, predvolený typ kola v QuizWitz. Vše
 
 - **Kombinuj typy otázok:** Pridaj pestrosť, aby to bolo pútavejšie.
 - **Udržuj rovnováhu:** Striedaj ľahké a ťažké otázky, aby hráči zostali motivovaní.
-- **Používaj médiá:** Pridaj obrázky, zvuk alebo video pre bohatší obsah.
+- **Používaj prílohy:** Pridaj obrázky, zvuk alebo video pre bohatší obsah.
 
 ---
 

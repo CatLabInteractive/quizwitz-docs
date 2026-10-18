@@ -55,6 +55,20 @@ Ezek a mezők határozzák meg, mi jelenik meg a Quizmaster appban és a játék
 
 ---
 
+### 🖼️ Egyéni nézet
+
+Egyes témák egy kérdést többféle képernyőelrendezésben is meg tudnak jeleníteni. Ha a kvíz témája kínál ilyet, a kérdés beállításaiban megjelenik az **Egyéni nézet** opció:
+
+- **Alapértelmezett** - A kérdés szövege, a válaszlehetőségek és a melléklet a szokásos módon osztoznak a képernyőn
+- **Teljes képernyős melléklet** - A **Kérdés közben** helyen lévő kép vagy videó kitölti a teljes játékképernyőt; a kérdés szövege és a válaszlehetőségek nem jelennek meg. A játékosok továbbra is a saját eszközükön olvassák el a kérdést és ott is válaszolnak. Ideális a *„Mi ez?”* típusú képes kérdésekhez és a videós kérdésekhez.
+- **Teljes képernyős melléklet időzítő nélkül** - Ugyanez, de a visszaszámlálás is rejtve marad *(Emerald téma)*
+
+> ℹ️ Az egyéni nézet csak azokat a kérdéseket változtatja meg, amelyeknek a **Kérdés közben** helyén kép vagy videó van. Nem azonos a **Megjelenítés a játékosok eszközén** opcióval (lásd [mellékletek](../editor/006-attachments.md)), amely egy képet a játékosok telefonjára tükröz.
+
+📘 Az elérhető nézetek a témától függenek - lásd az [Emerald téma](../advanced/011-emerald-theme.md) és a [témák](../advanced/010-theming.md) oldalt.
+
+---
+
 ## 📎 Mellékletek
 
 ![Kérdés mellékletei](/images/question-attachments.png)

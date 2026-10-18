@@ -38,7 +38,15 @@ Jokaisella liitteellä voi olla nimi ja valinnainen lähdemerkintä:
 - **Nimi** - Näytetään visamestarille [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) -tilassa; auttaa liitteiden järjestämisessä
 - **Lähdemerkintä** - Näytetään pelaajille tekijä- tai lähdetietona. Tähän tulee **oikeuksien haltijan nimi**.
 
-> ⚠️ Jotta voit **julkaista** Round-Aboutin tai Visan, **kaikilla liitteillä on oltava kelvollinen lähdemerkintä**. Ilman sitä sisältöäsi ei voi julkaista.
+> ⚠️ Jotta voit **julkaista** Round-Aboutin tai Visan, **kaikilla liitteillä on oltava kelvollinen lähdemerkintä**. Muuten sitä ei voi julkaista.
+
+---
+
+## 📱 Näytä pelaajien laitteilla
+
+Näyttöjen välissä näytettävät kuvat - ennen kysymystä tai sen jälkeen, ennen palautetta tai sen jälkeen sekä ennen kierrosta tai sen jälkeen - voidaan näyttää pelinäytön lisäksi myös **pelaajien laitteilla**. Valitse sitä varten liitteestä **Näytä pelaajien laitteilla**.
+
+> ℹ️ Tämä koskee vain kuvia. **Kysymyksen aikana** -paikan kuvaa ei koskaan peilata: pelaajat näkevät sen pelinäytöllä. Jos haluat, että kuva täyttää sen sijaan koko pelinäytön, käytä kysymyksen **Mukautettu näkymä** -asetusta (katso [kysymysten kirjoittaminen](../editor/005-writing-questions.md)).
 
 ---
 

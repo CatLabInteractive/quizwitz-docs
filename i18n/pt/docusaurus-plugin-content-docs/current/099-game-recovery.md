@@ -18,7 +18,7 @@ Apenas **reabre o mesmo separador do navegador** que estavas a usar para mostrar
 
 Quando carregar:
 
-- Vai ser-te pedido que **retomes a sessão anterior** ou **comeces uma nova**
+- Vai ser-te pedido que **retomes o jogo anterior** ou **comeces uma nova**
 - Se escolheres retomar, o jogo vai restaurar o teu progresso o mais fielmente possível
 
 ---
@@ -38,7 +38,7 @@ Seleciona **“Retomar jogo”** para:
 
 Também podes escolher **começar um novo jogo**.
 
-- Isto vai **limpar completamente a sessão anterior**
+- Isto vai **limpar completamente o jogo anterior**
 - Vais voltar ao início da configuração do quiz
 
 > ⚠️ Escolhe isto apenas se tiveres a certeza de que não queres continuar o jogo existente.

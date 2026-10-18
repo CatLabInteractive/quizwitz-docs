@@ -60,7 +60,7 @@ Per eventi una tantum o occasionali, puoi attivare **Seats pay-as-you-go** invec
 
 - I **Seats pay-as-you-go** restano attivi per **48 ore** dopo l'attivazione.
 - Durante questo periodo, puoi:
-  - Organizzare **più quiz o sessioni**
+  - Organizzare **più quiz o partite**
   - **Testare** il tuo quiz con gruppi più grandi
   - Ospitare **eventi di più giorni** durante un weekend
 

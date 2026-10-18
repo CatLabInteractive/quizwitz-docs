@@ -24,7 +24,7 @@ Jeśli telefon lub tablet to twoja jedyna opcja, wykonaj poniższe kroki, aby zm
 ### 🎞️ Przetestuj fragmenty audio i wideo
 
 - Jeśli twój quiz zawiera **audio lub wideo**, przetestuj je wcześniej
-- Niektóre urządzenia mogą **mieć problemy z dużymi plikami multimedialnymi** lub w ogóle ich nie odtwarzać
+- Niektóre urządzenia mogą **mieć problemy z dużymi załącznikami** lub w ogóle ich nie odtwarzać
 - Zachowaj szczególną ostrożność w przypadku **starszych urządzeń** lub domyślnych przeglądarek mobilnych
 
 ---

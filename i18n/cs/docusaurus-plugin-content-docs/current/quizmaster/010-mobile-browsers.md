@@ -24,7 +24,7 @@ Pokud je telefon nebo tablet tvoje jediná možnost, postupuj podle těchto krok
 ### 🎞️ Otestuj audio a video ukázky
 
 - Pokud tvůj kvíz obsahuje **audio nebo video**, otestuj ho předem
-- Některá zařízení můžou mít **potíže s velkými mediálními soubory** nebo je nemusí přehrát vůbec
+- Některá zařízení můžou mít **potíže s velkými přílohami** nebo je nemusí přehrát vůbec
 - Buď obzvlášť opatrný/á u **starších zařízení** nebo výchozích mobilních prohlížečů
 
 ---

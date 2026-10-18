@@ -38,7 +38,15 @@ Jeder Anhang kann einen Namen und eine optionale Quellenangabe haben:
 - **Name** - Wird dem Quizmaster in [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) angezeigt; hilft bei der Organisation der Anhänge
 - **Quellenangabe** - Wird den Spielern als Anerkennung oder Quelleninformation angezeigt. Dies sollte der **Name des Rechteinhabers** sein.
 
-> ⚠️ Um ein Round-About oder Quiz zu **veröffentlichen**, **müssen alle Anhänge eine gültige Quellenangabe** enthalten. Ohne diese können deine Einträge nicht öffentlich gemacht werden.
+> ⚠️ Um ein Round-About oder Quiz zu **veröffentlichen**, **müssen alle Anhänge eine gültige Quellenangabe** enthalten. Ohne diese kann es nicht veröffentlicht werden.
+
+---
+
+## 📱 Auf Spieler-Geräten anzeigen
+
+Bilder, die zwischen den Bildschirmen gezeigt werden - vor oder nach einer Frage, vor oder nach ihrem Feedback und vor oder nach einer Runde - können auch auf den **Geräten der Spieler** angezeigt werden, nicht nur auf dem Spielbildschirm. Aktiviere dazu beim Anhang **Auf Spieler-Geräten anzeigen**.
+
+> ℹ️ Das gilt nur für Bilder. Ein Bild im Slot **Während der Frage** wird nie gespiegelt: Die Spieler sehen es auf dem Spielbildschirm. Soll dieses Bild stattdessen den ganzen Spielbildschirm füllen, nutze die **Benutzerdefinierte Ansicht** der Frage (siehe [Fragen schreiben](../editor/005-writing-questions.md)).
 
 ---
 

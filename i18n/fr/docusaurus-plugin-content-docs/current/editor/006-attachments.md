@@ -38,7 +38,15 @@ Chaque pièce jointe peut avoir un nom et une attribution optionnelle :
 - **Nom** - Affiché au quizmaster dans [QuizWitz Live (PRO)](../quizmaster/001-introduction.md) ; aide à organiser les pièces jointes
 - **Attribution** - Affichée aux joueurs comme crédit ou source. Cela doit être le **nom du titulaire des droits**.
 
-> ⚠️ Pour **publier** un Round-About ou un Quiz, **toutes les pièces jointes doivent avoir une attribution valide** renseignée. Sans cela, votre élément ne peut pas être rendu public.
+> ⚠️ Pour **publier** un Round-About ou un Quiz, **toutes les pièces jointes doivent avoir une attribution valide** renseignée. Sans cela, il ne peut pas être rendu public.
+
+---
+
+## 📱 Afficher sur les appareils des joueurs
+
+Les images affichées entre les écrans - avant ou après une question, avant ou après son feedback, et avant ou après une manche - peuvent aussi être affichées sur les **appareils des joueurs**, pas seulement sur l'écran de jeu. Pour cela, cochez **Afficher sur les appareils des joueurs** sur la pièce jointe.
+
+> ℹ️ Cela ne s'applique qu'aux images. Une image dans l'emplacement **Pendant la question** n'est jamais reproduite : les joueurs la voient sur l'écran de jeu. Pour que cette image remplisse plutôt tout l'écran de jeu, utilisez la **Vue personnalisée** de la question (voir [rédiger des questions](../editor/005-writing-questions.md)).
 
 ---
 

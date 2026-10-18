@@ -43,6 +43,6 @@ Se [skrive spørsmål](../editor/005-writing-questions.md) for en generell overs
 
 - **Vær tydelig og konsis:** Unngå tvetydige formuleringer.
 - **Bruk troverdige gale svar:** Gjør avledningene troverdige.
-- **Bland medier:** Legg til bilder, flagg eller lyder for mer engasjement.
+- **Bland vedlegg:** Legg til bilder, flagg eller lyder for mer engasjement.
 - **Tilfeldig rekkefølge:** Hold det rettferdig for alle spillere.
 - **Tagg og kategoriser:** For enkel navigering og søkbarhet.

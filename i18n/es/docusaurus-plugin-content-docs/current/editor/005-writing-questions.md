@@ -55,6 +55,20 @@ Estos campos controlan lo que aparece en la Quizmaster App y en la pantalla de j
 
 ---
 
+### 🖼️ Vista personalizada
+
+Algunos temas pueden mostrar una pregunta con más de un diseño de pantalla. Cuando el tema del quiz los ofrece, aparece la opción **Vista personalizada** en los ajustes de la pregunta:
+
+- **Predeterminado** - El texto de la pregunta, las opciones de respuesta y el adjunto comparten la pantalla como siempre
+- **Adjunto a pantalla completa** - La imagen o el vídeo de la ranura **Durante la pregunta** ocupa toda la pantalla de juego; el texto de la pregunta y las opciones no se muestran. Los jugadores siguen leyendo la pregunta y respondiendo en su propio dispositivo. Ideal para preguntas con imagen del tipo *"¿Qué es esto?"* y para preguntas con vídeo.
+- **Adjunto a pantalla completa sin temporizador** - Lo mismo, pero también se oculta la cuenta atrás *(tema Emerald)*
+
+> ℹ️ Una vista personalizada solo cambia una pregunta que tiene una imagen o un vídeo en la ranura **Durante la pregunta**. No es lo mismo que **Mostrar en dispositivos de los jugadores** (consulta [archivos adjuntos](../editor/006-attachments.md)), que muestra una imagen también en los teléfonos de los jugadores.
+
+📘 Las vistas disponibles dependen del tema - consulta las páginas del [tema Emerald](../advanced/011-emerald-theme.md) y de [temas](../advanced/010-theming.md).
+
+---
+
 ## 📎 Archivos adjuntos
 
 ![Archivos adjuntos a la pregunta](/images/question-attachments.png)

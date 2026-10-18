@@ -24,7 +24,7 @@ Usa la pestaña **QuizWitz Library** para buscar e importar preguntas, rondas o 
 4. Selecciona uno o más elementos
 5. Haz clic en **Añadir X elementos** para insertar el contenido seleccionado en tu quiz
 
-![QuizWitz Library](/images/import/import-from-quizwitz.png)
+![Biblioteca de QuizWitz](/images/import/import-from-quizwitz.png)
 
 > ✅ Usa este método para reutilizar contenido de alta calidad o combinar múltiples Round-Abouts públicos en un quiz más grande.
 

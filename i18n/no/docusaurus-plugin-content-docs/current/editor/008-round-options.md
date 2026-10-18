@@ -56,15 +56,25 @@ Disse alternativene for poengberegning finner du i panelet for rundealternativer
 
 ---
 
+## 💬 Rundeforklaring
+
+Noen rundetyper og poengalternativer viser en kort forklaring på spillskjermen før det første spørsmålet, for eksempel *«Svar riktig på flere spørsmål på rad for å nå høyere Level og få bonuspoeng.»* når en runde bruker Strike-poengberegning. Klikk på **+ Rundeforklaring** i starten av runden for å erstatte teksten med din egen. Du kan også bruke den til å forklare en vanlig Trivia-runde, som ikke har noen forklaring som standard.
+
+- La feltet stå tomt for å beholde standardforklaringen for rundetypen.
+- Rundeforklaringen oversettes som all annen tekst: legg den til på hvert språk i quizen din.
+- Når en quizmaster presenterer quizen, hopper spillskjermen over rundeforklaringen. Bruk heller quizmastermanuset nedenfor.
+
+---
+
 ## 📜 Instruksjoner for quizmasteren
 
-Du kan legge til en egen **introduksjonstekst for runden** som bare vises i [Quizmaster-appen](../quizmaster/001-introduction.md) ved starten av runden. Bruk dette til å orientere quizmasteren eller gi det et personlig preg.
+Du kan legge til en egen **introduksjonstekst for runden** (**quizmastermanuset**) som bare vises i [Quizmaster-appen](../quizmaster/001-introduction.md) ved starten av runden. Bruk dette til å orientere quizmasteren eller gi det et personlig preg.
 
 ---
 
 ## 📎 Vedlegg
 
-Gjør runden din rikere med medier som vises i bestemte øyeblikk:
+Gjør runden din rikere med vedlegg som vises i bestemte øyeblikk:
 
 - **Før runden** - Vises etter animasjonen for rundeintroen
 - **Etter runden** - Vises etter rundeavslutningen

@@ -55,6 +55,20 @@ Ces champs contrôlent ce qui apparaît sur la Quizmaster App et l'écran de jeu
 
 ---
 
+### 🖼️ Vue personnalisée
+
+Certains thèmes peuvent afficher une question selon plusieurs mises en page. Lorsque le thème du quiz en propose, une option **Vue personnalisée** apparaît dans les paramètres de la question :
+
+- **Par défaut** - Le texte de la question, les options de réponse et la pièce jointe se partagent l'écran comme d'habitude
+- **Pièce jointe en plein écran** - L'image ou la vidéo de l'emplacement **Pendant la question** remplit tout l'écran de jeu ; le texte de la question et les options ne sont pas affichés. Les joueurs lisent toujours la question et répondent sur leur propre appareil. Idéal pour les questions en image du type *« Qu'est-ce que c'est ? »* et pour les questions vidéo.
+- **Pièce jointe en plein écran sans minuteur** - Idem, avec le compte à rebours masqué en plus *(thème Emerald)*
+
+> ℹ️ Une vue personnalisée ne modifie qu'une question qui a une image ou une vidéo dans l'emplacement **Pendant la question**. Ce n'est pas la même chose que **Afficher sur les appareils des joueurs** (voir [pièces jointes](../editor/006-attachments.md)), qui reproduit une image sur les téléphones des joueurs.
+
+📘 Les vues disponibles dépendent du thème - consultez les pages [thème Emerald](../advanced/011-emerald-theme.md) et [thèmes](../advanced/010-theming.md).
+
+---
+
 ## 📎 Pièces jointes
 
 ![Pièces jointes aux questions](/images/question-attachments.png)

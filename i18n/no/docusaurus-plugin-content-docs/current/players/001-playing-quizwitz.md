@@ -80,7 +80,7 @@ Når du er klar:
 
 Velg:
 
-- **Spillmodus** - Enspiller eller partyspill
+- **Spillmodus** - Enspiller eller Partyspill
 - **Hvilke Round-Abouts** som skal være med i spillet ditt
 
 QuizWitz prøver å hoppe over spørsmål du allerede har sett.

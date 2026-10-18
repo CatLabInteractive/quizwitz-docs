@@ -68,11 +68,27 @@ Dostupné úpravy jsou:
 - backgroundColor
 - mainColor
 - accentColor
+- containerColor (kontejner otázky; může obsahovat hodnotu alfa, například ffffff40)
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
+- dialogTextColor
+- pieChartLabelColor
+- ladderColor
 - optionColors (4 barvy oddělené čárkou)
 - optionBorderColors (4 barvy oddělené čárkou)
+
+Upravit lze i vzhled zařízení hráčů:
+
+- remoteBackgroundColor
+- remoteTextColor
+- remoteQuestionColor
+- remoteQuestionTextColor
+- remoteOptionOutlineColor
+- remoteOutlineColor
+- remoteContainerBackground
+- remoteContainerText
+- remoteOptionColors (4 barvy oddělené čárkou)
 
 Navíc můžeš nastavit výchozí písmo:
 
@@ -80,6 +96,8 @@ Navíc můžeš nastavit výchozí písmo:
 - headerFont
 
 Tato písma musí být URL adresy veřejně dostupných souborů písem.
+
+Nakonec `hideLogo=1` skryje logo QuizWitz.
 
 Každá z těchto úprav může obsahovat jednu barvu ve formátu HTML hex (ff0000), nebo lineární přechod zadáním více barev oddělených symbolem mínus ( - například ff1b6b-45caff). (Pozor, symbol # se nemá přidávat.)
 
@@ -91,3 +109,18 @@ Přidáním těchto parametrů do URL hry můžeš upravit barvy v motivu:
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![Snímek obrazovky motivu Emerald s vlastními úpravami](/images/emerald/theme_properties.png)
+
+### Uložení úprav do kvízu
+
+Parametry nemusíš ručně přidávat ke každému odkazu. V editoru kvízu otevři **Sdílet nebo vložit**, rozbal **Pokročilé možnosti hry**, vlož parametry (bez úvodního otazníku, například `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) do pole **surový dotaz** a klikni na **Uložit nastavení do kvízu**. Od té doby je obsahuje každý herní i sdílecí odkaz kvízu.
+
+Asistent QuizWitz AI to může udělat i za tebe: požádej ho, aby změnil barvu pozadí kvízu, a on přepne kvíz na motiv Emerald a úpravy uloží.
+
+## Vlastní zobrazení otázek
+
+Motiv Emerald nabízí také dvě další rozvržení obrazovky pro otázku s obrázkem nebo videem ve slotu **Během otázky**; vybírají se u každé otázky volbou **Vlastní zobrazení** v nastavení otázky:
+
+- **Příloha přes celou obrazovku** - obrázek nebo video vyplní celou herní obrazovku, text otázky a možnosti se nevykreslí
+- **Příloha přes celou obrazovku bez časovače** - totéž, navíc se skryje i odpočet
+
+Hráči čtou otázku a odpovídají na svých zařízeních. Podrobnosti najdeš v části [psaní otázek](../editor/005-writing-questions.md).

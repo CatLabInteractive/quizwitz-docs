@@ -60,7 +60,7 @@ Na jednorazové alebo príležitostné podujatia môžeš namiesto kúpy licenci
 
 - **Seats typu pay-as-you-go** zostanú aktívne **48 hodín** po aktivácii.
 - Počas tohto času môžeš:
-  - Spustiť **viacero kvízov alebo relácií**
+  - Spustiť **viacero kvízov alebo hier**
   - **Otestovať** svoj kvíz s väčšími skupinami
   - Hostiť **viacdňové podujatia** počas víkendu
 

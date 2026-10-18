@@ -24,7 +24,7 @@ Se usare un telefono o un tablet è la tua unica opzione, segui questi passaggi 
 ### 🎞️ Testa i frammenti audio e video
 
 - Se il tuo quiz include **audio o video**, testali in anticipo
-- Alcuni dispositivi potrebbero **avere difficoltà con file multimediali di grandi dimensioni** o non riprodurli affatto
+- Alcuni dispositivi potrebbero **avere difficoltà con allegati di grandi dimensioni** o non riprodurli affatto
 - Fai particolare attenzione con **dispositivi più vecchi** o browser mobili predefiniti
 
 ---

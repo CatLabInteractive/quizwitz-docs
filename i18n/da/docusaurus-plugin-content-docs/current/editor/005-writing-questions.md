@@ -55,6 +55,20 @@ Disse felter styrer, hvad der vises i Quizmaster-appen og på spilskærmen:
 
 ---
 
+### 🖼️ Brugerdefineret visning
+
+Nogle temaer kan vise et spørgsmål i mere end ét skærmlayout. Når quizzens tema tilbyder dem, vises indstillingen **Brugerdefineret visning** i spørgsmålsindstillingerne:
+
+- **Standard** - Spørgsmålsteksten, svarmulighederne og vedhæftningen deler skærmen som normalt
+- **Vedhæftning i fuld skærm** - Billedet eller videoen i feltet **Under spørgsmål** fylder hele spilskærmen; spørgsmålsteksten og svarmulighederne vises ikke. Spillerne læser stadig spørgsmålet og svarer på deres egen enhed. Ideelt til billedspørgsmål af typen *"Hvad er det her?"* og videospørgsmål.
+- **Vedhæftning i fuld skærm uden nedtælling** - Det samme, men nedtællingen er også skjult *(Emerald-temaet)*
+
+> ℹ️ En brugerdefineret visning ændrer kun et spørgsmål, der har et billede eller en video i feltet **Under spørgsmål**. Det er ikke det samme som **Vis på spillernes enheder** (se [vedhæftninger](../editor/006-attachments.md)), som spejler et billede til spillernes telefoner.
+
+📘 De tilgængelige visninger afhænger af temaet - se siderne om [Emerald-temaet](../advanced/011-emerald-theme.md) og [temaer](../advanced/010-theming.md).
+
+---
+
 ## 📎 Vedhæftninger
 
 ![Vedhæftninger til spørgsmål](/images/question-attachments.png)

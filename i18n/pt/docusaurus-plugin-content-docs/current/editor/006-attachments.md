@@ -38,7 +38,15 @@ Cada anexo pode ter um nome e uma atribuição opcional:
 - **Nome** - Mostrado ao quizmaster em [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); ajuda a organizar os anexos
 - **Atribuição** - Mostrada aos jogadores como crédito ou informação sobre a fonte. Deve ser o **nome do titular dos direitos**.
 
-> ⚠️ Para **publicar** um Round-About ou Quiz, **todos os anexos têm de ter uma atribuição válida** preenchida. Sem isto, a tua entrada não pode ser tornada pública.
+> ⚠️ Para **publicar** um Round-About ou Quiz, **todos os anexos têm de ter uma atribuição válida** preenchida. Sem isto, não pode ser tornado público.
+
+---
+
+## 📱 Mostrar nos dispositivos dos jogadores
+
+As imagens mostradas entre ecrãs - antes ou depois de uma pergunta, antes ou depois do seu feedback, e antes ou depois de uma ronda - também podem ser mostradas nos **dispositivos dos jogadores**, e não só no ecrã de jogo. Para isso, assinala **Mostrar nos dispositivos dos jogadores** no anexo.
+
+> ℹ️ Isto aplica-se apenas a imagens. Uma imagem no espaço **Durante a pergunta** nunca é replicada: os jogadores veem-na no ecrã de jogo. Para que essa imagem preencha o ecrã de jogo, usa antes a **Vista personalizada** da pergunta (consulta [escrever perguntas](../editor/005-writing-questions.md)).
 
 ---
 

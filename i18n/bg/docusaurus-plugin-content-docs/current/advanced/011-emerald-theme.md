@@ -68,11 +68,27 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 - backgroundColor
 - mainColor
 - accentColor
+- containerColor (контейнерът на въпроса; може да съдържа алфа стойност, например ffffff40)
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
+- dialogTextColor
+- pieChartLabelColor
+- ladderColor
 - optionColors (4 цвята, разделени със запетая)
 - optionBorderColors (4 цвята, разделени със запетая)
+
+Можеш да стилизираш и устройствата на играчите:
+
+- remoteBackgroundColor
+- remoteTextColor
+- remoteQuestionColor
+- remoteQuestionTextColor
+- remoteOptionOutlineColor
+- remoteOutlineColor
+- remoteContainerBackground
+- remoteContainerText
+- remoteOptionColors (4 цвята, разделени със запетая)
 
 Освен това можеш да зададеш шрифт по подразбиране:
 
@@ -80,6 +96,8 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 - headerFont
 
 Тези шрифтове трябва да са URL адреси към публично достъпни файлове с шрифтове.
+
+Накрая, `hideLogo=1` скрива логото на QuizWitz.
 
 Всеки от тези модификатори може да съдържа един цвят в HTML hex формат (ff0000) или линеен градиент, като се предоставят няколко цвята, разделени със знак минус ( - например ff1b6b-45caff). (Имай предвид, че символът # не трябва да се добавя.)
 
@@ -91,3 +109,18 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![Екранна снимка на темата Emerald с персонализирани модификатори](/images/emerald/theme_properties.png)
+
+### Запазване на модификаторите в куиза
+
+Не е нужно да добавяш параметрите ръчно към всеки линк. Отвори **Сподели или вгради** в редактора на куиза, разгъни **Разширени опции за играта**, постави параметрите (без въпросителния знак в началото, например `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) в полето **необработена заявка** и кликни **Запази настройките в куиза**. Оттогава нататък всеки линк за игра и всеки линк за споделяне на куиза ги съдържа.
+
+AI асистентът на QuizWitz също може да направи това вместо теб: помоли го да смени цвета на фона на куиза ти и той ще превключи куиза към темата Emerald и ще запази модификаторите.
+
+## Персонализирани изгледи на въпроса
+
+Темата Emerald предлага и две допълнителни оформления на екрана за въпрос с изображение или видео в слота **По време на въпроса**, които се избират за всеки въпрос с опцията **Персонализиран изглед** в настройките на въпроса:
+
+- **Прикачен файл на цял екран** - изображението или видеото запълва целия екран на играта, текстът на въпроса и опциите не се показват
+- **Прикачен файл на цял екран без таймер** - същото, но и обратното броене е скрито
+
+Играчите четат въпроса и отговарят на собствените си устройства. Виж [писане на въпроси](../editor/005-writing-questions.md) за подробности.

@@ -56,15 +56,25 @@ Tieto možnosti bodovania nájdeš v paneli možností kola pri úprave kola.
 
 ---
 
+## 💬 Vysvetlenie kola
+
+Niektoré typy kôl a možnosti bodovania zobrazia na hernej obrazovke pred prvou otázkou krátke vysvetlenie, napríklad *„Odpovedajte správne na po sebe idúce otázky, aby ste dosiahli vyššie úrovne a získali bonusové body.“*, keď kolo používa bodovanie Strike. Kliknutím na **+ Vysvetlenie kola** v úvode kola tento text nahradíš vlastným. Môžeš ho použiť aj na vysvetlenie bežného kola Trivia, ktoré predvolene žiadne vysvetlenie nemá.
+
+- Ak chceš ponechať predvolené vysvetlenie typu kola, nechaj pole prázdne.
+- Vysvetlenie kola sa prekladá ako každý iný text: pridaj ho vo všetkých jazykoch svojho kvízu.
+- Keď kvíz prezentuje quizmaster, herná obrazovka vysvetlenie kola preskočí. Namiesto toho použi scenár pre quizmastera nižšie.
+
+---
+
 ## 📜 Pokyny pre quizmaster
 
-Môžeš pridať vlastný **úvodný text kola**, ktorý sa na začiatku kola zobrazí len v [Quizmaster App](../quizmaster/001-introduction.md). Použi to na inštruktáž quizmastera alebo na osobný podpis.
+Môžeš pridať vlastný **úvodný text kola** (**scenár pre quizmastera**), ktorý sa na začiatku kola zobrazí len v [Quizmaster App](../quizmaster/001-introduction.md). Použi to na inštruktáž quizmastera alebo na osobný podpis.
 
 ---
 
 ## 📎 Prílohy
 
-Vylepši svoje kolo médiami, ktoré sa zobrazia v konkrétnych momentoch:
+Vylepši svoje kolo prílohami, ktoré sa zobrazia v konkrétnych momentoch:
 
 - **Pred kolom** - Zobrazí sa po animácii úvodu kola
 - **Po kole** - Zobrazí sa po závere kola

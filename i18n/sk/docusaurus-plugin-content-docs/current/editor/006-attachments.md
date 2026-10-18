@@ -38,7 +38,15 @@ Každá príloha môže mať názov a voliteľné uvedenie zdroja:
 - **Názov** - Zobrazuje sa quizmasterovi v [QuizWitz Live (PRO)](../quizmaster/001-introduction.md); pomáha pri organizovaní príloh
 - **Uvedenie zdroja** - Zobrazuje sa hráčom ako informácia o autorovi alebo zdroji. Mal by to byť **názov držiteľa práv**.
 
-> ⚠️ Aby bolo možné **zverejniť** Round-About alebo kvíz, **všetky prílohy musia mať vyplnené platné uvedenie zdroja**. Bez toho sa tvoj obsah nedá zverejniť.
+> ⚠️ Aby bolo možné **zverejniť** Round-About alebo kvíz, **všetky prílohy musia mať vyplnené platné uvedenie zdroja**. Bez toho ho nie je možné zverejniť.
+
+---
+
+## 📱 Zobraziť na zariadeniach hráčov
+
+Obrázky zobrazené medzi obrazovkami - pred otázkou alebo po nej, pred spätnou väzbou alebo po nej a pred kolom alebo po ňom - sa môžu zobraziť aj na **zariadeniach hráčov**, nielen na hernej obrazovke. Stačí pri prílohe zaškrtnúť **Zobraziť na zariadeniach hráčov**.
+
+> ℹ️ Platí to len pre obrázky. Obrázok v slote **Počas otázky** sa nikdy nezrkadlí: hráči ho vidia na hernej obrazovke. Ak chceš, aby tento obrázok namiesto toho vyplnil hernú obrazovku, použi **Vlastné zobrazenie** otázky (pozri [písanie otázok](../editor/005-writing-questions.md)).
 
 ---
 

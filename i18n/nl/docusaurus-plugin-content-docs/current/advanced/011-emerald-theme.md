@@ -68,11 +68,27 @@ De beschikbare aanpassers zijn:
 - backgroundColor
 - mainColor
 - accentColor
+- containerColor (de vraagcontainer; mag een alfawaarde bevatten, bijvoorbeeld ffffff40)
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
+- dialogTextColor
+- pieChartLabelColor
+- ladderColor
 - optionColors (4 kleuren, kommagescheiden)
 - optionBorderColors (4 kleuren, kommagescheiden)
+
+Ook de apparaten van de spelers kun je opmaken:
+
+- remoteBackgroundColor
+- remoteTextColor
+- remoteQuestionColor
+- remoteQuestionTextColor
+- remoteOptionOutlineColor
+- remoteOutlineColor
+- remoteContainerBackground
+- remoteContainerText
+- remoteOptionColors (4 kleuren, kommagescheiden)
 
 Daarnaast kun je een standaardlettertype instellen:
 
@@ -80,6 +96,8 @@ Daarnaast kun je een standaardlettertype instellen:
 - headerFont
 
 Deze lettertypes moeten URL's zijn naar publiek toegankelijke fontbestanden.
+
+Tot slot verbergt `hideLogo=1` het QuizWitz-logo.
 
 Elk van deze aanpassers kan een enkele kleur bevatten in HTML-hexformaat (ff0000), of een lineaire gradient door meerdere kleuren te geven gescheiden door een minteken (zoals ff1b6b-45caff). (Let op: het # symbool mag niet gebruikt worden.)
 
@@ -91,3 +109,18 @@ Door deze parameters aan je game URL toe te voegen, kun je de kleuren in het the
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![Een screenshot van het Emerald-thema met aangepaste modificators](/images/emerald/theme_properties.png)
+
+### De aanpassers opslaan in je quiz
+
+Je hoeft de parameters niet bij elke link met de hand toe te voegen. Open **Delen of insluiten** in de quiz-editor, klap **Geavanceerde spelopties** open, plak de parameters (zonder het vraagteken vooraan, bijvoorbeeld `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) in het veld **onbewerkte query string** en klik op **Instellingen opslaan voor quiz**. Vanaf dan bevat elke speellink en deellink van de quiz ze.
+
+De QuizWitz AI-assistent kan dit ook voor je doen: vraag hem om de achtergrondkleur van je quiz te wijzigen, dan zet hij de quiz over naar het Emerald-thema en slaat hij de aanpassers op.
+
+## Aangepaste vraagschermen
+
+Het Emerald-thema biedt ook twee extra schermindelingen voor een vraag met een afbeelding of video in het slot **Tijdens de vraag**, per vraag te kiezen met de optie **Aangepast scherm** in de vraaginstellingen:
+
+- **Bijlage op volledig scherm** - de afbeelding of video vult het hele spelscherm, de vraagtekst en opties worden niet getoond
+- **Bijlage op volledig scherm zonder timer** - hetzelfde, maar ook het aftellen is verborgen
+
+Spelers lezen de vraag en antwoorden op hun eigen apparaat. Zie [vragen schrijven](../editor/005-writing-questions.md) voor details.

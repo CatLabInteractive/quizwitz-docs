@@ -68,11 +68,27 @@ Tilgjengelige modifikatorer er:
 - backgroundColor
 - mainColor
 - accentColor
+- containerColor (spørsmålsbeholderen; kan ha en alfaverdi, for eksempel ffffff40)
 - timerBackgroundColor
 - headerTextColor
 - optionTextColor
+- dialogTextColor
+- pieChartLabelColor
+- ladderColor
 - optionColors (4 farger, kommaseparert)
 - optionBorderColors (4 farger, kommaseparert)
+
+Du kan også endre utseendet på spillernes enheter:
+
+- remoteBackgroundColor
+- remoteTextColor
+- remoteQuestionColor
+- remoteQuestionTextColor
+- remoteOptionOutlineColor
+- remoteOutlineColor
+- remoteContainerBackground
+- remoteContainerText
+- remoteOptionColors (4 farger, kommaseparert)
 
 I tillegg kan du angi en standardskrift:
 
@@ -80,6 +96,8 @@ I tillegg kan du angi en standardskrift:
 - headerFont
 
 Disse skriftene må være URL-er til offentlig tilgjengelige skriftfiler.
+
+Til slutt skjuler `hideLogo=1` QuizWitz-logoen.
 
 Hver av disse modifikatorene kan inneholde én farge i HTML-heksformat (ff0000), eller en lineær gradient ved å oppgi flere farger skilt med et minustegn (for eksempel ff1b6b-45caff). (Merk at symbolet # ikke skal tas med.)
 
@@ -91,3 +109,18 @@ Ved å legge disse parameterne til spill-URL-en din kan du endre fargene i temae
 https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgroundColor=ff1b6b-45caff&accentColor=00ff87&mainColor=ffffff&timerBackgroundColor=fff95b
 
 ![Et skjermbilde av Emerald-temaet med egne modifikatorer](/images/emerald/theme_properties.png)
+
+### Lagre modifikatorene i quizen
+
+Du trenger ikke å legge parameterne til hver lenke for hånd. Åpne **Del eller bygg inn** i quizeditoren, utvid **Avanserte spillalternativer**, lim inn parameterne (uten spørsmålstegnet først, for eksempel `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) i feltet **rå spørrestreng** og klikk på **Lagre innstillingene i quizen**. Fra da av har alle spillelenker og delingslenker til quizen dem med.
+
+AI-assistenten i QuizWitz kan også gjøre dette for deg: be den endre bakgrunnsfargen på quizen din, så bytter den quizen til Emerald-temaet og lagrer modifikatorene.
+
+## Egendefinerte spørsmålsvisninger
+
+Emerald-temaet har også to ekstra skjermoppsett for et spørsmål med et bilde eller en video i feltet **Under spørsmålet**. Oppsettet velges per spørsmål med valget **Egendefinert visning** i spørsmålsinnstillingene:
+
+- **Vedlegg i fullskjerm** - bildet eller videoen fyller hele spillskjermen, spørsmålsteksten og alternativene vises ikke
+- **Vedlegg i fullskjerm uten tidtaker** - det samme, men nedtellingen er også skjult
+
+Spillerne leser spørsmålet og svarer på sine egne enheter. Se [skrive spørsmål](../editor/005-writing-questions.md) for mer informasjon.
