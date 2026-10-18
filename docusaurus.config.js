@@ -11,7 +11,11 @@ const config = {
   baseUrl: process.env.DOCS_BASE_URL || '/',
   noIndex: Boolean(process.env.DOCS_BASE_URL),
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+    },
+  },
   favicon: 'img/favicon.ico',
   organizationName: 'catlabinteractive', // Usually your GitHub org/user name.
   projectName: 'quizwitz-docs', // Usually your repo name.
