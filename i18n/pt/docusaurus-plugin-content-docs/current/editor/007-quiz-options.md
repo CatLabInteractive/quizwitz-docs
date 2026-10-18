@@ -26,6 +26,7 @@ Escolhe um tema visual para o teu quiz.
 - O tema padrão é **QuizWitz**
 - A tua organização pode ter acesso a temas personalizados
 - Os temas afetam o plano de fundo, as cores e o layout
+- **Personalizar tema**, por baixo da lista de temas, abre o testador de tema para mudares as cores e os tipos de letra do tema e os aplicares ao teu quiz (Premium, num computador)
 
 📘 Vê a [documentação do tema Emerald](../advanced/011-emerald-theme.md) para mais detalhes sobre como personalizar os visuais com este tema.
 

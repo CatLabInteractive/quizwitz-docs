@@ -25,6 +25,7 @@ Choose a visual theme for your quiz.
 - The default theme is **QuizWitz**
 - Your organization may have access to custom themes
 - Themes affect background, colors, and layout
+- **Customize theme**, under the list of themes, opens the theme tester to change the colors and fonts of the theme and apply them to your quiz (Premium, on a computer)
 
 📘 See the [Emerald theme documentation](../advanced/011-emerald-theme.md) for more details on customizing visuals with this theme.
 

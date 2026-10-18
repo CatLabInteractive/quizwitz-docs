@@ -110,6 +110,12 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgr
 
 ![Özel değiştiricilerle Emerald temasının ekran görüntüsü](/images/emerald/theme_properties.png)
 
+### Temayı quiz editöründen özelleştirme
+
+Değiştiricileri ayarlamanın en hızlı yolu, quiz ayarlarında temalar listesinin altındaki **Temayı özelleştir** düğmesidir. Bu düğme tema test aracını quizinle birlikte açar; burada temanın sunduğu renkleri ve yazı tiplerini seçip sonucu hemen görebilirsin. **Ayarları quize uygula** düğmesine tıkla; editör temayı seçer ve değiştiricileri quizine kaydeder.
+
+Düğme için kaydedilmiş bir quiz ve Premium gerekir ve bilgisayarda çalışır: tema test aracı telefon ekranına sığmaz.
+
 ### Değiştiricileri quizine kaydetme
 
 Parametreleri her bağlantıya elle eklemen gerekmez. Quiz editöründe **Paylaş veya yerleştir** penceresini aç, **Gelişmiş oyun seçenekleri** bölümünü genişlet, parametreleri (baştaki soru işareti olmadan, örneğin `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) **ham sorgu dizesi** alanına yapıştır ve **Ayarları quize kaydet** düğmesine tıkla. Bundan sonra quizin her oynatma bağlantısı ve paylaşım bağlantısı bu parametreleri taşır.

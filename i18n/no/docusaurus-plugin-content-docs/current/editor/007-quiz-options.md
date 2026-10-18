@@ -26,6 +26,7 @@ Velg et visuelt tema for quizen din.
 - Standardtemaet er **QuizWitz**
 - Organisasjonen din kan ha tilgang til egne temaer
 - Temaer påvirker bakgrunn, farger og oppsett
+- **Tilpass tema**, under listen over temaer, åpner tematesteren slik at du kan endre fargene og skriftene i temaet og bruke dem på quizen din (Premium, på en datamaskin)
 
 📘 Se [dokumentasjonen for Emerald-temaet](../advanced/011-emerald-theme.md) for mer om å tilpasse utseendet med dette temaet.
 

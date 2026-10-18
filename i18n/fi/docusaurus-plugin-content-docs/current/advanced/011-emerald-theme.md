@@ -110,6 +110,12 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgr
 
 ![Kuvakaappaus Emerald-teemasta omilla muokkaimilla](/images/emerald/theme_properties.png)
 
+### Teeman mukauttaminen visaeditorissa
+
+Nopein tapa asettaa muokkaimet on **Mukauta teemaa** -painike visan asetuksissa teemaluettelon alla. Se avaa teematestaajan visasi kanssa, ja voit valita teeman tarjoamat värit ja fontit ja nähdä tuloksen heti. Napsauta **Käytä asetuksia visaan**, niin editori valitsee teeman ja tallentaa muokkaimet visaasi.
+
+Painike vaatii tallennetun visan ja Premiumin, ja se toimii tietokoneella: teematestaaja ei mahdu puhelimen näytölle.
+
 ### Muokkainten tallentaminen visaan
 
 Parametreja ei tarvitse lisätä jokaiseen linkkiin käsin. Avaa visaeditorissa **Jaa tai upota**, laajenna **Pelin lisäasetukset**, liitä parametrit (ilman alun kysymysmerkkiä, esimerkiksi `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) **raaka kyselymerkkijono** -kenttään ja napsauta **Tallenna asetukset visaan**. Siitä lähtien ne sisältyvät visan jokaiseen peli- ja jakolinkkiin.

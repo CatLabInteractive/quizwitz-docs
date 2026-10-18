@@ -110,6 +110,12 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgr
 
 ![Snímek obrazovky motivu Emerald s vlastními úpravami](/images/emerald/theme_properties.png)
 
+### Přizpůsobení motivu z editoru kvízu
+
+Nejrychlejší způsob, jak nastavit úpravy, je tlačítko **Přizpůsobit motiv** v nastavení kvízu, pod seznamem motivů. Otevře tester motivu s tvým kvízem, kde můžeš vybrat barvy a písma, které motiv nabízí, a hned vidět výsledek. Klikni na **Použít nastavení na kvíz** a editor vybere motiv a uloží úpravy do tvého kvízu.
+
+Tlačítko vyžaduje uložený kvíz a Premium a funguje na počítači: tester motivu se na telefon nevejde.
+
 ### Uložení úprav do kvízu
 
 Parametry nemusíš ručně přidávat ke každému odkazu. V editoru kvízu otevři **Sdílet nebo vložit**, rozbal **Pokročilé možnosti hry**, vlož parametry (bez úvodního otazníku, například `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) do pole **surový dotaz** a klikni na **Uložit nastavení do kvízu**. Od té doby je obsahuje každý herní i sdílecí odkaz kvízu.
