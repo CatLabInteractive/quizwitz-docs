@@ -26,6 +26,7 @@ Välj ett visuellt tema för ditt quiz.
 - Standardtemat är **QuizWitz**
 - Din organisation kan ha tillgång till egna teman
 - Teman påverkar bakgrund, färger och layout
+- **Anpassa tema**, under listan med teman, öppnar testverktyget för teman så att du kan ändra temats färger och typsnitt och tillämpa dem på ditt quiz (Premium, på en dator)
 
 📘 Se [dokumentationen om Emerald-temat](../advanced/011-emerald-theme.md) för mer information om hur du anpassar grafiken med det här temat.
 

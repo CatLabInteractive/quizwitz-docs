@@ -26,6 +26,7 @@ Wähle ein visuelles Theme für dein Quiz aus.
 - Das Standard-Theme ist **QuizWitz**
 - Deine Organisation kann Zugang zu benutzerdefinierten Themes haben
 - Themes beeinflussen Hintergrund, Farben und Layout
+- **Theme anpassen**, unter der Liste der Themes, öffnet den Theme Tester, um die Farben und Schriftarten des Themes zu ändern und auf dein Quiz anzuwenden (Premium, am Computer)
 
 📘 Sieh dir die [Emerald theme Dokumentation](../advanced/011-emerald-theme.md) für mehr Details zur Anpassung der Optik mit diesem Design an.
 

@@ -26,6 +26,7 @@ Choisissez un thème visuel pour votre quiz.
 - Le thème par défaut est **QuizWitz**
 - Votre organisation peut avoir accès à des thèmes personnalisés
 - Les thèmes influencent l'arrière-plan, les couleurs et la mise en page
+- **Personnaliser le thème**, sous la liste des thèmes, ouvre le testeur de thème pour modifier les couleurs et les polices du thème et les appliquer à votre quiz (Premium, sur ordinateur)
 
 📘 Consultez la [documentation du thème Emerald](../advanced/011-emerald-theme.md) pour plus de détails sur la personnalisation visuelle avec ce thème.
 

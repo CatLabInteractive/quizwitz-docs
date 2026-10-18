@@ -26,6 +26,7 @@ Quizin için görsel bir tema seç.
 - Varsayılan tema **QuizWitz**'tir
 - Kuruluşunun özel temalara erişimi olabilir
 - Temalar arka planı, renkleri ve düzeni etkiler
+- Temalar listesinin altındaki **Temayı özelleştir**, temanın renklerini ve yazı tiplerini değiştirip quizine uygulaman için tema test aracını açar (Premium, bilgisayarda)
 
 📘 Bu temayla görselleri özelleştirme hakkında daha fazla ayrıntı için [Emerald teması belgelerine](../advanced/011-emerald-theme.md) göz at.
 

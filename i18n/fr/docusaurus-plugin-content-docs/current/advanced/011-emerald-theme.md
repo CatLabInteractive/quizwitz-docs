@@ -110,6 +110,12 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgr
 
 ![Une capture d'écran du thème Emerald avec modificateurs personnalisés](/images/emerald/theme_properties.png)
 
+### Personnaliser le thème depuis l'éditeur de quiz
+
+Le moyen le plus rapide de définir les modificateurs est le bouton **Personnaliser le thème** dans les paramètres du quiz, sous la liste des thèmes. Il ouvre le testeur de thème avec votre quiz, où vous pouvez choisir les couleurs et les polices proposées par le thème et voir le résultat immédiatement. Cliquez sur **Appliquer les paramètres au quiz** : l'éditeur sélectionne le thème et enregistre les modificateurs dans votre quiz.
+
+Le bouton nécessite un quiz enregistré et Premium, et fonctionne sur ordinateur : le testeur de thème ne tient pas sur un téléphone.
+
 ### Enregistrer les modificateurs dans votre quiz
 
 Vous n'avez pas besoin d'ajouter les paramètres à la main à chaque lien. Ouvrez **Partager ou intégrer** dans l'éditeur de quiz, dépliez **Options de jeu avancées**, collez les paramètres (sans le point d'interrogation initial, par exemple `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) dans le champ **requête brute** et cliquez sur **Enregistrer les paramètres dans le quiz**. Dès lors, chaque lien de jeu et chaque lien de partage du quiz les contient.
