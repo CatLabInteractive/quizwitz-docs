@@ -61,6 +61,7 @@ Deze score-opties vind je in het ronde-opties paneel tijdens het bewerken van ee
 Sommige rondetypes en puntenstrategieën tonen vóór de eerste vraag een korte uitleg op het spelscherm, bijvoorbeeld *"Beantwoord opeenvolgende vragen juist om te stijgen op de ladder en bonuspunten te verdienen."* wanneer een ronde de Strike-puntentelling gebruikt. Klik op **+ Uitleg over de ronde** in de ronde-opening om die tekst door je eigen tekst te vervangen. Je kunt dit ook gebruiken om een gewone Trivia-ronde uit te leggen, die standaard geen uitleg heeft.
 
 - Laat het veld leeg om de standaarduitleg van het rondetype te behouden.
+- Wil je helemaal geen uitleg tonen, vink dan **Toon uitleg over de ronde** uit in de ronde-opening. Het spel slaat dan zowel je eigen tekst als de standaarduitleg over.
 - De uitleg over de ronde wordt vertaald zoals elke andere tekst: voeg hem toe in elke taal van je quiz.
 - Wanneer een quizmaster de quiz presenteert, slaat het spelscherm de uitleg over de ronde over. Gebruik in dat geval het quizmasterscript hieronder.
 
