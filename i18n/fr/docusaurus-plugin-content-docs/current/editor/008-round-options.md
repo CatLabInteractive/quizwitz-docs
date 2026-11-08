@@ -61,7 +61,7 @@ Ces options de scoring se trouvent dans le panneau d'options de la manche lorsqu
 Certains types de manche et options de score affichent une courte explication sur l'écran de jeu avant la première question, par exemple *« Répondez correctement aux questions consécutives pour atteindre des niveaux plus élevés et obtenir des points bonus. »* lorsqu'une manche utilise la notation Strike. Cliquez sur **+ Explication de la manche** dans l'ouverture de la manche pour remplacer ce texte par le vôtre. Vous pouvez aussi l'utiliser pour expliquer une manche Trivia classique, qui n'a pas d'explication par défaut.
 
 - Laissez le champ vide pour conserver l'explication par défaut du type de manche.
-- Pour n'afficher aucune explication, décochez **Afficher l'explication de la manche** dans l'ouverture de la manche. Le jeu saute alors votre propre texte comme l'explication par défaut.
+- Pour masquer l'explication par défaut, décochez **Afficher l'explication de la manche** dans l'ouverture de la manche. L'option n'apparaît que lorsque le type de manche ou l'option de score a une explication par défaut. Votre propre explication de la manche s'affiche toujours.
 - L'explication de la manche se traduit comme n'importe quel autre texte : ajoutez-la dans chaque langue de votre quiz.
 - Lorsqu'un quizmaster présente le quiz, l'écran de jeu saute l'explication de la manche. Utilisez plutôt le script du quizmaster ci-dessous.
 

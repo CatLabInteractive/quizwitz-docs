@@ -61,7 +61,7 @@ Tieto možnosti bodovania nájdeš v paneli možností kola pri úprave kola.
 Niektoré typy kôl a možnosti bodovania zobrazia na hernej obrazovke pred prvou otázkou krátke vysvetlenie, napríklad *„Odpovedajte správne na po sebe idúce otázky, aby ste dosiahli vyššie úrovne a získali bonusové body.“*, keď kolo používa bodovanie Strike. Kliknutím na **+ Vysvetlenie kola** v úvode kola tento text nahradíš vlastným. Môžeš ho použiť aj na vysvetlenie bežného kola Trivia, ktoré predvolene žiadne vysvetlenie nemá.
 
 - Ak chceš ponechať predvolené vysvetlenie typu kola, nechaj pole prázdne.
-- Ak nechceš zobraziť žiadne vysvetlenie, zruš v úvode kola začiarknutie **Zobraziť vysvetlenie kola**. Hra potom preskočí tvoj vlastný text aj predvolené vysvetlenie.
+- Ak chceš predvolené vysvetlenie skryť, zruš v úvode kola začiarknutie **Zobraziť vysvetlenie kola**. Táto možnosť sa zobrazí, len keď má typ kola alebo spôsob bodovania predvolené vysvetlenie. Tvoje vlastné vysvetlenie kola sa zobrazí vždy.
 - Vysvetlenie kola sa prekladá ako každý iný text: pridaj ho vo všetkých jazykoch svojho kvízu.
 - Keď kvíz prezentuje quizmaster, herná obrazovka vysvetlenie kola preskočí. Namiesto toho použi scenár pre quizmastera nižšie.
 

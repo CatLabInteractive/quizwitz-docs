@@ -61,7 +61,7 @@ De här poängalternativen finns i panelen med rundalternativ när du redigerar 
 Vissa rundtyper och poängalternativ visar en kort förklaring på spelskärmen före den första frågan, till exempel *”Svara rätt på flera frågor i följd för att nå högre Level och få bonuspoäng.”* när en runda använder Strike-poängsättning. Klicka på **+ Rundans förklaring** i rundans inledning för att ersätta texten med din egen. Du kan också använda den för att förklara en vanlig Trivia-runda, som inte har någon förklaring som standard.
 
 - Lämna fältet tomt för att behålla rundtypens standardförklaring.
-- Om ingen förklaring alls ska visas avmarkerar du **Visa rundans förklaring** i rundans öppning. Spelet hoppar då över både din egen text och standardförklaringen.
+- Om du vill dölja standardförklaringen avmarkerar du **Visa rundans förklaring** i rundans öppning. Alternativet visas bara när rundtypen eller poängmetoden har en standardförklaring. Din egen förklaring till rundan visas alltid.
 - Rundans förklaring översätts som all annan text: lägg till den på alla språk i ditt quiz.
 - När en quizmaster leder quizet hoppar spelskärmen över rundans förklaring. Använd i stället quizmastermanuset nedan.
 
