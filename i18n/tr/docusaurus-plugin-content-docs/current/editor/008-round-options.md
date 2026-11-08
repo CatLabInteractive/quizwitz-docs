@@ -61,7 +61,7 @@ Bu puanlama seçeneklerini bir turu düzenlerken tur seçenekleri panelinde bula
 Bazı tur türleri ve puanlama seçenekleri, ilk sorudan önce oyun ekranında kısa bir açıklama gösterir; örneğin bir tur Strike puanlaması kullandığında *“Art arda soruları doğru cevaplayarak Level atla ve bonus puan kazan.”* metni gösterilir. Bu metni kendi metninle değiştirmek için tur açılışında **+ Tur açıklaması** düğmesine tıkla. Varsayılan olarak açıklaması olmayan normal bir Genel Kültür turunu açıklamak için de kullanabilirsin.
 
 - Tur türünün varsayılan açıklamasını korumak için alanı boş bırak.
-- Hiç açıklama göstermemek için tur açılışında **Tur açıklamasını göster** işaretini kaldır. Oyun o zaman hem kendi metnini hem de varsayılan açıklamayı atlar.
+- Varsayılan açıklamayı gizlemek için tur açılışında **Tur açıklamasını göster** işaretini kaldır. Bu seçenek yalnızca tur türünün veya puanlama seçeneğinin varsayılan bir açıklaması olduğunda görünür. Kendi tur açıklaman her zaman gösterilir.
 - Tur açıklaması diğer tüm metinler gibi çevrilir: quizinin her diline ekle.
 - Quizi bir quizmaster sunduğunda oyun ekranı tur açıklamasını atlar. Bunun yerine aşağıdaki quizmaster metnini kullan.
 

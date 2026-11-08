@@ -61,7 +61,7 @@ Te opcje punktacji znajdziesz w panelu opcji rundy podczas jej edycji.
 Niektóre typy rund i opcje punktacji pokazują na ekranie gry krótkie wyjaśnienie przed pierwszym pytaniem, na przykład *„Odpowiadaj poprawnie na kolejne pytania z rzędu, aby osiągać wyższe Level i zdobywać punkty bonusowe.”*, gdy runda używa punktacji Strike. Kliknij **+ Wyjaśnienie rundy** w otwarciu rundy, aby zastąpić ten tekst własnym. Możesz go też użyć, aby objaśnić zwykłą rundę Trivia, która domyślnie nie ma wyjaśnienia.
 
 - Zostaw pole puste, aby zachować domyślne wyjaśnienie typu rundy.
-- Aby nie pokazywać żadnego wyjaśnienia, odznacz **Pokaż wyjaśnienie rundy** w otwarciu rundy. Gra pominie wtedy zarówno twój własny tekst, jak i domyślne wyjaśnienie.
+- Aby ukryć domyślne wyjaśnienie, odznacz **Pokaż wyjaśnienie rundy** w otwarciu rundy. Ta opcja pojawia się tylko wtedy, gdy typ rundy lub sposób punktacji ma domyślne wyjaśnienie. Twoje własne wyjaśnienie rundy jest zawsze pokazywane.
 - Wyjaśnienie rundy tłumaczy się jak każdy inny tekst: dodaj je w każdym języku swojego quizu.
 - Gdy quiz prowadzi quizmaster, ekran gry pomija wyjaśnienie rundy. Zamiast tego użyj scenariusza quizmastera opisanego poniżej.
 

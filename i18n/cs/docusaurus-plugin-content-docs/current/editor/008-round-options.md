@@ -61,7 +61,7 @@ Tyhle možnosti bodování najdeš v panelu možností kola při úpravě kola.
 Některé typy kol a možnosti bodování zobrazí před první otázkou na herní obrazovce krátké vysvětlení, například *„Odpovězte na následující otázky správně, abyste dosáhli vyšších úrovní a získali bonusové body.“*, když kolo používá bodování Strike. Kliknutím na **+ Vysvětlení kola** v úvodu kola tento text nahradíš vlastním. Můžeš ho použít i k vysvětlení běžného vědomostního kola, které ve výchozím stavu žádné vysvětlení nemá.
 
 - Pokud pole necháš prázdné, zůstane výchozí vysvětlení typu kola.
-- Pokud nechceš zobrazit žádné vysvětlení, zruš v úvodu kola zaškrtnutí **Zobrazit vysvětlení kola**. Hra pak přeskočí tvůj vlastní text i výchozí vysvětlení.
+- Pokud chceš výchozí vysvětlení skrýt, zruš v úvodu kola zaškrtnutí **Zobrazit vysvětlení kola**. Tato možnost se zobrazí jen tehdy, když má typ kola nebo způsob bodování výchozí vysvětlení. Tvoje vlastní vysvětlení kola se zobrazí vždy.
 - Vysvětlení kola se překládá jako každý jiný text: přidej ho ve všech jazycích svého kvízu.
 - Když kvíz uvádí quizmaster, herní obrazovka vysvětlení kola přeskočí. Místo toho použij scénář pro quizmastera popsaný níže.
 

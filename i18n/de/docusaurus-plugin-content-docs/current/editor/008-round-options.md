@@ -61,7 +61,7 @@ Diese Punkteoptionen findest du im Optionen-Panel der Runde beim Bearbeiten eine
 Manche Rundentypen und Punkteoptionen zeigen vor der ersten Frage eine kurze Erklärung auf dem Spielbildschirm, zum Beispiel *„Beantworte aufeinanderfolgende Fragen richtig, um höhere Level zu erreichen und Bonuspunkte zu erhalten.“*, wenn eine Runde die Strike-Punktestrategie verwendet. Klicke in der Rundeneröffnung auf **+ Rundenerklärung**, um diesen Text durch deinen eigenen zu ersetzen. Du kannst damit auch eine normale Trivia-Runde erklären, die standardmäßig keine Erklärung hat.
 
 - Lass das Feld leer, um die Standarderklärung des Rundentyps zu behalten.
-- Wenn gar keine Erklärung erscheinen soll, entferne in der Rundeneröffnung das Häkchen bei **Rundenerklärung anzeigen**. Das Spiel überspringt dann deinen eigenen Text und die Standarderklärung.
+- Um die Standarderklärung auszublenden, entferne in der Rundeneröffnung das Häkchen bei **Rundenerklärung anzeigen**. Die Option erscheint nur, wenn der Rundentyp oder die Punkteoption eine Standarderklärung hat. Deine eigene Rundenerklärung wird immer angezeigt.
 - Die Rundenerklärung wird wie jeder andere Text übersetzt: Füge sie in jeder Sprache deines Quiz hinzu.
 - Wenn ein Quizmaster das Quiz präsentiert, überspringt der Spielbildschirm die Rundenerklärung. Nutze stattdessen das Quizmaster-Skript unten.
 

@@ -61,7 +61,7 @@ Estas opções de pontuação encontram-se no painel de opções da ronda ao edi
 Alguns tipos de ronda e opções de pontuação mostram uma breve explicação no ecrã de jogo antes da primeira pergunta, por exemplo *"Responda perguntas consecutivas corretamente para subir de nível e ganhar pontos bônus."* quando uma ronda usa a pontuação Strike. Clica em **+ Explicação da ronda** na abertura da ronda para substituir esse texto pelo teu. Também a podes usar para explicar uma ronda de trivia normal, que por predefinição não tem explicação.
 
 - Deixa o campo vazio para manter a explicação predefinida do tipo de ronda.
-- Para não mostrar nenhuma explicação, desmarca **Mostrar explicação da ronda** na abertura da ronda. O jogo salta então tanto o teu próprio texto como a explicação predefinida.
+- Para esconder a explicação predefinida, desmarca **Mostrar explicação da ronda** na abertura da ronda. A opção só aparece quando o tipo de ronda ou a opção de pontuação tem uma explicação predefinida. A tua própria explicação da ronda é sempre mostrada.
 - A explicação da ronda é traduzida como qualquer outro texto: adiciona-a em cada idioma do teu quiz.
 - Quando um quizmaster apresenta o quiz, o ecrã de jogo salta a explicação da ronda. Nesse caso, usa o guião do quizmaster descrito abaixo.
 

@@ -61,7 +61,7 @@ Disse alternativene for poengberegning finner du i panelet for rundealternativer
 Noen rundetyper og poengalternativer viser en kort forklaring på spillskjermen før det første spørsmålet, for eksempel *«Svar riktig på flere spørsmål på rad for å nå høyere Level og få bonuspoeng.»* når en runde bruker Strike-poengberegning. Klikk på **+ Rundeforklaring** i starten av runden for å erstatte teksten med din egen. Du kan også bruke den til å forklare en vanlig Trivia-runde, som ikke har noen forklaring som standard.
 
 - La feltet stå tomt for å beholde standardforklaringen for rundetypen.
-- Hvis du ikke vil vise noen forklaring i det hele tatt, fjerner du haken ved **Vis rundeforklaring** i rundens åpning. Spillet hopper da over både din egen tekst og standardforklaringen.
+- Hvis du vil skjule standardforklaringen, fjerner du haken ved **Vis rundeforklaring** i rundens åpning. Valget vises bare når rundetypen eller poengmetoden har en standardforklaring. Din egen rundeforklaring vises alltid.
 - Rundeforklaringen oversettes som all annen tekst: legg den til på hvert språk i quizen din.
 - Når en quizmaster presenterer quizen, hopper spillskjermen over rundeforklaringen. Bruk heller quizmastermanuset nedenfor.
 
