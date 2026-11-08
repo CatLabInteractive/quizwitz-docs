@@ -61,6 +61,7 @@ Queste opzioni di punteggio si trovano nel pannello delle opzioni del round quan
 Alcuni tipi di round e opzioni di punteggio mostrano una breve spiegazione sullo schermo di gioco prima della prima domanda, per esempio *"Rispondi correttamente a domande consecutive per raggiungere livelli più alti e ottenere punti bonus."* quando un round usa il punteggio Strike. Fai clic su **+ Spiegazione del round** nell'apertura del round per sostituire quel testo con il tuo. Puoi usarla anche per spiegare un normale round di trivia, che di default non ha una spiegazione.
 
 - Lascia il campo vuoto per mantenere la spiegazione predefinita del tipo di round.
+- Per non mostrare nessuna spiegazione, togli la spunta da **Mostra la spiegazione del round** nell'apertura del round. Il gioco salta così sia il tuo testo sia la spiegazione predefinita.
 - La spiegazione del round si traduce come qualsiasi altro testo: aggiungila in ogni lingua del tuo quiz.
 - Quando un quizmaster presenta il quiz, lo schermo di gioco salta la spiegazione del round. In quel caso usa lo script del quizmaster descritto qui sotto.
 

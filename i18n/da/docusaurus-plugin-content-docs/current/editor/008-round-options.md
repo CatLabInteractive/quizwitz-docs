@@ -61,6 +61,7 @@ Disse pointindstillinger finder du i panelet med rundeindstillinger, når du red
 Nogle rundetyper og pointindstillinger viser en kort forklaring på spilskærmen før det første spørgsmål, for eksempel *"Svar rigtigt på flere spørgsmål i træk for at nå et højere Level og få bonuspoint."*, når en runde bruger Strike-pointgivning. Klik på **+ Forklaring til runden** i rundens åbning for at erstatte teksten med din egen. Du kan også bruge den til at forklare en almindelig Trivia-runde, som ikke har nogen forklaring som standard.
 
 - Lad feltet være tomt for at beholde rundetypens standardforklaring.
+- Hvis der slet ikke skal vises nogen forklaring, så fjern fluebenet ved **Vis forklaring til runden** i rundens åbning. Spillet springer så både din egen tekst og standardforklaringen over.
 - Forklaringen til runden oversættes som al anden tekst: tilføj den på alle sprogene i din quiz.
 - Når en quizmaster præsenterer quizzen, springer spilskærmen forklaringen til runden over. Brug i stedet quizmastermanuskriptet nedenfor.
 

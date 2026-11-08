@@ -61,6 +61,7 @@ Nämä pisteytysasetukset löytyvät kierroksen asetuspaneelista kierrosta muoka
 Jotkin kierrostyypit ja pisteytysasetukset näyttävät pelinäytöllä lyhyen selityksen ennen ensimmäistä kysymystä, esimerkiksi *”Vastaa peräkkäisiin kysymyksiin oikein, niin nouset korkeammalle tasolle ja saat bonuspisteitä.”*, kun kierros käyttää Strike-pisteytystä. Napsauta kierroksen alussa **+ Kierroksen selitys**, jos haluat korvata tekstin omallasi. Voit käyttää sitä myös tavallisen Trivia-kierroksen selittämiseen, sillä sillä ei oletuksena ole selitystä.
 
 - Jätä kenttä tyhjäksi, jos haluat säilyttää kierrostyypin oletusselityksen.
+- Jos et halua näyttää mitään selitystä, poista valinta kohdasta **Näytä kierroksen selitys** kierroksen avauksessa. Peli ohittaa silloin sekä oman tekstisi että oletusselityksen.
 - Kierroksen selitys käännetään kuten mikä tahansa muu teksti: lisää se visasi jokaiselle kielelle.
 - Kun visamestari juontaa visan, pelinäyttö ohittaa kierroksen selityksen. Käytä sen sijaan alla olevaa visamestarin käsikirjoitusta.
 

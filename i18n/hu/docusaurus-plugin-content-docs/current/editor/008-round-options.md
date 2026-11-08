@@ -61,6 +61,7 @@ Ezeket a pontozási beállításokat a kör szerkesztésekor a körbeállításo
 Egyes fordulótípusok és pontozási beállítások az első kérdés előtt rövid magyarázatot jelenítenek meg a játékképernyőn, például *„Folytatólagosan helyesen válaszolj, hogy magasabb szintekre juss, és bónuszpontokat kapj.”*, ha a forduló Strike pontozást használ. Kattints a forduló elején a **+ Kör magyarázata** gombra, hogy ezt a szöveget a sajátodra cseréld. Egy hagyományos Trivia forduló magyarázatára is használhatod, amelynek alapértelmezés szerint nincs magyarázata.
 
 - Hagyd üresen a mezőt, ha a fordulótípus alapértelmezett magyarázatát szeretnéd megtartani.
+- Ha egyáltalán nem szeretnél magyarázatot, vedd ki a pipát a **Forduló magyarázatának megjelenítése** elől a forduló nyitásában. A játék ekkor a saját szövegedet és az alapértelmezett magyarázatot is kihagyja.
 - A forduló magyarázata ugyanúgy fordítandó, mint bármely más szöveg: add meg a kvízed minden nyelvén.
 - Ha egy quizmaster vezeti a kvízt, a játékképernyő kihagyja a forduló magyarázatát. Helyette használd az alábbi quizmaster-szkriptet.
 
