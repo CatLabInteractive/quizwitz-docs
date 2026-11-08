@@ -110,6 +110,12 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgr
 
 ![Een screenshot van het Emerald-thema met aangepaste modificators](/images/emerald/theme_properties.png)
 
+### Het thema aanpassen vanuit de quiz-editor
+
+De snelste manier om de aanpassers in te stellen is de knop **Thema aanpassen** in de quizinstellingen, onder de lijst met thema's. Die opent de thematester met je quiz, waar je de kleuren en lettertypes kiest die het thema aanbiedt en meteen het resultaat ziet. Klik op **Instellingen toepassen op quiz** en de editor selecteert het thema en slaat de aanpassers op in je quiz.
+
+De knop vraagt een opgeslagen quiz en Premium, en werkt op een computer: de thematester past niet op een telefoon.
+
 ### De aanpassers opslaan in je quiz
 
 Je hoeft de parameters niet bij elke link met de hand toe te voegen. Open **Delen of insluiten** in de quiz-editor, klap **Geavanceerde spelopties** open, plak de parameters (zonder het vraagteken vooraan, bijvoorbeeld `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) in het veld **onbewerkte query string** en klik op **Instellingen opslaan voor quiz**. Vanaf dan bevat elke speellink en deellink van de quiz ze.

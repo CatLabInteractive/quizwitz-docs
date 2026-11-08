@@ -110,6 +110,12 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgr
 
 ![Képernyőkép az Emerald témáról egyéni módosítókkal](/images/emerald/theme_properties.png)
 
+### A téma testreszabása a kvízszerkesztőből
+
+A módosítók beállításának leggyorsabb módja a kvízbeállításokban, a témák listája alatt található **Téma testreszabása** gomb. Megnyitja a téma tesztelőt a kvízeddel, ahol kiválaszthatod a téma által kínált színeket és betűtípusokat, és azonnal láthatod az eredményt. Kattints a **Beállítások alkalmazása a kvízre** gombra, és a szerkesztő kiválasztja a témát, majd elmenti a módosítókat a kvízedbe.
+
+A gombhoz mentett kvíz és Premium kell, és számítógépen működik: a téma tesztelő nem fér el telefonon.
+
 ### A módosítók mentése a kvízbe
 
 Nem kell minden linkhez kézzel hozzáadnod a paramétereket. Nyisd meg a kvízszerkesztőben a **Megosztás vagy beágyazás** ablakot, bontsd ki a **Speciális játékbeállítások** részt, illeszd be a paramétereket (a kezdő kérdőjel nélkül, például `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) a **nyers lekérdezési karakterlánc** mezőbe, majd kattints a **Beállítások mentése a quizbe** gombra. Ettől kezdve a kvíz minden játék- és megosztási linkje tartalmazza őket.

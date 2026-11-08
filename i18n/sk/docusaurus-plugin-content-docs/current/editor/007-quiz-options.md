@@ -26,6 +26,7 @@ Vyber vizuálnu tému pre svoj kvíz.
 - Predvolená téma je **QuizWitz**
 - Tvoja organizácia môže mať prístup k vlastným témam
 - Témy ovplyvňujú pozadie, farby a rozloženie
+- **Prispôsobiť motív** pod zoznamom motívov otvorí tester motívu, kde môžeš zmeniť farby a písma motívu a použiť ich na svoj kvíz (Premium, na počítači)
 
 📘 Viac detailov o prispôsobovaní vizuálov s touto témou nájdeš v [dokumentácii témy Emerald](../advanced/011-emerald-theme.md).
 

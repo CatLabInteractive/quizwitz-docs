@@ -26,6 +26,7 @@ Kies een visueel thema voor je quiz.
 - Het standaardthema is **QuizWitz**
 - Je organisatie kan toegang hebben tot aangepaste thema's
 - Thema's beïnvloeden achtergrond, kleuren en lay-out
+- **Thema aanpassen**, onder de lijst met thema's, opent de thematester om de kleuren en lettertypes van het thema te wijzigen en op je quiz toe te passen (Premium, op een computer)
 
 📘 Zie de [Emerald thema documentatie](../advanced/011-emerald-theme.md) voor meer informatie over het aanpassen van de visuals met dit thema.
 

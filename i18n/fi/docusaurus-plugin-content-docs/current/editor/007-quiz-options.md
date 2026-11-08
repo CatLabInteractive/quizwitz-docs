@@ -26,6 +26,7 @@ Valitse visallesi visuaalinen teema.
 - Oletusteema on **QuizWitz**
 - Organisaatiollasi voi olla käytössä omia teemoja
 - Teemat vaikuttavat taustaan, väreihin ja asetteluun
+- **Mukauta teemaa** teemaluettelon alla avaa teematestaajan, jossa voit muuttaa teeman värejä ja fontteja ja käyttää niitä visassasi (Premium, tietokoneella)
 
 📘 Lisätietoja visuaalisen ilmeen mukauttamisesta tällä teemalla löydät [Emerald-teeman dokumentaatiosta](../advanced/011-emerald-theme.md).
 

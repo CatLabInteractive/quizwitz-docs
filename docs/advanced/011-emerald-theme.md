@@ -108,6 +108,12 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgr
 
 ![A screenshot of the Emerald theme with custom modifiers](/images/emerald/theme_properties.png)
 
+### Customize the theme from the quiz editor
+
+The quickest way to set the modifiers is the **Customize theme** button in the quiz settings, under the list of themes. It opens the theme tester with your quiz, where you can pick the colors and fonts the theme offers and see the result right away. Click **Apply settings to quiz** and the editor selects the theme and stores the modifiers on your quiz.
+
+The button needs a saved quiz and Premium, and works on a computer: the theme tester does not fit on a phone.
+
 ### Saving the modifiers on your quiz
 
 You don't have to add the parameters to every link by hand. Open **Share or embed** in the quiz editor, expand **Advanced game options** and paste the parameters (without the leading question mark, for example `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) into the **raw query string** field and click **Save settings to quiz**. Every play link and share link of the quiz carries them from then on.

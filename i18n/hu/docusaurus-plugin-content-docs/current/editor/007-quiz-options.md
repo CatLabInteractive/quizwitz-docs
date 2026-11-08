@@ -26,6 +26,7 @@ Válassz vizuális témát a kvízedhez.
 - Az alapértelmezett téma a **QuizWitz**
 - A szervezetednek hozzáférése lehet egyedi témákhoz
 - A témák hatással vannak a háttérre, a színekre és az elrendezésre
+- A témák listája alatti **Téma testreszabása** megnyitja a téma tesztelőt, ahol módosíthatod a téma színeit és betűtípusait, és alkalmazhatod őket a kvízedre (Premium, számítógépen)
 
 📘 A vizuális elemek testreszabásáról ezzel a témával az [Emerald téma dokumentációjában](../advanced/011-emerald-theme.md) találsz további részleteket.
 

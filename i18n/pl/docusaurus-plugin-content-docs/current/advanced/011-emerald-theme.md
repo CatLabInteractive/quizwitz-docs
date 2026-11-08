@@ -110,6 +110,12 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgr
 
 ![Zrzut ekranu motywu Emerald z własnymi modyfikatorami](/images/emerald/theme_properties.png)
 
+### Dostosowywanie motywu w edytorze quizu
+
+Najszybszy sposób na ustawienie modyfikatorów to przycisk **Dostosuj motyw** w ustawieniach quizu, pod listą motywów. Otwiera on tester motywów z twoim quizem, gdzie możesz wybrać kolory i czcionki oferowane przez motyw i od razu zobaczyć efekt. Kliknij **Zastosuj ustawienia do quizu**, a edytor wybierze motyw i zapisze modyfikatory w twoim quizie.
+
+Przycisk wymaga zapisanego quizu i Premium oraz działa na komputerze: tester motywów nie mieści się na telefonie.
+
 ### Zapisywanie modyfikatorów w quizie
 
 Nie musisz ręcznie dodawać parametrów do każdego linku. Otwórz **Udostępnij lub osadź** w edytorze quizu, rozwiń **Zaawansowane opcje gry**, wklej parametry (bez początkowego znaku zapytania, na przykład `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) w pole **surowy ciąg zapytania** i kliknij **Zapisz ustawienia w quizie**. Od tej pory zawiera je każdy link do gry i każdy link do udostępnienia quizu.

@@ -26,6 +26,7 @@ Vyber vizuální motiv pro svůj kvíz.
 - Výchozí motiv je **QuizWitz**
 - Tvoje organizace může mít přístup k vlastním motivům
 - Motivy ovlivňují pozadí, barvy a rozložení
+- **Přizpůsobit motiv** pod seznamem motivů otevře tester motivu, kde můžeš změnit barvy a písma motivu a použít je na svůj kvíz (Premium, na počítači)
 
 📘 Další podrobnosti o přizpůsobení vizuálů s tímto motivem najdeš v [dokumentaci k motivu Emerald](../advanced/011-emerald-theme.md).
 

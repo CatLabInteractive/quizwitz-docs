@@ -110,6 +110,12 @@ https://play.quizwitz.com/11486:gFUabUFh7i/emerald-theme-tutorial-default?backgr
 
 ![Et skjermbilde av Emerald-temaet med egne modifikatorer](/images/emerald/theme_properties.png)
 
+### Tilpass temaet fra quizeditoren
+
+Den raskeste måten å stille inn modifikatorene på er knappen **Tilpass tema** i quizinnstillingene, under listen over temaer. Den åpner tematesteren med quizen din, der du kan velge fargene og skriftene temaet tilbyr og se resultatet med en gang. Klikk på **Bruk innstillingene på quizen**, så velger editoren temaet og lagrer modifikatorene i quizen din.
+
+Knappen krever en lagret quiz og Premium, og fungerer på en datamaskin: tematesteren får ikke plass på en telefon.
+
 ### Lagre modifikatorene i quizen
 
 Du trenger ikke å legge parameterne til hver lenke for hånd. Åpne **Del eller bygg inn** i quizeditoren, utvid **Avanserte spillalternativer**, lim inn parameterne (uten spørsmålstegnet først, for eksempel `backgroundColor=ff1b6b-45caff&accentColor=00ff87`) i feltet **rå spørrestreng** og klikk på **Lagre innstillingene i quizen**. Fra da av har alle spillelenker og delingslenker til quizen dem med.

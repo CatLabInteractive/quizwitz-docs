@@ -26,6 +26,7 @@ Wybierz motyw wizualny dla swojego quizu.
 - Domyślny motyw to **QuizWitz**
 - Twoja organizacja może mieć dostęp do własnych motywów
 - Motywy wpływają na tło, kolory i układ
+- **Dostosuj motyw**, pod listą motywów, otwiera tester motywów, w którym możesz zmienić kolory i czcionki motywu i zastosować je do swojego quizu (Premium, na komputerze)
 
 📘 Więcej informacji o dostosowywaniu wyglądu za pomocą tego motywu znajdziesz w [dokumentacji motywu Emerald](../advanced/011-emerald-theme.md).
 
